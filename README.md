@@ -18,3 +18,9 @@ The folders `dataset > train`, `dataset > val`, and `dataset > test` respectivel
 
 ## Codes
 Codes for our baselines and proposed model **ECT-BPS** can be found under `codes`
+
+## Survey
+We give below the links to some of the survey forms which were provided to the financial experts for the human evaluation experiment:
+- Form 1: https://forms.gle/y5xg7VuqqtPiLLY39
+- Form 2: https://forms.gle/rKVDKz8TiWSNn8kK9
+- Form 3: https://forms.gle/pWtexZqM9TXGGoCAA
