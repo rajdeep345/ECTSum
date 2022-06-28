@@ -1,0 +1,134 @@
+I'm Laura Adams, chief accounting officer and interim head of investor relations.
+And with me to talk about our business and financial results are Horacio Rozanski, our president and chief executive officer; and Lloyd Howell, executive vice president, chief financial officer, and treasurer.
+During today's call, we will also discuss some non-GAAP financial measures and other metrics, which we believe provide useful information for investors.
+We are now on Slide 4.
+Today, Lloyd and I will share our third quarter results in the context of our fiscal year 2022 guidance and our multi-year investment thesis.
+We will also describe the underlying dynamics of our business and the progress we are making on our VoLT strategy.
+To set the context, let's go back to our October Investor Day, where we outlined our VoLT strategy and associated financial goals.
+As a reminder, VoLT stands for velocity, leadership, and technology.
+It is a strategic program Booz Allen has launched to capitalize on our first mover advantage in helping the federal government transform core missions through the use of new technologies.
+Over the next few years, we look to grow faster by building scaled positions in critical areas such as national cyber and digital battlespace.
+We are in the early stages of this journey, but are already making strides and seeing strong progress.
+As part of VoLT, we have set new multi-year financial goals that deliver both strong profit growth and continued investment in our business.
+Our investment thesis centers on growing adjusted EBITDA dollars from $840 million in fiscal year 2021 to $1.2 billion to $1.3 billion in fiscal year 2025.
+That's approximately a 50% increase.
+We expect this increase to be accomplished through 5% to 8% annual organic revenue growth, adjusted EBITDA margins in the mid-10s, and $3.5 billion to $4.5 billion in total capital deployment that prioritizes strategic acquisitions.
+Our expectations for fiscal year 2022 were consistent with these goals.
+Gross revenue growth in the 7% to 10% range and adjusted diluted earnings per share in the range of $4.10 to $4.30.
+We also said this fiscal year growth pattern would look different from recent years, with slower revenue growth in the first half and significant acceleration in the second half.
+Our revenue growth in the third quarter was lighter than we expected.
+And while we forecast strong fourth quarter revenue growth, we're lowering our full fiscal year 2022 revenue outlook to account for a slower pace.
+Lloyd will take you through the quarter results and our updated guidance in greater depth.
+There were several factors that contributed to the revenue dynamics for the quarter.
+On the positive side, we continue to win the right kind of work and hire the right people, as reflected in our backlog growth and headcount increases over the last 12 months.
+Conversely, the translation of those positives into revenue growth was slower than historical standards, driven by a number of factors, including a protracted continuing resolution; a higher dollar value of awards under protest; delayed awards and slower ramp-up on sold contracts; lower staff productivity due in large part to the omicron variant surging during the quarter; and lower-than-anticipated billable expenses.
+These dynamics impacted our entire portfolio and some pockets of our defense business were especially hard hit due in part to the number of large awards delayed and a greater proportion of billable expenses in their revenue base.
+Looking ahead, we see some of these challenging dynamics continuing into the coming months.
+As a result, we are taking a three-pronged approach to proactively manage through this environment.
+First, we are addressing those business areas where we see the greatest funding uncertainty.
+Second, we are continuing to control costs in order to deliver on our commitments to both grow adjusted EBITDA and invest in our business.
+And third, we are doubling down on areas of significant growth opportunity shifting resources across the portfolio by leveraging our unique operating model and single P&L.
+In short, we continue to lean into growth while managing tightly in the face of greater market volatility.
+Before turning the call over to Lloyd, let me return to the longer-term outlook and the progress we have made in our business so far.
+As we look ahead, we remain on track to deliver strong growth in adjusted EBITDA through fiscal year 2025, supported by continued revenue growth, stable adjusted EBITDA margins, and strategic deployment of capital.
+Our confidence in the future is predicated in our belief that we have the right strategy and the proven ability to execute in both good times and challenging ones.
+And several accomplishments from the last few months underscore these points.
+First, we continue to win the right kind of work at the center of national priorities where innovation can help the government transform the way the mission is executed.
+Our clients from the Department of Veterans Affairs to the Air Force are looking to Booz Allen for expertise in areas such as DevSecOps, AI, and the commercialization of new technologies to advance their missions.
+Second, we are making key investments that differentiate our service to clients.
+For example, last December, as part of our ramp-up on national cyber, we announced the opening of our carrier-grade 5G lab in Central Maryland.
+The lab offers a state-of-the-art testing environment for secure, cyber-resilient 5G solutions.
+Similarly, as we advance our work on digital battlespace, we are significantly expanding our footprint in Honolulu.
+This investment deploys into the INDOPACOM region some of our most advanced capabilities to expand our support of several high-priority client missions.
+Third, we are successfully using acquisitions as strategic accelerators.
+Liberty and Tracepoint continue to deliver the strategic and financial value we expected.
+Integration is going well, and we are extremely pleased with the upside these acquisitions create.
+And in addition, we continue to build our acquisition pipeline.
+And fourth, and perhaps most importantly, we continue to strengthen our team and ensure we have the focus and resiliency to support our clients as they too manage through a volatile environment.
+I am extremely proud of our workforce for achieving complete compliance with our COVID vaccination requirement.
+Our purpose and values are at the core of everything we do, so we believe that prioritizing the health and safety of all our employees is the right thing to do for our institution, our clients, and our communities.
+Furthermore, a fully vaccinated workforce allows us to better serve our clients, supports safer in-person collaboration, and is critical to entering a post-pandemic phase.
+Together, always together, the people of Booz Allen are forging ahead with relentless focus on our clients' missions and our growth strategy.
+This is what delivers the consistent results that create long-term shareholder value.
+And with that, I'll give the floor to Lloyd for more details on the third quarter, the fiscal year and our investment thesis.
+Lloyd, over to you.
+As we near the end of fiscal year 2022, a year marked by many twists and turns, we have continued to build on our underlying fundamentals, which have supported our expectations for second half performance outpacing first half.
+And while top line growth and cash did not deliver at the levels we anticipated, we are delivering the bottom line results we need to invest in our business and our people to achieve our long-term growth initiatives.
+With three quarters now completed and greater visibility into the fourth quarter, we are seeing some transitory changes at the macro level that are impacting overall market performance.
+Expanding on what Horacio said, just as we believe that we were turning the corner on the pandemic's impacts and reverting to more predictable business patterns, we were hit by omicron, which led to another spike in PTO, resulting in staff utilization rates not normalizing as we had anticipated.
+This, coupled with an overhang effect from the continuing resolution, has impacted our ability to convert strong demand into top line growth.
+We factored some of this uncertainty into our 2022 fiscal year guidance, but we did not fully anticipate the impact of the second wave on utilization, nor did we foresee the delays in translating wins into revenue generation.
+I will get into more detail shortly when I give updated guidance.
+At the top line, revenue increased 6.6% year over year to $2 billion, which includes approximately $117 million from inorganic contributions.
+Revenue, excluding billable expenses, grew 6.2% year over year to $1.4 billion.
+Revenue growth was slower this quarter for the following three reasons: first, funding delays resulting in slower ramp on new work and existing work; second, lower staff utilization resulting from an uptick in PTO taken over the holiday period, due in part to a rise in COVID cases and the inclusion of the New Year's Eve holiday in this quarter's results.
+And third, billable expenses continued to be pressured by slower travel patterns and the timing of material purchases getting pushed to the right.
+Taken together, these factors are largely timing issues that we believe will dissipate as we return to more normal business rhythms.
+Now let me walk through the market level performance.
+Revenue declined by 2.2% year over year and has been trending down quarter over quarter.
+Since defense is roughly 50% of our business portfolio and largely comprised of cost reimbursable work, the macro factors and subsequent top line impacts I noted were especially impactful in this market.
+More specifically, to expand on what Horacio said, our Army account was hit the hardest by some of these dynamics, where our performance was impacted by budgetary challenges, slowness, and ramp-ups, and some losses.
+Going forward, our defense leadership is doubling down on addressing these issues by growing headcount, managing utilization, and aggressively deploying talent to capture the highest value opportunities, including hyper growth initiatives such as our digital battlespace platform.
+In civil, revenue grew by 25.3% year over year, of which 5.1% was organic, marking our second consecutive quarter of strong double-digit growth.
+Our results reflect solid performance across the portfolio, particularly in health, where we see strong alignment with the administration's priorities, which are yielding important wins.
+Additionally, Liberty continues to strengthen our unique market position as we prepare to leverage integrated capabilities in the areas of cloud, DevSecOps, and API development to pursue additional market share across our broader portfolio.
+In Intelligence, we recorded our second consecutive quarter of growth at 0.8% year over year.
+This continued improvement in performance reflects our ability to hire ahead of growing demand and capitalize on our mission expertise and advanced technological offerings to secure key recompetes and new work opportunities.
+This positions us for multiyear growth in key areas, including digital modernization, artificial intelligence and high-end data analytics.
+Lastly, global commercial revenue grew 26.7% compared to the prior-year period.
+commercial cyber business and contributions from Tracepoint, where we are seeing strong cross-selling momentum and early synergies.
+We are now on Slide 6.
+Net bookings for the third quarter were approximately $797 million, up 29% over the prior-year period, translating to a quarterly book-to-bill of 0.39 times and a trailing 12-month book-to-bill of 1.28 times.
+Total backlog grew approximately 19.2% year over year to $27.8 billion.
+Funded backlog grew 11.7% to $4 billion.
+Unfunded backlog grew 57.7% to $9.4 billion.
+And price options grew 4.4% to $14.3 billion.
+These results underscore continued demand and strong alignment to our clients' core missions in the areas of artificial intelligence, cyber and digital modernization, to name a few and further, our position as a trusted partner and market leader.
+Looking ahead, as we continue to pursue larger and more technically complex bids, we anticipate that ongoing protests will become part of the normal business cycle, which we are increasingly factoring into our operating plan.
+As of December 31, we had approximately 29,500 employees, an increase of approximately 1,900 year over year or 6.8%.
+The labor market for tech and tech-adjacent talent remains highly competitive, but we are pleased that we continue to successfully execute on our hiring and retention strategies, a reflection of our appeal as an employer of choice.
+This resulted in a third consecutive quarter of mid-single-digit headcount growth, consistent with our expectations.
+Moving to the bottom line.
+Adjusted EBITDA for the quarter was $222 million, up 8% from the prior-year period.
+Adjusted EBITDA margin on revenue was 10.9% compared to 10.8% in the prior-year period.
+The increase in adjusted EBITDA margin was driven by three factors: first, profitable contract level performance and mix, which includes inorganic contributions; second, prudent cost management; and third, a return to billing for fee within Intel, which had a $2 million negative impact on the prior-year period under the CARES Act, a tailwind that will taper off after this quarter.
+Third quarter net income decreased 10.8% year over year to $129 million.
+Adjusted net income was $137 million, down 5.5% year over year.
+Diluted earnings per share decreased 7.8% to $0.95 from $1.03 the prior-year period.
+And adjusted diluted earnings per share decreased 1.9% to $1.02 from $1.04.
+Both GAAP and non-GAAP metrics were impacted by a higher effective tax rate following the release of an income tax reserve of $10.2 million in the prior-year period related to the Aquilent acquisition, as well as higher interest expense partially offset by a lower share count due to our share repurchase program.
+Our non-GAAP metrics exclude certain acquisition costs and the noncash gain of $7.1 million from the spin-off of SnapAttack during the quarter.
+Cash from operations was $21 million in the third quarter, down from $233 million in the prior year comparable period.
+Operating cash performance is volatile quarter-to-quarter, and the decline in this period was more pronounced due to some of the factors impacting top line growth, coupled with higher disbursements.
+As we have done before, we are focused on our working cash management and cash collection efforts to continue improving our operating cash performance and reinforce our strong balance sheet.
+Year to date, we have generated $481 million in operating cash flow and $430 million in free cash flow for a free cash flow conversion rate nearing 100% and supporting our strong balance sheet positioning and capital deployment priorities.
+During the quarter, we deployed approximately $139 million, inclusive of $50 million in quarterly dividends and $83 million in share repurchases.
+Today, we are also pleased to announce that the Board has increased our quarterly dividend by $0.06 to $0.43 per share, payable on March 2 to stockholders of record on February 11.
+This marks our ninth consecutive fiscal year of increasing our quarterly dividend, a testament to our fundamental strength and promise to continue growing our dividend, even in a more challenging operating environment.
+With one quarter left in this fiscal year, we remain committed to a patient, disciplined capital allocation strategy, leveraging our strong balance sheet position to deploy capital in an accretive manner, creating near- and long-term shareholder value.
+As we have said in October, our capital deployment priorities remain focused on strategic M&A to enhance growth while sustaining a healthy dividend and opportunistically repurchasing shares.
+Let me now walk you through how the puts and takes from the quarter translate into updates to our full year fiscal 2022 guidance.
+Please move to Slide 8.
+Despite lighter revenue and operating cash challenges this quarter, we are proud of our team's efforts to manage the business, controlling what we can in spite of another wave of macro environmental challenges.
+These efforts have enabled margin expansion with solid ADEPS performance throughout this fiscal year as we reinforce the strength of our fundamentals and balance sheet in preparation to execute on our investment thesis.
+In the fourth quarter, we were laser-focused on executing against our operational priorities.
+We will continue to aggressively hire ahead of demand, capitalizing on our strong portfolio of new work opportunities to sustain long-term organic growth.
+We will efficiently manage the business by investing in our people and technology to lead the next wave of innovation.
+And lastly, continue to build our M&A pipeline and acquire businesses that meet our disciplined criteria to serve as strategic accelerators.
+Our revised guidance reflects these efforts in addition to the third quarter performance and trends I just outlined.
+Let me run through the numbers.
+For the full fiscal year, revenue growth is now expected to be in the range of 5.7% to 7.2%.
+At the midpoint, our revised guidance range reflects $100 million to $220 million of revenues tied to the uncertainties we outlined earlier.
+They break down as follows: $30 million to $80 million tied to funding delays and resulting slowness in deploying staff on sold and funded work; $20 million to $40 million tied to an incremental step down in staff utilization due largely to the continuing pandemic and PTO usage; and $50 million to $100 million from lower pandemic-related travel and the timing of material purchase getting pushed to the right.
+As a reminder, the inclusion of the New Year's Eve holiday and minor timing differences in the costing of labor related to the implementation of our next-gen financial management system will become tailwinds in the fourth quarter, adding roughly 175 basis points to the top line.
+On the bottom line, we now expect adjusted EBITDA margin for the fiscal year to be approximately 11%.
+This increase reflects our considerable control over our cost structure and margin levers even in times of uncertainty.
+We are reaffirming our adjusted diluted earnings per share guidance to be between $4.10 and $4.30.
+We now expect operating cash to be between $700 million and $750 million.
+The incremental step-down follows our expectations for lower top line growth and accounts for the $56 million of onetime payments in connection with the Liberty acquisition, which we had anticipated being able to make up through a combination of working capital management and operating performance.
+As I mentioned, we will remain laser-focused on optimizing our working capital to return to the strong level of cash conversion we have historically delivered to position us ahead of future growth initiatives.
+And finally, we continue to expect capital expenditures to be between $80 million to $100 million.
+As we move toward our investment thesis, I remain confident in our team's ability to manage through these times of uncertainty as we have proven our ability to do over the years.
+We will continue to execute on our near-term growth objectives and remain confident in the long-term trajectory of the business, upholding our role as the industry leader in meeting the high standards our shareholders have come to expect.
+With that, over to you, Laura.
+Operator, please open the lines.
