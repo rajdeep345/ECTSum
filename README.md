@@ -4,7 +4,7 @@
 <p align="center"><img src="https://anonymous.4open.science/r/ECTSum-30AE/figures/updated_figure_3.png" width="1380px" height="340px"></p>
 Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries   
 <p><br></p>
-<p><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_4.png" width="460px" height="240px"></p>
+<p><img src="https://anonymous.4open.science/r/ECTSum-30AE/figures/updated_figure_4.png" width="460px" height="240px"></p>
 Updated Table 4: Results for evaluation by 10 finance experts
 <p><br></p>
 
