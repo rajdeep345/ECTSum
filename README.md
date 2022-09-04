@@ -25,6 +25,6 @@ We give below the links to some of the survey forms which were provided to the f
 - Form 2: https://forms.gle/rKVDKz8TiWSNn8kK9
 - Form 3: https://forms.gle/pWtexZqM9TXGGoCAA
 
-##Updated Metrics
-<p align="center"><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/Updated_Figure_3.png" width="1380px" height="180px"></p>
+## Updated Metrics
+<p align="center"><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_3.png" width="1380px" height="180px"></p>
 Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries
