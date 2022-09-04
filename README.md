@@ -27,6 +27,8 @@ We give below the links to some of the survey forms which were provided to the f
 
 ## Updated Metrics
 <p align="center"><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_3.png" width="1380px" height="340px"></p>
-Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries   <br />
+Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries   
+<p><br></p>
 <p><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_4.png" width="460px" height="240px"></p>
-Updated Table 4: Results for evaluation by 10 finance experts   <br />
+Updated Table 4: Results for evaluation by 10 finance experts
+<p><br></p>
