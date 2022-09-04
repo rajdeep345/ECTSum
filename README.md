@@ -1,5 +1,13 @@
 # EMNLP 2022 Submission - ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts
 
+## Updated Survey Results
+<p align="center"><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_3.png" width="1380px" height="340px"></p>
+Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries   
+<p><br></p>
+<p><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_4.png" width="460px" height="240px"></p>
+Updated Table 4: Results for evaluation by 10 finance experts
+<p><br></p>
+
 ## Note To The Reviewers:
 A few links given in the paper are not working unfortunately. Please find the proper links below:
 - Page 3 Link 9
@@ -25,10 +33,3 @@ We give below the links to some of the survey forms which were provided to the f
 - Form 2: https://forms.gle/rKVDKz8TiWSNn8kK9
 - Form 3: https://forms.gle/pWtexZqM9TXGGoCAA
 
-## Updated Metrics
-<p align="center"><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_3.png" width="1380px" height="340px"></p>
-Updated Figure 3: Histogram distribution for human evaluation scores assigned to model-generated summaries   
-<p><br></p>
-<p><img src="https://github.com/rajdeep345/ECTSum/blob/main/figures/updated_figure_4.png" width="460px" height="240px"></p>
-Updated Table 4: Results for evaluation by 10 finance experts
-<p><br></p>
