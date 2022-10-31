@@ -1,0 +1,136 @@
+All of these materials can be found on our website at travelers.com under the Investors section.
+Speaking today will be Alan Schnitzer, Chairman and CEO; Dan Frey, Chief Financial Officer; and our three segment presidents: Greg Toczydlowski of Business Insurance; Tom Kunkel of Bond & Specialty Insurance; and Michael Klein of Personal Insurance.
+They will discuss the financial results of our business and the current market environment.
+Also in our remarks or responses to questions we may mention some non-GAAP financial measures.
+We are very pleased to report first quarter core income $699 million or $2.73 per diluted share, both up from the prior-year quarter, despite our highest ever level of first quarter catastrophe losses.
+The higher level of core income for the quarter was driven by very strong underlying underwriting income as well as higher levels of favorable prior year reserve development and net investment income, all of which more than offset the record level of catastrophe losses.
+Underlying underwriting income of $735 million pre-tax was nearly 25% higher than in the prior-year quarter driven by an increase in net earned premiums to $7.4 billion and an underlying combined ratio, which improved almost 2 points to an excellent 89.5%.
+We are particularly pleased with the strong underlying fundamentals in all three of our business segments.
+In Business Insurance, the underlying combined ratio improved by more than three points, which again included the benefit of earned pricing that exceeded loss cost trends.
+On Specialty Insurance and Personal Insurance, both benefited from higher earned premiums with continued strong margins.
+Turning to investments, our high-quality investment portfolio continued to perform well, generating net investment income of $590 million after-tax for the quarter, up 14% from the prior-year quarter.
+These results together with our strong balance sheet enabled us to grow adjusted book value per share by 9% over the past year after making important investments in our business and returning excess capital to shareholders.
+During the quarter we returned $613 million of excess capital to shareholders, including $397 million through share repurchases.
+In recognition of our strong financial position and confidence in our business, I'm pleased to share that our board of directors declared a 4% increase in our quarterly cash dividend to $0.88 per share, marking 17 consecutive years of dividend increases, with a compound annual growth rate of 9% over that period.
+Our board also authorized an additional $5 billion of share repurchases.
+We remain pleased with the execution of our marketplace strategies.
+During the quarter, we grew net written premiums by 2% to $7.5 billion.
+Our premium growth once again reflects strong renewal premium change and retention in each of our three segments.
+In Business Insurance, renewal premium change increased to 9.2%; its highest level since 2013 and 4 points higher than the prior year quarter, while retention remained strong.
+In workers' compensation, pure renewal rate change was slightly negative, but continued on an improving trend.
+Workers' comp renewal premium change, which includes exposure, was positive for the first time in a number of quarters.
+Both renewal rate change, annual premium change in every other product line were near or above recent record highs.
+Net written premiums in Business Insurance were down a little bit year over year, driven overwhelmingly by the workers' comp product line, primarily reflecting the impact of the pandemic on payrolls, as we're comparing a pandemic-impacted quarter in the current year to a largely pre-pandemic quarter in the prior year.
+Bond & Specialty Insurance, net written premiums increased by 9%, driven by a renewal premium change of nearly 11% in our management liability business, while retention remained strong.
+Across our commercial businesses, the pricing environment continues to be rational and favorable with written pricing well above estimated loss cost trends.
+Overall pricing levels continue to be near record levels, and while margins have improved, given the continued headwinds impacting returns for the industry, we expect pricing to continue to outpace loss trend for some time.
+Turning to Personal Insurance, production was excellent in the quarter.
+Net written premiums increased by nearly 7%, driven by renewal premium change of almost 8% in our homeowners business and strong retention and new business in both auto and home.
+New business for both auto and home combined was up 17% compared to the prior year quarter, which is the ninth consecutive quarter of double-digit growth in new business, demonstrating the ongoing success of our product, distribution, and customer initiatives.
+Some number of years ago and consistent with our approach generally of recognizing, assessing, and addressing trends rapidly, we took decisive action in anticipation of continued weather volatility.
+Our efforts started with talent.
+We added experts in data science, meteorology, geophysics, and environmental engineering, among others, to our cat management organization.
+We also established dedicated teams for each catastrophe peril with the goal of developing industry-leading scientific and underwriting expertise.
+We have incorporated the results into our product development, risk selection, pricing, capital allocation, and claim response.
+The insights we have developed have enabled us to supplement standard vendor cat models with our own sophisticated peril by peril view.
+This gives us a refined granular view of cat risk, incorporating proprietary variables, such as complex roof characteristics, tree and brush [Phonetic] density and location intelligence down to the parcel level.
+These variables are incorporated into our product development enhancing segmentation.
+They are also integrated into proprietary algorithms that we use at the point of sale to inform risk selection and decisions about terms and conditions.
+In terms of our claim response, our data scientists and other experts have developed geospatial tools, artificial intelligence, and analytic models to facilitate a more effective tailored deployment of claim resources.
+This has resulted in a more satisfying experience for our customers and a more efficient outcome for us.
+Taken together, these efforts have enabled us to more effectively manage our exposure to catastrophes.
+While there is always the potential for us to have outsized exposure to an event, over the past five years, our share of property catastrophe losses relative to total property catastrophe losses for the domestic P&C industry have declined significantly compared to the five years prior to that.
+Our property cat losses over the past five years have also been meaningfully lower than our corresponding market share.
+Advancing our understanding of the risk and reward of catastrophe underwriting is an ongoing effort for us.
+As a footnote but importantly, we've made these and other strategic investments in our business while we improved our expense ratio.
+To sum up, the strength of our underwriting and investment expertise enabled us to deliver strong profitability this quarter, notwithstanding the severe winter weather.
+As a result, we're off to a terrific start for the year.
+We are particularly pleased with the strong underlying fundamentals in all three of our business segments.
+Our proven strategy, strong track record of execution, leading analytics, talent advantage give us confidence that we are well positioned to capitalize on opportunities as the economy recovers.
+Core income for the first quarter was $699 million, up from $676 million in the prior year quarter, and core return on equity was 11.1%.
+The increase in core income resulted primarily from a higher level of net favorable prior year reserve development, improved underlying underwriting results, and increased net investment income, largely offset by a much higher level of catastrophe losses.
+Our first quarter results include $835 million of pre-tax cat losses, an all-time high for our first quarter cats and an increase of $502 million compared to last year's first quarter.
+This quarter's cats include $703 million from the February winter storms which impacted Texas and a number of other states.
+Prior year reserve development, for which I'll provide more detail shortly, was net favorable $317 million pre-tax in the quarter.
+Our pre-tax underlying underwriting gain of $735 million was 24% higher than in the prior year quarter, reflecting higher levels of earned premium and an underlying combined ratio, which improved by 1.8 points from a year ago to 89.5%.
+The improvement in the underlying combined ratio resulted largely from the continued impacts of earned pricing exceeding loss cost trends in our commercial businesses and continued favorable loss conditions in personal auto.
+These improvements were partially offset by the comparison of more typical non-cat weather this year to relatively benign non-cat weather in last year's first quarter.
+After-tax net investment income increased by 14% from the prior year quarter to $590 million as higher returns in our non-fixed income portfolio were partially offset by the impact of the expected decline in fixed income yields.
+Consistent with our comments on the fourth quarter earnings call and in our 10-K, we continue to expect that for the remainder of 2021, fixed income NII, including earnings from short-term securities, will be between $420 million and $430 million per quarter after-tax.
+Turning to prior year reserve development.
+Total net favorability of $317 million pre-tax in the quarter included a $72 million benefit from a subrogation settlement with Southern California Edison related to the Woolsey fire of 2018.
+$62 million of that benefit was recorded in Personal Insurance with the remainder recorded in Business Insurance.
+Beyond that subrogation benefit, net favorable PYD in Personal Insurance reflected both auto and property losses coming in better than expected for recent accident years.
+In Bond & Specialty, net favorable PYD was driven by better-than-expected results in the surety book.
+In Business Insurance, net favorable PYD was driven by better-than-expected loss experience in workers' comp, partially offset by some adverse development on losses for environmental exposures in our runoff book.
+Regarding reinsurance, as discussed during our fourth quarter results call, we renewed our underlying property aggregate catastrophe XOL Treaty for 2021 providing aggregate coverage of $350 million, part of $500 million of losses [Indecipherable] an aggregate retention of $1.9 billion.
+Through March 31st, we have accumulated $915 million of qualifying losses toward the aggregate retention.
+Turning to capital management.
+Operating cash flows for the quarter of $1.2 billion were again very strong.
+All our capital ratios were at or better than target levels, and we ended the quarter with holding company liquidity of approximately $1.8 billion.
+Our net unrealized investment gain decreased from $4.1 billion after-tax at year end to $2.8 billion after-tax at March 31st as interest rates rose during the quarter.
+Adjusted book value per share, which excludes unrealized investment gains and losses, was $101.21 at quarter end, up 2% from year end and up 9% from a year ago.
+We returned $613 million of capital to our shareholders this quarter comprising share repurchases of $397 million and dividends of $216 million.
+Following this quarter's share repurchase activity, we had a little more than $800 million remaining under the previously authorized repurchase program.
+In order to provide the appropriate capital management flexibility and reflecting its confidence in our business, the board authorized an additional $5 billion for share repurchases.
+And as Alan also mentioned, our board authorized an increase in the quarterly dividend to $0.88 per share.
+Business Insurance produced $317 million of segment income for the first quarter, a 10 increase over the first quarter of 2020 driven by higher levels of underlying underwriting income, net favorable prior year reserve development, and net investment income, which more than offset higher catastrophe losses.
+We're particularly pleased with the underlying combined ratio of 93.7%, which improved by 3.6 points.
+A little less than 2 points of that resulted from earned pricing that exceeded loss cost trends.
+The improvement also reflects the comparison to the net charge we took in the prior year quarter related to the pandemic.
+Turning to the top line, net written premiums were down 2% primarily due to lower net written premiums in the workers' compensation product line as a result of the impact of the pandemic on payrolls.
+Net written premium benefited from strong retention, higher renewal rate change, and a return to positive exposure growth, reflecting an improving trend in our customers' outlook for their businesses.
+Turning to domestic production.
+Renewal rate change remained strong at 8.4%, up 2.5 points from the first quarter of last year, while retention remained high at 83%.
+Written pricing for some time now has been exceeding loss trend and is significantly improving the margins of our book.
+Importantly, we believe we have a high quality book of business and seek to maintain high retention.
+With that in mind, we continue to execute deliberately and granularly on an account-by-account and class-by-class basis.
+We remain exceptionally pleased with our execution.
+As for the individual businesses, in select, renewal rate change increased to 4.5%, up almost 3 points from the first quarter of 2020.
+Retention of 78% reflects deliberate execution as we pursue improved returns in certain segments of this business.
+As I mentioned above, we're pleased with the segmented execution underneath the aggregate result.
+New business of $95 million was down $24 million from the prior year quarter, also driven by our focus on improving profitability as we remain disciplined around risk selection, underwriting, and pricing.
+Importantly, we have not slowed down our commitment to invest in product development and ease of doing business, which position us well for the long-term profitable growth in this business.
+As an example, in previous quarters, we've highlighted our completely redesigned BOP 2.0 small commercial product, which includes industry-leading segmentation and a fast, easy quoting experience.
+During the last three months, we rolled out the new product in an additional seven states, bringing the cumulative total to 30 states, representing approximately 60% of our CMP new business premium.
+We're encouraged with our agent's adoption of the new product as both flow in new business premium are meaningfully improved as compared to the legacy BOP product.
+In middle market renewal rate change was strong at 9.1%, up almost 3 points from the first quarter of 2020, while retention remained high at 86%.
+Additionally, we achieved positive rate of more than 80% of our accounts this quarter, a 10-point increase from the first quarter of last year.
+New business was down $12 million driven by certain business units and geographies where returns are not meeting our thresholds.
+To sum up, we're pleased with our execution and further improving the underlying margins in the book,and we continue to invest in the business for long-term profitable growth.
+Bond & Specialty posted strong returns and solid growth in the quarter despite the ongoing headwinds of COVID-19.
+Segment income was $137 million, an increase of 12% from the prior year quarter driven by an improved underlying underwriting margin and higher business volumes.
+Elevated cat losses related to the Texas weather event were largely offset by favorable prior year reserve development.
+The underlying combined ratio of 84.2% improved by a 1.5 due to an improved expense ratio, primarily reflecting higher earned premiums.
+Earned pricing that exceeded loss cost trends was largely offset by the impact of COVID-19 and other loss activity.
+Turning to the top line.
+Net written premiums grew 9% in the quarter, primarily reflecting strong management liability production.
+Decreased demand for new construction surety bonds due to the economic impacts of COVID-19 were largely offset by strong commercial surety production.
+In our management liability business, we are pleased that the renewal premium change remained near historic highs of nearly 11% while retention was a strong 87%.
+Management liability new business for the quarter decreased $8 million, primarily reflecting our disciplined underwriting in this elevated risk environment.
+Consistent with recent quarters, submissions were up while quote activity was down.
+These production results demonstrate the successful execution of our strategies to maintain underwriting discipline and pursue rate where needed while maintaining strong retention levels in our high-quality portfolio.
+So Bond & Specialty results were again strong despite the challenges in the current environment.
+Personal Insurance began 2021 with strong profitability and growth.
+Segment income was $314 million and net written premiums grew 7%.
+The combined ratio of 90.3% rose about 2 points from the prior year quarter primarily due to higher levels of catastrophe losses, partially offset by higher net favorable prior year reserve development.
+On an underlying basis, the combined ratio was a strong 85.4%.
+Automobile delivered another very strong quarter with a combined ratio of 81.8%, an improvement of more than 9 points compared to the first quarter of 2020.
+The improvement comprises 5 points of higher net prior year reserve development and an underlying combined ratio that is 4 points better than the prior year quarter.
+These results reflect the ongoing effects of the pandemic, namely lower claim frequency due to fewer miles driven.
+That said, we have begun to see miles driven moving back toward pre-pandemic levels as restrictions have eased and economic activity is picking up.
+We're actively monitoring current trends and incorporating them into our state-specific pricing decisions as we continue to balance business volumes and profitability.
+In homeowners and other, the first quarter combined ratio of 99.4% increased by 15 points relative to the prior year quarter, driven by catastrophe losses of 22 points, up over 11 points, with most coming from the February winter storm and freeze events, and an 8 point increase in the underlying combined ratio primarily due to a comparison to unusually mild winter weather in the prior year quarter, along with about 2 points of elevated fire losses, many of which relate to extreme winter weather often resulting from the use of alternative heating sources.
+The increases were partially offset by 5 points of higher net favorable prior reserve development, which included the subrogation benefits of the Woolsey wildfire that Dan mentioned.
+Turning to domestic production.
+Automobile net written premiums grew 3% with 14% growth in new business while retention remained strong at 84%.
+Renewal premium change was about flat, consistent with our plan to align pricing with our loss experience in auto.
+We are very pleased with our ongoing balanced execution in this line which has resulted in 4% year-over-year policies in-force growth at attractive returns.
+Homeowners and others delivered another strong quarter with net written premium growth of 12%.
+New business was up 21% from the prior year quarter, retention remained strong at 85%, and renewal premium change was 7.7%.
+As Alan mentioned, we have achieved double-digit new business growth across auto and home for each of the past nine quarters.
+Our ongoing new business success is driven by a combination of strategic investments and initiatives, including Quantum Home 2.0, IntelliDrive, and new and expanded partnerships and distribution relationships.
+In addition to delivering strong results for the quarter, we continue to roll out new and expanded capabilities to deliver value in the eyes of our customers.
+Recent examples include closing on the acquisition of InsuraMatch, our digital independent agency that expands our capabilities to serve customers and distribution partners, improving our customer self-service capabilities with the rollout of our new MyTravelers mobile application, continuing the rollout of our digital quote proposal to further enhance our agents' digital capabilities, further expanding our new version of IntelliDrive into Canada and eight additional states, and adding digital auto discount in nine more states for customers who leverage paperless, telematics, and mobile applications.
+In summary, we're off to a great start to the year and are well positioned to continue to deliver profitable growth.
+We're ready to open up for Q&A.

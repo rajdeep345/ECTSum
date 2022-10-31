@@ -1,0 +1,76 @@
+With me on the call today are Seamus Grady, chief executive officer; TS Ng, chief financial officer; and Csaba Sverha, vice president of operations, finance, and CFO designate.
+We had a very strong second quarter, with financial results that exceeded all of our guidance metrics, including record quarterly revenue.
+This performance was driven by sequential growth in nearly all areas of our business.
+With end market demand stabilizing, we expect to see continued year-over-year growth in the third quarter.
+Revenue in the second quarter was 426 million, up 7% from the first quarter and 6% from a year ago.
+Revenue upside largely fell to the bottom line with non-GAAP net income of $1 per share, which was also above the top end of our guidance range.
+Gross margin was 11.9%, and we continue to anticipate non-GAAP gross margins to be within our target range of 12 to 12 and a half percent for the full year.
+Looking at our business by end markets.
+Optical communications revenue was 322 million, up 6% from the first quarter.
+This represented 76% of total revenue, consistent with the first quarter.
+Within optical communications, telecom revenue was 248 million, up 8% from the first quarter and 20% from a year ago, and represented 77% of optical revenue.
+Our Berlin transfer program with Infinera, again, contributed to our telecom growth, and the program was fully ramped at the end of the quarter as anticipated.
+Datacom revenue in the second quarter was 74 million, a slight increase from Q1, which was better than we had anticipated as demand trends for these products continue to stabilize.
+Datacom represented 23% of optical communications revenue.
+By technology, silicon photonics-based optical communications revenue increased by 7% from the first quarter to 82 million, and represented 26% of optical communications revenue.
+Revenue from QSFP28 and QSFP56 transceivers was 48 million, up 3 million from the first quarter.
+By data rate, 100-gig programs represented 49% of optical communications revenue at 159 million, and products rated at speeds of 400 gig and above continued to see rapid growth, up 31% from the first quarter to 49 million.
+Looking at our non-optical communications business, revenue of 104 million was up from 97 million in the first quarter, which was also better than expected.
+We were pleased to see the demand for industrial lasers improve, and as a result, revenue for these products was also better than expected at 46 million, compared to 41 million in the first quarter.
+We remain optimistic that over the longer-term, industrial laser manufacturers will increasingly leverage outsourcing to remain globally competitive.
+And we believe we are uniquely positioned to be a leader in serving this market as the opportunity evolves.
+Automotive revenue moderated to 21 million, reflecting normal quarter-to-quarter variability from next generation automotive programs and which we expect to return to growth in the third quarter.
+Sensor revenue increased slightly to 3.9 million from 3.5 million.
+Finally, revenue generated from other non-optical applications grew 20% sequentially to 33 million, mainly from Fabrinet West.
+During the quarter, we saw additional programs that had ramped production at Fabrinet West transferred to Bangkok where we anticipate their volumes will continue to grow.
+This is another illustration of the success of our new product introduction model which we will continue to leverage in Santa Clara and we are gearing up to extend to Israel in the coming months.
+At the same time, the success of our program with Infinera demonstrates our ability to build complete network systems, while offering economic advantages to our customers.
+We believe there could be additional opportunities for us to vertically integrate from the component level, up to the system level, that can provide additional business to Fabrinet, while simplifying the supply chain for our customers, and we have been actively pursuing these opportunities.
+And today, I am pleased to announce that after the close of the second quarter, we were awarded a significant new project by Cisco which will further build on our successful partnership.
+While it is still early days, we believe that if this program ramps as anticipated, that Cisco could represent 10% of revenue or more for Fabrinet in fiscal 2021.
+We look forward to sharing more on this program as it progresses.
+We're extremely grateful to TS for his contributions over the years to Fabrinet, and for his commitment to ensuring a smooth transition.
+TS will be reporting to me as EVP special projects during this transition period.
+His dedication and positive attitude are a model for us all, and we wish him the best in his well-deserved retirement.
+Csaba has been vice president of operations finance at Fabrinet for almost two years now, and I have had the pleasure of working directly with Csaba in the past.
+He displays all the characteristics that have had a meaningful hand in Fabrinet's past success, including integrity, collaboration, and commitment to success.
+I am confident that Csaba will play a leading role in helping Fabrinet get to our next level of performance.
+While our third-quarter results often reflect a small seasonal down-take, guidance that we are providing for the third quarter also includes the anticipated impact from extended shutdowns in China due to the coronavirus outbreak.
+Specifically, the Lunar New Year week-long shutdown at our Casix facility in Fuzhou, China, which manufactures custom optics components, has been extended from one week to two weeks ending February 10th.
+In addition, some of our third-party suppliers in China are also impacted by shutdowns.
+This has a direct impact on our top and bottom-line expectations, and is considered in the guidance we are providing for the third quarter.
+News related to the coronavirus is rapidly evolving, and our top priority is to keep our employees safe, and will continue to monitor the situation.
+In summary, we are pleased with our stronger than expected performance in the second quarter, and we're excited about our new business activity.
+While we anticipate that coronavirus outbreak will result in a larger than normal sequential revenue decline in the third quarter, I believe we remain well positioned to extend our business success and market leadership as we look ahead.
+I would like to congratulate Csaba on his appointment, and I am committed to making sure his transition to the CFO position is smooth.
+Now turning to our results.
+I will provide you in more details on our financial results for the second quarter, and then we'll introduce Csaba to provide our guidance for the third quarter of fiscal year 2020.
+Total revenue in the second quarter of fiscal year 2020 was 426.2 million, above the upper end of our guidance range, and a quarterly record.
+Non-GAAP net income was $1 per share, and was also above our guidance range, even after a foreign exchange headwind of 1 million, or approximately $0.03 per share.
+Non-GAAP gross margin in the second quarter was 11.9%.
+We continue to expect gross margin to be within our target range for the year.
+Non-GAAP operating expense was 12.3 million in the second quarter.
+As a result, non-GAAP operating income was 38.5 million, and non-GAAP operating margin was 9%.
+Taxes in the quarter was 2 million, and our normalized effective tax rate was less than 5%.
+We continue to expect our effective tax rate to be 5 to 6% for the full year.
+Non-GAAP net income was above our guidance range at 37.7 million in the second quarter or $1 per diluted share, as I indicated earlier, on a GAAP basis, which includes share base compensation expenses and amortizations of debt issuing costs, net income for the second quarter was 31.2 million or $0.83 per diluted share, also above the high-end of our guidance.
+Turning to the balance sheet and cash flow statement.
+At the end of second quarter, cash, restricted cash, and investments was 450.5 million compared to 436.4 million at the end of the first quarter.
+Operating cash flow in the quarter was 50 million, and with capex of 9.1 million, free cash flow was 40.9 million in the second quarter.
+During the quarter, our working capital returned to neutral level as we began consuming the transfer inventory and collecting receivables.
+We did not repurchase any shares during the quarter.
+62.2 million remain in our share repurchase program.
+We will continue to evaluate market conditions to opportunistically purchase shares when possible.
+I appreciate your professionalism, and have enjoyed working with all of you.
+I wish you all nothing but the best.
+I will now invite Csaba to give our FQ3 guidance.
+I'm looking forward to stepping up as the next CFO at Fabrinet.
+TS has been a great mentor, and my aim is to maintain the transparent and open level of dialogue with investors that TS has had.
+I'm looking forward to a smooth transition, including getting to know those of you attending OFC in March, or other investor events in the coming months.
+I would now like to turn to our guidance for the third quarter of fiscal year 2020.
+After the record quarterly revenue performance in Q2, we expect to maintain our year-over-year growth in the third quarter.
+We anticipate that the third-quarter revenue will moderate more than the usual seasonal impact as a result of the coronavirus outbreak in China.
+For the third quarter, we anticipate revenue to be between 410 and 418 million.
+From an earnings per share perspective, we anticipate non-GAAP net income per share in the third quarter to be in the range of $0.92 to $0.95, and GAAP net income per share of $0.75 to $0.78, based on approximately 37.9 million fully diluted shares outstanding.
+In conclusion, we are pleased with our strong performance in the quarter.
+We are excited about our business momentum, and despite a small near-term impact of coronavirus outbreak, we remain optimistic that we can continue to build shareholder value over the longer-term.

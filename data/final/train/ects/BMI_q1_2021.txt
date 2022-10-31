@@ -1,0 +1,64 @@
+Core in this case means designated financial metrics excluding the impact of the recent S::can and ATI acquisitions.
+We believe this reference point is important for year-over-year comparability.
+In summary, I'm pleased with our results for the quarter, delivering sales and earnings per share growth, margin expansion, and robust cash flow.
+Most exciting we experienced record order rates for our smart water solutions across both lines of business as the underlying growth drivers for our digital solutions are embraced by customers.
+The well-publicized and widespread electronic supply shortages limited our conversion of these record orders into sales in the quarter.
+Tempering core sales growth but resulting in a record-high order backlog heading into the second quarter, which bodes well for the balance of the year.
+Our recent acquisitions delivered strong top-line results with net profitability muted as expected as a result of purchase accounting items.
+Overall, our acquisition integration activities are progressing as expected.
+I'll talk about the current environment and our outlook later in the call.
+As you can see on Slide 4, total sales for the first quarter were $117.8 million compared to $108.5 million in the same period last year, an increase of 9%.
+In utility water, overall, sales increased 12% reflecting the addition of the s::can and ATi acquisitions, which contributed approximately $10 million of sales in the quarter.
+Excluding acquisitions, core revenues in the utility water product line were essentially flat year-over-year despite record orders due to the Internet and electronic supply component shortages and logistics challenges that limited manufacturing output.
+Scarce capacity of electronics is a pervasive market issue impacting many industries and is not isolated to Badger Meter.
+We did experience growth in overall meter sales and BEACON software as a service revenue and we benefited from strategic value-based pricing actions.
+As Ken noted, we ended the quarter with strong order momentum and a record backlog, which gives us confidence in our sales outlook moving forward.
+As expected the flow instrumentation sales rate of change improved sequentially from down 10% last quarter to down 3% year-over-year, with the majority of end markets served experiencing recovering demand trends.
+We expect to return to overall growth moving forward as a result of improving demand conditions and easier comparisons.
+We are pleased with the operating profit improvement delivering a 30 basis point increase in margins to 15.1% from 14.8% in the prior year.
+Gross margin for the quarter was 41.9%, up a healthy 200 basis points year-over-year.
+The core business delivered higher gross margins due to positive sales mix, namely higher SaaS revenues along with favorable pricing, which continued to offset the impact of higher brass costs in the quarter.
+Margins also benefited from favorable acquisition mix.
+You may recall from last quarter we described the water quality acquisitions of s::can and ATi as having higher than line average gross margins combined with higher SEA as a percent of sales and therefore with a net EBITDA range for the combined businesses in the mid-teens.
+The positive acquisition mix benefit to gross margins was muted by the amortization of inventory fair value step-up in the quarter, but that's mostly behind us moving forward.
+Copper prices continued their upward trajectory after our last earnings call in late January when they were averaging approximately $3.60 a pound to now near $4.20 a pound.
+This obviously increases the potential cost headwind for the year that we had estimated at $4 million to $5 million to closer to $7 million to $8 million on a year-over-year basis if it were to stay in that $4.20 range.
+We have executed well in implementing appropriate pricing mechanisms to offset this inflation as evidenced by our first quarter results and will continue to remain nimble and actively addressing inflation.
+Turning to SEA expenses, the first quarter spend of $31.6 million increased $4.3 million from the prior year.
+This includes a full quarter of SEA spending for both s:can and ATi along with the higher level of acquired intangible asset amortization.
+Beyond the impact of acquisitions, higher personnel costs were more than offset by lower travel trade show and other ongoing pandemic impacted expenses, the decrease of which we will anniversary starting next quarter.
+The income tax provision in the first quarter of 2021 was 22.2%, slightly lower than the prior years' 25.6% rate.
+In summary, earnings per share was $0.47 in the first quarter of 2021, an increase of 15% from the prior year's earnings per share of $0.41.
+Working capital as a percent of sales was 24.3% down from 25.5% at calendar year-end despite the addition of ATi, largely due to working capital initiatives in the quarter.
+Our free cash flow of $28.8 million was consistent with the prior year.
+In early January we deployed $44 million net of cash acquired for ATi and currently have cash on the balance sheet of approximately $51 million.
+Along with the untapped revolver, we have significant financial flexibility to execute our growth strategies.
+Turning to Slide 5.
+We don't provide guidance but believe it is important to bring awareness to the increased level of unevenness we're likely going to see in our top line as this year unfolds.
+I want to spend just a minute highlighting comparative sales data to provide a clear picture of the varied influences on the quarterly sales growth trend lines and discuss the optimism we have for our results for the remainder of the year and beyond.
+This chart depicts the quarterly sales growth rate of our core business in 2020 and into the first quarter of 2021.
+As you can see by the various call-out boxes, we had some specific dynamics in 2020 with COVID and now in the first quarter of 2021 that we need to be mindful of as we look at the rest of the year comparisons.
+Namely, we will have an easier comp for our upcoming Q2 versus the 2020 COVID lockdowns combined with a portion of the record backlog converting to sales given the anticipation for some modest improvement in electronic supply.
+As we move into Q3, we'll have a difficult comparison based on the post-COVID lockdown order rate and manufacturing recovery last year.
+The bottom line to all of this is that we continue to have strong momentum and robust bid activity, order rates and backlog consistent with our long-term outlook for mid-single-digit growth.
+From a top line standpoint, the acquisitions are performing in line with their historic growth patterns and our integration teams are working to begin putting the steps and processes in place to realize future growth synergies.
+Turning to our outlook.
+The underlying market drivers for smart water solutions remain intact and in fact, as we've discussed, COVID has spotlighted the benefits of AMi for common utility challenges such as remote work efficiencies and regular and automated consumer engagement tools.
+Water quality and security concerns also are driving accelerating interest in our real-time digital solutions.
+We saw evidence of that during the recent climate events in Texas and other Southern U.S. States which experienced the debilitating deep freeze with a number of customers describe the real-life benefits of having our cellular AMi solution deployed which remained in service due to the criticality and cellular networks.
+These utilities were able to obtain real-time mission critical data which help identify potential main breaks, pipe freezes and bursts keeping safe water supply available for their end consumers.
+Now surprisingly, one of the most common outlook questions we get from investors relates to the potential impact of the recent infrastructure proposal from the Biden administration, specifically the portion of the plan that calls for $56 billion of spending to upgrade and modernize America's drinking water, wastewater and stormwater systems and additional $10 billion in part to invest in rural small water systems.
+As we have repeatedly stated, the underlying secular trends driving demand for our digital water solutions are already evident and growing.
+Stimulus investments could perhaps accelerate or add to those underlying drivers, but are not necessary for us to realize our long-term growth plans.
+In fact, as we stated over the past couple of quarters, it's the widespread availability of vaccinations that are most relevant to near-term demand patterns.
+It's too early to tell if a potential pause in spending might occur as utilities weight and digest the implications of the stimulus proposals.
+Our view is that if a pause would occur it would simply be a matter of timing and not a change to the long-term structural growth of our business.
+We will as always focus on the elements of our business within our control.
+Our teams have done an outstanding job managing value-based pricing initiatives, which have mitigated the significant increase in brass costs, our sourcing and supply chain teams have their hands full actively managing the varied ramifications of the wide-ranging and Universal Electronics shortages along with certain logistics bottlenecks, including those at West Coast ports.
+While these circumstances are not unique to Badger Meter, I am confident that we will be able to adequately support customers despite these many challenges.
+We will continue to manage working capital and drive cash flow in order to support our investments in both organic and acquisition-driven growth.
+Our focus remains on enhancing the product and software offering serving water-related markets and applications globally.
+Finally, I want to provide an update on our ESG activities notably establishing our first greenhouse gas intensity reduction target.
+This represents an important step on our ESG journey as we work to mitigate the impact we have on the environment and continue to be good stewards of the resources we use in our operations.
+The 15% intensity reduction goal by 2030 was developed through a strategic initiative to capture baseline greenhouse gas data globally and identify opportunities to reduce energy and consumption and other Level 1 and 2 emissions.
+We will set annual smart goals to monitor progress and we'll report externally on our efforts in our biennial sustainability report.

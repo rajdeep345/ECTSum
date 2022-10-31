@@ -1,0 +1,134 @@
+During the call, we will discuss some items that do not conform to generally accepted accounting principles.
+These non-GAAP measures should be considered in addition to and not as a substitute for measures of financial performance reported in accordance with GAAP.
+We hope everyone listening is staying safe and in good health.
+We appreciate you joining our conference call and for your interest in Thermon.
+Jay Peterson, our CFO, is with me and will provide additional information on our Q2 financial performance following my remarks.
+Since our Q1 call, the Thermon team has remained focused on the safety and security of our employees, customers, suppliers and the communities in which we live.
+As a supplier to critical infrastructure, we remain open for business and have focused on supporting our customers around the globe.
+As we look across the world, our teams and our customers are adapting to the new normal.
+In many locations, we continue to suspend business travel, work-from-home where possible, and follow the applicable local health protocols.
+Our employees are incredibly resilient and have quickly adapted to this new way of working.
+Their commitment to our core values of care, commitment and collaboration as well as our industry-leading safety performance is both admirable and appreciated.
+With the uncertainties surrounding this pandemic, our team has remained focused on value preservation and cash management.
+In Q1, the team took decisive action to reduce SG&A by $16 million in the fiscal year and just over $17 million on an annualized basis.
+During the second quarter, the team has further reduced expected SG&A spending by an additional $9 million in the fiscal year.
+And we expect this reduction to continue on an annualized basis going forward.
+In addition, we have reduced manufacturing overhead by an additional $6 million, including a rooftop consolidation that will improve absorption on lower volume in Q4 and beyond.
+Many of these savings are the result of the work this team has done over the last four years to improve the systems, processes and tools to generate efficiencies and unlock scale from engineering to back office processes.
+We also believe we are well on track to deliver the $3.9 million in continuous improvement cost savings through our manufacturing operations.
+We believe these changes have fundamentally repositioned the business to be more profitable during the downturn and generate meaningful operating leverage during the recovery.
+It is important to note that these cost reductions were made while preserving investments in key areas that will help drive future growth, such as front line sales, resources to drive globalization of the process and environmental heating product lines, and new product development.
+I'd like to turn now to our Q2 results.
+Overall, we were pleased with the improvements we're seeing in the business during Q2.
+We believe our Q1 represented a quarterly bottom in terms of both revenue and EBITDA.
+Our second quarter showed sequential improvement in many areas with revenue of $66.4 million.
+While down 35% from a record prior-year quarter, revenue grew 17% sequentially.
+We did see shipment delays due to logistics and supply chain shortages in some key electrical components that negatively impacted the top line during the quarter.
+Adjusted EBITDA of $10.5 million was down 50% from prior year, but up 661% or $9.1 million from Q1 on improved volume and cost reduction actions.
+Gross margins for the quarter were 43.6%, down 57 basis points from prior year, but up 120 basis points sequentially.
+We continue to benefit from the receipt of the Canadian Emergency Wage subsidies, which have been excluded from the adjusted numbers.
+GAAP and adjusted earnings per share were $0.06 a share and $0.12 a share, respectively, during the quarter, showing positive momentum on the sequential volume growth and cost reduction efforts.
+We were pleased with bookings for the quarter at $75.7 million, which were down 18% from prior year, but up 25% sequentially relative to the Q1 27% shortfall to prior year.
+This represented a sequential double-digit improvement even when adjusted for seasonality.
+Our book-to-bill of 1.14 was positive for the third consecutive quarter with backlog growing by 8% sequentially and 16% year-over-year.
+In addition, margins in backlog improved by 420 basis points during the quarter on a positive mix of business.
+We continue to see weakness in our MRO business due to safety measures our customers have implemented in an effort to prevent the spread of the virus.
+Many have suspended project-based maintenance activities to limit the number of contractors on site and manage cash.
+We did see sequential improvement in our Q2 quick turn business of 14% when compared to Q1 on a relative basis to prior year quarters.
+While we do expect to see further sequential improvement in Q3, we believe the deferral of maintenance is building pent-up demand that will create incremental opportunities for MRO/UE as COVID-19 restrictions ease.
+We anticipate capital spending to be weaker in the second half of the year, particularly in the US and Latin America, representing a headwind in the near term.
+We continue to generate positive cash flows from our operations of $9.3 million during the second quarter, which enabled $4.4 million in debt repayment.
+We see further opportunities to free up an additional $10 million in cash from the balance sheet by year-end.
+Turning now to a discussion of our end markets.
+The oversupply of oil resulting from the Saudi-Russia dispute combined with the unprecedented decline in demand due to COVID-19 lockdowns has had a profound impact on our customer and end markets.
+However, we are seeing that some customers are better positioned to weather the storm.
+Upstream, which represents approximately 14% of our revenues and integrated oil companies have been the hardest hit.
+Chemical companies and customers with more exposure to natural gas has seen much less decline in demand, and commodity pricing has been more resilient.
+We also see strength in agro-chemicals as well with capital investments in nitrogen and ammonia processing plants for fertilizers.
+As we look forward, there are a number of fundamental shifts under way.
+Thermon is well positioned to capitalize on the transition to natural gas as a bridge fuel with LNG projects moving forward.
+The shift to renewables also creates opportunities for our business in bio gas and biofuels.
+We are currently executing a sizable biodiesel project in the US with many more projects in various stages of planning in the US and across Europe.
+We also see numerous oil to chemical projects creating future opportunities where producers and refiners are seeking growth markets for their capacity as demand for transportation fuels stagnates.
+Growing demand for power across Asia and other emerging markets will also create additional opportunities for our business going forward.
+Finally, tightening environmental regulations that require lower sulfur fuels and higher CAFE standards drives demand for a wide range of Thermon solutions as well.
+Turning now to transportation.
+Transportation represents around 3% of our revenues in fiscal year 2020 and is a growing segment of our business that offers an opportunity to diversify our end markets.
+After securing two large orders in light rail in the last two quarters, we continue to see large transit opportunities that will expand the installed base in the US and Canada to generate stable recurring revenues.
+We also see additional opportunities to grow our presence in less cyclical end markets, such as food and beverage, to further diversify our revenue streams going forward.
+Turning now to our investments in research and development.
+We continue to invest in new product development that creates value for our customers and differentiates Thermon solutions in the marketplace.
+Key areas of investment include connected and smart control solutions, advanced heating technologies and material science.
+We were excited to recently announce the new Genesis Network, which extends our leadership position in smart connected control solutions.
+This introduction builds upon the technology platform of our Genesis Controller by creating a plantwide ecosystem, employing a self-healing mesh network with an IIoT gateway and browser-based supervisory software.
+The combined system, which is backwards compatible, enable operators to have real-time operational awareness to improve the safety, reliability and efficiency of their processes.
+The mesh network also lowers total installed cost while enabling brownfield locations to be cost effectively upgraded to the newest technology.
+The Genesis server represents Thermon first subscription-based operational software platform that will create opportunities for future product and service revenue streams from the installed base.
+While visibility is improving, we continue to experience near-term uncertainty due to the number of variables influencing our end markets.
+As a result, we remain focused on managing the five key priorities communicated last quarter.
+They are: First, the safety of our employees and customers; second, aligning cost structure to the level of incoming business; third, driving continuous improvement programs to achieve the targeted $3.9 million in savings during the fiscal year; fourth, cash management; and fifth, investing for future growth.
+Executing on these five priorities will position the business to perform during this downturn and more importantly, profitably grow as our end markets recover.
+Looking forward, given the current level of uncertainty, we do not intend to provide formal guidance for fiscal 2021 at this time.
+We do believe that Q1 represented the quarterly bottom in terms of revenue and earnings due to COVID-19 restrictions that were in place combined with the normal seasonality of our business.
+With Q2 revenues down 35% from prior year and bookings down 18%, we expect the revenue shortfall to prior year to begin to moderate in Q3 and Q4.
+We also expect the cost reductions to begin to have a meaningful impact to bottom line performance in the back half of the year with decremental margins in the 25% to 30% range.
+As a result, we anticipate a small step down in trailing 12-month EBITDA in Q3, representing a bottom with trailing 12-month EBITDA expansion in Q4 on lower volume.
+The actions we have taken this year have positioned the business to deliver 100 basis points or more of EBITDA margin expansion during a downturn, and the team is hard at work to build a path to deliver similar or greater margin expansion in the subsequent year.
+We continue to actively manage the business while remaining focused on executing on our strategic, operational and financial plans.
+As we look ahead, I want to emphasize the strength and resilience of our business model and our ability to drive EBITDA and generate cash through the cycle.
+We have a talented team that remains committed to serving our customers and creating value for our shareholders.
+By focusing on the priorities outlined, Thermon is well positioned to emerge a stronger, more profitable business as our customers and end markets adapt to the next normal.
+With that, I'd like to pause here and hand it over to Jay for more detailed review of the financials.
+In light of the protracted depressed capital spend environment, our focus continues to be on value preservation in addition to funding specific strategic investments.
+During the quarter, we recorded $2 million of restructuring cost related to the Q2 cost out actions.
+And we expect these cost out actions, including the Q1 reduction in force, to reduce SG&A to approximately $34 million to $35 million for the second half of this fiscal year.
+And we believe approximately 80% of these reductions are structural in nature and will provide incremental operating leverage when growth returns.
+And since May of this year, we have reduced our SG&A by approximately 24% from $100 million down to $76 million to $77 million.
+Also during Q2, our Canadian subsidiaries qualified for and received a $1.4 million benefit from the Canadian Emergency Wage Subsidy program.
+And $400,000 of this benefit was recorded under cost of sales, while the remainder impacted SG&A.
+And While we have faced significant challenges in our P&L-related to COVID-19 and the sustained decline in oil prices, our balance sheet remained strong and our cash and investments balance at the end of September improved by $51.4 million.
+And we also paid down $4.4 million in debt and generated $7.2 million in free cash flow.
+And that marks our ninth consecutive quarter of positive free cash flow.
+Our capex spend for the second quarter totaled $2 million, and that's inclusive of both growth and maintenance capital.
+And we expect fiscal '21 capex to be approximately $4.6 million and that's a year-on-year reduction of 54%.
+Our net debt to EBITDA ratio was 2.9 times at the end of Q2.
+And lastly, our capital allocation priority is to continue to reduce our debt through continued optional debt repayment.
+And we remain confident in our current liquidity and ability to generate cash during this fiscal year and we plan to pay down additional debt in the second half of this year.
+And regarding M&A, our pipeline remained strong.
+However, due to our current leverage position, we do not anticipate any acquisitions in the near term.
+Now turning to revenue and orders.
+Our revenue this past quarter totaled $66.4 million and that's up sequentially by 17% and down by 35% against the prior year quarter, and was in line with our expectations for Q2.
+Our legacy revenue mix between MRO/UE and Greenfield was 64% and 36%, respectively, versus a 53% and 47% in Q2 of fiscal year '20.
+And FX decreased total revenue by $1.1 million in the quarter.
+And in constant currency, our revenue declined by 34%.
+Orders for the quarter totaled $75.7 million, up sequentially by 25%.
+And relative to the prior year quarter, our orders declined by 18%, and that's an improvement from the Q1 decrease of 27%.
+And our backlog of orders ended September at $118.7 million, and that's the highest level in the last 18 months, albeit under depressed revenues.
+And due to cost out actions and higher margin projects, we have seen our backlog margins improved to 33.4%, and that's a 420 basis point improvement on a sequential basis.
+Our book-to-bill for the quarter was positive at 1.14, and that marks the third consecutive quarter of a positive book-to-bill.
+In terms of gross margins, margins were 43.6%.
+And although they were down by 57 basis points versus the prior-year comp period, they were up sequentially by 114 basis points.
+And gross margins were positively impacted by 63 bps due to the Canadian Emergency Wage Subsidy program.
+Gross profit in the quarter declined by $16.5 million and that's attributable to the volume and revenue decline of 35%.
+And looking forward to the second half of this fiscal year, we expect gross margins to improve by 100 basis points or more due to the benefits of cost reductions, even in light of the anticipated reduction in year-on-year volumes and an increase in the mix of our high margin on both a gross and net construct maintenance business.
+Moving on to OpEx.
+Operating expenses for the quarter, that is SG&A and this excludes depreciation and amortization of intangibles, totaled $21 million versus $25.4 million in the prior year.
+And SG&A expenses included $2 million of restructuring cost.
+Normalized for the Canadian Wage Subsidy program and the restructuring charge, our SG&A on a pro forma basis totaled $19.9 million.
+And as mentioned earlier, we expect our second half SG&A to be in the $34 million to $35 million range, inclusive of the recent spending reduction actions.
+And going forward, we would anticipate incremental spending in travel and other expenses to grow as volume returns.
+GAAP earnings per share for the quarter totaled $0.06 a share compared to the prior year quarter of $0.21, and that's a decline of $0.15 a share.
+Adjusted EPS, as defined by GAAP earnings per share less amortization expenses and any one-time charges, totaled $0.12 a share relative to $0.29 a share in the prior year quarter.
+And versus the prior year comparison period, adjusted EBITDA declined by 50% and adjusted EBITDA as a percent of revenue improved to 16%, and that's an increase of 1,300 basis points versus the prior sequential quarter.
+And adjusted EBITDA totaled $10.5 million this past quarter.
+Free cash flow was positive for the quarter by $7.2 million.
+And as I said before, our ninth consecutive quarter of positive free cash flow.
+And we remain confident in our ability to generate cash and service debt going forward.
+For Q2 of '21, we generated pre-tax income of $1.2 million and recorded a tax benefit of $627,000.
+And this benefit was due to U.S. Treasury regulations that provided updated guidance to the tax reform law of 2017 and the associated GILTI tax rules.
+And as a result, we reversed $1.4 million of previously recorded GILTI tax.
+And for the remainder of fiscal year '21 and the out years, we expect our tax rate to be 26% on a consolidated basis.
+In the quarter, cash grew by $3.1 million to $51.4 million, and we generated $9.2 million from working capital.
+And over the last 12 months, we have paid down $30.3 million in debt.
+And finally, given the continued impact of COVID-19 to our end markets, we will not be providing formal topline guidance at this time.
+And I would like to reiterate that we will continue to manage what we have control over, including our operating expenses, cost reduction efforts, continuous improvement initiatives and the continued management of our working capital.

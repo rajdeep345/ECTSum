@@ -1,0 +1,152 @@
+pseg.com, and our 10-Q will be filed shortly.
+We will also discuss non-GAAP operating earnings and non-GAAP adjusted EBITDA, which differ from net income or loss as reported in accordance with generally accepted accounting principles in the United States.
+PSEG reported non-GAAP operating earnings of $0.70 per share for the second quarter of 2021 versus $0.79 per share in last year's second quarter.
+GAAP results for the second quarter were $0.35 per share net loss related to transition charges at PSEG Power, and that compares with $0.89 per share of net income for the second quarter of 2020.
+Also in the quarter, PSEG Power recorded a pre-tax impairment of $519 million at its New England Asset Group, partly offset by a pre-tax gain of $62 million from the sale of the Solar Source portfolio.
+We continue to make great progress on a number of fronts to position ourselves for the future.
+We had a strong operating quarter that, once again, produced non-GAAP operating earnings in line with our expectations for the year.
+Our results for the second quarter bring non-GAAP operating earnings for the first half of 2021 to $1.98 per share.
+This 9% increase over non-GAAP results of $1.82 per share for the first half of 2020 reflects the growing contribution from our regulated operations and continued derisking at PSEG Power.
+Slides 13 and 15 summarize the results for the quarter and the first half of the year.
+It's been a year since we announced our intentions to explore strategic alternatives for our non-nuclear generation assets, and I'm pleased with the progress to date in what I believe is a compelling platform for future regulated growth at PSE&G.
+Our utility, a clean energy infrastructure-focused business, will be complemented by a significantly contracted, carbon-free generating portfolio, consisting of our nuclear fleet and investments and opportunities in regional Offshore Wind.
+The marketing of the fossil assets has garnered a significant level of interest from numerous qualified buyers in a competitive process, which is advancing as expected.
+And we expect to provide you with more information on this process in the very near future.
+I'm pleased that we've reached a balanced agreement with the New Jersey Board of Public Utilities and the Division of Rate Counsel on PSE&G's transmission rate, which, if approved by FERC, will resolve a significant regulatory uncertainty for us and provide a timely rate reduction for customers.
+PSE&G has agreed to voluntarily reduce its annual transmission revenue requirement, which includes a reduction in its base return on equity to 9.9% from 11.18%.
+If approved by the FERC, a typical electric residential customer will save 3% on their monthly bills.
+New Jersey continues to experience positive economic activity since Governor Murphy lifted the Public Health Emergency Order in June.
+Our largest customer class in terms of sales, the commercial segment, has shown a rebound in electricity demand.
+Electric sales overall adjusted for weather were up nearly 4% over the second quarter of 2020, led by an 11% increase in commercial sales, which was partly offset by a 5% decline in residential sales as people gradually returned to work outside the home.
+The warmer-than-normal summer has also increased PSE&G's average daily peak load for the quarter to 5,480 megawatts compared to last year's second-quarter average of 5,100 megawatts and the 5,330 megawatts experienced in the pre-COVID second quarter of 2019.
+And so far this summer, PSE&G's load has peaked at 10,064 megawatts on June 30, exceeding the 10,000-megawatt mark for the first time since July 19 of the year 2013, eight years ago.
+Turning to clean energy developments in New Jersey, the BPU in June awarded a second round of Offshore Wind projects totaling 2,658 megawatts and is now halfway toward the state's goal of procuring 7,500 megawatts of Offshore Wind generation by 2035.
+The award was split between the 1,510 megawatt Atlantic Shores project and Orsted's 1,148 megawatt Ocean Wind 2.
+The OREC price is set in the second round range from about $86 to $84 for the Atlantic Shores and Ocean Wind projects, respectively.
+And last week, the BPU approved a new solar successor incentive framework that consists of two programs: an administratively determined incentive; and a competitive solicitation incentive, which would apply to larger projects defined as five megawatts and above.
+Incentive levels for the administratively determined segment range from $90 per megawatt-hour for net-metered residential projects to $70 to $100 per megawatt-hour for the commercial and community solar segments and up to $120 per megawatt-hour for certain public entity projects.
+You will recall that the prior program consisting of solar renewable energy credits or as we frequently refer to them as SRECs, average well above $200 per megawatt-hour over the past decade.
+And combined with net metering subsidies and federal tax credits provided later incentives topping $300 per megawatt-hour.
+So this successor program is a positive step toward balancing the need for clean energy while recognizing the importance of affordability for our customers.
+PSEG's existing solar programs are essentially fully subscribed.
+We'll continue to work with the state MBP on programs that can help meet the solar goals in the Energy Master Plan.
+PSEG continues to make tangible progress on our own decarbonization and ESG goals.
+In the second quarter alone, we closed on our 25% equity stake in the 1,100-megawatt Ocean Wind project in New Jersey, that's the Ocean Wind one project, obviously.
+We retired our last coal unit at Bridgeport Harbor in Connecticut, making our generating fleet coal-free, and moved up our net-zero vision by 20 years to 2030.
+But not only do we accelerate the net-zero vision, we also expanded it to include Scope one direct greenhouse gas emissions, and Scope two indirect greenhouse gas emissions from operations at both PSEG Power and PSE&G.
+Expanding the net-zero vision to include both the utility and power operations is a significant move forward in our decarbonization efforts and one that will both inspire and challenge us to do more and do it better.
+Coming up, PSEG is preparing to bid into a competitive process to build Offshore Wind transmission infrastructure.
+This solicitation is intended to procure transmission solutions to this important New Jersey 7,500-megawatt Offshore Wind target by 2035.
+The potential projects can cover onshore upgrades, new onshore transmission connection facilities, new offshore transmission connection facilities, and a network to offshore transmission system.
+Proposals may address any or all of these four components.
+The decision-making criteria is expected to include, among other things: an evaluation of reliability and economic benefits; cost; constructability; environmental benefits; permitting risks; and other "New Jersey benefits".
+This competitive transmission open window will be jointly conducted by PJM and the New Jersey Board of Public Utilities.
+PJM will lead the technical analysis of the proposed transmission solutions, and the BP will be the ultimate decision-maker.
+We support the state's efforts to procure transmission in a manner that is most reliable, constructible, and cost-effective for our customers.
+All of this is great progress on our decarbonization efforts and continues to demonstrate our alignment with the state's Clean Energy agenda and our industry leadership on environmental stewardship.
+New Jersey's recent endorsement of the environmental benefits provided by our New Jersey nuclear plants through the second zero-emission certificates, I'll refer to that as ZEC for the rest of this conversation, extends the $10 per megawatt-hour carbon-free attribute recognition through May of 2025.
+This extension will allow us, along with stakeholders in New Jersey and at the federal level, the time we need to work on a long-term economic solution to keep our merchant nuclear fleet economically viable and preserve its currently unmatched contribution of reliable, carbon-free baseload generation, the most cost-effective clean generation source available.
+During the ZEC deliberations, a growing recognition of these nuclear units were economically at risk, but vitally important to New Jersey's ability to reach its clean energy and carbon goals gain further traction.
+The importance of the New Jersey nuclear units to the state's climate goals was also recognized in the BPU Staff's recent resource adequacy report.
+The report recommends that New Jersey should continue exploring a regionwide or New Jersey-only integrated clean capacity market, with the fixed resource requirement, often, we refer to that as an FRR.
+We expect that the BPU will be closely watching to see whether FERC accepts PJM's just filed modifications to the minimum offer price rule which appears to better align the PJM capacity market with New Jersey's clean energy goals.
+The results of the first PJM capacity auction in three years, influenced by a COVID-19 pandemic stifled demand curve, served as further evidence of the market risks faced by our nuclear units.
+This sentiment is shared by Biden administration officials, including DOE Secretary Granholm and White House Domestic Climate Advisor Gina McCarthy, who have both spoken publicly on the importance of nuclear energy as a clean energy resource.
+We continue to work on promoting a federal nuclear production tax credit proposal where the value of the credit declines as market revenue increases.
+This is the primary federal policy that would help prevent premature closing of merchant plants whose market revenues are not currently covering cost and risk.
+Other options, such as the federal nuclear grant program administered by the Department of Energy are also being discussed.
+However, we and others in the industry share the view that a competitive grant program will not provide timely relief nor the certainty these plants need to remain operational.
+Nonetheless, we're encouraged by the attention that at-risk nuclear plants are getting in Washington.
+And we especially appreciate the efforts of New Jersey Congressman Bill Pascrell, who's leading this effort in the House of Representatives, and Senators Cardin, Manchin, and Booker in the Senate.
+That said, we do expect the federal infrastructure effort to take the better part of the rest of the year to unfold.
+On the social side of ESG during the second quarter, we recognized the Juneteenth holiday by giving employees paid time off to commemorate and celebrate this important day in our nation's history and supported our LBGTQ+ community with numerous events for Pride Month.
+Also in June, PSEG was named to JUST Capital's Top 100 companies supporting healthy families and communities.
+Overall, we had a solid quarter and results for the first half of the year have positioned us to update our full-year guidance somewhat earlier than has been our practice.
+We are raising by $0.05 per share at the bottom end of PSEG's non-GAAP operating earnings guidance for full-year 2021 to a range of $3.40 to $3.55 per share, based on favorable results of PSE&G and Power through the first six months of the year.
+This update also incorporates an August one effective date to implement the transmission rate settlement and the expectation that the fossil assets will contribute to consolidated results through the end of the year.
+We're on track to achieve the Utilities 2021 planned capital spending of $2.7 billion on schedule and on budget.
+This spend is part of PSEG's consolidated five-year, $14 billion to $16 billion capital plan, which we still intend to execute without the need to issue new equity, while also continuing to offer the opportunity for consistent and sustainable growth in our dividend.
+Before closing, I do want to recognize the contributions of Dave Daly, who will be retiring on January 4, 2022, after 35 years of dedicated service to the company.
+Kim Hanemann, who had been named PSE&G's Senior Vice President and Chief Operating Officer, was promoted to succeed Dave as President and COO of PSE&G effective June 30.
+In support of a seamless transition of leadership at PSE&G, Dave is serving as an executive advisor through the end of the year.
+With her promotion, Kim is the first woman to lead New Jersey's largest electric and gas utility in our 118-year history.
+Many of you know Kim is the power behind the transmission buildout over the past 10 years, and I hope all of you will have the opportunity to meet here in the near future.
+Speaking of meeting, New Jersey has among the highest rates of fully vaccinated people in the country, but vaccination rates in the state have recently plateaued.
+So we're carefully monitoring the impact that highly contagious variants are having on updated health and safety protocols.
+So whether in person or virtually, we are looking forward to hosting an investor-owned -- an investor event in the fall when we expect to share with you the many good things that are happening at PSEG regarding our improved business mix, increased financial flexibility, and solid growth opportunities.
+As Ralph said, PSEG reported non-GAAP operating earnings for the second quarter of 2021 at $0.70 per share versus $0.79 per share in last year's second quarter.
+We've provided you with an information on Slides 13 and 15 regarding the contribution to non-GAAP operating earnings by business for the quarter and the year-to-date periods, and Slides 14 and 16 contain corresponding waterfall charts that take you through the net changes in non-GAAP operating earnings by major business.
+I'll now review each company in more detail starting with PSE&G.
+PSE&G reported net income of $309 million or $0.61 per share for the second quarter of 2021 compared with net income of $283 million or $0.56 per share for the second quarter of 2020.
+PSE&G's second-quarter results reflect revenue growth from ongoing capital investment programs.
+Growth in transmission added $0.01 per share to second-quarter net income, reflecting continued infrastructure investment as well as the timing of transmission O&M in the quarter and true-ups from prior year filings.
+Electric margin added $0.02 per share to net income compared to the year-earlier quarter, driven by commercial and industrial demand, reflecting higher margins in April and May compared to the COVID-19 restrictions that affected prior year results; and the implementation of the Conservation Incentive Program or CIP mechanism in June.
+Gas margin added $0.01 per share, driven by the Gas System Modernization Program rate rollings.
+Gas-related bad debt expense and O&M expense were both $0.01 per share favorable compared to the year-earlier quarter, driven by the timing of COVID-related deferrals since the issuance of the BPU's order in the third quarter of last year.
+An increase in distribution-related depreciation due to higher rate base lowered net income by $0.01 per share.
+Nonoperating pension expense was $0.02 per share favorable compared to the second quarter of 2020, reflecting the continued recognition of strong asset returns experienced last year.
+Tax expense was $0.02 unfavorable compared to the second quarter of 2020, driven by the timing of adjustments to reflect PSE&G's estimated annual effective tax rate.
+The transmission agreement between PSE&G, the BPU, and Rate Counsel that Ralph mentioned earlier has been filed with FERC for approval with an August one requested effective date.
+There's no timetable from when FERC must respond, however, we will begin recording the impacts of the settlement on our financials starting with the August one requested effective date.
+The agreement would reset the base ROE for PSE&G's formula rate to 9.9% from 11.18%, which lowers the annual transmission revenue requirement by about $100 million per year on a pre-tax basis.
+Other key elements of the settlement lower annual depreciation expense by approximately $42 million, which has a corresponding reduction in revenue that results in no net impact on earnings and an improved cost recovery methodology for our administrative and general costs and investments in materials and supplies.
+The agreement also includes an increase of PSE&G's equity ratio from 54% to 55% of total capitalization.
+The financial impact of the settlement agreement is expected to lower PSE&G's net income by approximately $50 million to $60 million or $0.10 to $0.12 per share on an annual basis in the first 12 months once implemented.
+Weather for the second quarter was significantly warmer than the second quarter of 2020, with the temperature-humidity index that was 34% higher than normal and a significantly higher than normal number of hours at 90 degrees or greater.
+The New Jersey economy continued to recover in the second quarter, increased by total weather-normalized electric sales by approximately 4% compared to the second quarter of 2020, which was at the height of the COVID-19 economic restrictions.
+On a trailing 12-month basis, weather-normalized electric and gas sales were each higher by approximately 1%, with residential electric and gas usage up by 4% and 2%, respectively.
+The Conservation Incentive Program, which started June one for electric sales, removes the variations of weather, economic activity, efficiency, and customer usage from our financial results, resetting margins to a baseline level.
+This new mechanism supports PSE&G's ability to maximize customer participation in energy efficiency programs without losing margins from lower sales.
+A similar program covering gas sales will commence October one and replace the weather normalization clause.
+PSE&G's capital program remains on schedule.
+PSE&G invested approximately $700 million in the second quarter and $1.3 billion year-to-date through June.
+This capital was part of 2021's $2.7 billion Electric and Gas Infrastructure Program to upgrade transmission and distribution facilities and enhance reliability and increase resiliency.
+We continue to forecast over 90% of PSEG's planned capital investment will be directed to the utility over the 2021 to 2025 time frame.
+PSE&G's forecast of net income in 2021 has been updated to $1.42 billion to $1.47 billion from $1.41 billion to $1.47 billion.
+Now moving on to Power.
+PSEG Power reported non-GAAP operating earnings for the second quarter of $0.10 per share and non-GAAP adjusted EBITDA of $159 million.
+This compares to non-GAAP operating earnings of $0.24 per share and non-GAAP adjusted EBITDA of $258 million for the second quarter of 2020.
+Non-GAAP adjusted EBITDA excludes the same items as our non-GAAP operating earnings measure as well as income tax expense, interest expense, depreciation, and amortization expense.
+We also provided you with more detail on generation for the quarter and for the first half of 2021 on Slide 24.
+PSEG Power's second-quarter non-GAAP operating earnings were affected by several items that combined lowered results by $0.14 per share below the quarter from a year ago.
+Recontracting and market impacts reduced results by $0.09 per share, reflecting seasonal shape of hedging activity and higher cost to serve load versus the year-ago quarter.
+Generating volume and zero-emission certificates were each down by $0.01 per share, affected by lower nuclear output related to the spring refueling outage at the 100% owned Hope Creek Nuclear Plant.
+PJM capacity revenue added $0.02 per share to the year-ago quarterly comparison.
+For the year ended June 30 -- for the year-to-date ended June 30, capacity is $0.05 per share favorable compared to the first half of 2020, reflecting the scheduled higher price of approximately $167 per megawatt day for the majority of the first half of 2021 versus the $116 per megawatt day for the same period in 2020.
+Higher O&M expense reduced results by $0.04 per share compared to last year's second quarter, primarily reflecting the planned Hope Creek refueling outage and higher fossil operating expenses.
+Lower depreciation expense, reflecting the sale of the solar source portfolio and the early retirement of the Bridgeport Harbor coal-fired generating station, combined with lower interest expense, to add $0.02 per share versus the year-ago quarter.
+Taxes and other items were $0.03 per share unfavorable, reflecting the absence of a multi-year tax audit settlement included in the second quarter 2020 results.
+Gross margin in the second quarter of 2020 was $28 per megawatt-hour compared with $33 per megawatt-hour for last year's second quarter.
+The decline quarter-over-quarter reflects the seasonal price impact of recontracting, that is anticipated to result in a negative $2 per megawatt-hour price decline in the hedge portfolio for the full year.
+We expect recontracting results in the third quarter of 2021 to be similarly negative, as we mentioned last quarter, will more than offset the $0.03 per share benefit seen in the first quarter of this year.
+Now let's turn to Power's operations.
+Total generation output declined by 1% to 12.6 terawatt-hours in the second quarter as the refueling outage at Hope Creek and subsequent forced out its lower nuclear output versus the second quarter of 2020.
+The nuclear fleet operated at an average capacity factor of 86% for the quarter, producing 7.2 terawatt-hours, down by 7% versus last year, which represented 57% of total generation.
+Power's combined-cycle fleet produced 5.3 terawatt-hours of output, up 8% in response to higher market demand helped by warm weather.
+Power is forecasting generation output of 25 to 27 terawatt-hours for the remaining two quarters of 2021 and has hedged 95% to 100% of its production at an average price of $30 per megawatt-hour.
+Also during the quarter, we're pleased to remind you that PSEG Power eliminated all coal from its generating mix with the early retirement of Bridgeport Harbor Station three.
+Power's quarterly impairment assessments, including consideration of its strategic review of the non-nuclear fleet, determined that the ISO New England asset grouping showed an impairment as of June 30, 2021.
+As a result, Power recorded a pre-tax charge of $519 million for this asset group.
+PJM and New York ISO asset groupings did not show an impairment as of June 30, 2021.
+However, a move of these assets to held for sale, which would be effective upon an anticipated sale agreement, would be expected to prompt an additional material impairment to the fossil portfolio.
+Such a move to held for sale would also prop the cessation of depreciation and amortization expense for the held-for-sale units, resulting in a favorable impact to GAAP and non-GAAP operating earnings through the close of the transaction.
+In June of 2021, PSEG completed the sale of PSEG's Solar Source, which resulted in a pre-tax gain of approximately $62 million and income tax expense of approximately $63 million, primarily due to the recapture of investment tax credits on units that operated for less than five years.
+For the remainder of the year, depreciation expense will also decline by approximately $0.03 per share as a result of the Solar Source sale.
+Forecast of PSEG Power's non-GAAP operating earnings for 2021 has been updated to $295 million to $370 million, from $280 million to $370 million, while our estimated non-GAAP adjusted EBITDA remains unchanged at $850 million to $950 million.
+Now let me briefly address operating results from Enterprise and Other and provide an update on PSEG Long Island.
+For the second quarter of 2021, PSEG Enterprise and Other reported a net loss of $3 million or $0.01 per share for the second quarter of 2021, which was flat compared to a net loss of $2 million or $0.01 per share for the second quarter of 2020.
+The net loss for the second quarter of 2021 reflects higher interest expense at the parent initially offset -- partially offset, I should say, by the ongoing contributions from PSEG Long Island.
+In June, PSEG Long Island entered into a nonbinding term sheet with the Long Island Power Authority, that would resolve all the authorities claims related to Tropical Storm Isaias.
+The terms will be adopted into amendments to our operation service agreement, or OSA, and submitted to New York state authorities for approval later this year.
+The OSA contract term will continue through 2025, with a mutual option to extend.
+For 2021, the forecast for PSEG Enterprise and Other remains unchanged at a net loss of $15 million.
+PSEG's financial position remains strong.
+At June 30, we had approximately $4 billion of available liquidity, including cash on hand of about $107 million, and debt represented 52% of our consolidated capital.
+During the first half of 2021, PSEG entered into 2,364-day variable rate term loan agreements totaling $1.25 billion.
+During the second quarter, PSEG Power retired $950 million of senior notes maturing in June and September 2021 and ended June with debt as a percentage of capital of 20%.
+In May, Moody's changed PSE&G's credit rating outlook to negative from stable.
+Their first mortgage bond rating remains Aa3.
+We still expect to fund PSEG's $14 billion to $16 billion capital investment program over the 2021 to 2025 period without the need to issue new equity, while also continuing to offer consistent and sustainable growth in our dividend payment.
+As Ralph mentioned, we've raised the bottom end of our forecast of non-GAAP operating earnings for the full year to $3.40 to $3.55 per share, up by $0.05 per share based on the solid results we have seen in the first half of the year that give us confidence that we can deliver results at the upper end of our original guidance.
+That concludes my comments.
+And Carol, we are now ready to answer questions.

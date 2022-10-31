@@ -1,0 +1,185 @@
+Joining me on today' call are Gerrard Schmid, President and Chief Executive Officer, and Jeff Rutherford, our Chief Financial Officer.
+We have posted reconciliation schedules for each non-GAAP metric.
+Additional information on these factors can be found in the company's SEC filings.
+And now, I will hand the call to Gerrard.
+I'm pleased to join you today to discuss our investment thesis, our solid 2020 results and our outlook for value creation.
+I'll begin on slide 3 with our investment thesis.
+Since 2018, our focus has been on transforming our business model to generate strong free cash flow.
+We have been streamlining and simplifying our business through our DN Now transformation initiatives.
+We evolved these initiatives and increased our savings target to $500 million through 2021.
+With two years of solid execution in the books, our path to higher profitability is well under way.
+As our DN Now restructuring spend tapers off in 2021, we expect this to translate into meaningful increase in free cash flow.
+The second element of our investment thesis is the ability to leverage our digitally enhanced solutions to drive sustainable top line growth and a positive mix shift.
+Slide 4 highlights how we're transforming our business model.
+In 2021, we will continue to enhance our productivity and anticipate delivering approximately $160 million of incremental savings.
+Key initiatives for this year include continued services modernization progress, driving a higher mix of our next generation self-checkout retail devices, and next generation DN Series ATMs, and investing in digital and cloud technologies to enhance efficiencies across IT, finance and HR enablement functions.
+And with the DN Now transformation set to conclude by year-end, our restructuring payments will also come to end, with cash restructuring payments expected to be no more than $50 million this year.
+The net result of our efforts will drive a strong sequential step up in free cash flow, which is anticipated to be in the range of $140 million to $170 million for the year.
+In addition to enhancing the free cash flow generation from our operating model, we are targeting growth in areas where we have competitive differentiation.
+Within banking, we are well positioned to support the accelerating digital transformation agenda of our customers across the globe as they enhance their value proposition for their end customers and seek greater operating efficiencies.
+Our momentum with the DN Series ATMs and fourth generation cash recycling technology is promising.
+We have seen customer enthusiasm for the advanced feature set, increased connectivity through the All Connect Data Engine, greater modularity, support for advanced software capabilities and improved security features in a small footprint.
+For our services business, we are leveraging the IoT and machine learning capabilities of our All Connect Data Engine to enhance availability for customers and improve our own efficiency.
+Early deployments with legacy ATMs suggest that ACDE can reduce call rates by approximately 20%.
+In addition, we are supporting our customers' efficiency agendas through offering pre-configured managed services solutions for those customers who want the most comprehensive ATM solutions, performance levels and capabilities.
+Beyond self-service channels, we're also investing in software offerings for financial institutions.
+I will shortly describe our cloud native Vynamic Payments offering and the market opportunity on the next slide.
+Within retail, consumer journeys continue to evolve and shift toward more digital and self-service solutions.
+We are seeing strong momentum through our differentiated suite of self-checkout solutions and we further enhanced our position in January when we announced the DN Series EASY, which is a new family of self-checkout products designed to be more modular, more reliable and flexible because of its open architecture.
+2020 was a very strong year for Diebold Nixdorf from a self-checkout shipments perspective as we delivered growth of approximately 90% in the fourth quarter and just over 2% for the full year.
+The high service attach rates of approximately 90% is another reason to like this business.
+We also see opportunity to expand our software reach with retail customers.
+And we're investing in our cloud-based Vynamic Retail offerings.
+In December, we launched our cloud-based software offering for fuel and convenience customers.
+As more technologies proliferate within our retail customer environments, they are also turning to Diebold Nixdorf to support them with our comprehensive managed services offering to generate greater operating efficiencies and more integrated store operations.
+On slide 6, I'd like to highlight an exciting new software offering, which we are bringing to market, the Vynamic Payments platform.
+As the payment landscape rapidly evolves, banks are facing a proliferation of new payment types and rapidly growing payment volumes, and cumbersome legacy payment platforms limit their ability to offer a consistent and optimized consumer experience across multiple channels.
+Our cloud native solution offers a path for banks to address these pain points.
+We are currently deploying our Vynamic Payments platform at our first client, a top 10 global financial institution.
+The solution will scale to support billions of debit transactions across multiple channels.
+We also recently announced a win at one of the largest credit unions in the United States.
+Our solution leverages an API-enabled micro-services approach, which provides distinct competitive advantages for our company, including the ability to transform the banks payment operations, a flexible and future proof approach to support multiple payment types and channels, giving banks the flexibility to adapt to changing regulations, schemes, payment types and channels and the ability to quickly scale to billions of transactions.
+These characteristics place Diebold Nixdorf in a position to offer a distinctive solution versus less flexible and more expensive legacy platform providers.
+Moving to slide 7, I will recap our financial performance in 2020 and growth outlook for 2021.
+We are experiencing strong demand for our differentiated and digitally enabled solutions.
+Despite the continued complexities of the COVID-19 pandemic, product orders increased 17% in the fourth quarter, with banking growth of 34%.
+In fact, order activity across the full year exceeded our performance in 2019.
+We're also pleased that our customers are further validating our progress as customer satisfaction further improved as Net Promoter Scores from our banking customers increased substantially for a third consecutive year.
+At the same time, we enhanced our execution of the DN Now transformation initiatives and delivered approximately $165 million against our savings targets during the year.
+These achievements were the main driver behind meaningful year-over-year increases to profits and profit margins even as we experienced revenue impacts from the pandemic.
+With respect to free cash flow, our fourth quarter results of $186 million was the strongest we've experienced in eight quarters, fueled by solid profitability and strong collections.
+For the full year, the company generated $57 million in free cash flow, which exceeded our outlook by $27 million.
+In addition to our strong financial performance, I am gratified by the multiple ways in which our team adapted to the dynamic and highly uncertain macroenvironment.
+We are entering 2021 with a strong order book, differentiated and well positioned solutions and a detailed operating plan for bringing our DN Now transformation efforts to a successful conclusion.
+While we have confidence in our outlook for 2021, we also recognize that we must continue to manage a number of pandemic-related uncertainties, including the pace of easing of lockdown restrictions, wide availability and access to vaccines, and the impact on business activity, both in customer buying patterns and in our supply chain.
+Against this backdrop, our 2021 outlook is for revenue of approximately $4 billion to $4.1 billion or 3% to 5% growth, adjusted EBITDA of $480 million to $500 million which translates to 6% to 10% growth, and significant free cash flow growth to a range of $140 million to $170 million.
+On slide 8, I'll provide some more details underpinning our strong 2020 financial results.
+Strength in product orders during the quarter drove our product backlog 23% higher versus the prior year.
+In our retail business, customers are investing in automation and self-service capabilities to improve the in-store experience, while lowering operating costs.
+During the fourth quarter, we received initial orders from our milestone agreement with a pan-European grocer who was refreshing the second largest fleet of self-checkout devices in the world.
+In Poland, we procured a $7 million contract for self-checkout products and Vynamic iScan software licenses with another large grocery store.
+In our banking business, I'm pleased to report that, for the first time, DN Series ATMs contributed meaningfully to the order book.
+Success in the Middle East included two sizable deals.
+In Saudi Arabia, we booked an order with a top three bank to refresh 1,800 ATMs with DN Series.
+We also booked a new logo in Egypt for 500 DN Series in support of this bank's expansion initiatives.
+Notably, both agreements included multiyear contracts for security, monitoring and marketing software.
+In the Netherlands, we secured two new contracts valued at approximately $11 million to provide DN Series ATMs and indoor Lobby cash recyclers.
+In the Americas, we expanded our existing partnership with Citibank for additional DN Series ATMs, a full Vynamic software suite and maintenance services across 15 countries, which will help standardize the customer experience, while reducing complexity, cost and security risk.
+We also won a new contract to install 1,000 new DN Series cash recycling modules and our IoT-enabled All Connect Data Engine with the largest private bank in Brazil.
+During the first quarter of 2021, we are seeing continued success with an initial order for cash recycling DN Series units and maintenance services at a top 10 financial institution in the United States.
+We consider this win as a new logo because, for many years, this bank has purchased ATM solutions from others.
+Turning to revenue, our trajectory steadily improved as the year played out, reflecting how both the company and our customers adapted to the challenges of the pandemic.
+We reported sequential growth in the third and fourth quarter of more than 10%.
+Our fourth quarter revenue was about 5% better than our recent outlook.
+Full-year revenue of $3.9 billion declined by 11% as reported and 8% when one removes the effect of divestitures and currency fluctuations, with most of that decline attributed to COVID delays.
+In the face of revenue headwinds, we continued to execute our DN Now initiatives and deliver greater profitability.
+Adjusted EBITDA increased 13% to $453 million for the full year.
+Our adjusted EBITDA margin of 11.6% increased by 250 basis points versus the prior year.
+And I previously mentioned our strong fourth quarter free cash flow performance and now total $57 million for the year.
+Let me hand over to Jeff Rutherford who will discuss our financial performance.
+2020 was a good year for us, especially when considering the challenges of navigating a global pandemic.
+The team made tremendous progress with our DN Now transformation, delivering for customers, advancing our digital-enabled solutions, refinancing debt and living our values.
+During the fourth quarter, we made a concerted effort to accelerate our transformation expenses and cash payments with the explicit goal to complete all expenses and payments for the DN Now transformation before the end of 2021.
+During that process, new projects were identified, including in our software business, which increased our total cost and payments.
+These incremental projects will yield longer-term benefits, so there is no change to our cumulative DN Now savings target of $500 million through 2021.
+I need to note there will be no additional or incremental DN Now projects other than those identified as of today.
+For the quarter, we had spent $72 million of restructuring and transformation expenditures and paid approximately $60 million in cash.
+Since we are nearing the end of DN Now restructuring, we have scheduled all necessary severance spend.
+We are targeting a maximum of $50 million for these cash payments for 2021.
+Other non-routine expenses in the quarter were minor and include balance sheet and contract cleanup of legacy issues and costs associated with divesting non-core businesses.
+During the fourth quarter, non-routine expenses were approximately $8 million and we expect these adjustments have largely concluded, with the exception of divestiture-related costs.
+Slide 9 contains our financial highlights for the quarter and the full year.
+My comments will focus on the quarterly numbers.
+Before getting into the specifics, I'd remind everyone that the fourth quarter of 2019 was an exceptionally strong quarter for us.
+Despite a tough comparison, we performed exceptionally well.
+Revenue, adjusted EBITDA and free cash flow exceeded our prior guidance announced in October.
+Fourth quarter revenue of $1.1 billion declined 2.5% after adjusting for foreign currency and divestitures.
+Foreign currency was favorable by approximately $18 million and divestitures were unfavorable by $36 million.
+Our revenue variance was primarily due to unplanned delays of approximately $40 million, largely driven by the pandemic.
+We delivered product revenue growth of 1% versus the prior quarter, showing a strong rebound from COVID-19, and we are encouraged by robust order entry growth during the second half of 2020, supporting a stronger rebound ahead.
+Continued strong gross margin results in the quarter were offset by the revenue decline, resulting in a $7 million decline in gross profit versus the prior-year period.
+Progress on our services, modernization and software excellence initiatives drove a 50 basis point increase to total gross margin versus the prior quarter.
+Software margins expanded 850 basis points, services expanded 120 basis points and products declined 230 basis points due to a less favorable geographic customer mix in our banking segments.
+Operating profit increased $4 million or 4% versus the prior quarter, while operating margins increased 80 basis points to 9.5% for the quarter.
+We continue to show progress in reducing SG&A expense during the quarter.
+However, R&D expense was slightly higher as we continue to invest in future solutions.
+We delivered adjusted EBITDA of $128 million, which exceeded our prior outlook by $13 million.
+Adjusted EBITDA margin expanded 20 basis points year-over-year to 11.6%.
+Fourth quarter free cash long was $186 million.
+The upside to free cash flow versus our model was higher profitability and significantly stronger cash collections, which dropped our days sales outstanding by 8 days sequentially.
+Our cash performance also included the previously referenced higher restructuring and transformation payments.
+As Gerrard mentioned, we see opportunities for cloud native software growth.
+In the interest of greater transparency, we are disclosing capitalized software development in our free cash flow reporting.
+We will include capitalized software development and capital expenditures in our free cash flow definition going forward, while continuing to exclude the impact of M&A related activities and cash element of non-operating hedging derivatives.
+The next three slides contains financial highlights for our three segments adjusted for currency and divestitures.
+My comments will focus on fourth quarter trends.
+On slide 10, Eurasia Banking revenue for the quarter increased 1% to $419 million after adjusting for $36 million from divestitures, net of a $20 million benefit from foreign currency.
+Total gross profit was down $4 million year-over-year, reflecting a stable margin on lower revenue.
+We realized gross margin improvements to services and software through our transformation initiatives, offset by lower product margins due to a less favorable mix.
+Moving to slide 11, Americas Banking revenue of $375 million declined 7% versus the prior quarter, excluding a $13 million foreign currency headwind, primarily reflecting non-recurring projects in North America as well as COVID-19 related project delays.
+Segment gross profit of $100 million was down $8 million year-over-year due to the revenue decline, partially offset by gross margin expansion of 90 basis points due to our DN Now transformation initiatives and a more favorable product mix.
+On slide 12, retail revenue of $312 million was 1% lower year-over-year after adjusting for a $12 million foreign currency benefit.
+Gross profit increased to $73 million during the quarter as our mix of products was more favorable due to the rising self-checkout shipments and our DN Now initiatives positively impacting services and software margins.
+Retail gross margin expanded by 80 basis points during the quarter.
+On slide 13, we provide information about leverage and debt maturity.
+At the end of 2020, the company's net leverage ratio of 4.4 times was unchanged from the end of 2019 as the increase in EBITDA and our positive free cash flow was offset by payments associated with our debt refinancing, M&A activities and an unfavorable exchange rate on foreign net debt balances.
+Over the next three years, we will generate stronger free cash flow due to the elimination of restructuring payments, continued strong management of net working capital investments and incremental profitability.
+We expect to use free cash flow to pay down debt and we're targeting a reduction in leverage ratio to less than 3 times net debt to adjusted EBITDA by 2023.
+On the right side of the slide, we provide details for our outstanding debt.
+You can see that the next material debt maturity date is November of 2023, which provides the company with ample time to complete our transformation, strengthen our credit profile and execute on our growth initiatives.
+In response to investor questions, I will discuss our income tax structure, key considerations and cash tax payments as disclosed on slide 14.
+Our company's tax structure consists of two tax principals, the United States and Germany.
+The tax principals provide products and related support to distribution subsidiaries in approximately 60 countries.
+Due to high restructuring, transformation and interest payments, the combined tax principals reported a pre-tax loss, but paid approximately $7 million of income taxes due primarily to tax loss pertaining to the US foreign source income alignment, or in tax jargon, if you prefer that, the Global Intangible Low Tax Income, GILTI provisions and Subpart F provisions of the US tax code.
+And also, due to US limitations on the deductibility of interest payments.
+The distribution subsidiaries pay the principals for products and related services.
+And as appropriate, these entities generate taxable income.
+On a collected basis, distribution subsidiaries paid approximately $30 million in cash income taxes during 2020, bringing total company cash income taxes to approximately $37 million.
+Looking to 2021, we expect to report pre-tax income on a consolidated basis due to continued operating profit growth and the significant reduction of transformation and restructuring expenses.
+Taking into account all the factors listed on this slide, we expect cash tax payments in 2021 will be approximately $35 million, while targeting an effective tax rate of 25% to 30%.
+We have implemented tax planning initiatives designed to benefit our tax efficiency going forward.
+For the two principals, we seek to better align foreign sources of taxable income, with appropriate market consideration, while improving the deductibility of interest payments with principal taxable income.
+For our distribution subsidiaries, the main opportunity is to rebalance the distribution of income based on true transaction economics.
+On slide 15, I will discuss our 2021 outlook.
+We are expecting revenue in the range of $4 billion to $4.1 billion, which translates to a 3% to 5% growth.
+Based on our order book as well as the challenges of 2020, we are expecting product revenue growth to lead the way and for banking growth to modestly exceed retail growth.
+Divestitures, which have already been completed, are expected to result in a headwind of approximately $50 million to services revenue, with the majority impacting our first half results.
+Our adjusted EBITDA range is $480 million to $500 million or 6% to 10% growth.
+Key contributions are expected from top line growth and $160 million of DN Now savings, primarily from higher mix of DN Series, software excellence and greater efficiencies from our service organization and All Connect Data Engine.
+Offsetting these benefits are approximately $40 million of incremental growth investments in growth areas, which Gerrard discussed today, a $40 million reversal of one-time savings and services gross margin benefits, which occurred in 2020, and investments we are making in people, which primarily relate to the timing and magnitude of merit increases, and also inflation.
+The net effect of revenue growth, DN Now savings and offsetting expenses generates the EBITDA growth previously referenced.
+For operating expenses, the net effect will be approximately $20 million of higher expenses in 2021 versus 2020.
+In terms of seasonality, we expect our first half will account for approximately 45% of annual revenue and approximately 40% of annual adjusted EBITDA.
+Moving on to our free cash flow outlook.
+We expect to generate $140 million to $170 million in 2021, representing an EBITDA to free cash flow conversion rate of approximately 30%, up from 12% in 2020.
+We expect net working capital to be a $50 million source of funds in 2021 as accounts receivable DSOs and inventory investments normalize from COVID-19 impact.
+Uses of cash include the following approximate amounts.
+$170 million in interest payments; $50 million of restructuring payments; $85 million of capex and software development payments; and 75 million from cash taxes, pension and other items.
+The sequential increase in our capital expenditures is driven primarily by payments associated with accelerating our digital capability and moving workstreams to the Oracle Cloud for IT, HR, finance, and sales support.
+Modernizing our enablement functions and tools will facilitate future efficiency gains that provide better analytics, enabling the company to leverage growth and run a more efficient and agile business.
+Additionally, our investments in capitalized software are supporting development of our cloud native software offerings, Vynamic Payments and next generation Vynamic Retail.
+We believe our 2021 outlook reflects the proper balance of top line and profitability growth, higher free cash flow conversion and investments for the future as we continue to generate long-term value for our stakeholders.
+And now, I will hand the call back to Gerrard for comments on our 2023 financial targets and our ESG initiatives.
+Starting with revenue, we are targeting annual organic revenue growth of 2% to 4% through 2023, supported by the areas which I discussed earlier.
+We are focused on high quality revenue growth, which will be accretive to the company.
+We also expect to deliver ongoing operational efficiencies and gross margin expansion in our services business through widespread deployment of our All Collect Data Engine, which underpins our gross service margin target range of 32% to 33%.
+In addition, we will be driving continuous improvements through the use of digital tools and standard processes.
+Collectively, these factors contribute to an adjusted EBITDA target for 2023 in excess of 13%.
+Stronger profitability, substantially lower restructuring costs and more efficient net working capital management are key levers toward our goal of improving the conversion of adjusted EBITDA to levered free cash flow.
+Our plans call for increasing this ratio from 12% in 2020 to approximately 30% in 2021 and approximately 50% in 2023.
+We expect cumulative three-year levered free cash flow to exceed $600 million.
+Furthermore, we believe the company can generate a return on invested capital of greater than 20%.
+As we increase our profitability and use excess cash to pay down debt, we expect to reduce our leverage ratio to less than 3 times net debt to trailing 12 months adjusted EBITDA.
+As part of our commitment to sustainable growth, we are also affirming our commitments to be a leader in our sector in environmental, social and governance, or ESG, matters.
+Our key initiatives are summarized on slide 17.
+First, sustainable supply chain and operations is vital to our customers and suppliers.
+Our focus is on reducing our carbon footprint, promoting recycling and using environmentally sustainable materials, and we are applying all these principles in the design and production of our new product lines, such as DN Series ATMs, DN Series EASY and BEETLE point-of-sale.
+Since 2015, we have systematically reduced our carbon emissions by 16,500 metric tons, and we report our results in the Carbon Disclosure Project.
+And as we have discussed on prior calls, we continue to prioritize the health and safety of our employees through the pandemic through educational, personal protection equipment and specific initiatives supporting employees in the hardest-hit countries.
+As a global company, operating with customers in over 100 countries and employees in more than 60 countries, we also take our role as a global citizen seriously.
+With respect to diversity and inclusion, we have formed a CARE Council to promote inclusive values where we're considerate, aware, responsible and empathetic toward one another.
+And we are holding one another accountable to create a great working environment for our diverse and global workforce.
+Our impact on local communities is also important to us.
+As part of our global citizenship actions, the Diebold Nixdorf Foundation has committed to $0.5 million to expand financial literacy in underserved populations through an organization called Operation HOPE.
+We invite you to learn more about our overall efforts by reviewing our recently released corporate sustainability report, a link of which is available through our slide deck or on our website.
+I'll hand the call back to our operator, Ashley, to begin our question-and-answer session.

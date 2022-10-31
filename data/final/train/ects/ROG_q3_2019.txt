@@ -1,0 +1,157 @@
+The slides for today's call can be found on the investor section of our website along with the news release that was issued today.
+Before we begin I would like to note that statements in this conference call that are not strictly historical or forward looking statements within the meaning of the private securities litigation Reform Act of 1995 and should be considered as subject Too many uncertainties that exists in Rogers operations and environment.
+These uncertainties include economic conditions market demand and competitive factors.
+Also the discussions during this conference call may include certain financial measures that were not prepared in accordance with generally accepted accounting principles.
+Reconciliation of those non GAAP financial measures the most directly comparable gap financial measures can be found in the slide deck for today's call which is posted on the investor section of our website.
+Before discussing Rogers' third quarter results I would like provide some context around the business environment in which we are operating and its effect on both our Q3 results and the outlook for the remainder of the year.
+Similar to what many other companies have reported in recent weeks macroeconomic conditions are creating softness in the global economy.
+In addition ongoing trade tensions are generating headwinds and in some cases limiting near-term demand visibility from a market perspective industrial and conventional automotive demand which had begun to slow in late Q2 weakened further in the third quarter.
+These challenges are continuing into Q4 with recent economic data pointing to declining factory activity lower industrial output and falling auto sales.
+In addition the geopolitical tensions between China and the U.S. which have resulted in trade restrictions on sales to Huawei are impacting 5G demand.
+While Rogers is able to continue sales to our direct fabricator customers there is uncertainty regarding waterways ability to maintain 5g deployments.
+Without certain us components and whether the performance of its alternative base station design will be acceptable.
+It is also not clear what impact these factors will have on Huawei share of the market.
+A byproduct of these trade restrictions has led Huawei to consider local sources of supply for high frequency circuit materials.
+Even though these alternative materials have performance limitations as compared to Rogers products.
+Although these challenges are impacting our near term results we continue to see very compelling market opportunities.
+And we remain focused on the key pillars of our strategy to enable our success.
+With this context in mind I'll now turn to our results for the quarter.
+Rogers achieved q3 net sales of 220 $2 million and adjusted earnings of $1 51 per share.
+Despite the market headwinds I mentioned which tempered our top line performance our adjusted earnings exceeded the high end of our guidance as a result of favorable product mix progress on gross margin improvement efforts efficient management of operating expenses and a lower effective tax rate.
+Demand for Rogers products remained strong in certain sectors.
+For example portable electronics demand was reasonably favorable in q3 and we achieve sequential revenue growth of approximately 5%.
+Year to date growth has been particularly robust.
+Due to our leading product portfolio.
+Our results have meaningful meaningfully outperformed the overall handset market.
+Also demand for ADAS applications remained solid year-to-date despite weakness in global auto sales.
+The uniqueness of our material solutions combined with the increased market penetration of ADAS is a key enabler of our success.
+Growth in the ADAS market is expected to continue driven by an increasing number of new vehicles adopting auto radar systems and as the average number of sensors per vehicle increases with higher levels of autonomy.
+Finally aerospace and defense sales were robust in Q3 and year-to-date revenue is up significantly relative to 2018.
+Turning to areas where we were impacted by the previously mentioned challenges Q3 wireless infrastructure sales declined versus Q2 due to lower 4G demand and the collateral effects of ongoing trade tensions already discussed.
+Based upon customer and industry analyst inputs we expect the recent pause in the 5G rollout to continue through the end of the year and believe that China 5G deployments will rebound in the first half of 2020.
+We anticipate continued weakness in 4G deployments as a result of the Chinese telecoms prioritizing capex investments in 5G.
+And soft demand for power semiconductor substrates used in industrial power and vehicle electrification applications for conventional automotive also impacted revenue for the quarter.
+In summary we saw solid Q3 results in certain market segments tempered by a number of headwinds that we anticipate will continue into Q4.
+We are optimistic about the opportunities we have in areas of advanced connectivity and advanced mobility.
+And as I'll discuss next we are encouraged by a number of recent developments which point toward significant opportunities for future growth.
+Within Advanced Connectivity we see 5G as a multiyear growth opportunity for Rogers where market indications continue to point toward increased deployments in 2020.
+At a recent forum China Mobile increased their target for 5G coverage to 340 cities by the end of next year underscoring their expansion plans.
+This followed recent news from Chinese telecoms that advanced subscriptions for 5G service which is not yet available have already reached approximately 9 million.
+Third-party experts expect 2020 5G deployments to be in the range of 600000 base stations which at that scale would provide an opportunity for substantial growth in our 5G wireless infrastructure business next year.
+Low earth orbit or LEO is a significant emerging growth opportunity within Advanced Connectivity.
+Several companies are competing to deploy large constellations of satellites that would provide high-speed internet to underserved areas.
+Rogers is well-positioned to capitalize on this opportunity given our tremendous strength in the materials technologies needed to enable the complex antenna solutions that will be part of the receiver systems located on Earth.
+We are also encouraged by the progress of some companies in this sector to launch commercial services.
+For example in recent months one leading company announced plans for broadband internet coverage in targeted areas in 2020 with full global coverage by the end of 2021.
+Looking to advanced mobility we remain optimistic about the strong opportunities in EV and HEVs.
+A recent IHS market report projects that through 2025 sales of EVs and HEVs will increase at a compounded annual growth rate of approximately 30%.
+These expectations for ambitious growth are underpinned by the plans of leading automakers and reinforce that this is a growing sustainable market for Rogers' Power Electronics Solutions.
+One example is VW which recently unveiled the first model in its new all-electric brand that will be delivered to customers early next year.
+This is the first step in VW's plan to sell up to 3 million EVs and HEVs annually by 2025.
+Additionally, Daimler recently announced that they will discontinue all future development of internal combustion engines further signaling the shift in focus to electric vehicles.
+By 2022 Daimler is scheduled to bring 10 all-electric vehicles to market and plans to eventually electrify the entire Mercedes Benz portfolio.
+Rogers is also targeting EV charging infrastructure which is a related emerging growth opportunity for our Power Electronics Solutions.
+ACS third quarter net sales were $79 million a decrease of 15% from the prior quarter and an increase of 10% versus the prior year.
+As discussed earlier this decline is primarily attributed to lower 4G and 5G sales.
+ADAS demand remained strong in Q3 and year-to-date sales have grown 8% compared to 2018.
+Aerospace and defense sales increased 17% versus Q2 and year-to-date results are up over 20% versus the prior year.
+This market segment is highly program-dependent and while we don't anticipate demand for these applications to grow at the same rate into the future we do expect stable and consistent high single-digit growth over time.
+As we look ahead we anticipate that 4G and 5G demand will continue to be soft through the end of the year.
+However we expect 5G demand to rebound in the first half of 2020 with the next wave of deployments.
+Turning to Slide 7 in Q3 EMS net sales were $95 million a slight increase compared to Q2.
+Seasonally strong portable electronics sales drove the sequential increase in revenue.
+A decline in demand for general industrial and EV/HEV battery applications partially offset the growth in portable electronics.
+Year-to-date sales of applications for EV/HEV battery pads and battery pack sealing systems have increased 29% versus the prior year highlighting the excellent growth opportunity in this area.
+The lower Q3 revenue is the result of the recent decline in the China EV market.
+We are very pleased with the progress we are making toward the new design wins with a number of European and other automakers for EV battery pad solutions.
+We expect this to continue to be a driver of growth over the next several years.
+Looking ahead to the fourth quarter we anticipate total EMS segment sales to decline sequentially in line with normal seasonal patterns.
+Turning to Slide 8 PES third quarter net sales were $43 million a decrease of 17% from Q2.
+As we anticipated at the outset of the quarter sales of power semiconductor substrates in industrial power and vehicle electrification applications for conventional automobiles declined due to weak market demand in Q3.
+Sales of power substrates used in EVs and HEVs also declined largely due to the previously mentioned soft China EV market which primarily uses lower-end solutions.
+The outlook continues to be strong for our new generation wide band gap semiconductor silicon nitride substrates which are used in high-end EVs and where Rogers has a leading position.
+Operational improvements in PES remain a top priority with new leadership in place.
+We are executing on our performance recovery plan including yield improvements.
+As we look to Q4 we expect industrial and automotive market demand to be stable as compared to Q3.
+Looking ahead in PES the EV/HEV market opportunity is extremely compelling and we firmly believe that we are well-positioned to fully take advantage of this opportunity.
+As I indicated earlier we like other global companies are facing macro headwinds in both the industrial and conventional automotive markets and feeling the impact of trade tensions.
+These challenges are having a near-term impact as is the pause in 5G deployments in China.
+The achievement of our 2020 vision has always been closely tied to growth in the advanced mobility and advanced connectivity markets supported by modest growth in the industrial and conventional automotive markets.
+As I explained we remain confident in this growth and our ability to succeed in these areas.
+However given the challenging market and global economic conditions there is an increased uncertainty that we will attain these targets as a run rate as we exit 2020.
+Having said that I want to stress that we continue to believe that there is tremendous opportunity in the advanced connectivity and advanced mobility markets supported by our broader portfolio.
+We are optimistic about the 5G opportunity with the recovery expected in the first half of 2020 and a further multiyear growth horizon.
+The growth opportunity in EV/HEV is equally exciting with opportunities both in power semiconductor substrates and solutions for batteries.
+All of this gives us confidence in our ability to grow our business and achieve these targets.
+In the slides ahead I'll review our third quarter 2019 results followed by our fourth quarter guidance.
+Turning to Slide 11 we will review the financial results for Q3 2019.
+Third quarter revenues as previously noted were $221.8 million below our Q3 guidance range of $225 million to $235 million.
+Q3 revenues decreased 9% on a sequential basis and 2% compared to the third quarter 2018.
+As Bruce noted in his comments weak demand for products serving the wireless infrastructure market for both 4G and 5G applications as well as soft demand for power semiconductor substrate used in industrial power and conventional automotive applications are responsible for the lower sequential revenues.
+We achieved a gross margin of 35.6% for the third quarter 30 basis points higher than Q2 and within our guidance range of 35% to 36% due primarily to a favorable product mix and reduced spending in all of our business segments to react to the softer market demand in Q3 and expected to continue through Q4.
+Our gross margin was negatively impacted by lower production volumes and the ongoing pressure from tariffs resulting from the continued trade tensions between the U.S. and China.
+Adjusted operating income for Q3 2019 was $36.2 million or 16.3% of revenues compared to $41.7 million or 17.2% of revenues for Q2.
+Adjusted operating expenses decreased by $1.4 million in the third quarter compared to the second quarter.
+GAAP earnings per share of $1.25 per fully diluted share and adjusted earnings per share of $1.51 per fully diluted share for Q3 2019 were above the upper end of our guidance range for Q3 but below Q2 levels.
+The good earnings performance both on a GAAP and an adjusted basis resulted primarily from spending control and a lower-than-forecasted effective tax rate for the third quarter.
+The company generated $33.4 million of free cash flow in the third quarter and $76.8 million year-to-date.
+The company has paid down $98 million of debt year-to-date and ended the third quarter in a net cash position of $10.3 million.
+Turning to Slide 12 our Q3 2019 revenues of $221.8 million decreased $21.1 million or 9% compared to the second quarter of 2019.
+The sequential decrease was experienced in our ACS business segment down 15%; and our PES segment down 17%.
+The EMS business segment saw its revenues increase slightly over the second quarter.
+Currency exchange rate negatively impacted 2019 third quarter revenues by $1.6 million compared to Q2.
+The decrease at ACS revenues resulted primarily from a slowing 4G demand and a near-term delay in the 5G rollout in China.
+As a result our wireless infrastructure revenues declined 35% sequentially.
+4G revenues which were basically flat year-to-date through June compared to the same period in 2018 are now 10% lower year-to-date through September compared to 2018 and are expected to remain soft through Q4.
+Revenues from aerospace and defense programs were strong in Q3 growing 19% sequentially and are up 17% year-to-date compared to 2018.
+ADAS revenues were down 7% sequentially from a strong second quarter but are up 8% year-to-date compared to 2018 in the face of a weak auto market.
+Revenues in our EMS segment increased sequentially due to strong demand for portable electronic applications.
+The third quarter is typically the strongest quarter for portable electronics revenues which grew 5% sequentially and 10% compared to Q3 2018 due to our customers' commercialization of new handset and tablet designs.
+General industrial application revenues which comprise close to 40% of the business segment's revenues were down slightly compared to the second quarter and down 5% compared to the third quarter 2018.
+As noted in Bruce's remarks PES experienced weaker demand and lower revenue in Q3 primarily from power semiconductor substrates for general industrial and conventional vehicle electrification applications.
+Revenues for these applications decreased sequentially by 20% and 13% respectively and decreased 27% and 26% respectively compared to Q3 2018.
+For power semiconductor substrate for EV/HEV applications demand weakened in the third quarter consistent with lower demand for low-end EVs particularly in China.
+As a result revenues per EV/HEV applications declined 35% sequentially.
+However revenues were up 16% year-to-date.
+Turning to Slide 13 our gross margin for Q3 2019 was $78.9 million or 35.6% of revenues 30 basis points higher than our second quarter gross margin of 35.3%.
+The increase in gross margin percentage was due to a favorable product mix and reduced spending to adjust for the significantly reduced volume.
+These benefits were mostly offset by the effects of lower manufacturing volume and the continued impact of tariffs resulting from the ongoing trade tensions between the U.S. and China.
+As we expect to see increased demand for the next wave of the 5G rollout we are intentionally carrying additional manufacturing cost to efficiently address the opportunity reflected as strategic investments.
+We were pleased with the increased gross margin percentage from the EMS business in Q3 resulting from a favorable product mix and reduced manufacturing spending to offset lower volumes.
+We continue to see progress on EMS performance issues related to consolidation and optimization efforts reflected in the company gross margin.
+ACS gross margins declined in the third quarter due to significantly lower volumes mitigated by a favorable product mix compared to Q2.
+While we reduced our manufacturing cost in the third quarter to reflect lower demand we did not flex our cost proportionately with the lower manufacturing volumes in the quarter.
+We carried additional resources in order to enable our factories to respond to the anticipated increase in 5G demand in the first half of 2020.
+In the third quarter the PES gross margin continued to be negatively impacted by the significantly reduced demand for our power semiconductor substrate across all applications.
+We continue to execute on our recovery plan and we are encouraged by signs of progress on yield in the third quarter.
+As we have discussed previously the recovery plan will require multiple quarters to execute with contributions to overall gross margin beginning in Q4 and accelerating in the first half of 2020.
+We continue to address our cost structure in PES to compensate for the lower volume while still maintaining our ability to support the increasing demand in the wide band gap semiconductor power applications.
+Tariffs continued to be a headwind to gross margin in the third quarter impacting gross margin by approximately $2.3 million or 106 basis points an increase of 26 basis points compared to Q2.
+We are working aggressively to leverage our factory footprint and to optimize our supply chain to mitigate the effect of tariffs.
+We expect to see the benefits of the actions in the form of lower tariffs as a percent of revenues beginning in the first half of 2020.
+Relative to our third quarter gross margin the path to the higher gross margin is through improved operational execution in PES and EMS contributing 200 to 250 basis points mitigating the impact of tariffs contributing 50 to 100 basis points and increased volume in all our businesses particularly 5G revenues contributing 100 to 200 basis points.
+Slide 14 details the changes to adjusted net income for Q3 2019 of $28.2 million compared to adjusted net income for Q2 of $30.7 million.
+As discussed earlier the adjusted operating income for Q3 2019 was lower than Q2's adjusted operating income both on a dollar and a percent of revenue basis.
+Adjusted operating expenses for Q3 of $42.7 million or 19.2% of revenues or $1.4 million lower than Q2 adjusted operating expenses of $44.1 million or 18.2% of revenues.
+The lower expenses resulted from reduced SG&A cost from spending control measures.
+Our effective tax rate for Q3 2019 was 18.6% compared to our Q2 effective tax rate of 22.9%.
+The lower effective rate for Q3 was primarily due to a geographic profit mix and the reversal of reserves associated with uncertain tax submission.
+The company expects the 2019 effective tax rate to be 20% to 22% with the fourth quarter effective tax rate of 22% to 24%.
+Turning to Slide 15 we ended the third quarter 2019 with a cash position of $140.7 million a decrease of $32.4 million from June 30 and a decrease of $27 million from December 31.
+In Q3 the company spent $14.8 million on capital expenditures.
+We have spent $38.8 million year-to-date and we guide capital spending for the year in the range of $50 million to $55 million.
+The company paid down $65 million of debt in the quarter and has paid down $98 million of debt in 2019.
+As of September 30 we are in a net cash position of $10.3 million.
+The company generated $48.2 million from operating activities in Q3 including a decrease in working capital of $9.9 million.
+Through September the company generated $115.7 million from operating activities net of an increase in working capital of $4 million primarily from the increase in inventory with long lead times.
+Taking a look at our Q4 guidance on slide 16 we are facing near-term macroeconomic headwinds as well as softness in certain of our markets from ongoing trade tensions that we expect to continue through Q4.
+In addition Q4 is a seasonably low quarter for portable electronics.
+Therefore revenues for Q4 are estimated to be in the range of $200 million to $210 million.
+In response to the market weakness we will continue to adjust our spending for manufacturing infrastructure SG&A and capital expenditures.
+We will also continue our progress addressing yields at PES and optimization at EMS as discussed earlier.
+Even with these actions an unfavorable product mix a meaningful reduction in volume and continued tariff headwinds will negatively impact our gross margins in Q4.
+As a result we are guiding gross margin in the range of 33% to 34% for Q4.
+The pension plan was adequately funded therefore the company was not required to make additional cash contributions to fund the plan.
+The company will however take a $52 million to $56 million non-cash charge to income for other accumulated losses for the plan that were recorded as part of our equity.
+As a result we guided GAAP Q4 loss in the range of $1.43 to $1.28 per share.
+On an adjusted basis we guide the fully diluted earnings in the range of $1.00 to $1.15 per share for the fourth quarter.

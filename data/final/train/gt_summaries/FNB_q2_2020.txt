@@ -1,0 +1,4 @@
+compname reports second quarter 2020 earnings per share of $0.25.
+compname reports second quarter 2020 earnings per share of $0.25, a 79% increase from prior quarter.
+q2 earnings per share $0.25.
+q2 operating earnings per share $0.26.

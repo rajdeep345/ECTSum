@@ -1,0 +1,127 @@
+Certain risk factors inherent in our business are set forth in filings with the SEC including our most recent 10-K and subsequent filings.
+We caution you not to place undue reliance on these statements.
+Some of the comments made refer to non-GAAP financial measures such as adjusted net revenue, adjusted operating margin, and adjusted earnings per share, which we believe are more reflective of our ongoing performance.
+Joining me on the call are Jeff Sloan, CEO; Cameron Bready, President and COO; Paul Todd, Senior Executive Vice President and CFO.
+We delivered our best performance since the end of 2019 because of our focus on technology enablement coupled with the excellence in execution.
+Our results demonstrated strong sequential momentum from the fourth quarter of 2020 and improved monthly throughout the first quarter of 2021.
+We are encouraged by the overall run rates we are seeing in the business.
+We exited the first quarter in a better position than we entered it.
+We are delighted to haveto return to growth in the first quarter of 2021.
+We were able to deliver revenue, margin, and earnings-per-share growth despite facing difficult year-over-year comparisons as the pandemic did not begin to impact our business until mid-March 2000.
+We are pleased today to announce two strategic acquisitions for approximately $1 billion in total that further are software-driven technology enabled strategy and deepen our presence in the most attractive markets globally we expect to continue to gain market share and extend our lead.
+In combination with the roughly $1 billion in share repurchases we've affected since returning to our capital allocation strategy at the end of last year, we continue to balance appropriately reinvestment in the future growth of our business with efficient return of capital.
+First with our agreement to acquire Zego, we enter one of the largest and most attractive vertical markets worldwide.
+Real estate is the contestants of the type of market that we seek, sizable, global in scope, fragmented and right for further software digital commerce and payments penetration, and COVID-19 has accelerated the underlying changes that make this $6.5 billion target addressable market so attractive.
+Zego is a leading software and payments technology company with significant scale delivering a comprehensive real estate technology platform to 7300 customers representing more than 11 million residential units in the United States.
+Zego is digital omni-channel solutions support property managers and residents throughout the real estate life cycle, from leasing and on-boarding, to work orders, utility management, resident communications, renewals, off-boarding and of course, payments.
+Through its integrated payments offering, legal processes approximately $30 billion in payments annually in a market with a volume opportunity that exceeds $1 trillion, the company delivers its full value stock through cloud native SaaS platform to enable seamless digital property management and best-in-class resident engagement and omni-channel experiences.
+It is a highly scalable and predictable flywheel with compelling recurring revenue, strong retention rates, booking trends and lifetime customer value returns with double-digit organic revenue growth.
+Importantly, we have significant opportunities to accelerate Zego's growth.
+We intend to leverage Global Payments scale and digital expertise to further payments penetration into Zego's base, generate incremental property and software partner referrals to more than 3500 sales and sales support professionals expanded footprint outside the United States and generate meaningful cross-selling opportunities into its vertical market including innovative products we already deliver into our merchant business like payroll, data and analytics and replication management.
+We could not be more excited about further capitalizing on the convergence of software and payments and we look forward to welcoming Zego team members to Global Payments.
+Second, we are excited to have reached an agreement to our Erste joint venture to purchase Worldline's PAYONE business in Austria consisting of roughly 8,000 primarily SMB merchant customers in Erste banks home market.
+We entered Austria through organic market expansion of our Continental European joint venture roughly 18 months ago.
+This pending acquisition enables us to bring our distinctive distribution and marketing technology to add scale to get another attractive market.
+In addition to these strategic accomplishments in early 2021, we also produced a solid first quarter results across our existing businesses.
+First, in our merchant segment we delivered significant sequential improvement fueled by our technology-enabled focus and the conversion of last year's share and bookings gains into revenue.
+And we generated these results while absorbing ongoing lockdowns in Canada and renew restrictions in selected markets in Europe and Asia Pacific.
+Some highlights in the first quarter of 2021 include record new sales in our Global Payments Integrated business in March and in our US relationship-led business for the quarter, record revenue growth at GPI for the quarter well in excess of pre-pandemic levels, record bookings at Xenial for a cloud-based restaurant POS software and solutions and continued sequential acceleration in our omni-channel businesses.
+It is worth highlighting that volumes accelerated throughout the quarter, a trend that has continued into April.
+Key customer wins include subway, CKE Restaurants A&W Foods and [Indecipherable].
+It's also notable that several of these businesses that were most impacted by COVID-19 saw substantial sequential growth in revenue and bookings in the first quarter as our home market end of recovery.
+For example, active in gaming achieved significant improvement as better macrotrend strong execution and solid bookings over the course of 2020 benefited performance in 2021.
+In fact, we continue to see positive booking trends across our software portfolio as the ability to deliver a full value stock is increasingly becoming table stakes in the markets we serve.
+We also made considerable progress on the partnership with Google that we announced in February.
+We expect for Google as a merchant customer in select Asian markets in the third quarter with North America to follow shortly thereafter.
+We have initiated our coastal programs and are beginning to see referrals from Google on a number of their enterprise class clients.
+We anticipate launching our Wanting Grow [Phonetic] My Business product that integrates Google solutions with our innovative capabilities in our digital portal environment in the fourth quarter of this year and we have launched our co-innovation efforts to develop new commerce enablement tools for our merchant customers.
+Second, our issuer business continues to benefit from strong relationships with market leaders and we are excited to announce today that we have entered into a multi-year renewal with Barclays Consumer Bank in the United States.
+Barclays is one of our largest customers globally and we provide a range of processing and support technologies for both Barclays consumer and commercial credit card portfolios.
+We look forward to working with Barclays to enable a best-in-class customer experience with unparalleled levels of security and resiliency for its newest partner, the gap and its portfolio of accounts, yet another competitive takeaway.
+Partnering with issuers that are gaining share in the marketplace is a key element of our strategy.
+We were also pleased to have signed agreements with Mission Lane and UMB Financial with the latter being a competitive takeaway in which with the prior processing relationship had spanned decades.
+In collaboration with AWS, UMB will adopt our cloud-based data and analytics platform which we also successfully deployed during the quarter for a multi-country customer in Latin America.
+We continue to capitalize on the broad and deep pipeline we have the good fortune to have in our issuer business.
+Today, we have 12 letters of intent with financial institutions worldwide, six of which are competitive takeaways.
+Turning to AWS, we expect to go live with our first joint takeaway with a multinational financial institution in Asia by the end of the year.
+Our Cloud Prime Instant [Phonetic] is now up and running currently in that market in preparation for the launch.
+We have another dozen active customers in our pipeline of AWS, up from four at the end of 2020.
+Third, our business and consumer segment delivered record revenue growth.
+I am very proud that Netspend once again facilitated the rapid distribution of stimulus funds to customers most in need.
+Since late December 2020, we have processed more than 2 million deposits accounting for over $3.5 billion in stimulus payments disbursed by the IRS to American consumers, and this was done days in advance of many of our traditional financial institution and financial technology peers.
+In combination with the 2020 stimulus payments, we have disbursed more than $5 billion in aid to customers through the first quarter of 2020.
+The pandemic accelerated move toward cashless solutions is also benefiting Netspend.
+For example, we are seeing rapid adoption of our tips solution and we've reached a new agreement with Flynn Restaurant Group for its Pizza Huts and Wendy's franchise locations, which will drive additional PayCard and potential tips opportunities across our combined footprint in more than 1000 restaurants.
+We also launched our cashless stadium card linked to a digital wallet with the Phoenix Suns at the Phoenix Suns Arena.
+These achievements serve as proof points of our differentiated strategy that includes product extensions into the P2P, B2B and B2C segments.
+I cannot be more pleased with all that we accomplished across our businesses this quarter.
+In March, we returned to year-over-year growth in each of our three segments and the underlying trajectories are tracking for the long-term goals just as we predicted it would, despite the impact of ongoing restrictions and lockdowns in some of our markets outside the United States.
+We are pleased with our financial performance in the first quarter of 2021 which demonstrated meaningful sequential momentum and reflected our ongoing strong execution across the business.
+Specifically, we delivered adjusted net revenue of $1.81 billion representing 5% growth compared to the prior year and marking an 800 basis point improvement relative to the performance we reported in the fourth quarter of 2020.
+Adjusted operating margin for the first quarter was 40.6%, a 160 basis point improvement from the prior year that was achieved despite the return of certain cost we temporarily reduced at the onset of the pandemic.
+On a comparable basis, underlying margin trends would have improved approximately 300 basis points.
+Adjusted earnings per share were $1.82 for the quarter, an increase of 15% compared to the prior year period and was especially impressive in light of the difficult year-on-year comparison due to COVID-19.
+The pandemic did not begin to impact our business meaningfully until the second half of March of last year and that as a reminder, we delivered 18% adjusted earnings-per-share growth in the first quarter of 2020.
+Taking a closer look at our performance by segment, Merchant Solutions achieved adjusted net revenue of $1.15 billion for the first quarter and 4.4% improvement from the prior year which marked a nearly 900 basis point improvement from the fourth quarter.
+We delivered an adjusted operating margin of 463% in this segment, an increase of 90 basis points from the same period in 2020 as we continue to benefit from our improving technology enabled business mix.
+Global Payments Integrated produced a stellar quarter generating in excess of 20% adjusted net revenue improvement, which is ahead of the levels of growth this business was delivering pre-pandemic.
+Additionally, our worldwide e-commerce and omni-channel businesses excluding T&E delivered roughly 20% growth as our value proposition that seamlessly spans both the physical and virtual worlds continues to resonate with customers.
+As for our own software portfolio, we are encouraged to see that several of our businesses most impacted by the pandemic improved meaningfully sequentially as Jeff mentioned, and it is worth highlighting that our gaming business returned to growth this quarter and across our vertical markets portfolio bookings continue to prove resilient in the first quarter, providing us with a positive tailwind for the balance of 2021.
+We are also pleased that our US relationship-led business generated high single-digit adjusted net revenue growth for the first quarter, which is consistent with our long-term targeted growth rate for this channel despite a difficult comparison to the first quarter of 2020 and notwithstanding a challenging environment in several of our international markets, our portfolio of businesses across Europe and Asia improved significantly and delivered adjusted net revenue that was essentially flat with last year for the quarter.
+Importantly, because our international businesses are largely focused on the best spending in the markets in which we operate, we are seeing improvement in these businesses well in advance of cross-border commerce recovery.
+Moving to Issuer Solutions, we delivered $439 million in adjusted net revenue for the first quarter, which was roughly flat versus the prior year period and exceeded our expectations given traditional fourth quarter to first quarter sequential trends.
+Excluding the commercial card business, our Issuer segment grew in the low single digits for the quarter and in the month of March, Issuer delivered growth in aggregate despite continued commercial card headwinds as we benefited from the ongoing recovery in transaction volumes across many of our markets.
+We also saw non-volume based revenue increased mid-single digit in the first quarter.
+Notably, our Issuer business achieved record first quarter adjusted operating income and adjusted segment operating margin expanded 370 basis points from the prior year also reaching a new first quarter record of 43.2% as we continue to benefit from our efforts to drive efficiencies in the business.
+Additionally, our Issuer team signed three long-term contract extensions and three new contracts since the start of the year and our strong pipeline bodes well for future performance consistent with our long-term expectations.
+Finally, our Business and Consumer Solutions segment delivered record adjusted net revenue of $244 million, representing growth of nearly 20% from the prior year.
+Gross dollar volume increased 26% or $2.5 billion as we benefited from the stimulus we disbursed to our customers.
+Trends within our DDA products were also very strong helped by the stimulus and we realized an acceleration in active account growth of more than 45% compared to the prior year.
+Excluding the impact of stimulus payments and tax, we believe that this business achieved underlying growth in the roughly mid-single digit range in line with our long-term targets.
+Adjusted operating margin for this segment improved an impressive 750 basis points to a record 33.2% as the benefits of the stimulus and long-term cost initiatives post-merger took effect.
+The solid performance we delivered across our segments highlights the resiliency of our technology enabled portfolio, consistency of our execution and the strong tailwinds in our business coming out of the pandemic.
+We are also pleased that our integration continues to progress well and we remain on track to achieve our increased goals from the TSYS merger of annual run rate expense synergy of at least $400 million and annual run rate eevenue synergies of at least $150 million within three years.
+From a cash flow standpoint, we generated adjusted first quarter free cash flow of roughly $583 million after reinvesting $86 million in capital expenditures.
+We expect adjusted free cash flow of more than $2 billion and capital expenditures to be in the $500 million to $600 million range for the full year.
+In mid-February, we successfully issued $1.1 billion in senior unsecured notes maturing in 2026 at an attractive interest rate of 1.2%.
+The transaction was credit neutral with the proceeds used to redeem $750 million of notes outstanding with a rate of 3.8% due in April 2021.
+The balance of the proceeds were used to reduce our outstanding revolver.
+We have no significant maturities until 2023.
+Our strong cash generation and healthy balance sheet have enabled us to create significant value through our capital allocation strategy to the benefit of our shareholders.
+We are pleased to have repurchased roughly 4 million of our shares for approximately $783 million during the first quarter, which includes the execution of the $500 million accelerated share repurchase program we announced last quarter.
+We ended the quarter with roughly $3 billion of liquidity and a leverage position of roughly 2.6 times on a net debt basis, and we are excited to announce that we have reached agreements to make additional investments in our technology enabled strategy and market expansion.
+As Jeff highlighted, we executed a definitive agreement to acquire Zego and Worldline's PAYONE business in Austria for an aggregate of approximately $1 billion.
+We expect to finance these transactions using cash on hand and our existing credit facility.
+We are targeting closing the Zego transaction by the end of the second quarter and the Worldline acquisition in the second half of 2021 both subject to regulatory approvals.
+Upon completion of both transactions, given our current cash balance and strong cash generation, we expect our leverage position will be relatively consistent with current levels leaving us with ample continuing firepower.
+Based on our current expectations for continued recovery from the COVID-19 pandemic worldwide, we have increased our guidance for adjusted net revenue to now be in a range of $7.55 billion to $7.625 billion reflecting growth of 12% to 13% over 2020.
+We expect adjusted operating margin expansion of up to 250 basis points compared to 2020 levels.
+This outlook is consistent with an adjusted operating margin expansion of up to 450 basis points on a normalized basis given the operating leverage in our business and expense synergy actions related to the TSYS merger.
+However, this is being partially offset by the reinstatement of certain expenses in 2021 that were temporarily reduced at the onset of COVID-19 for most of 2020.
+At the segment level, we have increased our expectations for adjusted net revenue growth for our Merchant Solutions segment to be in the high teens, which assumes the current pace of recovery continues worldwide.
+We expect underlying trends in our issuing business to be in the mid to high single-digit range and above our mid-single digit growth target.
+It is worth noting that our Issuer business generated high single-digit growth on a normalized basis for the month of March as we begin to lap the pandemic impacts.
+As we discussed last quarter, Issuer is being impacted by two distinct and relatively equal sized headwinds.
+First, we are not anticipating a recovery in our commercial card business as we expect corporate travel to remain depressed throughout 2021.
+Second, we are absorbing a portfolio sale by one of our customers, which will impact us for the remainder of the year.
+Taking these two items into account, we forecast our Issuer business to deliver adjusted net revenue growth in the low single-digit range for the year.
+Lastly, incorporating the benefits of the incremental stimulus, we are now forecasting adjusted net revenue growth for our business and consumer segment to be in the mid to high-single digits for the full year consistent with our long-term expectations for this business.
+This guidance takes into account lapping the benefits of the 2020 CARES Act, which will provide for a more difficult comparison in the second quarter of 2021.
+Regarding segment margins, we expect the up to 250 basis points of adjusted operating margin improvement for the total company to be driven largely by Merchant Solutions while we expect Issuer and Business and Consumer to deliver normalized margin expansion consistent with the underlying profiles of these businesses.
+This follows the 500 and 400 basis points of adjusted operating margin expansion delivered by Issuer and Business and Consumer respectively in 2020.
+From a quarterly phasing perspective, having now lapped muted growth characteristics in the first quarter given the start of the pandemic in mid-March 2020, we will experience the opposite effect in the second quarter before returning to more normalized rates of growth in the back half of the year, a highlight that while we expect to achieve our strongest adjusted revenue growth, adjusted margin expansion and adjusted earnings-per-share growth for the total company in the second quarter, our business and consumer segment will be lapping the impact of the CARES Act stimulus last year.
+While we anticipate Netspend to deliver modest adjusted net revenue growth for the second quarter, we expect adjusted operating margins to decline for that segment year-on-year as a result.
+On an absolute basis, we would expect business and consumer adjusted operating margins for the second quarter to be consistent with the levels achieved in the fourth quarter of 2020 period that also saw more limited benefits from stimulus.
+Moving to non-operating items, we continue to expect net interest expense to be slightly lower in 2021 relative to 2020 while we anticipate our adjusted tax rate will be relatively consistent with last year.
+Putting it all together, we now have increased our expected adjusted earnings per share for the full year to a range of $7.87 to $8.07 reflecting growth of 23% to 26% over 2020.
+Our raised outlook presumed we remain on a path toward recovery worldwide over the balance of the year and it does not include any impact from the Zego and Worldline Austrian business acquisitions we announced today.
+We will further update our guidance when these transactions close, but it is worth noting now that we do not expect these transactions to have a discernible impact on adjusted earnings per share for 2021.
+Our business is one rating at accelerated levels.
+The trends of digitization, commerce enablement, software differentiation and omni-channel prevalence driving our performance will serve to catalyze future growth.
+We said over the course of the last year that we would not stand still or wait for a better day to continue to deepen our competitive mode despite one of the most challenging periods any of us have seen.
+As a result of our team members terrific efforts, 20 bookings have begun to translate into 2021 outside revenue gains.
+The announcement today of our return to strategic investments will provide further avenues for future growth.
+And all that is playing out against the backdrop of recovery, further differentiation from technology enablement, deeper penetration into attractive markets, sustained share gains and substantial and efficient returns of capital.
+We now look forward to continuing progress for the remainder of 2021, 2022 and beyond.
+Before we begin our question-and-answer session, I'd like to ask everyone to limit their questions to one with one follow-up to accommodate everyone in the queue.
+Operator, we will now go to questions.

@@ -1,0 +1,197 @@
+Joining me are Bill McDermott, our president and chief executive officer; and Gina Mastantuono, our chief financial officer.
+During today's call, we will review our first-quarter 2021 financial results and discuss our financial guidance for the second quarter of 2021 and full-year 2021.
+The guidance we will provide today is based on our assumptions as to the macroeconomic environment in which we will be operating.
+Those assumptions are based on the facts we know today.
+Many of these assumptions relate to matters that are beyond our control and changing rapidly, including but not limited to the time frames for and severity of social distancing and other mitigation requirements; the continued impacts of COVID-19 on customers' purchasing decisions; and the length of our sales cycle, particularly for customers in certain industries.
+We'd also like to point out that the company presents non-GAAP measures in addition to and not as a substitute for financial measures calculated in accordance with GAAP.
+All financial figures we will discuss today are non-GAAP, except for revenues, net income, remaining performance obligations or RPO, and current RPO or cRPO.
+A replay of today's call will also be posted on the website.
+I hope everyone remains healthy and safe and you and your loved ones are benefiting from broader vaccine availability.
+ServiceNow remains grateful to be in such a strong position to help support our families, communities, and customers.
+We started 2021 with another outstanding quarter, delivering a perfect balance of growth and profitability.
+Our team is executing, maintaining a swift pace toward our path to $10 billion in revenue and beyond.
+In Q1, we grew subscription revenue 30% year over year, exceeding the high end of our guidance.
+We delivered strong profitability with operating margin over 27%.
+And we increased free cash flow margin 7 points year over year to 46%.
+Our significant Q1 beat across the board represents the passion our culture has for innovating and our relentless focus on the customer.
+We are ideally positioned to deliver what our customers need.
+In the past year, the transformation of work has accelerated the adoption of digital products, services, and experiences.
+As a result, digital investments are at an all-time high and will total more than $7.8 trillion by 2024, according to IDC.
+ServiceNow is the strategic authority for digital transformation across the enterprise.
+We have expanded the boundaries from IT to employee, customer, and now creator workflows for citizen developers.
+The digital economy is firing on all cylinders and so are we.
+Our culture was born for this moment.
+Our team of 14,000 colleagues are exponential thinkers.
+This is how we continuously bring innovation to everything we do.
+In just the past 18 months, we have more than doubled the features and functionality of our platform for our customers.
+We're at the epicenter of the workflow revolution.
+Our purpose has never been more relevant.
+We are making the world of work, work better for people.
+We are helping our customers dream big and to build their digital bridge to the future.
+Xerox, for example, is working with ServiceNow to transform the services industry.
+Leveraging our field service management, their technicians will use machine learning to proactively solve customer problems.
+They're using virtual and augmented reality tools to resolve their customers' issues via desktop, mobile, and smart glass devices.
+In this bold new world, it's as if their agents are there in person.
+Digital transformation is about creating great employee and customer experiences.
+In an increasingly distributed, hybrid workforce, companies need to create frictionless experiences that make it easy for employees to get work done.
+This requires seamless cross-enterprise workflows linking systems, silos, departments, and processes.
+Only the Now Platform can do this with native integrations: the platform of platforms, the power of one, one data model, one architecture, one enterprise solution to workflow every business challenge.
+This is what ServiceNow delivers.
+We are the only ones doing what we do the way we do it.
+Strong demand for ServiceNow is evident in our results, high growth organically driven at mass scale while aggressively investing in future growth and delivering significant profitability, an amazing business model, and a true testament to the power of the Now Platform.
+Our teams keep innovating.
+We're proud that Quebec, our latest platform release, delivered 1,700 new customer capabilities; breakthrough innovations like predictive AI operations, AI search, and virtual agents that enhance every experience, to name a few.
+ServiceNow is helping customers move to the cloud and invent new business models.
+The past year has demonstrated that giving people the right productivity tools is critical to success, especially in distributed work environments.
+It's why organizations like Adobe, Deutsche Telekom, Logitech, City of Los Angeles, and Discover are using the Now Platform.
+Discover, in fact, is fully utilizing the Now Platform's ease of upgrade, participating in the early adopter program for our Quebec release.
+Now Discover is able to focus on timely availability and adoption of new functionality.
+The Now Platform is the gold standard for time to value.
+By the end of 2021, Forrester Research predicts that 75% of development shops will use low-code platforms.
+With Quebec, we are delivering new low-code tools that move app development beyond the borders of the engineering organization and into the hands of citizen developers, employees without software expertise who need to quickly create workflow applications.
+We're seeing strong response.
+The National Cancer Institute at the U.S. Department of Health and Human Services is a great example.
+NCI has established a digital service center around ServiceNow's low-code app engine platform.
+In just 10 days, NCI leveraged ServiceNow to build a new application for an online portal to collect and track specimens from COVID-19 patients.
+ServiceNow's low-code app is helping NCI staff support the global research community in understanding how genetic factors contribute to the severity of COVID-19 cases.
+We also introduced process and workforce optimization capabilities in our new enterprise SKUs.
+This brings even more intelligence to our customers, allowing them to be more agile.
+We're putting new AI capabilities in the hands of our customers so they can enhance productivity while spending more time on human creativity.
+With our recent acquisition of Intellibot, ServiceNow will have an unmatched intelligent workflow automation solution with RPA, AI, machine learning, and process mining native to the Now Platform.
+You'll hear more about this from our chief product and engineering officer, CJ Desai, at our upcoming investor day.
+Now, let's look more closely at Q1 performance highlights across our portfolio.
+Our better together solutions continue to drive more multiproduct deals.
+Our core IT workflows remain strong.
+ITSM was in 12 of our top 20 deals.
+Our AI and ML capabilities embedded with our pro SKU continue to resonate with customers.
+ITOM had a strong quarter and was in 13 of the top 20 deals.
+EMEA was especially strong.
+We're hitting a new gear with CEO engagement.
+We're seeing more demand across industries, including financial services, as EU banking regulations require companies to have full visibility into their assets while also managing risk.
+HSBC, for example, chose ServiceNow in a multiyear partnership as their workflow partner of choice to help them digitize at scale.
+Supporting HSBC's employees, ServiceNow will deliver the technologies needed to simplify their architectural landscape.
+This creates efficiencies, better controls, and compliance.
+Australia and New Zealand Banking Group also chose the ServiceNow platform to consolidate, simplify its IT systems and streamline operations to improve the employee experience.
+The Now Platform gives them the advantage of a fully integrated view of technology and risk.
+We continue to see strength in our customer workflows.
+Our investments in the telco vertical are gaining traction daily and it's materializing in wins across the globe.
+Lumen Technologies, a leading telecommunications company, is transforming its customer care and assurance function with ServiceNow customer workflows.
+They will use the Now Platform to deliver best-in-class customer experiences across their networking, cloud, and security solutions.
+Telia, a leading multinational telecommunications company, selected ServiceNow to transform service operations, connecting network operations, employees, and customers around the world.
+Creator workflows, our platform business, was in 19 of our top 20 deals.
+Three of our top 10 app engine wins came from APJ, where we are seeing increased awareness of ServiceNow and is continuing to drive demand.
+A large global manufacturing company in Japan is planning to use our app engine to automate manual processes, take out costs and risks associated with migrating on-premise applications to the cloud.
+This will be a movement in Japan.
+In the U.S., the Now Platform is at the heart of the city of Los Angeles' digital transformation, helping to provide reliable access to essential services for its 4 million citizens.
+The city is expanding its use of digital technology to provide immediate-access services, which enables citizens to get the assistance they deserve.
+Employee workflows were included in eight of our top 20 deals.
+Zalando is a leading online platform for fashion and lifestyle connecting customers, brands, and partners.
+As part of their HR transformation, they will implement a central employee services portal using ServiceNow's employee workflows.
+Zalando sees this as a critical component in supporting their growth and improving their employee experiences.
+Employee and workplace safety are top of mind for our customers.
+We are the only company with a complete suite of applications to meet these critical needs.
+Since the start of the pandemic, ServiceNow has been at the forefront of solving unprecedented challenges.
+We saw the need early and acted quickly, first, with our Emergency Response apps; then our Safe Workplace apps; and now with Vaccine Administration Management.
+We leverage the speed and agility of the Now Platform and the incredible talent of our product team to innovate fast, deliver market-leading solutions to support our customers, and help keep them safe.
+You see organizations are trapped in the last mile of vaccine management, as they lack the processes and infrastructure needed to vaccinate people quickly.
+This is the workflow challenge of our time.
+To address these challenges, organizations are using the Now Platform as their vaccine management command center.
+Our workflows are connecting organizations' existing technology infrastructure to help orchestrate the critical elements of the vaccine management process, including distributing, administering, and monitoring vaccines.
+The Minnesota Children's hospital implemented our Vaccine Administration Management in five days so they could stay focused on their No.
+1 priority, caring for children.
+The hospital is using ServiceNow virtual assistant to answer questions and schedule patient vaccinations.
+They are leveraging inventory tracking and scheduling to ensure appointments, staffing levels, and vaccines are all in sync.
+Germany's largest state, North Rhine-Westphalia, is using ServiceNow to support vaccinations for millions of people.
+Within two hours of the portal going live, 120,000 people have registered and received an appointment.
+ServiceNow ended Q1 working with over 100 organizations and governments globally to help vaccinate people at scale.
+We are supporting the delivery and management of millions of vaccines globally.
+We will continue to do more.
+The workflow revolution is all about helping people.
+We are humbled to be helping so many people around the world manage this workflow challenge.
+In summary, we had a great start to the year with strong momentum.
+I'm so proud of what our team has accomplished over the past year and what they continue to achieve.
+From the beginning of this pandemic, we have focused on taking care of our people and taking care of our customers.
+That's why we're so grateful to be named to the Fortune 100 "best places to work" list for the first time.
+And we're proud to have increased our position on the Fortune's Best Workplaces in Technology list by more than 10 points.
+Our culture demonstrates time and again how we've powered through all weather conditions.
+Our engineering pride is unmatched, our innovation relentless and our customer focus tireless.
+We have a very, very robust pipeline substantially greater than anything we've seen before.
+We have all the learnings of digital customer relationship management.
+Our strong go-to-market organization is operating in high gear.
+Our customer services and partner ecosystem is accelerating time to value.
+Our business is ever resilient, our opportunities never greater.
+We continue to work with some of the world's greatest brands, including BMW, Bristol Myers Squibb, FIS, Subway, Standard & Poor's.
+We're honored to be their digital transformation partner.
+And we're also excited to highlight even more customers at our upcoming Knowledge21 experience in May, which will be our biggest customer event ever.
+And we look forward to seeing all of you at our upcoming investor day.
+This ServiceNow machine is firing on all cylinders.
+We're not slowing down.
+We are well on our way to $10 billion and beyond, and we are striving with all we have to be the defining enterprise software company of the 21st century.
+Gina, over to you.
+Q1 was a great start to the year.
+On the heels of a tremendous Q4, the team continued to execute well and delivered another strong quarter of outperformance.
+We exceeded the high end of our subscription revenue, subscription billings, and cRPO guidance; and those top-line beats carried through to a very robust operating margin and strong free cash flow.
+Q1 subscription revenues were $1.293 billion, representing 30% year-over-year growth inclusive of a 4-point tailwind from FX.
+Remaining performance obligations or RPO ended the quarter at approximately $8.8 billion, representing 34% year-over-year growth, putting us well on our way toward our $10 billion revenue target.
+Current RPO was approximately $4.4 billion, representing 33% year-over-year growth and a 100 basis points beat versus our guidance.
+Notably, we delivered that beat with 100 basis points less of an FX tailwind.
+Due to the weaker euro, currency contributed 4 points instead of our original outlook for a 5-point tailwind.
+Q1 subscription billings were $1.365 billion, representing 29% year-over-year growth and a $50 million beat versus the high end of our guidance.
+FX and duration were a 4-point tailwind year over year.
+As Bill mentioned, we saw particular strength in EMEA as investments made in 2020 are gaining traction.
+In Q1, the region closed one of its largest deals ever, helping to drive very strong year-over-year net new ACV growth.
+We're also seeing improving trends in APJ, where we landed two of the top three platform deals in the quarter.
+We continue to see the secular tailwinds driven by the intersection of digital transformation, cloud computing, and business model innovation.
+Every C-suite leader wants to create great experiences for their employees and their customers, and ServiceNow is delivering.
+The Now Platform offers the speed, flexibility, and innovation companies need.
+The sustained strength of our top-line growth is the result of consistent execution from across the organization as we address these opportunities, from our engineers who continue to drive leading-edge innovation, to the sales and customer success teams who partner with our customers to ensure we're delivering value and everyone else in between that help to deliver great experiences.
+It's been a tremendous team effort.
+Our renewal rates remained strong at 97%, as the Now Platform remains a mission-critical part of our customers' operations.
+We closed 37 deals greater than $1 million ACV in the quarter, including seven net new customers.
+Our focus on selling comprehensive solutions instead of point products continue to drive more multi-product deals as 17 of our top 20 deals included three or more products.
+We now have 1,146 customers paying us over $1 million in ACV, up 23% year over year.
+And the number of customers paying us $5 million or more in ACV grew over 50% year over year.
+Operating margin was 27%, up 300 basis points year over year, driven by our strong top-line outperformance and the timing of some spend that will shift into Q2.
+Our free cash flow margin was 46%, up 700 basis points year over year, driven by strong collections and lower T&E.
+Together, these results show the power of our business model and our ability to drive a balance of growth and profitability.
+Before I move to guidance, I want to give a brief update on the macro trends we're seeing in our business.
+The industries highly affected by COVID that we outlined early last year, which represent about 20% of our business, remained resilient in Q1.
+We closed several seven-figure deals in these verticals, and renewal rates were ahead of the company average.
+However, we did continue to see some headwinds in severely impacted industries such as airlines.
+Regardless of the industry, in an increasingly distributed and hybrid workforce, companies need to create consistent and frictionless experiences that make it easy for employees to get work done.
+Digital investments are at an all-time high and are expected to continue growing, as companies must reinvest themselves for the new economy.
+ServiceNow is the strategic authority in digital transformation, and we're committed to helping our customers succeed in that journey.
+These strong secular tailwinds, paired with the strength and agility of the Now Platform, positions us well for 2021 and beyond.
+Pipeline generation has remained robust globally even ahead of our Knowledge 2021 event, which is a big driver, particularly for the Americas.
+It is helping to drive the net new ACV acceleration in our business this year.
+Enterprises around the world are recognizing the strength of our one architecture model; and its ability to deliver great, scalable experiences with speed and efficiency.
+Now, let's turn to guidance.
+For Q2, we expect subscription revenues between $1.29 billion and $1.295 billion, representing 27% to 28% year-over-year growth, including a 300-basis-point FX tailwind.
+We expect cRPO growth of 30% year over year, including a 250-basis-point FX tailwind.
+We expect subscription billings between $1.25 billion and $1.255 billion, representing 23% year-over-year growth.
+Growth includes a net tailwind from FX and duration of 300 basis points.
+We expect an operating margin of 21.5%, which includes $15 million of sales and marketing spend that shifted out of Q1 and into Q2; and 202 million diluted weighted outstanding shares for the quarter.
+For the full-year 2021, we're raising our top-line growth guidance on a constant-currency basis.
+We are increasing the midpoint of our previous subscription revenue expectations by $32 million based on the strong trends we saw in Q1.
+However, a weaker euro resulted in a $59 million headwind to our growth.
+Taken together, we expect subscription revenues between $5.455 billion and $5.47 billion, representing 27% to 28% year-over-year growth.
+This includes a 200-basis-points FX tailwind.
+Similarly, we're increasing the midpoint of our previous subscription billings expectation by $50 million on a constant-currency basis.
+However, the weaker euro resulted in a $68 million headwind to our growth.
+Taken together, we expect subscription billings between $6.19 billion and $6.205 billion, representing 24% to 25% year-over-year growth.
+This includes a net tailwind from FX and duration of 150 basis points.
+In terms of quarterly seasonality, we're continuing to see a shift of Q2 and Q3 subscription billings into Q4.
+We now expect about 21% of our total subscription billings to be in Q3 and 37% to be in Q4.
+We continue to expect subscription gross margins of 85% and an operating margin of 23.5%.
+Finally, we expect free cash flow margin of 30% and 202 million diluted weighted outstanding shares for the year.
+In addition to making work, work better for people, we're also committed to making the world work better as well.
+This week, we unveiled our first-ever global impact report.
+At our investor day, I'm excited to be able to share ServiceNow's global impact strategy with you.
+In conclusion, ServiceNow is leading this "once in a generation" opportunity to make work, work better for people.
+We are focused, disciplined, and committed to helping our customers succeed.
+We have the platform businesses need, and we're the workflow standard for enterprise transformation.
+Customers are using the Now Platform to create new workflows for new value chains to improve experiences across siloed systems and functions to reduce friction in people's daily lives, and it's showing in our financial results.
+I'm very excited about the future in front of us.
+ServiceNow's greatest strength is its people, and you all continue to make us ServiceNow strong.
+Bill and I couldn't be prouder of this team.
+And with that, I'll open it up to Q&A.

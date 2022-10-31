@@ -1,0 +1,68 @@
+They involve risks, uncertainties and assumptions and there can be no assurance that actual results will not materially different from our expectations.
+For a discussion of these risks and uncertainties, please see the risks described in our most recent Annual Report on Form 10-K and subsequent filings with the SEC.
+We may also discuss non-GAAP financial measures during today's call.
+I will give some brief comments before turning the call over to our Chief Investment Officer, Brian Norris to discuss the current portfolio in more detail.
+Also joining us on the call to participate in the Q&A are our President, Kevin Collins; our CFO, Lee Phegley; and our COO, Dave Lyle.
+I'm pleased to announce that core earnings came in at $0.10 per share for the quarter, exceeding our recently increased dividend of $0.08 per share.
+Book value was $3.86 at quarter end, which represents an increase of 11.2% for the quarter.
+The combination of the increased dividend and our book value appreciation produced an economic return of 13.5% for the quarter.
+The improvement in book value has continued since quarter-end, as we estimate that book value was up approximately 5% through last Friday, with those gains concentrated in January and relatively flat performance so far during February.
+During the fourth quarter, financial markets continued to recover as the impact of stimulus programs and optimism around the rollout of vaccinations began to take hold.
+Risk assets across fixed income continue to benefit from strong investor interest, agency mortgages in particular had a strong quarter.
+Consistent demand for current coupon agency mortgages from the Federal Reserve and commercial banks outweighed elevated issuance, leading to a strong performance for the sector.
+At IVR, we have largely completed our reallocation to Agency MBS, ending the year with 98% of our assets in agencies.
+We continue to take advantage of the strong demand for credit assets by further reducing our credit book by $336 million, resulting in a credit portfolio of $161 million at quarter end.
+Our liquidity position remains strong as we ended December with a $745 million balance in cash and unencumbered assets.
+Earlier this month, we successfully completed a common stock offering with net proceeds of approximately $103 million that was deployed into additional agency mortgages.
+This will allow us to build upon our success in restoring core earnings, while adding scale and helping to balance our capital structure.
+As we look out over the next several quarters, our outlook remains relatively constructive.
+We remain positive on agency mortgages, as we expect demand from the Federal Reserve and commercial banks remains strong by the steeper curve and recent underperformance keeps the ROE and new investments attractive.
+Funding cost should remain attractive, as well as we expect the Fed to keep short-term interest rates low for the foreseeable future.
+Despite the recent widening, agency mortgage valuations remain rich and along with increased levels of prepayments present some potential headwinds for the basis.
+However, our focus on active management and security selection purchasing specified pool collateral helps to mitigate these risks.
+I'll stop here and let Brian go through the portfolio.
+I'll begin on slide four, which details the changes in the US Treasury yield curve over the past 12 months in the upper left hand chart.
+Positive developments in regards to the COVID-19 vaccine and an improving economic recovery, led to a bare steepening move in interest rates.
+As the short-end remained anchored, while the 10-year and 30-year both increased approximately 20 basis points during the quarter.
+The upper right-hand chart indicates the impact monetary policy has had on short-term funding rates, which remain subdued during the quarter and continue to be attractive for borrowers in the short end of the yield curve.
+Financial market volatility in the bottom left was also impacted substantially by monetary policy and continued to diminish into year-end, despite a modest uptick as we approach the November elections in the US.
+Lastly in the bottom right chart, we detailed the growth in both US Bank and Federal Reserve Holdings of Agency RMBS, which had a significant impact on Agency RMBS valuations, as we entered 2021, despite net issuance close to an all-time record at $210 billion in the quarter.
+The combination of the Federal Reserve with the prescribed $120 billion of net purchases and commercial banks with over $200 billion of net demand during the quarter, produced impressive hedged returns in the asset class.
+Particularly in lower coupon 30 years, as the primary beneficiary of the demand from both entities.
+These totals resulted a net demand for the year of over $600 billion for the Fed and $500 billion from banks, overwhelming the historically high $500 billion of net supply.
+Moving on to Slide 5, where we provide more detail on the Agency RMBS market.
+You can see the impact, strong supply and demand technicals had on lower coupon valuations during the quarter, driving treasury spread significantly tighter in the upper left hand chart.
+Specified pool pay-ups, as shown in the upper right were modestly weaker and lower coupons, as interest rates rose, diminishing the need for prepayment protection, while higher coupon pay-ups stayed well supported as prepayments remained elevated for borrowers that continue to have significant incentive to refinance at current low mortgage rates.
+The chart in the lower left shows the significant increase in prepayment speeds for lower coupon mortgages during the year, as historically low mortgage rates and increasingly efficient refinancing drove speeds near all time highs.
+Finally, the lower right-hand chart shows the implied financing rate for dollar roll transactions and 30-year, 2%, 2.5% and 3% TBAs.
+The implied financing rate is the reinvestment rate for which an investors in different between taking delivery of a mortgage pool or rolling the TBA contract forward one month and investing the cash elsewhere.
+As indicated in the chart, volatility in dollar roll attractiveness increased during the quarter, as implied financing rates improved for higher coupon 30 year, 2.5% and 3%'s and were weaker for 30 year 2%'s.
+Dollar rolls trading with implied financing rates below 0% indicate a particularly attractive environment for investors and while lower coupon TBAs are not rolling quite as well as they were late in the third and early in the fourth quarters, they still provide investors with improved funding levels for Agency RMBS relative to short-term repo in a highly liquid securities.
+Slide 6 provides detail on our Agency RMBS investments.
+As indicated in the upper left hand chart, in addition to the 18% allocation to Agency TBA, our Agency RMBS portfolio is well diversified across specified pool collateral types.
+We remain focused on lower price collateral stories, mitigating our exposure to elevated payoffs, at historically tight spreads, as our specified pool holdings had a weighted average pay up of 0.8 points as of 12/31.
+We purchased $3.1 billion of lower coupon 30 year specified pools during the quarter, while rotating out of $491 million of underperforming pools, underscoring our active management strategy within the portfolio and the superior liquidity of the asset class.
+In addition, we added $800 million notional of lower coupon 30 year TBA, increasing our allocation from 14% at the end of the third quarter to 18%, and dollar rolls remain an attractive and highly liquid alternative to holding specified pools in financing them via short-term repo.
+Our specified pool holdings paid 3.9% CPR, during the quarter, as our relatively newly issued pools at a weighted average loan age of five months at quarter end.
+We anticipate prepayment speeds on our holdings will increase as our holdings to move up the seasoning ramp.
+But the increase in speed should be mitigated by the recent move higher in interest rates and wider spreads in Agency RMBS.
+We remain focused primarily in 30-year, 2% and 2.5% coupons, and those coupons provide the most attractive combination of lower prepayment speeds and strong support via consistent, Federal Reserve and commercial bank demand.
+While we anticipate the elevated net issuance experienced in 2020 to continue into 2021, we expect the Fed demand to absorb the net issuance while bank demand though unlikely to match the total in 2020 should provide sufficient support, as bank deposits continue to outweigh loan growth.
+Our remaining credit investments are detailed on Slide 7 with non-Agency CMBS representing nearly 70% of the $161 million portfolio.
+As John referenced on Slide 3, we sold $336 million of credit investments during the quarter, a strong demand for our assets provided attractive exit opportunities.
+The continued reduction of our credit portfolio allowed us to increase the allocation to Agency RMBS, which increased the earnings power of the company, while increasing the liquidity and reducing the credit risk within the portfolio.
+Our $121 million of remaining credit securities are high quality, with 72% rated single A or higher and we remain comfortable with the credit profile of our remaining holdings.
+Although, we anticipate limited near term price appreciation, given the significant improvements experienced inflows we reached in the second quarter of 2020, we believe these assets are attractive holdings as 100% are held on an unlevered basis and provide attractive unlevered yields.
+Lastly, Slide 8 details the growth of our funding and hedge book during the fourth quarter, as shown in the chart on the upper left.
+After paying off our secured loans at the FHLB in August, all of our remaining credit holdings are held on an unlevered basis, eliminating the mark to market funding risk on that portion of our book.
+Repurchase agreements collateralized by Agency RMBS grew to $7.2 billion as of December 31 and hedges associated with those borrowings also grew during the quarter to $6.3 billion notional of fixed to floating rate interest rate swaps.
+We continue to take advantage of low interest rates further out, the yield curve to lock in lower funding costs, via longer maturity hedges with a weighted average life of 6.7 years at year-end.
+Given the potential for a steepening yield curve, as the Federal Reserve keeps short-term rates anchored for the foreseeable future.
+The modest increase in interest rates on our hedge book represents the growth of our portfolio and the rising interest rate environment experienced in the fourth quarter.
+While rates on our repo borrowings continue to drift lower during the quarter and into 2021, with one month repo rates for our Agency RMBS holdings averaging 21 basis points at year-end.
+Our economic leverage, when including TBA exposure increased from 5.1 times debt-to-equity on September 30 to 6.6 times debt-to-equity as of December 31, indicating further progress toward the transition to an agency focused strategy.
+Economic leverage since year end is modestly higher, estimated 7.1 times as of Friday and deployment of proceeds from our February capital raise into Agency RMBS investments financed via short-term repo, increased company leverage to our current target.
+The Agency RMBS market continues to be well supported by the Federal Reserve purchase program, as well as commercial bank demand and robust demand for our credit assets has provided us with opportunities to reallocate equity into Agency RMBS.
+While the prepayment environment in Agency RMBS, remains challenging we believe our careful selection of prepayment protection, active management and higher mortgage rates will mitigate the potential for faster prepayments speeds, and their negative impact on yields.
+In addition, while Agency RMBS spread appear tight, recent underperformance and bear steepening of the yield curve will benefit reinvestment opportunities.
+Lastly, monetary policy remains very supportive and we expect that to continue throughout 2021 at the Federal Reserve communicates a desire to maintain an accommodative stance over the medium term.

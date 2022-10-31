@@ -1,0 +1,83 @@
+Today, we will review the first quarter results of 2021.
+With me on the phone today are Norman Schwartz, our Chief Executive Officer; Ilan Daskal, Executive Vice President and Chief Financial Officer; Andy Last, Executive Vice President and Chief Operating Officer; Annette Tumolo, President of the Life Science Group; and Dara Wright, President of the Clinical Diagnostics Group.
+Our actual results may differ materially from these plans and expectations, and the impact and the duration of the COVID-19 pandemic is unknown.
+We cannot be certain that Bio-Rad's responses to the pandemic will be successful, that the demand for Bio-Rad's COVID-19-related products is sustainable or that Bio-Rad will be able to meet this demand.
+Our remarks today will also include references to non-GAAP net income and non-GAAP diluted income per share, which are financial measures that are not defined under generally accepted accounting principles.
+Before I begin the detailed first quarter discussion, I would like to ask Andy Last, our Chief Operating Officer, to provide an update on Bio-Rad's operations in light of the current pandemic-related environment that we are experiencing globally.
+As expected, COVID continues to have an impact on our operations, but as previously communicated, we have now adapted well to this environment, and our employees around the world continue to perform to the highest standards.
+We continue our focus on the three areas previously communicated, the ongoing safety of our employees; continuing manufacturing operations to ensure product supply and support of our customers; and making sure we continue to make progress on our core strategies.
+Overall, we continue to be very pleased with our employee safety despite the increases in COVID in some areas of the world.
+Our internal COVID transmission rates remain extremely low, and we are starting to benefit from the vaccination programs.
+In Q1, we have maintained the work from home policies we adopted in 2020 and are continuing to monitor the pandemic closely as we assess the right timing for a more general return to the workplace.
+As we enter Q2, we expect to continue to experience the impact of the pandemic for at least the coming quarter, but are confident in our ability to meet customer demand while progressing our core strategies and new product development objectives.
+And as the global economy trends toward recovery, we're also paying close attention to our supply chain as accelerated demand for raw materials has the potential to cause constraints and prolong higher-than-typical logistics costs.
+Provided there is positive global progress on controlling COVID, we anticipate operations starting to return to more normal operating practice in the second half of the year.
+Now I would like to review the results of the first quarter.
+Net sales for the first quarter of 2021 were $726.8 million, which is a 27.1% increase on a reported basis versus $571.6 million in Q1 of 2020.
+On a currency-neutral basis, sales increased 23.4%.
+The first quarter year-over-year revenue growth was impacted by a tough compare of about $10 million revenue carryover to Q1 of 2020 related to the December 2019 cyber-attack.
+On a geographic basis, we experienced currency-neutral growth across all three regions.
+We continued to see strong demand for product associated with COVID-19 testing and related research.
+Generally, we are seeing most academic and diagnostic labs now running about 90% capacity, which is an improvement to what we saw in Q4.
+We estimate that COVID-19-related sales were about $94 million in the quarter.
+Sales of the Life Science Group in the first quarter of 2021 were $366.5 million compared to $227.2 million in Q1 of 2020, which is a 61.3% increase on a reported basis, and a 56.9% increase on a currency-neutral basis.
+The year-over-year growth in the first quarter was driven by the continued strength of COVID-19-related qPCR products.
+In addition, we saw strong double-digit year-over-year sales growth in Droplet Digital PCR, Western Block and antibody products.
+In addition, Process Media, which can fluctuate on a quarterly basis, saw strong double-digit year-over-year growth in the quarter over the same quarter last year.
+Excluding Process Media sales, the underlying Life Science business grew 56.2% on a currency-neutral basis versus Q1 of 2020.
+On a geographic basis, Life Science currency-neutral year-over-year sales grew across all regions.
+In addition to continued adoption of Droplet Digital PCR in BioPharma, we also saw good demand for the QX ONE in wastewater testing applications for COVID, and we expedited the introduction of COVID variant assays, which are being well received.
+Key opinion leaders continue to highlight the sensitivity advantage of Droplet Digital PCR.
+Sales of the Clinical Diagnostics Group in the first quarter were $358.5 million, compared to $340.3 million in Q1 of 2020, which is a 5.4% growth on a reported basis, and a 2.2% growth on a currency-neutral basis.
+During the first quarter, the Diagnostics Group posted solid growth in diabetes and in quality controls.
+We started to see a recovery of market demand for non-COVID business, with diagnostics labs returning to about 90% of pre-COVID levels.
+The recovery of routine testing and elective surgeries is still progressing.
+On a geographic basis, the Diagnostics group posted growth in Asia.
+The reported gross margin for the first quarter of 2021 was 55.1% on a GAAP basis, and compares to 55.5% in Q1 of 2020.
+The current quarter gross margin percentage declined mainly due to expenses associated with the restructuring initiative that we communicated earlier this year, offset by better product mix, lower service costs and higher manufacturing utilization.
+Amortization related to prior acquisitions recorded in cost of goods sold was $4.6 million compared to $3.9 million in Q1 of 2020.
+SG&A expenses for Q1 of 2021 were $225.9 million or 31.1% of sales compared to $193.7 million or 33.9% in Q1 of 2020.
+The year-over-year SG&A expenses increased mainly due to expenses associated with the restructuring initiative and higher employee-related expenses, and it was offset slightly by a $5 million cybersecurity insurance settlement related to the 2019 cyber-attack as well as lower discretionary spend.
+Total amortization expense related to acquisitions recorded in SG&A for the quarter was $2.4 million versus $2 million in Q1 of 2020.
+Research and development expense in Q1 was $73.9 million or 10.2% of sales compared to $49.3 million or 8.6% in Q1 of 2020.
+The year-over-year R&D expenses increased due to expenses associated with the restructuring initiative and increased project spend.
+Q1 operating income was $100.9 million or 13.9% of sales compared to $74.4 million or 13% in Q1 of 2020.
+Looking below the operating line.
+The change in fair market value of equity securities holdings added $1.179 billion of income to the reported results, which is substantially related to holdings of the shares of Sartorius AG.
+During the quarter, interest and other income resulted in net other income of $16.9 million compared to $3.3 million of expense last year.
+Q1 of 2021 included $19 million of dividend income from Sartorius, which was declared this year in Q1.
+In 2020, the Sartorius dividend was declared in the second quarter.
+The effective tax rate for the quarter was 24.7% compared to 23.7% in Q1 of 2020.
+The tax rates for both periods were driven by the large unrealized gain in equity securities.
+The year-over-year increase in our effective tax rate was due to the restructuring initiative announced earlier this year.
+Reported net income for the first quarter was $977.4 million, and diluted earnings per share were $32.38.
+This is an increase from last year and is substantially related to changes in the valuation of the Sartorius holdings.
+Moving on to the non-GAAP results.
+Looking at the results on a non-GAAP basis, we have excluded certain atypical and unique items that impacted both the gross and operating margins as well as other income.
+In cost of goods sold, we have excluded $4.6 million of amortization of purchased intangibles, $24 million of restructuring-related expenses and a small legal reserve benefit.
+These exclusions moved the gross margin for the first quarter of 2021 to a non-GAAP gross margin of 59% versus 55.9% in Q1 of 2020.
+Non-GAAP SG&A in the first quarter of 2021 was 25.4% versus 33.3% in Q1 of 2020.
+In SG&A, on a non-GAAP basis, we have excluded restructuring-related expenses of $34.7 million, legal-related expenses of $4.4 million, and amortization of purchased intangibles of $2.4 million.
+In R&D, we have excluded $16.9 million of restructuring-related expenses.
+The non-GAAP R&D expense in Q1 was consequently 7.9%.
+The cumulative sum of these non-GAAP adjustments result in moving the quarterly operating margin from 13.9% on a GAAP basis to 25.8% on a non-GAAP basis.
+This non-GAAP operating margin compares to a non-GAAP operating margin in Q1 of 2020 of 13.9%.
+We have also excluded certain items below the operating line, which are the increasing value of the Sartorius equity holdings of $1.179 billion, and $1.8 million of loss associated with venture investments.
+Our non-GAAP effective tax rate for the quarter was 23.6% versus 25.7% in Q1 of 2020.
+The tax rate was impacted by changes in the geographic mix of earnings.
+And finally, non-GAAP net income for the first quarter of 2021 was $157.4 million, or $5.21 diluted earnings per share compared to $57.6 million and $1.91 per share in Q1 of 2020.
+Moving on to the balance sheet.
+Total cash and short-term investments at the end of Q1 were $1.025 billion, compared to $997 million at the end of 2020.
+During the first quarter, we purchased 89,506 shares of our stock for a total of $50 million at an average price of approximately $559 per share.
+For the first quarter of 2021, net cash generated from operations was $114 million, which compares to $63 million in Q1 of 2020.
+The improvement is mainly driven by higher operating profits.
+The adjusted EBITDA for the fourth quarter of 2021 was $232 million or 31.9% of sales, and excluding the Sartorius dividend, was 29.3%.
+The adjusted EBITDA in Q1 of 2020 was $107.4 million or 18.8% of sales, which did not include the 2020 Sartorius dividend.
+Net capital expenditures for the first quarter of 2021 were $19.5 million, and depreciation and amortization for the first quarter was $32.7 million.
+Moving on to the guidance.
+We began the year with a projection of between 4.5% and 5% non-GAAP sales growth, and a non-GAAP operating margin of between 16% and 16.5%.
+Even though we continue to be uncertain about the duration and impact of the COVID-19 pandemic, given the results of the first quarter and our current outlook, we are now guiding currency-neutral revenue growth in 2021 to be between 5.5% and 6%.
+This includes COVID-related sales, which we estimate to be between $170 million and $180 million versus our prior estimate of about $150 million and $160 million.
+We project most of the 2021 COVID-19-related sales to occur during the first half of the year, and we continue to assume a continued gradual return to pre-pandemic activity and a more normalized business mix.
+Full year non-GAAP gross margin is now projected between 56.5% and 57% versus our previous guidance of 56.2% and 56.5%.
+And full year non-GAAP operating margin to be about 17%, and full year adjusted EBITDA margin to be about 22% versus previous guidance of 21%.

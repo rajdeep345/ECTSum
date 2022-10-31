@@ -1,0 +1,156 @@
+Our SEC filings can be found in the Investors section of our website at unum.com.
+Net income for the third quarter of 2021 included the after-tax impairment loss on internal-use software of $9.6 million or $0.05 per diluted common share, the after-tax amortization of the cost of reinsurance of $15.5 million or $0.08 per diluted common share, the net after-tax reserve decrease related to reserve assumption updates of $143.3 million or $0.70 per diluted common share, and a net after-tax realized investment loss on the Company's investment portfolio of $100,000 or a de minimis impact on earnings per diluted common share.
+Net income in the third quarter of 2020 included after-tax costs related to an organizational design update of $18.6 million or $0.09 per diluted common share, and a net after-tax realized investment gain on the Company's investment portfolio of $3.8 million or $0.01 per diluted common share.
+Excluding these items, after-tax adjusted operating income in the third quarter of 2021 was $210.5 million or $1.03 per diluted common share compared to $245.9 million or $1.21 per diluted common share in the year ago quarter.
+We saw top-line growth in our business lines at good returns.
+We also recognized the continued challenge that COVID presents on our near-term results.
+It has cast a shadow on our core returns, but we still see a great business that we believe will return to the levels of profitability that we expect.
+Let me start with the overall operations before commenting on these COVID trends.
+I would first highlight that core premium growth has been steady and tracking to the expectations we previously laid out for you.
+On a year-over-year basis in the third quarter, Unum US generated an increase in premium income of 1.2%.
+Colonial Life was slightly better than breakeven, falling three previous quarters with negative comparisons, and our International lines also generated positive premium trends.
+This premium growth momentum is building back as sales growth reemerges, persistency remains favorable, and the external environment of employment growth and wage inflation benefits our business.
+Outside of the COVID-related impacts, we remain very encouraged with the benefits experience and operating income contributions from our other business lines.
+The supplemental and voluntary lines, Colonial Life, our International businesses and our Closed Block segment all showed generally stable results and made substantial contributions to income this quarter.
+We're also pleased with our overall investment results this quarter.
+It was another quarter for strong returns from our alternative investments and also another quarter of higher than normal bond call premiums.
+The underlying credit quality of the portfolio is excellent and the investment team remains diligent in their analysis of our credits through the changing market dynamics.
+With this backdrop of strength, we were also highly affected by the evolving nature of the COVID pandemic.
+Given the breadth of our customer base across the U.S., we have seen this quarter we have been impacted by the resurgence of higher infections, hospitalizations and mortality brought on by the Delta variant.
+As we have discussed throughout the pandemic, the best way to monitor COVID's impact on our results is to follow national mortality and infection rates.
+Differently in this quarter, we also need to focus on how the demographics of the incremental mortality relate specifically to our customer base.
+To put it in context, in the third quarter, the U.S. experienced a significant increase in national COVID mortality counts to approximately 94,000 lives, which is almost double the 52,000 in the second quarter.
+The dramatic increase over the course of the third quarter occurred very rapidly and consistently throughout the quarter.
+In fact, just 90 days ago, most experts were estimating a third quarter mortality count of approximately 44,000 deaths, an estimate that has more than doubled over the course of the quarter.
+The absolute increase in mortality has certainly been impactful to our industry and for us, most notably in our Unum US group life business, although we also saw impacts in our voluntary benefits lines.
+Beyond the higher mortality counts in aggregate, data from the CDC also shows that the third quarter working-aged individuals comprised approximately 40% of the COVID-related mortality, double that of the fourth quarter of 2020 and first quarter of 2021 before vaccinations began to widely be available.
+This shift in demographics impacts us three-fold.
+First, we announced the higher impacts in the working-age population, our primary customers who are covered by our group and voluntary products.
+In addition, these younger working-aged individuals tend to have higher benefit amounts that we saw before.
+An additional, but smaller impact that we see is that Delta -- the Delta variant has brought on a resurgence of infections and hospitalizations, leading quickly to higher claims at our short-term disability business and pressure on our group disability benefit ratio.
+While COVID impacts are evident in our results this quarter, we believe as the pandemic continues to come better under control with increased vaccinations and advanced treatments, then we will see a strong reemergence of growth and profitability in our business.
+The recovery from COVID has been delayed longer than we anticipated by the Delta variant, but we do expect to see a recovery ahead.
+It is because of that view that we're excited to begin to deploy a portion of the Company's excess capital in a way that we believe can create value for our shareholders.
+We start first with a capital position that remains very healthy with holding Company cash of $1.6 billion and weighted average risk-based capital ratio for our traditional U.S. -- U.S.-based life insurance companies at approximately 380%.
+This gives us the opportunity to begin to deploy a portion of that capital to enhance shareholder value, while also maintaining a healthy position for opportunities that could materialize in the future.
+Last week, we were pleased to announce the $250 million share repurchase authorization approved by our Board, which we intend to initiate in the fourth quarter with an execution of an accelerated share repurchase of $50 million.
+We expect to continue the program through the end of 2022.
+In addition to buying shares, we also plan to accelerate recognition of the premium deficiency reserve for the Long-Term Care Block by a similar amount over this same timeframe.
+We see value in accelerating the recognition ahead of the original seven-year schedule and could see its completion as early as the end of 2024 under certain market conditions.
+Even with the additional capital we plan to allocate to share buybacks and accelerated PDR recognition, we will continue to maintain a strong capital position and flexibility.
+While we remain optimistic over the long-term, given the volatility of the pandemic, we will move our traditional December Analyst Meeting to the first quarter of 2022 to discuss with you our full-year outlook.
+The area to stay focused on is our continued premium growth in our core business lines looking into 2022, as well as the impact of our capital deployment plans.
+We expect the impact of the pandemic to subside over the course of next year, but we do expect fourth quarter of this year to be impacted similarly to the third quarter.
+We are watching the national numbers as are all of you, and as the Delta wave subsides, we look to return to the growth and profitability we believe that we can deliver.
+Now, I'll ask Steve to cover the details of the third quarter results.
+I will also describe our adjusted operating income results by segment, excluding the impacts from our GAAP reserve assumption updates.
+The biggest component of the actuarial reserve review was the release of $215 million before tax in the Unum US long-term disability line.
+Claim reserves should represent our best estimate of the future liability, and since the last GAAP reserve review, investments in our operations have impacted our claims management and resulted in improvements in claim recoveries over the past several years, which we now believe are sustainable.
+As such, these reserves have been adjusted to better reflect the expected costs of claims.
+This reserve update will have little impact on our forward expectations for earnings from this line or the expected benefit ratio.
+The reserve review also determined that reserves should be increased in three lines within the Closed Block reporting segment.
+For the Closed Group Pension Block, policy reserves were increased by $25.1 million before tax.
+For the Closed Disability Block, claim reserves were increased by $6.4 million before tax.
+And finally for Long-Term Care, claim reserves were increased by $2.1 million before tax.
+Although the net of these reserve updates are excluded from adjusted operating income, they did contribute $0.70 per share to the Company's book value.
+I'll start the discussion of our operating results with the Unum US segment, where COVID significantly impacted our results this quarter, driving higher mortality and a higher average claim size in the group life business and higher short-term disability claims in the group disability business.
+For the third quarter in the Unum US segment, adjusted operating income was $88.5 million compared to $179.3 million in the second quarter.
+Within the Unum US segment, the group disability line reported adjusted operating income, excluding the reserve assumption updates of $39.5 million in the third quarter compared to $59.9 million in the second quarter.
+The primary driver of the decline was an increase in the benefit ratio to 78.9% in the third quarter compared to 74.7% in the second quarter, which was primarily driven by increased claims in the short-term disability line related to the COVID Delta variant and the current external environment.
+Premium income declined slightly on a sequential quarter basis, but we were pleased to see an uptick in growth to 2.6% on a year-over-year basis.
+While short-term disability results were challenged this quarter, our long-term disability line performed in line with our expectations as new claim incidence showed an increase mostly driven by the flow-through of STD claims to LTD status, which was offset by continued strong claim recoveries.
+It is likely that we will continue to see an elevated overall group disability benefit ratio as COVID and the current external environment continue to impact our STD results.
+We do feel that COVID is a key driver of the higher benefit ratio for the group disability line and that as direct COVID impacts lessen over the first part of next year, we will see improvement in the benefit ratio.
+Adjusted operating income for Unum US group life and AD&D declined to a loss of $67.1 million in the third quarter from income of $5.2 million in the second quarter.
+This quarter-to-quarter decline of roughly $70 million was largely driven by the changing impacts from COVID that Rick described in his comments.
+We were impacted by the deterioration in COVID-related mortality from our reported 52,000 national deaths in the second quarter to approximately 94,000 in the third quarter along with the age demographic shifting to higher impacts on younger working-aged individuals.
+Estimated COVID-related excess mortality claims for our Group Life Block increased from approximately 800 claims in the second quarter to over 1,900 claims in the third quarter.
+Accordingly, our results reflect mortality to level that represents approximately 2% of the reported national figures compared to a 1% rate experienced through 2020 when mortality was more pronounced in the elderly population.
+With a higher percentage of working-age individuals being impacted, we also experienced higher average benefit size, which increased from around $55,000 in the second quarter to over $60,000 this quarter.
+Finally, non-COVID-related mortality did not materially impact results in the third quarter relative to the experience of the second quarter.
+Looking ahead to the fourth quarter, our current expectation is for U.S. COVID-related mortality to continue to worsen to approximately 100,000 deaths.
+With continued higher mortality among working-aged individuals, we believe that group life results will remain under pressure with the expected fourth quarter loss similar, if not potentially worse than the experience of the third quarter.
+Now looking at the Unum US supplemental and voluntary lines, adjusted operating income totaled $116.1 million in the third quarter compared to $114.2 million in the second quarter, both very good quarters that generated adjusted operating returns on equity in excess of 17%.
+Looking at the three primary business lines.
+First, we remain very pleased with the performance of individual disability recently issued block of business which has generated strong results throughout the pandemic.
+We continue to see very favorable new claim incidence trends and recovery levels in this block.
+The voluntary benefits line reported a strong level of income as well, though income was slightly lower on a quarter-to-quarter comparison.
+The uptick in the benefit ratio in the third quarter to 46.6% from 44.2% in the second quarter was driven by increased COVID-related life insurance claims, which offset generally favorable results in the other VB product lines.
+Finally, utilization in the dental and vision line improved, leading to an improvement in the benefit ratio to 75% this quarter from 77.1% in the second quarter.
+Looking now at premium trends and drivers, total new sales for Unum US increased 7.7% in the third quarter on a year-over-year basis compared to the declines that we experienced in the first half of the year.
+For the employee benefit lines which do include LTD, STD, group life, AD&D and stop-loss, total sales declined by 2.5% this quarter, primarily driven by lower sales in a large case market and generally flat sales in the core market, which are those -- which are those markets under 2,000 [Phonetic] lines.
+Sales trends in our supplemental and voluntary lines rebounded strongly in the quarter, increasing 21.8% in total when compared to the year ago quarter.
+We saw sharp year-over-year increases in the recently issued individual disability line up 22.9% and in the dental and vision line up 48.2%.
+Voluntary benefit sales also recovered following lower year-over-year comparisons in recent quarters, growing 13.7% in the third quarter.
+We also saw overall favorable persistency trends for our major product lines in Unum US.
+Our group lines aggregated together showed a slight uptick to 89.4% for the first three quarters of 2021 compared to 89.1% last year.
+Both the voluntary benefits and dental and vision lines also showed year-over-year improvements, while the individual disability line declined slightly.
+The solid persistency numbers and improving sales trends provide a good tailwind for premium growth as we wrap up this year and move into 2022.
+Now let's move on to the Unum International segment.
+We had very good -- we had a very good quarter with adjusted operating income for the third quarter of $27.4 million compared to $24.8 million in the second quarter, a continuation of the improving trend in income over the past several quarters.
+The primary driver of these results is our Unum UK business, which generated adjusted operating income of GBP18.4 million in the third quarter compared to GBP16.8 million in the second quarter.
+The reported benefit ratio for Unum UK improved to 79.2% in the third quarter from 82.5% in the second quarter.
+The underlying benefits experience was favorable for our Group Income Protection Block, primarily due to lower new claim incidence through -- though claim recoveries continue to lag our expectations somewhat.
+The Group Life Block experienced adverse mortality primarily from non-COVID-related claims incidence and higher average size.
+We did not see much impact this quarter from COVID in our UK Life Block.
+Benefits experience in Unum Poland was also favorable this quarter helping generate a slight improvement in adjusted operating income.
+Premium growth for our International businesses was also favorable this quarter compared to a year ago.
+Looking at the growth on a year-over-year basis and in local currency to neutralize the benefit we saw from the higher exchange rate, Unum UK generated growth of 2.9% with strong persistency and the continued successful placement of rate increases on our in-force block.
+Additionally, sales in Unum UK rebounded in the third quarter, increasing 40.2% over last year.
+Unum Poland also generated growth of 12.5%, a continuation of the low double-digit premium growth this business has been producing.
+Next, results for Colonial Life are in line with our expectations for the third quarter with adjusted operating income of $80.1 million compared to the record quarterly income of $95.8 million in the second quarter.
+As with our other U.S.-based life insurance businesses, Colonial's life insurance block was negatively impacted by COVID-related mortality, which was the primary driver in pushing the benefit ratio to 55.9% in the third quarter compared to 51.7% in the second quarter.
+We estimate that adverse COVID-related claims experienced in the life block impacted results by approximately $16 million, the worst impact we have seen from COVID throughout the pandemic and a level that is likely to persist through the fourth quarter.
+Experience in the other lines being accident, sickness and disability and cancer and critical illness remained in line with our expectation and continue to drive strong earnings for this segment.
+Additionally, net investment income increased 25% on a sequential basis in the third quarter, largely reflecting unusually large bond call activity this quarter.
+We do not expect the benefit from bond calls to net investment income to continue at this level in the fourth quarter.
+We were very pleased with the improving trend we are seeing in premium growth for Colonial Life, which was flat this quarter on a year-over-year basis after showing year-over-year declines in each of the past three quarters.
+Driving this improving trend in premiums is a continuing rebound in sales activity at Colonial Life increasing 28.6% on a year-over-year basis this quarter and now showing a 21.1% increase for the first three quarters of 2021 relative to last year.
+Persistency for Colonial Life continues to show an encouraging trend at 78.9% for the first three quarters of 2021, more than a point higher than a year ago.
+In the Closed Block segment, adjusted operating income which does include -- which excludes the reserve assumption updates and the amortization of cost of reinsurance related to the Closed Block individual disability reinsurance transaction that did fully close earlier this year was $109.8 million in the third quarter and $111.2 million in the second quarter, both very strong results driven by favorable overall benefits experience in both the Long-Term Care line and Closed Disability Block, and strong levels of investment income to -- due to higher than expected levels of miscellaneous investment income, which I will cover in more detail in a moment.
+Looking within the Closed Block, the LTC Block continues to produce results that are quite favorable to our long-term assumptions.
+The interest adjusted loss ratio in the third quarter was 74.8% and over the past four quarters is 71.8%, which are both well below our longer-term expectation of 85% to 90%.
+In the third quarter, we continue to see higher mortality experience in the claimant block, where accounts were approximately 5% higher than expected which is similar to our experience in the second quarter.
+LTC submitted claims activity was higher in the third quarter, though much of the increase has not resulted in significant ongoing claim costs.
+Looking out to the end of 2021 and into 2022, we do anticipate that the interest adjusted loss ratio for LTC will likely trend closer, though slightly favorable to our long-term assumption range, as mortality and incidence trends continue to normalize from the impacts of COVID.
+For the Closed Disability Block, the interest adjusted loss ratio was 58.2% in the third quarter compared to 69.6% in the second quarter, both very favorable results for this line.
+The underlying experience on the retained block, which largely reflects the active life reserve cohort and certain other smaller claim blocks we retained performed very favorably relative to our expectations, primarily due to lower submitted claims again this quarter.
+So overall, it was a very strong performance again this quarter for the Closed Block segment.
+Higher miscellaneous investment income continues to contribute to the strong adjusted operating income for the segment, driven by both higher than average bond call premiums, as well as strong performance in our alternative asset portfolio.
+Looking ahead, we estimate the quarterly adjusted operating income for this segment will over time run within a range of $45 million to $55 million, assuming more normal trends for investment income and claim results in the LTC and Closed Disability lines.
+First, we saw a high level of bond calls again this quarter as many companies refinanced higher coupon debt and took advantage of today's favorable credit market conditions.
+We recorded approximately $20 million in higher investment income from bond calls this quarter relative to our historic -- our historical quarterly averages.
+The Closed Block and Colonial Life segments were the primary beneficiaries of higher investment income this quarter.
+Unum US was in line with historic averages, but lower this quarter than what we received in the second quarter.
+While these calls enhance current period investment income, they are volatile from quarter-to-quarter.
+Second, we continue to see strong performance in our alternative investment portfolio, which earned $38.2 million in the third quarter, following earnings of $51.9 million recorded in the second quarter.
+Both quarters are well above the expected quarterly income on the portfolio of $12 million to $14 million.
+The higher returns this quarter were generated from all three of our main sectors being credit, real estate and private equity, and reflected the strong financial markets and strong economic growth.
+It is hard to predict quarterly returns for miscellaneous investment income, but for the fourth quarter, we believe that they will moderate to our expected quarterly returns.
+Moving now to capital, the financial of the Company continues to be in great shape, providing a significant financial flexibility.
+The weighted average risk-based capital ratio for our traditional U.S. insurance companies improved to approximately 380%, and holding company cash was $1.6 billion as of the end of the third quarter, both of which are well above our targeted levels.
+In addition, leverage has trended lower with equity growth and is now 25.7%.
+As Rick mentioned, we're very pleased to clarify our capital deployment plans for the balance of 2021 and for 2022.
+For context, with the capital measures that I just discussed, we are in a very strong capital position with substantial financial flexibility.
+Our strategy for deployment has not changed and our priorities remain consistent, including first, funding growth in our core businesses; second, supporting our LTC Block; third, executing opportunistic acquisitions that support our long-term growth; and fourth, returning capital to shareholders in the form of dividends and share repurchases.
+We began to roll our plans out last week with the announcement of the authorization by our Board of Directors and to repurchase up to $250 million of our shares by the end of 2022.
+We plan to begin this program with the execution of an accelerated share repurchase of $50 million in the fourth quarter.
+We also plan to allocate capital to accelerate the recognition of the premium deficiency reserve for the LTC Block by a similar amount by the end of 2022.
+We feel that this combination strikes a good balance of repurchasing our shares at what we believe are very attractive prices, while also fully fund in the PDR ahead of the original 2026 target to help lessen the valuation drag on our stock from the LTC exposure.
+With this additional deployment of capital, we continue to project having a very solid capital position at the end of 2022 with holding company cash around $1 billion and an RBC ratio well above our target.
+Now shifting topics, I wanted to give you a brief update on our progress in adopting ASC 944 or Long Duration Targeted Improvements.
+As a reminder, this accounting pronouncement applies only to GAAP basis financial statements and has no economic statutory accounting or cash flow impacts to the business.
+We continue to feel good about our readiness to adopt the pronouncement as of January 1, 2023, and we'll be sharing some qualitative information in our Form 10-Q filing, which is later today.
+Although we continue to evaluate the effects of complying with this update, we do expect that the most significant impact of the transition date will be the requirement to update our liability discount rate with one that is generally equivalent to a single A interest rate.
+We expect this will result in a material decrease to accumulated other comprehensive income and primarily be driven by the difference between the expected interest rates from our investment strategy and interest rates indicative of a single A rated portfolio.
+As we continue to progress our work, we plan to provide updates to you in 2022 as we near adoption.
+So let me close with an update on our expectations for the remainder of 2021.
+With COVID-related mortality expected to increase further in the fourth quarter to approximately 100,000 nationwide deaths, we expect to see similar, if not slightly worse trends for mortality impacts on our life insurance businesses in the fourth quarter than we did experience in the third quarter.
+The Unum US group disability benefit ratio is also likely to remain elevated due to continued high levels of STD claims.
+In addition, we do not anticipate miscellaneous investment income to be as strong in the fourth quarter as it was in this quarter.
+These impacts will likely pressure our fourth quarter results relative to what we experienced here in the third quarter.
+As Rick mentioned, we plan to update you on our 2022 outlook during the first quarter of 2022 when we expect to have a more informed view of COVID mortality and infection trends.
+We feel confident that premium growth in our core business segments in 2022 can build off of the momentum that began to reemerge this year and then we'll also see the benefits of executing our share buyback authorization.
+With that said, future COVID trends will be a very important factor in our expected benefits experience.
+We do continue to be pleased with the operational performance of the Company through what has been an extraordinary environment.
+We believe we're really well positioned to benefit from today's strong business conditions and we have to remain vigilant as COVID-related mortality and infection rates continue to persist.

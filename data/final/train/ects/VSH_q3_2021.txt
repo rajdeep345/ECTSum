@@ -1,0 +1,203 @@
+As usual, we'll start today's call with the Chief Financial Officer, who will review Vishay's third quarter 2021 financial results.
+Dr. Gerald Paul will then give an overview of our business and discuss operational performance as well as segment results in more detail.
+We use non-GAAP measures because we believe they provide useful information about the operating performance of our businesses and should be considered by investors in conjunction with GAAP measures that we also provide.
+I will focus on some highlights and key metrics.
+Vishay reported revenues for Q3 of $814 million.
+EPS was $0.67 for the quarter.
+Adjusted earnings per share was $0.63 for the quarter.
+The only reconciling items between GAAP earnings per share and adjusted earnings per share are tax related.
+There were no reconciling items impacting gross or operating margins.
+Revenues in the quarter were $814 million, down by 0.7% from previous quarter and up by 27.1% compared to prior year.
+Gross margin was 27.7%.
+Operating margin was 15.2%.
+There were no reconciling items to arrive at adjusted operating margin.
+EPS was $0.67, adjusted earnings per share was $0.63.
+EBITDA was $162 million or 19.9%.
+There were no reconciling items to arrive at adjusted EBITDA.
+Reconciling versus prior quarter, operating income quarter three 2021 compared to operating income for prior quarter based on $5 million lower sales or flat sales, excluding exchange rate impacts, operating income decreased by $2 million to $124 million in Q3 2021 from $125 million in Q2 2021.
+The main elements were: Average selling prices had a positive impact of $10 million, representing a 1.3% ASP increase; volume decreased with a negative impact of $4 million, equivalent to a 1.3% decrease in volume.
+Variable costs increased with a negative impact of $12 million, primarily due to increases in metal prices as well as materials and services and not completely offset by cost reductions.
+Fixed costs decreased with a positive impact of $4 million, in line with our guidance.
+Reconciling versus prior year, operating income quarter three 2021 compared to adjusted operating income in quarter three 2020, based on $174 million higher sales, or $172 million excluding exchange rate impacts, adjusted operating income increased by $62 million to $124 million in Q3 2021, from $61 million in Q3 2020.
+The main elements were: Average selling prices had a positive impact of $18 million, representing a 2.2% ASP increase; volume increased with a positive impact of $70 million, representing a 23.2% increase.
+Variable costs increased with a negative impact of $8 million.
+Volume-related manufacturing efficiencies and cost reduction efforts did not completely offset higher metal prices, annual wage increases and higher tariffs.
+Fixed cost increased with a negative impact of $17 million, primarily due to annual wage increases and higher incentive compensation costs, only partially offset by our restructuring programs.
+Inventory impacts had a positive impact of $9 million.
+Exchange rates had a negative effect of $9 million.
+Selling, general and administrative expenses for the quarter were $102 million, in line with our guidance, excluding exchange rate impacts.
+For quarter four 2021, our expectations are approximately $104 million of SG&A expenses at current exchange rates.
+The debt shown on the face of our balance sheet at quarter end is comprised of the convertible notes due 2025 net of debt issuance costs.
+There were no amounts outstanding on our revolving credit facility at the end of the quarter.
+However, we did use the revolver from time to time during Q3 to meet short-term financing needs and expect to continue to do so in the future.
+No principal payments are due until 2025, and the revolving credit facility expires in June 2024.
+We had total liquidity of $1.7 billion at quarter end.
+Cash and short-term investments comprised $916 million, and there are no amounts outstanding on our $750 million credit facility.
+Total shares outstanding at quarter end were 145 million.
+The expected share count for earnings per share purposes for the fourth quarter 2021 is approximately 145.6 million.
+Our convertible debt repurchase activity over the past three years, together with the adoption of the new convertible debt standard significantly reduces the variability of our earnings per share to share count.
+Our U.S. GAAP tax rate year-to-date was approximately 18%, which mathematically yields a rate of 17% for quarter three.
+In quarter three, we recorded a tax benefit of $5.7 million due to the reversal of deferred tax valuation allowances in certain jurisdictions.
+We also recorded benefits of $8.3 million year-to-date due to changes in tax regulations.
+Our normalized effective tax rate, which excludes the unusual tax items, was approximately 22% for the quarter, and 23% for the year-to-date period.
+We expect our normalized effective tax rate for full year 2021 to be between 22% and 24%.
+Our consolidated effective tax rate is based on an assumed level and mix of income among our various taxing jurisdictions.
+A shift in income could result in significantly different results.
+Also a significant change in U.S. tax laws or regulations could result in significantly different results.
+Cash from operations for the quarter was $136 million.
+Capital expenditures for the quarter were $57 million.
+Free cash for the quarter was $79 million.
+For the trailing 12 months, cash from operations was $436 million, capital expenditures were $171 million, split approximately for expansion, $113 million; for cost reduction, $9 million; for maintenance of business, $49 million.
+Free cash generation for the trailing 12-month period was $267 million.
+The trailing 12-month period includes $15 million cash taxes paid for the 2021 installment of the U.S. tax reform transition tax.
+Vishay has consistently generated in excess of $100 million cash flows from operations in each of the past 26 years and greater than $200 million for the past 19 years.
+Backlog at the end of quarter three was at $2.244 billion or 8.3 months of sales.
+Inventories increased quarter-over-quarter by $30 million excluding exchange rate impacts.
+Days of inventory outstanding were 81 days.
+Days of sales outstanding for the quarter were 43 days.
+Days of payables outstanding for the quarter were 35 days, resulting in a cash conversion cycle of 89 days.
+Also in the third quarter, we operated under quite excellent economic conditions characterized by extremely high backlogs.
+We continue to expand critical manufacturing capacities in order to prepare ourselves for further growth.
+During the quarter, we did experience some localized shortages of labor impacting the manufacturing output.
+There were strong financial third quarter results.
+We had a gross margin of 27.7% of sales and operating margin of 15.2% of sales.
+Earnings per share were $0.67 and adjusted earnings per share, $0.63.
+Vishay in the third quarter generated $79 million of free cash, and we do expect another good year of cash generation.
+As I said, the economic environment for electronic components remains exceptionally good with backlogs at a historical high.
+Except for automotive, all markets continue to be in excellent shape and sales are basically limited by the manufacturing capacities.
+The automotive sector is expected to accelerate again over the next quarters with current supply problems getting resolved step by step.
+The supply chain continues to be rather depleted in general.
+We see extremely long lead times and shortages of supply.
+Price increases are being implemented in general also to offset increased inflationary costs for metals and for transportation.
+Concerning the various regions, not so many differences.
+All regions remained exceptionally strong.
+POS in all regions remains close or above all-time highs, and distribution in all regions remains hungry for products every year, no change.
+Global distribution continues to get overwhelmed with orders.
+POS in the third quarter continued on a record level of the second quarter, running 34% over prior year.
+POS increased versus Q2 by 5% in the Americas and by 3% in Europe.
+Asia was slightly down by 2%.
+Americas and Europe are at an all-time high.
+Inventory turns of global distribution in quarter three turns was at 4.2 turns, started to normalize from quite extreme 4.4 turns in the second quarter.
+In the Americas, 2.2 turns after 2.1 turns in the second quarter and 1.5 turns in prior year.
+In Asia, 6.1 turns after 7.4 turns in Q2 and 4.3 turns in prior year.
+And in Europe, 4.5 turns in the quarter after 4.6 turns in the second quarter and 3.2 turns in prior year.
+Coming to the various industry segments we serve.
+Sales to the automotive market remains dampened by customers' inability to secure ICs.
+The situation is expected to improve step by step.
+And as the demand for cars remains on a very high level, you can see that there's money in the bank for 2022.
+Industrial markets continued strong in all regions, factory automation, alternative energy, power transmission are driving the growth.
+After record levels in 2020, personal computing shows signs of normalization, but server markets continue growing.
+Proliferation of 5G technology continues to drive sales in fixed telecom.
+Military spending remains stable.
+Commercial aerospace starts to recover slowly.
+Medical markets are steady, with focus being more and more shifted back to normal hospital procedures.
+White goods, air conditioning and gaming remains strong and profitable.
+Coming to Vishay's business development in Q3.
+Due to local labor shortages, third quarter sales, excluding exchange rate impacts came in below the midpoint of our guidance.
+We achieved sales of $814 million versus $819 million in prior quarter and versus $640 million in prior year.
+Excluding exchange rate effects, sales in Q3 were flat versus prior quarter and up by $172 million or by 27% versus prior year.
+Book-to-bill in the quarter has remained on an extraordinarily high level of 1.26 after 1.38 in prior quarter.
+1.29 book-to-bill for distribution after 1.41 in quarter two; 1.23 for OEMs after 1.34 in the second quarter; 1.27 for semis after 1.41 in Q2; 1.26 for passives after 1.35; 1.30 for the Americas after 1.33 in Q2; 1.14 for Asia after 1.29; 1.41 for Europe after 1.54, I think we can speak of a broad continuation of an excellent economical environment.
+Our backlog in the third quarter has climbed to another record high of 8.3 months after 7.5 in the second quarter, 8.9 months in semis after 8.4 months in Q2 and 7.6 months in passives after 6.7 months in Q2.
+Price increases become visible in our broad form.
+We have seen 1.3% prices up versus prior quarter and 2.2% versus prior year.
+For the semiconductors, it was 2.2% up versus prior quarter and 3.8% up versus prior year.
+For the passives, 0.3% up versus prior quarter and 0.5% up versus prior year.
+Some highlights of operations.
+Despite the continued good level of plant efficiencies, our contributive margin in the third quarter has suffered from inflationary impacts, in particular as it relates to metals and to transportation.
+SG&A costs in Q3 came in at $102 million according to expectations when excluding exchange rate impacts.
+And manufacturing fixed costs in the quarter came in at $137 million, below our expectations when excluding exchange rate impacts.
+Total employment at the end of the third quarter was 22,730, 1% up from prior quarter.
+Excluding exchange rate impacts, inventories in the quarter increased.
+By $30 million, $13 million in raw materials and $17 million in WIP and finished goods.
+Inventory turns in the third quarter remained at a very high level of 4.5 after 4.8 in Q2.
+Capital spending in the quarter was $57 million versus $22 million in prior year, $41 million for expansion, $2 million for cost reduction and $14 million for the maintenance of business.
+We continue to expect for the year 2021 capex of approximately $250 million for the most part, of course, for expansion projects.
+We, in the third quarter generated cash from operations of $436 million on a trailing 12-month basis.
+And also, on a 12-month basis, we generated $267 million free cash.
+Despite increased capex, we also for the current year, expect a solid generation of free cash, quite in line with our provision.
+Coming to our main product lines, starting with resistors.
+With resistors, we enjoy a very strong position in the auto industrial, mill and medical market segments.
+We offer virtually all resistor technologies and are globally known as a reliable high-quality supplier of the broadest product range.
+Vishay's traditional and historically growing business has returned to record levels.
+Sales in the quarter were $181 million, down by $12 million or 6% from previous quarter, but up by $35 million or 24% versus prior year, all excluding exchange rate impacts.
+In the third quarter, in particular, some shortages of labor and limited sales.
+The book-to-bill ratio in the quarter continued strong, 1.26 after 1.39 in the second quarter.
+The backlog increased further to 7.8 months from 6.6 months in the prior quarter.
+Gross margin in the quarter decreased to 27% of sales, down from a peak of 30% in Q2.
+Main reasons were lower volume and higher metal and logistics costs.
+Inventory turns in the quarter remained on a very high level of 4.7 after 5.1 in the second quarter.
+Selling prices continued to increase, plus 0.5% versus prior quarter and plus 0.7% versus prior year.
+We are in process to raise critical manufacturing capacities mainly for resistor chips and for power wirewounds.
+And of course, we focus on hiring in the critical places.
+We expect a very successful year for resistors.
+The business consists of power inductors and magnetics.
+Since years, our fast-growing business with inductors represents one of the greatest success stories of our company.
+Exploiting the growing need for inductors in general, which had developed a platform of robust and efficient power inductors and leads the market technically.
+With magnetics, we are very well positioned in specialty businesses, demonstrating steady growth there.
+Sales of inductors in the third quarter were $85 million, flat versus prior quarter and up by $5 million or by 7% versus prior year, excluding exchange rate effects.
+The book-to-bill ratio in the third quarter was 1.11 after 1.21 in prior quarter.
+The backlog for inductors grew further to 5.4 months from 5.1 in the second quarter.
+Gross margin continued to run at an excellent level of 32% of sales, slightly down from a peak of 34% in prior quarter.
+Inventory turns were at 4.6, practically flat versus prior quarter.
+There is a substantially reduced price decline at inductors, a slight price increase of 0.2% versus prior quarter and minus 1% versus prior year.
+We are accelerating the next steps of capacity expansion for power inductors in order to get ahead of the demand curve.
+Our business with capacitors is based on a broad range of technologies with a strong position in American and European market niches.
+We enjoy increasing opportunities in the fields of power transmission and of ECAs, namely in Asia and China.
+Sales in the third quarter were $116 million, 3% below prior quarter but 25% above prior year, which excludes exchange rate impacts.
+Shortages of labor, also in the case of capacitors, limited manufacturing output and sales.
+Book-to-bill in the third quarter for capacitors remained at very strong 1.7 on the level of the prior quarter.
+Backlog increased to an absolute record of 8.9 months, up from 7.7 months in the second quarter.
+Gross margin in the third quarter reduced to 21% of sales from 24% in the second quarter.
+Lower volume meant further increased cost for metals, in particular, worsen the results.
+Inventory turns in the quarter remained on a healthy level of 3.5 after 3.9 in prior quarter.
+We are steadily increasing selling prices, 0.1%-plus versus prior quarter and 1.3%-plus versus prior year.
+We expect a solid year for capacitors with growing opportunities in the future.
+We remain confident for capacitors for the midterm in the light of increasing designed wins that we see.
+Coming to Opto products.
+Vishay's business with Opto products consists of infrared emitters, receivers, sensors and couplers.
+Also in Opto, we see a strong acceleration of demand.
+Sales in the quarter were $71 million, 6% below prior quarter, but 9% above prior year, which excludes exchange rate impacts.
+We experienced quite substantial losses of manufacturing output due to COVID-related restrictions in Malaysia.
+This situation should be resolved, for its resolved after all by all the workforce now has been vaccinated, will not repeat itself therefore.
+Book-to-bill in the third quarter continued strong at 1.36 after extreme 1.69 in the second quarter.
+Backlog continued to grow to another record high of 10.9 months after 9.3 months in prior quarter.
+Gross margin in the third quarter improved further to 34% of sales after 32% in prior quarter.
+I think we can say Opto continues to perform exceptionally well.
+We have seen now more normal inventory turns of 5.0 in the quarter after 5.8 in the second quarter.
+The selling prices are going up, plus 1.9% versus prior quarter and plus 5% versus prior year.
+We modernized and expand our Heilbronn wafer fab and the production should start in the course of Q4, partially Q1 next year.
+Opto products continue to be a very relevant factor for Vishay's growth.
+Diodes for Vishay represents a broad commodity business where we are largest supplier worldwide.
+Vishay offers virtually all technologies as well as the most complete product portfolio.
+The business has a very strong position in the automotive and industrial market segments and keeps growing steadily and profitably since years.
+Sales in the quarter were $185 million, up by $12 million or by 7% versus prior quarter, and up by $61 million or 49% versus prior year without exchange rate effects.
+We see a continued strong book-to-bill ratio of 1.31 in the quarter after 1.45 in Q2.
+Backlog climbed to an extreme high of 8.9 months from 8.5 months in prior quarter.
+With growing volume, gross margin continued to improve to 25% of sales as compared to 24% in Q2.
+Inventory turns were at 4.5 after 4.7 in prior quarter.
+Selling prices keep increasing by 2.9% versus prior quarter and by 5.1% versus prior year.
+We have started to expand our fab in Taipei introducing the 8-inch technology there.
+The business with diode starts to exceed pre-pandemic levels.
+Vishay is one of the market leaders in MOSFET transistors.
+With MOSFETs, we enjoy a strong and growing market position, in particular, in automotive, which in view of an increasing use of MOSFETs will provide a very successful future for this product line.
+The demand has reached quite extreme levels and increases further.
+Sales in the quarter were $176 million, 5% above prior quarter and 31% above prior year, excluding exchange rate impacts.
+Book-to-bill ratio in Q3 was 1.19 after 1.26 in the second quarter.
+Backlog has grown further to an extreme level of 8.1 months as compared to 7.9 in the second quarter.
+Higher volume, better selling prices and good efficiencies allowed gross margin to increase further to 31% of sales, up from 28% in the second quarter.
+Inventory turns in the quarter were at 5.1, virtually flat versus prior quarter.
+We are implementing price increases plus 1.5% versus prior quarter and plus 2.2% versus prior year.
+MOSFETs remain absolute key for Vishay's growth going forward.
+We intend to keep a proper balance between in-house manufacturing of wafers and purchases from foundries.
+And this in mind, we decided to build a 12-inch wafer fab in Itzehoe in Germany, adjacent to our existing eight-inch fab, which will increase our in-house wafer capacity by 70%, 7-0 percent, within three to four years.
+Let me summarize and let me emphasize the following: Clearly we, since a few years, enjoy very favorable economic conditions, and the end of the positive phase of the current cycle is not in sight.
+But, I think much more important beyond all short-term speculations, the longer-term outlook for electronics and also for components is remarkably bright.
+We expect noticeably higher growth rates for our products going forward than we have seen them in the past.
+Vishay definitely is in a good position to benefit from this favorable trend.
+We enjoy a very broad and strong market position.
+We are a broad liner, and we are financially solid and therefore, in the position to take the right steps.
+Results also for the fourth quarter look promising.
+We guide to a sales range between $805 million and $845 million at a gross margin of 27.7%.
+Over to you, Peter.
+Vic, please take the first question.

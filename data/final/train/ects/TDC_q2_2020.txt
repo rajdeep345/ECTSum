@@ -1,0 +1,156 @@
+Steve McMillan, Teradata's President and Chief Executive Officer, will lead our call today; followed by Mark Culhane, Teradata's CFO, who will discuss our financial results.
+We will also discuss other non-GAAP items such as free cash flow and constant currency revenue comparisons.
+A replay of this conference call will be available later today on our website.
+I'm truly honored as well as incredibly excited to join Teradata as CEO and lead this great organization that is rich with opportunities.
+I've joined at quite a unique time in history when this pandemic has caused companies to rethink and rework their business models.
+The crisis has made one thing very clear: the essential role Teradata plays and our customer success.
+Organizations need data to help them manage through these tumultuous times.
+As companies address rapidly changing market situations and customer needs reengineer supply chains to source critical supplies or pivot to remotely support all operations, they realize the need to leverage data as an important asset to make better informed business decisions.
+Leveraging all of the relevant data possible helps organizations have the agility they need to weather through the disruptions of today's uncertainties.
+Companies of the size and reach of our customers need access to data at the scale only Teradata can address with the reliability, security and dependability they require and we deliver.
+Data and analytics are foundational elements to digital transformation, a transformation which will be accelerated for many by the pandemic.
+Organizations need to rapidly adapt to this changing landscape and to transform themselves to be leaders in the new economy.
+To accomplish the transformation, they need analytic insights leveraging data from all relevant sources.
+Teradata's ability to deliver these enabling capabilities in both hybrid and multi-cloud is unique and presents us with a tremendous opportunity.
+With that market backdrop, it gives me great pleasure to open my first earnings call as CEO, delivering news of strong results in Q2.
+The organization executed extremely well in the quarter despite the uncertainties caused by COVID-19.
+In Q2, we exceeded our expectations and Street guidance for our key metrics.
+With strong sales execution and good cost discipline, we generated robust ARR growth, significant free cash flow, strong recurring revenue growth and solid earnings per share.
+Mark will cover our financial results in greater detail as usual.
+And today, I will speak to three areas important for Teradata's success: first, our ongoing technology innovation; second, our resilient execution during these unprecedented times; and third, our continued customer success.
+And then I will close with a few personal comments as Teradata's new CEO.
+I want to start with our technology innovations, particularly in the cloud.
+As I spent time learning about the company, I was pleased to see the robust body of work from our products organization as we develop and engineer new data and analytics technologies for both hybrid and multi-cloud environments.
+We are pleased that Vantage with Native Object Store, or NOS, support has become generally available in the cloud on AWS and Azure, and we will be delivering Vantage on GCP very soon as well.
+With NOS, analytic models can take advantage of exponentially greater amounts of data stored in public cloud environments, massively improving the scope and activity of the resulting insights.
+NOS support also reduces the friction in using data in a cloud object store with data already in Vantage.
+This new release of Vantage continues our focus on driving innovation in our software so that customers can apply analytic insights to data wherever it resides, in an on-premise appliance, external data store or cloud storage environment.
+Because Vantage software is consistent from one environment to the next, risk is reduced and the process is greatly simplified, bringing faster time to value with the scale, security, availability and analytics performance customers rely on from Teradata.
+Vantage with NOS support was developed with direct input from our customers and partners about the real-world use cases.
+One early access customer leveraged Vantage and IoT sensor data stored in AWS three to perform predictive maintenance on more than 650,000 pieces of equipment, keeping the fleet running, drives more consistent and predictable operations for them and increasing customer satisfaction.
+We're also bringing a 30-day trial of Vantage in the cloud for customers to directly access and experience the power of Vantage and test out advanced analytics on our leading platform in the cloud.
+Starting in Q2, this global program is available by invitation and brings faster evaluations as well as reduced pain to value for our customers.
+The trial offers end database analytics and NOS support and includes access to preloaded data sets so that customers can easily explore various business outcomes from advanced analytics.
+The trial also showcases our completely modernized UX for Vantage, which makes it easier for business users to take advantage of our platform.
+While I'm still evaluating the business, I am pleased to see the strength of innovation at Teradata.
+However, we can improve our execution in this arena and accelerate our cloud efforts and momentum.
+Turning to our execution during the COVID-19 crisis.
+The Teradata team demonstrated great resiliency and pivoted quickly and smoothly to remote work environments.
+We're focused on supporting our employees through the challenges posed by the pandemic as well as being there to support our customers regardless of physical constraints.
+To further support our customers during the pandemic, we enabled customers to extend their knowledge of how to leverage data and its impact by offering our training for free.
+In a great showing of the demand for Teradata expertise, we saw more than 14,000 people take advantage of that learning opportunities.
+Further, we reimagined all of our events into 100% virtual experiences, and our teams collaborated remotely with hundreds of customers and prospective customers explaining how companies can leverage Teradata to get the insights they need.
+Last quarter, we talked about developing virtual executive briefing centers to advance our sales motions while the world needed to work remotely.
+We have had tremendous response from customers as well as superior contributions from Teradata employees to these high-quality virtual interactions.
+Our virtual engagements have and are continuing to develop into opportunities for us.
+As we move through Q3, our virtual engagements continue and our offices remain closed.
+Our goal is the safety of our employees globally in the face of this highly dynamic situation.
+We plan to reopen offices only when we believe there will be safe environments for our employees and guests.
+In the meantime, we will continue to operate remotely.
+And I am pleased with how our teams have demonstrated their ability to adapt and keep advancing the business.
+Our strong relationships with our stable customer base, combined with a deeply rooted dedication to delivering business value for our customers, are serving us well during these uncertain times.
+As we continue to support our customers in their digital transformation, we are modernizing our go-to-market motions.
+In Q2, we continued the rollout of our customer success program, where our teams are working to ensure our customers are maximizing the business value from their investment in Teradata technology.
+Our customer success program also focuses on increasing customer satisfaction.
+We are seeing very positive response from customers with this program and believe it will drive significant expansion opportunities over time.
+The work on building our modern sales capabilities remains under way as we enter Q3.
+Simultaneously, our marketing programs are pivoting to focus on customer use cases and deeper digital experiences.
+We are assertively taking back the narrative on Teradata's capabilities in the cloud with an integrated campaign addressing the misperceptions that others have proliferated.
+It's great to see us on the offense.
+Just one example is an outstanding webinar we recently held with independent analyst William McKnight; and Brinker International, one of the world's leading casual dining restaurant companies with brands Chili's and Maggiano's Little Italy.
+This webinar centers on Brinker's journey to the cloud with Teradata and why Brinker chose Vantage on AWS to drive advanced analytics, machine learning and data science across its organization.
+With Vantage delivered as a service in the cloud, Brinker can now apply advanced analytics and predictive modeling to its business to improve demand and traffic forecasting, team member management and recommendation engines for customers and more.
+It's available from our website.
+So we are advancing on many fronts, all to support and grow our customer base.
+We have a broad number of wins in the quarter, and I'd like to walk through a small sample of our recent cloud wins.
+Vodafone extended its strategic partnership with Teradata with a new multiyear, multimillion-dollar commitment, utilizing Vantage to improve network intelligence, digital customer experience, IoT and finance.
+We look forward to continuing to work with Vodafone to help drive its vision for the telco of the future.
+A major U.S. supermarket chain is migrating to Vantage on AWS, and here, we won over cloud-only vendors.
+This is the first step in growing Teradata's value proposition and expanding into new use cases, including expanded store information, tray loss prevention, HR analytics and more.
+A European energy company migrated to the cloud with Vantage on AWS.
+Here, we won against competition from cloud-only providers.
+Based on our unmatched capabilities to scale and the flexibility in our pay-for-what-you-use consumption model, the customer has an extensive set of use cases, including expanding its 360-degree view of its 11 million B2C customers, improving the customer journey and defining use customer segments based on advanced analytics.
+One of the world's largest gaming and hospitality companies selected Vantage on Azure versus a cloud-only technology.
+The firm utilizes Teradata to drive its loyalty rewards program and $9 out of every $10 of revenue flows through applications run on Vantage.
+As the company continues to modernize and transform its business, it's working with Teradata to simplify the way stakeholders analyze data to make better and more timely decisions across the entire enterprise with a consistent data set.
+Teradata will be collaborating with global integrator, Cognizant, on this project.
+A leading U.S. wholesaler is migrating two on-prem systems to Vantage on AWS.
+Despite competition from cloud-only providers, Teradata's new consumption model won the deal.
+The customer is beginning a multiphase deployment that will ultimately replace redundant data marks running on other databases throughout its ecosystem.
+Teradata is collaborating with AWS and a major global systems integrator to expand usage of Vantage and drive business value for this customer.
+A large Canadian retailer is migrating key applications to the cloud as part of its cloud-first mandate.
+Teradata and Microsoft work together to provide a compelling offer that involves replicating data on a near real-time basis from the customer's on-prem system to Vantage on Azure.
+This allows it to seamlessly transition key business reporting initiatives in the case of a disaster with minimal disruption.
+This customer has a long history of working with Teradata and knew that with the volume of [crews] processed daily, it couldn't seriously consider a cloud-only solution that cannot scale to meet its price performance requirements.
+We will continue to work to accelerate our cloud efforts and drive high-quality wins, foster lasting relationships based on business value in our differentiated technology and services.
+Before I pass the call to Mark, I would like to take a little time to talk to you about why I joined Teradata, what I see as our opportunity and how I see our business.
+Teradata's market position and opportunity are tremendous.
+As I previously stated, data and analytics are the foundation of a company's digital future, and Teradata provides the best technology in the world to enable companies to leverage their data, apply analytics to solve mission-critical problems and compete in the market.
+This is why companies build their future on Teradata, and the incredibly knowledgeable people we have bring truly unmatched expertise to help companies get great value out of the data.
+I've only been at Teradata for two months, so now is not the time for new strategy statements.
+But rest assured, we are tirelessly working on driving our cloud transformation and improving financial returns.
+A primary focus of mine is to create the strategic context and operating plans for the company, which we will share in the coming quarters.
+For now, I want to address a few foundational elements crucial to our future.
+We will win in the cloud, and we'll continue to offer choice and cloud deployment options to meet our customers' needs.
+That part of the strategy will not change, and I will make sure we are focused on accelerating our move to the cloud.
+In addition, I believe great technology companies focus on platform and not product, and there's a huge opportunity as we transform Teradata to be the leading analytics platform for a hybrid and multi-cloud world.
+We will continue to leverage our differentiated expertise in consulting and services to enable our customers and our partners to achieve the best analytic outcomes.
+And finally, we will aim to grow profitability with a balanced focus on growth and returns, optimizing and streamlining our operations where needed without impacting our customers.
+We will operate with a sense of urgency and productive paranoia as we move Teradata into the future.
+As we grow, our ethos will continue to be one that values inclusion and diversity.
+Our entire leadership team recently stood together and pledged to all employees to take a set of actions, ensuring that Teradata cultivate a workplace where equality, inclusion, diversity and openness are a companywide priority.
+And to align with our deep commitment to social responsibility, we have begun holding dialogues in some of the challenges facing the world today as open conversation and knowledge are key to driving change.
+While we have more work to do and it will take some time to get to where we should be, we are starting from a strong foundation.
+We have the technology built for a hybrid and multi-cloud world.
+We have outstanding people and a very strong customer base.
+We have a vibrant and strong culture, and the passion I see to help customers get the greatest value from the data assets is absolutely energizing.
+I'm confident that I made the right decision in joining Teradata.
+With the ongoing pandemic, the second half remains uncertain for many organizations, and no one knows when everything will return to a more normal, predictable environment.
+Despite uncertainties, we are listening to the market and our customers.
+We are committed to responding with speed and agility and ensuring we are providing value for our customers, supporting our people and delivering on our expectations.
+I look forward to providing updates as we progress.
+With that, I'll pass the call to Mark.
+As Steve said, we had a very solid quarter with healthy results in all three regions, and I am very proud of the way the organization has come together and executed.
+We generated robust ARR growth, strong free cash flow growth, healthy recurring revenue growth and solid earnings per share enabled by actions we took to manage expenses given the uncertain environment.
+We mentioned on our last call, some of the actions we took in Q1 in support of our customers, including temporary free capacity or extended payment terms, and these actions helped move transactions forward this quarter, but more importantly, helped us to deepen our relationships with our customers.
+Additionally, commentary on key segment trends can be found in the earnings discussion document on the IR website at investor.
+We generated $52 million in incremental ARR this quarter, $39 million in constant currency.
+This resulted in $358 million in recurring revenue, growing 6% reported and 8% in constant currency and was well above our guidance range.
+As we said last quarter, we wanted to remain conservative in our outlook given the overall uncertainty.
+But as you can see, we had a very strong quarter.
+Consulting revenue declined 26%, 24% in constant currency.
+This is an area that has seen more headwinds from COVID-19 as some customers continue to manage discretionary spending.
+We believe consulting will continue to see headwinds in the second half given the ongoing uncertainty due to various levels of outbreaks and continued remote work mandates.
+Moving on to gross margins.
+Recurring revenue gross margins were 69.8%, up 230 basis points sequentially but down 120 basis points year-over-year as the mix of recurring revenue that includes hardware and lower-margin cloud revenue created a near-term headwind.
+Over time, we expect recurring revenue gross margins to expand as we see less mix headwinds and expect to see significant gross margin expansion in our cloud offering over the next 18 to 24 months.
+Consulting revenue gross margin was 15.9% as improved utilization and better price realization helped drive significant movement versus last year.
+Some of this performance was due to catch-up of projects impacted at the end of Q1 and will normalize in the second half.
+And we are still expecting consulting revenue margins to be in the low double digits for the year.
+Total gross margins came in at 58.9%, up 620 basis points year-over-year.
+The improvement was driven primarily by revenue mix shift to higher-margin recurring revenues and away from perpetual and consulting revenue.
+Total operating expenses were up 2% year-over-year.
+The primary driver of this increase was amortization from capitalized sales compensation as required under ASC 606.
+We continue to reallocate spend toward our cloud initiative as well as our expanded go-to-market efforts with partners and customer success.
+To fund these efforts as well as manage expenses given the uncertain environment, we took several actions to manage operating expenses, including limiting travel and entertainment, moving marketing events to virtual as well as limit other discretionary spend.
+Additionally, we also converted a portion of our annual performance cash-based incentive comp to share-based performance grants that potentially helps non-GAAP operating margin and earnings per share in 2020 between 50 and 100 basis points and $0.05 to $0.10 of EPS, which we believe will have no significant share dilution impact in 2021 when the final annual performance incentive achievement is determined.
+For the full year, we will continue to look for areas to optimize our cost structure while investing in our key strategic initiatives in cloud and transforming our go-to-market organization to support our recurring revenue model and expand our opportunities in the market.
+As a result of the cost actions we have taken in the first half, we now expect full year operating expenses to be roughly flat to down year-over-year.
+We had an exceptionally strong free cash flow quarter driven by excellent execution from our collection organization.
+As we mentioned last quarter, we had roughly $30 million in collections that slipped from Q1 but were collected in April.
+And this, combined with the overall strong quarter, resulted in free cash flow for the quarter of $115 million, bringing free cash flow for the first half to $130 million.
+As we said last quarter, we are confident that 2019 was the bottom for free cash flow during our transition, and we have already exceeded that number as of the first half of 2020.
+In addition, we expect incremental free cash flow for the second half to be positive as well.
+Our financial position remains very strong and we ended the quarter with $494 million in cash.
+After the initial shock in late March and early April to our customer base, we saw conditions stabilize and then customer engagement return to very healthy levels.
+As a result, linearity in the second quarter was better than our expectations for Q2.
+And so far, customer engagement trends have remained healthy at the start of Q3.
+We will continue to support our customers in these unprecedented times and believe our long-term relationships and rock-solid technology are advantages that will allow us to continue to expand our existing customer relationships.
+While our customer base isn't immune, we serve the largest, most stable companies in the world.
+As a reminder, less than 12% of our revenue comes from industries hardest hit by the economic changes brought on by COVID-19.
+We came into the year set up for a strong year and remain cautiously optimistic based on the pipeline we see for the second half.
+However, with continued disruption of daily life and uncertain business conditions, we believe it's prudent to remain conservative.
+And consistent with last quarter, we will only be providing guidance for Q3.
+For Q3, we expect recurring revenue in the range of $359 million to $361 million and non-GAAP earnings per share between the range of $0.28 and $0.31.
+In addition, we continue to expect our full year tax rate to be approximately 23% and a full year share count of approximately 111 million shares.
+And finally, out of an abundance of caution, our share buyback program will remain suspended until further notice.

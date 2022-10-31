@@ -1,0 +1,179 @@
+These risks and uncertainties may cause actual company results to differ materially.
+On the call today are Kathy Warden, our chairman, CEO, and president; and Dave Keffer, our CFO.
+Kathy Warden -- Chairman.
+We delivered another quarter of strong results in an increasingly complex environment.
+In the last quarter, we've seen developments in the global fight against COVID-19 and macroeconomic changes, such as a tightening labor market, supply chain challenges, and growing inflation.
+But we've also seen evolving threats to our National Security, which has further eliminated the value of Northrop Grumman products and services.
+I am proud of how our team has demonstrated remarkable resiliency and adaptability during these dynamic times.
+Our company continues to deliver strong operating performance.
+As we announced earlier today, we had a segment operating margin rate of 11.9% in the third quarter, and year to date, an exceptional segment operating margin rate of 12%.
+In addition, earnings per share in the quarter were $6.63, an increase of 13% compared to last year.
+And our transaction-adjusted free cash generation continues to be strong, increasing 15% year to date.
+We ended the quarter with just over $4 billion in cash, providing significant flexibility in support of our capital deployment initiatives.
+With respect to the top line, our year-to-date organic growth was 8%.
+This robust growth reflects the alignment and strength of our broad portfolio to our customers' priorities and future needs.
+As expected, our organic growth rate slowed in the quarter from the rapid pace that we saw in the first half of the year.
+In addition to having fewer working days in the second half of the year, which we discussed on each of our last two calls, we are also seeing an impact on our sales from the broader economic environment due to COVID-19.
+During the third quarter, this included employee leave-taking at a higher level than planned, a tighter labor market, and certain supply chain challenges.
+We continue to focus on the safety and well-being of our employees, customers, and partners as we work to mitigate the impact of these factors.
+As you know, the president recently issued an executive order generally requiring employees to federal contractors to be fully vaccinated by early December.
+We have shared the details of this mandate with our U.S. workforce, and we are working to help them meet the requirements.
+We also increased our hiring plans for the fourth quarter to help mitigate the potential impact of any increased attrition.
+Based on the team's strong third-quarter performance and in consideration of macroeconomic factors as we see them today, we are increasing our guidance for segment OM and earnings per share for the year and narrowing our sales guidance to approximately $36 billion.
+Dave will provide more details on the quarter, our updated guide, as well as our initial outlook for 2022.
+Turning to budget updates from Washington.
+We're seeing strong bipartisan support for National Security broadly and Northrop Grumman programs specifically.
+We are pleased that an agreement was reached on the continuing resolution and debt ceiling that will fund the government through December 3.
+We are hopeful that Congress will finalize the fiscal year 2022 appropriations and avoid a protracted continuing resolution.
+With respect to the FY '22 defense budget overall, we see bipartisan support for increased defense spending, including adding funding above the president's budget request.
+We are hopeful that this additional funding will be supported in final appropriations.
+Over the past several weeks, senior customers, members of Congress, and administration officials have made increasingly public comments about strategic competition in the National Security environment and the need to counter and deter evolving threats.
+One clear and consistent message has been the need to invest in and more rapidly field advanced capabilities.
+Our company's portfolio and capabilities are strongly aligned to the five National Security priority areas, particularly in advanced weapons, strategic deterrence, mission systems, and space.
+And we're using digital technologies to develop and deploy capabilities faster and more efficiently than ever before across our entire portfolio.
+I'll share a few highlights to demonstrate how our performance today continues to position us for the future.
+With the emergence of more sophisticated air defense systems, the need for standoff capabilities and speed to target is critical for our customers.
+To address this requirement, Northrop Grumman developed AARGM-ER, a high-speed, long-range air-to-ground missile.
+And in the third quarter, after just 28 months in engineering, manufacturing, and development, we achieved a critical milestone, clearing the wafer production.
+In September, we received our first low-rate initial production award for the program.
+Also during the quarter, we, along with our industry partner, Raytheon, successfully tested the hypersonic air-breathing weapon concept known in HAWC.
+Northrop Grumman supplies the scramjet propulsion system for HAWC, allowing speeds of greater than Mach 5.
+AARGM-ER and HAWC are just two examples of how we're providing the higher speed and longer-range weapons needed to be relevant in today's threat environment.
+Another key area where we are supporting our customers is in the need and urgency to enhance our country's strategic deterrence capabilities, especially in light of recent disclosures of investments that other nations are making in modernizing their strategic capabilities.
+The triad is the foundation of the security strategy for the U.S. and its allies and has been an effective deterrent for decades, preserving peace and deterring aggression.
+As highlighted by recent customer and administration comments, modernizing the triad remains a high priority.
+Northrop Grumman is the prime on two of the three legs of the triad with the bomber and strategic missiles, and we're a significant supplier for submarines as well.
+For the bomber, the B-21 program continues to advance.
+As Air Force Secretary, Frank Kendall recently noted, there are now five units in various stages of production and the systems are, in his words, making good progress to real fielded capability.
+For strategic missiles, we continue to make solid progress on the EMD portion of the ground-based strategic deterrent program.
+We completed key milestones earlier this year, and we are tracking toward our first flight as planned.
+The GBSD program has ramped significantly this year, and we now expect that it will add just over $1 billion in incremental revenue to our 2021 results and another approximately $500 million of incremental revenue in 2022.
+For both B-21 and GBSD, we have applied digital transformation concept as a key enabler to reduce risk, increase productivity, shorten cycle time, and improve the system's ability to adapt to changing threats.
+In today's rapidly changing threat environment, our Mission Systems portfolio, including in communications and artificial intelligence, is making a critical contribution in the advancement of technology and capability needed to allow legacy platforms to be more capable and survivable, and therefore, more relevant toward addressing the increasingly sophisticated threats.
+To this end, during the third quarter, our next-generation electronic warfare system, which will equip domestic F-16, had its first test flight on a testbed aircraft at the Northern Lightning exercise.
+This system, in conjunction with our SABR radar, demonstrated full interoperability in a simulated contested electromagnetic spectrum environment.
+With the radio frequency spectrum becoming increasingly contested, this critical set of electronic warfare capabilities will allow the platform to remain survivable.
+We anticipate an EMD contract for next-generation electronic warfare in 2022 with an overall lifetime opportunity of up to $3 billion.
+And in Missile Defense, emerging threats from hypersonic missiles are creating new challenges for customers.
+We are helping to provide differentiated solutions to these challenges by applying our advanced technology and domain expertise.
+Earlier this year, we were awarded a contract to deliver a prototype satellite as part of MDA's hypersonic and ballistic tracking-based sensor, HBTSS, program.
+This program is designed to detect and track hypersonic vehicles which have a very different flight profile and signature than ballistic missiles.
+They required new sensing capabilities in order to detect and track them.
+In September, we conducted a successful HBTSS critical design review and are progressing toward a 2023 launch.
+In the space domain, Northrop Grumman is working with our customers on advanced capabilities to address a range of new and evolving threats.
+Many of these programs are classified.
+And consistent with increased demand in this area, we received $1.2 billion in restricted space awards in the third quarter.
+I've touched on several major contributions that we've made this quarter to National Security, all of which highlight our strong performance, technology leadership, and broad portfolio.
+I also want to share examples of our collaboration with partners to accelerate innovation and create discriminating technologies.
+As I've noted before, we are actively engaging in partnering with early stage technology and nontraditional defense companies.
+In the quarter, we closed an investment in Orbit Fab, a space logistics company whose goal is to put gas stations in space.
+Their vision fits well with our on-orbit satellite refueling and space logistics capabilities.
+We also continue to work with Deepwave Digital, an innovative company we invested in at the end of last year.
+Deepwave Digital provides a hardware and software solution, enabling very efficient AI-enhanced, software-defined radios for deep learning applications at the edge, which we believe will enhance our efforts in both autonomy and JADC2.
+These partnerships, as well as other venture investments, support our strategy to create solutions at speed for our customers' toughest national security challenges.
+I'll begin my comments with third-quarter highlights on Slide 3.
+We continued to generate strong operating results, delivering another quarter of solid organic sales growth, higher segment operating margin rate, and outstanding earnings per share and transaction-adjusted free cash flow.
+We continued to return cash to shareholders through our buyback program and quarterly dividend, returning over $800 million in the quarter.
+Slide 4 provides a bridge between third-quarter 2020 and third-quarter 2021 sales, excluding sales from the IT services divestiture, our organic growth was 3%.
+This rate was below our first-half growth due in part to the broader labor market and supply chain trends that Kathy outlined.
+Next, I'll review our earnings per share results on Slide 5.
+Compared to the third quarter of 2020, our earnings per share increased 13% to $6.63.
+Strong segment operational performance contributed about $0.14 of growth and lower corporate unallocated added another $0.55.
+This included a $60 million benefit from insurance settlements related to shareholder litigation involving the former Orbital ATK business prior to our acquisition.
+Corporate unallocated expense also decreased due to a change in deferred state income taxes, as well as lower intangible asset amortization and PP&E step-up depreciation.
+Pension costs contributed $0.17 of growth, driven by higher non-service FAS income.
+Our marketable securities performance represented a headwind of $0.17 compared to the third quarter of 2020, which benefited from particularly strong equity markets.
+Lastly, we experienced a slightly higher federal tax rate in the period due to lower benefits from foreign-derived intangible income.
+Turning to sector results on Slide 6.
+We saw some broad-based COVID-related impact.
+the most significant of which were in our Aeronautics sector.
+Aeronautics sales declined 6% for the quarter.
+Year to date, its sales are down 1%.
+As we've described in recent quarters, several programs in our AS portfolio are plateauing or entering a phase of their life cycle where you would not expect to see growth.
+This quarter, we experienced slightly lower volume across the portfolio, including restricted efforts, F-35, B-2 DMS, and Global Hawk programs.
+We expect this overall trend to continue at AS in 2022, which we'll discuss in more detail momentarily.
+At Defense Systems, sales decreased by 24% in the quarter and 22% year to date.
+On an organic basis, sales were down roughly 2% in the quarter and year-to-date periods driven by the completion of our activities on the Lake City small-caliber ammunition contract last year.
+Lake City represented a sales headwind of roughly $75 million in the quarter and $335 million year to date.
+This was partially offset by higher volume on several mission-readiness programs.
+Mission Systems sales were down 5% in the quarter and up 4% year to date.
+Organically, MS sales increased 1% in Q3, and year to date, they are up a robust 9%.
+As we've noted previously, the timing of material volume at MS has been weighted more toward the first half of 2021 than the second.
+Organic sales growth in the third quarter and year-to-date periods was broad-based across programs such as G/ATOR, JCREW, and various restricted efforts.
+And finally, Space Systems continued to deliver outstanding sales growth, increasing 22% in the third quarter and 28% year to date.
+Sales in both business areas were higher in the quarter and year-to-date periods reflecting continued ramp-up on GBSD and NGI, as well as higher volume on restricted programs and Artemis.
+Turning to segment operating income and margin rate on Slide 7.
+We delivered another quarter of excellent performance with segment operating margin rate at 11.9%.
+Aeronautics third-quarter operating income decreased to 10% due to lower sales volume and a $42 million unfavorable EAC adjustment on the F-35 program.
+The adjustment was driven by labor-related production inefficiencies, reflecting COVID-related impacts on the program.
+The AS operating margin rate decreased to 9.7% in Q3 as a result of this adjustment with year-to-date operating margin slightly ahead of last year at 10.1%.
+The Defense Systems operating income decreased by 19% in the quarter and 16% year to date largely due to the impact of the IT services divestiture.
+Operating margin rate increased to 12.4% in the quarter and 12% year to date, largely driven by improved performance and contract mix in Battle Management and Missile Systems, partially offset by lower net favorable EAC adjustments.
+At Mission Systems, operating income was relatively flat in the quarter and up 10% year to date.
+Third-quarter operating margin rate improved to 15.3% and year to date was 15.5%, reflecting strong program performance and changes in business mix as a result of the IT services divestiture.
+Space Systems operating income rose 29% in the quarter and 36% year to date, driven by higher sales volume.
+Operating margin rate was also higher at 10.7% in the quarter and 10.9% year to date, driven by higher net favorable EAC adjustments.
+Moving to sector guidance on Slide 8.
+Note that this outlook assumes a relatively consistent level of impact in Q4 with what we've been experiencing so far this year from the effects of COVID on the workforce and supply chain, and it does not include any potential financial impacts on the company related to the vaccine mandate.
+We have updated our 2021 sales estimates for each segment based on our year-to-date results and current expectations for Q4.
+For operating margin rate, we're increasing our guidance at Defense and Space, and the margin rates at AS and MS remain unchanged.
+Before we get to our consolidated guidance, I'd also like to take a moment to discuss some of the factors to consider in comparing our fourth-quarter revenue to last year on Slide 9.
+In Q4 of 2020, the IT services business contributed almost $600 million of sales, and the equipment sale at AS generated over $400 million.
+Q4 of 2021 also has four fewer working days than the same period in 2020, representing a headwind of about 6%.
+Adjusting for these three items, our Q4 2021 sales would grow at 3% to 4% based on our latest full-year guidance.
+Moving to Slide 10.
+Based on what we now see, we expect sales of approximately $36 billion.
+We're raising our 2021 outlook for segment and total operating margin and for EPS.
+Our segment operating margin rate guidance is 10 basis points higher at 11.7% to 11.9%, reflecting our continued strong performance.
+Our net FAS/CAS pension adjustment has increased $60 million for the full year as a result of the annual demographic update we performed in Q3.
+Other corporate unallocated costs are $70 million below our previous guidance, now at approximately $120 million for the year.
+As I mentioned, our corporate unallocated costs benefited from a $60 million insurance settlement in Q3, as well as additional benefits from state taxes.
+These updates translate into an increase of 50 basis points in our operating margin rate to a range of 16% to 16.2% in our updated guidance.
+Remember that the gain from the IT services divestiture in Q1 contributed approximately 5 percentage points of overall operating margin benefit for the full year.
+We continue to project the 2021 effective federal tax rate in the high 17% range, excluding the effects of the divestiture, which is consistent with our prior guidance.
+Lastly, we're raising our earnings per share guidance, which I'll cover on Slide 11.
+Segment performance is contributing about $0.15 of the increase with the benefits to corporate unallocated and pension contributing the remainder.
+In total, this represents an $0.80 improvement in our transaction-adjusted earnings per share guidance.
+With this latest increase, our 2021 earnings per share guidance is up by about $2 since our initial guidance in the beginning of the year.
+Before we move to 2022, I wanted to give you an update on our cash performance.
+Year to date, we've generated over $2.1 billion of transaction-adjusted free cash flow, up 15% compared to 2020, and we ended the quarter with over $4 billion in cash on the balance sheet.
+Keep in mind that we have a roughly $200 million payroll tax payment in Q4 from the Cares Act legislation with the second similar payment in 2022.
+Additionally, we expect to pay the balance of our transaction-related tax from the IT services divestiture in the fourth quarter.
+Our healthy cash position has enabled us to repurchase over $2.7 billion of stock so far this year, on track with our full-year target of $3 billion or more.
+As we look ahead to 2022, on Slide 12, our outlook is based on the same set of assumptions that we described for 2021 guidance regarding the COVID environment and vaccine mandate.
+It also assumes that the continuing resolution does not extend beyond 2021.
+And like our 2021 guidance, it assumes that we do not experience a breach of the debt ceiling.
+We expect Space to be our fastest-growing segment again in 2022, driven by GBSD, NGI, and several restricted efforts as they continue to ramp.
+Mission Systems and Defense Systems should also produce organic growth.
+Regarding Aeronautics Systems, after several years of strong growth, our latest 2021 sales guidance calls for a mid-single-digit decline, and we see that trend continuing in 2022.
+We've talked in recent quarters about the headwinds in our HALE portfolio.
+We're also projecting lower sales on JSTARS, F-18, as well as our restricted portfolio.
+Looking further to the future, it's an exciting decade for defense aerospace.
+Rapidly evolving threats are spurring a new wave of autonomous vehicle and sixth-generation fighter development.
+So, the opportunity set in AS remains solid, and we will continue to invest in the cutting-edge technologies that allow our customers to stay ahead of the threat environment.
+Altogether, we currently expect 2022 sales at the company level to reflect continued organic growth.
+Looking at segment margin, we expect the strong results we've demonstrated in 2021 to continue in 2022 with excellent program performance offsetting a portion of the 20 to 30 basis point benefit we generated from pension-related overhead rate changes in Q1 of 2021.
+While we project higher sales and strong segment operating margin, we expect transaction-adjusted earnings per share to be down next year as a result of several nonoperational headwinds.
+Lower CAS pension recoveries and higher corporate unallocated expenses are currently projected to create an earnings per share headwind next year of more than $2.
+For FAS pension, our outlook for 2022 will depend on our updated actuarial assumptions, including discount rates and plan asset returns, which we will determine at the end of the year.
+Earnings per share driven from sales growth, strong operating margin performance, and lower share count will help to offset these nonoperational items.
+Next, I'd like to spend a moment discussing cash.
+We expect relatively stable cash flow at the program level in 2022, but there are a few temporal items that should be factored into the year-over-year comparison of overall free cash flow.
+First is lower CAS pension recoveries.
+As you can see on Slide 13, our CAS recoveries are currently expected to be lower by $350 million next year.
+The second is cash taxes.
+Excluding the impact of the IT services transaction, we expect cash taxes to be modestly higher next year.
+In addition, as we've noted in the past, current tax law would require companies to amortize R&D costs over five years, starting in 2022, which would increase our cash taxes by around $1 billion next year and smaller amounts in subsequent years.
+There continues to be uncertainty in the tax environment with potential new legislation that could change the R&D amortization provision and other provisions.
+We will provide updates on each of these items on our January call.
+Taking all of these cash flow factors into consideration, we would expect to decline in 2022 transaction-adjusted free cash flow, followed by a double-digit growth CAGR through 2024, driven by strong operational performance.
+Regarding capital deployment, investing in the business through disciplined R&D and capital spending continues to be our priority.
+We expect capex to be roughly flat next year in absolute dollar terms.
+We believe these investments allow us to stay at the forefront of technology as we invest in our business.
+And as we've said, we continue to expect to return the majority of our 2022 free cash flow to shareholders through dividends and share repurchases.
+Kathy Warden -- Chairman.
+In summary, we have delivered excellent year-to-date results and operating performance, and we are pleased to be increasing our full-year earnings per share guidance for the third consecutive quarter.
+We are actively engaged with our supply chain and our employees as we work to mitigate broader COVID-related risks and continue to keep our programs on track.
+As shown by the many milestones in the quarter, we have highly relevant capabilities and programs that align well to National Security requirements and our customer funding priorities.
+So, as we look forward, 2022 is expected to deliver another year of organic sales growth and excellent performance, paving the way for longer-term margin expansion and free cash flow growth.
+We remain focused on protecting the safety and well-being of our employees, delivering the capabilities our customers need to protect National Security and sustain our planet, and delivering value to our shareholders.

@@ -1,0 +1,149 @@
+2021 was an important year for Raytheon Technologies as we laid out our strategy at the beginning of last year.
+And that strategy, of course, is to drive top-line growth, margin expansion, and robust free cash flows through 2025 and beyond while at the same time continuing to invest in our businesses and returning significant capital to shareowners.
+Our continued focus on operational excellence and program execution, along with our industry leading technologies, positions us well to continue to capitalize on the commercial aerospace recovery and to grow our defense franchises.
+That's more than double of what we delivered in 2020 on a pro forma basis.
+Our performance in 2021 gives us confidence in the long-term fundamentals of our businesses and that we're able to -- and that we're on track to deliver to the 2025 targets that we outlined last May at our investor conference.
+Before I turn to the highlights, let me first provide some comments on the current market environment.
+During the quarter, commercial air traffic remained resilient despite the omicron variant, with global available seat miles, ASMs, growing about 1% sequentially in Q4.
+That's reflecting a continued recovery in air traffic despite the typical seasonal trends.
+Here in the U.S., passenger traffic through TSA checkpoints also remained steady at about 1.9 million passengers per day.
+That's up almost 125% versus the fourth quarter of 2020, a remarkable recovery.
+On the defense side, we're pleased to see the President sign the bipartisan defense authorization bill into law at $740 billion.
+That's about $25 billion higher than the original Presidential request.
+And given the global threat environment, we continue to see strong demand internationally for our products and services.
+Are focus to aerospace and defense portfolio, along with our $156 billion backlog, gives us confidence in our ability to grow the business in 2022 and beyond.
+Turning to Slide 2, some highlights from the fourth quarter.
+As I said, we delivered strong financial performance in '21, organic sales grew 1%, which is in line with our expectations, while adjusted earnings per share and free cash flow for the year were both above our initial expectations and importantly, we saw margin expansion in all four of our businesses with strong commercial aftermarket.
+Our defense backlog remained robust at over $63 billion, where IRS and RMD both ended the year with book-to-bills slightly above 1.0.
+In addition to several large awards earlier in the year, we also had several notable awards during the fourth quarter, including over $1.3 billion in classified bookings, plus over $670 million for the Electro-Optical Infrared awards at IRS, as well as $730 million in standard Missile 2 production awards in RMD.
+We also remain focused on operational excellence and program execution to drive structural cost reduction and productivity in our operations.
+In 2021, we achieved about $760 million in incremental cost synergies from the RTX merger, bringing us to over $1 billion since the completion of the merger in April of 2020.
+That meets our original merger cost synergy target two years ahead of schedule.
+And there's always, of course, more to come and more to do there.
+It's also worth noting that the Rockwell or the Collins Aerospace team achieved over $600 million in total Rockwell-Collins synergies since the acquisition in November of 2018.
+They're meeting their commitment a year ahead of schedule despite the significant downturn in our commercial aerospace business.
+We also continue to fine tune our portfolio during the year.
+As you know, we completed the acquisition of SEAKR Engineering and FlightAware, which will expand and enhance our capabilities in key growth areas, and we completed the divestitures of Forcepoint.
+And in December, we completed the sale of IRS' global training and services business.
+On the capital allocation front, we returned $5.3 billion to shareholders in '21 for a total of $7.4 billion since we closed down the merger, well on track to the $20 billion-plus that we've committed to in the first four years after the merger.
+As you saw in December, our board of directors also authorized a $6 billion share repurchase program, positioning us to continue returning significant capital to shareowners, including at least $2.5 billion of repurchases that we expect to complete in 2022.
+In addition to our strong financial performance during the year, we also achieved several notable strategic and operational milestones that I'd like to highlight.
+Let me start with Collins Aerospace.
+The business completed more than 750 lean events in 2021.
+By utilizing our best practices from our core operating system, the team was able to reduce labor content on the F-18 heat exchanger by over 30%.
+That's reducing cost and importantly, creating capacity to support increased demand.
+At Pratt, the team introduced the GTF Advantage engine, which reduces fuel consumption and CO2 emissions by a total of 17% compared to the prior generation engines.
+It extends the GTF's lead as the most efficient powerplant for the A320neo family.
+The engine will also be compatible with 100% sustainable aviation fuels, supporting the aviation industry's goal to significantly reduce emissions in the coming decades.
+At both IRS and RMD, they achieved significant program milestones in the quarter ahead of schedule.
+Through strong program execution in IRS, the Joint Precision Approach and Landing System program completed delivery on the first LRIP units 60 days ahead of schedule.
+This achievement has given the Navy the confidence to certify JPALs on the CVM carrier and two amphibious ship classes.
+RMD team also successfully completed the initial integration of the SPY-6 radar on the USS Jet -- Jack Lucas in the quarter.
+This is the first time power was simultaneously applied to the entire radar system, completing a critical milestone for integration of the ship, its combat system, and the SPY-6 radar.
+I'm on Slide 3.
+I'm pleased with how we finished the year, as well as our performance in the quarter where we continue to see solid growth in organic sales, adjusted earnings per share, and free cash flow.
+Sales of $17 billion were in line with our expectations and were up 4% organically versus prior year on an adjusted basis.
+Our performance was primarily driven by the continued recovery of domestic short-haul international air travel, partially offset by continued supply chain pressures and lower 787 OE volume.
+It's worth noting that the global training and services divestiture at IRS closed in early December, resulting in a sales headwind of about $100 million versus our prior outlook.
+Adjusted earnings per share of $1.08 was ahead of our expectations, primarily driven by commercial aftermarket strength at both Collins and Pratt, as well as favorability in our effective tax rate.
+On a GAAP basis, earnings per share from continuing operations was $0.46 per share and included $0.62 of acquisition accounting adjustments, and net significant and/or non-recurring items.
+And finally, free cash flow of $2.2 billion was in line with our expectations and resulted in full year free cash flow of $5 billion, which was $500 million better than our expectations at the beginning of the year, primarily driven by higher net income and lower capex.
+With that, let me hand it over to Jennifer to take you through the segment results, and I'll come back and share our thoughts on 2022.
+Starting with Collins Aerospace on Slide 4, sales were $4.9 billion in the quarter, up 13% on both an adjusted and organic basis, driven primarily by the continued recovery in commercial aerospace and markets.
+By channel, commercial aftermarket sales were up 47%, driven by a 59% increase in parts and repair, a 52% in provisioning, and a 17% increase in modification and upgrades.
+Sequentially, commercial aftermarket sales were up 10%, driven by strength in parts and repair.
+Commercial OE sales were up 4% with strength in narrowbody, offsetting headwinds from lower 787 deliveries.
+And military sales were down 3% on another tough compare.
+Recall, Collins military sales were up 7% organically in the same period last year.
+The decline in the quarter was driven primarily by lower F-35 volume.
+Adjusted operating profit of $469 million was up $380 million from the prior year.
+Drop-through on higher commercial aftermarket sales more than offset higher E&D and SG&A expense.
+Shifting to Pratt & Whitney on Slide 5, sales of $5.1 billion were up 14% on an adjusted basis and up 15% on an organic basis, driven primarily by the continued recovery of the commercial aerospace industry.
+Commercial OE sales were up 32% by higher GTF deliveries within Pratt's large commercial engine business, as well as general aviation and biz jet platforms at Pratt Canada.
+Commercial aftermarket sales were up 28% in the quarter with legacy large commercial engine shop visits up 30% and Pratt Canada shop visits up 37%.
+Sequentially, commercial aftermarket sales were up 17%.
+In the military business, sales were down 6% as expected on another difficult compare.
+Recall Pratt's military sales were up 18% in the same period last year.
+The decrease in the quarter was driven by lower spare sales on legacy programs.
+Adjusted operating profit of $162 million was up $57 million from the prior year.
+Drop-through on higher commercial aftermarket sales volume more than offset lower military volume, higher SG&A, E&D, and the impact of higher commercial OE volume.
+Turning now to Slide 6, IRS sales of $3.9 billion were down 2% versus prior year on an adjusted basis and down 1% on an organic basis, reflecting four fewer work days in the fourth quarter of 2021 versus the prior year.
+Adjusted operating profit in the quarter of $400 million was up $39 million versus prior year, primarily driven by higher net program efficiencies.
+IRS had $3.4 billion of bookings in the quarter, resulting in a book-to-build of 0.97 and a backlog of $18 billion.
+In addition to the significant bookings that Greg discussed, IRS also booked $227 million for the next-generation Jammer Mid-Band program in the quarter.
+IRS' book-to-bill for the year was 1.01.
+Turning now to Slide 7, R&D sales were $3.9 billion, down 10% on an adjusted basis and down 8% on an organic basis, primarily driven by four fewer workdays in the quarter, as well as lower material receipts and expected declines in several international production contracts.
+Adjusted operating profit of $486 million was $93 million lower than the prior year, driven by lower net program efficiencies and lower sales volume.
+RMD's bookings in the quarter were approximately $3.2 billion, resulting in a book-to-build of 0.83 and backlog of $29 billion.
+In addition to the SM2 bookings Greg mentioned, RMD also booked $269 million for Evolved SeaSparrow Missile Block 2.
+RMD's book-to-build for the year was 1.02.
+Before moving on, I would also like to comment on the previously disclosed DOJ investigation into Costa County matters at legacy Raytheon's Companies former Integrated Defense System business, or IDS, which is now part of RMD.
+As you will see in our upcoming 10-K filing, we have made progress in our internal investigation into the matter.
+And we now have determined that there is a probable risk of liabilities for damages, interest and penalties.
+In addition to the amount recorded in the first quarter of 2021, in connection with the finalization of purchase accounting, we recorded an incremental accrual in the amount of $147 million during the fourth quarter relating to the matter, bringing our total reserve to approximately $290 million.
+We still do not currently believe the resolution of this matter will result in a material adverse impact to our financial condition, and we will continue to cooperate with the government's investigation.
+I'm on Slide 8.
+So before I get into the specifics of our '22 financial outlook, let me give you some perspective on how we are thinking about the environment as we look ahead.
+Let me start with the positives.
+Despite the impact of COVID variants, we expect the commercial aerospace recovery will continue into 2022 with continued growth in commercial, aftermarket and narrowbody deliveries driven by further strength in domestic traffic and growth in international traffic.
+By the end of the year, we are assuming global RPMs recover to about 90% of 2019 levels, with domestic travel recovering to be approximately in line with the 2019 levels and an international travel recovery to between 75% and 80% of 2019 levels.
+The reopening of international borders, specifically in the Asia-Pacific region and the related widebody traffic will be a significant factor in the timing and extent of the related aftermarket recovery.
+Ultimately, the timing and trajectory of the overall recovery this year isn't likely to be linear, and it will depend on our customer's fleet decisions and buying behavior.
+Looking longer term, we continue to expect commercial traffic to return to 2019 levels by the end of next year.
+On the defense side, we expect continued organic growth in 2022 as we deliver on our $63 billion backlog, continued bipartisan support for the fiscal '22 defense budget, and international demand for our products and technologies.
+And across RTX, we remain laser-focused on driving operational excellence to deliver cost reduction and further margin expansion, including $335 million of incremental RTX merger cost synergies during 2022.
+And this keeps us on track to achieve $1.5 billion in gross cost synergies by Q1 of 2024.
+On the challenges side, we anticipate that global supply chain and inflation pressures will continue and that 787 build rates will remain low.
+With respect to the supply chain, we anticipate that COVID-related labor disruptions will persist through the first half of the year but will ease through the second half of the year.
+And as we've discussed, a significant portion of our material spend is under long-term agreements.
+That said, we're assuming a level of inflationary pressure across our businesses in our outlook that will be partially offset by productivity improvements.
+And of course, we're continuing to monitor the U.S. and global tax environment and the current and potentially protracted continuing resolution.
+So with that backdrop, let me tell you how this translates to our financial outlook for the year.
+At the RTX level, we expect full year 2022 sales of between $68.5 billion and $69.5 billion.
+This represents organic growth of between 7% and 9% year over year.
+Keep in mind, the sale of IRS' global trading and services businesses creates about $1 billion of sales headwind year over year, as well as the associated profit.
+From an earnings perspective, we expect adjusted earnings per share of $4.60 to $4.80, up 8% to 12% year over year, and we expect to generate free cash flow of about $6 billion.
+That's up about 20% versus 2021.
+It's important to note that this free cash flow outlook assumes that the legislation requiring R&D capitalization for tax purposes is deferred beyond 2022, which as we said before,the free cash flow impact of this legislation is approximately $2 billion.
+It's also worth noting that if the legislation is not deferred, we will see about a $0.10 earnings per share benefit as well from the impacts of the R&D capitalization that would have components -- would have on components of our U.S. taxable income.
+And as Greg mentioned, we expect to buyback at least $2.5 billion of RTX shares over the year , subject to market conditions.
+With that, let's move to Slide 10 for the segment outlook.
+At Collins, we expect full year sales to be up low double digits and adjusted operating profit to grow between $650 million and $800 million versus last year.
+This is primarily driven by higher narrowbody OE deliveries and growth across all three commercial aftermarket channels, supporting both narrow and wide-body aircraft.
+And military sales at Collins are expected to be a low single digit for the year.
+Turning to Pratt & Whitney, we see full year sales growing low double digits versus prior year, principally driven by higher OE deliveries in both Pratt's large commercial engine and Pratt Canada businesses, as well as continued growth in legacy large commercial engine and Pratt Canada shop visits.
+Military sales at Pratt are expected to be down mid-single digit, driven by lower F135 production inputs, partially offset by higher F135 sustainment volume.
+With respect to operating profit, we see Pratt's adjusted operating profit growing between $500 million and $600 million versus last year, primarily on higher aftermarket volume and partially offset by higher large commercial OE engine deliveries and lower military volumes.
+Turning to IRS, we expect full year sales to be down slightly versus prior year on a reported basis and to grow low single digit on an organic basis with strength coming from classified programs and production ramps and airborne ISR and AWS.
+And we expect year-over-year adjusted operating profit at IRS to be flat to up $50 million, driven by higher net program efficiencies and volume.
+At RMD, we see sales growing low, single to mid-single digit, driven by growth across multiple programs and for adjusted operating profit to be up in the range of $150 million to $200 million versus prior year, driven by improved program performance and the volume.
+It's worth mentioning that we expect both IRS and RMD to again have a book-to-bill greater than 1.0 for the year.
+And finally, we expect intercompany sales volumes to grow in line with total company sales.
+So turning now to Slide 11 for our '22 adjusted earnings per share walk, starting with the segments, we expect the segments to generate about $0.83 of earnings per share growth at the midpoint of our outlook range.
+From there, pension will be a headwind, primarily due to lower cash recovery and higher discount rates.
+Our tax rate in '22 is expected to be between 18.5% and 19.5% versus the 15.5% in 2021, primarily due to onetime tax benefits associated with the prior year optimization of our legal entity and operating structure that we realized in the third quarter that will not repeat.
+This will result in a $0.19 headwind.
+We expect corporate expenses to be a $0.06 headwind year over year due to higher investment-related RTX synergy projects and digital transformation initiatives that are partially offset by lower LTAM spend.
+And finally, lower share count, interest, and other items are expected to be a $0.07 tailwind.
+All of this brings us to our outlook range of $4.60 to $4.80 per share.
+Now turning to free cash flow on Slide 12.
+We expect strong operational growth, along with lower restructuring to contribute about $1.5 billion of free cash flow growth in 2022.
+These will be partially offset by expected pension headwinds and higher cash taxes to get to our free cash flow outlook of about $6 billion.
+Again, this outlook assumes the legislation requiring R&D capitalization for tax purposes is deferred.
+And lastly, before turning it back to Greg, a couple of comments on the first quarter.
+With respect to sales, we expect sales to be up mid-single digit organically versus prior year, driven by the continued commercial aerospace recovery and partially offset by lower defense sales, driven by continuing supply chain pressures and the impact of omicron.
+And again, just to remind you, the prior year included Q1 sales of about $200 million, as well as the associated profit for the divested IRS services business.
+On the adjusted earnings per share side, we see low double digit to mid-teens growth in the quarter versus prior year.
+And for cash, we expect to see an outflow of about $500 million in the quarter due to typical seasonal factors and the timing of collections.
+So with that, let me hand it back to Greg to wrap things up.
+We're on Slide 13.
+So a lot of moving pieces, as always.
+But I would tell you, we actually exited 2021 with really good momentum across the businesses, and we expect to make further progress on our priorities here as we enter into 2022.
+First and foremost, let me repeat that we're focused on keeping our employees safe, keeping our commercial customers flying, and protecting the war fighter while they defend our country and allies.
+And of course, supporting our suppliers.
+We're also going to continue to invest in differentiated technology and innovation to maintain our industry leading positions, which will drive growth over the long term.
+And of course, to capitalize on our growing end markets.
+At the same time, our leadership team is making significant progress to reduce structural costs, drive operational efficiency through our core operating system and to deliver on our synergy commitments.
+Finally, we remain disciplined with capital allocation.
+We've got very strong balance sheet, along with our cash generating capability, supports investments in our businesses and our commitment to returning capital to shareowners, including at least $20 billion in the first four years following the merger, as I said earlier.
+I'm confident in our ability to deliver both top- and bottom-line growth and margin expansion across our businesses this year as we continue to leverage the growth opportunities that are in front of us.

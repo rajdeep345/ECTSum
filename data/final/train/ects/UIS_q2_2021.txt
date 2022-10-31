@@ -1,0 +1,131 @@
+This is Courtney Holben, Vice President of Investor Relations.
+Before we begin, I'd like to cover a few details.
+Although appropriate under generally accepted accounting principles, the company's results reflect charges that the company believes are not indicative of its ongoing operations and that can make its profitability and liquidity results difficult to compare to prior periods, anticipated future periods or to its competitors' results.
+These items consist of post retirement, debt exchange and extinguishment and cost reduction and other expense.
+Management believes each of these items can distort the visibility of trends associated with the company's ongoing performance.
+The following measures are often provided and utilized by the company's management, analysts and investors to enhance comparability of year-over-year results as well as to compare results to other companies in our industry.
+Non-GAAP operating profit, non-GAAP diluted earnings per share, free cash flow and adjusted free cash flow, EBITDA and adjusted EBITDA and constant currency.
+From time to time, Unisys may provide specific guidance or color regarding its expected future financial performance.
+Such information is effective only on the date given.
+Unisys generally will not update, reaffirm or otherwise comment on any such information, except as Unisys deems necessary, and then only in a manner that complies with Regulation FD.
+Copies of those SEC reports are available from the SEC and along with the other materials I mentioned earlier on the Unisys investor website.
+We achieved double-digit year-over-year revenue growth and significant year-over-year improvements to profitability and cash flow.
+Progress in the quarter against our key strategic goals included advancing our DWS transformation, broadening our cloud capabilities and expanding our enterprise computing solutions.
+I would note that enterprise computing solutions or ECS, is a new name for the segment previously referred to as ClearPath Forward.
+This is a change to the segment name only, not to the ClearPath Forward product line.
+Mike will provide detail on our financial performance and accomplishments, but first, I will give some insight into the business.
+Starting with Digital Workplace Solutions, or DWS, our goal has been to transform this business to focus on higher growth and higher-margin solutions through broadening our offering portfolio and increasing our focus on experienced solutions through a build/partner/buy approach.
+Our recognized leadership position in the DWS market, supported by our IntelliServ platform, world-class delivery capabilities and NPS scores consistently and significantly above IT services averages, positions us to achieve these goals.
+The second quarter continued our work, laying the foundation for a sustainable growth through execution against this strategy, with a focus on maturing and enhancing our solution portfolio.
+Speaking of organic developments, we are building out additional solutions to support cloud-native Virtual Desktop interface within workplace as a service and are hiring new consultative resources to expand our transformation services capabilities, all within DWS.
+We also continue enhancing this -- the automation and artificial intelligence capabilities in our solutions, including completing the migration of all service desk clients to our cloud contact center platform as of April, allowing for increased usage of conversational AI solutions in voice and chat and expanded deployment of all of our IntelliServ automation capabilities for these clients.
+Automation as a percentage of service desk ticket volume increased 500 basis points sequentially and 300 basis points year-over-year in the second quarter.
+With respect to partner developments, we enhanced our modern device management capabilities including by entering into several new partnerships during the quarter.
+We are already leveraging these new partnerships to create more powerful end-to-end solutions for our clients.
+We also acquired Unify Square, a unified communications as a service, or UCaaS company, with a focus on seamlessly managing, securing and optimizing enterprise communications and collaboration, including through partnerships with companies such as Microsoft and Zoom.
+Unify Square broadens our UCaaS portfolio, which is projected to be one of the fastest-growing portions of the DWS market.
+The acquisition also enhances our experience solutions and expertise, which improve the productivity of clients' digital workplaces and deliver higher value than our traditional DWS offerings.
+Finally, we also see significant cross-selling opportunities as a result of this transaction, especially since the two companies have only one shared significant client.
+For DWS, during the quarter, one of the largest healthcare providers in the U.S. awarded us a contract under which we will proactively measure and improve user experience, increased productivity of field services and service desk personnel, decreased service tickets and enhanced device and software management with real-time data.
+A key differentiation in our proposal was our holistic approach to device management and proactive experience capabilities.
+We also signed a contract with a consortium of U.S.-based energy companies to provide a full range of IT solutions, including digital workplace, application support and cloud infrastructure with security oversight and protection.
+Moving to the C&I segment.
+Our emphasis is to grow cloud in our targeted markets.
+We believe our established credentials, CloudForte IP-led platform and embedded security solutions position us to achieve this goal.
+During the second quarter, strong revenue growth continued in C&I, with cloud revenue specifically growing 28% year-over-year.
+In July, we completed a new release of capabilities within the CloudForte platform with improved automation and standard repeatable approaches to increase speed and reliability of hybrid-cloud deployments.
+Security is embedded with cloud-capable Stealth and AI-enabled threat protection and detection and faster remediation.
+The new capabilities also allow for quicker application releases and advanced Kubernetes and container deployments.
+By focusing on a secure transition to the cloud, we differentiate ourselves with clients, including a number in the U.S. public sector as well as with third-party advisors and industry analysts.
+In addition to existing partnerships with Microsoft Azure and AWS, we recently announced joining the Google Cloud Partner-Advantage Program as a Google Cloud and Google Workspace reseller partner.
+With respect to client wins, during the quarter, we expanded modernization and security work at the Georgia Technology Authority and with the Virginia Information Technologies Agency, both highlighting our opportunities for add-on work and our continued success with U.S. state government clients.
+We also signed a contract with the State of Wisconsin that spans both our C&I and DWS segments to provide a cloud-based contact center solution that will improve the experience of how citizens interact with government.
+As I noted, this refers to the segment previously referred to as ClearPath Forward.
+Our near-term goal for this business has been to grow revenue through expanding and enhancing ECS services, while maintaining the stability of license revenue.
+We believe there is meaningful opportunity to expand ECS services, given our relatively low penetration, combined with our clients' increasing desire to migrate to cloud and hybrid environments and for a seamless application set that works across these architectures.
+Clients also need help managing application workflow creation and orchestration in these environments.
+We are uniquely positioned to help with all of this given our embedded IP.
+We recently released a new version of ClearPath Forward with enhanced capabilities and functionality.
+The new release allows clients to enhance existing ClearPath Forward applications using Python and enhances interoperability with other environments.
+It is also uses enhanced security features, including expanded-multifactor authentication and mobile device facial recognition and fingerprint identification.
+Our partnership with Microsoft Azure offers another avenue for growth within ECS as clients migrate to ClearPath Forward cloud and hybrid environments.
+We recently went live with ClearPath Forward for Azure with a public sector client, and we are in discussions with a number of additional clients.
+We're seeing early stage traction with ECS services expansion, with revenue from these services up 2% year-over-year.
+License revenue in the quarter was also strong, helped by higher volumes than anticipated, which Mike will discuss later.
+We signed a contract with one of the largest financial services institutions in Brazil during the quarter, for consulting and application services for their ClearPath Forward and related application environment, including development and modernization relating to the integration of more than 90 systems to support the institution's mortgage processing operations.
+Moving to our go-to-market metrics.
+Our efforts across segments resulted in total company TCV being up 50% year-over-year in the second quarter and 24% sequentially.
+Total company Pipeline was up 2% sequentially, though down 3% year-over-year.
+However, as of the end of July, Pipeline was up 8% versus the end of the first quarter this year and 2% versus the end of the second quarter last year.
+We continue to be recognized for our market leadership in important areas of the business, including being named a leader for Managed Security Services in Australia, Brazil and the U.S. and a leader in Technical Security Services in the U.S., all in ISG's Provider Lens for Cyber Security Solutions and Services.
+In late July, we launched a new corporate website, which we encourage you to visit.
+It is faster and more user-friendly, giving visitors a richer experience and an easier way to learn about our solutions.
+We expect the new website to help visitors gain a deeper understanding of the outcomes, our capabilities deliver and to lead to additional opportunities for us.
+And finally, with respect to workforce management, our workforce management initiatives such as upskilling, rotations, work from anywhere flexibility and enhanced recruiting efforts have been benefiting us.
+Although total company last 12 months voluntary attrition was 12.9% in the second quarter, versus 10.4% in the first quarter, the second quarter level was 210 basis points lower than the prior-year period, and 480 basis points lower than the pre-pandemic level in the second quarter of 2019.
+Our attrition levels have not impacted the ability to meet client demand, in part due to the workforce management initiatives I highlighted.
+Our open positions filled internally increased 13% since year-end 2020.
+Applicants for open position increased 30% sequentially.
+Our time-to-fill positions decreased 25% since year-end 2020, and referral based hiring has increased significantly relative to last year.
+So in conclusion, we are energized by the progress we are making toward the goals we laid out at the beginning of this year.
+Those efforts not only include with respect to clients but also include with respect to bringing on friends and others that they know into this company, which shows quite a lot about our existing associates' views of this company.
+In my discussion today, I'll refer to both GAAP and non-GAAP results.
+As a reminder, reconciliations of these metrics are available in our earnings materials.
+As Peter highlighted, we made continued progress in the second quarter against many of the key strategic goals that we outlined in our Investor Day earlier in the year, while also achieving strong financial results including double digit year-over-year revenue growth and significant year-over-year improvements to profitability and cash flow.
+Peter covered much of the progress on our strategic goals, so I'll focus more on the financial accomplishments, including the fact that we were free cash flow positive for the quarter.
+Overall, our second quarter results were in line with or slightly ahead of our internal expectations, and we met or exceeded consensus estimates on all key metrics.
+Revenue grew 18% year-over-year and 1% sequentially, supported by revenue growth in each of our segments.
+DWS revenue grew 10% year-over-year, driven in part by growth in revenue from our new proactive experienced solutions and the early results of the new partnerships that Peter mentioned.
+Additionally, this was the segment and the quarter most impacted by COVID last year, so the post COVID recovery also contributed to year-over-year revenue improvement.
+DWS revenue was also up 4% sequentially.
+Our emphasis within C&I on cloud work for our targeted sectors is also yielding positive results, demonstrated by revenue growth for the segment of 10% year-over-year and 1% sequentially.
+Within C&I, cloud revenue was a key driver of growth, up 28% year-over-year in the quarter.
+As Peter noted, the segment formerly referred to as ClearPath Forward has been renamed enterprise computing solutions or ECS.
+I would note that ClearPath Forward product name is unchanged but will refer to the license revenue from these and other solutions as ECS license revenue.
+ECS segment revenue grew significantly year-over-year, up 40% and showed a 1% sequential increase.
+The growth was driven in part by higher license revenue than anticipated based on higher volumes than projected in the quarter, Additionally, ECS services revenue grew 2% year-over-year.
+The second quarter represents the strongest year-over-year revenue growth that we anticipate for 2021.
+As we've previously noted, we expect ECS license revenue to be split 55% and 45% between the first and second half of the year, with the third quarter assumed to be the lightest of the year.
+As a reminder, the prior year first half/second half split was 40% and 60%, with 40% of the full year segment revenue coming in the fourth quarter.
+This year's renewal schedule is much more evenly distributed with significantly less reliance on fourth quarter signings.
+Total company backlog was $3.3 billion as of the end of the second quarter relative to $3.4 billion as of the end of the prior quarter.
+Of the $3.3 billion, we anticipate $375 million will convert into revenue in the third quarter.
+The sequential decline in backlog was attributable to a delay in a signing of a large DWS contract that we expected in the second quarter and ultimately was signed in July.
+Our plan calls for go-to-market strategic initiatives that Peter highlighted to begin expanding the pipeline and improving our backlog over the coming quarters.
+As we indicated in January, we expect our year-end backlog to show positive growth year-over-year.
+The seasonality trends I referenced regarding revenue have been anticipated, and overall, we're on plan for revenue for the full year 2021.
+As a result, we're reaffirming our full year guidance range of 0% to 2% year-over-year revenue growth.
+The operating efficiency enhancements that we've undertaking as well as our shift to higher-value solutions drove significant year-over-year improvement to non-GAAP operating profit margin in the second quarter.
+This metric was up 950 basis points year-over-year to 9.7%, supported by year-over-year improvements to gross margin in each of the segments.
+DWS gross margin increased 840 basis points year-over-year to 15.2%.
+This was helped by higher margins earned on some of the newer proactive experience solutions and increased automation.
+Our operational efficiency improvements, such as reducing our real estate footprint and refining our workforce management strategy as well as post-COVID revenue recovery also contributed to margin increases.
+DWS gross margin was also up 210 basis points sequentially.
+C&I gross margin improved 730 basis points year-over-year to 12.5% and was up 280 basis points sequentially, helped by higher cloud revenue and the same real estate and workforce management cost efficiencies that I note for DWS.
+ECS gross margin increased 1,430 basis points year-over-year to 61.3%, helped by flow-through of strong ECS license revenue driven by the renewals and volume increases that I noted earlier against the relatively fixed cost base.
+ECS gross margin was roughly flat sequentially with both periods over 61%.
+As I've noted, our margins were aided by the cost efficiencies and automation that we've been implementing.
+I've highlighted in previous discussions that pre-reinvestment, we were targeting $130 million to $160 million of run rate savings exiting 2021.
+And as of the end of the second quarter, I'm happy to report that we've completed all the actions necessary to achieve this target, and our expected run rate savings exiting 2021 is at the high end of that range.
+Approximately $35 million of the annualized actual savings was included in the second quarter results, and we believe the full amount of savings will be realized by the end of next year.
+As Peter noted, our workforce management initiatives have been very effective and helped drive the total cost of labor as a percent of revenue to continue to decline.
+The metric was down 80 basis points sequentially in the quarter, even factoring in retention-focused salary increases that we implemented during the period.
+During the second quarter, we also successfully achieved our goal of removing $1.2 billion in gross pension liabilities from the balance sheet.
+In conjunction with the final actions to achieve this, we recognized a non-cash settlement charges of approximately $211 million or $2.37 per diluted share, which was the only reason that our net loss from continuing operations was $140.8 million or $2.10 per diluted share.
+The improvements to non-GAAP operating profit also flowed through to adjusted EBITDA, which increased 125% year-over-year to $94.4 million.
+Adjusted EBITDA margin increased 860 basis points year-over-year to 18.2%, and non-GAAP diluted earnings per share increased significantly to $0.68 from a loss of $0.15 in the prior year period.
+capex for the second quarter was $23 million, down 35% year-over-year, reflecting the continuation of our capital-light strategy and our focus on integrating best-of-breed solutions to enhance our client offerings and help optimize software development costs.
+The margin expansion and capex reductions also contributed to significant year-over-year improvements in cash flow, resulting in us being free cash flow and adjusted free cash flow positive for the quarter.
+Cash from operations improved $56 million year-over-year and was positive at $42 million.
+Free cash flow improved $69 million year-over-year to a positive $19 million, and adjusted free cash flow improved $92 million to a positive $55 million.
+These metrics were all up significantly on a sequential basis relative to negative cash flow for each metric during the first quarter.
+As we look to the rest of the year, we're projecting our third quarter non-GAAP operating profit margin to be roughly in line with the prior year period.
+Fourth quarter non-GAAP operating profit margin is anticipated to be the strongest of the year, though lower year-over-year, in part due to the ECS license renewal timing I mentioned earlier.
+As with revenue, the seasonality trends in profitability were expected and were on plan overall for the year with respect to non-GAAP operating profit margin and adjusted EBITDA margin.
+As a result, and in addition to affirming revenue guidance, we're also reaffirming our guidance ranges for these two metrics at 9% to 10% and 17.25% to 18.25%, respectively.
+We're also forecasting our capex spend for the year to be lower than initially anticipated and now is expected to be approximately $115 million.
+Other full year cash flow expectations are the following: we anticipate cash taxes to be approximately $45 million to $55 million, and we expect restructuring payments to be approximately $65 million to $70 million.
+Additionally, as we noted in January, working capital is currently at a run rate use of approximately $20 million to $30 million, which we still believe will improve over time.
+As a result of all of this, we are projecting to be free cash flow positive for the full year 2021.
+To wrap up, I'd like to echo Peter's enthusiasm about the progress we're making in just two quarters into our refresh strategy, which we've been able to implement as a result of our improved balance sheet.
+We're appreciative of the hard work that our associates have been putting in to help drive this transformation, and we look forward to continual successful execution over the remainder of the year.

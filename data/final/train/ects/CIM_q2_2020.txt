@@ -1,0 +1,85 @@
+Before we begin, I'd like to review the safe harbor statement.
+During the call today, we may also discuss non-GAAP financial measures.
+Additionally, the content of this conference call may contain time-sensitive information that is accurate only as of the date of this earnings call.
+We do not undertake and specifically disclaim any obligation to update or revise this information.
+I will now turn the conference over to our president and chief executive officer, Matthew Lambiase.
+I'll make some brief comments, then Mohit will discuss the changes in the portfolio and Rob will then review our financial results.
+I believe the first six months of 2020 will go down in the financial history books as one of the most volatile periods in modern times.
+The U.S. economy went from excellent to dismal in the span of just a few months and the financial markets, especially fixed income, experienced record volatility and record intervention from the government.
+In our space, many levered investors were caught off guard by the swiftly falling asset price, and they were forced to sell at the low point of the market.
+Fortunately, Chimera was able to navigate through this difficult period by executing transactions which enabled us to retain our high-yielding and unique mortgage credit portfolio.
+It's important to understand that it will be very difficult, if not impossible, to recreate our portfolio in the current low interest rate environment and its retention affords Chimera the ability to pay a meaningful dividend, which we would not have if the assets had been sold.
+In the quarter, we took several actions that helped us augment our liquidity.
+We issued a $374 million three-year convertible bond, we entered into a $400 million three-year revolving loan facility arranged by Ares Capital and we executed three new mortgage securitizations, totaling over $1 billion, which significantly reduced our loan warehouse exposure and helped reopen the mortgage securitization market, which is a primary source for Chimera's long-term financing.
+Additionally, during the period, we negotiated longer-term and non-mark-to -- longer-term and non-mark-to-market repo finance facilities for our mortgage loans and credit-related assets.
+We now have approximately 75% of our credit borrowings on longer-term facilities and over 50% of them have no mark-to-market or limited mark-to-market arrangements.
+While these actions have had the short-term effect of increasing financing costs, we believe the benefits over the long-term are significant.
+We've strengthened our balance sheet, enabling us to further withstand additional market volatility, continue to produce attractive spread income and to make new investments when we see attractive asset opportunities.
+This position is enviable, given the uncertain economic conditions and the low return environment that we're currently operating within.
+The Federal Reserve has stated that they expect to keep the Fed funds rate zero bound for the next two years and that they will continue to buy large quantities of assets to support the financial markets and the U.S. economy.
+We are present -- presently witnessing the effects of these actions.
+The 10-year treasury yield is now roughly 55 basis points and a rate on a new 30-year mortgage dipped below 3% for the first time in history.
+Current market expectations are that we'll be in this low rate environment for several years to come, and that the returns on all financial assets will be also low into the future.
+While the Federal Reserve's asset purchases have not been directly focused on residential mortgage credit, their purchases have started solidifying the markets and senior mortgage bonds have witnessed significant price appreciation.
+We would expect that over time, deeper credit subordinate residential bonds could see similar moves.
+Chimera's portfolio of higher-yielding legacy assets should become ever more valuable as the Fed continues to buy assets and returns in the market become ever more scarce.
+Residential mortgage credit, due to the size of the market and the slow recovery of pricing, offered some of the best opportunities in the fixed income market.
+The economics for loan securitization continues to be attractive as the credit curve remains steep.
+Senior front-end bonds are well bid, creating an opportunity to securitize loans and retain higher-yielding, back-end subordinate investments.
+These subordinated bonds have high relative yield and the potential for meaningful appreciation should markets normalize.
+We have executed three securitizations in the period and retained the subordinate tranches from those deals.
+Looking forward, we believe that there will be ample supply of loans for sale from the GSEs and banks, and this supply will create opportunities for us to make new investments for our portfolio.
+Given the current low yield and low return environment, we think being able to create investments through securitization will allow us to continue to produce attractive results in this challenging market.
+While this has been a very difficult period to navigate through, we believe Chimera is well-positioned for the future.
+We have materially reduced our exposure to mark-to-market risk on our repo financings, which should help us manage through bouts of volatility in the future.
+We have been able to retain our legacy portfolio of assets, which will allow us to continue to produce meaningful dividends for our investors in what may be an extended period of low interest rates.
+The retained portfolio also has the potential for book value appreciation if pricing returns to historical levels.
+And finally, we believe there are attractive opportunities currently available in the residential loan market and we have a team and a history of being able to use securitization to successfully create high-yielding investments for our portfolio.
+As a result of unprecedented monetary and fiscal support provided by the government, the second quarter saw a material improvement in both the equity and fixed income markets.
+Parts of the equity markets are flat to up year-to-date while treasury rates were stable in Q2.
+With rates stable and the Fed rhetoric for a lower rate for the foreseeable future, volatility has subsided.
+The crowding out effect created by the Fed's market intervention has been positive for all highly rated fixed income securities.
+The Federal Reserve was mostly focused on agency securities and did not purchase residential mortgage credit.
+The shortage of legacy credit assets available, after a slow start in April, new issue securitization volumes were brisk in the second quarter.
+Senior tranches of securitized residential product improved steadily with the strongest performance in the latter half of the second quarter.
+During the quarter, we focused on the liability side of our balance sheet and entered into three non-mark-to-market facilities to finance $2 billion of our non-agency portfolio.
+In addition, we have limited mark-to-market on $611 million of non-agency securities.
+As a result of these transactions, approximately 54% of our non-agency borrowings are not subject to full mark-to-market risk.
+As of quarter end, the weighted average term to maturity has increased to 698 days from 223 days in the first quarter.
+To reduce the risk on our warehouse lines, we completed three securitizations, totaling approximately $1.1 billion in seasoned, reperforming mortgage loans.
+Moving loans from warehouse to securitization is an important aspect of our portfolio strategy as it reduces the mark-to-market risk and improves risk metrics for the company.
+After the completion of this quarter's securitization, our residential mortgage loan warehouse stands at $263 million and is financed for one year without mark-to-market risk.
+CIM 2020-R3 issued in May had $438 million underlying loans with a weighted average coupon of 5.28% and a weighted average loan age of 150 months.
+The average loan size in the R3 securitization was $127,000 and the average FICO was 651 with an average LTV of 80%.
+We sold $329 million senior securities with a 4.2% cost of debt.
+Chimera retained a May 2022 calendar call option for the R3 securitization.
+CIM 2020-R4 had $276 million underlying loans, with a weighted average coupon of 4.78% with a weighted average loan age of 168 months.
+The average loan size in the R4 was $127,000.
+The average FICO was 598 with an average LTV of 75%.
+We sold $207 million senior securities with a 3.2% cost of debt.
+Chimera retained a June 2022 calendar call option on the R4 securitization.
+In early July, Chimera completed a second rate of securitization of the year.
+We issued CIM 2020-R5 with $338 million underlying loans with an average coupon of 4.98%.
+The R5 securitization had a weighted average loan age of 149 months and an average loan size of $152,000.
+The loans had a weighted average FICO of 678 with an average LTV of 70%.
+We sold $257 million of investment-grade securities with a 2.05% cost of debt, more than 200 basis points tighter than our early May deal.
+And in late July, we issued $362 million CIM 2020-J1, our first jumbo securitization of the year.
+Overall, we are pleased with the current investment portfolio and its long-term prospects.
+We were able to navigate through this difficult period by executing transactions, which enables us to retain our high-yielding and unique mortgage credit portfolio.
+Strong credit performance, strength of institutional buying, and the tightening of new issue credit spreads were all positive components of Chimera's long-term securitization strategy.
+We have 13 existing CIM securitization totaling $7.5 billion available for call and refinancing over the next 12 months.
+This provides an additional avenue for portfolio performance and complements potential new investment opportunities.
+We are continually monitoring our outstanding securitization for the best timing and the opportunity to execute our call optimization strategy and maximize long-term portfolio performance for our shareholders.
+Our Agency CMBS continue to provide attractive spread income and liquidity for the portfolio while providing superior call protection relative to residential agency pass-throughs in this low rate environment.
+Lastly, the reduction in mark-to-market achieved this quarter leaves us with plenty of dry powder to make new credit investments.
+I'll review Chimera's financial highlights for the second quarter.
+GAAP book value at the end of the second quarter was $10.63 per share.
+Our GAAP net loss for the second quarter was $73 million or $0.37 per share.
+On a core basis, net income for the second quarter was $76 million or $0.32 per share.
+Our economic net interest income for the second quarter was $121 million.
+For the second quarter, our yield on interest-earning assets was 5.7%, our average cost of funds was 3.3%, and our net interest spread was 2.4%.
+Total leverage for the second quarter was 4.3:1 while recourse leverage ended the quarter at 1.8:1.
+Expenses for the second quarter, excluding servicing fees and transaction expenses were $17 million, down from last quarter, primarily related to lower compensation expenses.
+We currently have approximately $850 million in cash and unencumbered assets.
+This is after we've paid both our preferred and common dividends in full.
+We continue to monitor liquidity closely and look for attractive financing options to support our portfolio.

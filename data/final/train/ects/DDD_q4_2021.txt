@@ -1,0 +1,199 @@
+With me on the call are Dr. Jeffrey Graves, our president and executive officer; Jagtar Narula, executive vice president and chief financial officer; and Andrew Johnson, executive vice president and chief legal officer.
+Actual results may differ materially.
+Given the clear and unacceptable humanitarian implications of Russia's recent actions, we've elected to immediately suspend all sales to Russia.
+We're hopeful that the situation will be resolved quickly and peacefully and that the Ukrainian people can move forward as a free country with an elected representative government.
+So with that said, let me begin our call today by wishing all of you a happy and healthy new year.
+As I'm sure you'll agree, 2021 was a year filled with both optimism and challenges.
+Optimism as we saw the rollout of COVID vaccines that were developed, approved, and distributed with astonishing speed, but also significant challenges as new variants emerged, which continue to impact families and businesses alike.
+Looking ahead, I'm optimistic that 2022 will be a year of meaningful progress as these effects ultimately recede and we see consistent sustainable economic performance once again.
+In spite of these significant challenges that we faced in 2021, it was, by all measures, a tremendous year of renewal for 3D Systems.
+What began in May of 2020 as a four-phased plan to refresh, refocus, and transform our company was completed in 2021 with our transition to the final phase, investing for growth.
+This 18-month journey comprised reorganization into two business units, healthcare and industrial solutions, restructuring to gain efficiencies, and divesting of noncore assets.
+We completed all of these efforts while prioritizing the health of our employees and delivering on a dramatic increase in demand for our products and services.
+I couldn't be prouder of our team's performance, which made 2021 one of the most successful years in our company's history.
+Let me share with you a few key highlights of what our 3D Systems team accomplished over the last year.
+At the outset of 2021, we as a management team decided that given the momentum that we had achieved as we exited the prior year, that in addition to comparing ourselves to 2020, which was a year severely impacted by COVID, we would also use our 2019 pre-pandemic performance as a primary benchmark for comparison.
+We set this bar -- this set the bar at a much higher level, one that we felt would be an appropriate challenge for both of our businesses.
+As we closed out the year, the results clearly spoke for themselves.
+When adjusted for divestitures of noncore assets, our results for 2021 not only dwarfed our 2020 performance, but also significantly surpassed 2019 across all key financial metrics from top line growth to profitability and cash flow.
+From a balance sheet perspective, our combination of operating performance and sale of noncore assets allowed us to add over $0.5 billion to the balance sheet by the end of our third quarter.
+We then strengthened our cash position further through a convertible bond offering at an opportunistic time in the fourth quarter, details of which Jagtar will elaborate on in a few moments.
+This operating performance was delivered in spite of the significant headwinds we experienced from supply chain shortages and logistics issues.
+As we completed each quarter in 2021 and our trajectory became more apparent, a question that was increasingly asked was how did all this come together so quickly, particularly in the face of the challenges from COVID?
+Well, the answer is very simple, we rallied our team around our singular core belief that if we focused our energies, we could be the best additive manufacturing solutions company in the world.
+Everything that distracted us from our singular mission was either stopped, shut down or sold, and we focused our entire efforts on reaching our goal.
+This approach resonated strongly with our employees and our customers, and its effectiveness was reflected in our financial results, strong double-digit organic growth, industry-leading profitability, and positive cash performance.
+Our shareholders benefited significantly as well as our share price rose by over 100% for the year, greatly outstripping our public company and industry competitors.
+By staying committed to this approach and supporting it with a sound investment strategy, I believe this singular passionate focus will continue to serve us very well in the years ahead, creating significant value for all of our stakeholders.
+One less obvious, but extremely important benefit to this performance has been our ability to increasingly attract key talent to our organization.
+Just as in sports, everyone wants to be part of a winning team and to be recognized for the unique value they bring to the game.
+Like the market itself, talented individuals are able to distinguish between companies that offer promises of future success versus those that deliver on their promises each day.
+Perhaps the most visible public examples of our organizational success in 2021 was the hiring of a new chief technology officer and a new chief scientist for additive manufacturing, both of whom came with outstanding industry experience and credentials.
+However, equally exciting to me has been the influx of outstanding young engineers and other professionals who bring with them talent, unbridled enthusiasm, diversity, and exceptional creativity.
+One indicator of this success has been our interim program for college students, which we started at the height of COVID in the summer of 2020.
+Since inception, we've averaged over 100 applicants for every internship position we've created, and these numbers continue to rise each year.
+The energy and excitement of these young professionals, who represent the future of our business, is absolutely contagious, and their impact is being felt throughout our company.
+In these challenging times, never has the need to attract the best talent been more important, and I'm extremely pleased with our progress in this area.
+As we completed our divestitures late in the year and continue to gain momentum in the market, we turned our attention increasingly to investing for growth.
+We first prioritized our internal investments in R&D and infrastructure, firming up our new product plans and priorities.
+Our efforts bore fruit in the fourth quarter with the release of the -- of three new powder bed printing systems, including our SLS 380 polymer-based system as well as our DMP Flex 200, and DMP 350 Dual metal-based printers, the latter of which is a dual-laser version of our top-selling single-laser system.
+The increased productivity that our dual-laser system delivers is already expanding our market opportunities, particularly in healthcare business, where productivity benefits to medical device customers has proved compelling.
+In addition to these new printing systems, in 2021, we released the largest number of new material offerings in our company's history.
+These materials span all of our polymer technology platforms and address key application needs such as those requiring precision surface finishes, fire retardancy, and improved strength and toughness characteristics.
+This expertise in polymeric materials technology is a key differentiator for our company in the marketplace and an important sustainable competitive advantage.
+Given the exciting lineup we have ahead for all of our product lines and our rapidly growing demand outlook, we've decided to incrementally increase our R&D commitment for 2022 in order to bring these products to market at regular intervals over the next year.
+We look forward to sharing highlights of our new product introductions with you in the months ahead.
+In addition to our new hardware introductions, customer feedback over the last year made it very clear that software will play an increasingly important role in the move of 3D printing from the laboratory into factory production environments.
+While for many years, we've had very strong software offerings to control and optimize the print process itself, production-focused customers have now clearly identified the need for a software system that can control entire fleet of printers regardless of the manufacturer as well as an array of post-print inspection and in-line automation processes spanning from raw material to finished parts.
+An additional challenge is the need to be fully compatible with existing enterprise systems such as SAP, Oracle, Microsoft, and Salesforce in order to minimize factory disruption and costly upgrades as production additive workflows are introduced.
+In short, in order to be successful at scale in a factory environment, our customers need a cloud-based manufacturing operating system that could optimize and manage the entire workflow, applying native AI and leveraging machine intelligence to maximize component quality and throughput.
+To meet this challenge, in 2021, we significantly strengthened our software portfolio with the acquisitions of Additive Works, which brings real-time process simulation to optimize the printing of new components and production; and Oqton, a unique and versatile cloud-based manufacturing operating system that meets all of the key requirements articulated by our customers.
+We believe the Oqton system will not only benefit the adoption of our company's solutions, but could dramatically expand the adoption of additive manufacturing for all companies in our industry.
+For this reason, we've opened our Oqton software suite, which includes our entire legacy software portfolio as optional add-ons, to the entire additive industry as well as our collective customer base.
+We've been pleased to see numerous equipment suppliers have already announced plans to partner with Oqton, and we look forward to the growth we believe it will enable.
+In addition to software in 2021, we also expanded in exciting new markets through the acquisition of Volumetric and Allevi in the regenerative medicine space.
+These two acquisitions leverage breakthroughs that we've made in the printing of biomaterials as a part of a multiyear development effort with United Therapeutics, the goal of which is to ultimately manufacture an unlimited supply of human organs for transplantation, beginning with the human lung to meet the needs of critically ill patients around the world.
+This expansion into 3D printing technology for biologics is an important long-term growth plan for the company that I've spoken about extensively in past quarters, so I'll limit the time today.
+But suffice it to say that I'll look forward to updating you on our progress in this incredible area of development in the future.
+Altogether, our four acquisitions completed in 2021 supported our strategic focus by adding technologies that complement our core strength in additive manufacturing, bringing these capabilities to new and exciting markets, which we believe will continue fueling our growth and profitability well into the future.
+By the end of 2021, with these acquisitions having closed, we exited with roughly $800 million in cash on our balance sheet for the future.
+Before we turn to our plan for 2022, I'll take a minute to comment on the unique foundation that creates our leadership position in the additive manufacturing industry.
+In short, we're a full solution provider, meaning that we bring together the industry's broadest set of metal and polymer printing technologies, hundreds of unique materials and industry-leading software platforms, using our exceptional applications expertise to deliver production-ready solutions for industrial and healthcare customers around the world.
+The effectiveness of this approach has proven itself over time through the installation of hundreds of production printing systems across countless factory sites around the world.
+This scale has a tremendous advantage, not only increasing our operating efficiencies, but also in providing critical ongoing customer application support as well as 24/7 service to our customers, no matter where they're located, over the life of their investments.
+We're proud to say that our installed base currently prints over 700,000 parts per day, which is more than the rest of the industry combined.
+This production experience is invaluable in providing the feedback needed for us to adapt to the ever-changing needs of our customers in this volatile, but exciting time.
+And lastly, we continue to innovate, invest and grow our business, all while tightly managing our financial performance.
+For customers moving to additive manufacturing is a very strategic decision.
+Any customer investing significant capital and fleet of hardware to adopt additive manufacturing at a production scale wants to know that their partner is financially sound and has the scale, capability, and commitment to support them wherever they operate over the immediate and the long term.
+Our combination of scale, expertise and financial profile is the best in the industry, inspiring the confidence of our customers as they balance their growth opportunities with the ever-present risks that we all face in this complicated global economy.
+Simply put, we're increasingly the partner of choice for companies ready to make significant long-term investments in additive manufacturing.
+So where do we go from here?
+Well, first and foremost, we continue to run a disciplined business, balancing our short- and long-term performance and making prudent investments for the future.
+Given our operating momentum, our demand outlook and our financial strength, we continue to look for investments that will enhance our customers' capability to adopt additive manufacturing, while delivering strong returns for our shareholders.
+This has led us to two additional acquisitions, which we announced last week, each of which bring us a new unique technology for our industrial and healthcare businesses.
+The companies are called Titan Robotics and Kumovis, and I'd like to spend a few minutes discussing each.
+Titan Robotics based in Colorado is the market leader in 3D printing systems using pellet-based extrusion.
+This technology addresses critical customer applications requiring large build volumes, superior performance, and improved productivity at significantly lower cost.
+Through Titan, we can now provide solutions to new applications in markets such as foundries, consumer goods, service bureaus, transportation and motorsports, and aerospace and defense and general manufacturing.
+Like 3D systems, Titan takes a solution-based approach with customers, working to ensure they provide the best product to address the customers' application.
+They are the only manufacturer offering hybrid tool head configurations that include any combination of pellet extrusion, filament extrusion, and spindle tool heads for component finishing.
+This unique capability gives customers the flexibility to choose the best production printer configuration to meet their specific application needs, with the selective use of pellet-based polymers providing a significant cost advantage over filament-based systems.
+With an open system architecture, a Titan printer has available to it hundreds of standard polymer formulations, allowing customers to not only select the ideal material for their application, but also realize potential cost savings of up to 75% versus traditional filament extrusion.
+With Titan's technology and our go-to-market reach as well as the combination of Titan's engineers and our applications group, we're confident we can rapidly expand into the extrusion marketplace for our industrial business.
+Moving next to Kumovis.
+They are a very special engineering company headquartered in Munich, Germany, with a strong focus on the development and commercialization of a unique 3D printing system for use with medical-quality PEEK materials.
+PEEK, which stands for polyether ether ketone, is a high-performance polymer material that's approved for use in the human body for orthopedic applications.
+It simulates the properties of human bone very effectively.
+To date, PEEK has been fabricated for these applications using slow, expensive, and wasteful machining techniques, which have limited its usage in medical implants.
+The Kumovis 3D printing technology is unique, allowing high-volume, cost-effective manufacture of custom medical implants.
+This acquisition is a perfect fit with our current healthcare business and will allow us to expand from our historical leadership in titanium orthopedic implants to now offer customers a choice between titanium and PEEK polymeric solutions, each of which have their own specific use cases.
+Integrating Kumovis into our healthcare business will drive growth in three principal areas.
+The first is craniomaxillofacial reconstruction, which has been a cornerstone of 3D Systems healthcare for many years and one in which we're the dominant player for titanium solutions today.
+Having the unique Kumovis printing capability will allow us to expand our virtual surgical planning portfolio to include PEEK implants in addition to surgical instrumentation and on anatomical models.
+The second application area is spinal cages, where 3D Systems is a leader in the development, production and sale of both implanted titanium components and complete printing systems for in-house OEM medical production.
+Kumovis expands the material options for customers in this key product line, enhancing patient experience by allowing us to provide the best solution custom-tailored for each patient.
+And third, bone plates for trauma patients.
+Kumovis is developing a carbon fiber-reinforced PEEK process for bone plate applications for patients suffering from severe trauma and fractures.
+In addition to mass-produced custom patient solutions, Kumovis has also developed a unique self-contained clean room printing system, which opens new opportunities for 3D Systems to expand our point-of-care market segment for trauma patients, where printing capability is provided locally within the hospital or even within the surgical suite itself.
+These applications offer perfect complements to the point-of-care work we're doing today with large medical institutions such as the VA hospital system.
+We believe the point-of-care printing for customer patient solutions will be an increasingly exciting market in the years ahead and one for which we're a clear leader.
+When taken in total, we believe the Kumovis market opportunity is measured in hundreds of millions of dollars, and the synergies with our current offerings and infrastructure are outstanding.
+Given the FDA approvals that are already in place for PEEK materials in human applications, we expect regulatory clearance for printed PEEK components to be granted later this year and that this technology will contribute in a meaning way to our healthcare business in the years to follow.
+So in summary, with our tremendous progress over the last 18 months, our continued strong momentum, our breadth of technology combined with our clear application leadership, and the benefits of scale as one of the largest pure-play additive manufacturing companies, we entered 2022 with a great deal of optimism.
+This optimism is not only for 3D systems, but for the additive manufacturing industry as a whole.
+As new production opportunities open each day, we firmly believe that additive manufacturing adoption and production settings will continue to grow at an exciting pace, and we're confident that we will help lead this transformation.
+Our value proposition is simple.
+We offer the strongest and most complete portfolio of additive manufacturing technologies brought together with the most knowledgeable and creative engineering teams to solve the most valuable application needs of our customers.
+We do so by combining a belief in financial discipline with an overlay of strategic perspective to guide our continued investments for the future.
+As we look forward, we see a growing industry and a tremendous potential to serve our customers.
+For us, 2022 will be a year of exciting growth and investment as we continue to strengthen the company for the future.
+Our investments will continue as they have over the last year, including adding industry-specific application expertise, back-office infrastructure, and this is important, the foundational technologies that enable the value we bring to our customers.
+Specifically, we'd expect that over the next 18 months, we will refresh our entire lineup of metal and polymer hardware platforms while continuing to release record numbers of new materials and improvements to our software products offered through Oqton.
+In partnership with United Therapeutics, we will make substantive progress in our regenerative medicine efforts, creating what we believe will be significant value in the years ahead.
+We recognize that bureaucracy is an impediment to growth.
+So we're committed to remain a lean and nimble organization that challenges itself to execute flawlessly, introducing new products on an almost continuous basis while reducing manufacturing costs and maintaining industry-leading quality.
+Growing adoption of our technology into customer production applications will drive high-margin, post-install recurring revenue streams via consumable materials, software and services.
+In the coming years, we're confident that this focused approach and simple business model will result in consistent year over year double-digit organic growth with expanding gross margins, our goal of which is to exceed 50% over time.
+With 3D systems at the forefront and driving adoption of additive manufacturing, we'll continue to transform existing industries within healthcare and industrial markets as well as creating entirely new markets such as regenerative medicine.
+As Jeff said, 2021 was a tremendous year.
+Our teams worked extremely hard and delivered outstanding results, which I'm pleased to share with you today.
+I'll begin the discussion with full year 2021 numbers, starting with revenue.
+Revenue for 2021 was $615.6 million, an increase of 10.5% compared to the prior year.
+This increase occurred despite the divestiture of our portfolio of noncore businesses.
+When adjusted for those divestitures, 2021 revenue increased 31.8% as compared to 2020, and versus pre-pandemic 2019, revenue increased 16.9%.
+This impressive performance against both 2020 and 2019 validates the transformation efforts we have guided the company through and upon which our team has executed over the past several quarters.
+Our strategy of providing additive manufacturing solutions for industrial and healthcare customers, utilizing a broad portfolio of hardware, materials and software solutions, combined with applications expertise, is delivering consistent, strong double-digit revenue growth.
+Gross profit margin for 2021 was 42.8%, compared to 40.1% in the prior year.
+Non-GAAP gross profit margin was 43%, compared to 42.6% in the prior year.
+Gross profit margin increased primarily as a result of prior year nonrecurring write-downs related to equipment and inventory.
+Operating expenses for 2021 on a GAAP basis decreased 13.3% to $296.8 million compared to the prior year.
+On a non-GAAP basis, operating expenses were $214.7 million, a 9.4% decrease from the prior year.
+The lower non-GAAP operating expenses are primarily a result of restructuring efforts done in late 2020 and businesses divested as part of the company's strategic plan.
+We had GAAP earnings per share of $2.55 for 2021, compared to a GAAP loss per share of $1.27 in 2020.
+The increase was primarily due to the gains recognized on businesses divested during 2021.
+Our non-GAAP earnings per share for 2021 was $0.45, compared to non-GAAP loss per share of $0.11 in 2020.
+This increase was primarily due to our higher revenue combined with the lower operating expenses talked about earlier.
+Now we'll turn to fourth quarter results.
+For the fourth quarter, we generated revenue of $150.9 million, a decrease of 12.6% compared to the fourth quarter of 2020.
+The decrease is a result of the aforementioned divestitures.
+When adjusted for divestitures, we saw strong double-digit growth of 13.1% versus Q4 2020, a 10.4% increase over Q3 2021, and impressively, a 21.9% increase versus pre-pandemic Q4 2019.
+We are seeing great demand in both healthcare and industrial segments that are driving this consistent growth in our core business, which I'll speak to in more detail shortly.
+In the fourth quarter, we had GAAP loss per share of $0.05, compared to GAAP loss per share of $0.16 in the fourth quarter of 2020.
+Non-GAAP earnings per share was $0.09, flat to non-GAAP earnings per share of $0.09 in the fourth quarter of 2020.
+As I mentioned earlier, our revenue growth is being driven by strong demand in both healthcare and industrial segments.
+On a full year basis, adjusted for divestitures, revenue in 2021 for healthcare increased 40.1% and industrial increased by 24.4% as compared to 2020.
+The rebound in Industrial began in Q4 of 2020 and has continued through 2021.
+Industrial revenue in the fourth quarter 2021 outpaced Q4 2020 by 22.2% and Q3 2021 by 12.4% after adjusting for divestitures.
+In fact, this marks the fourth consecutive quarter of year-over-year organic growth in the industrial segment.
+This consistent growth pattern is a result of the strategic investments we have made such as adding crucial application expertise in key industrial subsegments like aerospace and transportation as well as our focus on materials development to provide customer solutions to complex problems.
+And perhaps most importantly, we continue to invest in our software platform, which not only enables customers to move from design to successful build faster than ever, but also allows them to literally run their entire manufacturing process with one integrated cloud-based software solution.
+This will be a key driver in empowering customers to make the transition from traditional to additive manufacturing at an ever-increasing pace.
+And our investment in Titan Robotics, with their extrusion-based technology, opens up even more opportunities for our industrial business to grow as we enter new markets.
+Healthcare growth was broad-based in 2021 from dental to personalized healthcare and point-of-care services, with dental enjoying a large tailwind from the sale of materials for aligners, crowns, and dentures.
+These subsegments are heavily influenced by patient access to dental and medical offices.
+2021 ended with a substantial wave of omicron cases and a similar pattern to the original COVID wave.
+Patients were either unable to get appointments or offices were understaffed due to infections, resulting in a reduction in short-term demand for certain elective healthcare procedures during Q4.
+As such, we expect material sales to moderate early in 2022 as existing inventory, originally meant for Q4, is consumed during the first half.
+But demand should remain strong for Healthcare as the backlog of appointments are filled throughout the year.
+In addition, our investment in Kumovis opens up new markets for us, medical devices.
+We have a leadership position in this area and are now able to satisfy customer application requests for parts and hardware that require medical-grade polymers like PEEK.
+Now we turn to gross profit margin.
+GAAP gross profit margin was 43.9% in the fourth quarter 2021, bringing the full year GAAP gross profit margin to 42.8%, as compared to 40.1% for the full year 2020.
+Non-GAAP gross profit margin in the fourth quarter was 44.1%, bringing the full year non-GAAP gross profit margin to 43%, compared to 42.6% for the full year 2020.
+Gross profit margin and non-GAAP gross profit margin increased in the fourth quarter, primarily as a result of better absorption of supply chain overhead resulting from higher production volumes combined with strong inventory management, resulting in reduced obsolescence.
+GAAP operating expenses decreased 2.3% to $70.1 million in the fourth quarter of 2021 compared to the same period a year ago.
+On a non-GAAP basis, operating expenses were $54.3 million, a 6.4% decrease from the same period a year ago, driven primarily by lower SG&A expenses due to restructuring efforts and divestitures.
+GAAP operating expenses for the full year 2021 decreased 13.3% to $296.8 million compared to the prior year, primarily as a result of a goodwill impairment charge of $48.3 million and cost optimization charges of $20.1 million that both occurred in 2020.
+On a non-GAAP basis, operating expenses were $214.7 million in 2021, a 9.4% decrease from the prior year.
+The lower non-GAAP operating expenses are primarily a result of restructuring efforts done in late 2020 and businesses divested as part of the company's strategic plan.
+Adjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $74.1 million for full year 2021 or 12% of revenue, compared to $28.7 million for full year 2020 or 5.2% of revenue.
+The year-over-year improvement was primarily due to higher revenue in spite of divestitures and lower operating expenses as a result of cost optimization actions and divested businesses.
+Now let's turn to the balance sheet.
+I will begin by noting that we issued a $460 million five-year convertible bond in the fourth quarter.
+We decided to issue this bond after considering the growth potential of our industry and business and the robust investment opportunities that we see going forward.
+The marketing of our bond met with a very healthy demand, and we were able to issue our bond at a 0% coupon, providing the company with a significant arsenal for investment with very low carrying costs.
+After completing this bond offering and combined with our previous activities of divesting noncore assets, making strategic organic investments and generating $48.1 million of cash from operations, we ended the year with $789.7 million of cash on hand, an increase of $705.3 million from the beginning of 2021.
+We believe we are good stewards of investor capital as we manage our cash and evaluate investment options that will drive future growth and profitability.
+We were excited to have an early opportunity to invest some of our cash as we expand our hardware technology to include two extrusion-based platforms through the acquisitions of Titan Robotics and Kumovis.
+The acquisitions are expected to close in the second quarter.
+We are very excited about these investments.
+Both of these acquisitions bring unique capabilities and are well positioned for the industrial and healthcare applications that they intend to serve.
+We expect that these acquisitions will add a point or more of organic growth and be accretive to earnings in 2023.
+Going forward, we believe cash from operations, along with a portion of cash on hand, will fund organic growth opportunities.
+And we will continue to explore a robust M&A pipeline to support our strategy of driving recurring revenue growth and greater adoption of additive manufacturing in both the industrial and healthcare segments.
+I want to reiterate my view that our revenue growth, strong adjusted EBITDA, cash generation, and cash available for investment, sets us apart from others in our industry.
+Beginning last year, we provided guidance on full year non-GAAP gross profit margins.
+This year, we are expanding our guidance to include revenue and non-GAAP operating expenses.
+We believe these are helpful data points for investors to evaluate our company.
+For full year 2022, we expect revenue to be within a range of $570 million and $630 million, non-GAAP gross margins to be between 40 and 44%, and non-GAAP operating expenses to be between 225 million and $250 million.
+Our revenue guidance reflects our expectation of an expanding additive manufacturing opportunity that will drive demand and, as a result, our continued revenue growth adjusted for divestitures.
+At the same time, we see demand continuing to expand not just in 2022, but in future years as well.
+As a result, our operating expense guidance includes our commitment to invest organically in the technology behind our market-leading hardware, materials and software platforms as well as investing in the right talent to continue the successful execution of our strategy.
+We believe these investments will position the company to continue to lead the additive manufacturing industry with robust market-leading solutions.
+Our guidance does not include the potential for significant additional macroeconomic events that could negatively impact our business such as COVID-19, geopolitical events or other factors that could further impact either demand or disrupt our supply chain.
+It will be held in Detroit on May 16 prior to the opening of the RAPID + TCT trade show, a leading additive manufacturing conference.
+This will be an in-person event, and we are excited to give attendees more details about our strategic vision, including our plans for new products, services and exciting new applications.
+Invitations will be coming soon.
+We hope to see you there.
+With that, we will open it up to questions.

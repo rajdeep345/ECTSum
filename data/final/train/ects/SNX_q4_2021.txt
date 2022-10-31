@@ -1,0 +1,85 @@
+Today's results represent only our very first 90 days together, and I'm delighted with what the team has already been able to accomplish in just that short amount of time.
+Let me share a bit more about what we've accomplished relative to our strategy and integration, having made excellent progress in both areas.
+First, we define our go-forward strategy with the overarching goal of keeping our customers and vendors at the center of everything we do.
+We are making significant investments, which will solidify our position for the future and continue to accelerate our participation in the high-growth, next-generation technology areas like cloud, security, analytics, IoT, and everything as a service.
+And we are committed to continuing our journey to digitally transform the company, allowing us to create an enhanced engagement with our customers and vendor partners with improved efficiency.
+To provide further details on these topics, we will be having our first Investor Day as TD SYNNEX to be held virtually after we report our first quarter results.
+At that event, we'll share with you our multiyear strategy, growth opportunities, and financial performance.
+From an integration perspective, we are on track, and the team is executing very well on our plans.
+We rolled out our complete organizational structure, ensuring that all coworkers are clear on their roles and responsibilities.
+We have also been spending a lot of time with our customers and vendor partners, who continue to be very supportive of our company and the plans that we've outlined.
+Another critical area that we've been focused on is our IT systems infrastructure.
+We completed our assessment of our current ERP systems.
+And after a deep and thorough analysis, made the decision to consolidate our Americas business on to CIS, the ERP system custom-built for the IT distribution business.
+CIS has a great track record, is highly responsive and flexible and provides us with the ability to move quickly with an attractive cost basis.
+All other geographic regions will remain on their existing ERP systems.
+Lastly, we are on track with our cost optimization and synergy attainment goals.
+And though there is much work ahead, we are well on schedule relative to our ambitious integration plans.
+Moving forward to our fiscal fourth quarter, we had a good performance despite the anticipated challenging supply chain environment, the change attained with our merger and the new fiscal year-end for much of the company.
+Overall, our core distribution business performed in line with what we communicated last quarter and the supply that we received was consistent with our expectations.
+Strong operational execution by the teams allowed us to optimize our results to the higher end of our guided revenue range.
+Our advanced solutions products and service business saw a continued improvement in the quarter and grew year over year, assuming the merger had occurred in the prior year.
+Endpoint solutions, though slightly down year over year, performed well and in line with our expectations despite the challenging industry supply conditions and a tough prior year comparison.
+All three geographic regions performed well.
+In the Americas, demand was solid.
+And the enterprise space did well as corporations prioritize infrastructure and security projects.
+In the government segment, there was a bit of a slowdown in spending, which is not unusual in the first year of a new administration.
+And the education segment was flat year over year.
+In Europe, demand for next-generation solutions was healthy, and we outgrew the market.
+In the Asia Pacific region, we had a very strong end to the year and made positive traction across multiple countries and product segments, both from the core legacy Tech Data business as well as from the Innovix business, which was acquired more than a year ago.
+Additionally, for many of our vendors, combining Japan and Asia Pacific provides the opportunity for expansion and incremental value creation.
+From an integration perspective, we continue to do well in identifying and capturing cost optimization opportunities and are tracking ahead of expectations.
+As Marshall will discuss in a moment, we are now tracking to a 30% non-GAAP earnings per share accretion, which is above the 25% that we previously targeted.
+As we begin 2022, I'm encouraged by the solid demand drivers across the technology landscape and the opportunities in front of us as we bring our expanded set of products and services to the market.
+Our enhanced breadth and scale provide us with an even greater ability to bring value and choice to our customers.
+As an example, post merger, we have more than doubled the number of vendor partners in the security space available to legacy Tech Data customers.
+Similarly, we have also significantly broadened the data center offerings available to legacy SYNNEX customers.
+Customers and vendors continue to increase their levels of investment in digital transformation, enabling any prepping users everywhere to connect, collaborate, and work more effectively and securely.
+Specific to the PC ecosystem, we remain cautiously optimistic given the opportunities in the commercial space with the Windows 11 refresh cycles and upgrade for advanced security features, offset by some moderation in the consumer segment.
+Taken together, we believe this results in an opportunity to grow our top line in fiscal 2022.
+This view considers current industry supply constraints that we expect to continue through fiscal year.
+Before I hand it over to Marshall, let me pause to express my gratitude to all TD SYNNEX coworkers for their hard work and contributions during fiscal 2021.
+I couldn't be more excited to see all that we'll accomplish in 2022.
+I'll now pass it over to Marshall, who will provide additional details on our financial performance.
+We performed well in our first quarter together, with results at or better than our expectations across the board and despite a continued difficult supply chain environment.
+I am proud of our teams who collaborated well, executed flawlessly, and adjusted to many changes in our first 90 days together.
+In particular, I'd like to express my gratitude to the global finance organization for their dedication and hard work in reporting combined company results for the first time.
+Now turning to our results for the fiscal fourth quarter.
+Total worldwide revenue came in at 15.6 billion, down 2% from the prior year.
+This comparison assumes the merger with Tech Data occurred on September 1, 2020.
+We are pleased with this result, given the tough comparison to prior year, supply chain constraints, and newness of operating as one company as well as an approximate 1% FX headwind due to the euro weakening against the dollar.
+Gross profit was 943 million, and gross margin was 6%, reflecting solid execution by the team and a continued favorable mix of products and services.
+Total adjusted SG&A expense was 559 million, representing 3.6% of revenue and in line with our expectations.
+Non-GAAP operating income was 408 million and non-GAAP operating margin was 2.6%.
+Non-GAAP interest expense and finance charges were 42 million and the non-GAAP effective tax rate was 24%.
+Total non-GAAP income from continuing operations was 276 million and non-GAAP diluted earnings per share from continuing operations was $2.86.
+Now turning to the balance sheet.
+We ended the quarter with cash and cash equivalents of 994 million and debt of 4.1 billion.
+Our gross leverage ratio was 2.6 times and net leverage was two times.
+This ratio assumes the merger with Tech Data occurred on September 1, 2020.
+Accounts receivable totaled 8.3 billion and inventories totaled 6.6 billion.
+Our net working capital at the end of the fourth quarter was 2.7 billion, and our cash conversion cycle for the fourth quarter was 14 days, which was in line with our expectations.
+Cash provided from operations was approximately 561 million in the quarter.
+As we begin fiscal 2022, I'd like to share some thoughts on capital allocation.
+Given the numerous positive drivers for the company, we remain on course of delivering approximately 1 billion of free cash flow by the end of fiscal 2023.
+Our long-term capital allocation strategy over the next two to three years is to distribute approximately 50% of our free cash flow to our shareholders in the form of dividends and share repurchases.
+Remaining investment grade, optimizing our cost of capital and balancing organic investments with M&A opportunities are some of the key priorities we are focusing on as we enter fiscal '22 and beyond.
+For the current quarter, our board of directors has approved a quarterly cash dividend of $0.30 per common share.
+The dividend is expected to be paid on January 28, 2022, to stockholders of record as of the close of business on January 21, 2022.
+Let me now provide you with some modeling thoughts about fiscal 2022 and Q1.
+As Rich had mentioned, we remain confident about the variety of growth drivers for IT spending this year, driven by both traditional and next-generation technologies.
+Like most others in the industry, we also believe that we will remain in a supply constrained environment through fiscal 2022.
+Against that backdrop, we expect to grow revenue in the mid-single digits in fiscal 2022.
+Negatively impacting these gross expectations are FX, which is expected to impact us by approximately 1.1 billion; and gross versus net revenue adjustment of 1.2 billion, which is the result of aligning policies between the two companies.
+Net of these headwinds, revenue is expected to grow low single digits.
+We made very good progress in fiscal Q4 on productivity initiatives as well as deal-related synergies.
+Given this progress and the view regarding fiscal 2022, we now expect to realize a 30% accretion to non-GAAP earnings per share in fiscal 2022 compared to fiscal '21 legacy SYNNEX stand-alone results.
+This represents an improvement from our initial target of 25% accretion.
+For fiscal '22, we expect non-GAAP earnings per share to be between $10.80 and $11.20 per diluted share.
+This also assumes a negative 22 million headwind to non-GAAP net income or $0.18 per share, primarily associated with the weakening of the euro since the date we first performed our merger accretion assessment.
+Now let me share some thoughts for fiscal Q1.
+We expect total revenue to be in the range of 14.75 billion to 15.75 billion, which, when adjusted for FX of approximately 450 million and gross versus net adjustments of approximately 300 million, represents an expected year-over-year growth rate in the mid-single digits.
+This comparison assumes the merger with Tech Data occurred on September 1, 2020.
+Our backlog level continues to be elevated, and we estimate the impact of fiscal Q1 revenue to be approximately 5%.
+Non-GAAP net income is expected to be in the range of 245 million to 275 million and non-GAAP diluted earnings per share is expected to be in the range of $2.55 to $2.85 per diluted share based on weighted average shares outstanding of approximately 96 million.
+Interest expense is expected to be approximately 38 million, and we expect non-GAAP tax rate to be approximately 24%.

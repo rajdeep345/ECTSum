@@ -1,0 +1,164 @@
+Joining me on the call today are Johnson Controls' chairman and chief executive officer, George Oliver; and our chief financial officer, Olivier Leonetti.
+In discussing our results during the call, references to adjusted earnings per share, EBITA, and EBIT exclude restructuring as well as other special items.
+Additionally, all comparisons to the prior year are on a continuing ops basis.
+Let's get started on Slide 3.
+We are off to a strong start in fiscal 2022 with solid Q1 results, as our teams across the world continue to demonstrate best-in-class execution, delivering both strong financial performance for the enterprise and smart innovative solutions our customers demand to ensure a safe, healthy, and sustainable spaces.
+Our service activity in the quarter accelerated from both in orders and revenue perspective, and we are making great strides across all of our vectors of growth.
+Decarbonization, healthy buildings, and smart buildings.
+I'm incredibly proud of how the team is operating in what still remains an incredibly challenging environment, as we continue to face headwinds from supply chain and labor constraints in various dislocations caused by the latest variant of COVID-19.
+As the recovery in our end markets expands, I have been continuously encouraged by the underlying demand trends we are witnessing as evidenced by high single-digit order and revenue growth this quarter.
+In the $10.5 billion backlog we have built, which increased 10% on a year-over-year basis.
+What has been equally as encouraging is the drivers of this demand have been the retrofit replacement of equipment in service offerings required to achieve higher indoor air quality, cost reduction, and energy efficiency goals, which perfectly aligns with our portfolio of end-to-end digital solutions and services.
+We continue to advance our initiatives to accelerate growth and transform our service business.
+Q1 was another quarter of solid revenue and order growth, and we continue to drive our attachment rate higher with a multifaceted approach, including a number of digitally enabled solutions.
+Additionally, there are significant actions underway across the organization to optimize the efficiency of our cost structure, and we remain on track to deliver $230 million in productivity savings this year.
+We had another quarter of strong free cash flow performance, as Olivier will share with you later, this has allowed us to continue to fund organic reinvestment in our business as well as share repurchase in M&A activity, all three of which remain top priorities.
+Over the next several slides, I will update you on some of the strategic growth vectors we continue to highlight and all of these are supported by the global mega trends that will drive demand within the building sector for the next decade plus.
+As we have said in the past, we truly believe we are among the best-in-class when it comes to the ability to deliver fully integrated solutions designed to address the challenges associated with these trends.
+Based on our performance in Q1 and our expectations for the remainder of the year, we are reaffirming our earnings per share guidance for the year.
+During the quarter, we were honored to be recognized for our leadership in sustainability and ESG as well as our innovations in smart building platforms.
+We received our eighth consecutive ranking in the Corporate Knights Global 100 most sustainable corporations in the world.
+We were recognized by Sustainalytics for managing material ESG issues, and we are one of 45 companies globally to receive his Royal Highness, The Prince of Wales' inaugural Terra Carta Seal.
+In terms of smart buildings, I was humbled to receive, on behalf of the company, the IoT Company's CEO of the Year Award from IoT Breakthrough.
+This award is a reflection of the work of our entire digital and OpenBlue teams, engineering, development, sales, service, and marketing.
+Lastly, we were also recognized by Verdantix for having the most prominent IoT platform for smart buildings in 2022, having achieved market-leading scores in several key categories.
+Our service business continues to perform well.
+We are seeing good traction on our initiatives to accelerate growth and increased recurring revenues.
+We are also seeing encouraging trends in the adoption of our OpenBlue digital service offerings.
+Overall, service revenues in the quarter were up 5% with broad-based growth across all regions.
+Orders were up 7%, led by low double-digit growth in North America with strength across our applied commercial HVAC and fire & security platforms.
+We expect a 400 to 500 basis point improvement in our attach rate for the full year and ended Q1 at approximately 41%.
+Turning to Slide 6.
+It goes without saying that sustainability is at the heart of everything we do.
+There are tremendous efforts underway in all parts of the world to decarbonize and it has become very clear that buildings play a pivotal role in these efforts.
+We were pleased to see the recent announcement from the Biden administration forming a new National Building Performance Standards Coalition consisting of more than 30 state and local governments across the U.S., incentivizing the development of healthier, lower carbon emitting buildings.
+Building performance standards are among the core policy initiatives we have flagged as primary demand drivers for decarbonization and achieving net zero.
+This major announcement by The White House is the latest in a number of regulatory actions taken by the local and national governments globally in support of decarbonizing economies, and more specifically in support of accelerating progress toward net zero buildings.
+These standards will mandate stringent carbon reduction requirements for new and existing buildings in the U.S., including financial penalties for noncompliance.
+The official adoption of these standards would represent an important step toward the formation of the $240 billion decarbonization industry, we expect through of 2035.
+Moving to Slide 7.
+We recently launched our latest offering under the OpenBlue healthy buildings portfolio, indoor air quality as a service.
+This is the industry's first dedicated as-a-service model for delivering indoor air quality.
+This offering allows us to combine our traditional holistic approach to delivering healthy indoor environments with innovative financing models that eliminate the need for our customers to commit capital upfront, lowering the risk and time to implement.
+This offering provides a turnkey solution that delivers clean air, while simultaneously optimizing the energy efficiency of a building, all while leveraging a subscription-based model.
+Solutions like these enabled by OpenBlue are truly differentiating factors when it comes to our customers' decision-making process.
+Importantly, we continue to expand our partner ecosystem, not only to supplement our solution portfolio, but also to advance our research and development.
+This quarter, we announced an important partnership with the Asthma and Allergy Foundation of America to advance our advocacy of indoor air quality.
+We also kicked off a collaboration with Well Living Lab in the Mayo Clinic to study the cognitive and productivity benefits associated with enhancements to ventilation and filtration, which will leverage the partnership established with Phylagen last quarter.
+Next on Slide 8.
+FogHorn is recognized as the industry's leading developer of Edge AI software for industrial and commercial IoT solutions with the most advanced technology.
+Their Edge intelligence, combined with cloud-based model building enables secure real-time machine learning to take place at the device level, which means easier access to actionable insights, it increased flexibility for our customers.
+FogHorn software will be integrated throughout the entire OpenBlue platform embedded within our OpenBlue Bridge data exchange which will allow us an even better value proposition when it comes to applying intelligence at the edge device level faster, more secure and at a lower cost relative to cloud-based applications.
+We view Edge intelligence as a critical technology for the future of smart autonomous buildings and for Johnson Controls.
+FogHorn gives us and our OpenBlue platform, an immediate competitive advantage in the Edge AI with a software platform that is widely recognized as best-in-class.
+It avoids the time and cost to build out these capabilities organically.
+Among the notable wins for these themes in Q1, we have a few examples across regions, all centered around sustainability.
+In North America, we are partnering with the University of Windsor on their 2030 carbon reduction plan as well as their 2050 carbon neutrality objectives.
+We will be installing a uniquely configured chiller on our AI-enabled OpenBlue connected chiller platform, which will ensure optimal chiller performance and enable digital service.
+We are excited to be partnering with Aldar Properties, a prominent developer in the UAE as they begin a digital transformation to achieve their sustainability commitments.
+We were awarded an energy performance contract to improve the energy efficiency across Aldar's network of schools in Abu Dhabi.
+In addition to replacing the HVAC equipment, in other energy-consuming assets, we will also be deploying our OpenBlue net zero buildings portfolio of digital solutions.
+In China, we were selected to upgrade an existing customers Metasys building automation system and control system and integrate OpenBlue on-prem to leverage key AI capabilities that will optimize the chiller performance to reduce energy consumption.
+This includes a long-term service agreement, leveraging our digital capabilities.
+These are great examples of the power and breadth of our portfolio, where we deliver tailored, sustainable outcomes for our customers, while expanding our installed base and driving attractive recurring service growth.
+We remain laser-focused on our strategic commitments into delivering the outcomes our customers need on the path to a healthy and more sustainable future.
+Let me start with the summary on Slide 10.
+Sales in the quarter were up 8% organically above our original guidance for mid-single-digit growth and led by strong outperformance across the global product portfolio.
+Our longer-cycle field businesses also performed well, up 6% with solid growth in both service and install.
+Price contributed to about four and a half points of our total organic growth, about one point above our expectation.
+Segment EBITA increased 13% versus the prior year, with margins expanding 30 basis points to 12.3%, including a 100-basis-point margin headwind from price/cost and significant operational inefficiencies related to ongoing supply chain disruptions and worsening labor constraints.
+This was more than offset by strong leverage on higher volumes and the incremental benefit of our COGS and SG&A actions.
+Just to comment on the impact of the operational efficiencies.
+As I mentioned, we were able to yield four and a half points of price.
+Beyond raw materials, inflation on most other items, freight, logistics, labor, and components increase further and absorb the benefit of the increased pricing.
+Additionally, ongoing supply chain disruptions and labor shortages impacted our field operations, where we were dealing with, not only our own disruptions, but those of our customers as well versus our guidance for Q1, this was an incremental headwind of 40 basis points.
+Overall, our underlying margin performance in the quarter was very strong.
+EPS of $0.54 was at the high end of our guidance range and increased 26% year over year, benefiting from higher profitability as well as lower share count.
+Free cash flow in the quarter was just over $250 million, primarily the result of a continued focus on working capital management.
+Turning to our earnings per share bridge on Slide 11.
+Overall operations contributed $0.10 versus the prior year, including a $0.06 benefit from our COGS and SG&A productivity programs.
+Underlying segment earnings were a net $0.04 tailwind year over year, which we view as a significant achievement in the current environment.
+Excluding the headwinds from price cost, underlying incremental in Q1 were approximately 40%.
+Orders for our field businesses increased 8% in aggregate, with fairly balanced growth between service and install activity.
+Growth in service orders is being led by a double-digit increase in our short-term transactional business, but also a mid-single-digit increase in our contractual recurring revenue base.
+Install demand continues to rebound, primarily driven by a low double-digit increase in retrofit activity globally, including mid-teens growth in North America.
+Backlog grew 10% to nearly $10.5 billion, with service backlog up 4% and installed backlog up 11%.
+The year-over-year increase was led by higher retrofit activity in North America and EMEALA and new construction activity in APAC.
+Let's discuss our segment results in more details on Slide 13.
+My commentary will also refer to the segment end market performance included on Slide 14.
+Sales in North America were up 5% organically, led by 7% growth in service.
+Install sales increased 4%.
+Similar to last quarter, supply chain disruptions and material availability negatively impacted revenue conversion in our North America business.
+Commercial Applied HVAC revenue grew low double digits, including low double-digit growth both in equipment and service.
+Client security increased mid-single digits in the quarter.
+Performance Infrastructure declined high single digits, given the tough prior year comparison of plus 20%.
+Looking at the two-year stack for performance infrastructure we are up double digit with an exciting pipeline of opportunities ahead.
+Segment margin decreased 90 basis points year over year to 11.6%, including an 80 basis point impact from lower absorption given the operational inefficiencies related to material and labor availability.
+We are also intentionally maintaining a higher level of sales investments, given our order activity is up more than double our revenue growth in the quarter.
+The combination of these factors will remain a headwind in the second quarter and significantly improved from there.
+Orders in North America were up 11% versus the prior year with high teens growth in commercial applied, including a significant increase in HVAC equipment orders driven by very strong demand in the data center and healthcare verticals.
+Fire & security orders were up low teens with strength in both install and service.
+Backlog of $6.5 billion increased 12% year over year.
+EMEALA revenue increased 3%, led by continued strength in the fire & security business, which grew at mid-single-digits rate in Q1.
+This was primarily driven by a sharp rebound in our retail platform and modest growth in our core offerings due to the material availability constraints.
+Industrial Refrigeration grew low single digits, while commercial HVAC in Controls was relatively flat.
+Segment EBITDA margin expanded 50 basis points, underlying margin performance improved as positive price/cost and the benefit of SG&A.
+COGS savings more than offset a modest mix headwind.
+Orders in EMEALA were up 3% in the quarter with high single-digit growth in fire & security and low single-digit growth in commercial HVAC.
+Backlog ended the quarter at $2.2 billion, up 12%.
+Sales in Asia Pacific increased 12% organically led by mid-teens growth in commercial HVAC in Controls.
+China continued to outperform with revenue up nearly 30%.
+EBITDA margin declined 260 basis points year over year to 10.1%, driven by headwinds from price costs as well as unfavorable business and geographic mix.
+We do believe Q1 represents peak margin pressure for APAC, and we would expect margins to significantly improve as we -- as the year progresses.
+APAC orders were up 5% with continued strength in commercial HVAC, driven by a strong rebound within the industrial vertical in China as well as the benefit of a large infrastructure development project currently underway in Japan, which would include a significant deployment of OpenBlue and digitally enabled services.
+Backlog of $1.8 billion was up 2% year over year.
+Global product sales increased 14% organically in the quarter, with broad-based strength across the portfolio led by mid-teens growth across our HVAC equipment platforms.
+Global residential HVAC sales were up 11% overall in Q1.
+North America resi HVAC grew 17% in the quarter benefiting from both higher growth in our power business and strong price realization.
+We have been very successful in ramping production of our new facility in Mexico.
+So far, we had about 30% capacity and still on track for full run rate later in the year.
+In rest of the world, resi HVAC grew high single digits, led by strong double-digit growth in Europe as the adoption of our new Hitachi air-to-water residential heat pump, launched last quarter, continues to improve.
+In APAC, resi HVAC was relatively flat as a result of softer industry demand in Japan, related to more mild weather, offset by strong growth in Taiwan and India.
+Although, not reflected in our revenue growth, sales in our in Hisense JV were up low teens year over year in Q1, as we continue to expand our distribution footprint in China.
+Commercial HVAC product sales were up high teens in aggregate with similar levels of growth in both applied and light commercial.
+Strength in applied was driven by increased demand within the data center end markets for our air cool chillers and evaporative cooling solutions as well as our industrial refrigeration platforms.
+Strength in light commercial was driven by strong performance at Hitachi which was up over 50% as well as mid-teens growth in North America unitary equipment and high single-digit growth in VRF.
+Fire & security products grew low double-digit in aggregate, led by a continued recovery in our commercial science suppression business and mid-teens growth in access control and video solutions.
+EBITA margin expanded 240 basis points year over year to 14.5% as volume leverage, higher equity income and the benefit of productivity actions more than offset headwinds from price/cost.
+Turning to Slide 15.
+Corporate expense was up slightly year over year to $70 million.
+For modeling purposes, we have included some of our below-the-line items for FY '22.
+Turning to our balance sheet and cash flow on Slide 16.
+Our balance sheet remains in great shape with no major changes to highlight in the quarter.
+We ended up Q1 with $1.2 billion in available cash and net debt at 1.9 times, one tick higher versus year-end, but still below our target range of two to two and a half times.
+On cash, we generated a little over $250 million in free cash flow in the quarter, down year over year due to the absence of prior year tax credits and other COVID-related benefits as well as nearly a 50% increase in capex spend year over year.
+We had another quarter of strong trade working capital management, down 140 basis points as a percentage of sales.
+With a continued focus on working capital, we remain confident that we will sustain 100% conversion over the next several years.
+From a capital allocation standpoint, we are executing our game plan.
+We repurchased approximately 7 million shares for just over $500 million, deploying roughly $100 million toward bolt-on acquisitions and increased our quarterly cash dividend payment by 26%.
+Before we get into guidance, I want to comment on two reporting changes that occurred in the first quarter.
+First, effective at the start of the fiscal year, our marine business, which was previously split across Asia Pacific and global products and EMEALA is now managed and reported under our EMEALA segment.
+Historical segment results have been recast for comparability.
+Second, as part of the ongoing transformation of our service business, beginning with first quarter results, we are aligning the way we report revenue associated with certain types of retrofit activity we performed in EMEALA and APAC field businesses as they have evolved to be more aligned with similar offering in North America.
+From a management perspective, this provides better visibility to our initiatives aimed at accelerating our higher-margin recurring revenue base.
+The changes are being made on a prospective basis.
+To help with comparisons going forward, we have included recasted segment results and a table with pro forma service revenue for FY '21 in the appendix.
+Now let me get into guidance on Slide 17.
+As George mentioned, we are reaffirming our full year adjusted earnings per share guidance range of $3.22 to $3.32, which represents year-over-year growth of 22 to 25%.
+Given the continued inflationary environment, we are increasing our organic revenue growth assumptions to a range of 8 to 10%, mainly driven by our increased price expectation.
+An additional point of price on the topline we create an incremental margin headwind of approximately 20 basis points.
+We continue to expect price/cost will remain positive on an earnings per share basis.
+However, the inflated level of pricing will bring our full year price cost margin headwind to approximately 60 basis points.
+Therefore, we now expect 50 to 60 basis points of segment EBITA margin expansion for the year.
+There was no change to underlying margin expansion of 110 to 120 basis points.
+Let me specifically point out that there was no change to our expectation for segment EBITA dollars.
+Additionally, the strengthening U.S. dollar has created an earnings per share headwind of $0.03, since we first provided guidance back in November, and we are absorbing this incremental headwind with our reaffirmed adjusted earnings per share guidance range.
+Turning to the second quarter.
+We expect continued strong performance with high single-digit organic revenue growth, improved segment EBITDA margin expansion and adjusted earnings per share of $0.62 to $0.64, which represents a year-over-year increase of 19 to 23%.
+Let me give back the call to George for some additional comments.
+Yes, before we move on to the Q&A portion of the call, I wanted to announce a quick update to my leadership team.
+This will be Antonella's final earnings call, and she will be pursuing a new role outside of Johnson Controls.
+Antonella has been one of my constants, really, since I first joined back -- Tyco back in 2006.
+She has been an invaluable resource to me personally, and I'm sure she has been to many of you for more than a decade.
+She has been a fantastic leader, a trusted advisor, and a friend.
+I couldn't be more happy for you.

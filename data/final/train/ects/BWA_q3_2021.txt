@@ -1,0 +1,125 @@
+It's posted on our website, borgwarner.com, on our homepage and on our Investor Relations homepage.
+Please see the Events section of our Investor Relations homepage for a full list.
+Our actual results may differ significantly from the matters discussed today.
+When you hear us say on a comparable basis that means excluding the impact of FX, net M&A and other noncomparable items.
+When you hear us say adjusted, that means excluding noncomparable items.
+When you hear us say organic, that means excluding the impact of FX and net M&A.
+We will also refer to our growth compared to our market.
+When you hear us say market, that means the change in light and commercial vehicle production weighted for our geographic exposure.
+Our outgrowth is defined as our organic revenue change versus this market.
+We encourage you to follow along with these slides during our discussion.
+Let's start on slide five.
+We're very pleased to share our results for the third quarter and provide an overall company update.
+The third quarter operating environment was very challenged, both from an absolute volume perspective and in light of the production volatility we experienced throughout this quarter.
+Overall, we're doing a solid job managing the near-term environment while securing our future growth.
+With just over $3.4 billion in sales, our third quarter revenue decreased by about 7% organically.
+Excluding the year-over-year growth in our aftermarket business, our OEM business declined 9% compared to the 22% decline in our market during the quarter as we benefited from new business and favorable mix.
+Our margin and cash flow performance in the quarter was impacted by the volatile production environment, which put pressure on near-term cost containment and drove excess inventory within our plans.
+Even with those challenges, we're still on track to delivering a near double-digit operating margin for the full year.
+And we still expect full year free cash flow to be among the strongest results in our history.
+At the same time, we're very focused on ensuring that we secure our future.
+To that end, this past quarter, we won multiple new product awards for electric vehicles, which I will speak about in a few moments.
+As a result of these awards, along with wins in prior quarters, we are well on our way to achieving the organic electric vehicle 2025 revenue targets underlying our project CHARGING FORWARD.
+In fact, we estimate that more than 90% of that target is already booked.
+The market environment continues to be extremely volatile with the risk of future production disruption arising from ongoing supply constraints.
+With that in mind, on a full year basis, we now expect our global weighted light vehicle and commercial vehicle markets to be down 2.5% to flat year-over-year.
+This is down materially from our previous assumption, reflecting both the third quarter decline and our most recent expectations for the fourth quarter.
+As you can see from the line chart showing the different scenario, we do expect light vehicle industry production to improve sequentially Q3 to Q4.
+Underlying customer demand remains robust.
+However, just like we saw in the third quarter, industry production levels will be dependent on the varying impact of ongoing supply constraints and on the potential impact on our customer mix.
+Overall, we expect the challenging environment to continue throughout the remainder of 2021.
+And at this point, we think it will carry on well into 2022.
+As we manage this challenging environment, we're also continuing to focus on securing our mid- to long-term opportunities in electric vehicle.
+And we did just that during this quarter, securing several awards for electric vehicle programs.
+I'm very proud of the teams.
+Two of those awards are highlighted on slide seven.
+First, we secured a major award for a North American inverter with a global OEM expected to launch in 2024.
+This high-voltage silicon carbide program is our largest inverter win to date.
+This business award also marks the company's first major win in the North American market.
+It will also be used in multiple battery electric vehicle platforms, including pass cars and trucks.
+Our product performance, scalability, cost competitiveness, size optimization and global manufacturing footprint, all contributed to securing this business win.
+Additionally, we announced a new 800-volt silicon carbide inverter award with a German OEM expected to launch in early 2025.
+This award expands our existing 400-volt inverter business with this same German customer by now adding 800-volt products.
+This new technology offers enhanced power density, proven performance and long-term reliability.
+Given these two new and significant inverter awards, I would like to give you an update on our positioning in the inverter market on slide eight.
+We've had tremendous success establishing ourselves in this market.
+When I think about BorgWarner's competitive advantages in power electronics, it's driven by, first, the breadth of our product portfolio.
+This allows us to be faster and more effective at bringing products to market.
+Second, our ability to innovate, like with our Viper power module technology.
+We can continue our innovations in part due to our vertical integration strategy.
+We have in-house capabilities for power modules, integrated circuit development and software, which we feel are an advantage in the marketplace.
+And finally, I think the last driver is our ability to leverage the electronic scale that we already have across our company, and especially within our engine control units.
+The result is that we've secured significant new business award.
+And as you can see by the chart on the slide, we expect the business to grow rapidly from about 500,000 units in 2021 to 2.5 million units by 2025, representing about 50% CAGR.
+We expect this volume to drive total inverter sales of $1.7 billion by 2025 -- in 2025, sorry.
+And remember, these programs are already booked.
+We continue to pursue additional inverter opportunities with production volumes in 2025 and beyond, and would expect to secure more awards in the coming quarters.
+And one more thing, with the business we've already won, we believe that we are positioned to be the number one noncaptive inverter producer globally by 2025.
+As we look at our year-over-year revenue walk for Q3, we begin with pro forma 2020 revenue of just under $3.6 billion, which includes a little over $1 billion of revenue from Delphi Technologies.
+Next, you can see that foreign currencies increased revenue by about 2%.
+Then our organic revenue decline year-over-year was approximately 7% or almost 9%, excluding growth in our aftermarket segment.
+That compares to a 22% decrease in weighted average market production, which suggests that our outgrowth in the quarter was more than 13%.
+Now with that said, the significant volatility in production schedules and the varying levels of supply disruptions among our customers are continuing to make it difficult to draw conclusions from the quarterly outgrowth figures.
+Nonetheless, we were pleased that we delivered strong relative revenue performance in all three major markets despite the overall decline in revenue.
+Regionally, in Europe, we outperformed, driven by new business in small gasoline turbochargers and fuel injection products.
+In China, we also outperformed the market, driven by the resilience in the former Delphi businesses.
+And in North America, we outperformed the market, primarily due to new business as well as vehicle and customer mix.
+The sum of all these was just over $3.4 billion of revenue in Q3.
+Now let's look at our earnings and cash flow performance on slide 10.
+Our third quarter adjusted operating income was $311 million compared to pro forma operating income of $396 million last year.
+This yielded an adjusted operating margin of 9.1%.
+On a comparable basis, excluding the impact of foreign exchange and the impact of AKASOL, adjusted operating income decreased $79 million on $261 million of lower sales.
+That translates to a decremental margin of approximately 30%.
+This higher than typical decremental margin was primarily driven by $24 million of higher commodity costs, net of customer recoveries.
+Excluding these higher commodity costs, our year-over-year decremental margin was approximately 19%, which we view as a sign that we're effectively managing our operating cost performance in spite of the supply chain disruptions.
+Moving on to cash flow.
+We consumed $10 million of free cash flow during the third quarter.
+This was worse than our expectations going into the quarter due to lower-than-expected operating income as well as higher-than-planned inventories.
+Fundamentally, when production declines this rapidly and expectedly, it's difficult to get inventory out of the system in the near term.
+We expect inventory to improve in the coming quarters once we see less volatility in production orders, which will give us the ability to rightsize our supply chain demands accordingly.
+Now let's talk about our full year financial outlook on slide 11.
+We now expect our end markets to be down 2.5% to flat for the year.
+Next, we expect to drive market outgrowth for the full year of approximately 1,000 basis points.
+This contemplates the strong performance to date with a sequential step down in the fourth quarter as we expect to return to more normalized year-over-year outgrowth in Q4.
+Based on these assumptions, we expect our 2021 organic revenue to increase approximately 8.5% to 11% relative to 2020 pro forma revenue.
+Then adding an expected $425 million benefit from stronger foreign currencies and an expected $70 million related to the acquisition of AKASOL, we're projecting total 2021 revenue to be in the range of $14.4 billion to $14.7 billion.
+This wide revenue guidance range reflects the continued production uncertainty we have in the fourth quarter.
+From a margin perspective, we expect our full year adjusted operating margin to be in the range of 9.6% to 10% compared to a pro forma 2020 margin of 8.3%.
+This contemplates the business delivering full year incrementals in the low 20% range before the impact of Delphi-related cost synergies and purchase price accounting.
+From a cost synergy perspective, our margin guidance continues to include $100 million to $105 million of incremental benefit in 2021, the same as our prior guidance.
+Based on this revenue and margin outlook, we're now expecting full year adjusted earnings per share of $3.65 to $3.95 per diluted share.
+And finally, we expect that we'll deliver free cash flow in the range of $600 million to $700 million for the full year.
+The reduction versus our prior guidance is a little larger than our projected decline in operating income as we expect inventory to remain higher than usual through the fourth quarter.
+Then once we head into 2022, we expect to start to see reductions in inventory toward more normalized levels.
+That's our 2021 outlook.
+Given the uncertain outlook for the remainder of 2021, we felt it appropriate to provide you with some of our initial thoughts on some key financial drivers and strategic priorities heading into 2022.
+Starting with our top line.
+As of right now, we do expect to see supply chain challenges, particularly with respect to semiconductors, continue well into 2022.
+Ultimately, where full year 2022 industry production shakes out will depend on the scope and duration of these challenges.
+But at this point, we would still expect a modest level of growth in industry production next year.
+Next, we expect to deliver outgrowth in 2022.
+However, we're currently assessing the extent to which the much stronger-than-expected outgrowth in 2021 will result in any headwind to our outgrowth next year.
+From a cost perspective, we expect incremental Delphi-related cost synergies in the $40 million to $45 million range, and we also expect incremental restructuring savings of $40 million to $50 million.
+These combined savings are expected to largely offset our estimated increase in R&D spending of approximately $100 million.
+We're planning for this significant increase in R&D spending in order to support the new business wins we've achieved to date and to pursue additional EV opportunities consistent with our CHARGING FORWARD organic growth objectives.
+And finally, we're building our plans based on the assumption that we'll see sustained levels of commodity inflation continuing into 2022, which means we expect that to create a year-over-year headwind during the first and second quarters.
+That's the near term.
+But while we're managing the near term, we're also focused on securing our long-term future.
+So consistent with our CHARGING FORWARD initiative, we have three key strategic priorities heading into next year.
+First, we plan to continue to pursue and secure additional electric vehicle awards for both components and systems.
+Second, we intend to execute additional M&A to accelerate our positioning in electric vehicles.
+And finally, we expect to complete the disposition of approximately $1 billion in combustion revenue.
+Ultimately, it's the pillars of near-term execution, securing future profitable growth and disciplined inorganic investments that will drive the success of our strategy and thus drive value creation for our shareholders.
+I'm now really excited to share an update of our progress toward our project CHARGING FORWARD targets on slide 13.
+And as evidenced by our program announcements over the past several quarters, including the two wins that I alluded to earlier, we're making significant progress on the organic growth in electric vehicles underlying our CHARGING FORWARD plan.
+Or to put it another way, with this booked business, we're more than 90% of the way toward our $2.5 billion organic revenue target we gave you back in March.
+The breakdown of these programs is highlighted on the chart to the left.
+We're excited about the mix of both components and system awards.
+Plus we expect to add to this booked business portfolio over the next quarters by securing additional EV awards with 2025 revenues.
+And then we will supplement this organically developed revenue with EV revenues from AKASOL and any future acquisitions.
+The takeaway from today is this.
+It's a challenging near-term environment.
+Once again, BorgWarner is successfully managing the present and delivering solid financial results.
+At the same time, we're delivering our future.
+We're doing this by establishing product leadership and winning new business in the world of electrification.
+And with these wins, we are successfully executing on our long-term strategy, CHARGING FORWARD, which will deliver value to our shareholders long into the future.

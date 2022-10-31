@@ -1,0 +1,208 @@
+We caution you that such statements reflect our best judgment based on factors currently known to us and that actual results and events could differ materially.
+These non-GAAP financial measures are not prepared in accordance with generally accepted accounting principles.
+These non-GAAP measures are not intended to be a substitute for our GAAP results.
+This is the start of an open and informative dialogue.
+We value trust and transparency, and I'll have the opportunity to model this as a public company.
+And since this is our first earnings call, I'd like to give some background on our journey and how we got here.
+I will then turn it to Nick and Dave to provide some highlights from our most recent quarter and outlook.
+We launched SentinelOne in 2013 with the idea that cybersecurity incorporated faster speeds, greater scale, higher accuracy, and most importantly, do this through more dimension.
+We created an autonomous cybersecurity platform to deliver our vision.
+Attacks and threats are only becoming more sophisticated and more common, and legacy solutions and human defenses just can't keep up.
+Look no further than all the ransomware attacks.
+Unfortunately, this isn't new, and it isn't going away, and it's impossible to ignore.
+Our mission to protect our customers and our way of life has never been more important in a digitized world.
+There are several structural forces at play that will drive long-term and sustained growth for us and our industry.
+The growing threat landscape is just one of them.
+Next is the digital enterprise environment, more devices, more places, more data, requires updates to critical enterprise infrastructure, and that includes new attack surfaces such as containers and workloads.
+At the same time, we've moved to a hybrid work environment.
+This is the new normal, forcing the evolution of how we work, where we work from, and fundamentally how we secure the future of work.
+The only way to ensure safety and security is with zero trust across the entire enterprise, from endpoint to cloud.
+Companies want partners and platforms, not siloed point solutions.
+Our open XDR approach is helping unify the entire enterprise view from data to device to cloud.
+Putting all of this together, cybersecurity has never been more critical and more challenging for the enterprise.
+That gives me tremendous confidence in the long-term growth potential in front of SentinelOne.
+Over the last eight years at SentinelOne, we've developed AI and machine learning models, built patented Storyline technology, and created an in-house cloud data platform.
+We knew from the beginning that the best solution would have to harness the power of data and AI.
+And as a result, we're delivering real-time industry-leading threat detection and response from endpoint to IoT to cloud.
+To us, prevention is the fundamental component of modern-day cybersecurity.
+Equally critical is machine speed detection, response, and remediation.
+We've achieved many important milestones already this year.
+Certainly, the IPO is part of that.
+At the same time, top scores from MITRE ATT&CK, the industry standard test for EDR, as well as the highest score in the Gartner Critical Capabilities for each buyer type has helped build credibility and industry recognition.
+Operationally, we've expanded our board of directors and instituted an advisory board.
+And with an eye to the future, we just announced that we'll be opening an R&D facility in the Czech Republic to support our growing scale and global presence.
+Finally, delighting our customers.
+I'm especially proud that our Net Promoter Score, or NPS, has risen every single quarter in the past year.
+It jumped in Q2 to above 70.
+That puts us well above the ranks of many consumer and technology companies and ahead of category-defining technologies loved by users such as the iPhone.
+Our customers choose us as their cybersecurity partner, and we take the responsibility and trust seriously.
+We're helping our customers stay ahead of our adversaries, prevent breaches and autonomously respond through innovation.
+Turning to the business.
+In Q2, our ARR growth accelerated to 127% year over year, and our revenue was up 121%.
+I want to pause on that for a second.
+Our business is expanding well into the triple digits both for ARR and revenue, and our guidance for Q3 shows that we expect that to continue.
+Our growth is very well balanced across new and existing customers, as well as large and midsized enterprises.
+Enterprises represents about two-thirds of our business today, and we're gaining even more traction.
+In Q2, we added the highest number of customers with ARR over $1 million compared to prior quarters.
+We're also expanding with existing customers through securing more devices and services, along with bringing new security control and visibility modules.
+Our net retention rate was the highest it's ever been at 129%.
+Our channel partners are bringing us into an increasing number of opportunities, giving our sales teams access, scale, and reach around the globe.
+Nick will talk a lot more about our differentiated go-to-market and how that's fueling growth.
+I'm proud of the technology and the innovation we're bringing to customers through our Singularity XDR platform.
+We sell three platform tiers, Core, Control, and our most comprehensive and popular tier, Complete.
+These tiers enable us to bring our technology to a diverse set of buyer types and organizations, from medium-sized businesses all the way to the world's largest Fortune 500 enterprises.
+We also offer more than 10 modules that extend our platform value to more enterprise needs, from IoT discovery and security to cloud and container workload protection.
+Our modules help customers with today's critical management, protection, and visibility challenges.
+In Q2, we enhanced our capabilities around automation, zero trust, and data.
+Automation is key to neutralizing threats effectively and in real time.
+Security teams simply can't analyze and respond to billions of events every day.
+The response piece is especially important.
+A human-powered 1-10-60 benchmark is a legacy model.
+Our customers want real-time response and protection.
+This is why our patented Storyline technology is so important.
+It monitors and contextualizes all events across an enterprise at machine speed.
+That means fewer and more accurate alerts based on data.
+It also means autonomous remediation, taking machine-delivered responses to a whole new level of automatic efficiency.
+The chief information security officer of a Fortune 500 oil company captured it well saying, "SentinelOne's Storyline technology fundamentally changes EDR. Instead of people having to manually assemble data points, the technology assembles stories for us and even makes decisions in real time.
+We listen to our customers, adding even more automation capabilities.
+In Q2, we added Storyline Active Response, or STAR.
+With STAR, security teams can now create custom detection and response rules and deploy them in real time.
+In other words, write the rules once and let it trigger automatic alerts and instant responses enterprisewide.
+That's more control, and more automation, and more prevention.
+The second area of focus is around zero trust.
+Every edge of the network must be secured.
+We did this in two ways in Q2, tackling rogue IoT devices and expanding zero trust partnerships.
+An enterprise can protect what it can see, including IoT and unmanaged devices.
+One compromised printer can quickly become an adversary's home base for an attack.
+The solution for the IoT and unmanaged device challenges our Ranger module.
+Ranger identifies and corrects all rogue IoT devices, and we've just released auto-deploy.
+Our new auto-deploy capability tackles one of the oldest problems in enterprise IT, quickly deploying protection to unmanaged and sometimes unreachable assets with ease.
+Ranger auto-deploy takes a SentinelOne endpoint and enables it to transmit protection to any and all unmanaged devices surrounding it.
+This is a first, and we're already seeing demand for auto-deploy, which helped secure $1 million customer win in Q2, where we replaced legacy AV in one of our other major next-gen competitors.
+We also expanded our marketplace ecosystem through new partnerships with Zscaler and Cloudflare.
+Partnering with other zero-trust leaders strengthens our customers' security postures.
+Finally, we're focused on data.
+Cybersecurity is fundamentally a data problem.
+We use AI to parse petabytes of data, identify anomalies and autonomously mitigate attacks in real time.
+Earlier this year, we acquired Scalyr, enhancing our ability to ingest index-free data at scale from structured and unstructured sources.
+Our goal is to optimize for scale, performance, and cost.
+We're excited about the future go-to-market synergies.
+We've also begun transitioning our data back into Scalyr for new proof-of-concept deployments, onboarding new customers at scale.
+Before I turn it to Nick and Dave, I want to say I'm excited about what we've achieved as a company.
+I'm proud of the scale of our business and the triple-digit growth rates we've now delivered for two consecutive quarters.
+This is truly a testament to the hard work of the entire team at SentinelOne.
+Your feedback and trust puts us in the winning side of cyber warfare every day.
+I'm even more excited about what we can do from here.
+The endpoint security market is large and growing, and we're just at the beginning.
+Cyber defense should be even more holistic.
+It has to be flexible and automated.
+And that means not just across endpoint operating systems but also IoT devices, servers, cloud workloads, and the data itself.
+This is XDR. We are XDR. And with that, let me turn it to Nick Warner, our chief operating officer.
+I've been at SentinelOne for over four years now.
+Everyone here has a lot to be proud of, especially how quickly we scaled in just the past year alone.
+We've built a go-to-market flywheel of sales and marketing, our channel, and technology partners.
+Together, our brand and market traction is reaching new highs.
+Let's discuss the business.
+ARR of nearly $200 million and growing 127% is nothing short of astounding.
+Looking back, it took over three years to reach $100 million in ARR and just three quarters to nearly reach the next $100 million.
+Our future is unbounded.
+That's because of vision, execution, and listening to the needs of our customers.
+Over 5,400 customers use our Singularity XDR platform.
+That's over 2,000 more than last year.
+I'm delighted to help protect that many businesses.
+Our customers are diverse in size, scope, and geography.
+Our focus on automation, speed, and accuracy is critical to any enterprise -- in fact, all enterprises.
+We're protecting even more mission-critical businesses.
+In Q2, we added one of the largest telecommunications and mass media companies in North America.
+And we also added one of the world's largest global financial institutions as well.
+Make no mistake, this is a competitive market.
+We go up against incumbent and next-gen players all the time.
+When I think about how we're doing in the market, three things capture it most effectively: one, our 97% gross retention rate, which means our customers are happy and staying with us; two, we don't compete with our channel partners.
+So, they are able to lead with our technology platform.
+We enable and embrace the channel; and three, we win more than 70% of POCs against the competition.
+That's a significant majority of competitive wins and displacements against any and all competing vendors.
+Let me share some more details from the quarter.
+We're making tremendous progress with large enterprises, which represent about two-thirds of our business.
+We grew customers with ARR over $100,000 by 140% versus last year.
+We added the highest number of million-dollar ARR customers this past quarter.
+In the past year, we've more than tripled the number of customers with ARR over $1 million.
+It's clear from both of those points that we're succeeding with larger customers and landing in larger deals.
+Our net retention rate was 129%, a new record for our company, fantastic execution from our sales and go-to-market teams.
+We're helping customers expand agent deployments, access more functionality with package tiers, and adopt new module solutions.
+When it comes to our modules, our innovations help enterprises do more.
+Just looking at our modules that cover IoT, cloud, and data, these grew more than six times year over year in Q2 and represent over 10% of the quarter's new business.
+We're still early with our modules and see this as a long-term lever for our business.
+Next, I'll share some insights on our go-to-market.
+Our internal sales and support teams, combined with our diverse and growing partner ecosystem, gives us an incredibly vast reach.
+Earlier this year, we rolled out a new channel partner training and accreditation program.
+Feedback has been positive, and we've issued over 2,000 accreditations to date.
+Our strong channel metrics are leading pipeline and traction indicators.
+We partner with managed security service providers, MSSPs; managed detection and response providers, MDRs; and incident response, IR, partners.
+We equip them with industry-leading capabilities.
+And in return, we get tremendous market access and scale.
+We don't compete with them.
+We support and enable their business.
+We're rapidly expanding this ecosystem, and it's driving meaningful growth for us.
+I want to double-click on our incident response partnerships.
+Driven by the rising wave of ransomware attacks, breaches have become pervasive for businesses around the world.
+In the unfortunate but often common case of a company being breached, IR partners are called in to identify and remediate the attack.
+They use our technology to understand what's going on, stop the attack and remediate the network.
+Our ecosystem of IR partners are armed with the best technology available when it comes to rapidly recovering from a breach.
+After seeing the immediate value of our technology, we see extremely high adoption rates post breach as post-breach enterprises standardize on SentinelOne as a modern approach to cybersecurity.
+In Q2, we added over a dozen additional IR partners and are bringing more online in Q3 and beyond.
+It's not just quantity but quality.
+In Q2, we added world-renowned IR partners like Kroll, Alvarez & Marsal, and Group IB.
+These and others are global leaders with extensive enterprise relationships.
+These are the go-to experts who cyber insurers and Boards call when there is a breach.
+In fact, our IR partner ecosystem is our fastest-growing channel.
+For all of us at SentinelOne, our values and goals align on protecting customers and putting them first.
+From sales to support, marketing to channels, business development to customer success, Vigilance MDR to SentinelLabs, our go-to-market organization is world class.
+And I'm proud to work with this global team of relentless Sentinels each and every day.
+I'll touch on a few of the highlights before we open for Q&A.
+We are very excited about our performance in the second quarter.
+Looking at our Q2 results.
+We achieved record revenue of $46 million, increasing 121%.
+Fueled by new customers and existing customer expansion, we delivered ARR of $198 million in the quarter, accelerating 127% year over year.
+Even after backing out the $10 million in acquired ARR from Scalyr, our organic growth was still well into the triple digits.
+Obviously, we're very enthusiastic about our top-line drivers.
+Now I'll discuss our costs and margins and then provide our guidance outlook.
+Our non-GAAP gross margin in Q2 was 62% and expanded 900 basis points, a healthy pickup from last quarter.
+The biggest benefits are coming from our increasing scale and business expansion.
+Additionally, we're also starting to see benefits from our renegotiated cloud hosting agreement, which we signed earlier this year to align with our expected growth.
+Looking at the rest of our P&L.
+We're investing for growth, and it's clear that it's working, once again reflected in our triple-digit top-line growth rate.
+During the quarter, we made strategic investments in preparation for becoming a public company, enhancing our product and scaling our go-to-market.
+Our non-GAAP operating margin was negative 98%, an improvement over negative 101% in the year-ago quarter, even as we prepared for our IPO.
+In the shareholder letter, we've reiterated our long-term margin targets.
+These are the same targets that we shared during the IPO.
+The key point is that as we progress to our long-term targets, we intend to invest in growth while also improving our margins and profitability.
+A recent example is the diversification of our R&D footprint outside of Israel and Silicon Valley.
+We just announced that we'll be expanding our engineering excellence into the Czech Republic.
+With all of this opportunity in front of us, fiscal 2022 remains an investment year.
+Now for our outlook for Q3 and the full fiscal year.
+In Q3, we expect revenue of $49 million to $50 million, reflecting growth of 102% at the midpoint.
+For the full year, we expect revenue of $188 million to $190 million or 103% growth at the midpoint.
+We expect the strong momentum we saw in Q2 to continue next quarter and our structural tailwinds to persist.
+Combined with ongoing benefits from our product innovation, improved brand awareness, and continuing to scale our go-to-market, this collectively supports our triple-digit growth outlook.
+We expect Q3 non-GAAP gross margin to be between 58% to 59% and full-year gross margin of 58% to 60%.
+Most importantly, this remains well above 53% we reported in the first fiscal quarter this year and at or above 58% we delivered in fiscal 2021.
+We are benefiting from increased scale, cloud hosting agreements, and processing efficiency gains.
+Reflected in our guidance is our plan to migrate existing customers to our Scalyr back end in Q3 and Q4.
+The migration will result in some duplicative storage and processing cost as we ensure data and performance continuity.
+This is intended to further improve data processing for the future and unlock long-term platform and go-to-market synergies.
+Excluding the redundant costs for the Scalyr migration, we estimate fiscal 2022 gross margin would be roughly similar to our gross margin we achieved this quarter.
+Finally, for operating margins, we expect negative 96% to 99% in Q3.
+Our full-year operating margin guidance is for negative 99% to 104%.
+This is an improvement upon our fiscal year 2021 operating margin of negative 107%.
+We see tremendous opportunity for growth, and the investments we're making today will put us in a position to succeed for the long term.
+Finally, we have two quick housekeeping items.
+Both of these are included in the shareholder letter with more detail as well.
+The first item is share count.
+We ended Q2 with total basic shares outstanding of 265 million.
+This is the base run rate going forward.
+The second item is the lockup.
+We have two triggers.
+The first is on September 28.
+If the stock price remains at current levels, it will unlock up to approximately 40 million outstanding shares as of July 31, 2021, excluding vested equity awards.
+The remainder of the lockup will expire subsequent to our Q3 earnings report.
+In closing, Q2 was an excellent quarter with strong execution, and we're expecting that momentum to continue into the second half of the year.

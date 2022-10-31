@@ -1,0 +1,195 @@
+The slides for today's call can be found on the Investors section of our website, along with the news release that was issued today.
+These uncertainties include economic conditions, market demands and competitive factors.
+Also, the discussions during this conference call may include certain financial measures that were not prepared in accordance with generally accepted accounting principles.
+Reconciliations of those non-GAAP financial measures to the most directly comparable GAAP financial measures can be found in the slide deck for today's call, which is posted on the Investors section of our website.
+Turning to slide three.
+As expected, the COVID-19 pandemic led to challenging market conditions in Q2.
+Despite these circumstances, strong execution during the quarter enabled Rogers to deliver solid financial results.
+Before discussing our results in more detail, I'll provide an update on our ongoing response to the COVID-19 pandemic.
+As I highlighted during our last earnings call, our priorities are to manage through the current macroeconomic environment, while building upon our strategic positions and strengths for Rogers' future success.
+From an operations standpoint, all of our manufacturing facilities continue to operate in Q2 as essential businesses and did not experience any significant disruptions related to COVID-19.
+Our factory teams continue to do an excellent job of managing the current situation and adapting to robust health and safety protocols.
+Our nonmanufacturing employees have transitioned seamlessly to remote work arrangements.
+They are maintaining effective collaboration with their colleagues and with our customers, where we continue to secure design wins and support customer needs.
+For example, an OEM customer was at risk of missing a critical milestone in the development of their new EV technology after returning from a forced shutdown.
+Rogers' employees acted with a sense of urgency, engaging on design support and delivering the critical components needed to keep the customer on schedule.
+This dedication, in addition to our balance sheet, market positions and product portfolio gives Rogers a strong foundation to overcome current market dynamics.
+Turning to slide five.
+I'll next discuss our financial results in more detail.
+Q2 net sales of $191 million were down 4% from the prior quarter and were within our guidance range.
+Second quarter gross margin of 36.6% and adjusted earnings per share of $1.13 per share exceeded our guidance.
+Gross margin gains were driven by strong operational execution and favorable product mix.
+As Mike will discuss in more detail, we are very encouraged by the progress we are making on our cost improvement road map.
+We have built considerable momentum, and we will continue to drive this initiative forward as a top priority.
+The 23% increase in adjusted earnings per share from the prior quarter was due to the gross margin performance and our timely actions to manage operating expenses.
+As the current market challenges are expected to extend into the third quarter, we will continue to carefully manage manufacturing costs and operating expenses.
+We generated robust free cash flow of $39 million in the second quarter, and our balance sheet remains strong, enabling us to navigate the current macro environment, while also investing in our future growth.
+From a market perspective, the quarter finished largely as anticipated.
+Sales in our ACS business increased from stronger defense demand and higher wireless infrastructure sales, which were driven by 5G deployments in China.
+The strength in these markets was offset by the significant impacts of COVID-19 pandemic on most other markets, especially general, industrial and automotive.
+One market we typically don't highlight, but it is certainly a strength is aerospace and defense, where recent defense design wins drove sequential sales growth of more than 25%.
+I'll discuss more about the longer-term opportunity in this market later.
+Also, as highlighted, advanced mobility and advanced connectivity continue to comprise nearly 50% of total revenue.
+Both focus areas continue to be important to Rogers, but we are seeing an evolution in the relative opportunity within each of these areas, which we'll look at in greater detail on the next two slides.
+Turning to slide six.
+All three of our business units are focused on opportunities in advanced mobility, which includes EV/HEV and ADAS markets.
+It has become increasingly clear that the momentum behind vehicle electrification is accelerating despite the near-term challenges brought on by COVID-19.
+Recent statements from a number of European, Asian and U.S. automakers point to the rapid progression toward fleet electrification.
+On a broader scale, recently enacted government stimulus programs in Europe are providing an additional catalyst for electric vehicle growth.
+Given this outlook, we are intensifying our focus to prioritize capital investments and dedicate resources to the expanding opportunities in advanced mobility.
+First, in the PES segment, we are well-positioned to take advantage of the 35% plus CAGR expected in this market over the next five years.
+Rogers' leading substrate technology for power semiconductor packaging is used across the spectrum of mild hybrids, plug-in hybrids and full electric vehicles.
+We have a strong product portfolio to address the entire market, including our new silicon nitride substrates, which enable us to participate in the growth of silicon carbide power modules for EVs.
+As a general reference point, although our content opportunity per vehicle can vary based on vehicle type and power levels, our substrate content ranges from $5 in a 48-volt mild hybrid to around $40 in a full electric vehicle.
+Power interconnects provide an additional content opportunity for this market.
+And like our substrate solutions, the dollar content can range broadly.
+We have secured design wins with a number of promising entrants to the EV market and see this as another avenue of growth.
+In our EMS business, we continue to be encouraged by our strong pipeline of design activity and wins with leading automakers and battery suppliers.
+Our content opportunity spans most electric vehicle types and battery technologies with an especially strong opportunity in battery pressure pads, vibration dampening pads and battery pack sealing solutions provide additional content opportunities.
+Similar to our PES business, our content opportunity can vary based on battery size, battery type and other factors.
+However, as an example, Rogers' content opportunity in battery pressure pads for plug-in HEVs and EVs can be greater than $30 per vehicle.
+In ACS, we have a leading position in the ADAS market where there is significant long-term growth opportunity.
+Although the near-term outlook for auto sales is challenging, only around 35% of vehicles manufactured today contain ADAS features.
+As these safety features increasingly become more standard in new vehicles, the market is expected to grow at an 18% CAGR over the next several years.
+Longer-term trends toward autonomous driving are also expected to increase the average number of sensors per vehicle.
+We see these markets in advanced mobility as opportunities that are extremely well-suited to Rogers' strengths, which are developing solutions for applications that demand high-performance and high reliability and providing expert engineering support.
+We are well-positioned across each of these markets, and we'll continue to invest in our capabilities to take advantage of the growth opportunities ahead in advanced mobility.
+Our advanced connectivity focus includes the wireless infrastructure and portable electronics markets, along with other emerging opportunities.
+In wireless infrastructure, trade restrictions and political tensions as well as an ongoing decline in 4G deployments are creating challenges and limiting visibility.
+While this creates uncertainty, industry experts continue to point to the potential for global 5G deployments in excess of one million base stations per year for the next few years beginning in 2021.
+Although the longer-term 5G market outlook is positive, trade and competitive factors continue to moderate this opportunity for us.
+We expect that we will have minimal share with Huawei.
+Also, we are seeing some other OEMs adopt lower content antenna designs that are less technically demanding.
+5G content of high-frequency circuit materials varies based on OEM design and ranges from approximately $100 to $200 per base station for the combined antenna and power amp systems.
+The weighted average content opportunity is closer to the low end of that range, as Chinese OEM customers have adopted lower content designs.
+Turning to portable electronics.
+The overall market has been impacted by the effects of COVID-19 in 2020.
+However, we see a good growth opportunity in 5G handsets, which utilize our elastomeric solutions.
+Sales of 5G phones are expected to grow to around 15% of total units this year and then increase to roughly 30% of the market in 2021.
+Design changes incorporated in 5G handsets are creating greater content opportunity for Rogers' advanced materials in the range of 10% to 15% versus 4G phones.
+High-performance tablets, which contain our circuit materials, are a relatively smaller opportunity, but recent demand has been strong, driven by remote working and education.
+In addition to the other opportunities discussed, we also continue to pursue growth opportunities for high-frequency circuit materials used in low earth orbit Internet service, next-generation advanced antenna materials and high-speed data applications.
+ACS net sales for the second quarter were $71 million, an increase of 10% sequentially.
+Strong growth from the defense market and higher 5G wireless deployments in China were partially offset by an expected decline in ADAS demand due to automotive factory shutdowns.
+Looking ahead to Q3, we expect sales in the defense market to remain strong due to the previously mentioned design wins.
+In the ADAS market, current expectations point to a potential rebound in demand late in Q3, but it remains uncertain when auto sales may return to pre-pandemic levels.
+In wireless infrastructure, we anticipate a decline in Q3 sales from expected lower base station builds and decontenting.
+Recent data from Chinese officials indicates that more than half of the planned 2020 5G installations were completed by the end of June.
+The effects of trade tensions, lower 5G base station content and the ongoing decline in 4G deployments are creating a great deal of uncertainty around our outlook for wireless infrastructure.
+As a result, we believe the growth opportunity in wireless infrastructure is substantially reduced going forward.
+In defense, we have seen a number of significant design wins for multiyear projects.
+This is supporting the outlook for a double-digit growth rate in 2020 and a high single-digit rate going forward.
+In ADAS, although there are near-term challenges, as discussed earlier, the medium to long-term growth projections for this market remain robust with a 5-year CAGR of 16%.
+PES net sales in the second quarter were $45 million, a decrease of 3% as compared to Q1.
+The decline was due to lower sales in the traditional automotive market where demand was significantly reduced by COVID-19.
+Market demand for electric vehicles continues to be strong, but we did see a decline in Q2 sales from EV factory shutdowns.
+We saw moderate increases in industrial power and mass transit market sales, primarily related to customer inventory management rather than stronger end market demand.
+Looking ahead to Q3, we anticipate an improvement in EV/HEV market demand as manufacturing disruptions have now subsided.
+Recent sales of electric vehicles in Europe have also been increasing as COVID-19 restrictions continue to be lifted.
+Offsetting the expected growth in EV sales is a lower outlook for mass transit demand due to ongoing effects from COVID-19.
+Improvements in PES operations contributed significantly to our Q2 gross margin performance.
+Continuing the trend from prior quarters, we again saw improvements in yields and reductions in material usage.
+We are pleased with the improvements, but remain focused on additional opportunities identified in our ongoing cost improvement road map.
+Q2 EMS net sales were $72 million, a sequential decrease of 14%, primarily due to the economic impact of COVID-19.
+The largest decline was in our general industrial and consumer markets, including portable electronics.
+Sales of battery pads and battery pack sealing solutions for the EV/HEV market was a bright spot in the quarter and was driven by stronger demand from Europe.
+For Q3, we expect demand for portable electronics and EV/HEV battery applications to increase.
+Portable electronics is expected to grow in Q3 from both normal seasonal patterns and increased sales of 5G handsets.
+Sales in the general industrial market are anticipated to be similar to Q2 levels.
+While we are seeing some signs of recovery, current visibility remains limited.
+Our sales in this market are correlated with capital spending levels, and given the current economic uncertainty, many companies are delaying investments.
+Lastly, I'll summarize the key messages before passing the call over to Mike.
+First, we took actions to protect our employees' health and well-being, while also continuing to meet our customer needs.
+Second, we managed through a dynamic quarter to deliver solid Q2 results.
+As evidenced by our gross margin and earnings improvement, we maintained focus on our cost improvement road map and took timely actions in response to the current environment.
+We generated strong free cash flow, and our balance sheet remains healthy.
+Lastly, even as near-term visibility is limited, we have maintained a long-term view of the market opportunities.
+We are focused on accelerating our plans to take advantage of the significant opportunities in advanced mobility and pursuing opportunities in 5G technologies in advanced connectivity.
+By leveraging our strong product portfolio and investing in innovation and growth markets, we are positioning the company for the long term.
+In the slides ahead, I'll review our second quarter results, followed by our third quarter guidance.
+Turning to slide 13.
+Second quarter revenues, as previously noted, were $191.2 million, 4% lower than Q1, but within our guidance range of $190 million to $205 million.
+Weak demand in most automotive applications, consumer applications, including portable electronics and general industrial applications were responsible for the lower revenues in Q2.
+Strong demand in the second quarter for materials serving the defense market as well as the anticipated increase in materials for 5G base station deployments, mainly in China, mitigated the revenue decline in the quarter.
+Our gross margin for the second quarter was 36.6%, an increase of 360 basis points compared to the Q1 margin and well above the top end of our guidance range of 32.5% to 33.5%.
+In the quarter, we experienced a more favorable product mix as the higher-margin ACS revenues represented a higher percentage of total revenues.
+In addition, our focus on operational excellence, including improved manufacturing yields, material cost savings and matching our revenues with our demand profile is reflected in the higher gross margin.
+Lastly, we benefited from a China trade legislation decision in the second quarter, which will reimburse Rogers for increased tariffs paid in past quarters.
+This tariff refund of $3.3 million, which we did not anticipate, more than offsets the $3 million for COVID-19-related expenses incurred in the second quarter.
+GAAP operating income for Q2 of $21.1 million included $3.9 million of accelerated amortization for certain intangible assets acquired in the DSP acquisition in 2017.
+As the DSP demand has significantly decreased, we determined that certain of the acquired intangible assets have an economic life that will expire at the end of 2020.
+Accelerated amortization for these intangibles will be $11.7 million in both Q3 and Q4.
+The incremental amortization of $27.4 million through December 31, 2020, will be excluded from our adjusted results, consistent with all amortization for intangible assets acquired in acquisitions.
+Adjusted operating income for Q2 2020 was $29.5 million or 15.4% of revenues, a meaningful increase from Q1 of $22.6 million and 11.3% of revenues.
+The increase in the second quarter was driven by the improved gross margin, as discussed earlier, as well as significantly lower operating expenses, driven both by cost saving activities to mitigate the decrease in revenues and lower travel related expenses resulting from the pandemic.
+GAAP net income for the second quarter of $14.5 million is $1.2 million higher compared to Q1.
+The effective tax rate for the second quarter of 30.6% was significantly higher than the first quarter effective tax rate of 20.6% due primarily to an increase in the reserve for uncertain tax positions in the quarter, resulting from routine audits in foreign jurisdictions.
+GAAP earnings per share for the second quarter was $0.78 per fully diluted share at the top end of our guidance range of $0.58 to $0.78.
+On an adjusted basis, the company delivered earnings per share of $1.13 per fully diluted share in the second quarter, above the top end of our guidance range of $0.80 to $1 per share.
+Turning to slide 14.
+Our Q2 revenues of $191.2 million decreased $7.6 million compared to the first quarter of 2020.
+As Bruce mentioned, EMS revenues decreased 14%, PES revenues decreased 3%, while ACS revenues increased 10% sequentially.
+Currency exchange rates unfavorably impacted second quarter revenues by $1.1 million compared to the first quarter.
+The sequential ACS revenue increase resulted primarily from a 28% increase in wireless infrastructure revenues and a 27% increase in aerospace and defense revenues.
+The increase in 5G was anticipated as China resumed its 5G rollout late in Q1 and continued into the second quarter.
+The 5G demand increase peaked mid-quarter and slowed at the end of the quarter, consistent with the end of the first wave of deployments in 2020.
+The increase in aerospace and defense application revenues came mostly from defense, as we continue to deliver on existing program and capture new programs.
+As expected, ADAS revenues were down significantly compared to Q1 as our customers built inventory in the first quarter and automakers shutdown lasted well into the second quarter.
+We expect demand for ADAS applications to remain weak in the third quarter, even as the auto industry starts to recover as our customers need to work off inventory purchased in the first half.
+Revenues in our EMS segment decreased in Q2 compared to Q1 in all applications with a lone bright spot being EV/HEV battery pad applications, which grew 38%.
+We continue to be encouraged by our engagement in the development and design process and adoption of our materials into new design wins with battery makers for significant OEMs. Revenues for portable electronics, which comprise approximately 25% of the segment revenues, declined 7% in the quarter due to consumer demand softness for handheld devices, exacerbated by the coronavirus pandemic.
+As we exited Q2, we started to see some budding demand for handhelds driven by 5G handsets and increased content in certain 5G phones.
+Revenues for general industrial applications, covering many diverse markets, comprise over 45% of the segment revenues.
+These revenues declined 16% sequentially due to lower demand in areas such as oil and gas and general manufacturing and industrial applications.
+PES revenues decreased in the second quarter compared to Q1 due to weak demand in our automotive applications, both vehicle electrification and EV/HEV applications, including power semiconductor substrates as well as laminated busbars for power distribution.
+Vehicle electrification applications decreased 35% in Q2 due to soft consumer demand for and automaker shutdowns, as discussed earlier.
+The semiconductor substrate revenues for EV/HEV, which account for approximately 25% of the segment revenues, decreased 12% compared to the first quarter; and the laminated busbar revenues for EV/HEVs, which account for less than 10% of the segment revenues, decreased 65% sequentially.
+Both of these sequential declines were primarily due to the production shutdown of a significant EV OEM in the quarter, resulting from the coronavirus threat.
+Revenues for power semiconductor substrates for general industrial applications, which comprise over 30% of the segment revenues, were up close to 6% compared to Q1.
+Spot orders of laser coolers and certain customers for industrial power applications drove the increase.
+But in general, these applications remain relatively weak in the quarter.
+Turning to slide 15.
+Our gross margin for the second quarter was $70 million or 36.6% of revenues.
+The increase in gross margin percentage was due to a favorable product mix and improved manufacturing execution efforts, as mentioned earlier.
+In the quarter, the company spent approximately $3 million associated with the coronavirus pandemic and accrued a benefit of $3.3 million for a refund of increased tariff costs in China.
+The tariff benefit is not expected to repeat in Q3, and the coronavirus pandemic costs are expected to be minimal in the third quarter.
+Gross margins increased significantly for ACS in the second quarter as product mix, cost reduction efforts and the accrual of the tariff refund benefited the margin.
+The higher wireless product revenues, specifically for power amp applications resulted in the more favorable product mix.
+The EMS gross margin was down compared to the first quarter due to lower volumes, resulting in lower absorption of fixed overhead and an increase in inventory reserves for slow-moving products resulting from the lower demand levels.
+In the second quarter, we continued to execute on the PES recovery plan and saw the good results in the improved gross margin.
+We remain encouraged by continued signs of progress made in the quarter for manufacturing yield, continued material cost reduction and optimizing the resources for the demand levels.
+The second quarter progress resulted in a 400 basis point improvement in gross margin for PES in the second quarter.
+Over the past three quarters, through focus on operational execution, we have improved the PES gross margin by over 800 basis points.
+We are encouraged and confident we will capture an incremental 200 to 400 basis points of improvements in the business, subject, however, to increased volumes.
+We continue to focus on operational execution as a key component of gross margin expansion.
+As evidence of the improvement the company has made over the past year, in the second quarter of 2019, the company generated a gross margin of 35.3% on revenues of $243 million.
+In the second quarter of 2020, we generated a gross margin that is 130 basis points higher on $52 million less revenue.
+The improvement is equivalent to approximately 450 basis points of gross margin conversion on equivalent product mix.
+slide 16 details the changes to adjusted net income for Q2 of $21.1 million compared to adjusted net income for Q1 of $17.2 million.
+As discussed earlier, the adjusted operating income for Q2 of $29.5 million and 15.4% of revenues was meaningfully higher than Q1's adjusted operating income.
+Adjusted operating expenses for Q2 of $40.4 million or 21.2% of revenues were $2.7 million lower than Q1 operating expenses of $43.1 million.
+The lower expenses resulted from disciplined cost management to adjust for reduced revenues as well as reduced travel-related expenses resulting from the coronavirus pandemic threat.
+As previously mentioned, Rogers' effective tax rate for the second quarter increased to 30.6%, as a result of recording significantly higher reserves for uncertain tax positions accrued to address certain routine audit findings in foreign jurisdictions.
+We now expect our effective tax rate for 2020 will be 26% higher than our previously communicated expected tax rate of 24% to 25%.
+Turning to slide 17.
+In the second quarter, the company generated strong free cash flow of $39.3 million and ended the second quarter with a cash position of $298.7 million.
+In the quarter, we generated $46.3 million from operating activities, including a $22.3 million reduction in working capital and repaid $50 million on our revolving credit facility.
+We ended the second quarter with a net cash position defined as cash and equivalent balances in excess of the amounts owed under our revolving credit facility of $75.7 million.
+In Q2, the company spent $7 million on capital expenditures.
+We spent $18.2 million year-to-date through June.
+We communicated a capex spending range of $40 million to $45 million for 2020 and expect to come in at the lower end of the range, while continuing to invest to fund growth opportunities in EV/HEV applications.
+We paid down an additional $125 million on our revolving credit facility on July 29.
+The paydown resulted in an outstanding balance on our revolver of $98 million.
+The company ended the second quarter with a strong balance sheet, is well-positioned to withstand the current economic challenges and will look to invest in opportunities to accelerate growth out of the downturn.
+Taking a look at our Q3 2020 guidance on slide 18, we see both opportunities and challenges.
+The opportunities include continued strength in defense for ACS, the portable electronics market preparing to launch 5G handsets benefiting EMS, renewed strength in power semiconductors and laminated busbars for EV and HEV applications in PES with the resumption of manufacturing at a significant OEM and continued progress in the EV/HEV battery pad applications in EMS. The challenges in Q3 included a demand slowdown in wireless infrastructure revenues, as Bruce discussed in his remarks.
+In addition, we anticipate applications selling into the traditional automotive market will be down sequentially in the third quarter, even as signs of a broader automotive recovery become evident as many of our customers will work down inventory levels.
+Lastly, we have not seen many signs of a general industrial recovery early in the third quarter and expect revenues from these applications to be flat compared to the second quarter.
+Our revenue guidance is provided with the assumption that our supply chain will continue to supply critical materials, and we will continue to produce and deliver products for our customers with minimal disruptions from the coronavirus pandemic.
+Therefore, revenues for Q3 are estimated to be in the range of $175 million to $190 million.
+We continue to monitor and flex our spending for manufacturing infrastructure, SG&A and capital expenditures to address the anticipated demand levels.
+Likewise, we continue our pursuit of operational excellence and efficiency.
+Even with these actions, an unfavorable product mix and lower volumes will negatively impact our gross margins in Q3.
+As a result, we are guiding gross margin in the range of 35% to 36%.
+We guide GAAP Q3 earnings in the range of $0.19 to $0.39 per fully diluted share.
+On an adjusted basis, we guide fully diluted earnings in the range of $0.90 to $1.10 per share for the third quarter.

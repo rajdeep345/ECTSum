@@ -1,0 +1,193 @@
+So with that, I'll hand the call over to Blake.
+On the leadership front we have two exciting announcements today.
+First, we've hired Scott Genereux as our new Chief Revenue Officer.
+Scott built strong executive-level customer relationships and has spent most of his career leading global sales forces and major enterprise software and hardware companies.
+These include Oracle and most recently Veritas, and we are thrilled to bring him on board in this newly created role.
+Scott will be responsible for all our worldwide sales and marketing efforts, leading our global go-to-market strategies and accelerating Rockwell's growth, including software sales and annual recurring revenue.
+The second important announcement is that Brian Shepherd has been hired as the new leader of our Software and Control business segment.
+Brian has extensive experience in the industrial software space and joins Scott in bringing proven knowledge about ways to drive faster recurring revenue growth in our business.
+Prior to joining us, Brian was President of Production Software and Smart Factory solutions for Hexagon AB and before that was a longtime executive at PTC where he led strategy and operations for their enterprise software segments.
+He has strong technical expertise across the design, operate and maintain phases of the customer journey and how industrial software can maximize customer value.
+We are excited to have him on board.
+Both Scott and Brian begin on February 1st.
+Finally, I'm happy to report we are well along in our CFO search and expect to make that announcement shortly.
+It's been a busy few months but I'm very pleased with the new talent and fresh perspectives we are adding to our leadership team.
+In other news this quarter, we had a very important win on the legal front.
+In Q1 Radwell International was found liable for trademark infringement and false advertising relating to its resale of Rockwell products.
+This latest legal victory underscores our commitment to protecting our intellectual property as well as our authorized distribution network.
+We're using a portion of the gain that resulted from this ruling to make additional investments this year.
+This includes investments to pull forward software product launches that will increase recurring revenue in fiscal '22 and beyond as well sustainability-related investments to drive our ESG goals.
+With that, let me now turn to our Q1 results on Slide 3.
+In Q1, total reported sales declined 7%.
+Organic sales were down 10% versus prior year.
+Total sales included a two-point positive contribution from our ASEM and Kalypso acquisitions.
+Note that Sensia is now included in our organic results.
+During the quarter we saw a sharp acceleration in order intake, especially for our products.
+Total orders were back above pre-pandemic levels.
+The increased demand was broad-based and well above our expectations and the higher order rates will benefit sales for the balance of the year.
+More on that in a moment.
+I'll now comment on our new business segments.
+Intelligent devices organic sales declined 8%.
+In the quarter we saw positive year-over-year growth in motion, where we believe we are gaining market share.
+Orders in this segment returned to positive growth a quarter ahead of our expectations.
+Software and Control organic sales declined 6%.
+In the quarter we saw year-over-year growth in Network and security infrastructure.
+Lifecycle services' organic sales decline of 16% was led by continued weakness in oil & gas.
+We did see a 25% sequential uptick in Lifecycle services orders in the quarter, which will drive sequential sales improvement through the balance of the year.
+In Information solutions and connected services, organic sales were down slightly in the quarter primarily due to COVID-related project delays.
+However, we saw double-digit organic orders growth in IS as well as strong demand in the cyber security portion of connected services.
+IS/CS built backlog by about 30% versus prior year and we expect IS/CS to have a great year overall, growing double-digits in fiscal '21 with organic sales exceeding $500 million.
+Total backlog grew strong double-digits on an organic basis both year-over-year and sequentially.
+Lifecycle services book-to-bill reached a record of 1.18 reflecting a significant improvement both sequentially and year-over-year.
+Segment operating margin performance of 20% in the quarter was roughly flat with last year on lower sales, a testament to our increasing business resilience.
+Adjusted earnings per share grew 11% versus prior year, including the legal settlement gain.
+Excluding the gain adjusted earnings per share came in above our expectations for the quarter.
+Figures are for organic sales.
+Our Discrete Market segment sales declined by approximately 5% however, we saw strong broad order momentum in the quarter particularly in North America that should benefit sales performance for the remainder of the year.
+Automotive sales declined approximately 10% versus prior year with mid-single digits growth in EMEA offset by tough comparisons in other regions.
+Our EV business significantly outperformed the rest of automotive and include key wins from a major auto brand owner in Europe that is building a new line for EV battery manufacturing.
+We also won at a European Tier 1 OEM, which shows our independent cart technology for the precision motion control necessary to build new electric vehicles.
+These were both hard fought wins where our strong customer support and technology differentiation were important factors in our success.
+Semiconductor grew low-single digits in the quarter and is expected to improve significantly over the balance of the year.
+Strong secular tailwinds in this vertical are prompting some of our largest semiconductor customers to increase their capex spend this year.
+As a result we are raising our semiconductor outlook to high-single digit growth for the year, up from our original guidance of mid-single digit growth.
+Another highlight within discrete was our performance in e-commerce, with sales growing approximately 40% versus prior year.
+This is obviously another industry with secular tailwinds and we're well positioned to provide value that will continue to support its tremendous future growth.
+Our independent cart technology is a long-term differentiator here as it is in battery assembly and the packaging of consumer products.
+Turning now to our Hybrid Market segment.
+This segment grew by low-single digits and accounted for 45% of revenue this quarter.
+Food & Beverage grew low-single digits.
+In addition, packaging OEMs delivered another quarter of double-digit growth versus the prior year.
+Life sciences grew about 10% in Q1 well above our expectation for the quarter led by strong broad-based demand in North America.
+Thermo Fisher is an important part of the vaccine ecosystem and we were very proud this quarter to be awarded a significant multi-year enterprise software order to supply software and professional services to enable their Pharma 4.0 initiative and drive their COVID readiness and response.
+That shows Rockwell's FactoryTalk innovation suite, which uniquely integrates MES, IIoT, analytics and augmented reality in a single software solution to drive productivity.
+FTIS in combination with strong pharma industry expertise, full lifecycle services and best-in-breed digital partner ecosystem were key factors in why Thermo Fisher selected Rockwell.
+While there is a lot of focus on our role in vaccine formulation, we're also working with the broader vaccine ecosystem to support packaging and distribution requirements.
+For every one pallet of vaccines being shipped, 20 to 30 additional pallets of vaccine accessories are required.
+Based on the broad-based increase in life sciences' demand, we're are now expecting life sciences to grow mid-teens in fiscal '21.
+Process markets were down approximately 25% and weaker than we expected led by larger declines in oil & gas.
+Process verticals typically lag our discrete business by about half-a-year.
+Turning now to Slide 5, and our organic regional sales performance in the quarter.
+North America organic sales declined by 11% versus the prior year primarily due to sales declines in oil & gas and automotive.
+Business conditions improved significantly through the quarter and were reflected in strong product orders.
+EMEA sales declined 8% led by oil & gas.
+Sales from food & beverage and water customers were strong in the quarter.
+Sales in the Asia Pacific region declined 7% largely due to declines in process industries that were partially offset by growth in mass transit and semiconductor.
+Asia Pacific backlog reached a record high in the quarter and we do expect strong sales growth in the region for both the upcoming quarter and full year.
+In China, we saw growth in auto with some important greenfield EV battery wins.
+Sequential orders growth in Q1 and double-digit year-over-year growth in backlog support our full-year sales growth outlook in China to be above the company average.
+Latin America declines were led by oil & gas and mining.
+In the region we saw good growth in food & beverage and tire.
+Orders momentum in the first quarter is expected to drive strong growth in the balance of the year.
+The higher top-line guidance is primarily related to improvements in the outlook for life sciences and e-commerce in North America as well as in our global outlook for semiconductor growth.
+Our new reported sales outlook assumes 10% year-over-year growth at the midpoint including 6% organic growth.
+We expect our new software offerings and expanded services will drive double-digit ARR growth in fiscal '21, our new hires will be focused on this objective.
+Our new adjusted earnings per share target of $8.90 at the midpoint of the range represents 13% growth over the prior year.
+A more detailed view into our outlook by end market is found on Slide 7.
+I won't go into the details on this slide but as you can see we expect positive organic sales growth in all of our key end markets this year with the exception of oil & gas.
+Our market uptick in orders for Sensia in the latter part of Q1 sets the stage for improving sales later in the fiscal year.
+I'll start on Slide 8, first quarter key financial information.
+First quarter reported sales were down 7.1% year-over-year.
+Organic sales were down 9.7%.
+Acquisitions contributed 1.8 points of growth and currency translation increased sales by 0.8 points.
+Segment operating margin was 19.8%, slightly below Q1 of last year.
+This is the second quarter in a row that segment margin was about flat year-over-year despite lower sales, so a good result.
+Corporate and other expense of $28 million was down about $5 million compared to last year.
+Last year's amount included transaction fees related to the formation of the Sensia joint venture.
+Note that previously, we referred to this line item as general corporate net.
+The adjusted effective tax rate for the first quarter was 15.4% compared to 8.3% last year.
+The increase in the tax rate is primarily due to a large discrete tax benefit recorded in Q1 last year related to the formation of Sensia and other discrete items.
+As a reminder, beginning with this quarter, we changed the definition of adjusted earnings per share to also exclude the impact of purchase accounting, depreciation and amortization expense.
+First quarter adjusted earnings per share was $2.38.
+As Blake mentioned earlier, this result includes $0.45 related to a favorable legal settlement.
+Adjusted earnings per share excluding the legal settlement was $1.93 identical to last quarter and better than we expected.
+We're pleased with this result since compared to last quarter we were unable to overcome a $0.30 headwind from the reinstatement of incentive compensation and the reversal of temporary cost actions as of the end of November.
+I'll cover year-over-year adjusted earnings per share bridge for Q1 on a later slide.
+Free cash flow was $319 million in the quarter including the $70 million legal settlement.
+Free cash flow conversion was 115% of adjusted income.
+One additional item not shown on the slide.
+We repurchased 356,000 shares in the quarter at a cost of about $88 million.
+This is in line with our full-year placeholder of about $350 million.
+At December 31, $766 million remained available under our repurchase authorization.
+Slide 9 provides the sales and margin performance overview of our operating segments.
+As a reminder, this is the first quarter we're reporting under our three segment structure, the new three segment structure.
+The Intelligent Devices segment had an organic sales decline of 7.9% in the quarter.
+Segment margin was 19.4%, 130 basis points lower than last year, mainly due to lower sales partially offset by temporary and structural cost savings.
+As Blake highlighted earlier, we had a strong order performance in the quarter particularly in our product businesses.
+Intelligent devices' orders grew low-single digits year-over-year and high-single digit sequentially.
+Software and Control segment organic sales declined 6.2% in the quarter.
+Acquisitions contributed 2.7% to growth and segment margin was 30.2%, which was 80 basis points lower than last year's strong margin performance mainly due to lower sales, partially offset by temporary and structural cost savings.
+Software and control orders also grew low-single digits year-over-year and high-single digits sequentially.
+Organic sales of the Lifecycle Services segment declined 16.3% year-over-year as the recovery in this segment's offerings tends to lag our products businesses.
+Acquisitions contributed 3.9% to growth and operating margin for this segment increased 50 basis points to 8.9% versus 8.4% a year ago despite lower sales.
+Contributing to the lower year-over-year margin improvement -- I'm sorry, contributing to the year-over-year margin improvement were temporary and structural cost savings and the absence of Sensia one-time items recognized in the first quarter of fiscal 2020.
+First quarter book-to-bill performance for the Lifecycle Services segment was 1.18, a strong start to the year.
+The next Slide 10 provides the adjusted earnings per share walk from Q1 fiscal 2020 to Q1 fiscal 2021.
+Starting on the left, core performance had a negative impact of about $0.25 driven by lower organic sales.
+Temporary cost actions partially offset the sales impact by $0.20.
+These were the salary reductions and 401(k) match suspension that we implemented in Q3 of fiscal 2020, which remained in effect through the end of November 2020.
+Incentive compensation was a year-over-year headwind of about $0.10.
+Tax was a headwind of about $0.10 primarily due to the Sensia-related tax benefit recorded last year and other discrete items.
+Acquisitions contributed about $0.05.
+This represents the positive contribution from acquisitions that we completed in 2020 and so far in 2021.
+As a reminder Sensia is now reported in core.
+Finally, as mentioned earlier, the legal settlement contributed $0.45 to adjusted EPS.
+Moving to Slide 11, monthly product order trends.
+This slide shows our order -- daily order trends for our Software and Control and Intelligent Devices segments excluding the longer lead time configured to order offerings.
+The trend shown here accounted for about two-thirds of our overall sales.
+Order intake for products improved again this quarter as the recovery continue.
+As you can see there was a sharp acceleration in demand in November and December.
+Orders for the Lifecycle Services segment also improved in the quarter but are recovering slower than product orders.
+A strong order performance resulted in record total company backlog growing over 20% year-over-year and double-digits sequentially.
+Our quarterly product order trends are shown on Slide 12.
+This is the same data as the prior slide summarized by quarter.
+Our order levels in the first quarter are now clearly above pre-pandemic levels, both for products and the total company.
+This takes us to Slide 13, updated guidance.
+We are increasing our organic sales growth outlook by 1 point.
+The new range is 4.5% to 7.5% with a midpoint of 6%.
+Given the weaker U.S. dollar we now expect currency translation to contribute about 2.5% to growth.
+We expect acquisitions to contribute about 1.5%.
+In total, the midpoint of our reported sales guidance range is 10%.
+We have also updated the adjusted earnings per share guidance range to $8.70 to $9.10.
+I'll review the bridge from the prior guidance midpoint and the new $8.90 midpoint on the next slide.
+Segment operating margin is now expected to be about 19.5%.
+The lower margin compared to prior guidance reflects the software investments that Blake mentioned earlier and the impact of the Fiix acquisition.
+These will primarily affect the Software and Control segment and will be weighted toward the third and fourth quarters.
+Our adjusted effective tax rate is expected to be about 14%, the same as prior guidance.
+As mentioned last quarter, this includes a 300 basis point benefit related to discrete items, which we expect to realize late in the fiscal year.
+We continue to project free cash flow conversion of about 100% of adjusted income.
+A few additional comments on the fiscal 2021 guidance.
+Corporate and other expense is expected to be between $105 million and $110 million.
+Purchase accounting amortization expense for the full year is expected to be about $50 million.
+Net interest expense for fiscal 2021 is still expected to be between $90 million and $95 million.
+Finally, we're still assuming average diluted shares outstanding of about 117 million shares.
+This takes us to Slide 14.
+This slide bridges the midpoint of our November adjusted earnings per share guidance range to the midpoint of our new guidance.
+Starting on the left, there is a higher contribution from core operating performance, primarily due to the higher organic sales guidance.
+Currency is projected to add about $0.05 compared to prior guidance.
+Next, given the increase in guidance, there is about a $0.10 impact from higher bonus expense.
+Finally, there is the $0.45 contribution from the Q1 legal settlement, partially offset by about $0.35 for the incremental investments and the impact of the Fiix acquisition.
+The new midpoint of the guidance range is $8.90.
+Finally, a couple of quick comments regarding fiscal Q2.
+Given our strong order performance in Q1, we expect Q2 sales to grow sequentially and to be about flat year-over-year.
+We expect second half year-over-year organic sales growth in the mid-to-high teens.
+As a reminder, as we mentioned on the last earnings call, Q2 will have the largest year-over-year headwind from the reinstatement of the bonus in the range of $50 million.
+With that, I'll hand it back to Blake for some additional comments.
+Historically, the pace of recovering demand for our products after a recession has come faster than we predicted when we were still in the downturn.
+This recovery is looking similar so far and we will see Q2 sales and earnings begin to reflect the torn of orders we received in November and December, with significant double-digit year-over-year growth expected in the second half of the year.
+The rate of infections in each region around the world has had a direct impact on the timing and rate of their respective economic recoveries.
+The Americas were last in and seem to be the last to recover, with our sales most highly correlated to this geography given our revenue there.
+We are working over time to meet this demand and staying close to our component suppliers around the world.
+We are actively hiring an additional capacity for Logix, it's coming online this month.
+The new Milwaukee manufacturing center is working two shifts a day to keep pace with this increased level of orders activity.
+Turning to Slide 15.
+We're also investing in software development to drive our future growth.
+Last November at our Investor Day, we talked about how we will be releasing Software as a Service within our FactoryTalk portfolio to add value in the design, operate and maintenance phases of the customers' investment lifecycle.
+The recent legal settlement gain will allow us to advance these deliverables.
+Recent acquisitions are playing an important role in these offerings as well with fixed software central to FactoryTalk Maintenance Hub within the Software and Control business segment.
+Fiix is already showing great momentum and just booked their first million dollar annual recurring revenue contract.
+Their leadership is already a part of the larger plans for accelerating our SaaS offerings.
+It all begins with great people and I continue to be immensely proud of our employees in all parts of the organization and around the world.
+We continue to hire top talent and the two new members of the team we announced today will add to an already great leadership team.
+With that, let me pass the baton back to Jessica to begin the Q&A session.
+Michelle, let's take our first question.

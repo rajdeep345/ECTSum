@@ -1,0 +1,142 @@
+It has been a very busy eight weeks.
+Along with Bryan, our CFO, Sherry Buck, is joining me in today's call.
+During the call, I will provide a brief overview of our third quarter operating results and then share some of my early impressions of the company and the opportunities that I see.
+Sherry will then review our financial results in detail and provide comments on our fourth quarter financial outlook.
+Let's start with the third quarter.
+Our teams have worked tirelessly during the pandemic to stay close to our customers.
+We've seen a cautious return to work by our customers and this is reflected in our results.
+After steep declines in the second quarter, third quarter sales were up 2% year-over-year on a constant currency basis and adjusted earnings per share grew 1%.
+First, from a customer perspective, our largest segment, Pharma, was the primary growth driver in the quarter with 4% organic growth, followed by Industrial, which grew 3% and Academic and Government, which declined 7%.
+From a product perspective, our Waters branded products and services grew 3% organically, while TA declined by 8% on a constant currency basis.
+Improving access to labs, especially in pharma, continued to help drive growth in the recurring revenues.
+Services grew 4%, while consumables business grew approximately 7% organically, driven largely by pharma.
+Consumables remained a growth area for us.
+In fact, earlier this month, we introduced our ACQUITY PREMIER Columns, which reduce variability risks and save time when analyzing metal-loving analytes, ranging from oligonucleotides, peptides, glycans and phospholipids.
+The chemistry on the surface reduces unwanted analyte to surface interactions to produce real improvements in sensitivity, peak shape and recovery.
+The third quarter was strong for our mass spec systems with double-digit growth.
+We were encouraged by the demand of our high-resolution mass spec systems in pharma and biomedical research, particularly in the U.S. and Europe and the demand for our tandem quad systems in food safety in China.
+BioAccord also grew nicely in the quarter.
+However, it still does not represent a material portion of our revenue.
+With its simplicity and dedicated workflows in peptide mapping, glycan analysis, intact mass and oligonucleotide analysis, we believe it is the right instrument to bring LC-MS into the manufacturing in QA/QC space.
+I have spent time with several of our customers who are using BioAccord instruments and many of them highlighted its ease of use and a robust feature set that can be utilized across multiple lab applications.
+So, I think BioAccord has a good future, but I also think it will take longer than originally anticipated to significantly impact our core growth.
+This is a dynamic Waters has seen with prior new product launches, such as ACQUITY, which took almost four years to reach its peak sales.
+LC Instruments also saw a better quarter after double-digit declines in the first half of the year with a modest decline in Q3.
+Some of this improvement can be directly attributed to Arc HPLC, which was launched in June.
+Finally, to TA, revenues continued to decline in the high-single digits due to constraint capital spending at our industrial customers.
+Pharma and electronics revenue saw a nice double-digit increase, but this was not enough to offset the industrial declines.
+Turning to our key geographies, both the Americas and Europe grew mid-single digits, while Asia was flat.
+In the U.S., the growth was driven by pharma, food and academia, partially offset by declines in material science and clinical.
+We saw especially strong engagement with customers who are assisting the fight against the pandemic.
+Latin America remained soft, mostly due to the continued impact of closures due to COVID-19.
+Europe also experienced a recovery with mid-single digit growth, largely driven by biologics, CROs and genetics, including strong growth at large pharma accounts.
+After very significant declines in the first half, China grew at low-single digits, driven by an acceleration in food and pharma as well as strength in TA Instruments driven by investments in 5G networks across the country.
+This was partially offset by continued weakness in academia and government.
+India also recovered with double-digit growth.
+The third quarter benefited from some catch-up of revenues, which was delayed from the first half of the year.
+And looking ahead, while customer activity and access are improving, we remain cautious.
+We continue to face variability in our end markets and macroeconomic concerns prior to COVID-19, and academic customer trends remain depressed.
+Moreover, we are uncertain on the level of capital spending in the fourth quarter, particularly by our pharma and industrial customers.
+Now, let me share with you some of my early thoughts on the company.
+As a former researcher who have used Waters products in the lab, as an engineer who has modified rheometers and DSCs, and as a former customer, I believe my 25-year experience at pharma and tools has prepared me well to work with my colleagues to transform Waters.
+Indeed, it is a transformation to return a champion to where it belongs.
+Since the announcement in mid-July, I spent most of my time listening and learning.
+I met with investors and shareholders, including many of you; talked with and visited customers; read and researched and conducted many deep dives with my colleagues around the globe.
+My learning is far from done.
+But today, I can share with you few ideas that resulted from this deep transparency phase.
+First, Waters has built a solid foundation with exposure to a number of attractive end markets.
+Second, despite the strong foundation, our momentum has stalled in the last few years.
+Third and finally, we are already developing a transformation plan with tangible short-term actions.
+Let's take each of these in turn.
+First, we have a solid foundation in attractive markets.
+Our largest end market, pharma, is benefiting from growth of biologics and continued development of novel modalities.
+Moreover, our strong base of small molecules, which represents approximately 75% to 80% of pharmaceutical industry sales will benefit from the growth of CROs, oligonucleotides and mRNA therapeutics, as well as the increasing potential for repatriation of small molecule manufacturing.
+We have a global footprint with 25% of our sales coming from China and India.
+We have a solid base in these markets that is characterized by trusted brands, deep customer relationships and a culture that is rooted in science and engineering.
+In my customer meetings, Waters' employees are acutely aware of the issues facing our customers and are so tightly integrated with them that I often had a tough time distinguishing between our employees and that of our customers.
+Second, despite the strong foundation, we have underperformed both our historical growth and that of the market for the last few years.
+Our performance has trailed the market in LC, mass spec and thermal analysis.
+We were slow to respond to the transition of food testing from government labs to contract testing labs in China.
+Our product launches have not met expectations that we set.
+BioAccord, while a product that clearly meets the need, has been slower on the uptake than anticipated.
+Our culture is one that appreciates deep scientific insights, but one that has lacked focus and urgency.
+Strategically, the focus on our portfolio on LC, LC-MS and thermal analysis has limited our ability to keep up with the emerging trends like bioprocessing, contract manufacturing and testing or diagnostics.
+This is evident in our lack of exposure to tailwinds from COVID-19 as compared to some of our peers.
+Third, where to from here?
+While we are still continuing an in-depth analysis and developing our transformation strategies, some teams are already emerging.
+And let me break these into three.
+First, in the near term, we're focused on making changes to regain commercial momentum.
+Second, in the mid-term, the focus is on the pipeline and organic growth with intense focus and urgency.
+And finally, as we strengthen our organic growth, we will start to examine strategic investments.
+Let me give you some concrete examples in the near term.
+First, we are squarely focused on regaining our footing in healthy instrumentation.
+For instance, we've identified all the units in both our installed base and in the larger and power network and implemented a specific program to upgrade and replace older systems with Waters HPLC instrument portfolio, including with the new Arc HPLC.
+For example, there are thousands of Alliance Systems in service that are more than 20 years old and in need of an upgrade.
+Second, approximately 20% of our consumable sales go through the e-commerce channel.
+For many of our competitors, this number is over 50%.
+In the near term, we're implementing actions to increase traffic to these channels, such as increasing paid search and improving search engine optimization.
+Third, our penetration in CRO channel trails our competition.
+We will increase our commercial presence to penetrate this growing channel at a level that better aligns with our peers.
+Fourth, as I mentioned earlier, we still have a lot of faith in the success of BioAccord.
+Customers in QA/QC are conservative, and we need to spend a lot more time developing methods in collaboration with them and further developing enterprise-level software to help them deploy the system seamlessly.
+As you can see, they are near-term actions that are backed by detailed targets and KPIs.
+However, I want to be clear, these changes will take time and will not significantly impact our results overnight, especially as we implement these initiatives on the background of COVID-19.
+However, I can assure you the team is very engaged and have seen an impressive increase in drive and ambition in the eight weeks that I've been here.
+With that, I'd like to pass the call over to Sherry Buck, for a deeper review of the third quarter financials.
+In the third quarter, we recorded net sales of $594 million, an increase of approximately 2% in constant currency.
+Currency translation increased sales growth by approximately 1%, resulting in sales growth of 3%, as reported.
+In the quarter, sales into our pharmaceutical market increased 4%, sales into our industrial market increased 3%, while academic and governmental markets declined 7%.
+Looking at our product line growth, our recurring revenue, which represents the combination of precision chemistry products and service revenue, increased by 5% in the quarter, but instrument sales declined 1%.
+As we noted last quarter, there was no year-over-year difference in the number of calendar days during the third quarter.
+Industry revenues were up 7% in the third quarter, driven by strong pharma market growth.
+On the service side of our business, revenues were up 4% as on-demand service bounced back to mid-single digit growth along with continued growth in service plan revenues within the Waters product line, bringing third quarter product sales down further.
+Sales related to Waters branded products and services grew 3%, while sales of TA branded products and services declined 8%.
+Combined LC Instrument platform sales and LC-MS Instrument platform sales were flat and TA's instrumentation system sales declined 10%.
+Looking at our growth rates in the third quarter geographically and on a constant currency basis, sales in Asia were flat with China up 3%, sales in Americas grew 2% with U.S. growing 5%, and European sales grew 5%.
+Before I comment on our third quarter non-GAAP financial performance versus the prior year, I'd like to update you on the progress of our cost actions in response to the COVID-19 pandemic.
+We are on-track to achieve cost savings of approximately $100 million for the year relative to our pre-COVID internal plan.
+We achieved approximately 25% of our planned annual savings in the third quarter, bringing our year-to-date savings against our internal plan to 85%, with the majority recognized in the second quarter.
+We expect to realize remaining 15% in the fourth quarter.
+Returning to our third quarter non-GAAP financial performance, gross margin for the quarter was 55.8% compared to 58.2% in the third quarter of 2019, primarily as a result of unfavorable FX as well as fixed cost absorption and sales mix.
+Moving down the third quarter P&L, operating expenses increased by approximately 1% on a constant currency basis and foreign currency translation increased operating expense growth by approximately 2% on a reported basis.
+The increase was primarily attributable to the timing of variable costs in the prior year quarter and FX.
+In the quarter, our effective operating tax rate was 15.8%, which was about flat for the prior year.
+Net interest expense was $7 million, a decrease of about $1 million.
+Our average share count came in at 62.3 million shares, a share count reduction of approximately 7% or about 4 million shares lower than in the third quarter of last year as a result of shares repurchased through the end of the first quarter of 2020, subsequent to which we paused the share repurchase program.
+Our non-GAAP earnings per fully diluted share for the third quarter increased to $2.16 in comparison to $2.13 last year.
+On a GAAP basis, our earnings per fully diluted share decreased to $2.03 compared to $2.07 last year.
+Turning to free cash flow, capital deployment and our balance sheet, I'd like to summarize our third quarter results and activities.
+We define free cash flow as cash from operations, less capital expenditures and excluding special items.
+In the third quarter of 2020, free cash flow grew 53% year-over-year to $190 million, after funding $28 million of capital expenditures.
+Excluded from free cash flow was $7 million related to the investment in our Taunton precision chemistry operation and a $38 million transition tax payment related to 2017 U.S. Tax Reform.
+In the third quarter, this resulted in $0.32 of each dollar of sales converted into free cash flow and $0.31 year-to-date.
+Our increased free cash flow is primarily a result of our cost savings actions and improvements in our cash conversion cycle.
+We continue to make good progress on our working capital improvement plans.
+Accounts receivable days sales outstanding came in at 76 days this quarter, down four days compared to the third quarter of last year and down 11 days from the second quarter.
+Inventories decreased by $42 million in comparison to the prior year quarter, reflecting stronger revenue growth and revised production schedules.
+Waters maintains a strong balance sheet, access to liquidity and a well-structured debt maturity profile.
+We ended the quarter with cash and short-term investments of $397 million and debt of $1.6 billion on our balance sheet at the end of the quarter.
+This resulted in a net debt position of $1.2 billion and a net debt-to-EBITDA ratio of about 1.6 times at the end of the third quarter.
+We also have $1.2 billion available on our bank revolver for total available liquidity of $1.6 billion at the end of third quarter.
+Our capital deployment priorities remain consistent: invest for growth, balance sheet strength and flexibility and return of capital to shareholders.
+We remain committed to deploying capital against these priorities.
+Our future capital structure target of approximately 2.5 times net debt-to-EBITDA remains unchanged, while our near-term focus is maintaining financial flexibility and variability in the macro environment.
+While our share repurchase program is paused during the fourth quarter, it still remains an important part of our capital deployment priority.
+We will provide an update on our capital deployment plans during our Q4 earnings call in February of 2021.
+Lastly, I would like to make a few comments on our outlook.
+Market conditions remain variable, largely due to the COVID-19 pandemic.
+As a result, we're not in a position to provide detailed guidance.
+However, I'd like to provide you with color on how we're viewing market conditions in the fourth quarter.
+We assume similar levels of customer access as we saw in the third quarter, which reflects the challenging macro environment.
+Our outlook does not anticipate a return to lockdowns seen earlier in the year at the height of the pandemic.
+And in addition, we believe that some delayed purchases from the first half of the year were realized during the third quarter and there is limited visibility into year-end capital budgeting plans for both pharma and industrial customers in the fourth quarter.
+In light of these dynamics, we anticipate that fourth quarter revenue, on a constant currency basis, will most likely decline at a low- to- mid-single digit range.
+In addition, I'd like to provide a few other assumptions that will be helpful for modeling purposes.
+Recurring revenue benefits from two additional calendar days in the fourth quarter of 2020 compared to 2019, which is factored into our outlook.
+We now expect full year operating expenses to be in the range of down 1% to flat year-over-year in constant currency.
+For the full year, at current rates, currency translation is expected to be about neutral to sales growth to positively impact operating expense growth by less than 1 percentage point and to negatively impact earnings per share by about 3 percentage points.
+For the full year, net interest expense is expected to be in the range of $38 million to $40 million primarily due to lower debt levels.
+In summary, we're pleased with the third quarter results, but market conditions remain variable amid ongoing macroeconomic uncertainty, lingering concerns around fourth quarter capital spending by both pharma and industrial customers and academic customer trends.
+Overall, I believe that we have a solid foundation.
+But to return to our deserved place in the tools industry, we need to improve our operational execution in the short-term and focus our teams on what matters.
+And then in the mid-term, our focus will return to strategically building our portfolio.

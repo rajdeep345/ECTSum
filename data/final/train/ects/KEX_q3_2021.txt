@@ -1,0 +1,134 @@
+During this conference call, we may refer to certain non-GAAP or adjusted financial measures.
+These statements reflect management's reasonable judgment with respect to future events.
+A list of these risk factors can be found on Kirby's Form 10-K for the year ended December 31, 2020.
+Earlier today, we announced adjusted earnings of $0.17 per share for the 2021 third quarter, which excludes a onetime noncash charge totaling $4.58 per share related to our coastal marine business.
+On a GAAP basis, we reported a net loss of $4.41 per share.
+Overall, our quarter was messy, with the onetime charge in coastal, a devastating hurricane, which significantly impacted our inland marine business and increased issues related to COVID-19.
+We'll talk more about each of these, including the onetime charge in a few moments.
+But first, I'll discuss our key markets.
+In Marine Transportation, our inland business started the quarter with improving customer demand.
+In August, however, barge volumes declined as the cases of the COVID-19 Delta variant increased, which slowed the pace of the economic recovery and reduced demand for refined products and crude.
+Vehicle miles traveled in the U.S. declined, including an overall 4.4% decline in August, with all regions of the U.S. impacted.
+In our operations, we experienced a meaningful rise in positive cases among our mariners.
+As a result, we incurred increased costs to charter additional horsepower during the quarter to ensure our operations were seamless.
+Our inland business was also materially impacted by Hurricane Ida, a significant category four storm, which made land fall near New Orleans in late August.
+This storm left a widespread path of destruction, which led to prolonged shutdowns of many customer plant as well as significant damage to marine equipment and waterway infrastructure.
+As this storm approached, all refineries and chemical plants in the New Orleans, Baton Rouge corridor were forced into shutdowns.
+The storm damage was so significant that many remain closed or operating at reduced production levels through September and, in some cases, well into October.
+At the height of the storm, more than two million barrels of refinery capacity per day was offline, reducing PADD three refinery utilization from 93% in August to 79% in September.
+In the petrochemical sector, with nearly the entire complex shut down operating rates at nameplate ethylene plants in the Southeast -- excuse me, in Southeast Louisiana declined from 89% in August to 24% in September, and production fell as much as 75% compared to August.
+From a Marine Transportation perspective, the storm surge was so significant, the Mississippi River flow backwards, causing many industry barges to break free and resulting in damage to numerous vessels, customer docks and waterway infrastructure.
+It's been estimated that as many as 2,000 dry cargo and tank barges were damaged during the storm, which included 30 Kirby tank barges.
+All of this resulted in a full closure of the Mississippi River for about a week and a lengthy closure of parts of the Gulf Intercoastal Waterway, which remains in effect today.
+This closure has resulted in lengthy alternative routes and significant lock delays throughout September and October.
+Overall, we estimate the damage caused by the hurricane on our equipment directly contributed to lost revenue and additional costs totaling approximately $0.08 per share during the third quarter.
+The market remained challenging during the third quarter, but we did experience some increases in spot market demand, which contributed to modest increases in barge utilization and reduced operating losses.
+More importantly, we took significant actions to improve our coastal business, including the sale of our Marine Transportation assets in Hawaii and the retirement of 12 laid-up wire tank barges and four tugboats in the coastal fleet.
+These actions resulted in a onetime noncash impairment charge in the third quarter.
+However, there are significant positives, and it positions the coastal business for success going forward.
+First, our risk profile is greatly reduced by exiting Hawaii, which is a remote market that has generated poor returns for many years.
+The retirement of our outdated and laid-up coastal wire barges and tugboats improves our cost structure and materially reduces future capital outlays.
+Frankly, many of our customers view the old wire tow technology as less safe and less reliable when compared to newer ATBs.
+Overall, going forward, we expect our smaller fleet will allow us to focus on attractive markets and more efficient, safe and cost competitive equipment will ultimately generate improved earnings and favorable returns.
+In Distribution and Services, momentum continued to build with improved activity levels contributing to significant sequential and year-on-year increases in revenues and operating margins.
+In commercial and industrial, the timing of major backup power installations and seasonal utilization improvements in the rental fleet led to strong sequential activity in power generation.
+Increased demand for Thermo-King product sales and service also contributed favorably to the quarter's results.
+These gains were partially offset by modest activity reductions in marine repair primarily due to major -- excuse me, due to reduced major overhauls and temporary facility closures following Hurricane Ida.
+In oil and gas, increasing U.S. rig counts and completions activity drove strong incremental demand for new transmissions, parts and service from major oilfield customers.
+This growth contributed to 25% sequential growth in oil and gas revenues and positive operating margins for the first time in more than two years.
+In manufacturing, although supply chain constraints delayed the deliveries of several orders and led to a sequential reduction in revenues, our backlog grew meaningfully with significant new demand for our environmentally friendly pressure pumping and electric power generation equipment.
+In October, Kirby acquired a small energy storage systems manufacturer based in Texas, which has been a key partner in the development of our new power generation solutions for electric fracturing equipment.
+This acquisition will be important to the development of future energy storage solutions for the oilfield as well as industrial and Marine Transportation applications.
+In summary, our third quarter results reflected a challenging environment as well as key operating decisions in coastal marine.
+The good news is that we have seen a significant improvement in inland market fundamentals in recent weeks, with increasing customer demand and higher barge utilization in the high 80% range.
+Distribution and Services also continues to improve with the economy.
+In a few moments, I'll talk more about these developments as well as the rest of our outlook.
+Before I review our segment results, I want to provide a little more detail on the onetime charge in coastal marine.
+During the third quarter, we sold our coastal Marine Transportation assets in Hawaii, including four tank barges and seven tugboats for cash proceeds of $17.2 million.
+We also retired 12 wire tank barges and four tugboats, which had limited customer acceptance and low utilization.
+These events resulted in a noncash impairment charge of $121.7 million.
+As a result, the company concluded that a triggering event had occurred and performed interim quantitative impairment test on coastal goodwill, which resulted in a noncash impairment charge totaling $219 million.
+In total, the company recorded a noncash impairment related to coastal marine equipment and associated goodwill totaling $340.7 million before tax, $275 million after tax or $4.58 per share.
+Looking at our operating segments.
+In the third quarter, Marine Transportation revenues were $338.5 million with an operating income of $16.9 million and an operating margin of 5%.
+Compared to the 2020 third quarter, marine revenues increased $17.9 million or 6%, primarily due to higher fuel rebuilds in inland and coastal as the average cost of diesel fuel had increased 76%.
+Improved barge utilization in inland is offset by lower pricing on term contracts that had renewed during the last year.
+Operating income declined $15.5 million primarily due to Hurricane Ida, lower term contract pricing and increased maintenance.
+Compared to the 2021 second quarter, marine revenues increased $5.6 billion or 2% due to modest improvements in coastal barge utilization and increased fuel rebuilds.
+Operating income declined $1.6 million as a result of sales mix, increased horsepower costs and the impact of Hurricane Ida.
+During the quarter, the inland business contributed approximately 76% of segment revenue.
+Average barge utilization was in the low 80% range, which was slightly down compared to the second quarter, but improved compared to the low 70% range in the 2020 third quarter.
+Barge utilization during the quarter was heavily impacted by reduced volumes as a result of COVID-19 Delta variant and customer shutdowns following Hurricane Ida.
+Long-term inland Marine Transportation contracts or those contracts with a term of one year or longer contributed approximately 65% of revenue, with 56% from time charters and 44% from contracts of affreightment.
+With respect to pricing, average spot market rates were stable compared to the second quarter and the 2020 third quarter.
+Of the few term contracts that renewed during the third quarter, average rates were down in the low to mid-single digits.
+Compared to the 2020 third quarter, inland revenues were up 3% due to significant increases in fuel rebuilds and improved barge utilization, offset by lower average pricing on term contracts.
+Compared to the second quarter, inland revenues were stable.
+Overall, the inland market represented 76% of segment revenues and had an operating margin in the mid- to high single digits.
+In coastal, spot market conditions improved modestly, resulting in barge utilization in the mid-70% range during the quarter.
+Average spot market rates and renewals of term contracts were stable.
+During the third quarter, the percentage of coastal revenues under term contracts was approximately 80%, of which approximately 85% were time charters.
+Revenues in coastal increased 4% sequentially and 13% compared to the 2020 third quarter, primarily due to higher fuel rebuilds and modest increases in spot market activity.
+Overall, coastal represented 24% of Marine Transportation segment revenues and at a negative operating margin in the low single digits.
+Moving to Distribution and Services.
+Revenues for the 2021 third quarter were $260.4 million, with an operating income of $11 million and an operating margin of 4.2%.
+Compared to the 2020 third quarter, Distribution and Services revenue increased $84.4 million or 48%, and operating income improved $9.9 million.
+Compared to the 2021 second quarter, revenues increased $33.7 million or 15%, and operating income increased $4.9 million.
+These improvements are primarily due to a significant increase in demand for our oil and gas products and services as well as the improved economic conditions across the U.S., which has raised demand for equipment, parts and service in the commercial and industrial markets.
+In commercial and industrial, increased economic activity contributed to the increased sequential and year-on-year demand for equipment, parts and service in on-highway, Thermo King and power generation.
+The power generation rental fleet also benefit from increased utilization during the summer storm season, including Hurricane Ida.
+Marine repair revenues were down sequentially and year-on-year due to reduced major overhauls as well as activity reductions at our Louisiana facilities following Hurricane Ida.
+During the third quarter, commercial and industrial revenues increased 9% sequentially and 20% year-on-year.
+Overall, the business represented approximately 59% of segment revenue and had an operating margin in the mid-single digits.
+In oil and gas, favorable commodity prices and increased activity in the oil field contributed to significant sequential and year-on-year increases in revenues and operating income.
+The most significant increase was in our distribution business, with better demand for new transmissions, parts and service from major oilfield customers.
+Our manufacturing businesses also experienced substantial increases in new orders for pressure pumping and frac-related power generation equipment.
+While manufacturing revenues increased sharply year-on-year, the business was negatively impacted by the timing of deliveries and OEM supply chain issues.
+During the third quarter, oil and gas revenues increased 25% sequentially and 120% year-on-year.
+Overall, the oil and gas-related businesses represented approximately 41% of segment revenue and had an operating margin in the low to mid-single digits.
+Turning to the balance sheet.
+As of September 30, we had $54 million of cash and total debt of $1.21 billion, with a debt-to-cap ratio of 29.8%.
+Since the Savage acquisition of April 1, 2020, we have repaid nearly $500 million in debt.
+During the quarter, we generated strong cash flow from operations of $83 million, net of capital expenditures of $34 million.
+Free cash flow was $49 million.
+We also sold assets with net proceeds of $22 million during the quarter, primarily composed of coastal marine assets in Hawaii.
+At the end of the quarter, we had total available liquidity of $908 million.
+As of this week, our net debt has been further reduced to $1.2 billion.
+For the full year, we expect capital spending to be approximately $120 million to $130 million, which represents more than a 15% reduction compared to 2020 and is primarily composed of maintenance requirements for our marine fleet.
+We also expect to generate free cash flow of $250 million to $290 million for the full year.
+Lastly, from a tax perspective, we expect an effective tax rate of approximately 29% in the fourth quarter.
+Although the third quarter certainly had its challenges, we are very encouraged by the improving market fundamentals across our businesses, which are setting the stage for materially improved earnings in the coming year.
+In the near term, for the fourth quarter, we expect a sequential improvement in overall revenues and earnings driven by increased volumes and more favorable market conditions in Marine Transportation, offset in part by nominal and normal [Technical Issues] and continued supply chain issues in Distribution and Services.
+In the inland market, although some issues associated with Hurricane Ida have carried over, including extended customer shutdowns, barge repairs and waterway closures, our outlook remains very positive.
+During October, our barge utilization has been in the mid-80% to high 80% range, with recent utilization at the high end of that and in the high 80s.
+Some of this increase can be attributed to waterway closures in Louisiana, which have extended transit times.
+However, turnarounds and pent-up demand are also driving up barge volumes.
+While the waterways are expected to fully reopen soon, we expect barge utilization levels will be minimally impacted due to the ramping up of Hurricane Ida affected plants, economic improvements, new chemical plants coming online and the onset of winter weather.
+With increased inland activity levels, minimum new barge construction and continued retirements, we expect further improvements in the spot market going forward.
+During the fourth quarter and into next year, term contracts that renewed lower during the pandemic are expected to reset and gradually reset to reflect the improved market conditions.
+Overall, inland revenues are expected to sequentially increase in the fourth quarter, with operating margins improving to around 10%.
+In coastal, we expect the market will continue to recover, with modest demand improvement for refined products and black oil transportation.
+The recent retirement of the wire barge marine equipment will result in coastal barge utilization being around 90% for the fourth quarter.
+Although the Hawaii equipment has been sold, we will continue to operate the assets under a charter agreement through the end of the year when our existing customer contracts expire.
+In the fourth quarter, we do anticipate some elevated shipyard activity on several of our larger capacity barges, and that will result in a coastal revenue reduction in the mid-single digits compared to the third quarter.
+Coastal operating margins are expected to be at or slightly below breakeven for the fourth -- in the fourth quarter.
+Looking at Distribution and Services, favorable commodity prices and increasing rig counts as well as well completions are expected to yield continued strong demand in our oil and gas distribution business.
+In manufacturing, activity levels are also expected to remain strong driven by new orders and our growing backlog of environmentally friendly pressure pumping equipment and frac-related power generation equipment as well as some modest remanufacturing of conventional equipment.
+However, the OEM supply chain issues are expected to persist throughout the fourth quarter, and they will delay sales -- some sales and project deliveries into 2022.
+As a result, we expect our oil and gas businesses will experience a modest sequential reduction in revenues and operating income in the quarter.
+In commercial and industrial, despite improving economic activity, there will be normal seasonality in marine repair, Thermo King and power generation, resulting in sequential reductions in revenue and operating income in the fourth quarter.
+Overall, compared to the 2021 third quarter Distribution and Services revenues are expected to decline modestly, with operating margins in the low to mid-single digits.
+Now to wrap things up, although the third quarter's results were disappointing, we see improved results in the fourth quarter, despite planned shipyards and coastal and seasonality and supply chain issues in Distribution and Services.
+More importantly, we see strong momentum building across our businesses, which we will believe -- which we believe will drive increased revenues and meaningful earnings growth in the coming years.
+In inland, our barge utilization has recently touched 90%, with October averaging in the mid- to high 80% range.
+With the world economy beginning to emerge from the pandemic, low inventories of refined products and oil demand expected to meet or exceed pre-pandemic levels in 2022, we believe inland has turned the corner.
+With minimal new barge supply, we expect our inland business will steadily move higher with improved pricing, earnings and returns going forward.
+In coastal, although market conditions remain challenging, recent improvements in the spot market should lead to barge utilization around 90%.
+Our difficult but necessary decisions to exit the Hawaii market and retire unutilized assets are long-term positives that will allow this business to focus on its best assets and markets to generate positive earnings as the market improved.
+In Distribution and Services, economic growth will benefit our commercial and industrial businesses in the coming quarters.
+In oil and gas, with strong commodity prices and expectations for increased U.S. gas-directed drilling, we are increasingly optimistic about enhanced demand for our products and services.
+Further, a heightened customer focus on low carbon solutions, including friendly -- environmentally friendly pressure pumping equipment and our power generation solutions for e-frac, has translated into significant growth in our backlog.
+These increasing levels of activity will lead to improved profitability in 2022.
+And finally, our strict capital discipline and intense focus on cash flow generation throughout the pandemic has enabled us to significantly reduce our debt and increase our liquidity.
+As a result, we are very well positioned to act on future strategic opportunities to increase our earnings potential going forward.
+We are now ready to take questions.

@@ -1,0 +1,151 @@
+As a reminder, before we begin, the company has a slide deck to accompany the earnings call this quarter.
+Because these statements deal with future events, they are subject to various risks and uncertainties and actual results could differ materially from the company's current expectations.
+I'm going to pass it over to Tom to begin.
+So I'm going to start and I'll walk through the slide deck, so, as usual, I'll refer to the page numbers so you can follow along; try to be as descriptive as possible if you don't have the slides with you.
+For the quarter, the company's net income rose to $38.2 million as compared to $5.3 million in the second quarter of 2020.
+On an earnings per share basis, that is $0.75 per diluted common share in 2021 as compared to $0.11 for the quarter in 2020.
+That was on Slide 5.
+If you flip to Slide 6, I can talk briefly about the year-to-date results.
+Here we have a net income of $35.2 million on a year-to-date basis.
+That compares to a net loss in 2020 of $15 million.
+And on a per share basis, we have earnings of $0.69 per share in 2021 and that compares to a loss of $0.31 in 2020.
+And for the year-to-date, the capital investments, I will highlight $138.5 million of capital investments as compared to $133.5 million of capex in 2020.
+Flipping to the next slide, Slide 7, the story here in the second quarter is very similar to what we talked about at the end of the first quarter.
+The financials are primarily better because we have the result of the 2018 California Water Service Company General Rate Case.
+And that did a number of things for us.
+First of all, if you'll recall, last year, in the second -- first and second quarters, we did not book the interim rates or the regulatory mechanisms that the company eventually got approved by the Commission because of the uncertainty at that time.
+So, we did book those in the third quarter of 2020.
+So, when you're comparing our results here in 2021 to those results from 2020, keep in mind that you were missing a big chunk of what ended up being earnings in 2020.
+Our core operating costs are increasing as expected.
+We have lower equity AFUDC as anticipated, as we've talked about before.
+Capital spending is on track to our target, which is between $270 million and $300 million for the year.
+We did have some other impact in the quarter.
+And I'll talk a little bit more extensively about the unbilled revenue accrual because that's giving us a big pop for the quarter and the market value of our -- some of our pension assets reduced our earnings per share by about $0.03 on the quarter.
+Flipping to Slide 8, you can see the earnings bridge.
+These are the factors we were just talking about, rate relief, regulatory mechanisms, opex, there's benefit plan investments mark-to-market there.
+The unbilled revenue is adding $0.17 on the quarter and I guess I can talk about that now, it's also on the next slide.
+But what we've experienced in California is a warmer and drier year, as Marty will talk about a little bit later.
+And what we believe is happening is we've advanced the unbilled revenue which normally pops for us in the third quarter.
+We see that unbilled revenue accrual increasing very rapidly here in the second quarter.
+This happens from time to time with the company.
+We have inflections in our water sales that usually happen around June, July as the weather gets hotter in California.
+That seems to have happened on the earlier end this year.
+And so what we're looking at is earnings associated with recording the unbilled revenue accrual that would more likely, in a different year, be third quarter earnings.
+And so we can talk a little bit about what that means.
+But our -- with the expectation that we would have as described on Slide 10 is that unbilled revenue generally will not add to earnings over the course of the entire year.
+And so this is really a seasonal effect.
+And so, if you're looking at this from a modeling standpoint, this is not some -- it's not some new factor that's going to give us extra profits for the year in most cases and typically that's going to come back down to around zero at the end of the year.
+Talking about Slide 10, I do want to emphasize a couple of other notes.
+These are things that we've generally talked about on prior calls, but I wanted to remind the community and interested parties about these.
+As I mentioned, in Q3 of 2020, we recognized $43 million of net income, which was attributable to Q1 and Q2 of 2020 and that was because of the delayed California General Rate Case, we had not booked interim rates and we had not booked the regulatory mechanisms because we weren't sure of the probability of recovery and we did end up booking those in the third quarter.
+So keep that in mind when you're thinking about the third quarter earnings coming up.
+Once again, our authorized rate base for all operations in total is $1.82 billion.
+That is -- remember, we're rate-regulated with a rate of return on rate base and so you can work into a general range of earnings, so to speak, with respect to the company just by calculating the rate base times the rate of return and get to -- and the capital structure there, and get to that number.
+Our operating costs are increasing as expected; depreciation, property taxes and wages, in particular.
+As I mentioned on the last call -- last couple of calls, the eligible mains and services state tax deductions will be lower in 2021 and that raises our effective tax rate and that was something at the end of 2020 where we saw a big bump-up from the enormous amount of state tax repairs deduction that we received that year.
+The net income from recognition of equity AFUDC in 2021 is lower and is expected to be lower because we have fewer long duration projects that are accruing equity AFUDC.
+Finally, to add here is that the market value of the certain retirement assets that was -- it was up quite a bit in 2020 and it's up a fair bit in 2021.
+We don't ever know what the market is going to do.
+I'm sure all of us would like to know what the market is going to do in the future.
+But-so we can't predict what that will add or subtract from earnings for the total year.
+Turning to Slide 11.
+I'm pleased to report that California Water Service Company filed its General Rate Case with the Public Utilities Commission on time, July 1.
+This rate case, the largest in our history, is requesting approval of just over $1 billion in capital expenditures during the three-year rate case cycle.
+We worked very hard on addressing customer affordability when preparing this case and have been able to keep increases under $5 per month for the median residential customer in all of our service areas.
+Because this will be our first rate case in which the full WRAM MCBA is not part of the filing, we've also taken a deeper dive into sales forecasting and rate design to enable us to balance customer affordability, revenue stability and conservation.
+This has led to a 6% lower sales forecast than in our last adopted, but also an innovative rate design, which provides significant discounts for the first 6 units of water used each month and increases the amount of revenue collected in our fixed monthly service charge.
+We're now in the discovery phase of this case and expect the Commission decision before the end of 2022.
+Just recently, Commissioner Darcie Houck was named as the Assigned Commissioner in our rate case.
+She's the newest Commissioner at the Public Utilities Commission but has been an Administrative Law Judge at the Commission, is an attorney and understands Commission processes.
+Commissioner Houck is also the Assigned Commissioner for our cost of capital case which we expect a decision by the end of this year.
+In other news, a week ago, we filed our General Rate Case in Washington State, which covers both our legacy Washington Water Service Company customers plus our new East Pierce customers that we acquired from the Rainier View Water Company.
+And we expect the decision in that case sometime this fall.
+With that, I will hand this off to Marty.
+Two areas I want to provide operational updates on, starting off on Page 12, talking about the recently declared droughts and I say droughts as plural, given the approach the state has set forth early on in the second quarter and by doing so they were evaluating drought conditions on a county by county basis.
+As we wrapped up the second quarter, the drought kind of quickly spread and we have 51 of the 58 counties in the State of California now under a declared drought emergency.
+Accordingly, as part of our planning process and rate case process with the Public Utilities Commission, we filed, what's called, Rule 14.1, which is our water supply master plans in June and within that water supply master plans is something called Schedule 14.1, which is our water supply contingency plans, which cover the various stages of drought.
+Very happy to share that on July 14, the Commission approved our Rule 14.1 plan, as well as our Schedule 14.1 water supply contingency plans.
+We are officially in a Stage 1 drought in all the districts that we operate in.
+We are currently monitoring water supply conditions at every location within the State of California that we have.
+We have asked our customers for a voluntary 15% reduction over the summer months and we're utilizing the same model that we developed during the last drought, which is really doing a -- what we call the customer-first approach, trying to give our customers as many options as we can to help them hit their reduction targets.
+So we're utilizing that same model, which includes a Drought Steering Committee that we have within the company that I meet with every other week as we go into the summer months.
+I think what's important to note about the current drought conditions in the State of California is it highlights the proactive moves we've made over the last two years on the ESG and risk management front to prepare for drought and more riskier weather type of conditions.
+One of the things we did is we combined our water supply planning team and our water conservation teams, which were in different parts of the organization, to come together as one team to look at supply and demand within one group and focus on water supply resiliency, including the impacts of climate change.
+So we're going to continue the path that we're on.
+The foundation has been laid for our contingency plans as we move throughout the stages of the drought and we're going to take the same approach that we had in the last major drought, which all of our customers said then, what was the 25% reduction targets.
+Moving on to talk about the continued impacts of COVID-19 and the pandemic.
+All of our company's employees have returned to work.
+We started a phasing back in the first week of July to get our employees back at work.
+Remember that 90% of our employees have been at work every day throughout the pandemic so the one's we phased back in, most of them are corporate staff and jobs that could be worked on remotely during the pandemic.
+We have phased them back in at work.
+We continue to be vigilant for employee and customer safety, including all of our campuses are still locked down.
+We have encouraged and put incentives out there for vaccination rates for our employees.
+We follow our local masking rules and we have employee screenings at every location every day.
+Again, despite the pandemic, we have been at work every day, 365 days a year, 24 hours a day.
+Looking at the collectability process and what's happening on the receivable front in New Mexico and Hawaii.
+They have allowed us to start the billing collection process again.
+In California and Washington, we're still under a moratorium.
+The moratorium in Washington will end on October 1 and in California, we're working through our recent decision that came out from the PUC that lays out the rules that will allow us to restart the collection process here.
+So I don't have an exact date yet.
+The decision just came out last week and we're working through that now.
+At the end of the second quarter, we saw increases in customer accounts and remember that we have suspended collection activities.
+We haven't done that in about a -- well over a year.
+Bills outstanding increased slightly to $12.5 million.
+We think that's good news.
+It's leveled out a little bit.
+We have continued to increase our reserve for doubtful accounts from $5.7 million now to $6.3 million and within the budget for the State of California, which is our largest operating entity, the states that we operate in and California is the largest, the State of California has reserved a $1 billion for water utilities arrearage management relief.
+So in other words, the State is going to be picking up a good chunk of the tab of these late receivables.
+The process and how they're going to be distributing that money is still being determined.
+We're working with the State and through our association with the other water companies to determine the best process forward, but it looks like there will be some relief that comes from the State to help offset the bills for the people affected by COVID and their ability to pay their water bills.
+The incremental cost of COVID-19 for the second quarter continued to run about $200,000 a quarter.
+So we're up to about $1.3 million total since the beginning of the pandemic.
+That's being captured in a memo account.
+It's interesting to note that water sales in California are at 103% of the adopted numbers that were approved in the last General Rate Case.
+And year-over-year, residential consumption is up 4% and that's been offset by lower business in industrial sales and, of course, as the economy was slowed and stalled out there for a little bit.
+But as businesses come back, we expect to see the business in residential sales to continue to climb.
+Liquidity remained strong at the end of the quarter with over $66 million cash on hand and additional borrowing capacity of $405 million on the line of credit, subject to various borrowing conditions, but liquidity remained strong, as we move into the warmer summer months.
+California Water Service Group has been busy in the business development area.
+In May, we announced our establishment of Texas Water Service and our entry into the fast-growing region of Texas, known as the Austin-San Antonio corridor.
+As part of our entry into Texas, we also announced our majority ownership of the BVRT Water Resource Company, which in turn owns four wastewater utilities in this Austin-San Antonio corridor.
+Also, in May, we closed on our acquisition of the Kapalua Water and Kapalua Wastewater Company and added a 1,000 new Maui customers to our Hawaii Water Service Company.
+Last month, in June, we announced the execution of a definitive agreement to acquire a wastewater utility on the island of Kauai in Hawaii, which will bring 1,800 Equivalent Dwelling Units to our Hawaii Water Service Company, and we will be filing the application with the Hawaii Public Utilities Commission shortly for its approval of this purchase.
+And next week, we anticipate that the California Public Utilities Commission at its August 5 open meeting will approve our newest California utility known as The Preserve at Millerton, which is a greenfield or new development, water, wastewater and recycled water utility, which will ultimately bring about 2,800 customer connections to California Water Service Company.
+Remember that Boston and San Antonio are among the five fastest growing cities in the U.S.
+We have approximately 2,500 customers and customer commitments today in these -- among these four utilities and anticipate that their combined service areas could build out to over 60,000 customers.
+Meanwhile, Texas Water Service is seeking out other opportunities in Texas.
+We have a full pipeline of growth opportunities and we are excited by the potential to further grow the company through acquisitions and through other deals.
+I'm looking now at Slide 17, and as promised in the first quarter, we've updated Slide 17 and 18 which are capex and our rate base slides to reflect the proposal that's been made in the California General Rate Case.
+And so the last three bars on each of these charts represent the effect of the proposal and I do want to remind everyone, obviously, that this is a proposal that's been made to the Commission and is going to be evaluated by the CPUC and a determination will be made, as Paul suggested, late in the year 2022 with an effect date of 2023.
+And so, these numbers can obviously change as we go through the regulatory process.
+But what it does show for 2022 through 2024 is that we would anticipate our combined capex with California and the other states to be in the range of $355 million to $365 million a year and that corresponds to the $1 billion proposal that Paul's group put to the CPUC plus the capex that we're spending in our other states.
+And then the result of that, if you flip to Slide 18, is the estimated rate base that's associated with that.
+And once again, our current rate base is about $1.82 billion for 2021.
+We have another step increase that's associated with the last California rate case and that would potentially impact 2022 to give us a higher rate base adopted there.
+But the proposal that Paul has put forth to the CPUC, his team, would increase our rate base to the point of $2.2 billion, $2.5 billion and $2.75 billion combined, again with the other states, if that proposal were adopted as proposed.
+Most certainly a lot for us to do in the regulatory process, but good news ahead from a company growth standpoint in all of the respects.
+The heavy lift, so to speak, right?
+Paul's got that two big generating -- revenue generating items.
+Well, I'm going to wrap us up here.
+Just in summary, Q2 results were in line with our expectations.
+Sorry for the lumpiness sifting through the financials.
+As Tom did a really good job pointing out in our graphs and our earnings reconciliations, that was really driven by the late GRC that we had and there was not much we can do about that but just to remind everyone that those comparables quarter-over-quarter, year-over-year, you got to factor in that delayed General Rate Case.
+Clearly, we're seeing the effects of the drought in the second quarter with that unbilled revenue, which is really our revenue accrual.
+We typically see -- as consumption increases as we move into the warmer months of the summer, you'll see that accrual go up and then you'll see a turndown in the winter when you see consumption go down as the rain starts out on the West Coast.
+So we clearly saw a pickup from the unbilled revenue due to the drought and weather conditions.
+So consumption went up earlier than we anticipated.
+Tactically, there are really kind of four things going on that we're focused on as we move into the fourth quarter.
+Obviously, the cost of capital, first and foremost, and trying to get that wrapped up this year, followed by, as Paul said, the discovery phases of our 2021 General Rate Case for the State of California, which is a herculean event.
+There is a lot of data requests that go back and forth; hundreds and hundreds and hundreds of data requests.
+So we're going to stay vigilant and stay keenly focused on wrapping up those two regulatory proceedings.
+We look forward to working with Commissioner Houck to bringing those to a successful resolution on time and on schedule.
+Additionally, tactically, two big things going on, on the West Coast and specifically in California.
+One is the drought, and as I said, we are officially in a Stage 1 drought for our customers.
+And the second thing is, it's wildfire season.
+There are currently nine wildfires burning in the State of California, two major wildfires.
+The two major wildfires are burning a national forest area so there are no threat to our service areas that we operate in.
+Big accolades to the operations team for their early readiness for fire season this year, that August, September and October, given the dry conditions, we think, could be pretty volatile.
+But I will say the team finished their wildfire readiness planning ahead of schedule.
+All the employees have gone through all their trainings and we're ready to go into the hotter, drier summer months focused on minimizing any damage from wildfires and making sure that our customers stay supplied with clean fresh drinking water.
+If you haven't read our ESG report that's been put out there, I strongly encourage you to do that.
+This is going to strategically be a keen focus of the company here I think for years to come.
+So, with that, Carol, we will officially end our prepared comments and we will open it up for Q&A.

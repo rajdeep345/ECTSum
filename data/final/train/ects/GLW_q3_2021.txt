@@ -1,0 +1,242 @@
+Those statements involve risks, uncertainties, and other factors that could cause the actual results to differ materially.
+These factors are detailed in the company's financial reports.
+You should also note that we'll be discussing our consolidated results using core performance measures, unless we specifically indicate our comments relate to GAAP data.
+Our core performance measures are non-GAAP measures used by management to analyze the business.
+For the third quarter, the largest differences between our GAAP and core results stemmed from noncash mark-to-market losses associated with the company's currency hedging contracts and noncash impairment charges.
+With respect to mark-to-market adjustments, GAAP accounting requires earnings translation hedge contracts and foreign debt settling in future periods to be mark-to-market and recorded at current value at the end of each quarter, even though these contracts will not be settled in the current quarter.
+For us, this decreased GAAP earnings in Q3 by $16 million.
+To be clear, this mark-to-market accounting has no impact on our cash flow.
+Our currency hedges protect us economically from foreign exchange rate fluctuations and provide higher certainty for our earnings and cash flow, our ability to invest for growth, and our future shareholder distributions.
+Our non-GAAP or core results provide additional transparency into operations by using a constant currency rate aligned with the economics of our underlying transactions.
+We're very pleased with our hedging program and the economic certainty it provides.
+We received more than $1.7 billion in cash under our hedge contracts since their inception more than five years ago.
+A reconciliation of core results to the comparable GAAP value can be found in the Investor Relations section of our website at corning.com.
+You may also access core results on our website with downloadable financials in the Interactive Analyst Center.
+We encourage you to follow along.
+They're also available on our website for downloading.
+Today, we reported strong third-quarter results that continue a year of outstanding sales growth, margin expansion, and significant cash generation.
+Sales grew 21% year over year to $3.6 billion, a new all-time high.
+Gross margin expanded 50 basis points sequentially and 70 basis points year over year to 38.3%.
+EPS grew 30% year over year to $0.56.
+And free cash flow of $0.5 billion brought cumulative free cash generation for the first nine months of 2021 to $1.3 billion.
+Our outstanding results in this period of global disruption are due to excellent execution at all levels of the company.
+And they're driven by a compelling set of long-term growth opportunities that we're capturing through our innovations and broad market access, as we strengthen our commercial relationships and scale operations to meet demand.
+Like everyone, we're dealing with numerous factors caused by the pandemic and the resulting inflation.
+In this quarter, the largest macro impact was constraints in the automotive industry, stemming from chip and component shortages.
+Auto production in the third quarter is estimated to be down nearly 20% year over year and 9% sequentially.
+As a result, we stepped down in light-duty sales.
+Across our businesses, we prioritized delivering for our customers in a complex inflationary environment, and we have delivered despite incurring extra costs.
+Now we're taking additional actions, including pricing, to address these costs and maintain our ability to invest and support our customers.
+And you'll hear more from Tony on this in just a few minutes.
+Against this backdrop, we feel really good about our performance.
+In the quarter, announcements with industry leaders illustrated the power of our portfolio, demonstrating not only our relevance across multiple markets but also our role as a key innovation partner.
+Our strong position stems from a complementary set of three core technologies for proprietary manufacturing and engineering platforms and five market access platforms.
+We're leaders in each.
+We generate growth opportunities by delivering combinations and new applications of these capabilities to help our customers to drive their industries forward.
+And in doing so, we drive more Corning content into the products people are already buying.
+Let me share some highlights from the quarter.
+In Optical Communications, the industry is in the early innings of large deployments in support of 5G, broadband, and the cloud.
+Momentum is building, and we see it confirm high multiple sources.
+First is network need.
+Demand on networks is significantly higher than pre-pandemic levels.
+Broadband usage for September was up 32% versus pre-pandemic levels and up 9% versus September 2020, when remote work and school were largely in play.
+Global 5G subscriptions have grown to almost $0.5 billion this year.
+More applications are moving to the cloud and global data creation is expected to grow at 23% compound annual growth rate from 2020 to 2025.
+Versus 2020, cloud revenue industrywide is up nearly 50%.
+The second confirmation of strong industry momentum can be seen in the announcements from leading companies.
+On AT&T's earnings call last week, their CEO said they're on a march to deploy fiber at scale.
+We are working toward passing 5 million homes per year.
+In the quarter, we announced a strategic investment to support their growth plans.
+Speaking about our expanded collaboration.
+AT&T said the expansion of fiber infrastructure is central to the growth of broadband reach for consumers as well as business customers.
+France recently shared that they plan to reach 10 million more homes with fiber by the end of 2025 with their CEO saying, "Our future is fiber".
+Cloud deployments are also expanding.
+Microsoft CEO said that over the past year, they've added new data center clusters in 15 countries across five continents in support of their cloud business.
+The third confirmation is our substantial increase in sales and continued order book momentum.
+This is perhaps the most important indicator of growth over the next few quarters.
+We are ramping capacity and we are energized.
+Across the business, we're driving strong year-over-year sales growth, and we're outperforming the optical market as we continue to commercialize innovations that extend our competitive advantage.
+And as we provide more solutions to more customers at both the regional and national levels.
+During the quarter, we introduced the newest additions to our Evolv portfolio, which includes solutions designed to support real deployments.
+We also introduced our Everon millimeter-wave indoor small cell systems, which deliver 5G-ready coverage in high-density environments, including office buildings, factories, hotels, hospitals, and classrooms.
+Let's turn to mobile consumer electronics.
+Here, we're helping transform the smartphone experience.
+As we help our customers deliver new value to their users, we drive more of our content into each device sold.
+I displayed out well during the quarter with the launch of Samsung's Galaxy Z Fold3 and Galaxy Z Flip3.
+Both devices feature Gorilla Glass Victus.
+Now they also utilize our new Gorilla Glass with DX on the lenses of the rear cameras.
+This is more Corning in action.
+We've expanded our capabilities into a new category, device cameras.
+Even though the lens is a fraction of the surface area we address with our cover materials.
+The value we add is high, and we're capturing a very attractive opportunity to increase our revenue per device.
+Samsung is also featuring Gorilla Glass with DX on the new Galaxy Watch4.
+OEMs are designing cleaner, safer vehicles and distinguishing themselves with technologies that enhance the driving experience.
+Corning is uniquely sued to address these trends.
+And we're pursuing $100 per car content opportunity across emissions and auto glass solutions.
+In the quarter, Jeep announced a product that brings our top technical glass into their iconic vehicles, the new Jeep performance parts windshield featuring Gorilla Glass is now a factory-installed option on the 2021 Wrangler and Gladiator.
+We're making the windshields lightweight, durable, and up to three times more impact resistant than regular windshields.
+Additionally, tighter emissions regulations continue to provide a strong content opportunity for our environmental solutions.
+OEMs need higher filtration performance, and we responded with a new generation of gasoline particulate filters.
+The importance of our GPF business drives home my ongoing point.
+It's not about more cars, it's about more Corning in those cars.
+Since 2017, our auto sales are up more than 40%, while global car sales are down 20%.
+We're in a position of strength for two reasons.
+First, we are significantly more profitable than our competitors.
+Second, the market for large-sized TVs is projected to grow at a double-digit compound annual growth rate through 2024.
+And we're the leader in Gen 10.5, which is the most economical approach for larger sets.
+We've all seen the declines in panel pricing, and we're beginning to see panel maker utilization adjustments.
+Now longer demand provides us an opportunity to minimize expedited freight and to rebuild tanks that have operated beyond end of life.
+Taking these actions will allow us to keep our supply balance to demand.
+We expect the overall glass supply to remain tight, and the glass pricing environment to remain attractive.
+Tony will give you more details on our industry position and our outlook.
+Finally, in Life Sciences, we're delivering growth on multiple fronts.
+We're seeing ongoing demand in support of the global pandemic response.
+And our inventions are helping advance the transition to cell and gene-based therapies.
+Additionally, we're making progress on our multibillion-dollar content opportunity in pharmaceutical packaging.
+We're expanding our comprehensive portfolio, advancing key partnerships, and building our customer base.
+Corning continues to support the pandemic response and its portfolio of advanced vials and pharmaceutical glass tubing has enabled the delivery of more than 3 billion doses of COVID-19 vaccines.
+Our high-volume manufacturing facility in North Carolina is now operational, which will help us scale with demand.
+In total, we believe our efforts to address the pandemic are enabling permanent industry shifts.
+That means a future pharmaceutical packaging landscape defined by enhanced patient safety, lower cost, minimal regulatory hurdles, and increased capacity for life-saving drugs.
+Other efforts that have gained increased attention during pandemic are finding broader long-term applications.
+We introduced Corning Guardiant, a paint additive that uses a glass matrix to trapped copper ions, a powerful and long-used antimicrobial material.
+Paint with Guardiant has been proven to kill 99.9% of bacteria and viruses, including the 1 that causes COVID-19.
+This month, PPG announced that their copper armor paint, powered by Guardiant received EPA registration and will be available in major US retail and home improvement stores.
+PPG noted that it's the first virus-killing paint in the United States.
+And our collaboration builds on an EPA statement to ascertain that public health would benefit from surfaces with built-in antimicrobial capabilities.
+I am proud of the many ways our people unleased the power of our portfolio in the quarter and what our performance says about Corning's strong position today.
+Key trends are converging around our capabilities as we become more and more vital to industry transformations driving the world forward.
+This provides a compelling set of long-term growth opportunities.
+And we're executing well to bring those opportunities to life and make a difference wherever we can.
+Now I'll close by briefly looking back at 2019, when we outlined our priorities for growth and shareholder returns for the next several years.
+We provided attractive targets as we laid out our plans to build an even bigger, stronger company that delivers sustainable results.
+Today, the growth drivers we laid out remain intact and we're delivering on our goals.
+We are a bigger, stronger company than we were in 2019, and we are continuing to grow.
+Tony will get into more specifics.
+But I feel really good about our position and the progress that we've made.
+I look forward to updating you when we close out a strong year and as we grow again in 2022.
+Strong execution resulted in another outstanding quarter.
+We are on track to reach $14 billion in sales and over $2 in EPS.
+We're making significant progress extending our market leadership while scaling operations to meet demand, and we expect to grow again in 2022.
+During the third quarter, sales increased 21% year over year to $3.6 billion, led by the strength in Optical Communications and the strong performance in our other businesses.
+EPS grew 30% year over year to $0.56.
+Sales and earnings reflect lower production levels in the automotive industry due to the semiconductor chip shortage.
+The impact to Corning's results was approximately $40 million in sales and $0.02 of EPS.
+Gross margin percent expanded 50 basis points sequentially and 70 basis points year over year to 38.3% despite a net impact of 150 basis points from supply chain challenges and inflationary headwinds.
+Free cash flow grew to $497 million with cash generation of $1.3 billion for the first nine months of the year.
+Now these achievements are particularly noteworthy because we are operating in the face of unprecedented logistical challenges and component shortages.
+Delivering for customers in this complex environment requires both decisive action and agility.
+Our ability to sense disruption and act quickly has been key to running our plants well and meeting our customers' needs.
+And we're leveraging our diversified global supply chain to continue to meet customer demand.
+In fact, I'd be remiss if I didn't recognize the efforts of our global supply management and operations teams that have allowed us to maintain a steady supply of raw materials while finding creative shipping strategies.
+Their actions have enabled us to effectively deliver for our customers, and they're providing actionable insight into the current dynamic environment.
+At the same time, we continue to incur additional costs as we work to meet strong customer demand.
+And while we've been taking actions to mitigate them, certain costs continue to elevate in the third quarter.
+For example, we were able to offset a significant portion of elevated freight costs, but resin prices increased again.
+Therefore, our margin is temporarily muted.
+Given this ongoing inflationary environment, we have price increases underway across all of our businesses.
+We saw some benefit from these actions in the third quarter and their impact should accelerate in the fourth quarter and into 2022.
+Now we don't expect the environment to improve in the short term, but our digital supply chain capabilities enable real-time visibility into emerging situations, allowing us to proactively address the issues.
+We remain focused on meeting demand, expanding our margins, and protecting our ability to invest for customers.
+Now let's take a closer look at the performance in each of our businesses during the third quarter.
+In Display Technologies, sales were $956 million, up 2% sequentially and 16% year over year.
+Corning's glass volume grew slightly and glass prices increased moderately sequentially as expected.
+Glass supply continues to be tight, and we continue to do everything we can to meet customer demand.
+We expect fourth-quarter glass prices to be consistent with the third quarter.
+Now I know there's a lot of discussion about the display industry.
+Briefly, we expect the pricing environment to remain favorable as glass supply remains tight to balanced throughout 2022.
+Now as we've discussed previously, we based our perspective on what will happen in the display market on three main factors: retail demand, panel makers production, and glass makers' ability to supply the panel makers.
+With those factors in line, I'll start with what I said about retail demand on our last earnings call in July.
+Since LCD televisions emerged as a mainstream technology in 2004, LCD TV units have only been down three times and never two years in a row.
+Since 2014, TV sell-through units are typically range-bound between 225 million and 235 million, which average screen size grows about 1.5 inches a year.
+In 2020, global television units increased 4% above the trend line to about $242 million.
+Screen size growth was about 1.2 inches, about 20% below trend.
+A lot of smaller TVs sold probably to accommodate more people living, working and studying from home.
+Entering this year, we expected and continue to expect the market to revert the trend, implying a decrease in TV units, especially smaller televisions, and for normal screen size growth of 1.5 inches to return.
+With that, we now have nine months of retail data under our belts, and it is confirmatory.
+Television units declined by about 10% year over year while average screen size growth is in line with the 1.5 inches per year trend.
+Unit volume for TVs 65 inches and larger increased by a mid-teen percentage, and smaller TVs were down by a mid-teen percentage.
+So three quarters through the year, our expectation for TV units being down year over year and screen size growing approximately 1.5 inches are playing out.
+Now looking ahead to 2022, we think TV units and screen size will continue to follow historical trends and retail glass demand will be up.
+That means television units will be within the typical range of 225 million to 235 million units and average screen size will grow about 1.5 inches.
+Now remember, television units, which are declining this year have never declined two years in a row.
+And next year is a World Cup year, and TV units have never declined in a World Cup year.
+Finally, the biggest driver of retail glass growth in most years is the increase in screen size.
+We would expect the average screen size to once again grow 1.5 inches next year.
+In summary, we expect glass demand at retail to be up by a high single-digit percentage in 2022 as measured in square feet.
+Now let's move from retail to panel makers.
+After a period of high production in 2020 and 2021 to meet strong demand, we are now seeing panel makers temporarily reducing their utilization given the lower 2021 retail demand that we told you about all year.
+And that is happening just as we would expect.
+Now finally, let's move to the glass industry, which struggled to meet demand in 2020 and 2021 as glass has remained tight.
+Like other glassmakers, we've depleted our inventories, expedited shipping and operated tanks beyond their targeted in the life.
+We will use this period of temporarily lower panel maker utilizations to shut down end-of-life tanks and rebuild them with our latest technology.
+We will also take the opportunity to work our way out of expedited shipping.
+These actions keep our supply balanced to demand and will improve our operating cost going forward.
+But rest assured, we will still have capacity to supply all of our customers' anticipated glass demand.
+When panel maker production ramps to meet the expected high single-digit retail demand growth in 2022, we will be fully prepared with our revitalized fleet of tanks.
+Overall, we believe glass supply will be tightly balanced throughout 2022.
+And since glass pricing is primarily driven by glass supply demand balance, we expect the pricing environment to remain favorable in Q4 and also throughout 2022.
+Moving to Optical Communications.
+We saw strong growth across the business with sales exceeding $1.1 billion, up 24% year over year and 5% sequentially.
+Net income was $139 million, up 21% year over year.
+Net income declined 6% sequentially as increased raw material and shipping costs significantly impacted profitability.
+During the quarter, carriers spent more on 5G and broadband projects.
+This, along with the continued strong pace of enterprise cloud data center builds drove our strong performance.
+Demand on networks is at an all-time high, setting the stage for significant investments in fiber infrastructure as operators expand network capacity, capabilities, and access.
+During the quarter, we announced a collaboration with AT&T.
+Our capacity expansion will allow AT&T to expand investments in fiber infrastructure, expand US broadband networks and accelerate 5G deployment.
+We are well-positioned to capture significant ongoing growth and network and data center investment increases.
+Our solutions improve the speed and capital efficiency deployments.
+Additionally, Corning is the only large-scale end-to-end manufacturer of optical solutions, which allows us to innovate on important dimensions not available to competitors.
+In environmental technologies, our third-quarter sales were $385 million, up 2% year over year and down 5% sequentially.
+As everyone knows, chip shortages is having a big impact on the auto industry.
+At the start of 2021, global vehicle production was expected to be about 88 million.
+By July, the industry was projecting below 85 million.
+And given continued chip and component constraints, forecasts now anticipate auto production around 75 million for the year.
+This pullback in production began to impact us in the middle of third quarter, and we expect it to continue for the fourth quarter.
+We estimate an impact on earnings per share in the third quarter of about $0.02, and we expect additional impact in the fourth quarter.
+The good news is that when component shortages resolved, auto production will recover because the end market demand remains strong, and we will be prepared to meet the growing demand.
+Specialty materials delivered sales of $556 million, up 15% sequentially and in line with the strong third quarter in 2020 when we introduced Ceramic Shield.
+We've grown specialty sales every year from 2016 to today, despite smartphone unit sales being roughly flat.
+Over that five-year period, we've almost doubled our sales on a base of more than $1 billion.
+Clearly, we're successfully executing our objective of driving more content into each device sold.
+And strong demand continues for our premium cover materials.
+During the quarter, our glass innovations were featured in 30 new devices, including smartphones, wearables, and laptops.
+Demand also remains strong for our advanced optics content used in semiconductor manufacturing as the broader end market continues to experience robust growth.
+In the quarter, investments in innovations that are moving toward commercialization resulted in lower net income than in 2020.
+As we've noted before, newer innovations can face high cost as we develop and scale our manufacturing process.
+We anticipate that profitability will improve as we come up the learning curve and improve utilization.
+Looking into the fourth quarter, we're seeing typical volume declines in Gorilla Glass following the build supporting flagship customer product launches.
+Life Sciences third-quarter sales were $305 million, up 37% year over year, driven by ongoing demand to support the global pandemic response, continued recovery in the academic and pharmaceutical research labs and strong demand for bioproduction vessels and diagnostic-related consumables.
+Our Life Sciences segment is outpacing the overall industry as evidenced by a sales CAGR of 9% over the last three years.
+Stepping back, we have made strong progress across all of our businesses.
+We entered new product categories, announced collaborations with key industry leaders and contributed to significant industry advancements.
+We're building a strong foundation for future growth.
+This, combined with our consistent focus on innovation and deep commitment to RD&E is what continues to fuel and sustain Corning's leadership position across its markets.
+As we look ahead to Q4, we expect core sales to be in the range of $3.5 billion to $3.7 billion and core earnings per share in the range of $0.50 to $0.55.
+Profitability is expected to decline sequentially due to the further reduction on automotive-related sales, as I mentioned, and lower Gorilla Glass sales following strong customer launches.
+That said, we expect to close out 2021 with both top and bottom-line growth and another year of strong cash flow.
+And we expect our momentum to continue in 2022 with sales and earnings per share growth along with strong cash generation.
+Now I'd like to expand on Wendell's closing point.
+Back in 2019, we outlined our goals for growth and shareholder returns.
+We said we would leverage our focused and cohesive portfolio to extend our leadership and capture significant growth opportunities, and we said that key trends would continue to converge around our capabilities.
+What we said back in 2019 still rings true to date, despite the pandemic and the resulting global disruptions.
+Our key growth drivers are all intact.
+Some are even accelerating.
+And we're on track or even ahead of the goals we laid out in 2019 in all our market access platforms.
+Since 2019, sales have grown at a 10% CAGR and ahead of the 6% to 8% target.
+Now we have been growing earnings per share at a rate consistent with sales, which puts us ahead of our target which -- I mean, puts us behind our target because inflationary pressures are clearly impacting profitability.
+But we do expect that our cost and pricing actions will deliver significant improvement over time.
+As we said we would do, we're also growing our return on invested capital.
+Today, our total company ROIC is in the double digits.
+Our most recent capacity expansions or as we like to call them, build investments are fully ramped, have enabled the $2.5 billion of sales we've added since 2019, and are delivering more than 20% ROIC.
+Our aggregate free cash flow generation for 2020 and 2021 is expected to be more than $2.5 billion.
+Finally, we remain steadfast in our commitment to investing in growth and extending our leadership while returning excess cash to shareholders through share repurchases and a 10% annual increase in our dividend.
+As you might remember, we decided early in the pandemic to ensure the stability and flexibility of our financial position by building up our cash reserve.
+In April, we resumed share buybacks with the Samsung transaction where we repurchased 4% of our fully diluted shares.
+Consistent with our strategy to opportunistically buy back shares, we plan to do more repurchases in Q4.
+In summary, we've built a strong foundation over the last several years.
+Our capabilities are relevant to major growth trends across our markets.
+Our More Corning strategy is working, and we're executing through some very volatile end markets, expanding relationships and commitments with our customers extending our leadership position and generating outstanding sales, profits, and free cash flow.
+With that, let's move to Q&A.
+Michelle, we're ready for our first question.

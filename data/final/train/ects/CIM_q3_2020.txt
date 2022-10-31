@@ -1,0 +1,94 @@
+Before we begin, I'd like to review the safe harbor statement.
+During the call today, we may also discuss non-GAAP financial measures.
+Additionally, the content of this conference call may contain time-sensitive information that is accurate only as of the date of this earnings call.
+We do not undertake and specifically disclaim any obligation to update or revise this information.
+I will now turn the conference over to our president and chief executive officer, Matthew Lambiase.
+I'll make some brief comments, then Mohit will discuss the changes in the portfolio, and Rob will review our financial results.
+Chimera continues to work remotely, and I'm happy to report that the team is safe and our remote work environments have been successful.
+Over the past six months, we've taken many steps to strengthen our balance sheet, protect our desirable credit assets, and stabilize the earnings stream of our portfolio.
+These steps included selling agency mortgage-backed securities, selectively selling agency CMBS, negotiating new non-mark-to-market financing arrangements, and lowering the company's overall recourse leverage.
+The actions taken over the period enabled us to participate in the market recovery of asset prices from the depressed levels that we experienced in March.
+For the quarter, Chimera's book value appreciated 12% to $11.91 per share.
+We generated $0.33 of core earnings, and we paid $0.30 in common dividend, resulting in nearly 15% economic return for the period.
+The rebound in residential mortgage prices this quarter can be attributed to a very strong housing market, which has been boosted by a generational lull in U.S. interest rates.
+The COVID-19 pandemic has had a dramatic effect on the housing in the United States.
+The market for single-family homes is thriving as many families are fleeing cities for more spacious quarters in the suburban and rural areas of the country.
+Families across America are seeking additional living space for home offices, home classrooms, and safe outdoor environments.
+labor force is currently working full time from home.
+Demand for single-family homes is booming.
+The rate of existing-home sales rose in September to 6.5 million homes, the highest level since 2006.
+And the available inventory of existing home sales has decreased nearly 20% from the previous year to 1.5 million homes.
+At the current pace of home sales, all-in inventory currently on the market could be sold in less than three months.
+Much of this housing demand is driven by record-low borrowing rates orchestrated by the Federal Reserve.
+Since March, the Federal Reserve has increased its balance sheet by 75% to over $7 trillion, helping to provide low interest rates and ample liquidity to the mortgage market.
+The average rate for 30-year mortgages was recently reported at 2.8%, the lowest rate on record, which dates back to 1971.
+Additionally, fiscal stimulus from the federal government for COVID-19 relief has added over $3 trillion into the economy and has helped many mortgage borrowers through this difficult economic period.
+Both political parties in Washington are currently discussing additional fiscal stimulus packages, which, if enacted, we believe, will help continue to support troubled borrowers and be constructive for both the housing and the mortgage market.
+A robust housing market, paired with low mortgage rates and the government support, provide a very strong pace for owning residential mortgage credit.
+As of quarter-end, nearly 90% of Chimera's investment portfolio was allocated to mortgage credit.
+The mortgage securitization market has also returned to near pre-pandemic level and in some cases better as a result of lower interest rates and comparable advance rates.
+This quarter, Chimera completed three securitizations while committing to purchase $640 million of mortgage loans.
+Due to the improving housing fundamentals and better credit conditions, investor demand for highly rated senior mortgage securities is very strong.
+Chimera is a frequent issuer of these securities, which enables us to secure long-term, non-mark-to-market financing for our credit portfolio assets.
+Our investment team continues to find opportunities and is successful adding to our portfolio for future securitizations.
+The housing market is one of the few bright spots in the U.S. economy, and higher housing prices can contribute to better mortgage credit fundamentals.
+In a world of low investment returns, having a high-yielding portfolio with a favorable credit profile is an enviable position to be in.
+We believe that Chimera's portfolio is well-positioned to take advantage of these positive trends and to continue to produce strong dividend income for our shareholders in the quarters ahead.
+The 10-year treasury ended the quarter with a yield of 68 basis points, down from 1.92% at the start of 2020.
+The overall magnitude of this rate movement has generated price appreciation in 10-year treasury notes of approximately 10 points since the beginning of the year.
+Our agency CMBS investments over the last five years have primarily been Ginnie Mae project loans.
+These securities carry government guarantees, and due to explicit prepayment lockout and penalties, the Ginnie Mae permanent loan certificates are longer-duration assets.
+The price performance of these assets has greatly benefited as treasury rates have fallen.
+During the third quarter, we acted on the strong price performance and selectively sold $659 million securities from our agency CMBS portfolio.
+With the sale, we harvested approximately $65 million in gain and plan to reallocate capital into mortgage credit.
+The objective of the reallocation is long-term optimization of the portfolio income for the benefit of our shareholders.
+We continue to monitor our agency CMBS holdings relative to their market values and their explicit call protection to maintain a right-sized and optimal portfolio of our agency CMBS.
+Our remaining agency CMBS holdings at quarter-end was $1.8 billion, comprising 10% of Chimera's total investment portfolio.
+The new issue market for securitized products remained strong in the third quarter, and spreads on certain parts of the capital structure have approached pre-COVID-19 levels.
+Tighter spreads and low absolute interest rates create compelling opportunities for frequent and well-recognized issuers like Chimera to meet investor demand for securities.
+For the third quarter, Chimera closed three securitized transactions totaling a little over $1 billion.
+The senior note from all three deals carried investment-grade ratings.
+In July, we issued CIM 2020-R5 with $338 million loans from our existing loan warehouse.
+The underlying loans in the deal had a weighted average coupon of 4.98% and a weighted average loan age of 149 months.
+The average loan size in the R5 transaction was $152,000 and had an average LTV of 70%.
+The average FICO score for the borrowers was 678.
+We sold $257 million senior securities from this deal and retained $81 million in subordinated notes and interest-only securities.
+Our cost of investment-grade debt for CIM 2020-R5 was 2.05% with a 76% advance rate.
+Separately, in two transactions, we securitized pools of prime jumbo mortgage loans and a pool of agency-eligible investor mortgage loans.
+CIM 2020-J1 was our first prime jumbo securitization for 2020.
+The deal had $362 million loans with a weighted average coupon of 3.76% and a weighted average loan age of six months.
+The average loan size was $732,000 and had an average FICO of 766 and an average LTV of 67%.
+CIM 2020-INV1 was our first agency-eligible investor loan securitization for 2020.
+This deal size was $335 million with a weighted average coupon of 4.31%.
+It had an average loan size of $332,000.
+The loans had an average FICO of 765 with an average LTV of 64%.
+The J1 and the INV1 securitizations are not consolidated on our balance sheet.
+We invested $22 million in these transactions for our non-agency RMBS portfolio.
+During the third quarter, we committed to purchasing over $400 million of seasoned reperforming loans.
+And post quarter-end, we securitized the loans into CIM 2020-R6.
+Strong investor demand for senior notes enabled us to move quickly from purchase to securitization.
+The deal priced on October 30 and is expected to close in early November.
+We will report the details of this transaction on our fourth-quarter 2020 earnings call.
+We continue to invest in residential business purpose loans.
+These loans, commonly referred to as fix and flip, provide an attractive, high-yielding, short-duration assets for our portfolio.
+The market for these loans continues to expand and is well supported by a positive housing market and repeat business purpose borrowers.
+For the year, we successfully purchased approximately $135 million in business purpose loans and ended the quarter with approximately $210 million on the balance sheet.
+The average coupon on this portfolio was 8.57% with a weighted average LTV of 80%.
+Our investment portfolio is well-positioned as we approach year-end.
+The market trends in single-family housing are positive, and the securitization market is strong.
+At quarter-end, we had $412 million loans on our mortgage warehouse for potential future securitizations and have ample liquidity to and opportunistically acquire new pools of loans.
+On the liabilities side of our balance sheet, we have taken steps this year to lower the impact of mark-to-market risk on our secured financing.
+Recourse leverage is materially lower on the year and currently stands at 1.3 times capital.
+We have ample liquidity to make new investments.
+And as part of our call optimization strategy, we actively monitor our outstanding securitizations for optimizing our long-term debt structures.
+And as of September 30, Chimera has $5.8 billion of outstanding securitized debt in 16 separate deals that is either currently callable or will be callable through the end of 2021.
+I'll review Chimera's financial highlights for the third quarter.
+GAAP book value at the end of the third quarter was $11.91.
+And GAAP net income for the third quarter was $349 million or $1.32 per share.
+On a core basis, net income for the third quarter was $80 million or $0.33 per share.
+Economic net interest income for the third quarter was $125 million.
+For the third quarter, the yield on average interest-earning assets was 6%.
+Our average cost of funds was 3.5%, and our net interest spread was 2.5%.
+Total leverage for the third quarter was 3.7 to 1, while recourse leverage ended the quarter at 1.3 to 1.
+Expenses for the third quarter, excluding servicing fees and transaction expenses, were $17 million, in line with last quarter.
+We continue to closely monitor liquidity and have approximately $1 billion in cash and unencumbered assets as we look for new investments and financing options to support our portfolio and to optimize investment returns.

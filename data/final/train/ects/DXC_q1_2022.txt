@@ -1,0 +1,154 @@
+I'm pleased that you're joining us for DXC Technology's first-quarter 2022 earnings call.
+Our speakers on the call today will be Mike Salvino, our president and CEO; and Ken Sharp, our executive vice president and CFO.
+In accordance with SEC rules, we provided a reconciliation of these measures to their respective and most comparable GAAP measures.
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+Today's agenda will begin with a quick update on our solid Q1 performance, which continues to show that revenue, adjusted EBIT margin, book-to-bill and non-GAAP earnings per share all have a positive trajectory compared to past quarters.
+During our Investor Day in June, we gave you additional insights into the steps of our transformation journey, and those steps are: inspire and take care of our colleagues, focus on our customers, optimize costs, seize the market and build a strong financial foundation.
+I will give updates on each step, and then hand the call over to Ken to share our Q1 financial results, guidance and more details on how we are building a strong financial foundation.
+Regarding our Q1 performance, our revenues were $4.14 billion, and our adjusted EBIT margin was 8%.
+This represents the fourth straight quarter of both revenue stabilization and sequential margin expansion, and we expect both trends to continue in Q2.
+Book-to-bill for the quarter was 1.12.
+This is the fifth straight quarter that we delivered a 1.0 or better book-to-bill, and we expect our success of winning in the market to continue in Q2.
+Our non-GAAP earnings per share was $0.84 in the quarter, which is up 300%, as compared to $0.21 that we delivered in Q1 of FY '21.
+The positive trajectory of all four of these numbers gives us confidence that our playbook is working.
+As a refresher, our playbook has three phases.
+The stabilization phase was completed in FY '21.
+This phase enabled us to make great progress with our colleagues, customers, on revenue, margin, book-to-bill and reducing our debt.
+We are now focused on the foundation phase.
+This phase focuses on the steps that will allow us to deliver growth.
+The goals of this phase are: first, continue to increase our employee engagement, all while we attract and retain highly talented colleagues; second, stabilize year-on-year organic revenue; third, expand adjusted EBIT margins; fourth, consistently deliver a book-to-bill number of 1.0 or greater, with a nice mix of new work and renewals; and finally, under Ken's leadership, deliver a financial foundation that increases discipline and improves our cash flow and earnings power.
+Now I will discuss the good progress we are making on each step of our transformation journey, beginning with inspire and take care of our colleagues.
+We are executing a people-first strategy.
+Attracting and retaining talent is fundamental to enable our growth.
+Our refreshed leadership team has deep industry experience and is delivering.
+Brenda, who is our chief marketing officer, is our newest addition.
+Brenda is a strategic results-oriented leader who brings deep marketing experience to DXC.
+75% of our leadership team is now new to DXC and bringing in talent based on their personal credibility as talent follows talent.
+What the team is finding is that the new DXC story is resonating in the market, and new-hires are wanting to join DXC because they see the opportunity to progress their careers with a company that's on the right trajectory.
+We mentioned during our investor call that nearly 50% of our vice presidents across the company are new to DXC within the last 22 months.
+Also, we are investing in our people.
+This quarter, we rewarded high performance by paying annual bonuses that benefited roughly 45,000 of our colleagues.
+In Q2, we are planning merit increases that will benefit roughly 77,000 of our colleagues.
+In addition to these investments, we are doing a great job of taking care of our colleagues and their families during the pandemic.
+This focus on our colleagues is unique and builds trust with them, increases employee engagement, allows us to compete for talent and enables us to deliver for our customers.
+Focus on our customers is the second step of our transformation journey.
+Our investment in our customers is the primary driver of revenue stabilization.
+It was clear from their comments that the new DXC story is resonating with them because we are delivering.
+These are all large global companies, and they are saying that their IT estates are important.
+In fact, they use the word critical.
+Our strategy of delivering ITO services builds customer intimacy and develops trust that when our customers want to further transform their business, they turn to us, and allows us to move them up the enterprise technology stack.
+Additional evidence that our strategy is working is the nice progress we have made on our GBS business, along with the cloud and security layer of our GIS business.
+All of this gives us confidence that we will deliver on our financial commitments.
+Now let me turn to our cost optimization program.
+We continue to do well, optimizing our costs and delivering for our customers without disruption.
+These levers have helped us expand our margin going from 7.5% last quarter to 8% this quarter.
+You will hear from Ken that we expect to continue to expand margins in Q2.
+Next, seize the market is where we are focused on cross-selling to our existing customers and winning new work.
+The 1.12 book-to-bill that we delivered this quarter is evidence that our plan is working.
+In Q1, 57% of our bookings were new work and 43% were renewals.
+You will see that we are running specific sales campaigns.
+An example of these campaigns is ITO modernization, which is focused on improving the performance of our customers' IT estates.
+Another example is our campaign to show our customers how to think about cloud, which combines on-prem, private cloud and public cloud technology.
+Our ability to deliver a consistent book-to-bill of 1.0 in each of the last five quarters is evidence that these sales campaigns are working and that we can win in the IT services industry.
+This momentum and success in the market gives us confidence that we will deliver another book-to-bill of 1.0 or greater in Q2.
+Turning to our financial performance on Slide 12.
+For the quarter, DXC exceeded the top end of our revenue, margin and earnings guidance, and continued to deliver a strong book-to-bill.
+GAAP revenue was $4.14 billion, $10 million higher than the top end of our guidance range.
+Adjusted EBIT margin was 8% in the quarter, an improvement of 380 basis points as compared to the prior quarter.
+In Q1, bookings were $4.6 billion for a book-to-bill of 1.12, the fifth straight quarter of a book-to-bill greater than one.
+Moving on to Slide 13.
+Our Q1 non-GAAP earnings per share was $0.84 or $0.08 higher than the top end of our guidance, benefiting $0.05 from a lower tax rate.
+Restructuring and TSI expenses were $76 million, down 58% from prior year.
+Free cash flow was a use of cash of $304 million, as compared to a use of cash of $106 million in the prior year.
+We expect free cash flow to improve significantly as the year progresses.
+As the next slide shows, our Q1 FY '22 performance continues our trajectory as we deliver on our transformation journey.
+Starting with organic growth progression, we went from approximately 10% decline in the first three quarters of FY '21 to down 6.5% in the fourth quarter and now down to a decline of 3.7%.
+This is a 40% improvement from the prior quarter.
+Our previous organic revenue growth calculation was not performed in this manner.
+As a result, we have revised the organic growth rates for the prior-year periods in our earnings deck and have further supplemented our organic calculation to include all the information to support the calculation, providing you complete transparency.
+This change does not yield a meaningful difference to our historically reported organic revenue growth rates, trajectory or guidance.
+Adjusted EBIT margin expanded 380 basis points.
+Excluding the impact of dispositions, margin expanded almost 600 basis points.
+We continue to market with five consecutive quarters of a book-to-bill greater than one, and lastly, non-GAAP earnings per share quadrupled.
+Now moving to our GBS business, composed of analytics and engineering, applications and business process services.
+Revenue was $1.9 billion in the quarter.
+Organic revenue growth was positive 2% as compared to prior year.
+In terms of quarterly progression, organic revenues declined about 6% to 7% in the first three quarters of FY '21, declined 3.4% in the fourth quarter and turned to positive 2% this quarter.
+GBS segment profit was $272 million with a 14.4% profit rate, up 450 basis points from the prior year.
+GBS bookings for the quarter were $2.4 billion for a book-to-bill of 1.29.
+As you have seen for a number of quarters, the demand for our GBS offerings, the top half of our technology stack have been quite robust and now yielding positive organic revenue growth.
+Turning to our GIS segment, consisting of IT outsourcing, cloud and security, and modern workplace.
+Revenue was $2.3 billion, down 9.1% year over year on an organic basis.
+We are seeing the rate of decline moderate this quarter despite the headwinds from our modern workplace business.
+GIS segment profit was $131 million with a profit margin of 5.8%, a 480-basis-point margin improvement over the prior-year quarter.
+GIS bookings were $2.2 billion for a book-to-bill of 0.97, compared to 0.77 in the prior year.
+It is safe to say revenues continue to stabilize and demonstrate that with improved customer intimacy and delivery, our revenue is not running away, allowing us to build our growth foundation.
+Now I will break down our segment results, GBS and GIS, into the layers of our enterprise technology stack, starting with GBS.
+Analytics and engineering revenues were $482 million, up 12.9% as compared to prior year.
+We continue to see high demand for our offerings with a book-to-bill of 1.32 in the quarter.
+Applications also continued to demonstrate solid progress with revenue of $1.246 billion, growing organically almost 1%.
+Applications also continues its strong book-to-bill at 1.32.
+Business process services revenues were $118 million, down 13% compared to the prior-year quarter with a book-to-bill of 1.13.
+Cloud and security revenue was $549 million, up 4.9% as compared to the prior year.
+The cloud business is benefiting from increased demand associated with our hybrid cloud offerings.
+Book-to-bill was 0.85 the quarter.
+IT outsourcing revenue was $1.13 billion, down 9% as compared to prior year.
+To put this decline in perspective, last year, this business declined almost 20% year over year.
+We expect this momentum to continue and organic declines to further abate as the year progresses.
+Modern workplace revenues were $577 million, down 19.7% as compared to prior year.
+Book-to-bill was 1.0 in the quarter.
+As you may recall, modern workplace was part of our strategic alternatives and was not part of our transformation journey until recently.
+As a result, we previously disclosed that the performance would be uneven as we invest in the business, enhancing our offerings and innovating the end-user experience.
+As our transformation journey takes hold, we expect modern workplace performance to improve similar to the trend we have seen with our ITO business.
+One of our key initiatives to drive cash flow and improve earnings power is to wind down restructuring in TSI costs.
+We expect to reduce this from an average of $900 million per year over the last four years to $550 million in FY '22 and about $100 million in FY '24.
+On Slide 19, we detail our efforts to strengthen our balance sheet.
+We are proud of what we achieved on this front, reducing our debt by $7 billion, while improving our net debt leverage ratio to 0.9 times.
+Further, we have reached our targeted debt level of $5 billion with relatively low maturities through FY '24.
+From our improved balance sheet, let's move to cash flow for the quarter.
+First-quarter cash flow from operations totaled an outflow of $29 million.
+Free cash flow for the quarter was negative $304 million.
+As you likely realize, with Mike's leadership, we will continue to make decisions to better position the company for the longer term, creating a sustainable business.
+Certain of these decisions impacted cash flow this quarter.
+As our guidance anticipated, we plan to take certain actions that impacted the Q1 cash flow.
+We remain on track to deliver our full-year free cash flow guidance of $500 million.
+Let's now turn to our financial priorities on Slide 21.
+We are working to build a stronger financial foundation and use that base to drive the company forward in a disciplined and rigorous fashion, unleashing DXC's true earnings power.
+Our second priority is to have a strong balance sheet.
+We achieved our targeted debt level.
+We are encouraged by our almost 50% year-over-year interest expense reduction.
+We continue to focus on reducing interest expense and are evaluating refinancing options given the advantageous interest rate environment.
+Third, we will focus on improving cash flow.
+During the quarter, we paid $88 million to draw to conclusion a long-standing $3 billion take-or-pay contract for IT hardware.
+These types of contracts are not efficient, and we are reducing our exposure.
+Additionally, we paid down $300 million of capital leases and asset financing in order to allow us to dispose of IP hardware purchased under the previously mentioned take-or-pay arrangement and realizing tax deduction once we dispose of the unutilized assets.
+Given our relatively low borrowing cost, it makes less sense to enter into capital leases as the borrowing costs are higher and creates other complexities.
+We continue to reduce capital lease and asset financing origination from approximately $1.1 billion in FY '20 to $450 million in FY '21 and believe that we will remain at that level or lower for FY '22.
+As we continue to curtail capital lease origination, our average quarterly lease payment will reduce from about $230 million a quarter in FY '21 to about $170 million near term.
+Our efforts to limit capital leases does create upward pressure on capital expenditures.
+Though, on balance, we expect to reduce cash outflows for both capital leases and capital expenditures over time.
+Lastly, we terminated our German AR securitization program, negatively impacting cash flow by $114 million for the quarter.
+Going forward, this will result in interest savings, strengthen our balance sheet, but more importantly, it will bring us closer to our customers as cash collections is tied to their success.
+Fourth, we will reduce restructuring and TSI expense, improving our cash flow.
+Fifth, as we generate free cash flow, we will appropriately deploy capital to invest in our business and return capital to our shareholders, all the while continuing to maintain our investment-grade credit profile.
+During the quarter, we executed $67 million of stock buybacks to offset dilution, taking advantage of what we believe was an attractive valuation in the market.
+I should note, we continue to make progress with our efforts to optimize our portfolio, unlocking value as we divest noncore assets, including both businesses and facilities.
+We expect to continue these efforts.
+Our results today include the benefit from the sale of assets, partially offset by other discrete items, and the headwind of 30 basis points of margin associated with the disposition of our healthcare provider software business.
+Moving on to second-quarter guidance on Slide 22.
+Revenues between $4.08 billion and $4.13 billion.
+This translates into organic revenue declines of down 1% to down 3%.
+Adjusted EBIT margins of 8% to 8.4%.
+Non-GAAP diluted earnings per share in the range of $0.80 to $0.84.
+As we look forward to the rest of the year, I would note that we expect $175 million of tax payments in Q2 related to the gains on dispositions.
+We also updated our FY '22 interest guidance to approximately $180 million, a $20 million improvement; and reduced our full-year non-GAAP tax rate by 200 basis points to 26%.
+As noted on Slides 23 and 24, we are reaffirming our FY '22 and longer-term guidance.
+Lastly, we expect to see further improvement in the quarterly year-over-year organic revenue growth rates as we move through the year.
+Let me leave you with three key takeaways.
+First, I couldn't be more pleased with the trajectory of the business.
+Our improvement in revenue, margins and earnings per share is evident, and we expect this success to continue.
+Second, we have momentum and continue to win in the market.
+We expect our progress in driving a book-to-bill of over 1.0 to continue.
+Third, our financial foundation is coming together nicely under Ken's leadership.
+We have made great progress on debt reduction, reducing our restructuring and TSI expense, and delivering on our capital allocation priorities.
+These three key takeaways show that we have good momentum, we are building the foundation for growth, and we are confident that we will deliver on our financial commitments.

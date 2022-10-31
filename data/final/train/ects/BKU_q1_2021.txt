@@ -1,0 +1,253 @@
+Let me talk a little bit about the environment before we talk about the results for the quarter.
+We talked to you about 90 days ago.
+So I'll try and draw comparisons to what I said 90 days back.
+I had an optimistic tone 90 days ago, I'm more optimistic today.
+What we're seeing, the data that is coming to us from every angle, whether it's around the vaccination and the pandemic or its economic data across the board, we're seeing more reasons to be optimistic for the remaining of this year and into next year than we were in January.
+In January, we were fairly optimistic to begin with.
+So the economy is opening up.
+Florida is clearly much further along than other parts of the country.
+New York is a little further behind than other parts of the country.
+But overall, our franchise where we do business, we're seeing a lot of positive momentum.
+And then that -- those assumptions then get reflected in our financials, which we will talk to you in some detail.
+But generally feeling very good about economic activity and about the economy opening up and the vaccine rollout.
+Within the company also, I will say that we are trying to gather data on how many employees have been vaccinated.
+It's self-reported data, so it lags a little bit.
+But we're kind of matching up with where the country is.
+About 30% of our employees are either vaccinated or about to be fully vaccinated, and many more are in line.
+Most of the senior management team is now fully vaccinated.
+The quarterly performance, we reported net income of about $99 million, 98.8% to be exact, $1.06 per share.
+This compares to $0.89 that we reported to you last quarter.
+And obviously, last -- this time last year, the first quarter was a loss of $0.33.
+So we've come a long way in a short few months.
+The highlights of the quarter is, again, we'll go through a little bit about the P&L.
+I'll jump to the balance sheet after that.
+Net interest income continued to grow despite elevated levels of liquidity as is the problem across the industry.
+We had NII of $196 million.
+This compares to $193 million last quarter and $181 million compared to the first quarter of last year.
+As we told you three months ago, we were positively biased where it came to NIM guidance, and NIM did expand from 2.33% last quarter to 2.39% this quarter.
+And that expansion really is a result of us executing on our deposit strategy.
+Deposits continue to grow and cost of deposits continue to come down.
+We had another very, very solid quarter.
+Noninterest DDA grew by $957 million, which I'm very happy about.
+The average noninterest DDA grew by $338 million.
+But the number that really makes me happy is that noninterest DDA now stands at about 29% of our total deposits.
+Just in December, we were at 25%.
+At the end of 2019, I think we were at 18%.
+And when we started this deposit-centric strategy about three years ago, we were in the mid-teens.
+I think we were 14% or 15%.
+So we've come a long way, and I'm very, very proud of what the company has achieved.
+Cost of deposits also declined by 10 basis points.
+Last quarter, we were at 43, we're down to 33 basis points for this quarter.
+And I'm very confident that second quarter, we will again show a fairly decent decline.
+And the reason I can say that is because on March 31, on a spot basis, we were already down to 27 basis points.
+So we're starting second quarter at 27, so the number is going to be somewhere in the mid-20s.
+And the guidance that we gave that we will drop our cost of funds -- cost of deposits into the teens by the end of the year stands.
+So overall, feeling very good about what we've been able to achieve on the deposit side.
+And the deposit growth was fairly widespread, came from every part of the bank.
+On credit, the -- let me talk a little bit about loans.
+Loans were down about $500 million.
+Most of that decline was the continued drop in utilization rates online.
+So, I think $425 million of that $505 million was directly attributable to less utilization.
+This has been a negative surprise for us.
+We had made assumptions when we did the plan at the beginning of the year that the line utilization will start to normalize slowly month by month.
+But instead, we saw further declines in January.
+We saw another decline further in February.
+It's only in March where we've seen a slight uptick.
+One month doesn't make a trend, but it's a positive number, and we're happy to see that.
+And hopefully, we'll see this stabilize from here on and we start to get back to normal.
+So Tom will talk to you more about that, but that was what was the biggest driver.
+In terms of credit, let me go over a few things, temporary deferrals and modified loans under CARES Act -- modification under CARES Act, that total number remains stable at about 3% of the portfolio.
+It was 71 basis points last quarter, it's down to 67.
+But if you actually exclude the guaranteed portion of SBA loans, it was 53 basis points.
+Charge-offs declined compared to all of last year.
+I think last year, we were running at about 26 basis point net charge-off rate.
+We're down to 17 basis points this quarter.
+And for the first time since this pandemic hit us, our criticized and classified assets also started to decline.
+And as we see more good economic data come through, more importantly, as we start to see cash flow data come through, I expect this number to start declining a little more rapidly into the second and third quarter.
+So overall, feeling pretty good capital.
+By the way, needless to say, we're in a very strong capital position.
+CET1 ratio is at 13.2% for holdco and 14.8% for the bank.
+We did buy back some stock.
+We bought back about $7.3 million of stock this quarter.
+We still have a little less than $40 million left in the buyback, and we plan to execute it against a buyback opportunistically.
+It's a pretty volatile time in the stock market.
+So we want to use that volatility to our advantage and buy back when they see dips in the stock.
+We did declare a $0.23 dividend, and currently, we anticipate maintaining that level.
+Our book value per share is now at $32.83.
+Tangible book values at $32 even.
+Both are above the pre-pandemic levels.
+So strategy stays the same, continuing to add one core relationship at a time, continuing to focus on noninterest DDA.
+I'll give you an example, something that just crossed my screen late last night.
+We've been looking for this -- we've been calling on this client for a long time, and we're finally able to pry it away from one of the biggest banks in the country.
+It's a firm -- mid-market firm based in Broward.
+The relationship is coming over.
+I won't say from which bank, but it comes with $0.5 million loan and $26 million in deposits with a full suite of treasury management products.
+And a long-standing company, very successful in the community, and very happy to have them be a client of BankUnited.
+So I see a deal or two like this every other day, and that's -- that really is driven by what really adds to the franchise value, and we're focused on that.
+We'll also keep identifying niche markets and segments where we can grow.
+We're now shifting focus.
+We haven't hired very many producers over the course of last year through the pandemic, but we're now focused on bringing on more producers and are in discussions with a number of producers in different geographies.
+Very importantly, we'll continue to invest in technology and innovation.
+This -- actually, I do want to say, this quarter marks the culmination of our two-year journey, the cloud journey, as we call it.
+We are now officially out of the data center business.
+We are a fully cloud-enabled bank.
+Took two years to put everything in the cloud and to be partnered with Amazon.
+They've been great partners.
+And in terms of our capabilities, our infrastructure, and the capabilities that cloud provides us, we're in a very different place than we were two years ago when we started down this path.
+Also, I want to announce that part of this was also the first cloud-native application that we developed, also a very big deal for BankUnited because we never really had any developers.
+We've never developed anything in terms of products for delivering our deposit solutions.
+But two years ago, we decided that mobile banking is such a core function that we cannot just outsource it to the same vendor which every other bank our size goes to.
+That we needed to control this and needed to actually have this in-house.
+We put a lot of effort into developing it.
+It will develop, like I said, in the cloud, and we launched this just last weekend, and converted our entire customer base with no issues at all, and I'm very excited about this big investment that we made.
+Also, let me talk a little bit about 2.0, and specifically 2.0 revenue initiatives.
+As you know, they have been delayed given the pandemic.
+But I'm happy to report that we are actually making progress and getting a lot of traction, all the various things that added up to that revenue target, whether it's a commercial card program, whether it's treasury management space.
+And you'll start to see some of that -- you already are seeing some of that in our P&L.
+Deposit service charges and fees this quarter were up 17% compared to the first quarter of last year.
+This is -- a lot of that is coming from the 2.0 initiatives that we've put in place and more to come.
+Also, the small business initiatives that were also part of 2.0 are now going to pick momentum.
+Small business, as you can imagine, were distracted very much with PPP 1.0 and then PPP 2.0.
+As the PPP and everything related to this gets behind us, we're going to start focusing on that and start delivering on those initiatives as well.
+So overall, feeling pretty good.
+I think it was a pretty solid quarter.
+Tom and Leslie are going to walk you in a little more detail on the businesses and also the financials.
+So let's talk a little bit about the deposit side first.
+And obviously, another excellent, excellent quarter for us in NIDDA growth.
+And as Raj said, I think what's -- when we look back at this quarter, what's most satisfying is we're kind of building this wall brick by brick.
+And when we look at the results that you see in NIDDA, I think the thing that's most gratifying is how broadly it's based across our business lines and also just the number of new relationships that are contributing to this growth, which is where we're seeing the majority of the growth is just coming off of, what we would call, new logos for the quarter were across all business lines and kind of sweet spot type relationships for us that, none are particularly jumbo, the one that Raj mentioned is a little bit larger, but just a broad number of small business, middle market, commercial relationships is really adding to this NIDDA growth.
+So average noninterest-bearing deposits grew by $338 million for the quarter and by $3.1 billion compared to the first quarter of 2020.
+On a period-end basis, noninterest DDA grew by $957 million for the quarter, while total deposits grew by $236 million.
+So we continue to allow more price-sensitive and broker deposits to run off as we've grown the NIDDA base.
+So significantly, time deposits for the quarter declined by $1 billion.
+So if you look at total cost of deposits, as Raj mentioned, declined to 33 basis points for the quarter, 27 basis points on a spot basis, down from 36 as of December 31, 2020.
+And reductions in cost of deposits continue to be broad-based across all product types and all lines of business.
+We continue to forecast good growth in NIDDA, a good continuation of the momentum that we've had.
+Every quarter may not be as strong as this one, but we expect that each quarter to be very good.
+And we also expect overall cost of deposits to continue to decline.
+As Raj mentioned on the loan side, we were down $505 million.
+Q1 is not typically a strong quarter for us.
+We did have $234 million of growth in the residential portfolio with the EBO Ginnie Mae portion contributing $341 million.
+As Raj noted, the majority of our decline for the quarter was really attributed to line utilization, which has got hitting historic lows, but we anticipate that will pick up as we start to see the year unfold, the economy improve, people start to use more inventory purchases and other things happening within the portfolio.
+One interesting sidenote, we looked in -- at our numbers for the quarter and we had a more historic level of line utilization, our commercial loans, our C&I loans would have actually been up.
+It would have contributed another $800 million of base into the C&I portfolio.
+So it gives you some kind of a dynamic for what the line utilization numbers look for.
+As we look forward in the year, we're seeing good growth in pipelines in Q2.
+As Raj noted, obviously, increased economic activity among our clients.
+So we're anticipating, as the year develops, that we'll see growth in our residential teams, our small business lending, our commercial banking teams, core middle market teams, mortgage warehouse lending.
+So we expect the remainder of the year to develop more strongly than we saw in the first quarter.
+Just an update on PPP loans.
+We booked $265 million worth of PPP loans during the first quarter under the Second Draw Program.
+And in numbers of units, it's about 1/3 of what we did in the First Draw Program.
+At this point, we're not accepting any more second draw PPP loans.
+On the forgiveness front, we were -- we forgave $138 million in loans during -- that were made during the First Draw Program.
+We have about $650 million remaining outstanding under the First Draw Program as of March 31.
+Switching gears a little bit, some additional details around deferrals and CARES Act, modifications, Slide 16 in the supplemental deck also provides more details around this.
+The levels of loans on deferral or modified basis remained relatively consistent with prior quarter.
+In commercial, only $35 million of commercial loans.
+We're still on short-term deferral as of March 31, $621 million of commercial loans have been modified under the CARES Act.
+Together, these are $656 million or approximately 4% of the total commercial portfolio, which is pretty consistent with the levels since the end of the last quarter.
+Not unexpectedly, the portfolio segment most impacted has been the CRE, hotel book, where $343 million or 55% of the segment has been modified, also consistent with prior quarter end.
+Residential, excluding the Ginnie Mae early buyout portfolio, $91 million of the loans were on short-term deferral, an additional $15 million had been modified under longer-term CARES Act repayment plans as of March 31.
+This totaled about 2% of the residential portfolio.
+Of $525 million in residential loans that were granted an initial payment deferral, $91 million or 17% are still on deferral, while $434 million or 83% have rolled off.
+Of those that have rolled off, 94% have either paid off or are making their regular payments at this time.
+As it relates to the CRE portfolio, I wanted to spend a little time as we normally do going into some of the occupancy collection rates and some key data on some of the more impacted segments of the portfolio.
+So on average, rent collection rates for the quarter, we continue to see good strength in the office market.
+We saw collection rates of 96%, which were even for both Florida and New York.
+Multifamily loans were at 90% collection rate in New York and 92% collection rate in Florida.
+And retail has continued to improve and performed pretty well at 85% in New York and 99% in Florida.
+I think the big news on the hotel front is we're seeing a lot more strength in the hotel market.
+All of our properties in Florida are open and have been for a considerable period of time.
+Two of the three properties that we have in New York are open, with the third expected to reopen in June.
+Occupancy for the two hotels that are open in New York ran about 80% for March.
+And in Florida, occupancy rates for the entire portfolio, which is a little under 30 hotels in total, averaged 80% in March, with some reporting occupancy rates in the 90% range.
+For those that have tried to find a hotel in Florida recently, it's not so easy to find any place that's now open in Florida.
+So we've seen this improve from 46% last quarter, 56% in January, February was stronger, and March was up to the 80% level, and we're seeing forward forecast for most operators that continue to show strength as we get -- as we start to head toward the summer months.
+From a franchise perspective in the QSR portfolio, we're seeing the majority of our concepts are open, reporting strong same-store sales, particularly those with good drive-through delivery, pickup models.
+We still have a couple of concepts that are predominantly indoor dining that are challenged, but I'd say, on a broad basis, the QSR portfolio is performing much better.
+Staffing is a challenge in this market.
+A lot of our QSR operators are reporting difficulty in bringing in staffing right now with stimulus payments and whatnot flowing through the economy.
+So the labor market is a bit of a challenge.
+But overall, revenue is strengthening in this segment.
+In the fitness segment, Planet Fitness.
+We have two concepts, as you know.
+Planet Fitness, 100% of the stores are now open with payment systems turned on, retention is averaging 90% in that concept.
+And we now have all of our Orange Theory franchises open.
+There's been some decline in membership, but operators are still expecting a full recovery.
+Some of them are still operating at lower capacity levels due to social distancing, but we're seeing a sizable pickup in the Orange Theory franchises as well.
+So we're feeling much better about the QSR and franchise portfolio than we felt last quarter or the quarter before, so seeing a lot of strength there.
+So with that, Leslie, we'll get into a little bit more detail about the quarter now.
+So as Raj mentioned, net interest income grew this quarter, up about 1.5% from the prior quarter and up 9% from the first quarter of the prior year.
+The NIM increased to 2.39% this quarter from 2.33% last quarter in spite of elevated levels of liquidity on the balance sheet, so we were pleased to see that.
+The yield on loans increased to 3.58% this quarter from 3.55% last quarter.
+The recognition of fees on PPP loans that were forgiven added about six basis points to that yield this quarter compared to three last quarter.
+So as we pull that out, pretty flat quarter-to-quarter for the yield on loans.
+And $6.3 million of that relates to the First Draw Program.
+The yield on securities declined by nine basis points to 1.73% for the quarter.
+Spreads remain really tight in the bond market, as I'm sure all of you know, and we continue to experience an accelerated level of prepayments on some of the higher-yielding mortgage-backed securities.
+So those yields do remain under pressure.
+The total cost of deposits declined by 10 basis points quarter-over-quarter with the cost of interest-bearing deposits declining by 13 basis points.
+We do expect that to continue to decline given that the spot rate was 27 basis points at quarter end.
+It's going to be at least somewhat lower than that, so we will see an additional decline this quarter, although maybe not as much as we've seen in the last two quarters.
+The cost of FHLB borrowings did increase to 2.32% as the borrowings that were paid down were short-term lower rate advances compared to the hedged advances that remain on the balance sheet.
+In the aggregate, there's about $1.6 billion of hedged advances that are scheduled to mature over the remainder of 2021, with a weighted average rate in excess of 2%.
+And we continue to evaluate the economics and whether it makes sense to terminate some of the longer-dated hedges that are out there.
+We do expect the NIM to continue to increase, we expect it to grow next quarter.
+It will be helped by PPP forgiveness, but even excluding that, we expect the NIM to continue to grow up -- to go up.
+Shifting gears a little bit to talk about CECL and the reserve.
+Overall, the provision for credit losses for the quarter was a recovery of $28 million, compared to a recovery of $1.6 million last quarter, and obviously, a provision of $125 million in the first quarter of 2020, which was the quarter where we really booked our big provision related to the onset of COVID.
+The negative provision this quarter primarily resulted from an improving economic forecast.
+And within the forecast, the improvement in outlook for unemployment was the biggest driver of the reserve release.
+The reserve declined from 1.08% to 0.95% of loans, and Slides nine through 11 of our deck gives some further details on the allowance.
+Major drivers of change, the reserve went down $36 million related to the economic forecast, again, primarily the change in unemployment.
+A decrease of $10.1 million due to charge-offs, most of which related to one BFG franchise loan that was having trouble even prior to COVID.
+A decrease of $12.8 million due to changes in the portfolio mix and the net decline in the balance of loans outstanding.
+$6.1 million increase in qualitative reserves.
+$9.6 million increase related to updates of certain assumptions, primarily updated prepayment speeds.
+An increase of $6.8 million related to loans that were further downgraded to the substandard accruing category.
+So those are the major components of the move in the reserve for the quarter.
+I do want to point out that the reduction in the reserve for the quarter was primarily related to the pass rated portion of the portfolio.
+The reserve for pass rated loans declined from $137 million to $93 million, while the reserve for non-pass loans increased from $120 million to $128 million.
+So as we move forward, our expectation would be if economic trajectory plays out as we think it's going to, we would expect to see some upward risk rating migration, and that should -- that would, in turn, result in some further reductions in the reserve.
+Some of the key economic forecast assumptions that drove the reserve, and I'll remind you that it's really a lot more complicated than this.
+This is a very high-level look at some of the data points that are in the economic forecast.
+National unemployment declining to 5% by the end of 2021 and trending down to just over 4% by the end of 2022.
+Real GDP growth of just over 7% by the end of 2021 and 2.3% for '22.
+The S&P 500 index remaining relatively stable at around 3,700 and Fed funds rates staying at or near zero into 2023.
+Little bit of detail on risk rating migration, and you can see a breakdown of all of this on Slides 23 through 26 in the deck.
+Total criticized and classified assets declined by about $75 million this quarter, but we did see some migration into the substandard accruing category from special mention.
+We do, again, expect to see some positive tailwinds here if the economy continues to improve, as we expect it to, as we move through 2021.
+In terms of the migration to substandard accrual, the largest categories where we saw that were CRE, hotel, multifamily, New York, and office.
+Nonperforming loans did decline this quarter, from $244 million to $234 million.
+Just to quickly wrap up, when I look forward to the rest of 2021, to reiterate Tom's comments, we do expect noninterest DDA growth to continue as well as total deposit growth.
+But our focus remains on noninterest DDA, and we're more than willing, given our liquidity position, to allow more rate-sensitive and brokered deposits to run off.
+FHLB advances will continue to decline, and securities will probably grow in the low to mid-single digits, depending on our liquidity position.
+The provision, always the fun one to try to forecast.
+Under CECL, the provision should, in theory, be related to new loan production, while charge-offs should reduce the reserve.
+If we do see positive risk rating migration as we currently expect, we'll see some further reserve release related to that.
+Net interest income should be up mid-single digits over 2020, as should noninterest income excluding securities gains which tend to be episodic, and we don't make any attempt to predict those.
+And with respect to expenses, I'd say the guidance we gave in January has not changed.
+Leslie, I'll just add to your little color.
+This is a very hard time to try and predict what will happen.
+We gave you guidance three months ago, and I look at various aspects of our guidance.
+On the deposit side, we're way ahead of what we thought we would do, to be very honest.
+This quarter was much better than what was in our plan.
+On the loan side, we had also expected that we'll start bringing in -- increasing our line utilization, instead it actually declined.
+Now with the exception of March where it went up 0.5 point, so it sort of went in the right direction a little bit.
+But December to Jan, Jan to Feb, it was just -- it surprised us because we were seeing economic activity around us, but we were not seeing the line utilization.
+So, I think the guidance overall -- we still feel pretty good about where the trajectory will be for earnings.
+But in terms of deposit, I think we will outperform.
+On the loan side, I think we said low to mid-single digits, we'll probably be in the low single digits based on what we see now.
+And margin, we still feel pretty good.
+We've already delivered a nice expansion in margin, and we'll continue to do that.
+So overall, I feel fairly good.
+I was in Miami for the first time after 12 months, two weeks ago.
+I spent a few days there and -- just to see the hustle and bustle that is -- that I've been hearing about from everyone for the last several months now.
+But to actually see it and feel it, I will tell you that if you are planning summer vacations, nobody can go to Europe and people are planning to go to either Hawaii or Florida or other places.
+Now is the time to book your hotels.
+You are not going to find any hotel rooms if you wait another month.
+That's how active Miami Beach and Miami generally is.
+So very, very positive trends that we're seeing.
+Some silly things also happening in Miami Beach, but that just comes with the territory.
+But let's turn this over and take some questions.

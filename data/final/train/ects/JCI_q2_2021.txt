@@ -1,0 +1,142 @@
+Joining me on the call today are Johnson Controls' Chairman and Chief Executive Officer, George Oliver; and our Chief Financial Officer, Olivier Leonetti.
+In discussing our results during the call, references to adjusted earnings per share EBITA and EBIT exclude restructuring and integration costs as well as other special items.
+Additionally, all comparisons to the prior year are on a continuing ops basis.
+Let me kick things off with a brief update, spotlighting a few specific areas related to our strategic initiatives and Olivier will provide a detailed review of Q3 results and update you on our forward outlook.
+Let's get started on Slide 3.
+Another quarter of solid results with demand accelerating across most of our end markets as a robust recovery continues to expand.
+Q3 represents our easiest comparison of the year, but I am encouraged to see the underlying sequential improvement experienced in the first half continue to accelerate in the third quarter, with many of our businesses back to operating at pre-pandemic volume levels.
+Nonresidential construction markets continue to recover, led by the ongoing strength in retrofit activity tied to demand for healthy building solutions.
+New construction is also beginning to show signs of stabilization and the inflection in order trends for our longer cycle project businesses sets us up well as we look to next year and beyond.
+Our service business has recovered, and we continue to transform this business through our digital service strategy to drive higher levels of recurring revenue and an improved growth profile.
+This recovery has not been without its challenges.
+We have managed through significant headwinds related to persistent supply chain disruptions, component shortages, labor constraints and continued inflation.
+While these dynamics have created some revenue pressure, which will continue near term, the pace and composition of order growth in the quarter provides confidence that we will remain on track over the medium and long term.
+As you may recall, in an effort to mitigate the severe impact of the volume declines during the height of the pandemic, we implemented significant cost actions last year.
+These actions provided a material boost to profitability in the prior year period and led to best-in-class decrementals.
+Lapping that difficult comparison in managing the return of some of those variable costs, coupled with navigating current capacity constraints and supply disruptions, has resulted in significant margin pressure.
+That said, we were able to deliver better-than-expected margin expansion in the quarter and remain on-track to meet our targets for the full year, which is a remarkable accomplishment in the current environment.
+At the same time, we remain laser-focused on executing our strategy, which is driving continued share gains.
+As we will discuss over the next few slides, we continue to advance our efforts to deliver innovative solutions to help customers enhance building performance and reduce costs, while achieving their net-zero carbon and renewable energy goals.
+This will be accomplished through our ongoing digital transformation enabled by OpenBlue and accelerating our offerings to deliver the outcomes our customers need.
+Continuing our trend to highlight a few notable achievements over the past quarter, recently, we launched the latest offering under our OpenBlue platform Net Zero Buildings as a Service.
+I will spend more time on this announcement in a few minutes as this represents an important step forward in enabling our customers' achievement of decarbonization and sustainability commitments.
+We have now filed our 200th U.S. patent application and received 90 U.S. patents for OpenBlue energy optimization innovations.
+We announced another strategic partnership with DigiCert, which will allow us to leverage their IoT device manager, an industry-leading automated digital certificate platform to encrypt data and authenticate the identity of users, devices or services within a building.
+This will further expand Johnson Controls' already robust capabilities around cybersecurity risk management, providing our customers peace of mind and resilient solutions that ensure hardware, software and communications remain trusted throughout the building life cycle.
+Together with the announcement of our partnership with Pelion last quarter, OpenBlue solutions users will have confidence that their devices are safely and securely connected to the network.
+About two weeks ago, we launched the Community College partnership program aimed at expanding and advancing associate degree and certificate programs in HVAC, fire and security and digital building automation systems across the U.S. Over the next five years, Johnson Controls will grant $15 million to nonprofit community colleges in support of academic programs that train and develop the next generation of skilled trades technicians.
+In addition to the funding, Johnson Controls employees will be increasing their support through volunteer and mentorship programs and also provide a pathway for our student internships and entry-level employment opportunities.
+Lastly, we are proud to have received additional recognition for our efforts to ensure we create a diverse and inclusive work environment, recently being named as one of the best companies for multicultural women by Seramount.
+We are also proud to be a part of the full 2021 list of best employees for diversity as well as the Financial Times European Climate Leaders list, further demonstrating our commitment to sustainability.
+Vijay is transforming our software organization, strengthening our engineering development processes and expanding the solution set of our OpenBlue platform.
+We are excited to have Vijay on board.
+He is already having an incredible impact internally, and you will hear more from him at our upcoming Investor Day.
+Let's move to Slide 5 for a brief update on trends in our service business.
+As we have shared with you over the past couple of quarters, accelerating growth in service has been a strategic initiative underway since well before the pandemic.
+Ultimately, the actions we are taking are designed to drive 200 or 300 basis points of above-market growth, which would place us firmly in the mid-single-digit annual growth range for the entire $6-plus billion in revenues.
+Our approach is multifaceted, simultaneously focusing on increasing our contractual service attach rate, reducing attrition and driving higher revenue per user while transforming our offerings through digital.
+Enabling higher digital content and connecting our installed base compounds our ability to create higher levels of recurring revenue over time.
+In the quarter, service revenue increased 11%, in line with the rebound we expected with double-digit growth across all three regions.
+Order growth also accelerated, as expected, up 13%.
+And our attachment rate year-to-date has now improved close to 400 basis points, already achieving our guidance range for the full year.
+We expect to continue this pace going forward, again, aided by our digital services and solutions, which were up mid-teens in the quarter.
+Please go to Slide 6.
+I referenced our new OpenBlue offering, Net Zero Buildings as a Service back on Slide 4, and I thought I would spend a few minutes highlighting the importance of this launch.
+Not only does this offering fulfill an immediate need as expressed by our customers, it also represents the next phase in the evolution of our digital, smart buildings offerings, which will drive our shift toward increased deployment of higher recurring as-a-service revenue models.
+Our broad Building Systems portfolio and market-leading capabilities and expertise in ESCO projects combined with the OpenBlue software platform, uniquely positions Johnson Controls to provide customers with guaranteed outcomes and risk management models to achieve their emission reduction commitments.
+Based on our high level of customer engagement and the extensive market-backed research conducted leading up to the development of this solution, the need for a trusted partner to deliver a one-source seamless road map to net-zero and the urgency to reduce carbon emissions is clear.
+What is also clear is that digitally enabled solutions that tie together the IT and OT in the built environment are the only ways to provide these road maps.
+And nearly $250 billion, sustainability and decarbonization is a once-in-a-generation opportunity and we are excited about our role in leading these critical trends.
+Net Zero Buildings as a Service includes a full portfolio of sustainability offerings tailored to schools, campuses, data centers, healthcare facilities as well as commercial and industrial verticals.
+It leverages a game-changing new solution, Net Zero Advisor, which delivers turnkey, AI-driven tracking and reporting of sustainability metrics and helps building operators ensure improved carbon reduction and renewable energy impacts of their buildings.
+We also leveraged the full OpenBlue suite of connected solutions and services offered through flexible risk-sharing models that enable tailored deal structures where end users pay for outcomes rather than assets.
+Turning quickly to Slide 7.
+Just a few examples of customer wins tied to the theme of decarbonization and Net Zero.
+I won't go through each of these.
+But in every example, Johnson Controls is providing unique solutions to solve the outcomes our customers are looking for.
+Some of these new relationships are borne out of our digital partner ecosystem while some are long-standing relationships where we are converting existing building automation systems to OpenBlue or advancing customers' ongoing sustainability initiatives.
+In all of these, we are driving energy efficiency, reducing energy consumption, driving cost savings and emission reductions.
+Our teams remain dedicated to achieving top-tier performance despite some of the short-term challenges we are facing.
+We are watching closely the resurgence of COVID cases and the potential impacts renewed lockdowns and supply chain constraints may or may not have on project activity.
+And from a supply chain perspective, we are confident in our ability to manage access to critical materials and components.
+Although lead times and conversion cycles are stretching, we believe conditions will begin to improve over the next couple of quarters.
+We are successfully leveraging our pricing capabilities to offset inflation, and we still expect to remain price cost positive for the year.
+At the same time, we are making tremendous progress on our strategic initiatives to accelerate top line growth and improve profitability, including indoor air quality, decarbonization, smart buildings, digital services and our productivity program, and we continue to reinvest in our portfolio, both organically and inorganically.
+We believe we are extremely well positioned to outperform throughout the next cycle.
+Continuing on Slide 8.
+Organic sales accelerated in Q3, up 15% overall, in line with the guidance we provided last quarter as growth in Global Products and our field businesses accelerated.
+The strength in Global Products was across the board from continued high level of demand in residential end markets, including both our global HVAC equipment and security products to the anticipated rebound in commercial HVAC and Fire & Security.
+Segment EBITA increased 21% versus the prior year and segment EBITA margin expanded 30 basis points to 16.2%.
+Better leverage on higher volumes, the benefit of our SG&A actions and strong execution more than offset the significant headwind from the reversal of temporary cost reductions and a modest headwind from negative price cost.
+EPS of $0.83 increased 24%, benefiting from higher profitability as well as a lower share count.
+On cash, we had another strong quarter.
+Free cash flow in the quarter was $735 million, flat versus the prior year despite the planned uptick in capex.
+I will review further details of our performance later in the call.
+Orders for our field businesses increased 18% year-over-year, accelerating at a faster pace than expected, led by continued strength in retrofit project activity, which we include in install, but also stabilization in new construction activity.
+Service orders recovered above pre-pandemic level, up 13%, led primarily by improving conditions for our transactional service business.
+Backlog grew 7% to $10 billion with service backlog up 5% and installed backlog up 7%.
+Conversion rates in our service backlog continued to accelerate.
+Our installed backlog flow is improving, particularly given the rebound in retrofit activity, which turns more quickly.
+Turning to our earnings per share bridge on Slide 10.
+Let me touch on a few key items.
+Operations were a $0.16 tailwind versus the prior year, driven by higher volumes and favorable mix, partially offset by price cost and the reversal of prior year mitigating cost actions.
+Just to further emphasize the magnitude of the headwinds from the temporary actions.
+Excluding this impact, underlying incrementals in Q3 were just over 30%.
+We're on track with our SG&A productivity program, which equated to a benefit of around $0.03.
+Since we spoke last time, we have already begun taking some of the necessary actions to achieve the savings related to our COGS program, which will begin impacting the P&L in fiscal 2022.
+We are well on-track to achieve our savings targets for fiscal '21 and beyond.
+My commentary will also refer to the segment end market performance included on Slide 12.
+North America revenues grew 8% organically with solid growth in both service and install.
+Service revenues were higher in all domain, driven by a sharp rebound in our transactional service business, which increased nearly 30%.
+Installed demand, which is the area of our business that was most impacted by supply chain disruptions, continues to be driven by shorter cycle retrofit and upgrade projects in addition to easier prior year comparisons.
+By domain, commercial applied HVAC revenue grew mid-single digits, while Fire & Security increased low double digits in the quarter.
+We had another strong quarter in performance infrastructure, which also grew revenues low double digits.
+This business has a leading position in the ESCO market, which is well positioned to address customers' decarbonization needs.
+Segment margin decreased 70 basis points year-over-year to 14.7% as North America experienced the most headwinds from the reversal of temporary cost given the majority of the action in the prior year related to furloughs and other employee compensation-related expense.
+Orders in North America accelerated on a sequential basis and grew 18% versus the prior year with mid-teens growth in Fire & Security and performance infrastructure.
+Commercial HVAC orders were up over 20% overall, driven by strong retrofit activity with equipment orders up over 50%.
+Backlog to $6.2 billion increased 6% year-over-year.
+Revenue in EMEALA increased 17% organically, led by strong recovery in installed activity.
+Non-resi construction grew more than 25% in the quarter, with most verticals returning to 2019 levels, led by increased demand for energy-related infrastructure projects.
+Fire & Security, which accounts for nearly 60% of segment revenues inflected sharply, growing at a mid-20s rate in Q3 and surfacing 2019 levels.
+Industrial refrigeration grew 20% and commercial HVAC and controls grew high single digits.
+By geography, revenue growth in Europe accelerated to nearly 25%, while the Middle East declined low double digits and Latin America increased 10%.
+Segment EBITA margins increased 250 basis points, driven by volume leverage and the benefit of SG&A actions.
+Orders in EMEALA accelerated further, increasing 22% in the quarter with strong growth in Fire & Security and Commercial HVAC.
+APAC revenues increased 14% organically with install and service increasing by the same amount.
+Commercial HVAC and controls revenue grew mid-teens, primarily driven by the ongoing recovery we are seeing in China.
+EBITA margins declined 380 basis points year-over-year to 11.8% as the benefit of volume leverage was more than offset by the significant temporary cost mitigation actions taken in the prior year and geographic mix.
+APAC orders grew 14%, driven by continued strength in Commercial HVAC in China and recovery in controls business in Japan.
+Economic conditions outside of China remain mixed with uncertainty increasing as ongoing and renewed lockdown restrictions across parts of Southeast Asia, Australia and part of Japan following rise in COVID cases and continued delays in the rollout of vaccines.
+Global Products revenue grew 21% on an organic basis in the quarter, in line with what we initially expected despite incremental headwinds related to COVID lockdown in Asia and the short-term supply chain restrictions.
+In aggregate, we continue to gain share across most of our portfolio.
+Our global Residential HVAC business was up 16% in the quarter, with strong growth in all regions.
+North America resi HVAC grew mid-teens in the quarter, slightly ahead of our expectations, benefiting from a stronger sell-through demand, particularly in April and May.
+Our JCH Residential HVAC business was up high teens, led by strong share gains in Japan and Taiwan as part of a successful effort to attain the number-one residential share position in those markets.
+Although not reflected in our revenue growth, our iSense joint venture grew revenue 44% year-over-year in Q3, expanding our leading shares in China.
+Commercial HVAC sales improved significantly up more than 20% with our indirect applied business up more 25%.
+Light commercial industry up over 20%, led by the recovery in North America and VRF up high single digits.
+Fire & Security products growth was above 30%, led by continued strength in our security business, which grew over 40% in the quarter.
+Commercial fire detection and suppression products were up low to mid-20s on easier year comparisons and the stabilization in key vertical markets.
+EBITDA margin expanded 140 basis points year-over-year to 20.9% as volume leverage, positive mix increased equity income and the benefit of SG&A actions more than offset the significant temporary cost actions taken in the prior year as well as current price cost pressure.
+Turning to Slide 13.
+As expected, corporate expense increased significantly year-over-year of an abnormally low level to $70 million.
+For the full year, we now expect corporate expense to be in the range of $280 million to $285 million, slightly below the low end of the prior guide.
+For modeling purposes, we have included an updated outlook for some of our below-the-line items.
+I would point out that amortization expense now reflects the impact of Silent-Aire.
+Turning to our balance sheet and cash flow on Slide 14, starting with the balance sheet at the top of the page.
+Similar to last quarter, no significant changes versus the prior period other than the net reduction in cash due to the closing of the Silent-Aire transaction.
+Our balance sheet remains healthy with leverage of roughly 1.8 times, still below our targeted range of 2 times to 2.5 times.
+On cash, we generated $735 million in free cash flow in the quarter, bringing us to nearly $1.7 billion year-to-date.
+This is a significant improvement compared to our normal year-to-date seasonality and has been driven by solid trade working capital management and the timing of capex and order payments.
+We expect a much lower conversion level in the fourth quarter given the reversal of some timing benefits.
+For the full year, we expect free cash flow conversion to be approximately 105%.
+During the third quarter, we repurchased a little more than 5 million shares for roughly $340 million, which brings us to around 19 million shares year-to-date, completing our $1 billion program.
+We expect to repurchase an incremental $350 million of shares in Q4.
+For the full year, we're raising our guidance once again and now target adjusted earnings per share in the range of $2.64 to $2.66.
+This puts the midpoint at the high end of our previous earnings per share guidance of $2.58 to $2.65.
+Based on our strong performance year-to-date and the continued underlying momentum we are seeing in most of our end markets, we continue to expect organic sales growth in the mid-single digits.
+Segment EBITA margins are tracking toward the high end of our most recent range, and we now expect 80 to 90 basis points of expansion for the full year, which includes a 10-basis point headwind related to the acquisition of Silent-Aire.
+Based on the full year guide, Q4 adjusted earnings per share is expected to be in the range of $0.86 to $0.88, which assumes mid-single-digit organic revenue growth and 30 basis points of segment EBITA margin expansion.
+We made the decision to host the event virtually.
+Registration details will be available over the next couple of weeks.

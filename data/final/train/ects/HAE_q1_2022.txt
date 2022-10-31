@@ -1,0 +1,104 @@
+I'm joined today by Chris Simon, our CEO and Bill Burke, our CFO.
+Additionally, we provided a complete P&L, balance sheet, summary statement of cash flows as well as reconciliations of our GAAP to non-GAAP financial results and guidance.
+Please note that these measures exclude certain charges and income items.
+Today, we reported organic revenue growth of 6% and adjusted earnings per share of $0.50, up $0.04 or 9% compared with the first quarter of the prior year.
+We are encouraged by our overall performance despite the impact of the COVID pandemic.
+We are trending favorably and anticipate continued improvements in plasma collection volumes, strong procedure recovery is fueling outsized growth in our hospital segments, and the blood center market is resilient.
+I want to share some updates about how we are evolving our approach to managing the businesses to meet our growth commitments.
+Chad Nikel has been named President, Global Plasma and Blood Center businesses.
+Chad is a business builder who has been an integral part of Haemonetics for 12 years.
+His vast knowledge of our products and our markets across the globe make him uniquely qualified to lead this business.
+Under Chad's leadership, we can leverage our expertise in collection and donor management to achieve a broader global footprint.
+Two years ago, we unveiled our operational excellence program to improve quality and service by transforming the way we source, make, and deliver products.
+Our goal was to achieve $80 million to $90 million in gross savings by the end of fiscal '23.
+I am proud to share that despite the headwinds in the past two years, we are planning to meet our savings target and save an additional $35 million by extending this program through the end of fiscal '25.
+This will further strengthen our financial health and help offset losses from the anticipated transition of CSL in fiscal '23, rising inflationary pressures, and the effects of the pandemic.
+Expanding the program allows us to take a fresh look at our operations, identify new opportunities, and make new investments in sustainable solutions that will have a positive impact on our daily operations, customer support, and longer-term financial performance.
+We look forward to sharing more insight into our long-term plans at our Virtual Investor Day later this year.
+Finally, we announced earlier this week, Lloyd Johnson has joined our Board of Directors.
+Lloyd brings significant financial management, international operations, and business development insight.
+Additionally, Ellen Zane has been elected Chair of our Board.
+These updates reflect Haemonetics' ongoing commitment to refreshment, diversity, and augmenting our experienced base.
+Now on to the business units.
+Plasma revenue increased 6% in the quarter as the pandemic and the associated government subsidies continued to have a pronounced effect on the U.S. source plasma donor pool.
+North America disposables revenue increased 3% in the quarter driven by improvement in collections volume partially offset by price adjustments including the expiration of fixed term pricing on a historical PCS2 technology enhancement.
+Sequentially, U.S. source plasma collection volumes declined 6% compared with about 6% seasonal improvement historically as additional economic stimulus hindered recovery.
+Plasma collections in Europe showed continued recovery in the first quarter specifically in the Czech Republic and Hungary driven by fewer COVID-related restrictions and plasma center growth.
+We had double-digit growth in our plasma software revenue in the quarter supported by additional recovery in plasma collection volumes and our Donor 360 app, which enables plasma donors to register at home and streamline the pre-collection process with enhanced safety, efficiency, and convenience.
+Software is a strategic lever for our customers and we continue to invest in value-adding innovation to support their recovery and growth.
+NexLynk is a key enabler and differentiator for NexSys and we believe our combined technologies offer the most benefit to our plasma customers through improved collection yield, faster and more efficient center operations, improved compliance and donor satisfaction.
+As we emerge from the pandemic, the sustained increases in available donors, the operational benefits of NexSys PCS integrated with NexLynk DMS will be a valuable tool to help collection centers accommodate greater donor traffic.
+Collection center conversions are on track as we plan to upgrade our customers to the latest version of NexLynk DMS software later this year and complete the transition of our major customers to NexSys PCS devices by mid-fiscal '23.
+We've made significant progress with our Persona technology and early adopters are benefiting from an additional 9% to 12% plasma yield per donation.
+Their positive feedback and real-world data validate the value proposition of our technology and confirm that there is no impact on repeat donations and donor deferral rates.
+We anticipate additional Persona conversions in the second half of our fiscal '22.
+The demand for plasma-derived medicines remains strong and our customers continue to take steps to recruit and retain donors.
+As the industry recovers from the pandemic, we expect to return to the long-term 8% to 10% growth of U.S. sourced plasma collections and we see potential to grow in excess of that as customers strive to replenish depleted plasma inventories.
+As we approach the midpoint of our second quarter, collections have improved 21% compared with the 14% improvement in the first quarter.
+This increased growth is consistent with the high-end of our fiscal '22 plasma guidance.
+We remain vigilant about potential disruptions caused by new COVID variants and recent reinforcement of the U.S. border policy, but we anticipate strong plasma collection recoveries in the second half of the year and a firm fiscal '22 organic revenue growth of 15% to 25%.
+Moving to hospital, revenue grew 26% in the quarter primarily due to continued improvements in hospital procedures driving increased utilization of disposables, strong capital sales in North America, and new business opportunities in Europe.
+We saw continued recovery across all of our key markets although recovery trends outside of the U.S. were uneven due to concerns about new COVID variants and slower vaccine distribution.
+Hemostasis Management revenue grew 31% in the quarter.
+U.S. led the charge with growth in the adoption and utilization of TEG disposables and strong instrument placements.
+We also increased market share in Europe including the award of a new tender for the use of our ClotPro technology acquired in fiscal '21.
+Cell Salvage revenue was up 27% in the quarter with double-digit growth across all of our key markets.
+Growth was supported by continuous recovery in procedure volumes and capital sales as we continue to upgrade our customers to our latest technology.
+Transfusion Management grew 11% in the quarter primarily driven by strong growth in SafeTrace Tx as we completed new account installations in the U.S. BloodTrack also showed significant growth in the U.S. with a slight decline in international markets as new COVID concerns delayed implementation.
+We affirm our expectation for 15% to 20% organic revenue growth in hospital including Hemostasis Management organic revenue growth in the mid-20s.
+This growth rate assumes hospital procedures continue to improve throughout the year and will be fully recovered across all geographies by the end of fiscal 2022.
+Our newly acquired VASCADE vascular closure business delivered $22 million in revenue in the first quarter, exceeding our expectations.
+Both VASCADE products delivered meaningful results through accelerated penetration into new accounts and increased utilization within existing accounts.
+We are enthusiastic about the continued growth of this business supported by greater procedure volumes, higher diagnosis rates, increased hospital efficiency and an overall move to standard of care.
+We are also expanding internationally by securing regulatory approvals and developing go-to-market strategies for faster and broader penetration.
+We are increasing our fiscal '22 revenue guidance from $65 million to $75 million to $75 million to $85 million as we look to accelerate additional growth through further investments.
+Blood center revenue declined 6% in the first quarter.
+Apheresis revenue declined 3% in the quarter and was impacted by unfavorable order timing and lost revenue from the previously announced customer loss included in our first quarter fiscal '21 results.
+We are encouraged by the resilience of this business and the altruistic nature of blood donors.
+Platelet collections in Japan fully recovered although that growth was partially offset by a reduction in plasma collections due to prolonged COVID-related state of emergency.
+We also experienced strong market demand for platelets in China driven by our expansion in Tier 2 markets.
+Whole blood revenue declined 14% driven by lower collection volumes and discontinued customer contracts in North America.
+Our expectations for the blood center business are unchanged and our fiscal '22 revenue guidance is a decline of 6% to 8%.
+Chris has already discussed revenue.
+So I will start with adjusted gross margin, which was 54.7% in the first quarter, an increase of 750 basis points compared with the first quarter of the prior year.
+Our adjusted gross margin benefited from the addition of Vascular Closure devices from the Cardiva Medical acquisition as well as favorable mix from our remaining product portfolio as our businesses continue to recover from the effects of the pandemic.
+In manufacturing and supply chain, we had improved operating efficiency due to higher volume and lower expenses related to the pandemic.
+We also continued to drive savings from the operational excellence program.
+These benefits were partially offset by previous divestitures and price adjustments.
+Adjusted operating expenses in the first quarter were $87.1 million, an increase of $23.4 million or 37% when compared with the prior year.
+As a percentage of revenue, adjusted operating expenses increased by 550 basis points and were at 38%.
+The acquisition of Cardiva had the largest impact on the increase in adjusted operating expenses.
+Also affecting the increase were higher variable compensation, spending beginning to return to normal levels, an increase in freight costs, and higher research and development expenses to strengthen our technology.
+Our first quarter adjusted operating income was $37.9 million, an increase of $9.4 million or 33% compared with the prior year.
+This improvement in adjusted operating income was driven by higher adjusted gross margin partially offset by the increase in adjusted operating expenses.
+Our adjusted operating margin was 16.6% in the first quarter, an increase of 200 basis points compared with the same period in fiscal '21.
+As our business continues to recover from the pandemic, we continue to generate additional savings through the operational excellence program.
+We anticipate increased leverage in adjusted operating margin.
+We affirm adjusted operating margin guidance of fiscal '22 to be in the range of 19% to 20%.
+Our adjusted income tax rate was 24% in the first quarter compared with 4% in the same period of fiscal '21.
+The adjusted income tax rate in the first quarter of fiscal '21 was abnormally low due to the benefit of higher performance share vestings.
+We now expect our fiscal '22 adjusted tax rate to be 22%.
+First quarter adjusted net income was $25.4 million, up $1.7 million or 7% and adjusted earnings per diluted share was up was $0.50, up 9% when compared to the first quarter of fiscal '21.
+The adjusted income tax rate in the first quarter of fiscal '22 had a $0.13 downward impact on adjusted earnings per diluted share when compared with the prior year.
+Our Vascular Closure business is exceeding original expectations and we expect this business to be net neutral to adjusted earnings per diluted share in fiscal '22 compared with our original expectation of $0.15 to $0.20 dilution in the first year following the acquisition.
+We expect this overperformance will be driven by stronger commercial execution and difference in capital structure when compared with the original deal model and will allow us to generate additional resources to fund growth investments across the company.
+Today we announced a revised operational excellence program with total gross savings of $115 million to $125 million that will deliver $80 million to $90 million in gross savings by the end of fiscal '23, which is in line with our original expectations with an additional $35 million in savings by the end of fiscal '25 with the return of volume back to pre-pandemic levels.
+We expect the majority of the savings realized to benefit adjusted operating income by the end of fiscal '23 and about half of the total savings passing through by the completion of this program in fiscal '25.
+The exact pace of the operational excellence program savings and net impact on adjusted results will be communicated with our guidance for each fiscal year.
+Additionally, we expect to incur $95 million to $105 million in restructuring and restructuring related costs over the course of this program.
+In addition to updating the total estimated gross savings for this program, we accelerated the pace of these savings in fiscal '22 and now expect this program to deliver gross savings of approximately $33 million, an increase of $11 million or 50% when compared with our previous guidance.
+Due to increasing inflationary pressures and investments in manufacturing, we anticipate about 25% of these savings will benefit adjusted operating income in fiscal '22.
+We expect fiscal '22 adjusted earnings per diluted share to be in the range of $2.60 to $3.00.
+Cash on hand at the end of the first quarter was $173 million, a decrease of $19 million since the beginning of the fiscal year.
+Free cash flow before restructuring and turnaround costs was $2 million compared with $11 million in the same quarter of the prior year.
+The lower free cash flow before restructuring and turnaround costs in fiscal '22 was due to higher accounts receivable as our revenue continued to recover from the pandemic and higher capital expenses primarily related to the operational excellence program partially offset by lower inventory growth.
+We affirm our previous guidance and continue to expect free cash flow before restructuring and turnaround expenses in fiscal '22 to be $135 million to $155 million.
+Our capital allocation priorities remain unchanged and we continue to prioritize organic growth followed by inorganic opportunities and share buybacks.
+In the short-term, we will focus on investments into core capabilities and technologies that make our products distinctive.
+Before we open the call up to Q&A, I want to reiterate the key points that we hope you take away from today's call.
+First quarter results show encouraging performance across our business supported by strong procedure recovery in our hospital business, resilience of blood donors in blood centers, and initial rollouts of our Persona technology and plasma.
+We believe there are no structural changes in the underlying demand for our products and we continue to anticipate full recovery across all of our businesses by the end of fiscal '22 but the exact pace of the recovery, particularly in plasma remains the biggest variable included within our affirmed guidance.
+The recently acquired VASCADE vascular closure technology is exceeding our expectations with strong revenue growth and increased leverage delivering no dilution to adjusted earnings per diluted share one year ahead of the original deal model.
+This business strengthens our market position, expands the market opportunity, and further enables our portfolio to capitalize on the market recovery ahead.
+We remain committed to delivering value for our customers and our shareholders as we pursue growth strategies to maintain market leadership, to develop innovative products and partnership with our customers, and to drive productivity and efficiency of scale with an expanded operational excellence program.
+And lastly, our team has been working diligently on updating our long range plan and we are looking forward to sharing it at our Virtual Investor Day expected at the end of this calendar year.

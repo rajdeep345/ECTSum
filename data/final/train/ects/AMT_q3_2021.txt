@@ -1,0 +1,189 @@
+And then Rod Smith, our executive vice president, CFO, and treasurer, will discuss our Q3 2021 results and revised full year outlook.
+Examples of these statements include our expectations regarding future growth, including our 2021 outlook, capital allocation, and future operating performance; our expectations regarding the impacts of COVID-19; and any other statements regarding matters that are not historical fact.
+Consistent with our prior Q3 calls, my comments today will center on the key trends driving our business now and how we think the technological landscape will develop in the future.
+I'll touch on how we are positioned to benefit as 5G deployments accelerate in cloud-native applications in the edge of all, particularly in the United States.
+Additionally, I'll spend some time discussing our European markets, where we now have a scaled presence and are poised to create further value as technology evolves there, and then briefly cover what we are seeing in our earlier-stage international markets.
+Finally, I'll outline some of the progress we've made in some of those same emerging markets and the platform expansion side, particularly with respect to our investments in sustainability and renewable energy as we continue to lead the industry into a greener future.
+At a high level, much of my commentary today will sound familiar to those of you who have listened in on prior technology-focused calls, and we view that as a positive.
+Technology is evolving and advancing right in line with our expectations.
+In the long-term secular trends that have driven and continue to drive, our business remains strong.
+There are also new developments in the marketplace around the overall digital ecosystem that we are excited about and our tenants continue to power ahead with their network augmentation and expansion activities.
+Taken together, this is a backdrop that we expect will lead to sustained attractive growth for us over the long term.
+Central to this belief is the view that our core global macro tower business will be the foundation of our success and the main driver of our cash flows for the foreseeable future, as macro towers should remain the most cost and technology efficient network deployment solution in most topographies worldwide.
+Our conviction in this regard has only grown stronger over time supported by our customers' significant investments in new spectrum assets, record levels of wireless capex spending in markets like the United States, and numerous public statements by them indicating their intention to utilize macro sites to drive aggressive deployments of 5G and other wireless technologies globally.
+We continue to view mid-band spectrum, which includes the recently auctioned C-band and the two and a half gig band currently being deployed in the U.S., as the workhorse of the true 5G experience, and we believe to be the fundamental enabler of the immersive next-generation 5G applications and use cases that are set to emerge as coverage improves and advanced devices penetrate the market.
+Importantly, we continue to expect the propagation characteristics of the sub-6 gig frequencies, compared to traditionally deployed mobile spectrum to necessitate significant network densification over the long term supporting a multiyear period of strong growth on our tower sites.
+today, generating record services revenues, driven by all of the major carriers as they accelerate the early stages of their respective 5G deployments.
+Further, application volumes within our property business are strong, supported by expected wireless capex spend in the mid-$30 billion range this year.
+Industry experts anticipate that these elevated levels of capital spending will be sustained for a number of years, driven by a mobile data usage growth CAGR of more than 25% over the next five years.
+Amazingly, this follows a more than 25% CAGR for the last five years, and cumulative growth of approximately 7,500% over the last decade.
+This compelling demand backdrop, coupled with the long-term noncancelable leases that comprise our more than $60 billion global contractual backlog, gives us confidence in our ability to drive organic tenant billings growth in the mid-single-digit range on average in the U.S. through 2027, and to drive higher growth rates abroad in that same period.
+I'll touch on this further in a few minutes.
+But as a quick reminder, these baseline growth expectations exclude any material contributions from our various platform expansion initiatives.
+What they do include are expectations for an extended period of solid growth in our European markets, where we are seeing similar network growth trends to the United States with early stage 5G deployments set to accelerate in the coming years.
+We expect that our newly scaled European presence will allow us to drive long-term value creation as the explosion of mobile data usage across the region continues and the need for communications infrastructure accelerates as a result.
+Across Germany, Spain, and France, where 5G mobile subscriptions currently make up less than 5% of the total user base, we expect mobile data usage per smartphone to grow by more than 25% annually for the next five years, similar to the United States, and consequently expect capex spend across the three markets to exceed $11 billion annually over a similar time period.
+And as happened in the United States, we are already seeing this acceleration in network investment translate into elevated activity.
+In fact, in the third quarter, normalizing for the impacts of the Telxius deal co-location and amendment contributions to European organic tenant billings growth rose by around 200 basis points year over year.
+Although we expect a significant portion of initial 5G investments to be focused in urban locations across our European footprint where roughly 80% of the population resides, we anticipate urban-oriented consumer demand to be complemented by an ongoing push from European regulators to deliver rural connectivity, which will represent another opportunity for us to drive colocation on our tower sites in those areas.
+We believe our balance of rural and recently expanded urban assets positions us well to capture significant market share of upcoming 5G deployments over the next decade.
+Finally, in our earlier stage markets across Latin America, Asia, and Africa, we continue to see solid demand for our critical infrastructure largely driven by deployments of legacy network technologies, particularly 4G.
+Whether looking at Brazil, Mexico, India, or Nigeria, consumers are rapidly increasing their utilization of smartphones, thereby driving mobile data usage growth higher.
+In many of these regions, existing network infrastructure is insufficient to support this deluge of usage as cell site performance is challenged with increased levels of network load.
+In response to these trends, we are aggressively marketing our existing assets and continue to look for additional acquisition opportunities to bolster our footprint in these markets.
+But at the same time, we have significantly ramped up our new build program given the tremendous need for entirely new infrastructure.
+In fact, if you take the nearly 5,900 sites we built last year and add our expected 7,000 sites at the midpoint of our outlook to be constructed this year, it would represent almost as many sites as the previous five years combined.
+And as we laid out a few quarters ago, we are targeting the construction of up to 40 to 50,000 new sites over the next five years.
+With day one NOI yields on these builds continuing to average above 10%, we are excited about deploying significant capital to these initiatives going forward as we capitalize on the advancement of network technology across the emerging world while helping to connect billions of people.
+In addition to the core secular growth trends driving our global tower business, we are seeing indications, particularly in more mature markets like the United States, of a broad evolution within the overall wireless ecosystem.
+This evolution is closely intertwined with 5G and includes an increased prevalence of cloud-native network solutions, more emphasis on the various permutations of the network edge and an ever-increasing intersection of the wired and wireless portions of today's converged network architecture.
+As networks virtualize, O-RAN or Open RAN, it's expected to become a more important option to improve their economics.
+We are now starting to see this phenomenon with DISH in the United States, and in Germany, where one and one has spoken extensively about its intent to utilize this technology.
+By utilizing O-RAN, carriers have the potential to optimize network design and drive cost efficiencies, freeing up incremental capital to invest in densification and other network enhancements that help drive growth in site deployments and colocations.
+Importantly, the role of the tower in this evolving network design is as critical as ever.
+While base station functionality will likely continue to evolve to be cloud native software agile, the radio equipment that is placed on the tower itself, which has always driven our revenue, will continue to reside on the tower.
+Importantly, we believe we can leverage our extensive global distributed real estate portfolio to not only drive continued strong growth in our core tower business but also to take advantage of other emerging opportunities as networks virtualize.
+This may include multi-access edge computing and potential other edge cloud permutations of neutral host infrastructure.
+At the end of the day, modern software-driven networks are becoming smarter, faster, more capable, and more dynamic, and we are focused on ensuring that American Tower has a meaningful role to play in this context on the infrastructure and real estate side of the equation.
+One of the areas we focused on is the development of the network edge or, more accurately, the development of multiple layers of the network edge.
+With the need for lower latency expected to become more and more critical over time with applications like AR, VR, telemedicine, real-time analytics, autonomous driving, entertainment, streaming, you name it, and many others are beginning to emerge, we continue to believe that this could be a meaningful opportunity for American Tower.
+As we've done more work on the evolution of the edge, the concept of multiple edge layers has come into better focus.
+Today, for example, by far the most prevalent layer is the regional metro edge owned, for the most part, by the large data center companies where vast amounts of data processing is then centralized.
+These locations provide access to cloud on-ramps and are absolutely critical within today's networks.
+We expect this need to be the case for the foreseeable future.
+In fact, as the volume of data carried across networks continues to explode, we anticipate the demand for these types of large-scale facilities will only grow.
+The upside of these locations is their size and capacity.
+The downside, to this point, hasn't been all that relevant, is the fairly significant network transit costs and latency built into reaching these central compute functions as the data often has to travel hundreds of miles to reach these destinations.
+These transit costs and latency considerations, which we expect to become more important in the future, will necessitate more edge locations as uplink data increases from IoT use cases and demands for distributed computing advance.
+The next layer beyond the metro edge, in our view, will be the aggregation edge.
+Here, you're likely to post C-RAN hubs and future MEC applications as network virtualization advances, along with distributed data processing, AI inferencing, and other compute functions which will need reduced latency.
+The major hyperscalers continue to evolve their edge cloud platforms so that they can extend computing capabilities deeper into the mobile access network at the aggregation edge.
+The next layer beyond this, which we turn the access edge is where our existing tower sites are located today, offering an opportunity to meaningfully enhance the value of our legacy real estate.
+We expect to eventually see vRAN and O-RAN network functions, AI inferencing, data caching, and a variety of other next-generation AR and VR cloud-native ultra-low-latency applications residing at these locations.
+Finally, we've also identified the on-premise edge, which would lie beyond even our tower sites and could eventually help support private networks, smart factories, and a host of other applications located at the end-user site.
+At the end of the day, our 20,000-foot view is that all of these edge elements will need to fit together to provide a cohesive framework for full-scale 5G across the network ecosystem.
+The goal for us is to figure out what the optimal linkages between the layers look like, who are the key players will be and what elements of the edge we may want to own in order to further enhance the strong long-term growth we expect from our core existing business.
+To date, as we seek to connect the dots, we've been active with a number of trial edge compute sites at the access edge while also operating our Colo ATL metro data center interconnection facility in Atlanta.
+Through these investments, we have built relationships with key existing and potential future customers, have learned a tremendous amount about key demand trends and have had a front row seat for the beginning stages of the convergence of wireless and wireline networks that I alluded to earlier.
+More recently, we acquired DataSite, a data center company, consisting of two multi-tenant data centers in the Atlanta area and in Orlando.
+In addition to strengthening our existing position in Atlanta, the addition of a network dense carrier hotel facility in Orlando provides us with a strong Southeastern presence with the profile and characteristics that we believe will be critical in the early evolution of the metro edge as we evaluate its role in the mobile networks of the future.
+We expect these facilities, which have 18 megawatts of combined power, an additional four and a half megawatts of expansion capacity, to effectively complement Colo ATL and enable us to enhance our ability to develop neutral-host, multi-operator, multi-cloud data centers to support the broader core to edge connectivity evolution in the United States.
+We continue to believe that while a scaled application-driven edge-oriented business model is still likely several years away, it has the potential to be a sizable market opportunity with meaningful potential upside, not only in the United States, but also on a global basis.
+Leading global MNOs are now positioning their networks with released 16 5G stand-alone core features to explore edge cloud opportunities.
+And with our distributed macro side presence key markets around the world, we think we are well positioned to potentially be a provider of choice on the edge, particularly for large multinational MNOs and other categories of customers who may be looking for a multi-market solution.
+Switching gears a bit.
+While we believe edge compute will eventually also be relevant in emerging markets, it is unlikely to happen in the immediate future.
+Consequently, we have focused our platform expansion efforts across our developing regions and other areas, most notably on increasing the sustainability and efficiency of power provisioning in our sites.
+As we highlighted in our recently published 2020 corporate sustainability report, we've continued to make progress toward our goal of reducing diesel-related greenhouse gas emissions by 60% by 2027 from a 2017 baseline.
+In 2020, we achieved an additional 8% reduction from 2019, reaching 53% of the 10-year goal.
+We are continuing to make solid progress in 2021 with an expectation to spend an additional $80 million toward energy-efficient solutions, primarily in lithium ion and solar power across our Africa footprint, which will bring our cumulative spend to nearly $250 million.
+And as we announced earlier this week, we are furthering our commitment to combat climate change by adopting science-based targets, which we expect to help inform our future investments in sustainability.
+In addition to the positive environmental benefits from these investments, we are also delivering shareholder value through AFFO per share accretion.
+Lithium ion batteries provide significant energy efficiency, density, and lifespan improvements over legacy solutions.
+And while, to date, AFFO benefits to American Tower have largely come through fuel savings we anticipate over time that our yields on these investments will further expand as we are able to lengthen battery and generator replacement cycles.
+Having already expanded our lithium ion-powered site count from 4,500 in 2019 to 6,700 in 2020, we are targeting another 8,000 sites by the end of 2022 and recently signed a multimillion dollar bulk battery purchase agreement in Africa in support of this goal.
+Importantly, we believe that energy efficiency, the use of renewables, and sustainability in our broader sense can represent an important competitive advantage for us, not only from the flow-through to AFFO, but also the differentiation in service quality for our customers.
+We continue to view sustainability as a critical component of our company culture, and we'll be highlighting our continued progress in future sustainability reports, which I encourage all of you to read by the way.
+In closing, our excitement around 5G on a global basis continues to grow.
+Consumers and enterprises are using more advanced devices for more things, resulting in consistent elevated growth in mobile data usage, which, in turn, strains existing wireless networks and necessitates incremental densification and network improvement.
+Considerable new spectrum is being deployed.
+New entrants in select markets are building greenfield networks, and our macro tower-oriented portfolio remains well positioned to capture a significant portion of wireless investment activity.
+In addition, through our platform expansion strategy, we are focused on ensuring that the company benefits from the ongoing convergence of wireless and wireline and the associated expansion of virtualization in cloud-native applications throughout the network ecosystem.
+Importantly, as we optimize our core business and look for ways to further enhance our growth path in the broader digital infrastructure world, we are as committed as ever to driving profitability, sustainability, and recurring growth.
+We're energized by the future and are excited to be in a vibrant industry that is helping to connect the world.
+I hope you and your families are well.
+Q3 was another quarter of strong performance for us.
+And as you heard from Tom, we are as encouraged as ever by the technological trends that underpin our long-term growth potential.
+Before digging into the details of our results and raised outlook, I'd like to touch on a few highlights from the quarter.
+First, we closed on our strategic partnership agreements with CDPQ and Allianz, through which they purchased an aggregate of 48% of our ATC Europe business for a total consideration of around EUR 2.6 billion.
+In addition, we closed the remaining 4,000 Telxius communication sites in Germany back in August.
+With the transaction now fully closed and funded, our teams are working to rapidly integrate the assets, and we are already seeing encouraging activity on the portfolio.
+Second, we continued to strengthen our balance sheet, raising roughly $3 billion in senior unsecured notes, including our euro offering earlier this month.
+Through our financing transactions, we have been able to maintain an attractive weighted average cost of debt while also continuing to extend our maturities.
+As a result of this activity, along with the benefit from a nonrecurring advance payment received from a tenant during the quarter, we finished Q3 with net leverage of 4.9 times.
+While we expect net leverage to increase back into the low 5 times range in the fourth quarter, we are right on track with our overall post-Telxius delevering path.
+And lastly, we saw another quarter of record services activity in the U.S. as carriers accelerated 5G-related projects.
+We view this as a leading indicator of strong levels of gross leasing in our property segment as we head into 2022 and beyond.
+As you can see, our consolidated property revenue grew by over 19% year over year or over 18% on an FX-neutral basis to nearly $2.4 billion.
+This included U.S. and Canada property revenue growth of around 10% and international property revenue growth of over 31% or 13% when excluding the impacts of the Telxius acquisition.
+This strong performance is indicative of a continuation of the long-term secular trends driving demand for our infrastructure assets across the globe.
+Moving to the right side of the slide, we also had a solid quarter of organic tenant billings growth throughout the business.
+On a consolidated basis, organic tenant billings growth was nearly 5% for a second consecutive quarter.
+and Canada segment of over 4%.
+Contributions from colocation and amendments were more than 3%.
+Escalators came in at 3.2%, and churn was just over 2%.
+Moving to our international operations.
+We drove organic tenant billings growth of nearly 6%, reflecting a sequential acceleration of around 60 basis points.
+Africa was our fastest growing region in the quarter, posting organic tenant billings growth of well over 9% led by Nigeria, where we continue to see 4G investments driving both colocation activity and new site construction.
+We also saw a consistent quarter in Latin America, where organic tenant billings growth was right around 7%, driven by solid new business and higher escalators primarily in Brazil.
+Meanwhile, European organic tenant billings growth accelerated by around 100 basis points sequentially to nearly 5.5% as expected.
+Excluding impacts from the Telxius acquisition, organic tenant billings growth in the region would have been over 4.5% in the quarter, more than 200 basis points higher than the year-ago period, driven primarily by new business contributions.
+This positive trend reflects both ongoing 4G activity and early 5G investments leading to solid growth from both colocations and amendments.
+Looking to Germany, in particular, we saw a more than 300-basis-point increase in colocation and amendment contributions in our legacy business, as compared to the prior year period, resulting in organic tenant billings growth of over 5.5%, up from 5.2% in the second quarter.
+Finally, in Asia Pacific, we saw organic tenant billings growth of 0.7%, up roughly 200 basis points as compared to Q2.
+This reflects a modest acceleration in gross new business activity, coupled with a more than 2% sequential decline in churn, which was in line with our expectations.
+Turning to Slide 7.
+Our third quarter adjusted EBITDA grew more than 19% or over 18% on an FX-neutral basis to nearly $1.6 billion.
+Adjusted EBITDA margin was 63.2%, which was down compared to Q3 2020 as a result of adding new lower initial tenancy assets to our portfolio, which we believe will drive strong organic growth and, therefore, margin expansion in the future.
+Cash SG&A as a percent of total property revenue was around 7.3%, a roughly 40-basis-point sequential improvement.
+Moving to the right side of the slide, consolidated AFFO growth was over 13% with consolidated AFFO per share of $2.53, reflecting a per share growth of nearly 11%.
+This was driven by strong performance in our core business, contributions from new assets and around $13 million in year-over-year FX favorability.
+Our performance also reflected the benefits of our commitment to driving efficiency throughout our operations and minimizing financing costs despite growing the portfolio by nearly 38,000 sites over the last year.
+And finally, AFFO per share attributable to AMT common stockholders was $2.49, reflecting a year-over-year growth rate of nearly 12%.
+Let's now turn to our updated outlook for the full year.
+I'll start by reviewing a few of the key updated assumptions.
+First, our expectations for organic growth across the business are consistent with our prior outlook.
+Carriers continue to deploy meaningful capital as they invest in network quality, and we are seeing numerous bands of spectrum being deployed for both 4G and 5G.
+We are also slightly increasing our expectations for services revenue for the year to around $235 million as a result of an outsized third quarter, although this implies that services volumes will moderate somewhat in Q4.
+Second, as a result of our focus on operational efficiency and cost controls, along with some onetime benefits, we expect to be able to take some costs out of the business as compared to our prior expectations.
+Combined with the current services gross margin outperformance, this will drive our adjusted EBITDA margin expectations higher for the balance of the year.
+Third, in India, we are encouraged by recent regulatory reforms, which we believe can provide some much-needed breathing room for capital-constrained carriers in the marketplace and improve the telecom environment overall.
+While we believe this is a clear positive first step toward market recovery, we continue to expect flat 2021 organic tenant billings growth in the region as we further evaluate the long-term impacts of these developments on the sector.
+Finally, incorporating the latest FX projections, our current outlook reflects negative FX impacts of $30 million for property revenue, $20 million for adjusted EBITDA, and $15 million for consolidated AFFO as compared to our prior expectations.
+With that, let's move to the details of our revised full year outlook.
+Looking at Slide 8, as expected, leasing trends remained strong across our global business, and as a result of an increase in pass-through together with some modest core property revenue outperformance, we are raising our property revenue outlook by $10 million.
+This represents 14% year-over-year growth at the midpoint and includes $30 million in unfavorable translational FX impacts as compared to our prior outlook.
+Moving to Slide 9.
+You'll see that we are reiterating our organic tenant billings growth expectations of approximately 4% on a consolidated basis.
+This includes roughly 3% growth in our U.S. and Canada segment where 5G deployments are driving solid activity levels as we exit the year.
+As a reminder, we expect the first and largest tranche of contractual Sprint churn to hit our run rate in the fourth quarter of this year.
+organic tenant billings growth rate of negative 1%, as we communicated previously.
+On the international side, we continue to anticipate organic tenant billings growth in the range of 5 to 6% as carriers continue to focus their efforts on enhancing and densifying wireless networks in the face of ever-rising mobile data demand.
+Moving to Slide 10.
+We are raising our adjusted EBITDA outlook by approximately $50 million and now expect year-over-year growth of nearly 16%.
+This increase reflects continued strength in our services segment, where we now expect to see roughly $145 million in services gross margin for the year, up from the 123 million implied in our prior guidance with year-over-year growth of more than 180%.
+On the cost side of the equation, we continue to maintain cost discipline globally, helping to drive adjusted EBITDA margins up by around 40 basis points for the full year as compared to prior expectations.
+Turning to Slide 11.
+We are also raising our full year AFFO expectations and now expect year-over-year growth in consolidated AFFO of roughly 15% with an implied outlook midpoint of $9.64 per share.
+The flow-through of incremental cash-adjusted EBITDA, coupled with the continued cash tax and net cash interest benefits as compared to the prior expectations are being partially offset by around $15 million in negative translational FX impacts.
+On a per share basis, we now expect growth of approximately 14% for the year consistent with our long-term growth ambitions that we highlighted at the start of the year.
+Finally, AFFO attributable to ATC common stockholders per share is expected to grow by nearly 12% versus 2020, incorporating the minority interest impacts of our strategic partnership with CDPQ and Allianz in Europe.
+Moving on to Slide 12.
+Let's review our capital deployment expectations for 2021.
+As you can see, we remain focused on deploying capital toward assets that drive strong sustainable growth in AFFO per share coupled with a growing dividend, providing our investors with a compelling combination of growth plus yield.
+Working our way through the specific categories, our first priority remains our dividend.
+For the full year, we continue to expect to distribute $2.3 billion, subject to board approval, which implies a roughly 15% year-over-year per share growth rate.
+As a reminder, our dividend growth will continue to be driven by underlying growth in our REIT taxable income, incorporating the impacts of M&A and other moving pieces in the business.
+Consistent with our prior comments, we anticipate growing our dividend by at least 10% annually in the coming years.
+Moving on to capex.
+We reiterate our expectations of spending nearly $1.6 billion at the midpoint with nearly 90% being discretionary in nature.
+Driving a good portion of this discretionary capex is our continued expectation to construct 7,000 sites at the midpoint this year with the vast majority in our international markets.
+Including contributions from minority partners, we have deployed around $10 billion so far this year primarily for the Telxius transaction.
+as well as for smaller transactions, including DataSite.
+In total, of our nearly $14 billion in expected capital deployment for the year, we expect over 80% to be composed of discretionary growth capex and M&A.
+Moving to the center of the slide.
+You can see the composition of our $35 billion in cumulative capital deployments since the start of 2017, including our 2021 full year expectations.
+We continue to augment our developed market presence, which we believe positions us optimally to drive value from accelerating 5G deployments and next-generation technology evolutions, as Tom laid out earlier.
+We are also allocating capital toward higher growth earlier-stage markets that are typically at least five years behind the U.S. and Europe in their network deployments.
+Taken together, we believe that our global footprint positions us to capture multiple waves of investments across the globe over a sustained period of time.
+Finally, you can see that more than a quarter or around $9.5 billion of our deployed capital in the last five years has been distributed to shareholders in the form of dividends and share repurchases.
+We continue to view these components as critical to total shareholder returns.
+Moving to the right side of the chart.
+Supporting this phase of significant investment and growth has been our investment-grade balance sheet.
+We believe that our access to low-cost, diversified sources of financing has been a key differentiator and are proactively working to extend this critical competitive advantage into the future.
+In fact, incorporating our latest financing efforts, we now have a weighted average cost of debt of around 2.4%, a weighted average tenor of debt of approximately seven years, and over 85% of our balance sheet locked into fixed rate instruments.
+Finally, on Slide 13, and in summary, in Q3, we continue to capitalize on a strong global demand backdrop, delivering our highest quarter of consolidated AFFO per share on record.
+This was driven by solid organic growth, record-setting services volumes, disciplined cost controls, strategic balance sheet management, and accretive portfolio expansion.
+As we look ahead, we believe our existing global real estate portfolio is well positioned to drive long-term recurring growth as carriers augment and extend their networks.
+And with the strength of our investment-grade balance sheet and diversified pool of funding sources, we expect to continue to deploy capital toward accretive investments that can enhance our growth path and enable us to create additional value.
+Given our positioning at the intersection of real estate and technology in an ever more interconnected world, we are excited to continue to deliver connectivity to billions of people worldwide in a sustainable way while driving compelling total returns for our shareholders.

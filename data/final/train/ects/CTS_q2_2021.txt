@@ -1,0 +1,114 @@
+Sales in the second quarter were $129.6 million, up 54% compared to the same period in 2020.
+Customer demand remains robust, while supply challenges persist especially for automotive products.
+Second quarter gross margin was 36.8%, up 525 basis points from 31.6% in the second quarter of 2020.
+Though improved, gross margin performance continues to be impacted by semiconductor and commodity price increases, as well as increased logistics costs.
+EBITDA margin of 21.5% was up 480 basis points from 16.7% in the same period last year.
+Second quarter adjusted earnings per share of $0.52 were up 225% from $0.16 in the second quarter of 2020.
+Later, Ashish will add color to the GAAP performance including a non-cash charge related to the U.S. pension plan termination.
+Operating cash flow of $19 million was up from $12 million in the second quarter of 2020.
+New business awards of $174 million were solid and up from $105 million in the same period last year.
+Ashish Agrawal, our CFO, is with me for today's call and will take us through the Safe Harbor statement.
+And more information can be found in the company's SEC Filings.
+To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investor section of the CTS website.
+I will now turn the discussion back over to our CEO, Kieran O'Sullivan.
+In the second quarter, our sales were $129.6 million, up 54% from the second quarter of 2020.
+Excluding sales from the acquisition of Sensor Scientific, sales were up 52% organically.
+The SSI acquisition continues to deliver solid growth.
+As I referenced in our last earnings call, we expected the transportation sales run rate to be slightly lower than our first quarter 2021 performance due to ongoing supply challenges.
+Our teams worked creatively and diligently to secure parts, approved substitutions and adapt with speed to support our customers.
+Transportation sales while up 88% from the same period last year would have been stronger by a few million dollars if we did not have these supply challenges.
+We expect the supply challenges and some customer shutdowns to persist in the second half.
+New business awards were $174 million for the quarter, up from $105 million in the same period last year.
+We added three new customers in the quarter; two in transportation and one in telecom.
+In Asia, we added a new transportation customer in China for a large platform that would ship in the 2023 timeframe.
+Across the accelerator modules, we had wins with two existing customers in China, secured awards with two Japanese OEMs for the North American market and added a new electric vehicle customer in Europe.
+With passive safety sensors, we had wins with existing Tier 1 customers across all three regions with one of the wins for an EV application.
+In Europe and North America, we had wins for throttle position and transmission position sensing.
+Bookings and sales for two-wheeler applications were strong in Asia.
+We continue to advance our diversification strategy by growing in non-transportation end markets.
+In Defense, we had several undersea sonar wins and we also maintain good momentum with our RF filter products for GPS anti-jamming applications.
+Temperature sensor wins were solid in defense, and we had an important win for an aviation application in Europe.
+In Industrial, we continue to see strong demand for temperature products across pool and spa as well as HVAC applications.
+We also had a large win in industrial printing, securing a two-year contract where the market has expanded into new applications such as garment printing.
+Momentum in medical markets was positive but with inconsistencies regionally due to countries emerging from lockdowns and some customers being impacted by material shortages.
+We had various temperature application wins and additional wins in CPAP, medical ultrasound and intravenous drug delivery.
+For medical ultrasound, our design wins are increasing through new programs with existing customers and several new customers sampling our solutions.
+We received two transportation OEM quality awards and we're also recognized for delivery performance by an industrial OEM and a large distributor.
+Overall, across all end markets, demand remains robust.
+Some automotive customers have confirmed demand through 2022.
+Order intake for electronic components was strong in the second quarter.
+Although we've not seen signs so far, we remain cautious of potential inventory buildup in various end markets.
+This past quarter we announced the $50 million stock buyback program.
+As we look to capital deployment, our emphasis remains firmly on supporting organic growth investments and using our strong balance sheet to advance on M&A in alignment with our strategic priorities.
+We continue to strengthen our M&A pipeline.
+Potential changes in capital gains taxation may also provide some further momentum in our areas of interest.
+We continue to seek to expand our range of technologies, products, customers, and geographic reach.
+And at the same time, continue to diversify our end market profile to complement our quality of earnings.
+For the second quarter, transportation sales represented 55% of our total company revenues as we made progress in Industrial, Medical, and Defense sales.
+Operationally, we can see the end of our journey and the rollout of the SAP system, though we will continue to optimize our learnings and capabilities.
+The previously announced restructuring savings of $0.22 to $0.26 by the second half of 2022 are tracking close to the target range.
+Building the CTS operating system capability continues with four sites advancing their proficiency on the system and tools as we aim to empower our teams and strengthen operational and enterprise expertise.
+Transitioning to end markets, the semiconductor shortage is expected to reduce vehicle builds by 6 million units this year.
+The supply of global microcontrollers is improving from companies such as Renesas and NXP, which should deliver some improvements to vehicle OEMs. For the U.S. light vehicles transportation market, demand remains robust.
+We still expect approximately a 15 million to 16 million unit range this year, up double digits year-over-year.
+On-hand days of supply are between 25 and 30 days, the lowest in recent history, and down 50% since January of this year.
+European production is forecasted in the 16 million to 18 million unit range with some uncertainty persisting due to the extended COVID lockdowns.
+The Chinese market has fluctuated recently showing the first chip-related impact.
+China volumes are expected in the range of 23 million to 25 million unit range for this year.
+The commercial vehicle market remains strong, not only for this year but likely into the first half of 2022.
+The biggest challenge is the supply of semiconductors as demand remains robust.
+As I mentioned earlier, for transportation, the supply challenges will continue to impact our sales in the second half of this year.
+However, we see improvements in medical as well as solid growth in industrial and defense markets.
+In terms of guidance for the full year 2021, we are updating our range.
+Our previous guidance was for sales in the range of $445 million to $500 million, and adjusted earnings in the range of $1.35 to $1.70.
+We are now updating our guidance for sales to be in the range of $480 million to $500 million, and adjusted earnings are expected to be in the range of $1.70 to $1.90.
+Further updates will be provided as we continue to monitor the ongoing supply challenges.
+Phase 2 of our journey and our biggest priority as we advance toward our 2025 goals is layering on a more robust sales growth profile.
+Our teams are making progress as we continue to focus on existing accounts and add resources and capabilities to further support business development.
+At this time, Ashish will take us through the financial performance.
+Second quarter sales were $129.6 million, up 54% compared to the second quarter of 2020 and up 1% sequentially from the first quarter.
+Sales to transportation customers bounced back 88% compared with the pandemic-driven lows in the second quarter of 2020.
+However, we were down 6% sequentially as we saw the impact of supply challenges on global production volumes.
+Sales to other end markets increased 26% year-over-year and were up 10% sequentially.
+We had another quarter of solid year-over-year double-digit growth in the industrial as well as aerospace and defense end markets.
+Sales to the transportation end market represented 55% of our total revenue.
+This reflects progress toward our strategic goal to further diversify our business by growth in the Industrial, Medical as well as Aerospace and Defense end markets.
+Our two temperature sensing acquisitions have performed well and had strong top line growth in the second quarter.
+Changes in foreign exchange rates impacted our revenue favorably by approximately $2.7 million.
+Our gross margin was 36.8% in the second quarter, up 525 basis points compared to the second quarter of 2020 and up 360 basis points sequentially from the first quarter of 2021.
+These improvements reflect the progress in operational efficiency in our foundry operations over the last 12 months, as well as improvements in other parts of our business.
+We also benefited from a larger portion of our revenue coming from the Industrial, Medical and Aerospace and Defense end markets.
+Raw material price increases, as well as freight costs continue to impact us unfavorably.
+And we are working closely with our customer base to offset or share these cost increases.
+In the last quarter, we generated $0.03 of earnings per share in savings from our restructuring program announced in the third quarter of 2020, bringing the total savings to $0.12 of earnings per share so far.
+As we mentioned back in April, the timing of some of our projects is being impacted due to the ongoing impact of COVID-19 on travel, as well as an increase in demand.
+We are still on track to achieve the targeted annualized savings of $0.22 to $0.26 by the end of 2022.
+SG&A and R&D expenses were $27 million or 21% for the second quarter.
+Operating expenses increased primarily as a result of reinstating cost cuts made during the pandemic to offset the impact of revenue decline and higher incentive compensation expenses.
+In the second quarter, we recorded a non-cash charge of $20.1 million related to the termination of the U.S. pension plan.
+We are expecting the remaining non-cash charge of approximately $101 million to be booked in the third quarter when we complete the settlement process.
+As a reminder, these are non-cash charges and the U.S. pension plan is expected to be overfunded at settlement.
+Second quarter tax rate was 246% as a result of the impact of the pension settlement charge on our income statement.
+We anticipate our 2021 tax rate to be in the range of 19% to 21% excluding the impact of the pension settlement and other discrete items.
+We are carefully watching the new tax proposals and initiatives of the Biden Administration, and we'll discuss the impact on our business in the coming months as we get more clarity.
+Second quarter 2021 earnings were $0.03 per diluted share.
+Adjusted earnings per diluted share were $0.52 compared to $0.16 for the same period last year and $0.46 last quarter.
+Now I'll discuss the balance sheet and cash flow.
+Our controllable working capital is essentially flat from the end of 2020.
+While we remain focused on working capital efficiency, we anticipate carrying some excess inventory where possible to manage supply chain concerns over the next few quarters.
+Our operating cash flow was $19 million for the second quarter which is an improvement from $12 million in the second quarter of 2020.
+We generated $16 million in free cash flow.
+Capex was low in the first half primarily due to the timing of various projects.
+In 2021, we expect capex to be in the range of 4% to 4.5% of sales.
+Our cash balance on June 30, 2021 was $117 million, up from $92 million on December 31, 2020.
+Our long-term debt balance was $50 million, down from $55 million on December 31, 2020.
+Our debt to capitalization ratio was at 9.9% at the end of the second quarter compared to 11.4% at the end of 2020.
+The combination of a strong balance sheet with a net cash position and access to approximately $250 million through our credit facility gives us the liquidity to make progress on the right M&A transactions.
+In early July, we successfully went live on SAP at Boise, Idaho, and Tecate, Mexico.
+These are locations from our first temperature acquisition.
+As we had previously mentioned, more than 90% of our revenue now comes from sites that are running on SAP.
+We expect to complete the rollout to our remaining sites in early 2022.
+Before we wrap up, as Kieran mentioned earlier, we see a sustained demand environment in the second half of 2021.
+However, supply chain challenges are expected to persist for us and our customers on both material availability and cost through the rest of the year.
+Our current expectation is that Q3 could be the most challenging with some improvements in the fourth quarter.
+This concludes our prepared comments.

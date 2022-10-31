@@ -1,0 +1,51 @@
+They involve risks, uncertainties and assumptions, and there can be no assurance that actual results will not differ materially from our expectations.
+For a discussion of these risks and uncertainties, please see the risks described in our most recent annual report on Form 10-K and subsequent filings with the SEC.
+We may also discuss non-GAAP financial measures during today's call.
+I'll give some brief comments before turning the call over to our Chief Investment Officer, Brian Norris, to discuss the current portfolio in more detail.
+Also joining us on the call to participate in the Q&A are our President, Kevin Collins, our CFO, Lee Fegley; and our COO, Dave Lyle.
+I am pleased to announce earnings available for distribution for the third quarter came in at $0.10 per share.
+Book value ended the quarter at $3.25 per share, which represents an increase of 1.2%.
+This increase in book value combined with our $0.09 dividend produced an economic return of 4% for the quarter.
+The portfolio remains predominantly agency focused with substantially all of our entire $8.8 billion portfolio plus $1.5 billion notional in TBA invested in agency mortgages.
+Our liquidity position remains strong as we held $788 million of unrestricted cash and unencumbered investments at quarter end.
+After underperforming sharply during second quarter, agency mortgage performance stabilized during the quarter as positive performance from higher coupons generally offset underperformance from the bottom of the coupon stack.
+Higher coupons benefited from slowing speeds as signs of prepayment burnout spurred investor demand.
+Lower coupon struggled as the market ready for the onset of asset purchase tapering by the Federal Reserve.
+Looking ahead, we believe that earnings available for distribution will continue to be supported by attractive dollar rolls and slow speeds on our specified pool collateral as well as by an attractive reinvestment environment characterized by wider spreads and continued strong funding markets.
+While the near-term technical picture for mortgage remains supportive of valuations, we are cautious over the next several quarters as the decrease in purchases by the Federal Reserve and the likely increase in seasonally driven supply remains headwinds.
+I'll stop here and let Brian go through the portfolio in more detail.
+I'll begin on slide four in the upper left-hand chart, which details the changes in the U.S. treasury yield curve since year-end.
+As indicated by the light blue line, the third quarter ended with interest rates largely unchanged with a modest flattening twist at the 10-year portion of the curve resulting in the difference between the yield on the 30-year and five-year U.S. treasuries falling by 12 basis points.
+Treasury note in the first five weeks of the quarter.
+Improving economic data, increased inflation expectations, indications of a peak in COVID cases, and clear signals from the Federal Reserve on the time line for tapering asset purchases at the September FOMC meeting led to a reversal in rates during the last couple of weeks of the quarter with a 10-year largely unchanged at 1.49% at quarter end.
+Conversely, swap spreads reversed the tightening in the first half of the year and widened back to year-end levels, as displayed in the lower left-hand chart, resulting in higher swap rates across the curve during the quarter and benefiting those with a higher percentage of their hedges and interest rate swaps.
+Despite short-term funding rates remaining attractive, the decline in interest rates in the first half of the quarter and increase in interest rate volatility led to a reduction in commercial bank demand for agency mortgages with monthly purchases of approximately $28 billion per month compared to the $46 billion per month average in the first half of the year.
+Moving on to slide five, where we provide more detail on the agency mortgage market.
+In the upper left-hand chart, we show year-to-date agency mortgage performance versus swap hedges in generic 30-year 2%, 2.5% and 3% coupons, highlighting the third quarter in gray.
+As you can see, lower coupon 30-year 2% and 2.5% coupons modestly underperformed during the quarter, while 30-year coupons 3% and higher outperformed.
+Lower coupons underperformed largely due to the increased expectations for asset purchase tapering in the fourth quarter as well as the previously mentioned decline in commercial bank demand and increase in interest rate volatility.
+Higher coupons benefited from the perceived peak and prepayment speeds as indications of modest prepayment burnout for higher coupon borrowers continued.
+Specified pool payups, as indicated in the chart on the top right, improved as interest rates fell during July and remained elevated relative to the second quarter through the end of September.
+We have seen a reversal of this move so far in the fourth quarter as the recent modest increase in mortgage rates and decline in refinancing activity has dampened demand for prepayment protection.
+Implied financing in the TBA market, shown in the lower right-hand chart remains attractive in lower coupons with financing rates drifting modestly lower, while still volatile, higher up the coupon stack, as indicated by the purple line representing the 30-year 3% TBA.
+We believe the pine demand technicals should remain supportive of the dollar roll market in the near term despite reduced demand from the Federal Reserve, and we are likely to maintain a significant allocation in TBAs as a result.
+slide six provides detail on our Agency RMBS investments and our activity during the third quarter.
+While our overall allocation to the sector was largely unchanged, we modestly reduced exposure to lower coupons through paydowns and invested the proceeds in 30-year 3.5% specified pools, increasing our coupon diversification and higher coupon allocation by approximately $300 million.
+We continue to actively manage our specified pool holdings, rotating $2.1 billion into more attractive alternatives within the sector while mitigating our exposure to elevated pay-ups.
+Our specified pool holdings had a weighted average payout of 0.9 points as of September 30, an increase from 0.6 points as of June 30.
+Despite our rotation away from higher pay-up loan balance stories into new production, which is reflective of the market's increased demand for specified pools during the quarter.
+As noted on the previous slide, we have seen a reduction in demand for prepayment protection so far in the fourth quarter as our weighted average pay up has declined back to the June 30 average of 0.6 points.
+The weighted average yield on our Agency RMBS holdings improved seven basis points to 2.11% as of quarter end, while prepayments on our holdings remained low at 7.3% CPR for the quarter.
+We believe the strength of the dollar roll market and wider spreads represent attractive investment opportunities with ROEs on lower coupon dollar rolls in the mid-teens and 9% to 11% on specified pools.
+Our remaining credit investments are detailed on slide seven with non-Agency CMBS representing nearly 60% of the $108 million portfolio.
+Our allocation to credit remained stable during the quarter with no asset sales and limited price movements overall.
+Our $73 million of remaining credit securities are high quality with 90% rated single A or higher and we remain comfortable with the credit profile of our remaining holdings.
+Although we anticipate limited near-term price appreciation, we believe these assets are attractive holdings at 100% are held on an unlevered basis and provide attractive unlevered yields.
+Lastly, slide eight details our funding book at quarter end, as shown in the chart on the upper left.
+Repurchase agreements collateralized by Agency RMBS remain unchanged at $7.9 billion as of September 30.
+Given the modest decline in our holdings and hedges associated with those borrowings also remain unchanged at $5.3 billion notional of pay fixed received floating interest rate swaps.
+The weighted average interest rate on our hedge book remained unchanged at 41 basis points, while a modest extension in the maturities of our repurchase agreements led to a two basis point increase and the average funding rate to 12 basis points.
+In order to hedge additional exposures further out the yield curve, we continue to hold $1.3 billion notional of forward starting interest rate swaps with starting dates in 2023.
+Our economic leverage when including TBA exposure ticked modestly lower during the quarter to 6.5 times debt to equity as we remain conservatively positioned.
+Spread widening of nearly 30 basis points since May supports an attractive investment environment in the Agency RMBS sector with ROEs ranging from high single digit on specified pools to mid-teens on TBA.
+And we believe valuation should be relatively well supported in the near term despite the reduction in Fed purchases as commercial bank demand remains robust and supply declines.

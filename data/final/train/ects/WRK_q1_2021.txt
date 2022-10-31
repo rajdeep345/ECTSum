@@ -1,0 +1,157 @@
+They can be accessed at ir.
+Following our prepared comments, we will open up the call for our question-and-answer session.
+We describe these risks and uncertainties in our filings with the SEC, including our 10-K for the fiscal year ended September 30, 2020.
+The extent of these impacts, including the duration, scope, and severity, is highly uncertain and cannot be predicted with confidence at this time.
+We will also be referencing non-GAAP financial measures during the call.
+I'm going to start with an overview and update on the ransomware attack that we reported on Monday.
+We're following strict protocols laid out by industry-standard incident response directives.
+Because of this, we're being careful not to share certain details around the incident at this time.
+However, following is information that I can share with you today.
+On Saturday, January 23, our systems identified what we've quickly determined was a ransomware attack.
+We immediately implemented our business continuity processes and initiated our response containment protocols.
+These processes have been supported by cybersecurity experts, and these include Dell SecureWorks, a global instant response leader.
+These actions included taking preventative measures, including shutting down certain systems out of an abundance of caution.
+We've been in active communication with law enforcement.
+While our incident response is still ongoing, we currently have no evidence that our customers' or teammates' data has been compromised.
+In addition to our containment, recovery, and remediation efforts, we've taken steps to supplement the existing security monitoring, scanning, and antivirus protocols already in place.
+We're committed to completing a full forensics investigation, and we're taking all appropriate actions in response to our findings.
+WestRock maintains a broad set of insurance coverages that provide protection for the business operations and assets of the company.
+Throughout this entire incident, we've been in constant communication with our customers to share with them the impact on their business.
+We've been very appreciative of their understanding and support as we work through this challenging situation.
+Our teammates and third-party experts have literally been working day and night to respond to this attack and safely restore our systems.
+Our response is varied by operating the location.
+Most of our mills and converting locations have continued to produce and deliver.
+In locations where we've had systems issues, we have been and are using alternative and, in many cases, manual methods to process and ship orders, and this has limited our shipments.
+The full restoration of the administrative processes of our business will take time, and we're implementing workarounds, including manual processes.
+We're doing all that we can throughout our company to respond to our customers' needs.
+We're only five days into this, and we're in the middle of our response.
+What I've shared with you represents the information that we can share at this point given where we're at in the stage of our response.
+We'll provide additional detail on the impact of the attack at the appropriate time.
+Now, let's turn to the quarter.
+WestRock remains very well-positioned for long-term success, as demonstrated by our strong results in the quarter.
+Our markets continue to be shaped by changing customer habits and preferences that are driving increased demand for sustainable fiber-based packaging.
+These trends fit well with our strategy of increasing our participation in high value-added packaging solutions and away from sales of lower-margin commodity paper products.
+Our overall packaging volumes increased by 5% in the first fiscal quarter, including e-commerce volume growth of 23% on a per-day basis.
+North American corrugated box shipments increased more than 11% per day in December and over 8% for the quarter.
+Consumer shipments of packaging were also very strong, up 2.4% year over year.
+We executed our strategic projects during the quarter, despite immense challenges that the pandemic has presented for large construction projects.
+Our teams that are completing the projects at our Florence and Tres Barras mills have made tremendous progress.
+We successfully started up our 710,000-ton paper machine at Florence that has replaced three older obsolete paper machines.
+We successfully completed a major outage at our Tres Barras mill during the quarter, and this sets us up to complete our major expansion project in the spring.
+Our company generates strong free cash flow over the long term.
+This quarter's cash flow was exceptional.
+We generated $562 million of adjusted free cash flow in the quarter.
+We used the vast majority of this cash flow to reduce our net funded debt by $489 million.
+Our net leverage ratio declined sequentially from 3.03 times to 2.86 times.
+We expect that fiscal '21 will be the sixth consecutive year of strong free cash flow.
+We have increasing line of sight toward returning to our targeted leverage ratio of 2.25 to 2.5 times.
+All of this performance is being delivered in very challenging circumstances by the incredibly resilient WestRock team.
+We recognized each one of our teammates in the quarter with a one-time payment that accumulated to a total of $22 million.
+Sales of $4.4 billion, adjusted segment EBITDA of $670 million, and adjusted earnings per share of $0.61 per share in the quarter were all in line with the prior-year quarter.
+Our packaging business has proven to be resilient throughout the pandemic.
+Packaging volumes measured in tons were 5% higher compared to the prior year.
+Offsetting this were declines in shipments of export containerboard, especially SBS and pulp, that totaled 470,000 tons.
+This was a decline of approximately 180,000 tons or 27% lower than last year.
+The increase in sales of higher value-added packaging more than offset lower corrugated pricing from previously published index reductions.
+RISI has published higher prices in multiple grades during the fiscal -- first fiscal quarter.
+This includes containerboard, specialty kraft, CNK, and CRB that we expect will benefit our results during the balance of the fiscal year.
+Cost inflation was driven primarily by higher OCC prices and ongoing wage and healthcare cost increases and was offset by continued productivity gains and KapStone synergies.
+Our free cash flow was unusually strong in the first fiscal quarter, and this was aided by WestRock's pandemic action plan.
+We remain focused on increasing our share of higher value-added packaging and reducing our dependence on sales of paper to less attractive markets.
+We made progress during the quarter.
+73% of our sales were packaging sales, an increase of 5% or approximately 100,000 tons compared to last year.
+The growth in packaging was driven by higher e-commerce demand, strong industrial shipments, including our Victory distribution channel, as well as growth across our food, beverage, beauty, and healthcare markets, with customers further utilizing our innovative solutions.
+Shipments of paper declined by 10% or 180,000 tons compared to last year.
+This included a reduction of 125,000 tons in shipments of export containerboard.
+Higher box demand in North America required us to shift production to serve higher-value integrated box and domestic containerboard customers.
+In Consumer, we had similar demand trends.
+Strong volumes in our domestic food and beverage packaging and paperboard business led to a production shift to those higher-value markets.
+The pricing environment has improved and record a RISI published pricing increases across several of our major grades, including a $50 per ton North American containerboard price increase in November and a $40 per ton unbleached kraft price increase in December.
+We're in the process of implementing these published price increases in our business.
+Our integrated mill converting distribution and machinery capabilities provide us the platform to provide our customers with value-added packaging solutions.
+We placed more than 100 machinery solutions in the quarter, bringing our total machinery replacements to more than 4,150.
+Customer demand for machinery solutions continues to grow, as they seek ways to improve their productivity and navigate the challenges caused by the pandemic.
+For instance, a number of large retailers are implementing our Pak On Demand and Box On Demand systems to grow their ship-from-store business.
+Our vision is to be the premier partner and unrivaled provider of sustainable winning solutions for our customers.
+Sustainable fiber-based packaging is a key component of the circular economy.
+We're partnering with our customers to help them achieve their sustainability goals.
+We've collaborated with The Home Depot to develop custom packaging for plants and horticulture products.
+This example highlights our ability to solve our customers' critical challenges and enhance their ability to participate in the e-commerce channel.
+We've collaborated with Kraft Heinz to launch the new Heinz eco-friendly sleeve multipack in the United Kingdom.
+By replacing plastic with fully recyclable fiber-based packaging, Kraft Heinz will remove over 500 tons of plastic from supermarket shelves and reduce their CO2 footprint by 18%.
+This innovative project has incorporated the carton design, paperboard science, and machinery capabilities of the WestRock Enterprise team.
+For Titan Farms, Enterprise team has developed attractive folding carton containers for peaches that provide both ventilation and product protection.
+We're replacing plastic clamshells with fiber-based packaging and helping our customers meet their sustainability goals.
+And for General Motors, we supplied them with a complete portfolio of packaging to rebrand their ACDelco product line, including very valuable counterfeit protection.
+This is an enterprise win that leverages our digital platform capability to bring our customers' connected packaging solutions.
+The pandemic has brought many challenges and forced business to operate differently and through different channels.
+We're well-positioned to support our customers with the packaging and supply chain solutions that help them succeed in their markets.
+Corrugated Packaging segment delivered adjusted EBITDA of $458 million in the first quarter.
+Corrugated box demand was strong across most end markets, highlighted by e-commerce year-over-year growth of 23%, as well as strength in beverage, industrial, and distribution through our Victory Packaging business.
+Higher box demand has allowed us to shift our containerboard shipments away from lower-margin export markets to serve our higher-value box and domestic customers.
+Our export shipments fell by 125,000 tons compared to the prior year, and our integration rate increased to 80% in the quarter.
+Offsetting this favorable business mix was the continued flow-through of the total of $40 per ton of containerboard index price declines that occurred in late 2019 and early 2020, as well as the $36 per ton increase in recycled fiber cost as compared to last year.
+We've been implementing the $50 per ton containerboard index price increase that PPW published in November.
+Our mill system operated well, with no economic downtime taken in the quarter.
+We completed the KapStone acquisition just over two years ago and have achieved our target of $200 million in annual run-rate synergies.
+This includes our reconfiguration of the North Charleston mill.
+When we acquired KapStone, we saw that we would be able to improve their operations and fill out the geographic footprint of our North American corrugated mill and box plant system to better serve our customers.
+This has worked well.
+Victory Packaging, our distribution business, has worked out better than we anticipated due to our ability to integrate supply chain solutions into our service offerings.
+This has been even more important during the pandemic.
+In Brazil, mill outage reduced total mill production by approximately 48,000 tons.
+The production, sales, and earnings decline was a direct result of the outage as market conditions remained strong in the region.
+The Consumer Packaging segment's adjusted EBITDA in the first quarter was $234 million, so a $50 million increase from the prior year.
+Adjusted segment EBITDA margins increased by 270 basis points to 14.7% compared to the prior year.
+Strong demand across our core food, beverage, and healthcare packaging end markets drove 2.4% higher converting shipments and $18 million higher EBITDA by shifting shipments away from lower-margin SBS and pulp markets.
+Our mill and converting system ran well in the quarter.
+Cost reductions and efficiency improvements contributed $40 million of productivity and operational improvements in the quarter.
+While SBS demand in the foodservice and commercial print markets was lower compared to the prior year, we saw a sequential improvement in both markets compared to our fiscal 2020 fourth quarter.
+We took 39,000 tons of economic downtime primarily in the first two months of the quarter.
+This compares to 87,000 tons in our fiscal 2020 fourth quarter.
+As we noted previously, we restarted our idled paper machine at Covington in the quarter due to increased demand.
+Backlogs increased in the quarter to between four and six weeks across all of our consumer grades, including SBS, and inventories remained steady.
+We're developing alternatives to capture more value from our current assets, and we made significant progress during the quarter.
+In addition to running containerboard at the Evadale mill, we're qualifying CNK from Evadale to serve our customers' growing CNK needs while reducing SBS production.
+We're still in the process of trialing the board with our customers, as well as working through the engineering needed to ramp up production.
+So we're in our fiscal second quarter.
+We see strong demand across our core packaging markets.
+We're implementing the PPW paperboard price increases that were published during our fiscal first quarter.
+Turning to Slide 10.
+The pandemic action plan has been an important component of our ability to pay down debt.
+Over the past three quarters, the plan has contributed an additional $600 million in cash.
+We are on track to achieve our goal of approximately $1 billion in additional cash available for debt reduction through the end of calendar year 2021.
+We started the year with a strong first quarter.
+Going forward, we see opportunities to grow earnings given the strong demand for paper-based packaging, along with implementing the previously published price increases and recognizing the benefits of our strategic capital projects.
+We have a strong track record of generating free cash flow.
+Each of the past five years, we have generated more than $1 billion of adjusted free cash flow, and we have generated over $1.6 billion of adjusted free cash flow during the past 12 months.
+With our ability to generate strong free cash flow, we have a road map to return our net leverage ratio to the targeted range of 2.25 to 2.5 times.
+And as Steve mentioned, we continue to work on remediation and recovery from the ransomware attack.
+We will provide additional detail on the financial impact of the attack and provide an outlook for the quarter and the year at the appropriate time.
+Turning to Slide 12.
+We've been very clear about our near-term focus on paying down debt, investing in our business, and returning capital to our stockholders through our dividend.
+Over the past 12 months, we've reduced our adjusted net debt by more than $1.3 billion, and our net leverage ratio has improved from 3.01 times to 2.86 times.
+Capital investment plans remain unchanged, and we still expect fiscal 2021 capital investments of $800 million to $900 million.
+Our Florence paper machine started up this past quarter, and we expect the Tres Barras project to be completed during the spring and begin ramping up in the second half of the fiscal year.
+These strategic investments, combined with our KapStone synergy realization, will contribute approximately $125 million of EBITDA in fiscal year '21 and a similar amount in fiscal year '22.
+Longer term, we expect normal capital investment levels will be between $900 million and $1 billion.
+Our cash flows are resilient.
+We will continue to pay a competitive and growing dividend, and we also expect the potential for M&A opportunities that help us grow our packaging business and our integration rate.
+WestRock continues to operate from a position of financial strength and is supported by our significant cash flow generation.
+We have minimal near-term debt maturities and approximately $3.4 billion of liquidity, and a road map to return our leverage to our targeted range of 2.25 to 2.5 times.
+While the ransomware attack on WestRock is receiving our immediate attention and urgent response, I remain very optimistic about WestRock for the long term.
+WestRock provides sustainable fiber-based packaging.
+It's a market that's benefited from recent trends in consumer preferences and buying behavior that we expect to continue in our favor.
+We're remarkably well-positioned to meet our customers' needs.
+We see strong supply and demand conditions in almost every major grade, as well as strong demand for our converting and machinery solutions.
+Export markets are tightening.
+The need for packaging to serve the stay-at-home economy, as well as sustainable fiber-based packaging to replace plastic is growing.
+The investments that we've made on our box plant system, our mill system, and our capabilities are benefiting our results and will continue to do so as we bring our strategic projects online over the next year.
+We're generating very attractive free cash flows that, over the near term, will be used to reduce debt and our leverage ratio and, longer term, will be used to return capital to our stockholders and grow our business.
+All of our success is due to the incredibly resilient WestRock team that has dealt with and is dealing with changing market conditions, COVID-19, and our ransomware attack.
+Our resilience gives me confidence in our ability to succeed and to create value for our customers, communities, and stockholders.
+James, we're ready for Q&A.
+As a reminder to our audience to give everybody a chance for a question, please limit your question to one with a follow up as needed.
+Also, we're not able to give any further information on ransomware attack.
+We'll get to as many questions as time allows.
+Operator, can we take our first question, please?

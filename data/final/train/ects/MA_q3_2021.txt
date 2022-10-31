@@ -1,0 +1,156 @@
+Following comments from Michael and Sachin, the operator will announce your opportunity to get into the queue for the Q&A session.
+Both the release and the slide deck include reconciliations of non-GAAP measures to their GAAP reported amounts.
+So let me start by giving you the highlights of the quarter.
+Strong revenue and earnings growth continued.
+The net revenue up 29% and earnings per share up 48% versus a year ago, as always, on a non-GAAP currency-neutral basis.
+On this same basis, Quarter 3 net revenues are now 11% above pre-COVID levels in 2019.
+We're seeing continued strength in domestic spending and overall cross-border volumes are now back at 2019 levels, though there still remains significant room for growth in cross-border travel.
+We're continuing to execute against our strategic priorities with good progress on the product and deal fronts this quarter.
+And we're excited about our acquisition of CipherTrace in the crypto services area and our planned acquisition of Aiia in open banking.
+So those are the highlights.
+Looking at the broader economy, domestic spending levels continue to improve, even though economies are facing supply chain constraints, rising energy prices and some other inflationary pressures.
+retail sales ex auto, ex gas were up 5% versus a year ago and 12% versus 2019, reflecting the return to in-person shopping and the ongoing e-commerce strength.
+SpendingPulse also indicated that the overall European retail sales in Quarter 3 were up 5% and 6% versus 2019.
+As it relates to COVID specifically, the outlook continues to get better with case numbers generally improving, new therapeutics in the pipeline, progress on vaccinations and businesses becoming more agile in the face of remaining restrictions.
+and some easing of restrictions in Asia.
+Now, turning to our business.
+While the pandemic is not fully behind us, we're now in the growth phase in most markets domestically and in many markets in cross-border spending as well.
+We will, therefore, turn the page and move beyond the four-phased framework that guided us through the last 19 months and focus on managing the business for the growth opportunities ahead of us.
+Looking at Mastercard's spending trends.
+Switched volumes improved quarter over quarter.
+We saw particular strength in consumer and commercial credit.
+Debit spend remains elevated, although it has moderated in recent weeks in part due to waning stimulus benefits.
+In terms of how people are spending, card-present volumes continue to improve as people are getting out and shopping more while we are still seeing sustained strength in card-not-present spend.
+So regardless of whether people want to shop online or in-person, our solutions support that choice and position us well to participate in both trends.
+Now, let's take a look at cross-border.
+Overall, cross-border returned to 2019 levels in August, driven by improvements in consumer and commercial travel, as well as the ongoing strength of cross-border card-not-present spending ex travel.
+Our cross-border travel improved from 48% of 2019 levels in the second quarter to 72% this quarter with substantial upside potential still remaining as and when borders open.
+Against this backdrop, we're investing in the growth of our business, including the enhancing end of our leading technology capabilities, like expanding our network edge to connect directly with our customers through the cloud, providing faster and easier access to our products and services.
+And of course, we remain focused on our strategic priorities: number one, rolling out core products while driving the shift to digital; two, differentiating and diversifying with our services; and three, leveraging our multi-rail capabilities to offer choice across payment applications.
+Now, let's take them one-by-one and turn to how we're growing our core products and driving the shift through digital: through Mastercard Installments, by winning core deals and by continuing our momentum in the fintech space.
+First, let me tell you about our recently announced Mastercard Installments, our scalable, open loop, buy-now-pay-later solution.
+Mastercard Installments is differentiated in that it enables banks, lenders, fintechs and wallets to seamlessly bring buy-now-pay-later solutions to consumers and merchants at scale and in a secure, tokenized manner.
+With little to no integration for merchants, our solution avoids the need for lenders to engage merchants one-by-one to roll this out, enables them to deliver more payment options to more consumers faster.
+Our solution brings choice at scale, delivered through the Mastercard network.
+Our consumers will be able to access buy-now-pay-later offers through their bank's mobile banking app at the point of checkout and soon directly through Click to Pay.
+The embedded power of Finicity will help lenders with credit positioning and enable consumers to easily choose different repayment options.
+Mastercard Installments will power our core payments and enable us to provide additional value through services, such as data analytics, loyalty and fraud tools.
+We've seen strong interest from players on all sides of the ecosystem and look forward to growing our partnerships in this area.
+As always, we remain focused on continuing to grow share.
+And we've won deals across the globe this quarter.
+In the U.K., we're partnering with Chase as the preferred debit partner of their new digital retail bank.
+In Canada, we've extended our exclusive co-brand with Costco Canada.
+And in Brazil, we signed a deal with Autopass to issue more than 10 million cards to mass transit users in the Sao Paulo area, and along with that, open, contactless acceptance across their subway trains and city buses.
+We're also building our leading position with fintechs and mobile money providers.
+Here are a few recent examples.
+PayPal has extended its PayPal Business Debit card into our four markets in Europe.
+PayPal will also directly leverage Mastercard Send for domestic wallet cash-outs and P2P transactions in the U.S. We're partnering with Vodafone in Egypt across all of their mobile money use cases, including cash-outs, P2P and bill payments.
+We expanded our strategic partnership with Yandex in Russia and we'll be their preferred international partner for all of their fintech initiatives.
+banks and fintechs to get cards and financial products into the market, will leverage our digital-first Finicity, Mastercard Send and cybersecurity assets.
+Now, shifting to services.
+Our services support and differentiate our core products and have played a critical role in enabling many of the wins I just mentioned.
+They, of course, also diversify our business.
+We had many wins in this area this quarter.
+Starting with the cybersecurity space.
+Ethoca is helping multiple players, including AT&T and Mercado Libre, reduce charge-backs through collaboration, thereby creating purchase transparency.
+Banco de Bogotá is using our artificial intelligence capabilities to improve consumer experiences, increase profitability and identify new opportunities.
+And in Europe, the term is leveraging NuData's behavioral biometrics to help thousands of new banks authenticate online transactions.
+The tourism agencies in Greece, Hungary and elsewhere are using services like tourism insights and managed services to gather greater visibility of trends and drive deeper insights to support their tourism campaigns.
+In the UAE, HSBC is leveraging our test-and-learn capabilities to innovate, experiment and roll out new products for better customer engagement.
+And we're having success in the loyalty space with our innovative digital solutions, driving wins with players like the global fitness chain, Barry's and First and Saudi National Bank.
+Now, let's turn to the progress we've made in offering choice to consumers across payment applications with our multi-rail capabilities, including open banking, B2B and crypto.
+In open banking, we're happy about our planned acquisition of Aiia.
+Aiia is a leading European open banking player, whose platform expertise, strong API connectivity and payment capabilities complement our existing open banking assets.
+We will combine Aiia's European footprint with Finicity's connectivity in the U.S. and our expansion into other markets like Australia.
+This will allow us to extend each organization's best-in-class capabilities, such as credit decisioning, credit scoring, account information services and payment applications across markets.
+We continue to make progress with our open banking product in Europe with players like Entercard, one of Scandinavia's leading credit card companies.
+And in the U.S., Finicity is working with UGO to enable account opening verifications, along with future plans to expand into payments.
+We're also adding new functionality to Track DBS and are partnering with Demica to launch a supply chain finance capability.
+This functionality empowers payment agents to provide their business customers with access to affordable working capital directly through the Mastercard Track DBS platform.
+And in the U.K., HSBC will be the first to issue a Mastercard Track Card to Account Transfer product, an innovative B2B payment solution that allows businesses to use their commercial card program to make payments to any supplier, even if that supplier does not accept card payments.
+Again, a true multi-rail offering.
+And finally, in the crypto space, we're making it easier for crypto players to connect to our network.
+We signed up a number of new crypto wallet providers and exchanges this quarter, including Bit2Me, [Inaudible], Kanga by ZEN.COM, Coinmotion and CoinJar.
+Our crypto program, which is based on [Inaudible] principles of engagement, allows consumers to easily buy crypto assets with their Mastercard, spend their crypto balances wherever Mastercard is accepted, cash out their proceeds with Mastercard Send and earn rewards in the form of crypto or even NFT.
+We're also seeing a growing services opportunity in this space.
+Earlier this month, we acquired CipherTrace, a security and fraud monitoring company with expertise, technologies and insights into more than 900 cryptocurrencies.
+Our recently announced agreement with Bakkt will also add to our expanding crypto services portfolio.
+So let me sum this up one more time.
+We delivered strong revenue, earnings growth this quarter.
+We are seeing continued strength in domestic spending in most markets.
+And while overall cross-border volumes are back at 2019 levels, there remains significant room for growth in cross-border travel.
+We're executing against our strategic priorities with good progress on the product and deal front, as you heard, we're doing all of that while carefully managing our expenses.
+That's it for me.
+Sachin, over to you.
+So turning to Page 3, which shows our financial performance for the quarter on a currency-neutral basis, excluding special items and the impact of gains and losses on our equity investments.
+Net revenue was up 29%, reflecting the continued execution of our strategy and the ongoing recovery in spending.
+Acquisitions contributed 3 ppt to this growth.
+Operating expenses increased 23%, including an 8 ppt increase from acquisitions.
+Operating income was up 34% and net income was up 45%, both of which include a 1 ppt decrease related to acquisitions.
+Further, net income growth was also positively impacted by 6 ppt due to the recognition of higher one-time discrete U.S. tax benefits versus a year ago.
+EPS was up 48% year over year to $2.37, which includes $0.02 of dilution related to our recent acquisitions, offset by a $0.04 contribution from share repurchases.
+During the quarter, we repurchased $1.6 billion worth of stock and an additional $361 million through October 25, 2021.
+So now, let's turn to Page 4, where you can see the operational metrics for the third quarter.
+Worldwide gross dollar volume or GDV increased by 20% year over year on a local-currency basis.
+We are seeing continued strength in both debit and credit.
+U.S. GDV increased by 20% with debit growth of 9% and credit growth of 36%.
+Outside of the U.S., volume increased 20%, with debit growth of 23% and credit growth of 16%.
+To put this in perspective, as a percentage of 2019 levels, GDV is at 121%, up 2 ppt sequentially, with credit at 111%, up 4 ppt sequentially, and debit at 131%, flat quarter over quarter.
+Cross-border volume was up 52% globally for the quarter with intra-Europe cross-border volumes up 47% and other cross-border volumes up 60%, reflecting continued improvement and the lapping of the pandemic last year.
+In the third quarter, cross-border volume was at 97% of 2019 levels with intra-Europe at 112% and other cross-border volume at 83% of 2019 levels.
+Notably, cross-border volumes averaged at or above 100% of 2019 levels in the months of August and September.
+Turning now to Page 5.
+Switched transactions grew 25% year over year in Q3 and were at 131% of 2019 levels.
+Card-not-present growth rates remained strong and card-present growth continue to improve.
+Card-present growth was aided in part by increases in contactless penetration in several regions.
+In Q3, contactless transactions represented 48% of in-person purchase transactions globally, up from 45% last quarter.
+In addition, card growth was 8%.
+Globally, there are 2.9 billion Mastercard and Maestro-branded cards issued.
+The increase in net revenue of 29% was primarily driven by domestic and cross-border transaction and volume growth, as well as strong growth in services, partially offset by higher rebates and incentives.
+As previously mentioned, acquisitions contributed approximately 3 ppt to net revenue growth.
+Looking quickly at the individual revenue line items.
+Domestic assessments were up 21% while worldwide GDV grew 20%.
+Cross-border volume fees increased 59% while cross-border volumes increased 52%.
+The 7 ppt difference is primarily due to favorable mix as higher-yielding ex intra-Europe cross-border volumes grew faster than intra-Europe cross-border volumes this quarter.
+Transaction processing fees were up 26%, generally in line with switched transaction growth of 25%.
+Other revenues were up 35%, including a 10 ppt contribution from acquisitions.
+The remaining growth was mostly driven by our cyber and intelligence and data and services solutions.
+Finally, rebates and incentives were up 34%, reflecting the strong growth in volume of transactions and new and renewed deal activity.
+Moving on to Page 7.
+You can see that on a currency-neutral basis, total operating expenses increased 23%, including an 8 ppt impact from acquisitions.
+Excluding acquisitions, operating expenses grew 16%, primarily due to higher personnel costs as we invest in our strategic initiatives, including -- sorry, increased spending on advertising and marketing and increased data processing costs.
+Turning to Page 8.
+Let's discuss the specific metrics for the first three weeks of October.
+We are seeing continued strength in growth rates across our operating metrics versus 2020, in part due to the lapping effects related to the pandemic that began last year.
+To provide you better visibility into current spending levels, we are, once again, showing 2021 volumes and transactions as a percentage of the 2019 amounts, when we were not experiencing the impact of the pandemic.
+So if you look at spending levels as a percentage of 2019 for switched volumes, through the first three weeks of October, the recent trends have continued with overall switched volumes at 134% of 2019 levels, up 3 ppt versus Q3.
+The U.S. has held steady with some moderation in growth from earlier levels due to the roll-off of stimulus.
+And outside the U.S., we have seen continued improvement.
+Trends in switched transactions remain steady and are generally tracking the trends we are seeing in switched volumes.
+In terms of cross-border, as I noted earlier, spending levels as a percentage of 2019 were back to pre-pandemic levels, starting in August.
+That improving trend has continued through the first three weeks of October.
+And we are now at 105% of 2019 levels.
+This improvement is driven by increases in both travel and non-travel cross-border volumes.
+As it relates to travel, we have seen it picking up in all regions, notably within and to Europe and recently into Canada as well.
+Turning to Page 9.
+I wanted to share our current thoughts looking forward.
+First off, our deal momentum and service lines continue to position us well for growth and diversify our revenues.
+And we continue to make strong progress against our strategic objectives.
+Domestic spending levels remain healthy.
+And we are encouraged by the recent resurgence in international travel.
+We are optimistic about the announced relaxation of border restrictions in places like the U.S. and the U.K., given that we have seen travel pickup when borders have opened in the past.
+Further, the airlines have recently reported increased travel bookings, including long-haul travel.
+With this as context, assuming domestic and cross-border spending trends relative to 2019 continue to improve, we would expect Q4 net revenues to grow at a low 20s rate year over year on a currency-neutral basis, excluding acquisitions.
+As a reminder, spending recovered progressively in 2020, so we will be facing a more difficult comp of approximately 7 ppt in the fourth quarter relative to the third quarter.
+It is also important to point out that this is just one potential scenario as the level of uncertainty remains related to the pandemic and therefore the pace of recovery may not be linear.
+In terms of operating expenses for the fourth quarter, we expect operating expenses to grow at the low end of low double digits versus a year ago on a currency-neutral basis, excluding acquisitions.
+This reflects our disciplined approach to expense management while advancing our innovation agenda across payments, services and promising new adjacencies and continued investment in brand and product marketing.
+With respect to acquisitions, we are pleased to now have closed on the CipherTrace transaction.
+And we expect acquisitions will contribute about 2 to 3 ppt to revenue and 8 ppt to operating expense growth in Q4.
+This reflects the integration of several acquisitions in the open banking, digital identity and real-time payment areas.
+Other items to keep in mind.
+Foreign exchange is expected to be about 0.5 ppt headwind to both net revenue and operating expenses in Q4.
+On the other income and expense line, we are at an expense run rate of approximately $120 million per quarter, given the prevailing interest rates.
+This excludes gains and losses on our equity investments, which are excluded from our non-GAAP metrics.
+And finally, we expect a tax rate of approximately 18% to 19% for the fourth quarter.
+We look forward to discussing our future plans with you at that time.

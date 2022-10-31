@@ -1,0 +1,176 @@
+Certain risk factors inherent in our business are set forth in filings with the SEC, including our most recent 10-K and subsequent filings.
+We caution you not to place undue reliance on these statements.
+Some of the comments made refer to non-GAAP financial measures, such as adjusted net revenue, adjusted operating margin and adjusted earnings per share, which we believe are more reflective of our ongoing performance.
+Joining me on the call are Jeff Sloan, CEO; Cameron Bready, President and COO; and Paul Todd, Senior Executive Vice President and CFO.
+We delivered fourth quarter and full year results that exceeded our expectations, because of our focus on technology enablement, coupled with ongoing excellence in execution.
+Our fourth quarter results demonstrated continued sequential improvement, despite the impact of a more challenging macroeconomic environment in a number of our markets for much of the period.
+We are very pleased to have delivered substantial margin improvement for the fourth quarter, while also setting aside funds to pay partial cash bonuses to our non-executive team members.
+Because of the actions we took early in the pandemic and our consistency in execution, we were able to deliver double-digit earnings-per-share growth in the fourth quarter, positioning us well heading into 2021.
+We believe that we exited 2020 in a better position than we entered.
+We also accomplished a great deal over the last 12 months.
+Specifically, we signed Truist Financial Corporation, the sixth largest commercial bank in the United States, a competitive win twice over [Phonetic]; entered a new collaboration with AWS, our preferred provider of issuer cloud services to launch a unique go-to-market distribution strategy coupled with transformative cloud-native technologies; expanded and extended our partnership with CaixaBank by increasing ownership of our joint venture and executing a new referral agreement through 2040; renewed agreements with a number of the most complex and sophisticated financial institutions globally, including TD Bank in North America, HSBC in Europe and CIBC in Canada; assisted in a rapid distribution of more than $2.5 billion in stimulus funds for our net spend customers' days faster than other financial technology participants; and announced today a new partnership with Google to deliver innovative and seamless digital services to all manner of merchants worldwide.
+Our collaboration with Google substantially advances our merchant business by driving incremental revenue and lowering operating costs to a worldwide go-to-market distribution relationship and co-innovation agreement focused on transformative cloud-native technologies.
+Together, we will bring new best-in-class digital products to market on a global basis more quickly, and we will further catalyze our culture of market-leading innovation.
+Cameron will provide more detail on Google in a minute, but it's worth noting that in the six last months, we have struck significant and unique distribution relationships with two of the world's largest and most respected technology companies with a combined market capitalization of nearly $3 trillion.
+This is a first for the payments technology industry and we did this in the midst of a once in a century pandemic, while delivering adjusted earnings-per-share growth and gaining market share.
+These collaborations also are consistent with our long-held distinctive strategies to drive digital penetration.
+Our business is a combination of two halves: distinctive distribution and cutting-edge technologies.
+AWS and Google enhanced both parts of the equation.
+Together, we will leapfrog legacy analog means of distribution and redefine how payment solutions and services are sold and consumed in the digital age for our issuing and merchant businesses.
+We already have reached the threshold of 60% of our business coming from technology enablement, a goal we set in March 2018 for year-end 2020 and achieved early last July.
+And roughly 25% of our business is now related to our e-commerce and omni-channel initiatives.
+But together with AWS and Google, we expect to do more by driving further technology enablement and omni-channel penetration as legs of the stool for future growth.
+I cannot think of two better partners to catalyze further migration of our issuing and merchant businesses to cloud-native technologies and expand our competitive moat.
+These partnerships provide proof points at the momentum we have entering 2021 and will accelerate the transformation of our businesses for years to come.
+Just a reminder of the composition of the business is driving our growth.
+Starting with our merchant business, which is two-thirds of our Company.
+Our technology enabled portfolio consists of three roughly equally sized channels.
+Our omni-channel partnered software and own software vertical markets businesses collectively represent nearly 60% of merchant adjusted net revenue.
+Our relationship-led businesses make up the remaining portion and continue to differentiate themselves in the markets we serve based on the strength of our technologies.
+Our omni-channel businesses delivered accelerated sequential growth for the fourth quarter of 2020, again excluding travel and entertainment.
+As we said at the beginning of the pandemic, we continue to see and expect ongoing sustained share shifts toward omni-channel acceptance brought forward three to five years by COVID-19.
+We launched our Unified Commerce or UCP cloud POS solution this quarter, which connects an e-commerce software to a wireless payment terminal through our API, to help merchants more easily unify their in-person and online payment experiences.
+Our Citi partnership also continues to expand worldwide, and we expect new Citi customers on UCP to include one of the leading global food companies, one of the pre-eminent global beverage brands and one of the largest multi-national auto manufacturing companies across multiple continents.
+And of course with today's announcement, we also expect Google to become a UCP partner.
+Additionally, we signed an agreement with Texas Instruments across Taiwan, the Philippines and India.
+And we expect to expand our relationships to additional geographies later this year.
+We also reached an agreement with Wolverine to consolidate their U.K. and European acquiring across 32 countries.
+And we have now successfully launched with both Uber Ride and Uber Eats in our Asia Pacific region.
+Moving to Global Payments Integrated, which drives another nearly 20% of our merchant adjusted net revenue.
+We generated growth for the fourth quarter and for the full year because of the unrivaled breadth of our partnership portfolio in the most attractive vertical markets.
+The strength of our combined integrated offerings allowed us to exceed our budgeted new sales forecast for calendar 2020, with new partner production increasing 171% versus 2019.
+Our own software businesses represent the remaining roughly 20% of our merchant-adjusted net revenue.
+And our leading SaaS solutions in healthcare, higher education and quick service restaurants or QSRs have been more resilient in the current environment.
+To that end, our AdvancedMD business delivered a record performance in 2020 achieving double-digit revenue and bookings growth.
+And our higher education business produced one of its finest years to date.
+Lastly, our enterprise QSR business continued its success with Xenial's Cloud POS [Phonetic] and omni solutions, nearly over 100 million transactions and $1.5 billion in sales for the year.
+In addition to serving 26 of the Top 50 QSR brands, we are also pleased to announce the signing of Xenial for cloud-based SaaS solutions, extending our addressable market to the fast casual category.
+Today, we lead with technology and innovative solutions across all of our merchant businesses.
+This includes our relationship-led channels where we continue to see strong new sales performance, fueled by our suite of differentiated products and solutions.
+For example, our U.S. business is seeing significant uptake of its SaaS point-of-sale solutions with adjusted net revenue and new sales both exceeding 20% growth in 2020.
+One recent notable win is with the Milwaukee Bucks, where we will be deploying our cloud-based POS solution across merchandise stores and outlets in the arena.
+Issuer is the next largest segment of our business.
+In August 2020, we announced the transformational go-to-market collaboration with AWS to provide an industry-leading cloud-based issuer processing platform for customers regardless of size, location or processing preference.
+We currently have one LOI and three other mid to late-stage opportunities together with AWS that we are actively working, and we now believe that the win in Asia and a similar large market from a legacy competitor that we have already secured with AWS will likely expand in several markets across Asia over time.
+We continue to capitalize on the broad and deep pipeline.
+We have the good fortune to have in our issuer business.
+We currently have 11 letters of intent with financial institutions worldwide, six of which are competitive takeaways.
+In the last 18 months, we have had 36 competitive wins across North America and international markets.
+And our customers continue to win in the marketplace, a key element of our issuer strategy to align with market leaders.
+During the first quarter of 2021, we will complete the first phase of the conversion of over 4 million accounts from a competitor for one of our largest customers.
+In Germany, we have successfully expanded our long-standing and successful partnership with Deutsche Bank, our largest client in the DACH region.
+We are pleased to announce that TSYS has been selected in a competitive process as Deutsche Bank's partner of choice for their scheme branded card portfolios across all brands, including Deutsche Bank and Postbank.
+We are also proud to have signed a new multi-year agreement with Marlette Funding, owner and operator of the Best Egg lending platform for the processing of a consumer credit card product, which will launch in the second quarter of this year.
+We are pleased to secure long-term extensions in multiple geographies with President's Choice, a subsidiary of Loblaw's and Canadian Tire Financial Services, both large retailers in Canada; Scotiabank in Central America; Bank of Ireland; and Banco Invex in Mexico.
+Finally, our business and consumer segment delivered another quarter of solid growth, as we continue to pivot our strategic focus to digitization, international expansion and business to business opportunities.
+That shift is under way without any compromise in execution, as we also achieved adjusted net revenue in excess of $200 million for the first time in the fourth quarter.
+The move toward cashless solutions is benefiting the portfolio with customers remaining active longer and utilizing our products more online.
+I am proud that Netspend has once again facilitated a rapid distribution stimulus funds to customers and play an important role during this most challenging period.
+Since late December, we have processed more than 1 million deposits, accounting for just over $1 billion in stimulus payments to American consumers dispersed by the IRS.
+And this was done days in advance of many of our traditional financial institution and financial technology peers.
+In combination with the 2020 stimulus payments, we will have disbursed more than $2.5 billion in aid to customers through the first quarter of 2021.
+I think it's fair to ask how our business has been able to deliver results that are orders of magnitude better in our markets.
+Our strategic focus on the diversity of our business mix has enabled us to gain share.
+We are diverse across channels, geographies, software ownership and partnership, vertical markets and new and durable partnerships.
+We are diverse by design.
+We coupled that diversity with a long track record of execution consistency, years of sustained technology investment and the unmatched global experience of our long-tenured team.
+We are delighted to announce today our new multi-year strategic partnership with Google that we expect will meaningfully enhance our ability to deliver new innovative cloud-based products and capabilities, advance our technology-enabled distribution strategy, and deliver significant operational efficiencies, while improving speed to market and the scalability of our merchant solutions business.
+This exciting partnership has a number of assets that collectively serve to further distinguish our digital capabilities worldwide.
+First, together, we will collaborate on product development and innovation to enhance and differentiate the suite of cloud-based solutions available to our merchant customers.
+These distinctive solutions will create stickier and longer-term customer relationships, building on our competitive advantages.
+As just one example of the types of enhanced capabilities we will offer together, Google's business services including Google My Business, Workspace and Ads, will be integrated with Global Payments' leading value-added software and payments ecosystem, creating a single destination and seamless digital experience for the full spectrum of solutions that merchants need to run and grow their businesses globally.
+Merchant customers will be able to digitally access the industry's most robust value stack of SaaS offerings, including point of sale omni-channel ordering and integrated payments, advertising data and analytics, email marketing, online presence and reputation management and loyalty and gift card solutions, as well as capital access in payroll and human capital management solutions.
+These products will be delivered through Global Payments' cloud-native operating environment, driving better customer engagement and ease of use.
+Second, our joint go-to-market efforts will drive significant referral and new customer acquisition opportunities for businesses of all sizes across our combined customer bases worldwide on an omni-channel basis.
+Specifically, Google Workspace serves as the cloud-native operating backbone for small and medium-sized businesses as well as many of the most sophisticated enterprise organizations globally, while Global Payments provides payments technology solutions to roughly 3.5 million merchant locations, in addition to some of the most complex multi-national corporations across 60 countries.
+By leveraging our complementary customer bases, we will create attractive cross-selling opportunities for our digital solutions and meaningfully expand our addressable market.
+Further, together, we will be able to connect consumers with merchants by a surge in new and innovative ways driving commerce and growth in a differentiated way for our customers.
+And of course, our ability to secure net new customers will be significantly enhanced through the strength of this partnership with Google.
+Third, Global Payments is pleased to be selected as the preferred payment provider for Google.
+Today, Google executes approximately 3 billion transactions annually and Global Payments is well positioned to meet the complex payment needs of one of the world's largest and most sophisticated technology companies by leveraging our Unified Commerce Platform.
+We are humbled by the confidence our partners at Google have placed in us.
+Lastly, in addition to our commercial partnership, Google will become our preferred cloud provider for our merchant payment technologies.
+Over the next several years, we will migrate the vast majority of our merchant technology workloads to Google Cloud, significantly reducing our data center footprint and streamlining our operating environment to enhance performance and drive meaningful cost efficiencies.
+By moving our acquiring applications and to the Google Cloud, we will maintain the highest level of scalability, reliability, and security, while increasing our speed of innovation and ability to seamlessly deploy products and services on demand anywhere in the world.
+We are thrilled to have established this partnership with Google.
+Together, we are on a transformational journey that will further enhance our industry-leading merchant solutions ecosystem with a digital scale, reach and speed-to-market to seamlessly deliver new innovative digital technologies to customers worldwide.
+Our performance in the fourth quarter and for the full-year 2020 exceeded our post COVID-19 expectations and highlights our outstanding execution and the resiliency of our business model.
+For the full year, we delivered adjusted net revenue of $6.75 billion, down 5% compared to 2019 on a combined basis.
+Importantly, our adjusted operating margin increased 210 basis points on a combined basis to 39.7%, as we benefited from the broad expense actions we implemented to address the impact of the pandemic and the realization of cost synergies related to the merger, which continue to track ahead of plan.
+It is worth highlighting that our full year adjusted operating margin performance was largely consistent with the guidance we gave at the start of 2020 and prior to the pandemic.
+The net result with adjusted earnings per share of $6.40, an increase of 3% over 2019.
+We are extremely pleased that we were able to grow our bottom line in 2020, enabled by continued execution on our differentiated strategy and our unwavering focus on all things within our control despite the impact of COVID-19 on the worldwide economy.
+Moving to the fourth quarter, adjusted net revenue was $1.75 billion, a 3% decline relative to 2019 as underlying trends in our business continued to recover from third quarter levels.
+Adjusted operating margin was 41.5%, a 320 basis point improvement from the fourth quarter of 2019.
+Adjusted earnings per share was $1.80 for the quarter, an increase of 11% compared to the prior year period, an impressive outcome that highlights the durability of our model and momentum we have heading into 2021.
+Taking a closer look at our performance by segment.
+Merchant solutions achieved adjusted net revenue of $1.1 billion for the fourth quarter, a 4% decline from the prior year, which marked a 200 basis point improvement from the third quarter.
+Notably, we delivered an adjusted operating margin of 47.5% in this segment, an increase of 250 basis points from 2019, as our cost initiatives, expense synergies and the underlying strength of our business mix more than offset topline headwinds from the macro environment.
+Our technology-enabled portfolio continues to prove relatively resilient with several of our businesses delivering year-over-year growth again this quarter.
+Specifically, worldwide omni-channel volume growth, excluding T&E, accelerated to the high teen as our value proposition, including our Unified Commerce Platform or UCP continues to resonate with customers.
+Additionally, Global Payments Integrated delivered adjusted net revenue growth for a second consecutive quarter.
+The leading scale and scope of our integrated ecosystem across more vertical markets and more geographies than our peers also enabled another record year for new partner production.
+As for our own software portfolio, AdvancedMD remained a bright spot, and once again produced strong double-digit adjusted net revenue growth for the quarter and achieved a record bookings year in 2020.
+Indeed booking trends across our vertical markets portfolio remained solid, providing us with a positive tailwind heading into 2021.
+We are also pleased that our U.S. relationship-led business saw adjusted net revenue return to slight growth for the fourth quarter, enabled by the innovative technology and software solutions we are delivering in this channel.
+And despite a more challenging macroeconomic environment in several of our international markets this period, demand for our differentiated capabilities outside of the U.S. remains strong as our solutions are well aligned with shifting customer needs coming out of the pandemic.
+Moving to issuer solutions, we delivered $457 million in adjusted net revenue for the fourth quarter, which was essentially flat to the prior year period.
+Transaction volumes recovered further, while traditional accounts on file continue to grow, setting a new record.
+Additionally, our bundled pricing model, including value-added products and services, also benefited performance.
+Excluding our commercial card business, which represents approximately 20% of our issuer portfolio and is being impacted by the slow recovery in corporate travel, this segment delivered low single-digit growth for the quarter.
+Notably, this business achieved record adjusted operating income and adjusted segment operating margin expanded 450 basis points from the prior year, also reaching a new record of 44.7% as we continue to benefit from our efforts to drive efficiencies and the business.
+As Jeff highlighted, our issuer team successfully signed five long-term contract extension and one new contract in the quarter.
+Finally, our business and consumer solutions segment delivered adjusted net revenue of $205 million, a record fourth quarter result, representing growth of 3% from the prior year.
+Gross dollar volume increased more than 5% for the quarter, a result including little impact from the late December incremental stimulus, which we expect to primarily benefit us in Q1.
+We are particularly pleased with trends with our DDA products, which includes an acceleration in active account growth of 29% compared to the prior year.
+Adjusted operating margin for this segment improved 260 basis points to 24.1%, as we benefited from our efforts to drive greater operational efficiencies, as well as favorable revenue mix dynamics toward higher margin channels.
+The solid performance we delivered across our segments highlights the powerful combination of Global Payments and TSYS, which has provided us with multiple levers to mitigate the headwinds we have faced from the pandemic.
+We made great progress on our integration during the crisis, which I mentioned continues to track ahead of plan.
+As a result, we are pleased to again raise our estimate for annual run rate expense synergies from the merger to at least $400 million within three years, up from the previous estimate of $375 million.
+This marks the fourth time we have increased our cost synergy expectations.
+Additionally, our early success in leveraging our complementary products and capabilities worldwide also gives us the confidence to increase our expectation for annual run rate synergies again to $150 million, up from our previous forecast of $125 million.
+From a cash flow standpoint, we generated adjusted free cash flow of roughly $780 million for the quarter and approximately $2 billion for the year.
+These are both records for us.
+This is after reinvesting $107 million of capex for the quarter and $436 million for the year.
+As you may recall, we indicated we expected to invest between $400 million and $500 million of capex back into the business following the onset of the pandemic.
+Consistent with our announcement on our last call, we are also pleased to have now returned to our traditional capital allocation priorities, and during the quarter, repurchased 1.2 million of our shares for approximately $230 million.
+Our balance sheet is extremely healthy, and we ended 2020 with roughly $3 billion of liquidity and a leverage position of roughly 2.6 times on a net debt basis.
+Further, our Board of Directors has again approved an increase to our share repurchase authorization to $1.5 billion.
+As part of this program, we intend to execute an accelerated share repurchase program for $500 million in the coming days.
+Turning to our outlook for 2021.
+Based on our current expectations for continued recovery from the COVID-19 pandemic worldwide, we expect adjusted net revenue to range from $7.5 billion to $7.6 billion, reflecting growth at 11% to 13% over 2020.
+This outlook is consistent with the high end of our long-term target of high single-digit to low double-digit growth and it also reflects the benefit of the year-on-year comparisons due to the pandemic.
+Considering this topline forecast, we would expect to deliver normalized adjusted operating margin expansion of up to 450 basis points, given the natural operating leverage in our business and expense synergy actions related to the TSYS merger.
+However, this will be partially offset by the reinstatement of certain expenses that were temporarily reduced at the onset of the COVID-19 pandemic for most of 2020.
+Therefore, we are currently forecasting adjusted operating margin expansion of up to 250 basis points compared to 2020 levels on a net basis.
+To provide some color at the segment level, we expect adjusted net revenue growth for our merchant solutions segment to be in the mid to high teens, which assumes the current pace of recovery continues worldwide.
+We expect underlying trends in our issuing business to be in the mid to high single-digit growth range and above our mid-single digit growth target.
+But these trends should be normalized for two distinct and relatively equal size headwinds.
+First, we are not anticipating a recovery in our commercial card business as we expect corporate travel to remain depressed throughout 2021.
+Second, we will be absorbing the impact of a portfolio sale by one of our customers, which will impact us for the remainder of the year.
+Taking these two items into account, we are forecasting our issuing business to deliver adjusted net revenue growth in the low single-digit range for the full year.
+Lastly, we expect underlying trends in our business and consumer segment to be consistent with our long-term expectations of mid to high single-digit growth.
+This outlook reflects the expected benefits of the recent stimulus announced at the end of December, but it does not assume any additional stimulus.
+Adjusting for the impact of the larger 2020 CARES Act stimulus on comparative results for 2021, we are forecasting adjusted net revenue growth to be in the mid-single digits for this segment.
+Regarding segment margins, we expect up to 250 basis points of adjusted operating margin improvement for the total Company to be driven largely by merchant solutions, while we expect issuer and business and consumer to deliver normalized margin expansion consistent with the underlying leverage profile of these businesses.
+This follows the 500 basis points and 400 basis points of adjusted operating margin expansion, delivered by issuer and business and consumer respectively in 2020.
+Lastly, I would highlight that from a quarterly phasing perspective, we will not lap the initial impact of the pandemic until mid-March.
+Therefore, we will have pandemic affected first quarter comparisons resulting in more muted growth characteristics early in 2021, with the opposite effect occurring in the second quarter before returning to more normalized rates of growth in the back half of the year.
+Our outlook is for adjusted net revenue growth, adjusted operating margin expansion and adjusted earnings-per-share growth for each quarter of 2021.
+Moving to a couple of non-operating items.
+We currently expect net interest expense to be slightly lower in 2021 relative to 2020, while we anticipate our adjusted effective tax rate to be relatively consistent with last year and expect our capital expenditures for 2021 to be in the $500 million to $600 million range.
+Putting it all together, we expect adjusted earnings per share for the full year in a range of $7.75 to $8.05, reflecting growth of 21% to 26% over 2020.
+This is consistent with the adjusted earnings per share target of roughly $8.00 that we provided on our third quarter call, despite the incremental adverse impact of additional lockdowns and social distancing protocols in a number of our markets since late October.
+In summary, our 2021 guidance assumes an improving economy for the first half of the year and a stronger second half of the year with continued progress toward normalization.
+We are pleased with how well we are positioned as we enter 2021.
+I am very proud of all that we accomplished in 2020.
+This would have been a remarkable year of milestones regardless of the macroeconomic environment, but it's all the more notable in the face of a 100-year pandemic.
+Competitively, 2020 was a year of firing in all cylinders for our Company.
+Across our businesses, we took meaningful market share and advanceable further down the fuel despite all the challenges thrown at us.
+We don't need to wait to see a more benign macro to grow.
+We didn't spend the past year waiting for a better day.
+Our resilience is self-evident.
+The technology investments we made over the last seven-plus years, our distinctive strategy and execution consistency has served us well and we significantly expanded our competitive moat as a result during the crisis.
+While hurdles undoubtedly remain, we were not trade positions with anyone heading into 2021.
+Before we begin our question-and-answer session, I'd like to ask everyone to limit your question to one with one follow-up to accommodate everyone in the queue.
+Operator, we will now go to questions.

@@ -1,0 +1,110 @@
+Before we discuss our results, I encourage you to review the cautionary statement on Slides 2 and 3 for our customary disclosures.
+Further information can be found in our regular SEC filings.
+Bill and Pete will provide a Company update, as well as an overview of the Company's third quarter 2021 results.
+During the Q&A, please limit yourself to one question plus one follow-up.
+You may get back into the queue if you have additional questions.
+Envestnet achieved strong adjusted revenue growth of 20% for the quarter and 18% year-to-date.
+Our new guidance reflects an improved outlook for the full year 2021.
+You'll hear more about our results from Pete following my opening comments.
+Our commitment to our vision and strategy continues as we create the financial wellness ecosystem that enables the future of advice and makes possible an intelligent financial life.
+There is excitement about what we're doing inside the Company, and in the marketplace.
+We are driving innovation.
+We are threading technology into everything we do.
+We are using data to elevate incredible insights to our clients and our partners.
+We are continuing to add to our industry-leading marketplace of solutions.
+You see, Envestnet is differentiated from every other provider as a fully connected, open architecture, hyper-personalized partner that is paving the way for the future of our industry.
+We are executing on our roadmap and it is absolutely resonating with our clients.
+We previously shared our strategy with you and outlined the steps to accelerate growth by, first, capturing more of the addressable market.
+We're already a market leader with $5.4 trillion in platform assets, but we can deliver consistently higher revenue growth by deepening our relationships, and offering new and better solutions to our over 108,000 financial advisors and our growing roster of more than 625 fintech firms.
+Secondly, we are modernizing the digital engagement marketplace.
+Envestnet continues to innovate and implement meaningful enhancements to our cloud-based API-driven platform.
+This will improve user experience and create new opportunities for revenue growth.
+And finally, establishing our open platform as the driver of the ecosystem.
+There are more connections to more developers and more firms continue to expand and vitalize our environment.
+Over the past quarter, we saw an increase in participants across both our data business and our wealth business.
+Envestnet is also capitalizing on a number of compelling trends that accelerate our progress.
+Let's start with demand for technology and automation that is absolutely increasing across the board, and this is all ages, all generations, from baby boomers to Gen Z. Another very important trend has to do with open banking.
+Open banking leverages technology to deliver consumer permissioned, highly personalized services and solutions.
+Every fintech and financial Institution will need open banking capabilities to compete in the future.
+We believe that Yodlee powers the most advanced global functionality for open banking.
+This is an accelerating advantage for our clients and their consumers.
+We also continue to benefit from the growth of fee-based advice and the even faster growth of managed accounts.
+We are outpacing the industry.
+Over the last five years, Envestnet AUM/A organic growth rate has exceeded the managed account industry each and every year by approximately 500 basis points.
+We're also seeing a meaningful growth of personalized services like direct indexing, like impact investing, and a heightened interest in tax services.
+Loss trend, clearly data is incredibly valuable.
+Envestnet has assembled a significant dataset.
+We have also strategically built data solutions that bring insight and actionable intelligence, which is a unique and substantial advantage for our Company.
+These trends create a remarkable opportunity for Envestnet, and we are well positioned to take advantage of them.
+We now have $5.4 trillion in assets across 108,000 advisors, an increase of $240 billion in assets over the last quarter.
+We continue to see assets moving from AUA to AUM.
+We also continue to see new account opening accelerate.
+We are now opening more than 20,000 new accounts every week.
+We've also added several new large financial institutions over the quarter, which has helped us reach a total of 17.3 million accounts that we serve.
+In addition, the average number of accounts per advisor on our platform grew 9% year-over-year.
+Advisors are serving more and more of their clients using our technology and our solutions.
+We're also leading in areas that are super-important and they're growth drivers for our clients today.
+These are personalized services like direct index portfolios, like sustainable investing strategies, which have grown by 86% year-over-year showing the increasing focus on ESG and impact investing.
+There is also tax management services.
+And let me just spotlight our offering here.
+We are using our rich internally generated data to identify advisors with accounts that would specifically benefit from our tax overlay offering.
+19 new firms have enabled tax overlay to their advisors, and several hundred advisors used tax overlay for the first time since June 1.
+This includes several new large enterprises using our tax services.
+There are also emerging activities that are exciting like our embedded investing effort.
+This opens up access to our capabilities for millions of millions of additional consumers.
+These services are promising -- are making promising progress as we engage more deeply with our clients in a bevy of new prospects.
+We are investing in our leading technology to connect the best of Envestnet, enabling advisors to serve the entirety of their clients' financial lives.
+There are many exciting developments making their way to market.
+In September, we piloted our next generation proposal tool with over 100 clients of ours.
+The feedback has been overwhelmingly positive.
+The result of taking a customer-focused approach and working with them to design an even better technology solution.
+We continue to expand industry-leading set of solutions we provide powered by and integrated into our technology and data.
+We recently announced a partnership with YieldX.
+YieldX is a fintech that offers cutting-edge tools to advisors, helping them build more efficient fixed-income portfolios.
+This partnership complements the capabilities of Envestnet's Insurance Exchange.
+By combining YieldX and the Envestnet Insurance Exchange and other really important steps that we are taking, we are assembling the industry's leading marketplace of income and protection solutions.
+We are creating the centralized source that enables advisors to offer the most comprehensive end-to-end solutions for income and protection, which is an essential need for retiring individuals.
+There is real momentum in our efforts, as the Envestnet Insurance Exchange recently surpassed $1 billion in insurance assets served.
+You may have noticed Envestnet in the media this past quarter.
+We recently launched a new campaign aimed at our industry with the tag line fully vested.
+The initial response has been significant with a tenfold increase in digital traffic, validating our alignment with our clients, and how they see the future of advice and how Envestnet is powering it.
+We are growing awareness of the solutions we offer, creating familiarity with our brand and setting the stage for future offerings.
+We have made progress on our strategic roadmap.
+We are executing in all areas of our business, and we are delivering strong financial results.
+Pete is going to provide more detail for you now.
+Today, I'm going to review our third quarter results and then provide an update on our guidance for the fourth quarter and revised guidance for the full year.
+Our third quarter results continue to demonstrate the strengths in our business model.
+We expect the momentum from the first nine months of the year to carry through the fourth quarter.
+Adjusted revenues for the third quarter grew 20% to $303 million, compared to the third quarter of last year.
+Adjusted EBITDA was down 2% to $66 million, compared to the third quarter of 2020, outpacing our expectations for the quarter, and at the same time, reflecting the impact of our investment initiatives.
+Adjusted earnings per share was $0.61.
+Quickly on the balance sheet, we ended September with approximately $394 million in cash, and debt of $860 million.
+Our net leverage ratio at the end of September was 1.7 times EBITDA.
+Turning to our investment initiatives, I want to reiterate the expectations we've set forth earlier in the year.
+We continue to expect the investments to account for roughly $30 million of operating expense this year.
+We are making good progress on the hiring front, the impact of which is reflected in our third quarter results and our updated guidance.
+We expect the impact of the investments to step up in the fourth quarter.
+We continue to expect the accelerated investments to annualize to a run rate of approximately $45 million in 2022, at which point they should be completely in our expense base and grow at the same rate of our operating expenses thereafter.
+Additionally, we continue to expect sustainable faster organic revenue growth over the longer term as we create a better more streamlined ecosystem, which elevates our value proposition to existing clients and expands our total addressable market.
+But to summarize, for the fourth quarter, we expect adjusted revenues to be between $310 million and $312 million, up 17% to 18% compared to the fourth quarter of 2020.
+Adjusted EBITDA to be between $54 million and $55 million as we further ramp up the investments, and earnings per share to be $0.49.
+For the full year, we are again raising our outlook to reflect the strength of the first nine months of the year and improved outlook for the fourth quarter.
+We expect adjusted revenues to be between $1,177 million and $1,179 million, up approximately 18% compared to 2020.
+Adjusted EBITDA to be between $259.5 million to $260.5 million, representing growth of 7% for the full year, when the midpoint of our initial expectation for EBITDA was to be down around 5%.
+EPS for the full year to be $2.41, which is $0.40 higher than the midpoint of our original guidance back in February.
+Adding some detail about our revenue outlook to the fourth quarter of the year to highlight some of the drivers, first, our wealth business has performed well year-to-date.
+Net flows into assets under management and administration, excluding conversions in the first three quarters of the year were the highest in our history, nearly double the flows from the first three quarters last year.
+Further, our significant asset base benefited from favorable capital market valuations adding to our forecast of revenue growth.
+Second, our data and analytics segment has grown subscription revenue around 4% in the first nine months of the year, compared to the same period last year.
+We expect this business to see improving revenue growth in the fourth quarter.
+As we continue to execute on our strategy in the coming years and benefit from the investments we're making now, we will capture more of the opportunities we've identified, positioning us to attain our longer-term targets of $2 billion of revenue, and adjusted EBITDA margin expanding into the 25% range by 2025.
+Our year-to-date results are strong and we intend to close out the year capitalizing on this momentum by leveraging our scale, our technology, our market position, and another incredible asset that we have, Envestnet's people.
+Envestnet has a team of dedicated individuals who deeply understand the needs of our industry and the needs of our clients.
+This team is leaned into our mission and leaned into the work we are doing to establish Envestnet as the ecosystem that connects data, technology, and solutions to enable the intelligent financial life.
+As the industry leader, we continue to innovate and drive the digital transformations that our clients want.
+Our strategy remains clear.
+We will capture more of the addressable market opportunity with our data and solutions.
+We are modernizing the digital engagement marketplace, and we are opening up our platform to accelerate future growth.
+I'm very pleased with the progress Envestnet is making.
+Envestnet is differentiated from every other provider as a fully connected, open architecture, hyper-personalized partner that is paving the way for the future of our industry.
+We will continue to execute, and we will create greater value for each and every one of our Company stakeholders.

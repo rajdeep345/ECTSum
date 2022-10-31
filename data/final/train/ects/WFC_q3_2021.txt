@@ -1,0 +1,172 @@
+Information about any non-GAAP financial measures referenced, including a reconciliation of those measures to GAAP measures, can also be found in our SEC filings and the earnings materials available on our website.
+I'll make some brief comments about our third-quarter results, the operating environment and update you on our priorities.
+Let me start with some third-quarter highlights.
+We earned $5.1 billion or $1.17 per common share in the third quarter.
+These results included a $1.7 billion decrease in the allowance for credit losses as credit quality continued to improve.
+Revenue declined on lower gains from equity securities, which were elevated in the second quarter, though still strong.
+Expenses continue to decline, reflecting progress on our efficiency initiatives and included $250 million associated with the September OCC enforcement action.
+And for the first time since first-quarter 2020, we grew both period-end loans and deposits in the third quarter.
+We continue to see that our customers have significant liquidity and consumers are continuing to spend.
+While lower than the peak in March, our consumer customers' median deposit balances continued to remain above pre-pandemic levels, up 48% for customers who received federal stimulus and 40 -- I'm sorry, up 48% for customers who received federal stimulus and 40% higher for those who did not receive federal aid.
+Weekly debit card spend during the third quarter was up every week compared to 2019 and in the week ending October 1 was up 14% compared to 2020 and 26% compared to 2019.
+Areas hardest hit by the pandemic have recovered, including travel, up 2%; entertainment, up 39%; and restaurant spending, up 20% during the week ending October 1 compared with 2019.
+Consumer credit card spending activity continued to increase, up 18% in the third quarter compared to 2019 and 24% compared to 2020.
+During the week ended October 1, travel-related spending, which was hardest hit during the pandemic, was up significantly from 2020 but remains the only category that is not yet fully rebounded to 2019 levels, still down 8% compared to 2019.
+Commercial banking loans were up slightly at the end of the third quarter, while line utilization was stable at historic lows.
+Supply chain difficulties and labor shortages continue to represent significant challenges for our client base.
+And as I said earlier, overall credit performance continued to be strong.
+Now let me update you on the progress we've made on our strategic priorities.
+First, building an appropriate risk and control infrastructure has been and remains Wells Fargo's top priority.
+We reached a significant milestone with the termination of the CFPB consent order issued in September 2016 regarding improper retail sales practices.
+Its expiration reflects years of hard work by employees across Wells Fargo, intended to ensure that the conduct at the core of the CFPB order will not recur.
+As a reminder, this is the second important regulatory milestone we achieved this year with the OCC terminating a consent order related to our BSA/AML compliance program in January.
+But the recent OCC actions are a reminder that the significant deficiencies that existed when I arrived must remain our top priority.
+I believe we're making meaningful progress, and I remain confident in our ability to close the remaining gaps over the next several years.
+Having said that, it continues to be the case that we are likely to have setbacks along the way.
+We are a different bank today than we were several years ago.
+We run the company with greater oversight, transparency, and operational disciplines.
+We have a new leadership team.
+15 of 18 operating committee members are now new to their roles.
+I've spoken of our new leaders in many of our control functions, but we also have many new business leaders.
+This includes new leaders in consumer banking, small business banking, auto lending, home lending, credit card, merchant services, retail services, and personal lending, digital, strategy, wealth and investment management, and commercial banking.
+Our control infrastructure is different, and we continue to invest in it.
+We take a different approach to the consumer today.
+We created a sales practice oversight and management function and an Office of Consumer Practices.
+Our approach to consumer remediation is dramatically different as we have meaningfully increased the amount paid to consumers and have accelerated payments to customers.
+While we are committed to devoting the resources necessary to our risk and regulatory work, we are also focused on improving the products and services we offer.
+We're making investments in digital capabilities and making it easier for customers to do business with us.
+In the third quarter, we announced our new long-term digital infrastructure strategy that will move us to a multi-cloud environment.
+This is a critical step in our multiyear journey to be digital-first and offer easier-to-use products and services.
+We also joined AutoFi's North American network to provide car buyers and dealers with fast and easy online sales and financing.
+And as I've spoken about previously, we're on track to roll out a new consumer mobile app at the beginning of next year.
+We've also been making significant enhancements to our payments capabilities and are seeing that momentum pull through on our customers' Zelle usage, with Zelle users increasing 24%, transactions up 50%, and volumes are up 56% from a year ago.
+We're executing on our work to simplify our products and build compelling offerings tailored to different customer segments.
+Clear Access, our no-fee overdraft checking product now has over 1 million outstanding customer accounts.
+As a reminder, this launched in September 2020.
+And all of our retail accounts, which receive ACH direct deposit have our Overdraft Rewind feature, which automatically reevaluates transactions from the prior business day that have incurred an overdraft.
+This feature has helped over 1.3 million customers avoid overdraft-related fees on 2.5 million transactions in the third quarter.
+For the emerging affluent and affluent segments, we're making substantial changes to more consistently and intentionally serve these customers, including products, service, marketing, and management routines.
+You'll hear us talk more about how we're executing on this in the coming quarters.
+After successfully launching Active Cash, our new cash-back credit card in July earlier this month, we launched the Reflect Card that rewards customers for making on-time payments.
+Our new Head of Small Business, Derek Ellington, will start in just a couple of days, and we believe this is another attractive growth segment for us.
+Next month, Paul Camp will be joining Wells Fargo as the Head of our Global Treasury Management businesses.
+This new role brings together our treasury management and global payment solutions teams into one organization, which will enable us to be more efficient and leverage our capabilities more effectively to help clients manage their funds and process payments worldwide.
+While we've been focused on improving the products and services we offer to our customers, we've continued to support our communities.
+We voluntarily committed to donate all gross processing fees from PPP loans funded in 2020 and created the Open for Business Fund to support small businesses impacted by the pandemic.
+We've now donated $305 million in support of small business recovery, including 215 CDFIs, which, in turn, is expected to help nearly 150,000 small business owners maintain more than 250,000 jobs.
+Additionally, in the third quarter, we launched Connect to More, a resource hub for women-owned businesses and a mentoring program partnering with Nasdaq Entrepreneurial Center to empower 500 women-owned businesses.
+We committed to invest $5 million through the NeighborhoodLIFT program to help more than 300 low- and moderate-income residents in Philadelphia with home down payment assistance.
+And we published our updated ESG report and goals and performance data, which includes new disclosures on our workforce by race, gender, and job category.
+As we look forward, while there certainly are risks that remain, including the latest wave of COVID infections, the recent U.S. fiscal policy stalemate, and inflation concerns, the outlook for the economy is promising.
+Consumers' financial condition remains strong with leverage at its lowest level in 45 years and the debt burden below its long-term average.
+Companies are also strong as well.
+We remain on target to achieve a sustainable 10% ROTCE, subject to the same assumptions we've discussed in the past on a run-rate basis at some point next year, and we'll then discuss our plan to continue to increase returns.
+Charlie summarized how we're helping our customers and communities on Slide 2, so I'm going to start with our third-quarter financial results on Slide 3.
+Net income for the quarter was $5.1 billion or $1.17 per common share.
+Our results included a $1.7 billion decrease in the allowance for credit losses.
+This is reflective of the continuing improvement in credit performance and the economic recovery.
+Pretax pre-provision profit grew from a year ago as lower revenue, driven by a decline in net interest income, was more than offset by lower expenses.
+We continue to execute on our efficiency initiatives, which has helped improve the expense run rate.
+And as Charlie highlighted, the third quarter included $250 million in operating losses associated with the September OCC enforcement action.
+Noninterest income was relatively stable from a year ago.
+Within that, equity gains declined from the second quarter but increased $220 million from a year ago, predominantly due to our affiliated venture capital and private equity businesses.
+We also had an increase in investment advisory and other asset-based fees from a year ago, as well as in card, deposit related and investment banking fees.
+These increases were more than offset by declines in other areas, including lower mortgage banking revenue and lower markets revenue in corporate and investment banking.
+Our effective income tax rate in the third quarter was 22.9%.
+Our CET1 ratio declined to 11.6% in the third quarter as we repurchased $5.3 billion of common stock.
+As a reminder, our regulatory minimum will be 9.1% in the first quarter of 2022, reflecting a lower GSIB capital surcharge.
+Additionally, under the stress capital buffer framework, we have flexibility to increase capital distributions and if possible, we will be able to repurchase more than the $18 billion included in our capital plan over the four-quarter period, depending on market conditions and other risk factors, including COVID-related risks.
+Turning to credit quality on Slide 5.
+Our net loan charge-off ratio was 12 basis points in the quarter.
+Commercial credit performance continued to improve, and net loan charge-offs declined $42 million from the second quarter to 3 basis points.
+The improvement was broad-based and included modest net recoveries in our energy portfolio and in commercial real estate.
+The commercial real estate portfolio has continued to perform well.
+The recovery in retail and hotel properties reflected increased liquidity and improved valuations.
+While we have not seen any widespread stress in office, we continue to watch this sector closely and believe that any impact as a result of return to office or hybrid working plans will take time to play out.
+Consumer credit performance also continued to improve with strong collateral values for homes and autos and consumer cash reserves remaining above pre-pandemic levels.
+Net loan charge-offs declined $80 million from the second quarter to 23 basis points.
+We continue to have net recoveries in our consumer real estate portfolios, and losses in both credit card and auto declined.
+Nonperforming assets declined $321 million or 4% from the second quarter, driven by lower commercial nonaccruals, with declines across all asset types.
+Energy was the largest driver, given significant improvement in fundamentals on the back of higher commodity prices.
+Our allowance level at the end of the third quarter reflected continued strong credit performance, the continuing economic recovery, and the uncertainties that still remain.
+If economic -- current economic trends continue, we would expect to have additional reserve releases.
+On Slide 6, we highlight loans and deposits.
+Average loans were relatively stable from the second quarter with a decline in residential mortgage loans, largely offset by modest growth in our -- in most of our consumer and commercial portfolios.
+Total period end of loans grew for the first time since the first quarter of 2020 and were up $10.5 billion from the second quarter with growth in commercial and industrial loans, auto, other consumer, credit card, and commercial real estate.
+Average deposits increased $51.9 billion or 4% from a year ago with growth in our consumer businesses and commercial banking, partially offset by continued declines in corporate and investment banking and corporate treasury, reflecting targeted actions to manage under the asset cap.
+Turning to net interest income on Slide 7.
+Net interest income grew $109 million or 1% from the second quarter and was down $470 million or 5% from a year ago.
+The decrease from a year ago was driven by lower loan balances and the impact of lower yields on earning assets, partially offset by a decline in long-term debt and lower premium amortization on our mortgage-backed securities.
+We had $20 billion of loans we purchased out of mortgage-backed securities or EPBOs at the end of the third quarter, down $4 billion from the second quarter.
+These loans do contribute to net interest income, and we expect these EPBO loan balances to decline substantially by the end of 2022.
+At the end of the third quarter, we also had $4.7 billion of PPP loans outstanding, and we expect the balances to steadily decline over the next several quarters and to be under $1 billion by the end of next year.
+We continue to expect net interest income to be near the bottom of our initial guidance range of flat to down 4% from the annualized fourth-quarter 2020 level of $36.8 billion for the full year.
+Turning to expenses on Slide 8.
+Noninterest expense declined 13% from a year ago.
+The decrease was driven by lower restructuring charges and operating losses and the progress we've made on our efficiency initiatives.
+During the first nine months of this year, these initiatives have helped to drive a 16% decline in professional and outside services expense by reducing our spend on consultants and contractors, an 8% reduction in occupancy costs by reducing the number of locations, including branches and offices.
+Occupancy costs have also declined from lower COVID-19 related costs and a 5% decline in salaries expense by eliminating management layers and increasing expansion controls across the organization and optimizing branch staffing.
+Now let me provide some specific examples of progress we're making on some of the initiatives.
+We are continuing to work on reducing the underlying costs to run our Consumer Banking business.
+The pandemic accelerated customer migration to digital, which continue with mobile log-ons up 14% in the third quarter from a year ago.
+While teller transactions were flat from a year ago, they were over 30% lower than pre-pandemic levels as transactions have migrated ATMs and mobile.
+Over the past year, we've reduced our number of branches by 433 or 8% and lowered headcount and branch banking by 23%.
+We continue to focus on generating efficiencies in our branches and have a number of initiatives designed to further reduce expenses, including reducing cash handling time and simplifying certain branch processes.
+Wealth and investment management has had strong increases in revenue-related compensation.
+However, by executing on efficiency initiatives, nonrevenue-related expenses in the third quarter declined 6% from a year ago, and non-advisor headcount was down 10% from a year ago.
+We have aligned our wealth management business under eight divisional leaders, creating better coordination and efficiency.
+We have also implemented a more efficient client service model across all distribution channels and have reduced total square footage by rationalizing our real estate footprint.
+Corporate and investment banking has continued to make progress on various efficiency initiatives.
+These efforts include reducing headcount supporting products, regions, or sectors with low levels of market activity and opportunity, optimizing operations and support teams, vendor optimization and insourcing, and reducing spend on contractors and consultants.
+We're also working on initiatives in centralized functions, including operations, where we have realized savings from location optimization, lower third-party spending by eliminating consulting arrangements, and consolidating vendors.
+The operations group has also reduced spend and layers with savings coming from eliminating manager roles.
+Automation efforts and strategy enhancements have driven process improvements while reducing costs in many areas, including fraud management and card collections.
+We've also been working on additional opportunities through technology enablement that have longer lead times, but should result in benefits that we expect will reduce operations-related expenses over time.
+With three quarters of actual results already, our current outlook for 2021 expenses, excluding restructuring charges and the cost of business exits, is approximately $53.5 billion.
+Note that we had $193 million of restructuring charges and cost of business exits during the first nine months of the year.
+This outlook includes an expectation of higher operating losses and higher revenue-related expenses than we assumed earlier in the year.
+Our expense outlook also assumes a full year of expenses related to Wells Fargo Asset Management and our Corporate Trust Services business, and we expect these sales to close during the fourth quarter.
+We will update you on the expense impact of these initiatives after they close.
+As mentioned, the outlook accounts for the fact that we expect full-year operating losses to be approximately $250 million higher than our assumptions at the beginning of the year.
+This includes approximately $1 billion of operating losses incurred during the first nine months of the year, and our outlook assumes $250 million of operating losses in the fourth quarter.
+Just a reminder that operating losses can be lumpy and unpredictable, especially as we continue to address the significant work needed to satisfy our regulatory requirements.
+Our current outlook also assumes revenue-related compensation will be approximately $1 billion this year, which is higher than the $500 million we assumed at the beginning of the year.
+Strong equity markets have driven revenue-related expenses, which is a good thing as the associated revenue more than offsets any increase in expenses.
+Now turning to our business segments, starting with consumer banking and lending on Slide 9.
+Consumer and small business banking revenue increased 2% from a year ago, primarily due to an increase in consumer activity, including higher debit card transactions and lower COVID-related fee waivers.
+Home Lending revenue declined 20% from a year ago, primarily due to a decline in mortgage banking income, driven by lower gain-on-sale margins, origination volumes, and servicing fees.
+Net interest income also declined, driven by lower loan balances.
+These declines were partially offset by higher gains from the resecuritization of loans we purchased from mortgage-backed securities last year.
+Credit card revenue was up 4% from a year ago, driven by increased spending and lower customer accommodations and fee waivers in response to the pandemic.
+Auto revenue increased 10% from a year ago on higher loan balances.
+Turning to some key business drivers on Slide 10.
+Our mortgage originations declined 2% from the second quarter with correspondent originations growing 2%, which was more than offset by a 5% decline in retail.
+We currently expect our fourth-quarter originations to decline modestly, given the recent increase in mortgage rates and the typical seasonal trends in the purchase market.
+Despite strong consumer demand for autos, inventory shortages are putting downward pressure on industry sales and driving higher prices.
+The competitive environment has remained relatively stable, and we've had our second consecutive quarter of record originations with volume up 70% from a year ago.
+Turning to debit card.
+Transactions were relatively stable from the second quarter and up 11% from a year ago, with increases across nearly all categories.
+We had strong growth in new credit card accounts up 63% from the second quarter, driven by the launch of our new Active Cash Card.
+Credit card point-of-sale purchase volume was up 24% from a year ago and 4% from the second quarter.
+While payment rates remain high, average balances grew 3% from the second quarter, the first-time balances have grown since the fourth quarter of 2020.
+Turning to commercial banking results on Slide 11.
+Middle-market banking revenue declined 3% from a year ago, primarily due to lower loan balances and lower interest rates, which were partially offset by higher deposit balances and deposit-related fees.
+Asset-based lending and leasing revenue declined 12% from a year ago, driven by lower loan balances and lower lease income.
+Noninterest expense declined 14% from a year ago, primarily driven by lower salaries and consulting expense due to efficiency initiatives, as well as lower lease expense.
+After declining for four consecutive quarters, average loans stabilized in the third quarter, line utilizations remained low and loan demand continued to be impacted by low client inventory levels and strong client cash positions.
+However, there was some increase in demand late in the quarter and period-end balances increased $1.6 billion or 1% from the second quarter.
+Turning to corporate and investment banking on Slide 12.
+In banking, total revenue increased 12% from a year ago.
+This growth was driven by higher advisory and equity origination fees and an increase in loan balances, partially offset by lower deposit balances predominantly due to actions taken to manage under the asset cap.
+Commercial real estate revenue grew 10% from a year ago, driven by higher commercial servicing income, loan balances and capital markets results in stronger commercial gain-on-sale volumes and margins and higher underwriting fees.
+Markets revenue declined 15% from a year ago, driven by lower trading activity across most asset classes, primarily due to market conditions.
+Noninterest expense declined 10% from a year ago, primarily driven by reduced operations expense due to efficiency initiatives.
+Wealth and investment management revenue on Slide 13 grew 10% from a year ago.
+A decline in net interest income due to lower interest rates was more than offset by higher asset-based fees primarily due to higher market valuations.
+Revenue-related compensation drove the increase in noninterest expense from a year ago.
+I highlighted earlier the progress we've made on efficiency initiatives to reduce nonrevenue-related expenses, including salaries and occupancy expense.
+Client assets increased 13% from a year ago, primarily driven by higher market valuations.
+Average deposits were up 4% from a year ago, and average loans increased 5% from a year ago, driven by continued momentum in securities-based lending.
+And Slide 14 highlights our corporate results.
+Revenue declined from a year ago, driven by lower net interest income, primarily due to the sale of our student loan portfolio and lower noninterest income due to lower gains on the sale of securities in our investment portfolio.
+The decline in revenue from the second quarter was primarily driven by lower equity gains from our affiliated venture capital and private equity businesses, and expenses included the $250 million operating loss associated with the OCC enforcement action in September.

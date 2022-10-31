@@ -1,0 +1,141 @@
+For today's call, Jeff will begin by covering a summary of our second quarter results, including new program wins.
+Roop will then discuss our detailed second quarter results, including a cash and balance sheet summary and third quarter 2021 guidance.
+Jeff will wrap up with an outlook by market sector, a progress update on our strategic initiatives for the year and second half outlook before we conclude the call with Q&A.
+Throughout the past 18 months, we've rallied through the uncertainty surrounding the pandemic and made decisions to increase our investments in new opportunities, which we believe are starting to bear fruit.
+We've had to make difficult trade-offs during this unprecedented time, but we never lost focus on prioritizing the safety and well-being of our employees and meeting the growing needs of our customers.
+This approach has served us well as we progressed our strategy in a volatile operating environment.
+Revenues benefited from the continued momentum in the semi cap market as well as stronger demand from customers deploying broadband infrastructure solutions in our Telco sector.
+Additionally, we are seeing early signs of recovery in some subsectors of the industrial markets.
+Roop will provide more specific color on the constrained component situation, but our teams are facing a heavy workload and significant disruptions in manufacturing planning based on the continued volatility of extended lead times, tight supply and allocations that are limiting the ability to meet customer demand.
+In the second quarter, we estimate that we left approximately $50 million of demand on the table and most of this demand is rolled into future quarters.
+Given component constraints, we estimate we may leave $100 million of unfulfilled demand in this quarter, demonstrating the strength of end customer orders.
+We continue to work closely with our customers to optimize output based on component availability.
+During the quarter, we also faced disruptions in our Malaysian operations from the ongoing COVID pandemic where government regulations reduced staffing levels to 60% and required our team to replan our workforce and shift patterns through most of the second quarter.
+Even with these challenges, I'm proud to report our teams in Penang delivered on their customer demand and achieved their targets for the quarter.
+Government restrictions have recently eased, now allowing 80% of the workforce capacity and our leadership team continues to do a phenomenal job managing through reduced staffing and intermittent work stoppages to keep our employees healthy and maximize production.
+Now turning to profits.
+With improving revenue, our non-GAAP gross margins improved 50 basis points to 8.8%, and non-GAAP operating margins improved 20 basis points to 2.5%.
+As a reminder, our non-GAAP operating margins include stock compensation expenses, which were approximately 70 basis points in the second quarter.
+Earnings per share of $0.27 was above the midpoint of our guidance, and we had another solid quarter of cash conversion cycle results at 64 days.
+Our team continues to pull together, execute with excellence and deliver on our growth strategy through the first half of 2021.
+We believe this momentum will continue through the rest of the year and demonstrate the benefits of scale in our model.
+In addition to strong sequential and year-over-year revenue growth, we had another strong quarter of bookings, where the outsourcing and new deal opportunity environment remains strong.
+Now I'd like to highlight a few key wins in the quarter.
+In the medical sector, we were awarded new manufacturing programs for cardiac monitoring, blood transfusion and an in vitro diagnostics.
+Our winning value proposition in this sector resonates with customers and is supported by our 30-year quality track record of building Class III life-sustaining devices by FDA standards.
+In Semi-Cap, we continue to win new programs, which are additive to our already strong demand in this sector.
+In Q2, we added a new Semi-Cap customer to our portfolio where we will be building process controllers for coding equipment.
+With existing customers, we were awarded new design and manufacturing projects for work cell handlers and power rack electronics.
+This quarter, we had great wins in semi cap across precision machining, engineering services and electronics manufacturing.
+In the A&D sector, we were awarded new manufacturing programs for electronic warfare and defense satellites as well as a design program for ruggedized electronics for land-based combat vehicles.
+In industrials, we are very excited about a major new customer win to manufacture solar battery storage solutions, which could provide meaningful growth to our industrial sector.
+And finally, in Computing & Telco, we continue to win new high-performance computing programs where we have unparalleled manufacturing expertise for large form factor, high-density electronics manufacturing.
+High-performance computing will be a key contributor to our growth over the next 12 months.
+Our new business pipeline remains strong across all of our sectors, and we expect these bookings to fuel growth in support of our midterm model and longer-term growth plans.
+All in all, I'm very excited about the meaningful opportunities we are winning, the increased attach rate of engineering services and the level of new prospective wins that our business development teams are engaging in.
+Roop, over to you.
+Total Benchmark revenue was $545 million in Q2, which was at the higher end of our guidance driven by continued strong performance in Semi-Cap and improving revenue in Industrials and Telco.
+Medical revenues for the second quarter were relatively flat sequentially as expected.
+We expect Medical revenues to be higher for the second half of 2021 as compared to the first half of 2021 due to new program ramps and improving demand.
+Semi-cap revenues were up 23% in the second quarter and up 60% year-over-year from continued demand strength from our front-end wafer fab equipment customers where we saw increased demand from each of our top customers.
+Our revenue in this sector is primarily precision machining and large electromechanical assembly which are less impacted from the global component shortages.
+A&D revenues for the second quarter increased 8% sequentially and 9% year-over-year from continued strong demand in our Defense programs for surveillance vehicles, secure communications and computing and military satellite programs.
+Our commercial aerospace revenue was flat sequentially.
+Industrial revenues for the second quarter were slightly better than expected from slight improvements from building infrastructure and commercial construction programs.
+Overall, the higher-value markets represented 82% of our second quarter revenue.
+Revenues from computing and Telco sectors, our traditional markets, were flat quarter-over-quarter.
+We saw strong demand in Telco from new and existing programs in commercial broadband and commercial satellites but a high-performance computing program that was expected to ramp in Q2 was pushed to the second half of 2021.
+Our traditional markets represented 18% of second quarter revenues.
+Our top 10 customers represented 46% of sales in the second quarter.
+Our GAAP earnings per share for the quarter was $0.20.
+Our GAAP results included restructuring and other onetime costs totaling $1.6 million related to restructuring activities.
+In Q2, we completed the closure of our Angleton, Texas site as planned.
+For Q2, our non-GAAP gross margin was 8.8%.
+This is 20 basis points better than the midpoint of our second quarter guidance, driven by higher revenues and a better mix.
+On a sequential basis, we were up 50 basis points as a result of our higher revenue, improved productivity and utilization, somewhat offset by higher variable compensation expenses and higher-than-expected U.S. medical costs.
+Our SG&A was $34 million, an increase of $3.5 million sequentially due to higher variable compensation expenses and higher U.S. medical costs.
+Non-GAAP operating margin was 2.5%.
+In Q2 2021, our non-GAAP effective tax rate was 20.3% as a result of the mix of profits between the U.S. and foreign jurisdictions.
+Non-GAAP earnings per share was $0.27 for the quarter, which is $0.01 higher than the midpoint of our Q2 guidance and $0.06 sequential improvement.
+Non-GAAP ROIC was 7.5%, a 110 basis point increase sequentially and 160 basis point improvement year-over-year.
+Our cash conversion cycle days were 64 in the second quarter, an improvement of one day from Q1.
+Turning to slide nine for an update on liquidity and capital resources.
+The cash balance was $370 million at June 30, with $135 million available in the U.S.
+Our cash balances decreased $30 million sequentially.
+The decrease in cash is primarily the result of procuring a higher level of inventory to support future revenue growth and to better manage the increasing lead times for components and current broad supply chain constraints in the marketplace.
+We generated $4 million in cash flow from operations in Q2, and our free cash flow was a use of $9 million of cash after capital expenditures.
+As of June 30, we had $133 million outstanding on our term loan with no borrowings outstanding on our available revolver.
+Turning to slide 10 to review our capital allocation activity.
+In Q2, we paid cash dividends of $5.8 million and used $17 million to repurchase 566,600 shares.
+As of June 30, we had approximately $174 million remaining in our existing share repurchase authorization.
+In Q3, we expect to repurchase shares opportunistically while considering market conditions.
+We expect revenue to range from $555 million to $595 million, which at the midpoint represents a 9% year-over-year improvement.
+We expect that our gross margins will be 9% to 9.4% for Q3, and SG&A will range between $34 million and $35 million.
+The sequential increase in gross margins is expected due to higher revenues and improved absorption.
+We are still targeting gross margins for the full year to be 9%.
+Implied in our guidance is a 3.1% to 3.4% non-GAAP operating margin range for modeling purposes.
+The guidance provided does exclude the impact of amortization of intangible assets and estimated restructuring and other costs.
+We expect to incur restructuring and other nonrecurring costs in Q3 of approximately $800,000 to $1.2 million.
+Our non-GAAP diluted earnings per share is expected to be in the range of $0.33 to $0.41 or a midpoint of $0.37.
+We expect our capex plans for the year to be between $50 million and $60 million.
+We expect -- we estimate that we will generate approximately $80 million to $100 million of cash flow from operations for fiscal year 2021.
+This range contemplates the higher inventory levels to support growth for our customers through the year.
+Other expenses net is expected to be $2.1 million, which is primarily interest expense related to our outstanding debt.
+We expect that for Q3, our non-GAAP effective tax rate will be between 19% and 21% because of the distribution of income around our global network.
+The expected weighted average shares for Q3 are approximately $35.7 million.
+As you're aware, end market demand continues to be strong.
+However, we continue to see component supply chain constraints across all commodity categories.
+Overall, lead times continue to extend and more components are being placed on allocation by suppliers.
+Several commodities are impacted yet semiconductors remain the most constrained.
+We are maintaining close alignment with our suppliers and distributors to minimize disruptions to existing orders and to secure supply in support of customer demand increases.
+We are actively working with customers to replan mix and redesign some products to enable alternate component sourcing.
+In general, our ability to fulfill upside demand is challenging due to component constraints but we do believe these actions still give us confidence that we will grow revenue in 2021 in the high single digits.
+In summary, our guidance takes into consideration all known constraints for the quarter and assumes no further significant interruptions to our supply base, operations or customers.
+Guidance also assumes no material changes to end market conditions in our operations due to COVID.
+Following Roop's comments on our third quarter guidance, I wanted to provide some additional details on our view of demand by sector.
+for the quarter and the remainder of 2021.
+This is shown on slide 13.
+For the second quarter, we expect revenue to be up sequentially by about $30 million.
+This strength is led by expected sequential growth in computing and A&D with continued strong demand in semi cap.
+After 60% year-over-year growth in Q2, we expect our Semi-Cap sector will remain at Q2 revenue levels as demand still remains robust, but we are constrained in the near term by mechanical sub-tier suppliers.
+Based on signals from our customers in the front-end wafer fab processing space, demand will remain at high levels for the balance of 2021 and through next year, supported by increasing demand for semiconductor capital equipment.
+With this ongoing demand strength and signals from our customers, we are revising our outlook for this sector upward from 20% to greater than 30% revenue growth over 2020 levels.
+This sector is clearly outperforming our expectations for this year.
+In A&D, where we grew 8% in Q2, we expect continued growth in third quarter led by increased demand for ruggedized electronics for ground-based military vehicles and secure communication devices.
+While commercial Aero demand in the second half is stabilizing, we still expect the A&D sector to remain flat for 2021 as defense strength does not offset aero weakness for the full year.
+In the computing sector, we expect strong revenue growth in 2021 from high-performance computing projects with the largest revenue growth in the second half of 2021.
+If there are no further component decommits or design delays, computing could be up over 50% sequentially in the third quarter.
+As we continue to win new projects in this targeted subsector, we expect continued strength in high-performance computing revenues in 2022.
+In the Medical sector, we're expecting revenue to grow sequentially in Q3 and Q4.
+For our portfolio, we see revenue growth across our base business in the second half.
+Additionally, we have new program ramps contributing to second half growth.
+We still expect Medical to have a growth year, but as always, new medical program revenue is subject to the timing of product qualifications.
+In the Telco market, where we had good growth in the second quarter, we expect stable demand in the second half of '21, which will lead to 2021 being a solid growth year from strong performance in broadband communication products.
+In Industrials, we are pleased to see the order book increasing for our customers supporting the oil and gas market, transportation infrastructure and Building Systems.
+With this demand improvement forecasted in the second half and a tremendous number of new program ramps in Q4, this sector has the potential to achieve greater than 10% growth for this year.
+We remain focused on our longer-term strategic initiatives and progress against these even as we deal with short-term challenges created by the pandemic and this constrained supply environment.
+Growing revenue remains a top priority at Benchmark.
+Our go-to-market team is doing a great job executing our sector development strategies with wins in our targeted subsectors where we have an advantaged position based on our technology and the track record of success with complex programs.
+Our booking levels for both manufacturing and engineering services remain strong.
+We'll continue to invest in a sustainable infrastructure and our talent for sustainable growth.
+We are in data collection mode to support our intended reporting against the global reporting initiative, which will increase our transparency and further support our stand-alone sustainability report, which we plan to publish next year.
+We are also expanding our diversity and inclusion efforts by developing a multiyear continuous improvement road map, supported by robust plans and actions with accountability held by the entire senior leadership team.
+This road map includes increased training, some enhanced policies and recruiting strategies for our internal organization as well as the ongoing commitment to Board diversification.
+You may have seen our recent announcement where one of our Board members, Merilee Raines left our board.
+We have certainly appreciated her service and wish her well.
+Lynn is an outstanding director and sits on three public companies where she currently holds two board chairs and one audit share position.
+Her vast experience and history of operational execution will provide additional capabilities and insight to our already talented slate of directors.
+Lastly, we are laser-focused on growing earnings.
+From our second quarter results to the midpoint of our Q3 guide, we're expecting a greater than 30% sequential earnings improvement.
+These expected results are enabled by our continued revenue growth trajectory.
+Our target to sustain gross margins at 9% for the full year and our commitment to control our expenses.
+In summary, on slide 15, I'm very excited about our progress in the first half and remain optimistic about our second half outlook.
+Given the continuing strong demand outlook in Semi-Cap, improving demand in industrials and expected second half ramps in high-performance computing.
+We are revising our full year growth outlook to high single digits for 2021.
+Of course, this assumes no worsening component supply constraints or broader pandemic impacts.
+With this revenue growth and mix, we're expecting sequential quarterly improvement in both gross and operating margins in both three and 4Q.
+On the gross margin line, we are still targeting to achieve 9% for the full year 2021.
+With these results, we are still expecting operating cash flows between $80 million and $100 million.
+Through the first half of 2021, we repurchased $30 million of stock and may continue to purchase the stock opportunistically as well as continue our recurring quarterly dividend which we raised last quarter as part of our capital allocation plan.
+In closing, I remain excited about the overwhelming positive indicators that we are seeing from our teams and our customers.
+I'm excited about how 2021 is shaping up and look forward to providing you an update in our October earnings call.

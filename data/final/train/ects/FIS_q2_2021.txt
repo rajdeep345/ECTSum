@@ -1,0 +1,108 @@
+Gary Norcross, our Chairman and CEO, will discuss our performance and review our strategy to continue accelerating revenue growth and maximizing shareholder value.
+Woody Woodall, our Chief Financial Officer will then review our strong financial results and provide updated forward guidance.
+Bruce Lowthers, President of FIS, will also be joining the call for the Q&A portion.
+Turning to Slide 3.
+Also throughout this conference call, we will be presenting non-GAAP information, including adjusted EBITDA, adjusted net earnings, adjusted net earnings per share and free cash flow.
+These are important financial performance measures for the company, but are not financial measures as defined by GAAP.
+Our second quarter results exceeded expectations across the board and demonstrates the continued success of our pivot to growth strategy that we laid out before the pandemic.
+Revenue of $3.5 billion was the highest quarterly revenue in our company's history.
+Revenue increased more than $500 million or 17% year-over-year, and adjusted earnings per share grew 40%.
+Sales results, which were the strongest in our company's history, are being driven because our solutions remain in high demand, enabling businesses of all sizes to advance the way the world pays banks and invest.
+This demand, combined with our organizational focus on delivering broader value to our clients, was also reflected in a very strong cross-sales, driving our largest revenue synergy quarter-to-date, increasing our run rate by 50% or $150 million sequentially to $450 million.
+This sales execution in turn drove a $1.5 billion increase to our backlog, which is now greater than $22 billion.
+Our strong execution is driving us to raise both our 2021 guidance and increase our year-end revenue synergy target to $700 million.
+In addition, as we consider client demand across our portfolio of solutions, we are extending our mid-term outlook of 7% to 9% revenue growth through 2024.
+They are our most important asset and play a vital role in advancing the commerce and financial technology that keeps thousands of clients up and running in the economy moving every day.
+Turning to Slide 6.
+I'd like to highlight a few recent wins that demonstrate FIS' differentiation.
+Clients are increasingly demanding access to new capabilities that are outside of their traditional solution, so they can innovate in new and interesting ways.
+We have the unique ability to serve our clients horizontally across a breadth of financial technology with integrated cloud native platforms.
+Further, our open APIs are resilient and easy to use as clients expand their relationships with FIS.
+Our sales success with the Modern Banking platform demonstrates this client demand as they look to differentiate with cloud native capabilities.
+This quarter, we delivered the largest release since the start of MBP, including expansion of commercial deposit functionality as well as new enhancements to our lending module.
+As we have previously discussed, one of the exciting opportunities with the current MBP clients is an ongoing ability to cross-sell additional functionality modules.
+This quarter, we had our first cross-sell to American Express, who added a new checking account feature to their deployment.
+This is a great example of our ability to land large complex clients and the value of our modern platform.
+As we continue to add functionality, clients continue adopting these new capabilities to grow their businesses, which drives additional revenue for FIS and expand these important relationships.
+Fifth Third Bank provides a second key example of the ways we grow our strategic relationships.
+Fifth Third is a longtime client, who is on a journey to reengineer its technical infrastructure with a focus on resiliency and scale.
+This quarter, they expanded their relationship with us to replace their legacy in-house core with the Modern Banking platform and their legacy wealth management system with FIS Unity.
+Unity is our leading-edge global wealth management system and will provide rich data and insights for Fifth Third's customers throughout their wealth journey.
+It incorporates automated cash management, multicurrency and other advanced wealth management functionality and flexible design that is fully integrated with FIS Trust accounting.
+T. Rowe Price provides yet another example of an industry leader looking to FIS to help them modernize their 401(k) retirement offering with advanced technology.
+This landmark win will lay the foundation for other large asset managers to utilize FIS as they look to leverage our scale and expertise in the retirement space.
+In addition, PayPal and Chevron both expanded their relationships with us to begin utilizing our cloud-enabled payment switching capabilities.
+And finally, WesBanco joined our merchant referral network in order to upgrade to our leading acquiring technology.
+As we continue to innovate, our integrated cloud native ecosystem creates a powerful network effect that empowers our clients to transform and grow.
+On Slide 7, I want to highlight another important win.
+I'm pleased to announce that Walmart will begin utilizing our innovative loyalty network, Premium Payback, for both in-store and e-commerce transactions.
+The value proposition for this solution is exceptional, driving positive outcomes for our merchants, issuers and the end consumer.
+In other retail locations where we have rolled out the solution, we are seeing consumers accept premium paybacks offered to pay with points approximately 50% of the time when they are prompted.
+Both our merchant and our issuer clients are increasingly eager to participate, and we expect adoption to continue to ramp as we implement the solution with all the innovative clients shown on the slide as well as more in the future.
+Premium Payback is a clear example of the network effect that we've created by integrating, issuing and acquiring.
+Turning to Slide 8.
+We invest heavily in new solutions and capabilities with the belief that the market is changing and how it consumes technology and looking for cloud-native architectures.
+The revenue contribution from solutions developed over the past three years continues to grow as a percent of our total revenue mix, up from less than 1% in 2019 to over 4% in 2021.
+This rapid growth is driven by our ability to cross-sell new solutions into our existing client base as well as adjacent verticals, which increases our total addressable market.
+New solutions also contribute meaningfully to our total revenue growth, with contribution increasing from less than 1% in 2019 to more than 2% in total revenue growth in 2021.
+Looking forward, we expect new solutions to drive up to 3 points of incremental growth each year, supporting our outlook for 7% to 9% revenue growth through the midterm.
+At this point, a strong commitment to innovation is embedded in our culture and will continue to drive growth for years to come.
+We are at the forefront of the industry with the broadest collection of cloud-native solutions available.
+We remain uniquely positioned to serve domestic and multinational merchants who are looking for a single trusted provider for all of their acquiring needs.
+We solve our clients' most complex problems, ranging from global acquiring for their e-commerce business to treasury and cash management with our innovative Quantum software.
+Further, on the right side of the page, we show our unique bundle of cloud native solutions for financial institutions that demonstrate our ability to innovate at scale.
+Lastly, we highlight a few examples of innovative solutions that create compelling value propositions for both merchant and FIS clients in the center of the page.
+Clearly, the investments we've made during the pandemic and driving differentiated outcomes for our clients and for us, and we continue to make these investments today in order to power future growth.
+It's why we are confident in our forward momentum to drive strong 7% to 9% revenue growth through 2024.
+Starting on Slide 11, I will begin with our second quarter results, which exceeded our expectations.
+On a consolidated basis, revenue increased 17% to $3.5 billion, driven by outperformance in each of our operating segments.
+Organic revenue growth was 16%.
+We haven't had any material M&A activity over the past year.
+So the difference between reported and organic revenue growth this quarter is primarily due to the impact of foreign exchange rate.
+Adjusted EBITDA margins expanded 460 basis points to 44%, reflecting strong operating leverage and synergy contribution.
+As a result, adjusted earnings per share increased 40% year-over-year to $1.61 per share.
+As Gary mentioned, we had exceptional cross-selling quarter, driven primarily by Premium Payback, issuer processing, merchant referral and data analytics win.
+Given our progress and strength of our pipeline, we are increasing our revenue synergy target for 2021 by $100 million to exit the year at $700 million on an annualized run rate basis.
+Our achievement of cost synergies also continues to be successful, running further ahead of schedule than we anticipated when we announced the deal.
+We have more than doubled our initial cost synergy target of $400 million and are on-track to exit the year with approximately $900 million in total annualized savings, including approximately $500 million in operating expense synergies.
+Turning to balance sheet and cash flow.
+We repurchased 2.7 million shares worth approximately $400 million during the quarter, bringing share repurchase to a total of $800 million year-to-date at an average price of $145 a share.
+Our leverage ratio declined to 3.3 times, keeping us on-track to end the year below 3 times leverage.
+Lastly, we generated free cash flow in excess of $1 billion this quarter, which is the most in our company's history and reflects the highly cash generative nature of our business.
+Turning to Slide 12 to review our segments.
+Banking revenue growth accelerated to 8% due in part to strong issuer processing growth of 17% and a 30% increase in Modern Banking platform revenue.
+As Gary noted, we had another 2 MBP wins this quarter as well as an add-on sale and MBP revenue will continue to accelerate as more clients go live.
+We currently expect MBP revenue growth of nearly 50% for the full year 2021 and for this to further accelerate into 2022.
+The Banking segment's adjusted EBITDA margin expanded 410 basis points to 46%.
+These strong results were driven primarily by ramping revenues from our recent large bank wins as well as continued recurring revenue growth.
+Capital markets revenue growth also accelerated to 6% this quarter, reflecting strong recurring revenue growth and sales execution.
+Capital Markets adjusted EBITDA margin expanded 100 basis points to 46%.
+Lastly, for Merchant, revenue growth rebounded sharply to 45% in the second quarter, which includes 10 points of yield benefit and the segment generated its largest new sales quarter in the history of the business.
+Merchants' revenue acceleration included 31% revenue growth in e-commerce.
+Our eComm revenue growth is particularly impressive in light of in-store reopening as lockdown orders eased and cross-border travel remains affected, making it an avenue for significant future growth.
+Growth was also broad-based, expanding both domestic and international and discretionary verticals like restaurant are accelerating sharply.
+Merchants adjusted EBITDA margin expanded 910 basis points to 50%, primarily reflecting its high contribution margin and synergy benefits.
+As we begin to lap the pandemic with growth spanning online and in-store, SMB and enterprise across North America and International, our results clearly demonstrate the strength of our competitive position.
+In addition, growth includes both rebounding volume and yields, as we expected.
+Relative to 2019, we've seen no increase in attrition, and we'll continue to grow our client count.
+We have not taken our foot off the gas, investing through the pandemic, completing NAP, ramping Access Worldpay, expanding our sales force, entering new countries and adding multiple strategic ISV and bank partners, including expanding integrated payments to Europe.
+The business clearly has strong underlying momentum.
+We expect to further drive acceleration relative to 2019 in the second half of the year.
+Turning to guidance on Slide 13.
+Based on our strong results and favorable outlook, I'm pleased to raise full year guidance.
+We now anticipate revenue of $13.9 billion to $14 billion for the full year 2021, which represents an increase of $250 million over our prior guidance.
+This guidance assumes full year revenue growth for Banking in the upper single digits and Capital Markets in the mid-single digits.
+We now expect Merchant growth to approach 20% this year, ahead of our initial expectations.
+Relative to 2019, Merchant revenue growth accelerated 9% in the second quarter or 12% in the U.S.
+We expect Merchant revenue growth to continue to accelerate into the mid- to high teens in the second half of the year as international revenue and discretionary verticals like travel and airlines continue to rebound versus 2019.
+We're also raising our full year 2021 adjusted EBITDA guidance to $6.125 billion to $6.2 billion and increasing our adjusted earnings per share guidance to $6.45 to $6.60 per share.
+For the third quarter, we expect 9% to 10% revenue growth and to generate revenue of $3.49 billion to $3.52 billion.
+As a result of the high contribution margins in our business, we expect adjusted EBITDA margin to expand more than 50 basis points sequentially or about 200 basis points year-over-year to approximately 44% for the third quarter.
+This will result in adjusted earnings per share of $1.66 to $1.69 in the first year.
+I'm excited about our results and raised guidance.
+Beyond our guidance for the year, we expect to generate 7% to 9% revenue growth in the midterm through 2024, as Gary discussed.
+I have comments on this outlook for a number of reasons.
+First, our sharp second revenue growth acceleration and our ability to significantly increase revenue guidance, show strong execution and the underlying strength in the business.
+Second, strong new sales and cross-selling activity drove our backlog above $22 billion and increased our revenue synergy attainment by 50% in just one quarter, which will continue to drive future growth into 2022 and beyond.
+And finally, the investments we've made and continue to make are driving strength across our segments and accelerating our revenue growth profile.
+Our cloud native ecosystem of solutions is highly differentiated, helping us to grow in new and emerging verticals.

@@ -1,0 +1,106 @@
+Joining me in the call today are Dushyant Sharma, our founder and CEO, and Matt Parson, our CFO.
+In addition, during today's call, we will discuss non-GAAP financial measures, specifically contribution profit, adjusted gross profit, and adjusted EBITDA, our non-GAAP financial measures.
+These non-GAAP financial measures, which we believe are useful on Paymentus' performance and liquidity, should be considered in addition to, not as a substitute for, or an isolation from, GAAP results.
+I'm very excited, and it's my pleasure to talk to you for our first earnings call as a public company.
+I'm also grateful for our clients and partners who put their faith in us every single day.
+We are very proud of you.
+I'm very pleased with our second-quarter results.
+The progress we have made on IPN, including the signing of definitive agreements to acquire Payveris and Finovera, that puts us at the heart of the bill payment ecosystem for financial institutions of all sizes.
+Before covering our second-quarter highlights and talking more about each of these exciting items, I would like to provide a summary of our business for those who aren't familiar with Paymentus.
+I founded Paymentus to power the next-generation ecosystem for electronic payments by simplifying them for both consumers and dealers, and with an eye to do the same for financial institutions and consumer platforms.
+We took a very deliberate approach through strategy over the years in three different horizons.
+During the first horizon, we built an agent platform and targeted the middle market billers with it.
+In the second horizon, we moved up market and expanded the functionality of our product.
+With the recent introduction of our Instant Payments Network, we entered our third horizon, which allows us to put all the pieces in place to create a modern payment ecosystem.
+The IPN leverages our biller network and extends it outside of those billers to financial institutions, retailers, and technology companies that can access Paymentus payments for their customers.
+In essence, IPN creates the paradigm shift in the bill payment industry and creates a multi-sided network effect for our business.
+Our objective is to be the central modern-age bill payment ecosystem for the entire payments industry, including banks, credit unions, and other financial institutions.
+To that effect, we have taken a major step toward the strengthening of our IPN presence in the financial institutions market.
+This week, as we are pleased to announce, that we have signed a definitive agreement to acquire Payveris.
+Payveris is a modern money movement platform for banks and credit unions.
+What that means is that any customer of a bank on Payveris platform can pay any bills from the bank, including the largest billers to smallest businesses like their lawyers, accountants, send money to anyone in the U.S., using their person-to-person transfer capabilities, and move money between their own accounts, bank accounts, across multiple financial institutions using their account-to-account transfer capabilities.
+Payveris serves over 265 national institutions.
+What this means to Payveris -- this transaction means Payveris that it provides a unique offering for financial institutions when combined with Paymentus' unique Instant Payment Network, and therefore accelerate payment -- Payveris' customer acquisition strategy.
+And what that means to Paymentus is that this allows us to accelerate our IPN strategy for banks by having nearly 300 financial institutions join our network.
+In addition to that opportunity, there is another equally exciting opportunity where each of these nearly 300 FIs can be direct billers on our platform, which will add to our existing base of direct billers.
+In addition to agreeing to acquire Payveris, we have also signed an agreement to acquire Finovera, a technology provider that aggregates consumers' bills, including faster statements in one place.
+This is a platform that is already being utilized by Payveris and many of the financial institutions.
+We believe the combination of Finovera and Payveris with our IPN, was already favor offering for financial institutions as we provide a robust coverage of billers, whether they are currently utilizing Paymentus platform or not.
+This will continue to allow our sales team to prioritize biller outreach for direct onboarding onto our platform based on the bill volumes.
+We anticipate that both of these acquisitions will close by end of Q3 and have been considered in the outlook that Matt will share shortly.
+On our core horizon one horizon two strategies, we continue to execute very successfully.
+Our second-quarter performance was strong.
+Revenue grew 30% over the same period in 2020 to $93.5 million.
+Q2 contribution profit grew 25% to $37.4 million.
+Adjusted gross profit in the quarter was $30.1 million, which was a 24% increase over Q2 of last year.
+And the transaction processed grew over 39% year over year.
+Matt will provide more color on the financials shortly.
+We continue to execute on all three strategic horizons I described earlier.
+From the first horizon, small to medium billers continue to be a focus of ours, and we completed a multitude of implementations in the quarter.
+As an example, we implemented a midsized public utility in Arizona, resulting in an improved customer experience and access to new payment methods.
+The utility was very pleased with our product and implementation process and have offered us to implement other departments in the field.
+In the second quarter, we also continue to build on our more than 350 integrations divisions by adding new partners, including completing an integration with a leading provider of software to midsized telecommunication companies.
+Going forward, Paymentus will be the preferred provider of payments to their clients.
+In the second horizon, which targets larger, more diverse billers, we implemented several new billers, including a large auto finance company.
+And we also continue to make progress in our partnership with UPS, adding them to our platform in the U.S. this quarter.
+is an addition to other countries around the world already live for UPS on our platform.
+We are excited about this partnership and how we look UPS and Paymentus can co-create a leading experience for business clients.
+Beyond the implementations, we also have the opportunity to expand at existing clients.
+This growth occurs as clients migrate additional divisions to acquire companies and convert them to us, all by adding new payment types and features such as AutoPay.
+Beyond new implementations, we also have the opportunity to expand at existing clients.
+Two examples of expansion are a large utility with over 2 million customers, which added advanced payment methods like PayPal to provide their customers with more choices.
+And a software utility which moved its AutoPay payments to Paymentus to improve its customers' experience by combining one-time and recurring payments under Paymentus' platform.
+In addition to new sales and the same-store sales expansion, we completed several key renewals, including extending our relationship with the leading provider of insurance to the jewelry industry.
+Through the addition of IPN, we ended our third horizon with a focus of building out our partner network.
+IPN expands our reach beyond billers to FIs, technology partners, and retailers who originate transactions that we process.
+PayPal, one of our founding IPN partners, continues to focus on introducing enhanced bill payment functionality across its platform.
+We are also really excited about IPN across -- other IPN partners, and especially, our extended reach to nearly 300 financial institutions with the Payveris transaction.
+In summary, I'm very pleased with the financial results of this quarter and the progress we have made through the acquisition of Payveris and Finovera to move closer to our original long-term vision: to be that ecosystem for consumers, dealers, financial institutions and partners.
+You all are the reason for the strong Q2 financial results that I have the privilege of sharing today.
+As a quick reminder, today's discussion includes non-GAAP financial measures.
+Before I talk about the second quarter's financial results and our outlook for 2021, let me remind you about our business model.
+As Dushyant [Audio gap] we get paid when our clients get paid, so the key indicator to measure the performance of the business is the number of transactions processed.
+For the vast majority of our clients, transaction fees are the same regardless of the payment amount.
+For example, we would receive a $1.50 for a utility payment of $50 and the same $1.50 for a payment of $275.
+Interchange fees may vary by bill or industry and type of payment among other things, but in most cases, we have caps on interchange and payment amounts to help us manage the costs.
+These transaction fees can be paid by the biller, the consumer, or a combination of both, and we generally do not charge for implementation or customization fees for our platform, so professional services revenue is minimal.
+Now turning to the quarter.
+We processed $64.2 million transactions, representing a year-over-year increase of approximately 39%.
+This transaction growth drove a 30.3% increase in revenue over the same period in 2020, which resulted in revenue of $93.5 million.
+As we've explained before, as we see larger -- as we sign larger and larger billers, we anticipate the mix shift of fees will continue.
+Contribution profit for Q2 was $37.4 million, a 24% increase over the same period last year.
+Adjusted gross profit for the second quarter was $30.1 million and this was an increase of 24% from Q2 of 2020.
+Contribution profit growth and adjusted profit growth can vary more than revenue growth due to the change in interchange cost.
+As a reminder, there are certain external factors that impact interchange, such as the average payment amount in a particular month or quarter.
+For example, hot summers or cold winters may increase utility bills, which increases our interchange cost.
+And we also have property tax payments that see large amounts twice per year.
+Adjusted EBITDA was $8.3 million, which represents a 22.2% margin on contribution profit.
+The 5% decline in adjusted EBITDA from the second quarter of 2020 is due to cost increases related to being a public company, as well as increased investments in R&D and sales and marketing.
+The adjusted EBITDA margin for Q2 was higher than anticipated as a result of the higher contribution profit than anticipated for Q2.
+And the fact that travel and concerts did not start back as soon as we thought, as well as the ongoing tightness in the U.S. labor market making hiring more challenging than expected.
+Operating expenses rose $7.8 million to $24.8 million for Q2 of 2021.
+R&D expense increased $1.9 million or 32.4% as we continue to invest in new features and functions in our payments platform and we build out IP with additional partners.
+Over half of the operating expense increase, or $4 million, was in G&A and was driven by public company cost, as well as continuing to build out the public company infrastructure.
+Sales and marketing increased $1.9 million or 24.5% as we ramped up selling activity relative to the same time last year in the middle of the COVID uncertainty.
+Our GAAP net income and earnings per share for Q2 was slightly lower than we anticipated due to one-time discrete tax items that arose as a result of going public.
+These two one-time tax items totaled approximately $2 million or about $1 million each.
+As a result of these two discreet one-time items that hit GAAP tax expense in our Q2, our effective tax rate for the quarter was approximately 86%.
+Excluding these two discreet one-time tax items, our net income for the quarter would have been $2.6 million.
+As of June 30, 2021, we had $266.4 million of cash and cash equivalent on our balance sheet.
+Now, from our Q2 results, let's turn to our 2021 full-year outlook.
+Inclusive of our Payveris and Finovera acquisitions, our revenue outlook for 2021 is in the range of $378 million to $382 million, which represents growth between 25% and 27% year over year.
+For contribution profit, our full-year outlook is between $152 million and $154 million, or approximately 26% to 28% growth.
+For both revenue and contribution profit, we expect Q4 to see almost all the benefit due a full quarter of Payveris.
+As you may recall, we typically see the highest average payment amounts of the year in Q3 as a result of the summer heat, combined with some semi-annual per-year tax payments.
+In fact, in Q3 of 2020, we actually saw a slight sequential reduction in contribution profit.
+While we do not anticipate a sequential reduction this year, we do anticipate similar factors that will influence our Q3 results.
+For full-year 2021, we also see adjust EBITDA in the range of $25 million to $28 million, with an adjusted EBITDA margin of 16.5% to 18.5% on contribution profit.
+labor market, making hiring more challenging than in the past several quarters.
+With respect to taxes, we do not anticipate any further impacts on the one-time discrete items or any other one-time discrete items this year.
+However, as a result of the items mentioned for Q2, we expect that our full-year effective tax rate for 2021 will be approximately 47%.
+Federal tax laws or rates.
+And this is due to fact that a large majority of our revenue is in the U.S., so it represents the U.S. federal statutory rate combined with various state income taxes.
+Look, overall, we are very pleased with the financial and strategic progress we have made this quarter, especially in the expansion of our IPN ecosystem deeper into the financial institutions market.
+We continue to execute across our three-horizon strategy and drive organic growth.
+With Payveris and Finovera, we'll continue to accelerate the breadth of our IPN offering.
+We'll now open the call to questions.

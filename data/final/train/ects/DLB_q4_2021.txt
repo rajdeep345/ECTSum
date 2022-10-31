@@ -1,0 +1,160 @@
+As for the content of today's call, Kevin will start with a discussion of the business and Robert will follow with a recap of Dolby's financial results and provide our first quarter and fiscal 2022 outlook.
+Our Q4 earnings per share came in above our midpoint, while revenue came in toward the low end of our guidance range.
+Looking at the full year, we had a strong fiscal 2021 with 10% revenue growth and our highest operating margin since fiscal 2014, and we created considerable momentum across many of our growth initiatives, that will allow more people to be entertained by premium Dolby experiences.
+Consumers can now easily record, edit and share their videos in Dolby Vision with their Apple iPhone.
+Music in Dolby is being enjoyed by a significantly larger audience, with the launch of Dolby Atmos on to Apple Music, and we have the first partners, who will enable the Dolby Atmos music experience in the car, with Mercedes-Benz and Lucid Motors, and gamers can now play some of their favorite titles in Dolby Vision for the first time, on the latest Xbox.
+During FY '21, our revenues benefited from robust increases in consumer device shipments, combined with increased adoption of Dolby Atmos and Dolby Vision, partially offset by a decrease in the cinema related revenues.
+As we enter FY '22, we are expecting revenue growth in the mid to high single digits, as we anticipate a shift in those factors, with accelerating growth of Dolby Atmos and Dolby Vision and a partial recovery in cinema related revenues, offset by a macro slowdown in consumer device shipments.
+It has been a dynamic environment.
+Before Robert takes you through the numbers in more detail, including a discussion on our licensing end markets, I want to walk you through some of the most important factors, as we think about long-term revenue growth.
+Our foundational audio technologies, increased adoption of Dolby Atmos and Dolby Vision and our opportunity to expand our addressable market with initiatives like dolby.io.
+Let's start with our foundational audio technologies, which include Dolby Digital Plus, AC-4 and our audio patent licensing.
+These foundational technologies made up roughly three quarters of our licensing business in FY '21, and have high attach rates across a diverse set of devices and end markets.
+In FY '21, our foundational audio technologies grew about 11% year-over-year, due largely to robust global shipments of DCs and higher TV volumes, particularly in North America and Europe.
+We also benefited from higher than normal true ups coming into the year.
+As we look ahead to FY '22, industry analysts' reports indicate that we will not see the level of market growth we saw in the previous year, noting uncertainties around global supply constraints and consumer spending.
+Of course, we partner with OEMs across multiple device categories, across all geographies and each of them is impacted differently.
+When we take all of this into account, we expect a decrease in the low single digits for our foundational audio revenues.
+Over the long term, we expect our foundational licensing revenue to generally reflect market trends and device shipments, driven by our strong presence across a wide set of consumer devices and markets, with opportunities to increase adoption in certain areas like mobile and automotive.
+The remainder of our licensing revenue includes Dolby Atmos, Dolby Vision and our Imaging Patent Technologies, where growth is being driven primarily by new adoption and new licensees.
+This portion of our licensing revenue also includes Dolby Cinema, where we expect strong year-over-year growth, as box office recovers from low attendance throughout FY '21, driven by the pandemic.
+In total, this portion is approaching one quarter of our licensing revenue and grew nearly 20% in FY '21.
+We see this growth accelerating to over 35% in FY '22.
+Our continued momentum with Dolby Vision and Dolby Atmos is a key driver here, and I'd like to take a few minutes to highlight our progress in these areas.
+Let me start with Dolby Atmos Music; the response from artists and consumers is clear.
+Dolby Atmos creates a whole new way to enjoy music.
+The engagement continues to build, with some of the world's most popular music artists like Justin Bieber and The Weeknd, describing the Dolby Atmos music experience as “game-changing,” and “an immersive world where you can feel every detail”.
+We also recently launched a new venue, Dolby Live at Park MGM, where concert attendees will be able to enjoy their favorite artists with the ultimate Dolby Atmos Music experience, and then seek the experience in all the ways they enjoy music.
+Amazon Music recently announced that they are making Dolby Atmos Music experiences more broadly available to their subscribers.
+The music in Dolby experience significantly increases the value that Dolby brings, across a wide range of devices, including mobile, PC and speaker products.
+Our growing presence in music has created a new value proposition for Dolby in the automotive space.
+Mercedes-Benz announced last month, that they are adopting the Dolby Atmos Music experience in two of their top luxury cars, the Mercedes Maybach and the Mercedes-Benz S-Class.
+And just yesterday, Chinese electric-car maker NIO, announced they are including Dolby Atmos in their ET7 model.
+We are excited that these new partnerships add to our early momentum within automotive, that started with Lucid Air earlier this year, which is now on the road in the U.S.
+We are just at the beginning of the significant opportunity we see ahead in this space.
+This quarter, the launch of the iPhone 13 lineup again highlighted the capability to enable consumers to record and share their videos in Dolby Vision.
+With a significant increase to the amount of Dolby Vision content being created through the iPhone, we are seeing a range of content platforms, now enabling support for Dolby Vision for the first time.
+This quarter, Bilibili, one of China's largest social video sites, began to support the upload and sharing of user generated Dolby Vision content.
+More recently, Vimeo became the first all-in-one platform to support playback of Dolby Vision content for the Apple ecosystem.
+With more content platforms supporting Dolby Vision content to broader audiences and used cases, we look to drive increased adoption of Dolby Vision playback and capture across more devices, particularly in mobile and PC.
+We are also building momentum to enable more live broadcast events in Dolby.
+Comcast delivered the 2021 MLB World Series and playoff games in Dolby Vision on Fox Sports.
+Thursday night football games will be available in Dolby Vision through Fox, and NBC will be delivering select college football games in Dolby Vision.
+Growing the number of Dolby content experiences, especially live content with dedicated followings, provides more impetus for greater adoption of Dolby Vision and Dolby Atmos.
+Gaming in Dolby Vision is now available on the Xbox series X and S, marking the first time gamers can enjoy playing in the combined Dolby experience.
+Microsoft also expanded their support of the combined experience, by adding Dolby Vision to their Surface devices.
+In the living room, we see our partners like Amazon, Xiaomi, TCL and Sky, highlight the combined Dolby Vision and Dolby Atmos experience in their latest TV launches, and we continue to garner support from streaming services with Hulu, adding Dolby Vision this quarter.
+The newer soundbar products from LG and Sonos showcase support for Dolby Atmos, and in mobile, we saw new Android phones and tablets this quarter from Samsung, Xiaomi and Realme with Dolby technologies.
+With a solid foundation and increasing adoption of Dolby Atmos and Dolby Vision, we are able to broadly address the world of premium content experiences like movies, TV and music, and are confident in our ability to drive continued growth.
+With Dolby.io, our developer-first API platform, we see an opportunity to greatly expand our addressable market, by focusing on use cases that benefit from Dolby's unique experience in media and communications.
+While our platform has broad applicability across a range of use cases, we are focusing where we think we can offer the most differentiation, virtual live performances, online and hybrid events, social audio, premium education, gaming and content production.
+Each of these verticals represents an opportunity of hundreds of billions of minutes annually.
+And collectively, we estimate the addressable market to be about $5 billion and growing.
+With the breadth and depth of our expertise, we are enabling higher quality capture, processing and playback capabilities compared to what is currently available in the market.
+Last quarter, we released a major platform update, which puts us in a position to address more of our potential customers' needs, by making our APIs more competitive on the number of concurrent users we can support.
+As we focus on our target use cases and learn from our engagement with developers, we continue to introduce new APIs and features that address the needs of developers and improve the overall developer experience.
+With these recent improvements, we are beginning to see increased self-service activity.
+And with our new leadership in place, we are focused on increasing awareness and building the pipeline.
+This quarter, we saw a number of new music distribution services, including UnitedMasters, integrating our music mastering API and enabling their users to create high-quality music tracks.
+Also, Cloudinary recently launched an integration of Dolby.io's audio enhance APIs with their MediaFlows product, allowing their customers to easily improve the audio quality of their videos.
+While we are still in the early days of Dolby.io, we are excited about the significant opportunity ahead.
+Before I wrap up, let me spend a minute on our operating model.
+We significantly increased operating margins in FY '21, due to a combination of gross margin improvements and reduced spending levels due to COVID.
+We anticipate a partial return of some of these operating expenses in FY '22, like travel and events, as well as a few specific items like our 53rd week of payroll.
+At the same time, on the strength of our operating model, including our improved gross margins, we will continue to generate higher operating margins, as compared to our pre-pandemic levels, while investing in our growth areas.
+So in summary, we have a strong foundation and fiscal 2021 was highlighted by significant wins like Dolby Atmos on Apple Music, the first cars that will support Dolby Atmos and enabling Dolby Vision across a wider range of content, from live events to gaming to the user-generated content.
+We see much of the opportunity ahead, as we drive broader adoption across more content and more devices, even as we seek to significantly expand our addressable market with Dolby.io.
+All of this gives us confidence in our ability to drive long-term revenue and earnings growth, as we look to FY '22 and beyond.
+Robert is an experienced leader, with a track record of guiding companies through growth, while delivering operational excellence and accountability.
+Robert has been onboard for about four weeks now.
+We are excited to have his expertise, as we work toward Dolby's next phase of growth.
+And with that, I will hand it over to Robert, to take us through the financials in more detail.
+I am very excited to be here and join the Dolby team.
+I hope that in the near term I get a chance to meet you all, if not in person, at least virtually.
+So let's go through the numbers for Q4 and full year 2021, and then I will take you through our outlook for fiscal year '22.
+Total revenue in the fourth quarter was $285 million, which was within the total revenue guidance range we provided, and also included a favorable true-up of about $3 million for Q3 shipments reported, that were above the original estimate.
+Revenue landed toward the low end of our guidance range, due to timing of the deal that pushed out of the quarter, and is now anticipated to result in revenue in fiscal year 2022.
+With our Q4 results, full year 2021 revenues were $1.28 billion compared to $1.16 billion in fiscal year 2020, generating 10% year-over-year growth.
+Within that, licensing revenue was $1.21 billion, while products and services revenue was $67 million.
+On a year-over-year basis, fourth quarter revenue was about $14 million above last year's Q4, as we benefited from greater adoption of Dolby Vision and Dolby Atmos and higher cinema-related revenues, partially offset by lower true-ups.
+Q4 revenue was comprised of $266 million in licensing and $19 million in Products and services.
+Let's discuss the full year and year-over-year quarterly trends in licensing revenue by end market, and I will also highlight the key factors, as we look ahead to fiscal '22.
+Broadcast represented about 39% of the total licensing in fiscal year 2021.
+Our full year revenues grew by $36 million or 8% on a year-over-year basis, driven by higher adoption of Dolby Vision and Dolby Atmos in TVs and set-top boxes.
+We also saw higher foundational audio revenues due to increased TV shipments in North America and Europe compared to fiscal 2020.
+In Q4, we saw broadcast revenues decline from prior year's Q4, as we saw lower true-ups for foundational audio revenues on a year-over-year basis, partially offset by higher revenues from Dolby Vision and Dolby Atmos.
+As we look out to fiscal 2022, we currently anticipate broadcast revenues to grow in the low single digits from fiscal '21, driven by higher adoption of Dolby Vision, Dolby Atmos and growth in our imaging patent programs.
+These growth factors are projected to be partially offset by lower foundational audio revenues, as we see lower recoveries and lower true-ups on a year-over-year basis, and industry analysts are projecting TV shipments to be flat to down low single digits.
+Mobile represented approximately 22% of total licensing in fiscal 2021.
+Mobile revenue increased by $34 million or 15% compared to fiscal 2020, as our foundational audio revenues benefited from timing of revenues, and we saw higher Dolby Vision revenues from increased adoption.
+Our Q4 mobile revenues were up about 2% compared to the prior year, due to higher adoption of Dolby Vision and Dolby Atmos.
+In fiscal year '22, we anticipate that mobile revenues could grow mid to high single digits, driven by increasing adoption of Dolby Vision and Dolby Atmos, as well as growth in our imaging patent programs.
+These factors will be partially offset by lower foundational audio revenues, due to timing of revenues under contract.
+Consumer electronics represented about 15% of total licensing in fiscal year 2021.
+On a year-over-year basis, CE licensing increased by $29 million or 19%, driven by higher foundational audio revenues, as a result of increased unit volumes in soundbars and AVRs, as well as higher recoveries.
+We also saw growth from higher adoption of Dolby Atmos and Dolby Vision across CE devices.
+Our Q4 CE revenues increased 28% compared to prior year, which was in line with full year growth drivers of both higher foundational audio revenues and growing adoption of Dolby Atmos and Dolby Vision.
+As you look ahead to fiscal year '22, we see CE revenues relatively flat year-over-year.
+We expect to see higher revenues from Dolby Vision and Dolby Atmos adoption, as well as increasing contributions from our imaging patent programs.
+These growth drivers will be partially offset by lower foundational audio revenues, as industry analysts are estimating unit volumes in DMAs and soundbars to decrease year-over-year and we anticipate lower CE recoveries.
+PC represented about 12% of total licensing in fiscal year 2021.
+Our fiscal year '21 PC revenues were higher than prior year by about $10 million or 7%, driven by higher foundational audio revenues, as a result of strong PC shipments throughout the year and growing revenues from Dolby Atmos and Dolby Vision.
+These growth factors were partially offset by lower recoveries compared to fiscal year '20.
+Our Q4 PC revenues were about 7% higher compared to prior year Q4, driven by increased Dolby Vision and Dolby Atmos revenues.
+As we look ahead to fiscal year '22, we see low to mid single digit growth in our PC revenues, as more PCs continue to adopt Dolby Vision and Dolby Atmos, as well as growth in our imaging patent programs.
+Other markets represent about 12% of total licensing in fiscal year 2021.
+They were up about $26 million or 21% year-over-year, driven by higher revenues from gaming, due to the console refresh cycle and higher foundational revenues related to patents.
+In Q4, we saw other markets grow about 26% year-over-year due to increased Dolby Cinema revenues as theaters reopen, and higher revenues from gaming.
+As we look ahead to fiscal '22, we anticipate that other markets revenues could grow at an even higher rate of over 25%, as we estimate Dolby Cinema revenues to continue momentum from Q4, as more people are able to return to the movies and we also see continued growth in gaming.
+Beyond licensing, our products and services revenue was $67 million in fiscal year '21, compared to $83 million in fiscal year 2020.
+Prior year included about two quarters of pre-pandemic activity related to our cinema products business, and included revenues for our communications hardware business, which we exited in early fiscal year '21.
+Products and services revenue in Q4 was $19 million compared to $14 million in last year's Q4.
+The year-over-year increase reflects higher demand in the cinema industry.
+Total gross margin in the fourth quarter was 89.2% on a GAAP basis and 90% on a non-GAAP basis.
+Operating expenses in the fourth quarter on a GAAP basis were $214 million.
+Operating expenses in the fourth quarter on a non-GAAP basis were $189.9 million, compared to $176.5 million in the prior year.
+Operating expenses were at the low end of our guidance for Q4.
+Operating income in the fourth quarter was $40.4 million on a GAAP basis or 14.2% of revenue, compared to $30.1 million or 11.1% of revenue in Q4 of last year.
+Operating income in the fourth quarter on a non-GAAP basis was $66.6 million or 23.4% of revenue, compared to $54.3 million or 20% of revenue in Q4 of last year.
+On a full year basis, operating income was $344.4 million on a GAAP basis or about 26.9% of revenue, compared to $218.7 million or 18.8% in fiscal 2020.
+Full year operating income in fiscal '21 on a non-GAAP basis was $450.7 million or about 35.2% of revenue compared to $317.9 million or 27.4% in the prior year.
+Income tax in Q4 was minus 3% on a GAAP basis and 13% on a non-GAAP basis.
+Our tax rate benefited from a number of discrete items, including return provision true-ups.
+Net income on a GAAP basis in the fourth quarter was $44.2 million or $0.42 per diluted share compared to $26.8 million or $0.26 per diluted share in last year's Q4.
+Net income on a non-GAAP basis in the fourth quarter was $60.4 million or $0.58 per diluted share, compared to $45.8 million or $0.45 per diluted share in Q4 of last year.
+During the fourth quarter, we generated $110 million in cash from operations compared to $113 million generated in last year's fourth quarter.
+We ended the fourth quarter with about $1.3 billion in cash and investments.
+During the fourth quarter, we bought back about 1 million shares of our common stock and ended the quarter with about $291 million of stock repurchase authorization available going forward.
+We also announced today a cash dividend of $0.25 per share, an increase of $0.03 or 14% compared to the prior quarter.
+The dividend will be payable on December 8, 2021, to shareholders of record on November 30, 2021.
+Now let's turn to guidance for fiscal '22.
+We currently estimate total fiscal year '22 revenues could range from $1.34 billion to $1.4 billion.
+This would result in about 5% to 9% of year-over-year growth as compared to the $1.28 billion in fiscal year 2021.
+Within this, licensing revenue could range from $1.260 billion to $1.315 billion compared to $1.214 billion in fiscal year '21, which would result in a 4% to 8% year-over-year growth.
+As I referenced earlier, discussing our revenue by end market, we expect strong growth in our other markets for increased Dolby Cinema and gaming revenues, as well as growth in mobile, PC and to a lesser extent, broadcast, due to increasing adoption of Dolby Vision and Dolby Atmos and growth in our imaging patent programs, partially offset by lower foundational audio revenues.
+For products and services revenues, we anticipate this could range from $75 million to $90 million for fiscal year '22, with improvements in cinema products and growth in Dolby.io.
+Gross margin for fiscal year '22 are expected to be relatively consistent with fiscal year '21.
+Let me shift to operating expenses; we have several factors that impact our year-over-year expectations.
+First, fiscal 2022 is a 53-week fiscal year for us, and that results in an extra week of payroll in Q1.
+As Kevin mentioned, we also see a return of some expenses like travel and events that were lower during the pandemic.
+In addition to normal annual merit increases that will typically go in effect in fiscal Q2.
+Lastly, we continue to invest in areas like Dolby Vision, Dolby Atmos and Dolby.io.
+With these considerations, we are estimating operating expenses for fiscal 2022 could range from $869 million to $889 million on a GAAP basis and between $750 million to $770 million on a non-GAAP basis.
+With all of this, our business model remains very strong, as we expect to deliver operating margins between 24% to 26% on a GAAP basis, and between 34% and 36% on a non-GAAP basis.
+Based on the factors above, we estimate that full year diluted earnings per share will range from $2.53 to $3.03 on a GAAP basis and $3.52 to $4.02 on a non-GAAP basis.
+Let me shift to how that translates and what we see for fiscal Q1.
+For Q1, we see total revenues ranging from $345 million to $375 million.
+Within that, licensing revenues will range from $330 million to $355 million.
+Note that in the prior year Q1, we benefited from a significant favorable true-up of over $21 million for Q4 fiscal '20 shipments, that was larger than normal, given the volatility of conditions during the pandemic.
+Last year's Q1 also benefited from recoveries and timing of revenue under contract.
+This was partially offset by increasing adoption of Dolby Vision and Dolby Atmos, and growth in our imaging patent programs.
+Q1 products and services revenue could range from $15 million to $20 million.
+Let me move on to the rest of the P&L outlook for Q1.
+Q1 gross margin on a GAAP basis is expected to be 90% to 91%, and the non-GAAP gross margin is estimated to be about 91% to 92%.
+Operating expenses in Q1 on a GAAP basis are estimated to range from $221 million to $231 million.
+Operating expenses in Q1 on a non-GAAP basis are estimated to range from $190 million to $200 million, which contemplates the impact of the 53-week fiscal year.
+Other income is projected to range from $1 million to $2 million for the first quarter.
+And our effective tax rate for Q1 is projected to range from 18% to 19% on both a GAAP and non-GAAP basis.
+Based on the combination of the factors I just covered, we estimate that Q1 diluted earnings per share could range from $0.71 to $0.86 on a GAAP basis and from $0.98 to $1.13 on a non-GAAP basis.
+With that, let's move on to Q&A.
+Operator, can you please queue up the first question.

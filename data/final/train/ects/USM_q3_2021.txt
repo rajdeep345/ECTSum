@@ -1,0 +1,198 @@
+We hope that you and your families are doing well.
+As many of you know, the TDS family of companies has a practice of long, orderly succession periods to ensure a smooth and seamless transitions.
+And in that spirit, I will be transitioning the Corporate Relations role to Colleen Thomson over the next couple of quarters.
+Colleen brings significant knowledge of US Cellular, where she has held leadership positions since 2012.
+I am excited to have you meet her.
+And after that transition, Iam remaining with the company in the role of Corporate Secretary for both TDS and US Cellular.
+And as most of you know, we've historically held our calls at 9 AM on Friday, but there is a calendar conflict this quarter and we moved our call to accommodate that.
+But going forward, we do expect to move our call back to Friday's at 9 AM Central.
+We know it's a busy day.
+We provide guidance for both adjusted operating income before depreciation and amortization, or OIBDA, and adjusted earnings before interest, taxes, depreciation and amortization or EBITDA to highlight the contributions of US Cellular's wireless partnerships.
+In terms of our upcoming IR schedule, Slide 3.
+US Cellular is attending the Wells Fargo Virtual TMT Summit on November 30th.
+And then in January, we are attending the Raymond James Deer Valley Summit in person on January 3 through 5 and Citi's Apps Economy Conference virtually on January 6.
+And as always, our open-door policy can now be open door, open phone, open video.
+So, please reach out if you're interested in speaking with us.
+Turning to Slide 4.
+We continue to make progress on our environmental, social and governance or ESG program.
+And most recently, we published TDS's very first ESG report.
+From our founding over 50 years ago, TDS believes that being a good corporate citizen is fundamental to our long-term success.
+This being serving as a good steward of the environment and enacting governance practices that align with our corporate values, and truly carrying about our customers, our associates and striving to enhance the lives of the people in the communities we serve.
+These responsible practices, which make up the S in ESG are what we call our 3 Cs; customer, culture and community.
+Going forward each quarter, we're going to briefly highlight a recent action that illustrates this commitment.
+Before turning the call over, I want to remind everyone that due to the FCC's anti-collusion rules related to the ongoing Auction 1-10, we will not be responding to any questions related to spectrum auctions.
+Before speaking about the balance sheet, I want to recognize all the actions that both business units are taking to lead to higher returns and stronger businesses over the next several years.
+As we've discussed on past calls, maintaining financial flexibility is one of the pillars of our corporate strategy.
+Over the years, we've worked to retain relatively low leverage levels, long-dated debt maturities, sufficient undrawn revolving credit facilities and term loans, and significant cash balances to make sure we have the financial resources we need to fund our businesses.
+On Slide 5, I want to call your attention to all the work that has been done to raise new capital to fund the growth in our business as well at the same time, lowering the average cost of our balance sheet.
+As you can see, we've raised $3.4 billion since the beginning of 2020 at an average cost of 4.9% and redeemed six separate bond series comprising $1.6 billion in debt with a weighted average cost of 7%.
+The new capital is a mix of low cost, preferred stock and very long-term retail bonds, along with shorter term EIP securitization debt and bank term loan debt.
+This fulfills a commitment we made at the beginning of the year to reduce the average cost of our balance sheet and diversify our funding sources.
+Going forward, we believe that we will continue to have excellent access to the debt capital markets through a variety of instruments in order to continue to fund our business.
+Finally, before turning the call over to LT, I want to point out that our income tax rate for the quarter was 29%.
+This is up significantly from the 2020 level in which we saw significant one-time benefits from the CARES Act, which have not recurred.
+We continue to see positive momentum in those growth areas of our business and we're making progress toward our return on capital goals.
+Later on, I'm going to let Doug cover the operational and the financial highlights of the third quarter, but first I thought I'd provide a few thoughts on some of these strategic priorities.
+So top of mind for me continues to be the competitive environment.
+During the third quarter, we saw a continuation of aggressive promotions in the industry for both new and existing customers.
+They have had an impact on our postpaid subscriber results and on loss on equipment for the quarter.
+We expect the high level of promotional aggressiveness to continue through the holiday season and beyond.
+I'm really pleased with the operational pivot that we've made toward regionalization.
+We've effectively leveraged that regional strategy to test a variety of different offers and to help us hone in on an approach to properly balance the subscriber growth with profitability.
+We had a variety of offers in the marketplace in conjunction with the iPhone launch, some much more aggressive than others.
+And I'm pleased that we're now set up to effectively trial multiple approaches in the marketplace.
+It's going to be help us -- It's gonna help us be much more effective in optimizing our business.
+I spoke to you last quarter about some of our new initiatives to drive growth in our business and government in our prepaid operations.
+We reported another strong quarter of results for prepaid, and we're seeing positive momentum in business sales, particularly in the IoT space and the private networking space.
+We're also seeing some really terrific traction in our tower business.
+Applications are up substantially, and operating metrics, particularly cycle times, have improved meaningfully.
+It's clear to the industry that we're open for business in towers and we're really seeing the benefit of that approach.
+Talking briefly about network, our network modernization program in multi-year 5G deployment remains on track, the majority of our traffic is now carried by sites that have 5G deployed, equally important, we're getting 5G devices into our customers' hands.
+So far we have about a quarter of our smartphone subscribers with 5G capable devices.
+I'll talk a bit about millimeter wave spectrum.
+We're optimistic on the use of the spectrum for fixed wireless access, we're continuing trials to validate network performance and customer experience and we recently launched commercial offers in a small set of markets, we have more aggressive commercialization plan in 2022.
+We're offering commercial millimeter wave fixed wireless access speeds of up to 300 megabits per second and to date we're seeing many customers experiencing speeds that far exceed that.
+Given the speeds that we're seeing in our trials and the enthusiastic reception we received from customers, it's clearly demand for this type of home broadband service.
+We also believe this product to be a game changer in conjunction with deeper fiber buildouts and helping to bridge the digital divide.
+I'm also optimistic that the house will be able to address their differences shortly and see their way clear to pass the infrastructure funding bill that's already been passed by the Senate on a bipartisan basis.
+Hope we can reach a satisfactory outcome so that we have the funding needed to get this technology deployed to those in this underserved areas that need it.
+To talk briefly about supply chain constraints, they have impacted us like everyone in the industry, we continue to experience some constraints on certain devices.
+We think we're managing this pretty effectively.
+It has not had a material impact on our results to date.
+On the network side, we're seeing extended lead times for various network related components from multiple suppliers.
+But today, we've been able to mitigate these risks in partnership with our suppliers, like everyone, we continue to closely monitor ongoing global supply and logistics risks.
+I'd like to end with a comment about the people at US Cellular.
+And we recently completed our annual engagement survey and the results confirm what I've observed since joining this company.
+Engagement is incredibly high.
+We recently received a net promoter score 40, which is an amazing loyalty score.
+This is especially important right now given expectations about what you're hearing in the press around the great resignation.
+On that note, our current retention rates are actually higher than they were a year ago.
+That has a tangible impact on our financials.
+It comes to things like on boarding and training costs.
+Let's start with the review of customer results on Slide 8.
+Postpaid handset gross additions increased by 3,000 year-over-year, largely due to higher switching activity in combination with our strong promotional activity.
+Of course, this was against the backdrop of industrywide promotional aggressiveness on handsets.
+We saw connected device gross additions declined 26,000 year-over-year.
+This was driven by lower sales of Internet products such as hotspots and tablets compared to the prior year when we experienced an increase in demand due to the pandemic.
+Total smartphone connections increased by 8,000 during the quarter and by 65,000 over the course of the past 12 months.
+That helps to drive more service revenue given that smartphone ARPU is substantially higher than feature phone ARPU.
+Moving to Slide 9, I also want to call it the strong trends for prepaid, which were driven by enhancements to our prepaid offerings.
+We saw prepaid gross additions improved by 9,000 year-over-year.
+Next, let's turn to the postpaid churn rate shown on Slide 10.
+Postpaid handset churn depicted by the blue bars was 0.95% up from 0.88% a year ago.
+This is driven by voluntary churn, which continues to run higher year-over-year as a result of increased switching activity and aggressive industry wide competition.
+Involuntary churn also increased slightly in the quarter, but it's still below pre-pandemic levels.
+Total postpaid churn combining handsets and connected devices was 1.15% for the third quarter of 2021 higher than a year ago as we've also seen churn increase on connected devices due to certain business and government customers disconnecting devices that were activated during the peak periods of the pandemic in 2020.
+Now let's turn to the financial results on Slide 11.
+Total operating revenues for the third quarter were $1.016 billion, a decrease of $11 million or 1% year-over-year.
+Retail service revenues increased by $25 million to $699 million.
+The increase was driven in part by a higher average revenue per user, which I will discuss in a moment.
+Inbound roaming revenue was $30 million, that was a decrease of $12 million year-over-year driven by a decrease in data volume and rates.
+One of the factors contributing to this data volume decrease is the merger of Sprint and T-Mobile and the migration of Sprint roaming traffic to T-Mobile's network.
+Other service revenues were $59 million flat year-over-year.
+Finally, equipment sales revenues decreased by $24 million year-over-year due to a decrease in average revenue per unit, in large part as a result of an increase in promotional activity as well as a decrease in overall sales volume.
+We continue to engage an aggressive promotional activity during the third quarter of 2021 to remain competitive with the industry.
+As LT mentioned earlier, our level of promotional aggressiveness differed by region as we look to optimize our approach creates subscriber gains and profitability.
+A portion of the resulting promotional costs reduce equipment sales revenues and increased loss on equipment which represents equipment sales revenue [Indecipherable] equipment sold.
+In addition, loss on equipment in the third quarter 2020 was mitigated by the impacts of the pandemic, specifically lower switching activity and thus aggressive promotional activity.
+As a result of the combined impact of these factors [Indecipherable] equipment increased $19 million year-over-year from $5 million in 2020 to $24 million in 2021, this change in [Phonetic] loss of equipment was the primary driver of our decline in profitability year-over-year.
+We expect the aggressive promotional environment to persist for the remainder of 2021 and into 2022 and our full year guidance for 2021 reflects the corresponding financial impact.
+Now a few more comments about postpaid revenue shown on Slide 12, the average revenue per user or connection was $48.12 for the third quarter up $1.02 or approximately 2% year-over-year.
+On a per account basis, average revenue grew by $2.72 or 2% year-over-year.
+The increases were primarily driven by favorable plan and product offering mix, an increase in regulatory revenues and an increase in device protection revenues.
+Turning to Slide 13, as we continue our multi-year network modernization in 5G rollout, control of our towers remains critical.
+By owning our towers, we ensure that we maintain operational flexibility to add new equipment and make other changes to our cell sites without incurring additional costs.
+As you can see on this slide, with the assistance of our third-party marketing agreement, we have seen steady growth in tower rental revenues.
+Third quarter tower rental revenues increased by 6% year-over-year.
+We are seeing positive momentum in tower colocation applications and we'll continue to focus on growing revenues from these strategic assets.
+Moving to Slide 14, I want to comment on adjusted operating income before depreciation, amortization and accretion and gains and losses.
+To keep things simple, I'll refer to this measure as adjusted operating income.
+As shown at the bottom of the slide, adjusted operating income was $213 million, a decrease of 8% year-over-year.
+As I commented earlier, total operating revenues were $1.016 billion, a 1% decrease year-over-year.
+Total cash expenses were $803 million, an increase of $8 million or 1% year-over-year.
+Total system operations expense increased 1% year-over-year.
+Excluding roaming expense, system operations expense increased by 7% due to higher circuit costs, cell site rent and maintenance expense.
+Roaming expense decreased $8 million or 17% year-over-year driven by lower data rates and lower voice usage.
+Cost of equipment sold decreased $5 million or 2% year-over-year due to a significant decline in Connected Device sales, partially offset by slightly higher average cost per unit sold as a result of the mix shifting more heavily toward smartphone sales.
+Selling general and administrative expenses increased $11 million or 3% year-over-year, driven primarily by an increase in bad debts expense and cost associated with supporting enterprise projects and billing system upgrades.
+Turning to Slide 15, I'll touch on adjusted EBITDA, which starts with adjusted operating income and incorporates the earnings from our equity method investments along with interest and dividend income.
+Adjusted EBITDA for the quarter was $262 million, a decrease of $20 million or 7% year-over-year.
+Equity in earnings of unconsolidated entities remain flat year-over-year and we expect the fourth quarter 2021 distribution from the LA partnership to be aligned with the distribution received in the fourth quarter of 2020.
+Next, I want to cover our guidance for the full year 2021.
+For comparison, we're showing our 2020 actual results.
+First, we have narrowed our guidance for service revenues to range of $3.075 billion to $3.125 billion, maintaining the midpoint.
+For adjusted operating income and adjusted EBITDA, we are maintaining our guidance ranges of $850 million to $950 million and $1.025 billion to $1.125 billion respectively.
+Maintaining wider ranges reflects our expectation of a continued highly competitive environment for the remainder of the year as well as uncertainty related to the amount of promotional expense that will be incurred during the holiday selling season.
+For capital expenditures, we are decreasing our guidance range to $700 million to $800 million as we are moving certainly equipment and project spend into 2022, this shift did not impact our 2021 build plan and as LT mentioned our multi-year 5G and network modernization program remains on track.
+We have also provided a breakdown of capital expenditures by major category.
+I'm pleased to report on our results and the progress we are making on our strategic priorities as we move toward the end of the year.
+TDS Telecom grew its footprint 6% from a year ago, now serving $1.4 million service addresses across its market.
+Based on the successes we have experienced to date, we are increasing our fiber deployment program substantially with the announcement of additional new communities in Wisconsin, Idaho and North Carolina and we are entering into the state of Montana.
+This significantly advances our goal to bring state of the art dropping capability and competition to more growing communities.
+In addition, we are now capable of delivering 2 gig Internet speeds in our Spokane, Washington and Meridian, Idaho market and going forward, we will launch 2 gig product in all of our new fiber expansion market.
+2 gig provides an exceptional customer experience, doubling our previous maximum speed offering and helping to further differentiate us from the cable competition.
+Also in the quarter, we completed fiber to the home construction in our Southern Wisconsin cluster where we are seeing total broadband penetration of 38% in the fully launched cluster.
+In total, during the quarter, we added 20,000 fiber service addresses surpassing 40% of our wireline service addresses, a key milestone for us.
+From a financial perspective, overall, we grew our topline 2% while planned investment spending on new market launches resulted in lower adjusted EBITDA as expected.
+Turning to Slide 18, we remain committed to the strategic priorities we set out at the beginning of the year.
+As previously discussed, our primary objective is to generate growth by investing in our high-speed broadband services.
+We have a multifaceted approach to this growth that includes leveraging existing networks and constructing greenfield fiber in new markets to expand our footprint.
+We are very pleased that where we have invested in fiber and our incumbent market, we have achieved superior market share and in our expansion markets we are seeing strong customer pre-registration.
+In addition, we continue to drive faster speeds in our more rural incumbent market by building to meet our ACAM obligations in utilizing State Broadband grant.
+We were recently awarded two broadband grants in Wisconsin to expand fiber services to two rural communities.
+Moving to Slide 19, total residential connections increased 3% due to broadband growth in new and existing markets, partially offset by a decrease in voice connection.
+Total telecom broadband residential connections grew 7% in the quarter as we continue to fortify our network with fiber and expand into new market.
+We are on track in our network construction under the A-CAM program also helping to drive growth in our incumbent market.
+Overall, higher value product mix and price increases drove a 4% increase in average residential revenue per connection.
+On Slide 20, you can see the broadband connection growth across all markets.
+Our focus on fast reliable service has generated a 13% increase in total residential broadband revenue.
+We are offering 1 gig broadband speeds to 57% of our total footprint, including both our fiber and DOCSIS 3.1 market.
+The 1 gig product along with our 2 gig product in certain expansion markets are important tool that will allow us to defend and to win new customers.
+In areas where we offer 1 gig service, we are now seeing 20% of our new customers taking the superior product.
+Turning to Slide 21, we have augmented our success growing broadband with our TDS TV offering.
+A majority of TDS Telecom's residential customers take advantage of bundling options as 63% of customers subscribed to more than one service which helps to keep our churn well.
+Residential video connections were nearly flat, wireline growth of 6% driven by our expansion market nearly offset losses in the cable market.
+Video continues to remain important to our customers.
+For example, we are experiencing a 38% video attachment rate to every broadband connection in our wireline market where we offer IPTV services.
+Our strategy is to increase video connections through the offering of our cloud-based TDS TV plus product.
+The rollout of this product currently cover 61% of our total operations including cable.
+Moving to Slide 22, we continue to be very bullish on our fiber strategy and how it will transform TDS Telecom in a very meaningful way over the next several years.
+As we discussed last quarter, given the attractiveness of this opportunity and the heightened level of participation by other over builders, our sense of urgency has increased.
+We have upsized the number of expansion markets we expect to build over the next several years as well as increasing our fiber builds within our existing footprint.
+Fiber is the most economical long-term solutions to deliver the best broadband experience.
+We continue to refine our market selection criteria, and are highly confident in this process.
+As a result of this strategy, 40% of our wireline service addresses are now served by fiber, which is up from 34% a year ago.
+This is driving revenue growth while also expanding the total wireline footprint 8% to 891,000 service addresses.
+On Slide 24, we highlighted the total service addresses to the cluster.
+The clusters that are in construction and we are actively marketing.
+We recently announced our expansion of fiber into several new communities.
+Further expanding our existing clusters we announced Nampa, Idaho and several communities in Wisconsin including [Phonetic] anchor markets Green Bay and (Indecipherable).
+In addition, we announced several communities that will plant a flag in new geographies.
+Eau Claire, Florida and Onalaska, Wisconsin creating a Western cluster Billings, Montana, the first in this state and several communities just southeast of Charlotte in North Carolina, where we operate a cable market today.
+In total, these communities add more than 270,000 additional service addresses to our existing fiber deployment plan.
+Through the third quarter, we have 358,000 total fiber service addresses and are working to build out the footprint in these announced market growing to 929,000 service addresses over the next several years.
+Year-to-date, we completed construction of 51,000 fiber addresses, adding 20,000 service addresses in the quarter.
+This progress continues to be slower than planned due to permitting complexity and contractor scheduling delays and is putting pressure on service address delivery target in the fourth quarter.
+For example in Meridian, Idaho, we experienced a temporary delay on more than 35,000 service addresses and just recently have restarted construction.
+As a result, we expect to fall short of our construction goal this year, but still improve our delivery compared to last year.
+Therefore, we have lowered our guidance for capital expenditures to reflect these delays, but we still expect to be within the guidance range for revenue and adjusted EBITDA for the year.
+We also continue to proactively manage future construction and customer equipment inventory demand where we are seeing lengthening leave times with our suppliers.
+As an example, some contractors have experienced staffing shortages and are unable to complete fiber builds in the desired timeframe, we will continue to monitor these challenges and update you on our progress going forward.
+On Slide 25, total revenues increased 2% year-over-year to $252 million driven by the strong growth in residential revenue, which increased 6% in total.
+The chart include residential revenue mix, which highlights the increasing contribution of our expansion markets.
+Incumbent wireline markets also showed solid residential growth of 3% due to increases in broadband connections as well as increases from within the broadband product mix, partially offset by a 4% decrease in residential voice connection.
+Cable residential revenue grew 6%, also due to increases in broadband connections as well as the product mix.
+Commercial revenues decreased 6% in the quarter, primarily driven by lower CLEC connections, partially offset by a 5% increase in broadband connection, wholesale revenues decreased 5% due to certain state USF support timing.
+So let me sum up the combined financial results for the quarter as shown on Slide 26.
+Total revenues increased 2% from the prior year as growth from our fiber expansions that increases in broadband subscribers exceeded the declines we experienced in our legacy business.
+Cash expenses increased 3% due to both supporting our current growth as well as spending related to future expansion into new market, which is not yet reflected in our revenue.
+Future market costs include direct costs such as sales, marketing, real estate and technicians in addition to shared service costs necessary to support new market growth.
+As a result, adjusted EBITDA decreased 2% to $77 million as expected.
+Capital expenditures were down 1% to $91 million as increased investment in fiber to finance were offset by decreased cent on core operation and on Slide 27, we provided our updated 2021 guidance.
+Our revenue and adjusted EBITDA are right in line with our expectations.
+And now that we are closer to the end of the year, we are narrowing our ranges and slightly increasing the midpoint on revenue.
+We expect revenues to be between $990 million and $1 billion, $20 million and adjusted EBITDA to be between $295 million and $315 million.
+With the construction delays and build challenges I mentioned earlier, we are lowering our expectations for capital expenditures to be between $400 million and $450 million.
+It's the dedication and hard work of all our associates that contribute to our company's success and for that I am grateful.
+I look forward to sharing our final 2021 quarterly results with everyone in February.
+Operator, we're ready to take questions.

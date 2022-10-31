@@ -1,0 +1,98 @@
+I hope you are all doing well and staying safe.
+Obviously, there are many aspects of 2020 that we, along with many of you, are happy to turn the page on as we focus on a safer and healthier 2021.
+In summary, we were pleased with our fourth quarter results, which demonstrated the continued stability and resiliency of our utility water end market.
+As anticipated, flow instrumentation sales were less worse sequentially but still down year-over-year.
+We delivered gross margin improvement, continued cash flow generation and earnings per share growth, albeit with a number of moving parts that Bob will walk through in more detail.
+I'm extremely pleased with our ability to complete two meaningful acquisitions over the past several months that are strategic growth drivers for Badger Meter.
+Earlier this month, we acquired Analytical Technologies, Inc, or ATi, combined with s::can, which we purchased in November 2020, we now have a great foundation in which to build a real-time, on-demand water quality monitoring offering to customers in both utility water and industrial markets.
+I'll talk about the water quality offering in more detail later on the call, as well as the current environment and what we see looking out into 2021 and beyond.
+As you can see on Slide 4, total sales for the fourth quarter were $112.3 million compared to $107.6 million in the same period last year, an increase of 4%.
+This reflects the activity stabilization we experienced in the third quarter, which has essentially continued despite the resurgence of COVID-19 cases and various regional restrictions.
+In utility water, overall sales increased 8% against a difficult comparison in Q4 last year, which was also up 8% over 2018.
+The acquisition of s::can completed in November 2020 contributed approximately 3 points of the current quarter's revenue growth, with core organic revenues in utility water up 5% year-over-year.
+On an organic basis, this quarter's sales were the second highest in history, second only to the third quarter of 2020, which of course included a sizable chunk of pandemic-induced backlog catch-up as we discussed at the time.
+Positive revenue mix trends continued with further adoption of smart metering solutions, including increased ORION Cellular radio sales and BEACON software-as-a-service revenue, along with ultrasonic meter penetration.
+We also ultrasonic meter penetration.
+We also had the benefit of strategic pricing initiatives, which I'll discuss shortly.
+As anticipated, flow instrumentation sales were sequentially less worse, down 10% year-over-year compared to the 18% decline experienced in Q3 2020, although activity levels continue to reflect the broadly challenged markets and applications served globally.
+Operating profit as a percent of sales was 15.1%, a modest 10-basis-point decline from the prior year's 15.2% with a number of moving parts at the gross profit and SEA line that I will dissect in more detail.
+Gross margin for the quarter was 39.2%, up 100 basis points year-over-year.
+Margins benefited from higher sales volumes, strategic pricing actions and positive sales mix as previously discussed.
+These favorable gross margin drivers were offset by a discrete network sunset provision recorded in the quarter as well as the natural post-acquisition drag to gross margins caused by amortization of the inventory fair value step-up recorded for the acquisition of s::can.
+I'm going to spend a bit of extra time today on three of these items, price cost, the acquisition impact to margins and the discrete network sunset provision, to help walk you through the impact in the quarter and thereafter as applicable.
+Starting with price cost.
+As I'm sure you've seen copper prices, which are a proxy for our recycled brass input costs, have increased significantly.
+Currently averaging around $3.60 per pound, this represents over a 30% increase year-over-year.
+We've reminded investors that while meaningful, the impact of recycled brass on our cost structure has been moderating over time as we sell more software and radios versus primarily meters in the past.
+I will also remind you that we have and continue to offer polymer, mechanical and ultrasonic meters as part of our choice matters go-to-market philosophy.
+To give you some level of sensitivity, if copper prices stay in this range for the entire year, it could be a potential cost headwind of about $4 million to $5 million year-over-year.
+The other side of that price -- cost equation is price.
+And as we have done with working capital and operating metrics like SQDC, safety, quality, delivery and cost, we have designed more robust processes and metrics to actively manage strategic pricing for the evolving and valued solutions that we offer to customers.
+In doing so, we have proactively implemented a number of strategic pricing actions that resulted in positive net benefit from price in the fourth quarter, in advance of the lagging headwind from input cost increases, principally copper.
+It would be our expectation that we are largely able to offset commodity inflation with price during the year with perhaps some minor manageable lag effects.
+The second topic is acquisitions and their impact to margins.
+In the fourth quarter, s::can results were included for two months.
+So these two months, as expected, totaled approximately $2.5 million in revenues.
+We recorded the typical amortization of inventory fair value step-up and acquired intangible assets, which all told, resulted in a modest loss in Q4 2020 for the short stub period.
+As we look to 2021, the combination of s::can and ATi, with total acquired revenue of approximately $37 million, we expect to be earnings per share accretive.
+The first quarter of 2021 will include the remaining s::can, plus a full quarter of ATi inventory step-up amortization, but we expect normalized profitability in the remaining quarters.
+Ken will discuss the longer-term opportunities for these acquisitions in his remarks.
+Finally, turning to the non-recurring discrete network sunset provision.
+This relates to the sunsetting of the CDMA cellular network for the early adopters of our original cellular radio offering.
+This sunset is a carrier event that is part of the natural evolution of technology and impacts a variety of IoT devices across an array of industries.
+As the innovator in cellular radios for water metering applications and as a company focused on customer care, Badger Meter provided protections for such circumstances.
+Until recently, firm's sunsetting plans by the carriers were not in place.
+Now that these plans appear more firm, we have taken this provision, which reduced gross margins in the quarter by approximately 300 basis points to cover future radio upgrades for these early cellular customers.
+To be crystal clear, there is no defect in the radio itself.
+The logical question then follows.
+Will this continue to be an ongoing challenge with cellular radios?
+The short answer is no.
+The CDMA network was already well established when Badger Meter introduced its first cellular radio.
+These first networks had been in service nearly 20 years at that point.
+Subsequently, we have moved ahead of the technology curve, as demonstrated by the launch of ORION LTM [Phonetic] in 2019 and our continued innovation around cellular radio technologies.
+These technologies will be supported by multiple generations of cellular networks.
+Turning to SEA expenses.
+The fourth quarter's spend of $27.1 million increased $2.3 million from the prior year.
+This includes the addition of s::can for two months, including the resulting intangible asset amortization.
+More broadly, higher personnel costs were partially offset by lower travel, trade show and other pandemic-impacted expenses.
+Including both s::can and ATi in 2021, we expect ongoing SEA as a percent of sales to average in the 25% to 26% range.
+The income tax provision in the fourth quarter of 2020 was 22.6%, slightly lower than the prior year's 24.3% rate.
+With the additions of s::can and ATi, we don't expect a significant change in our normalized tax rate in 2021, absent any new statutory US tax code changes.
+In summary, earnings per share was $0.45 in the fourth quarter of 2020, an increase of 7% from the prior year's earnings per share of $0.42.
+Working capital as a percent of sales was 26%, with about 1% of that associated with the addition of s::can.
+On an organic basis, primary working capital as a percent of sales declined about 200 basis points year-over-year.
+Our full-year free cash flow of $80.5 million was 10% higher than the prior year's $73.2 million and represents approximately 163% conversion of net earnings.
+Our cash flow focus will not abate and we anticipate free cash flow conversion to exceed 100% in 2021.
+However, I would caution we do not expect to see the conversion at the robust levels of the past two years, given the structural change in working capital already achieved.
+We ended the year with approximately $72 million of cash on the balance sheet after taking into account the s::can acquisition.
+In early January, we deployed $44 million net of cash acquired for ATi, remaining in a net cash positive position.
+Along with the continued full access to our untapped $125 million credit facility, we have ample financial flexibility to continue executing on our capital allocation priorities.
+Turning to Slide 5, I'd like to highlight the two transactions we completed since our last earnings call and how we believe they bring significant value to the Badger Meter portfolio.
+s::can acquired in November of 2020 and Analytical Technology, Inc, or ATi, acquired just a few weeks ago are both pioneers in providing real-time water quality monitoring solutions.
+This is differentiated from traditional water quality testing because these solutions capture real-time data through sensors and systems that do not rely on labs, reagents or other consumables resulting in lower capital and operating cost for customers.
+Just as water quality -- just as water utility billing moved from manual reads to advanced metering infrastructure or AMI, we believe water quality monitoring will evolve from lab sample testing to online real-time collection, monitoring and reporting.
+Adding real-time water quality parameters to Badger Meter's core flow measurement, pressure and temperature sensing capabilities as to the scope of actionable data for utilities to improve operating efficiency and for industrial customers to monitor both process and discharge water.
+We see multiple avenues for growth synergies by bringing together these two acquisitions into Badger Meter.
+For example, from a water quality sensor standpoint, with this combination, we have a full product offering of both electrochemical and optical sensors.
+From a geographic standpoint, where ATi is strong in the US and UK, s::can has an installed base in 50 countries.
+From a scale and coverage standpoint, leveraging customer relationships, inside sales, rep networks and distributors will create a greater ability to cross-sell throughout the water ecosystem, including water utilities, wastewater treatment and industrial water applications.
+There is no question it will take time and investment in order to realize these long-term growth synergies.
+We need to advance our communications to capture quantity plus quality data parameters, online real-time VR industry-leading ORION Cellular radios.
+We will need to augment BEACON and EyeOnWater to store, integrate, analyze and visualize information, providing a holistic view of the water network.
+This is no small undertaking but one that we are organized to execute.
+In the near-term, it is business as usual for the two acquired businesses.
+The combined acquired annual sales of approximately $37 million with EBITDA margins in the mid-teens will be earnings per share accretive to our results.
+Now turning to our outlook on Slide 6.
+While we were all hoping that turning the calendar 2021 would also turn the page on COVID-19, that is obviously not the case.
+Despite the continued uncertainty, we remain fully prepared to manage safely in support of our customers in the essential water sector, as we did throughout much of 2020.
+There has been no significant change in customer tone regarding utility budgets with spending on critical and necessary activities, which includes metering solutions required for billing and reducing non-revenue water.
+As we have stated, our large and diverse customer base will have different needs, circumstances and priorities.
+But as a whole, utility water bid tenders and awards are largely continuing with their normal processes with limited extended timelines or deferrals.
+While we don't provide guidance, Bob will walk through the detail on a few of the items that will impact us in 2021, including price/cost, SEA levels and the expected impact of recent acquisition activity.
+Obviously, we had some significant quarterly swings on the top-line throughout 2020, so the growth rates that are uneven in normal circumstances will be more so during 2021.
+We will continue to drive cash flow, which is the fuel to invest in and grow our business.
+This includes both organic and acquisition-driven growth with a focus on additional product and software offerings serving water-related markets and applications.
+For example, expanding functionality of our EyeOnWater software app that helps drive consumer engagement.
+Finally, we will continue to advance a variety of priorities on the ESG front, including relentlessly focusing on employee safety, reducing greenhouse gas emissions, fostering our culture of inclusion and of course promoting water conservation and quality.
+Despite the unprecedented backdrop of a health and economic crisis, we have delivered utility water revenue growth, SaaS revenue as a percent of sales growth to now 5%, strong EBITDA margin expansion, robust working capital management and cash flow and successful execution of two accretive acquisitions.
+It's a true testament to the criticality of the water industry and the exceptional Badger Meter team.

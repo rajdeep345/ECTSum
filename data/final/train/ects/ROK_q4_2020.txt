@@ -1,0 +1,212 @@
+In addition, we filed an 8-K and have posted supplemental information on our website related to our new business segments and adjusted earnings definition.
+So with that, I'll hand the call over to Blake.
+I first want to address Patrick's recent announcement that he will be leaving Rockwell to start a new chapter in his career.
+In his 14-years with us, the Company has continued its long legacy of financial discipline and delivering superior shareowner returns, and we wish him well in his next pursuit.
+Many of you know Steve Etzel, who will be stepping in as CFO on an interim basis.
+Steve has been with us for over 30-years and over these years has run Investor Relations, Treasury, and Corporate FP&A.
+The Board and I have full confidence he will reinforce our strong financial framework and continued commitment to superior shareowner returns.
+Patrick and Steve are ensuring a very smooth transition, while we consider internal and external candidates for a permanent successor.
+These cost actions enabled us to protect our company's financial strength and allowed us to continue making important, targeted investments to drive our future growth.
+Now, with business conditions gradually improving, we will reverse the temporary pay reductions by the end of November, one month earlier than expected.
+In addition, our guidance for next year assumes a return to a fully funded bonus plan.
+Because of our employees' hard work and dedication, we have never been so well positioned for what lies ahead.
+This is another testament to the type of culture we have at Rockwell and I couldn't be prouder.
+Turning now to our Q4 results on Slide three.
+While business conditions remain difficult relative to a year ago, we are pleased with the steady improvement we're seeing.
+In Q4, total reported sales declined by 9% versus the prior year.
+Organic sales were down about 12% versus prior year, but grew 10% sequentially.
+Product sales outperformed our expectations and were driven by better-than-expected results in Drives and Motion.
+Motion performance was led by our Independent Cart Technology, where we received the largest single order in Rockwell Automation's history.
+We won this multi-year project from the US Navy based on a need for precise, highly responsive motion control not available with traditional systems, and on Rockwell's long track record as a dependable US supplier.
+Independent Cart provides a new way for us to add value and drive growth.
+You'll be hearing more about it, and other innovative technologies, at our upcoming Investor Day on November 17th.
+Turning to Information Solutions and Connected Services.
+Organic sales were up low single-digits versus prior year.
+IS/CS orders grew double-digits over the prior year in both software and connected services.
+IS/CS sales reached approximately $400 million in fiscal '20 on an organic basis and were well in excess of that when including all of our recent inorganic investments.
+Demand for software sold as a result of our PTC partnership is also increasing rapidly as we enter the new fiscal year, and we're very happy with the recent extension and expansion of this relationship.
+Together with PTC, we added over 200 new customer logos in fiscal 2020, and deal sizes in our Information Solutions software business continue to grow.
+The synergies of our combined offering are very evident to customers.
+In Connected Services, our recent Kalypso acquisition is doing particularly well and is helping us further differentiate.
+Kalypso is already contributing to some large competitive wins, and they just had the best orders quarter in their history.
+Total sales include a 3 point positive contribution from inorganic investments, led by our Sensia joint venture, along with the Kalypso and ASEM acquisitions.
+Total backlog in the quarter grew double-digits versus the prior year and grew high single-digits on an organic basis.
+Our Q4 Solutions and Services book-to-bill was 0.87, and full-year book-to-bill was over 1.
+This Solutions and Services book-to-bill does not include the large Independent Cart order we received from the US Navy.
+Turning to profitability, strong segment operating margin performance of over 20% in the quarter was flat with last year on lower sales, underscoring our increasing business resilience.
+Free cash flow was also very strong, reinforcing our solid balance sheet and liquidity position.
+Our Discrete market segment declined approximately 10%, with Automotive performing better than we expected, driven by stronger MRO and projects sales.
+Among the more notable projects in the quarter was a significant OT cybersecurity win in Europe with one of the major German car companies.
+And in Electric Vehicles, we saw momentum continue in the industry with battery manufacturers and brand owners.
+We are excited by recent announcements from both new and established automakers as they focus on production of compelling new EV offerings.
+In Semiconductor, we had another very strong quarter and grew high single-digits versus the prior year.
+This vertical is benefiting from a variety of secular tailwinds such as the rise of smart devices and the resulting Internet of Things, along with the need for faster data centers and the adoption of 5G wireless technology.
+In addition to facilities management, which has been a strong foundation for us, we see an opportunity for our material handling technology as well as our software.
+In e-commerce, we had a significant expansion win at Cloostermans, one of the largest and most important suppliers to the global e-commerce industry.
+This is another industry with long-term secular tailwinds that will continue to invest in automation and industrial software to support its tremendous future growth.
+Turning now to our Hybrid market segment.
+This segment declined a little less than 5% and outperformed the discrete and process industry segments.
+Food & Beverage and Life Sciences each declined low single-digits for both the quarter and for the year.
+Packaging OEMs had another strong quarter and delivered double-digit growth versus the prior year.
+We believe these markets will outperform in fiscal '21.
+Eco-Industrial outperformed other industries in the quarter, driven by growth in Water, where we continue to benefit from a differentiated offering that integrates control, power, and industrial software.
+Tire & Rubber was down double-digits, but performed in line with our expectations.
+In the quarter, we had key wins at important strategic accounts, including Cooper Tire, which continues to strengthen its global track and trace capabilities to support the company's long-term growth plans.
+They chose FactoryTalk software, because of our strong MES and analytics capabilities, and our differentiated ability to connect to both Rockwell and non-Rockwell control platforms.
+Once again, our strong software portfolio, our ecosystem of best-of-breed partners, and our expertise in connecting diverse manufacturing environments were all important reasons Rockwell won this very competitive project with Cooper Tire.
+Process markets were down approximately 20%.
+Oil & Gas was a little weaker than we expected, but that was partially offset by better-than-expected performance in most other process markets like Mining and Pulp & Paper.
+Sensia held up fairly well during the quarter and continues to demonstrate their competitive differentiation.
+Turning now to Slide five and our organic regional sales performance in the quarter.
+North America organic sales declined by 12% versus the prior year.
+Business conditions improved through the quarter, particularly in products, where orders significantly exceeded our expectations.
+While our large Independent Cart win was part of that result, we also saw great software orders within Information Solutions that more than doubled versus the prior year, creating strong momentum entering the new fiscal year.
+In EMEA, sales declined 12% largely, due to capex delays.
+These were partially offset by strong growth in Water.
+We also saw growth in Life Sciences and PPE-related machine builder business.
+Sales in the Asia Pacific region declined 9% largely, due to declines in end user business within Automotive and Mass Transit.
+Double-digit growth in Mining and Life Sciences partially offset those declines.
+China sales declined, but orders grew mid single-digits year-over-year in the quarter.
+Latin America declines were led by Mining and Oil & Gas.
+It's an understatement to say that fiscal '20 turned out very different than the plans we discussed together at a great Investor Day during an incredible Automation Fair in Chicago last November.
+The shadow of the pandemic soon created unique challenges, but I'm proud of our ability to respond, while taking big steps forward in the execution of our strategic vision.
+We kept the safety of our employees at the top of our list and continued to provide dedicated service to our customers, many of whom are producing the food, water, protective gear, and medicine that keep us going.
+The pandemic has focused us all on what's truly important.
+We took thoughtful actions to manage costs through this pandemic, while at the same time protect strategic investments, including some very big internal development projects.
+And you can see those investments drive the performance of our software business, which reached over $500 million in revenue in fiscal '20 and was one of the best performing areas of our business in both orders and sales this year.
+We deployed over $500 million for inorganic investments that contributed almost 4 points to our top line growth; and we deployed over $700 million in cash toward dividends and repurchases enabled by our strong free cash flow.
+I am tremendously proud of what we've accomplished in fiscal '20, and I'm excited about the resulting momentum as we enter fiscal '21.
+Turning now to our outlook on Slide seven.
+As I said earlier, we saw strong sequential momentum exiting the year.
+Industrial Production is projected to grow in the second half of our fiscal year.
+So it may take a couple of quarters for us to climb back to year-over-year sales growth from the Q3 trough in fiscal '20.
+We expect double-digit year-over-year growth during our third and fourth quarters.
+Of course, we are all closely monitoring global infection levels related to this pandemic, but we are not assuming a widespread shutdown of customer manufacturing operations.
+We expect reported sales to grow about 7.5% at the midpoint of the guidance range, including 5% of organic growth and over a point of growth from our fiscal '20 and fiscal '21 acquisitions to-date.
+In addition, we are adopting Annual Recurring Revenue as an important metric for the company and have added ARR as a performance metric in our incentive compensation framework beginning this year.
+ARR is expected to grow double digits in fiscal '21, after showing over 6% growth in fiscal 20.
+This is further evidence of our ability to build an even more resilient business model.
+Adjusted earnings per share is expected to reach $8.65 at the midpoint, which is up 10% from last year's fiscal '20 results.
+We are targeting Free Cash Flow conversion of 100%.
+A more detailed view into our outlook by end market is found on Slide eight.
+I won't go into the details on this slide, but as you can see, we expect positive organic sales growth in all of our key end markets next year with the exception of Oil & Gas.
+We'll then have Steve discuss our fiscal 2021 outlook in his remarks.
+I'll start on Slide nine, fourth quarter key financial information.
+Sales, segment margin, Adjusted earnings per share and free cash flow were all better-than-expected in the fourth quarter, mainly as a result of better organic sales growth and productivity.
+Organic sales improved as the quarter progressed and were up 10% sequentially versus Q3.
+Compared to last year, Q4 organic sales were down 12% and acquisitions contributed just over 3% to total growth.
+Currency translation was a smaller headwind than expected, and decreased sales by 0.3 points.
+Overall company backlog increased year-over-year in the quarter.
+Backlog for our short-cycle products was up double-digits from a year-over-year and sequential perspective, even excluding the very large Independent Cart order Blake referred to earlier.
+Segment operating margin was 20.2%, the same as last year.
+The negative impact of lower sales was partially offset by a combination of temporary and structural cost actions.
+Fourth quarter results included about $10 million of restructuring charges, which are expected to yield over $15 million in additional annualized structural cost savings.
+Most of these savings will be realized in fiscal 2021.
+General Corporate -- net expense was $22 million, pretty much in line with what we expected.
+As I mentioned earlier, Adjusted earnings per share of $1.87 was better-than-expected, mainly as a result of better organic sales, productivity, and a slightly lower tax rate.
+I'll cover a year-over-year adjusted earnings per share bridge on a later slide.
+The adjusted effective tax rate for the fourth quarter was 15%.
+A bit lower than we expected, due to a slightly different geographic mix of our pre-tax income.
+Free cash flow performance remained strong.
+We generated over $300 million of free cash flow in the quarter, well over 100% conversion on adjusted income.
+Note that this result includes a voluntary $50 million pre-tax contribution made to the US pension plan.
+This voluntary pension contribution was not reflected in our prior guidance.
+Slide 10 provides the sales and margin performance overview of our operating segments.
+Organic sales of both segments improved significantly, compared to last quarter.
+Both segments were up about 10% on an organic basis, compared to Q3, though organic sales remained lower, compared to last year.
+Segment margin of both segments increased over 300 basis points, compared to Q3, mainly due to higher organic sales, but also as a result of cost control including a full quarter benefit of our cost reduction actions and generally improving operating efficiencies.
+Compared to last year, Architecture & Software margins were up 100 basis points, despite the impact of lower sales, mainly as a result of our cost actions, including lower incentive compensation.
+Segment margins for the Control Products & Solutions segment declined 60 basis points, compared to last year, with cost actions offsetting most of the impact of lower organic sales.
+The next Slide, 11, provides the adjusted earnings per share walk from Q4 fiscal '19 to Q4 fiscal '20.
+As you can see, core performance was down about $0.15 on a 12% organic sales decline.
+This implies core earnings conversion, that is, excluding the effects of acquisitions and currency, of a little below 20%, which is a bit better than the outlook I shared with you in July.
+A positive Adjusted earnings per share contribution from acquisitions is offset by unfavorable currency impacts.
+Slide 12 provides key financial information for full-year fiscal '20.
+After a good start to the fiscal year, we experienced significant year-over-year sales declines in the second half as a result of the COVID-19 pandemic.
+Organic sales declined 8% for the fiscal year.
+Our cost reduction actions protected key investments and helped to partially mitigate the impact of lower sales.
+We selectively increased investments in some of our highest priority areas.
+R&D expense was about flat, compared to fiscal '19, and R&D as a percent of sales increased further to 5.9% of sales in fiscal 2020.
+Full-year segment margin remained at about 20%, compared to record 22% segment margins last year, and Adjusted earnings per share was down 11%.
+Free cash flow performance remained strong, and excluding the $50 million voluntary pension contribution in fiscal '20, was flat, compared to last year.
+Free cash flow conversion was over 110% of Adjusted Income.
+And finally, return on invested capital remained well above our target of over 20%.
+Our capital structure and liquidity remain very strong.
+At September 30, our fiscal year end, cash on the balance sheet was over $700 million, and our total debt was about $2 billion.
+During the fourth quarter, we paid off the $400 million term loan that we executed earlier in the year, and our net debt to EBITDA ratio at September 30 was 1.0.
+Moving to Slide 13, product order trends.
+This slide shows our daily order trends for our products, which account for about two-thirds of our overall sales and represent our shorter-cycle businesses.
+As we expected, order intake for products continued to improve during the quarter.
+Our guidance for fiscal 2021 assumes this trend will continue.
+Daily product order performance through October continued to improve on a year-over-year basis, down low single-digits.
+Solutions orders are recovering slower than product orders.
+Let's move on to the next Slide 14, guidance for fiscal 2021.
+As Blake mentioned, we are expecting sales of about $6.8 billion in fiscal 2021, up about 7.5% at the midpoint of the range.
+We expect organic sales growth to be in the range of 3.5% to 6.5% and about 5% at the mid-point of our range.
+From a calendarization viewpoint, we expect first half organic sales to be down, compared to fiscal 2020, followed by a stronger second half with organic sales up mid-to-high teens.
+As a reminder, first half fiscal 2020 organic sales were about flat, followed by double-digit declines in the second half.
+We therefore expect easier comps starting in Q3 of fiscal 2021.
+We expect segment operating margin to be between 20% and 20.5% probably at the higher end of that range.
+At the midpoint, our guidance assumes full-year core earnings conversion, which excludes the impacts of currency and acquisitions of between 30% and 35%.
+As we mentioned last quarter, we expect to offset a $150 million year-over-year headwind related to fully funding our incentive compensation and reversing fiscal 2020 temporary cost reduction actions with additional productivity.
+We expect the full-year Adjusted Effective Tax Rate will be about 14%.
+This includes a 300 basis point benefit related to discrete items which we expect to realize late in the fiscal year.
+Our underlying adjusted effective tax rate is expected to be 17% to 18%.
+Under the new definition, we are now also excluding purchase accounting depreciation and amortization expense from adjusted EPS.
+This has the effect of increasing adjusted earnings per share by approximately $0.20 on a full-year basis.
+Our adjusted earnings per share guidance range on the new basis is $8.45 to $8.85.
+This compares to fiscal 2020 adjusted earnings per share of $7.87 on the new basis.
+On an apples-to-apples basis, at the midpoint of the range, this represents 10% adjusted earnings per share growth on about 5% higher organic sales.
+We expect adjusted earnings per share to improve throughout the year and anticipate first quarter fiscal 2021 adjusted earnings per share to be lower than our fiscal 2020 fourth quarter performance, primarily as a result of a $0.30 sequential headwind related to increased incentive compensation expense and the reversal of our temporary cost actions as of the end of November.
+Finally, we expect full-year 2021 free cash flow conversion of about 100% of adjusted Income.
+This assumes $150 million of capital expenditures and a $50 million voluntary pre-tax US pension contribution.
+A few additional comments on fiscal 2021 guidance.
+Corporate and Other expense, which we previously referred to as general corporate net expense, is expected to be around $105 million.
+Net interest expense for fiscal 2021 is expected to be between $90 million and $95 million, a little lower than fiscal 2020.
+Finally, we're assuming average diluted shares outstanding of about 117 million shares.
+The next Slide, 15, provides the adjusted earnings per share walk from fiscal 2020 to the fiscal 2021 guidance midpoint.
+Moving from left to right, fiscal 2020 adjusted earnings per share was $7.68 on the old definition.
+Next you see the $0.19 impact of the new definition of adjusted EPS.
+So, fiscal 2020 adjusted earnings per share on the new basis was $7.87.
+Core performance is expected to contribute about $1.90.
+This includes the benefit of higher organic sales, as well as the benefit of our cost reduction actions.
+Reinstatement of the bonus and reversal of the temporary cost actions, together, will be a headwind of about $1.15.
+As mentioned last quarter, we expect these headwinds to be offset by productivity, which is in Core.
+Currency forecasts project a weaker US dollar, compared to fiscal 2020, which should contribute about $0.10 to EPS.
+The higher tax rate is expected to be about a $0.15 headwind.
+Acquisitions made during fiscal 2020, and so far this year, are expected to add about $0.10.
+Note that Sensia is now in Core, as October 1 was the one-year anniversary of the formation of the joint venture.
+As mentioned, at the midpoint of our guidance range, adjusted earnings per share is $8.65.
+Moving on to the next Slide 16, I'll make a few comments on our Capital Deployment Framework.
+You may recognize this slide from our last investor day.
+Our capital deployment priorities remain the same.
+Our first priority is organic growth.
+After that, we focus capital deployment on inorganic activities.
+Then we focus on capital returns to shareowners, through our dividend, and then repurchases.
+Our capital deployment plans for fiscal 2021 include dividends of about $500 million.
+As a reminder, we announced a 5% dividend increase last week.
+Consistent with our past track record, we expect our remaining capital deployment to include a balance of inorganic investments and share repurchases.
+We resumed share repurchases on October 1, the beginning of our fiscal year.
+In summary, our guidance assumes a continued sequential improvement in organic sales performance.
+Cost actions are expected to offset the significant headwind of reinstating incentive compensation and reversing temporary cost actions, and we expect about 10% adjusted earnings per share growth and continued strong free cash flow conversion.
+Turning to slide 17, I'll finish with a comment about our new segment structure which is effective for fiscal 2021.
+As a reminder, our first quarter fiscal 2021 results will be reported in the new, three-segment format as shown here.
+We continue to see our customers take steps to increase their resilience, agility, and sustainability.
+Resilience includes investments to reduce single points of failure, with a growing list of companies announcing plans to build or expand North American operations.
+Our strong market share in the US, Mexico, and Canada make us a natural beneficiary of these plans.
+Other measures to increase resilience include increased automation, traceability, and remote monitoring, which are all Rockwell strengths.
+We're making investments in our own operations, which we'll showcase during next week's Investor Day.
+Our contribution to operations agility is demonstrated by our great results in consumer and life sciences packaging equipment and the growth of our software to manage the increasingly dynamic SKU's offered by our customers.
+The pandemic has prompted new food and beverage packaging formats, along with quantities of testing kits, therapeutic drugs, and hopefully very soon, doses of vaccines.
+Quite simply, these cannot be manufactured at the necessary scale, safety, and quality without automation.
+We're proud of the role our innovation is playing at Pfizer, Roche, and many other companies as we help the world recover.
+The need to increase the sustainability of industrial processes is only increasing.
+Clean drinking water is one of the reasons our Eco Industrial focus is so important for the future, along with electric vehicles and the everyday ways our products reduce energy consumption in every industry.
+This expanded value gives us optimism for the coming years.
+In fiscal '21, we are guiding to high single-digit reported growth, paced by our highest-margin segment.
+This results in guidance that also includes double-digit earnings per share growth.
+I'm looking forward to telling you more about our plans next week, with the help of great customers, partners, and a very talented Rockwell leadership team.
+With that, let me pass the baton back to Jessica to begin the Q&A session.
+Before we start the Q&A, I just want to say that we would like to get to as many of you as possible.
+So please limit yourself to one question and a quick follow-up.
+Ami, let's take our first question.

@@ -1,0 +1,92 @@
+Before we discuss our results, I encourage you to review the cautionary statement on slides 2 and 3 for our customary disclosures.
+Further information can be found in our regular SEC filings.
+Bill and Pete will provide a company update as well as an overview of the company's second quarter 2021 results.
+Please limit yourself to one question plus one follow-up.
+You may get back into the queue if you have additional questions.
+It is good to speak with everyone today and I'm excited to report our second quarter results.
+I will start by providing some highlights from the quarter.
+Our strong performance is a reflection of our market leadership, where we serve more clients than ever before and those clients are engaging with us in more ways given the breadth and essential relevance of our offerings.
+I will also review our strategy and progress toward creating the most impactful and comprehensive financial wellness, ecosystem of data, technology and solutions that powers our industry.
+Envestnet achieved strong adjusted revenue growth of 23% in the quarter and 70% year-to-date.
+Our new guidance reflects the stronger than expected first half of the year as well as an improved outlook for the second half of 2021.
+This growth was enabled by our market leading position and the scale we have achieved and this is a market position we continue to expand.
+I believe this is important to note our position and ability to create scale, creates unique leverage for Envestnet as we drive our strategic plan forward.
+The number of advisors on the Envestnet platform is now almost 108,000 with 14 million accounts that make up $5.2 trillion in assets.
+Our data aggregation business serves over 500 million aggregated accounts each day.
+Our MoneyGuide financial planning business continues to be the market leader in the industry while Envestnet tamp services also stands atop the podium as the market leader.
+We have the largest network of services, solutions and third-party providers and we continue to grow these options for our clients.
+New accounts are being opened at a faster pace and we are averaging well more than 10,000 new accounts every week.
+We added several new customers during the second quarter including notable firms such as security.
+As we also continue to add services to the firms, we serve today.
+Our exchanges are activating more and more advisors, financial planning continues to add exciting new features, we've rolled out to our existing clients and in our RIA business, we are seeing momentum adding manage accounts to a growing number of firms.
+While our footprint continues to grow, total meaningful metrics such as asset per advisor, accounts per advisor and adjusted revenue per advisor.
+We are operating at significant scale as well.
+During the second quarter, we serviced almost 15 million trades and completed 1.8 million service requests.
+We're also generating more than 8 million data driven recommendations a day for our clients to better connect and better serve all of their clients.
+As we mentioned on Investor Day, we are on our way to 10 million recommendations a day by year-end and over a billion, a day by 2025.
+These proof points are unique to Envestnet market position and enable us to advance our vision and pursue the growth strategy we have discussed on earlier calls.
+I believe these are very clear leading indicators and as we continue to execute the future for Envestnet is brighter than it's ever been.
+Over the past several months, we have laid out a straightforward and executable strategy and we are driving progress toward enabling ecosystem that powers our industry.
+No one has the strength of platform user base and leadership position that we have and it is a significant differentiator position in Envestnet to continue its leading position and drive the company toward achieving our mission and our stated financial goals.
+This scale combined with our cloud-based infrastructure and unparalleled data and solution set opens up the growing opportunity for us.
+We are making important progress in bringing the pieces together in a frictionless, intelligent and connected ecosystem, so that the advisor and the consumer sees a much clearer and much more powerful view of their money in one place while at the same time, our customers have easier access to the entirety of our offerings to help them serve their clients more completely.
+Our platform and ecosystem is the industry standard for how advisors engaged digitally with their clients today and it will be the standard for how they serve their clients into the future.
+Digital transformation is the most powerful of several macro trends we benefit from and by capturing the lead here, we create a virtuous environment that opens, more and more opportunity for our company.
+In addition to the digital transformation that is occurring, we continue to benefit from and also power several important industry trends.
+These include the growth of fee-based advice even faster growth of managed accounts and the hyper growth of personalization services like direct indexing, tax overlay and impact investing.
+As you overlay these trends across the current business that we serve today, which is $5.2 trillion in assets.
+We believe we can increase our revenue by roughly 10 basis points on average on 10% to 15% of this asset base.
+This creates a significant and growing revenue opportunity, which given our advanced market engagement strategy, we are increasingly identifying, engaging and executing all and our opportunity will continue to grow given these macro trends given our strong market position and given the significant capabilities that we have.
+With that in mind, our leadership team has a laser sharp focus on three key drivers of revenue growth.
+We will capture more of the existing addressable market by supercharging our platform to leverage our comprehensive data and solutions set.
+This opportunity is large and it is sitting directly in front of us.
+Next, we are leading and modernizing the digital engagement marketplace by extending our cloud-based migration, which allows us to connect the best of Envestnet for a truly seamless customer experience.
+And lastly, we are opening the platform for expansion.
+Our developer portal enables over 625, third party FinTechs to leverage APIs embedding our capabilities and data into their environments.
+This usage has grown by 1700% since the beginning of January 2020.
+At the same time, we are opening Envestnet's ecosystem for more third-party providers, all of which will drive users and engagement ultimately accelerating our revenue growth and our opportunity.
+I want to double-click on capturing more of the existing addressable market and why we are very confident given the early progress that we're beginning to see.
+You see, we have a differentiated engagement strategy, there is powered by the visibility and understanding we have given our data model.
+This prioritize the use cases, the target large, identifiable, addressable pools of opportunity for Envestnet, which also deepen the relationships between advisors and their clients.
+We have the broadest number of solutions available to our advisors.
+Our data driven recommendations, drive increased adoption and increased adoption and increased solutions provide more data to improve the recommendations that we make.
+We are accelerating growth utilizing the data in the ecosystem and removing friction from the tasks required for advisors to use and access our solutions.
+And we are adding to our solutions during the second quarter, we introduced several new products that continue to build out our offering to the advisor and ultimately to the individual consumer.
+We've been piloting the new client portal with several large customers and early feedback has been incredibly positive.
+We also added services such as residential real estate with the credit exchange in our recently launched alternatives exchange, which we launched in July, a collaboration between investment UBS and I capital deliver a curated set of alternative investments in Envestnet clients via end-to-end digital platform.
+2021 represents investment charting the course for advancing a tremendous opportunity for our industry to better serve its consumers.
+We are a catalyst for this future and this is a moment for us to apply our efforts and taking advantage of the position that we have, and the strategy that we have created and the opportunity for sustained and accelerated growth.
+Envestnet organization is locked in on executing on this.
+Today, I'm going to review our second quarter results and then provide an update on our revised guidance for the first quarter and the full year.
+Our second quarter results continue to demonstrate the strengths in our business model, positive dynamics from the first-half of the year we expect to carry into the third and fourth quarter, which are reflected in our updated full year outlook.
+Adjusted revenues for the second quarter grew 23% to $289 million compared to the second quarter of last year, adjusted EBITDA grew 27% to $71 million compared to the second quarter of last year.
+Adjusted earnings per share was $0.67.
+Turning to the balance sheet; we ended June with approximately $370 million in cash and debt of $860 million.
+The debt consists of our outstanding convertible notes maturing in 2023 and 2025.
+Our $500 million revolving credit facility was undrawn as of June 30, making our net leverage ratio at the end of June 1.8 times EBITDA.
+Turning to our investment initiatives; I want to reiterate our expectations.
+We continue to expect the investments to account for roughly $30 million of operating expense during the year.
+We are making good progress on the hiring front, the impact of which is reflected in our updated guidance.
+We expect the investments to ramp up throughout 2021 with most of the impact in the second half of the year and annualizing to a run rate of approximately $40 to $45 million in 2022, growing at the same rate of operating expenses thereafter.
+Additionally, we continue to expect to begin to generate faster revenue growth in 2022 as we create a better more streamlined ecosystem, which elevates our value proposition to existing clients and expands our total addressable market.
+Adjusted EBITDA to be between $61 million and $63 million as we further ramp up the investments and earnings per share to be $0.58 per share.
+For the full year, we are again raising our outlook to reflect the strength of the first half of the year.
+For the full year, we expect adjusted revenues to be between $1.169 million and $1.174 million, up 17% to 17.5% compared to 2020.
+Adjusted EBITDA to be between $253 and $257 million, representing growth of 4% to 6% for the full year, and earnings per share to be between $2.30 and $2.35, which is $0.31 higher than the original guidance we gave back in February.
+Adding some detail about our revenue outlook for the second half of the year to highlight some of the drivers of our revenue growth trends.
+First, our wealth business has performed increasingly well year-to-date.
+During the second quarter, we completed the merger of two-like clients moving significant assets from an asset based relationship to a subscription-based pricing model.
+While this doesn't hit the way, we have reported reclassifications in the past, it is an effect of reclassification.
+If we adjusted for this, the second quarter was ahead of even the first quarter in terms of net new flows from existing business.
+Further, our significant asset base benefited from favorable capital markets adding to our forecast of revenue growth.
+Second, our data and analytics segment has grown subscription revenue around 4% in the first-half of the year compared to the first-half of last year.
+We expect this business to see improving revenue growth in the second-half of the year.
+As we continue to execute on our strategy in the coming years and begin to benefit from the investments were making now, we will capture more of the opportunity we've identified positioning us to attain our longer-term targets of mid-teens growth in revenue and adjusted EBITDA margin of 25% by 2025.
+We are pleased with the progress we're making and are focused on the execution of our strategy.
+The opportunity to be the leader of the ecosystem that powers the industry.
+The ecosystem that connects data, technology and solutions to enable the intelligent financial life and is differentiated from every other provider as a fully connected, open architecture, hyper-personalized, wealth management platform.
+As the industry leader, we will continue to enable the digital transformation that our clients need from us.
+Our roadmap is very clear.
+We are capturing more of the addressable market opportunity with our data in our solutions.
+We are modernizing the digital engagement marketplace to reduce friction and land more clients and we're opening up our platform to accelerate growth.
+We will continue to execute on that roadmap and it will continue to create greater value for each and every one of our stakeholders.

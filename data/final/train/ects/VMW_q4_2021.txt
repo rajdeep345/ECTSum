@@ -1,0 +1,99 @@
+On the call, we have Zane Rowe, CFO and Interim CEO.
+Raghu Raghuram, COO, Products and Cloud Services; and Sanjay Poonen, COO, Customer Operations, will join for Q&A.
+Actual results may differ materially as a result of various risk factors described in the 10-Ks, 10-Qs and 8-Ks VMware files with the SEC.
+In addition, during today's call, we will discuss certain non-GAAP financial measures.
+These non-GAAP financial measures, which are used as measures of VMware's performance should be considered in addition to, not as a substitution for or in isolation from, GAAP measures.
+Our non-GAAP measures exclude the effect on our GAAP results of stock-based compensation, amortization of acquired intangible assets, employer payroll tax and employee stock transactions, acquisition, disposition, certain litigation matters and other items as well as discrete items impacting our GAAP tax rate.
+Our first quarter fiscal 2022 quiet period begins at the close of business, Thursday, April 15, 2021.
+We realize you're used to hearing Pat's voice as we start these quarterly conference calls.
+Pat is a true partner and a friend, and of course, will still be a VMware Board member.
+We're pleased with our Q4 financial performance, as it was a good finish to the fiscal year.
+Q4 total revenue increased 7% year-over-year, with non-GAAP earnings per share up over 8%.
+We finished fiscal 2021 with $11.8 billion in total revenue and non-GAAP earnings per share of $7.20 a share.
+This past year was one of unprecedented disruption and uncertainty, and we're proud of what the team accomplished.
+As we quickly adapted to a distributed workforce, we helped our customers accelerate their work-from-anywhere journey and their application and cloud monetization initiatives.
+We're seeing customers continue to choose VMware to help them deliver the digital foundation to power their apps, clouds, security and user experiences.
+Large global customers continue to align and partner with us, and the nature of our strategic relationships with our largest customers continues to grow.
+In Q4, we closed deals with significant aerospace and telco customers and saw particular strength in the financial sector, including wins with HSBC and Wells Fargo.
+We see financial services customers utilizing a combination of franchise solutions, ranging from modern apps and cloud infrastructure, to networking in our digital workspace offerings.
+We also continue to see momentum with key communication service providers, such as NTT DOCOMO and Telia increasing their focus on VMware solutions, as well as new and expanded contracts with additional Tier 1 communication service providers globally.
+In the retail sector, a large customer that's standardized on our technologies in their private cloud is leveraging VMware as a platform for their cloud migrations, while also investing in edge cloud infrastructure and using Tanzu for containers in their retail edge locations.
+We see this as a repeatable use case for other retailers, along with other e-commerce app development use cases, retailers are building on top of Tanzu.
+Our work with life sciences and healthcare customers is enabling their critical apps to run on our hybrid cloud and is helping to secure their user devices for employees working from anywhere.
+In addition, our partner ecosystem is driving momentum for VMware solutions.
+We're expanding the reach of our solutions through key strategic partnerships from our VCPP partners to hyperscalers, to system integrators.
+For example, earlier this month, we announced an expansion of our partnership with Accenture, resulting in the launch of their dedicated VMware business unit.
+The group will bring together approximately 2,000 professionals across a variety of industries with expertise in hybrid cloud and cloud migrations, cloud-native and application modernization, as well as security.
+We also recently formed a joint innovation lab with Lumen, designed to drive edge computing, security and secure access service edge or SASE for customers in a number of industries.
+Looking at the broader portfolio, we continue to further our multi-cloud strategy and are seeing traction as customers align app requirements to the cloud of their choice, whether it's private, hybrid or public.
+This quarter, we expanded our resell program with AWS to include additional VMware technologies and services such as VMware Cloud, Disaster Recovery and vRealize.
+Additionally, VMware Cloud on Dell EMC, a Dell Technologies cloud service from VMware expanded to the EMEA market with immediate availability in the UK, Germany and France.
+We continue to deliver on innovation with Tanzu.
+With the announcement of general availability of Tanzu Advanced edition, we now have three Tanzu additions in the market; Basic, Standard and Advanced.
+Each addition is targeted at a common customer challenge of modernizing infrastructure and applications.
+Tanzu Advanced includes all the capabilities that enterprises need to embrace DevSecOps and manage complete container life cycle.
+We continue to see strong positive reception to all three Tanzu additions.
+We also added container security to VMware Carbon Black Cloud, leveraging technology from our recent Octarine acquisition to provide visibility into on-prem and public cloud Kubernetes clusters.
+Our NSX portfolio offers a comprehensive set of L2 to L7 capabilities, implemented completely in software.
+We recently released the latest version of NSX, which included enhancements across routing, identity firewall, load balancing and cloud.
+In FY '21, VMware was recognized by top industry analyst firms as a leader in 13 key reports across cloud management, networking, hyperconverged infrastructure and end-user computing.
+In November, Forrester named VMware a leader in the Forrester Wave Hybrid Cloud Management Q4 2020.
+More recently, we were named a leader in December's 2020 Gartner Magic Quadrant for Hyperconverged Infrastructure Software.
+And in January, VMware was positioned as a leader in three IDC Marketscape reports related to the end-user computing space, including the Worldwide Unified Endpoint Management Software 2021 Vendor Assessment.
+From a broader corporate perspective, I'm personally pleased to highlight that we recently unveiled our 2030 agenda, which encapsulates how we will drive ESG goals into every aspect of our business.
+Our 2030 agenda is integrated into the business and is focused on three business outcomes; trust, equity, and sustainability.
+Recently, we also performed well in the areas of sustainability, earning the distinction of being included in the 2020 Dow Jones Sustainability Index among the world's leading ESG benchmarks.
+Now, let's move to more detail on our business performance as well as our forecast.
+In Q4, the combination of subscription, SaaS, and license revenue grew 8% year-over-year to $1.721 billion.
+We saw large enterprise demand strength throughout the quarter, which allowed us to close a record 35 deals over $10 million.
+This was balanced with good performance in our commercial business as well.
+Subscription and SaaS revenue increased 27% year-over-year for the quarter, with strong growth in our VMware Cloud Provider Program, end-user computing, Carbon Black, and VMware Cloud on AWS offerings.
+We continue to invest and expect to see further growth in this important area for us in FY 2022 and beyond.
+Our focus is on scaling existing offerings as well as adding new solutions.
+VMC on AWS once again had a great quarter, with both workloads and revenue nearly doubling year-over-year as we continue to expand functionality and use case adoption.
+As of the end of Q4, ARR for subscription and SaaS was $2.9 billion, an increase of 27% year-over-year.
+License revenue for the quarter declined 2% year-over-year to $1.014 billion.
+Now, this was better than expected as we had a strong deal closure rate throughout the quarter.
+Non-GAAP operating income increased 8% year-over-year in Q4 to $1.133 billion, primarily driven by better-than-expected revenue growth.
+Non-GAAP operating margin for the quarter was 34.4%, with non-GAAP earnings per share of $2.21 on a share count of 423 million diluted shares.
+We ended the quarter with $10.3 billion in unearned revenue and $4.7 billion in cash, cash equivalents, and short-term investments.
+Cash flow from operations for fiscal 2021 was $4.4 billion, which was well ahead of our expectations.
+Q4 cash flow from operations was $1.324 billion and free cash flow was $1.242 billion.
+Now, this strength was primarily due to our emphasis on closing certain deals prior to calendar year-end, which resulted in receiving the associated cash in FY 2021 rather than FY 2022.
+In addition, we benefited from early collections and advanced payments from partners and customers as well as certain other expenditures which were lower than expected in FY 2021.
+With subscription and SaaS becoming a larger share of total revenue, we're now providing our end-of-period total and current RPO.
+For Q4, RPO was $11.3 billion, up 10% on a year-over-year basis and current RPO was $6.2 billion, up 12% year-over-year.
+Total backlog was $93 million, substantially all of which consist of orders received on the last day of the quarter that were not shipped that day and orders held due to our export control process.
+License backlog at quarter-end was $23 million.
+Overall, our product portfolio performed well in Q4, with customers continuing to purchase solutions that contain multiple products.
+Core SDDC product bookings increased 12% year-over-year in Q4, highlighted by strength in our vRealize management offerings, which are now available both on a perpetual and SaaS basis.
+Compute product bookings also performed well, growing in the low single-digits year-over-year.
+NSX and vSAN had single-digit year-over-year declines, which was an improvement for both versus Q3 of FY 2021.
+These two technologies continue to be further integrated into our broader solutions.
+Three quarters of our EUC product bookings are now SaaS.
+EUC's ACV SaaS growth rate was 30% year-over-year in Q4, driven primarily by Horizon and our initiatives related to anywhere workspace.
+Given our focus on SaaS ACV, EUC product bookings decreased in the high-single digits year-over-year.
+Carbon Black Cloud once again grew in the high-double digits year-over-year, and we continue to make progress in expanding our endpoint and workload protection capabilities and delivering intrinsic security value to our customers.
+Our Tanzu portfolio exceeded expectations and had a strong attach rate in eight of the top 10 VMware deals in Q4.
+In Q4, we repurchased 2.7 million shares in the open market at an average price of $140 per share.
+At the end of Q4, we've utilized over $1.4 billion from our current repurchase authorization of $2.5 billion.
+Turning to guidance for fiscal 2022.
+We expect total revenue of approximately $12.700 billion or a growth rate of 8%, which is consistent with the early outlook provided on our last call.
+We expect to generate approximately $6.300 billion from the combination of subscription of SaaS and license revenue or an increase of 12% with approximately 55% of this amount from subscription in SaaS.
+We expect non-GAAP operating margin of 28% with non-GAAP earnings per share of $6.68 under diluted share count of 422 million shares.
+As I mentioned earlier, we had very strong cash flow from operations in Q4 due to a number of initiatives that resulted in exceeding our cash flow guidance by over $650 million.
+While we're extremely pleased with this result, the bulk of this over-achievement was accelerated from our upcoming fiscal year.
+Taking that into account for FY 2022, we currently expect cash flow from operations of $3.8 billion and free cash flow of $3.42 billion.
+On a normalized basis, taking into account the acceleration of cash into FY 2021, cash flow from operations would be roughly flat on a year-over-year basis for FY 2022, in line with our operating performance.
+For Q1, we expect total revenue of approximately $2.910 billion or a growth rate of 6%.
+We expect approximately $1.320 billion from combined subscription and SaaS and license revenue in Q1, an increase of 7% year-over-year, with over 55% of this amount from subscription and SaaS.
+Our expected growth rate for Q1 license revenue was impacted by continued growth in subscription and SaaS and the strength we saw in Q1 last year.
+We expect non-GAAP operating margin of 27.5% for Q1, with non-GAAP earnings per share of $1.49 on a diluted share count of 422 million shares.
+In closing, we're pleased with our Q4 performance, the improvements we're seeing in the macro environment, and are expanding opportunities to engage with our customers and partners.
+We're committed to executing at scale as we continue to build our subscription and SaaS business and invest in our future growth, while delivering technologies and solutions today that help our customers and partners with their digital transformations.
+Before we go to questions, I'm pleased to tell you that we are making progress on the potential spinoff of VMware from Dell.
+While our special committee of Independent Directors continues to evaluate the spin-off, we believe that it could be value-enhancing to VMware and its stockholders.
+We will not be commenting further on these discussions until there's more definitive news to share.
+Before we begin the Q&A, I'll ask you to limit yourselves to one question consisting of one part, so we can get to as many people as possible.
+Raghu and Sanjay are joining us now for Q&A.
+Operator, let's get started.

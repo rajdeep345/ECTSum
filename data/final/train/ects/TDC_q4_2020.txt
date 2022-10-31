@@ -1,0 +1,166 @@
+Steve McMillan, Teradata's President and Chief Executive Officer will lead our call today, followed by Mark Culhane, Teradata's Chief Financial Officer, who will discuss our financial result.
+A replay of this conference call will be available later today on our website.
+I'm very pleased to lead off call by sharing that Teradata delivered another solid quarter in Q4, culminating in a strong finish to 2020 and we also exceeded earnings per share and free cash flow.
+I'm incredibly proud of our team's performance and strong execution, particularly given the impacts of the global pandemic.
+We have effectively completed our transition to a subscription model that generates recurring revenue and are vigorously executing on transformation to a cloud-first company.
+The team drove another quarter of solid year-over-year and sequential growth in total ARR.
+This was especially true for public cloud ARR, which exceeded $100 million.
+The growth we are seeing demonstrates that are cloud-first positioning is resonating with the market.
+More importantly, it shows that customers are increasingly seeing the value advantage in the public cloud, powering effective analytics at scale and delivering meaningful business returns.
+Public cloud ARR of $106 million at the end of 2020 was a 165% increase from the prior year.
+To provide some color on our momentum, I'd like to highlight a handful of our public cloud wins.
+One of the world's largest airlines committed to Teradata on Azure for its next generation analytics in the cloud.
+This win is a great demonstration of the essential role Teradata established for our customers.
+Leveraging all relevant data to help our customers navigate through tumultuous times, its crucial, and no one does that better than we do.
+We signed a long-term agreement at a Fortune 100 insurer, as it modernizes its IT infrastructure, less competitive win against several cloud native vendors came after the customer recognized that Teradata provides significantly higher value and quality at significantly lower cost than others.
+One of the largest non-profit healthcare systems in the US chose Vantage on Azure for his patient experience and the data analytics capabilities enabled by our data platform.
+We conducted an extensive evaluation of Vantage on Azure versus credit only competitors.
+Our customer selected Teradata for unsurpassed workload management capabilities, platform ability and ability to reliably and securely execute company's more than 26 million queries per day.
+Teradata is partnering with Capgemini, one of our global consulting partners on less customers migration to the cloud, and its future growth opportunities.
+A North American based global e-commerce marketplace reconnected to Teradata to modernize its analytics environment.
+After it tested the cloud native offering, experienced in technical challenges and extended migration delays brought the customer to the realization that it would not achieve the business value they expected from its intended move to Snowflake.
+Selecting Vantage on AWS offered a seamless transition to the cloud ensures its mission critical production workload is maintained and allows its people to focus on creating gold forward business value.
+A Fortune 50 healthcare company selected to Teradata on AWS to continue to run its business intelligence reporting and analytics for claims, case management and provider efficiency.
+This too, was a competitive win against multiple cloud native vendors with Teradata's ability to scale and handle very high workload volumes as the main differentiators for this growing customer.
+And we are helping a leading retailer and APJ transition to the cloud with Vantage on Azure.
+This customer chose our consumption pricing model pervasive elasticity to quickly scale and address the changing retail market environment.
+These are just a few examples that illustrate how well our teams kept the focus and executed to drive the pandemic.
+Organization, who is proving offerings and capabilities to customers.
+The company's resolute cloud first focus and commitment came to the forefront throughout 2020, and was manifested across the entire business.
+Some of our advances from the last few months include, launching of Vantage trial program.
+This trial program places the power of Teradata, directly in the hands of customers to help companies quickly, easily and at no cost experienced the capabilities of Vantage in the cloud.
+This free trial is preloaded with ready to use examples to get customers started.
+Users can also upload their own data to see how Vantage advanced analytic functions enable faster evaluation and accelerated time to value.
+And as with every Teradata environment, there is no limit to the number of complexity of queries that maybe submitted.
+Only Vantage enables analytics across multi cloud, on-prem and hybrid environments, and to offer maximum flexibility and choice for our customers.
+Vantage is available across the top public cloud vendors, Google Cloud, AWS, and Microsoft Azure.
+We also recently announced that Teradata Vantage is now available in AWS, Azure, and Google Cloud marketplaces.
+These new purchasing channels offer another means to make it easy for customers to purchase and use Vantage.
+With full multi-cloud support, their software is consistent across all of these environments, making processes easier, reducing risk and de-levering faster team to value and all with the scale, security, availability and performance customers rely on from Teradata.
+This is a tremendous benefit to our customers as many have multi-cloud strategies and roadmaps.
+With Vantage, companies can leverage all of the data, all of the time and that scale being need to achieve breakthrough business results from their analytics.
+Our support of multi-cloud environment combined with our new flexible pricing options make it easy for customers to benefit from data analytics in the cloud as we unlock that value in the data assets.
+Additionally, with the latest release of Teradata QueryGrid, we are making it easier for customers to connect to data sources, regardless of where the data resides and the quote and multiple clouds are on-prem.
+This is important as organizations increasingly transition to the cloud and need to be able to access and combine information from all of the data environments at the same time and its scale.
+Our R&D team is relentlessly working to ensure that Vantage is the fastest, lowest risk, highest performing and most cost effective path to the cloud.
+The focused organization has delivered more cloud capabilities in 2020 than ever before.
+It's a driving force behind our cloud growth and will continue to accelerate as we architect our software for the cloud.
+I am confident in our accelerating cloud roadmap, a rapid cloud migration work and the growth it will deliver.
+Our development efforts remain centered on driving complete and compelling cloud offerings at scale and the team is bringing forth cloud native integrations at record pace.
+Companies must take advantage of all of the data that is available to them to succeed.
+And we will remain steadfast in providing the enterprise scale and flexibility they need with our cloud data warehouse and the analytic capabilities we enable as a platform.
+As I referenced last quarter, we undertook a careful review of our operations to align our cost to better support our cloud growth objectives.
+We will be investing 75% of all R&D spends or over $200 million in fiscal 2021 in our cloud initiatives.
+We are making these investments while also planning to improve operating margins and increased free cash flow.
+Looking ahead, as we begin 2021, we anticipate significant year-over-year growth in public cloud ARR.
+Additionally, we expect year-over-year growth in total revenue, profitability and free cash flow.
+Going forward, a majority of our revenue will be recurring and we expect total revenue growth for the first time since 2018, as the shift to a subscription model is no longer a headwind for our reported results.
+Mark will talk more about that in his comments, along with financial reporting changes we anticipate making in 2021 as a result of the way I am looking at and operating the business.
+We are a cloud software platform company and our future lies in bringing enterprise data warehousing and analytics software to the world's leading organizations.
+Consulting services and third party software sales don't equate to high quality recurring product revenue.
+Therefore, we believe the changes Mark will describe for eight new and seeing our true progress.
+We have taken clear actions to prepare for growth in 2021.
+One of the ways, we strengthened our execution during 2020 was focusing on driving awareness and demand for our cloud offerings.
+We have made meaningful headway and are stepping up our efforts to further focus our marketing and sales teams, refined our sales compensating our salespeople to grow also simplified and aligned our marketing message to cloud first and are taking the message to the market to drive awareness and demand for Teradata Vantage on public cloud within our target markets and customers.
+Additionally, we received a significant industry endorsement of Teradata's emerging strength as a leading cloud First Data platform as Teradata was named a leader in Gartner's cloud database management magic quadrant.
+The report noted that our move to the cloud, a new pricing models make our price performance more apparent and furthermore the report encouraging customers to run a proof of concept to understand how competitive Teradata's price performance is.
+Teradata garnered the highest scores in three out of four use cases in Gartner's report on critical capabilities for Cloud Database Management Systems for analytical use cases.
+This evaluation clearly demonstrates Teradata's ability to meet the largest and most demanding customer's data analytics needs from all industries.
+We are continuing to add strong leadership to our executive ranks.
+I am very pleased that we named Todd Cione as Chief Revenue Officer.
+Todd brings to Teradata more than 25 years of experience in global sales, marketing, channel and operations at large multinational technology organizations, including most recently at Apple and previously with Oracle, Rackspace and Microsoft.
+He drive for results has a track record of delivering predictable and profitable growth, and has successfully led organizations through cloud-based transformations, with an intense focus on delivering lasting value for customers, Todd has already hit the ground running and is deeply engaged with our go-to-market teams.
+I would like to highlight the recognition Teradata recently received regarding our ongoing Environmental, Social and Governance, or ESG efforts.
+I am pleased to share that Teradata was named in the Dow Jones North American Sustainability Index for the 11th consecutive year, and we have also been included in the Corporate Equality Index for the first time.
+We believe social responsibility, sustainable business practices and responsible governance are good for our world and right for our business.
+We will continue to build on our commitment to sustainable corporate citizenship that leads to long-term value creation for all of Teradata stakeholders.
+We look forward to share more on our corporate strategy including ESG at an Analyst Day later this year.
+In closing, I would like to reinforce critical dimensions, whether that'd be data volume, the number or complexity of queries, response times or managing SLAs of different business needs.
+This is where Teradata technology excels, and a rapidly growing cloud ARR shows the customers are recognizing this value from Teradata.
+Additional commentary on key metrics and segment trends can be found in the earnings discussion document on our Investor Relations webpage at investor.
+IShares' view that Teradata had a strong finish to 2020 in our global environment impacted by the pandemic.
+I am pleased to report that the company delivered another quarter with better than expected recurring revenue, earnings per share and free cash flow, while effectively completing our pivot from a perpetual license model to a subscription license model.
+We also exceeded our original guidance for the full year for ARR growth, earnings per share and free cash flow despite the impact of COVID-19.
+We ended the year with $1.587 billion in ARR, which was 11% growth year-over-year at the beginning of the year, delivered $86 million.
+And -- the $1.58 7 billion of ARR breaks down as follows; $960 million represents subscription and cloud ARR.
+As Steve noted in his introductory remarks to give investors better insight into our Cloud business in momentum, we are disclosing our public cloud ARR for the first time.
+Public Cloud ARR totaled $106 million at the end of 2020, which was a 165% increase from the end of 2019.
+Public Cloud-related ARR is comprised of Teradata Vantage running on the public cloud, AWS, Azure and Google Cloud, and does not include private cloud, which continues to be included in subscription ARR.
+We are not including private cloud as our cloud first strategic focus is on public cloud.
+The remaining subscription amount of $854 million represents on premises and private cloud subscriptions in grew 30% year-over-year.
+The remaining ARR balance of $627 million represents; maintenance, software upgrade rights and other ARR down 14% year-over-year, and reflects our strategic move to subscription and the cloud.
+Moving into recurring revenue.
+In Q4, we generated $383 million in recurring revenue, which was above our guidance range of $371 million to $373 million and represented 9% growth year-over-year.
+Better than expected ARR growth and consistent sales execution throughout the quarter both positively contributed to the increase in recurring revenue.
+Moving on to consulting revenue.
+Consulting revenues declined 27% year-over-year, as expected, as we continue to refocus our Consulting business on higher margins engagements that also drive increased software consumption within our customer base.
+In addition, we experienced the impact from the ongoing COVID-19 pandemic as some customers cancelled or delayed certain projects as they continue to manage their discretionary spending, especially for onsite consulting engagements.
+We expect consulting revenues to start to stabilize during 2021 and expect consulting revenues to decline at a significantly lower rate than we have experienced over the last few years.
+Turning to gross margins.
+Total gross margin came in at 59.3%, up 610 basis points a year-over-year.
+The improvement was driven by the continued favorable revenue mix shift to higher margin recurring revenues and away from lower margin perpetual and consulting revenues, as well as increased recurring revenue and perpetual revenue gross margins year-over-year.
+Cost savings of about $6 million from the actions announced during our Q3 2020 earnings call aided our gross margin in the fourth quarter, and will also benefit our gross margin dollars in 2021.
+Recurring revenue gross margins was 17.5%, up 190 basis points from the fourth quarter of 2019 and up 10 basis points sequentially.
+The year-over-year increase in recurring revenue gross margin the expected recurring revenue growth.
+However, the greater than expected recurring revenue dollars and our cost saving actions both drove the better than expected recurring revenue gross margin.
+Consulting gross margin was 8.4% versus 14.9% in the fourth quarter of 2019.
+Consulting margins declined year-over-year and sequentially as revenue decreases outpaced cost reductions.
+As part of our restructuring actions, we have moved to a more variable consulting cost structure starting in 2021 to improve the future profitability of our Consulting business and enable more consulting with third-party partners.
+Turning to operating expenses, total operating expenses were up 4% year-over-year.
+The primary driver of this increase were additional incentive plan expenses, given our strong Q4 performance.
+Excluding incentive plan expenses, total operating expenses decreased slightly year-over-year.
+On our Q3 earnings call, we disclosed that the restructuring efforts we announced were expected to result in expense reduction between $80 million to $90 million on an annualized basis.
+We expected to invest a portion of these savings into our cloud first and related go-to-market initiatives and return the remainder to investors through increased earnings.
+As an update, the actions taken resulted in approximately $80 million of total cost savings.
+Of this amount, approximately $12 million benefited operating income in the fourth quarter.
+We will discuss the impact in 2021 when I get to guidance shortly.
+Turning to earnings per share, earnings per share of $0.38 exceeded our guidance range of $0.23 to $0.25 provided last quarter.
+We cleanly beat expectations as we generated about $0.09 from better than expected revenue growth and about $0.08 of earnings per share from the cost actions discussed on the Q3 earnings call, partially offset by the primarily lower consulting margins and higher incentive planning expenses as previously mentioned.
+Turning to free cash flow, we had another solid quarter of free cash flow generation driven by higher operating margin, strong cash collection, and other favorable working capital timing differences.
+Free cash flow in the fourth quarter was $45 million, which contributed to full year free cash flow of $216 million, well ahead of the annual free cash flow guidance of $150 million we provided at the beginning of the year.
+As a reminder, we expected to make cash payments of approximately $75 million related to the restructuring actions that we discussed during our Q3 earnings call, of which approximately $15 million were expected in the fourth quarter.
+Our current forecast for total cash usage is now approximately $65 million, down $10 million from the prior estimate.
+Of the $65 million, $23 million was paid in the fourth quarter.
+The remaining $42 million is expected to be paid during 2021.
+However, even after taking the restructuring cash payments into account, our Q4 free cash flow was still better than we expected.
+Let's start by discussing the two key assumptions underpinning our 2021 outlook.
+First, I would like to inform you of our financial reporting change starting in Q1 2021 that Steve mentioned in his introductory remarks.
+To better align our financial reporting with how Steve is managing the business going forward, we will be reclassifying managed services related ARR and revenue out of recurring revenue and into non-recurring consulting revenue as these services are principally consulting delivered services.
+In addition, that ARR and into other non-recurring software will not be a focus for us, but rather will be driven directly to the third-party software partner.
+The reporting change will result in no change to previously reported total revenue or total gross profit or gross margin percentage.
+We are making this change to better reflect and disclose the important revenue and margin metrics that Steve and our company are focused on driving moving forward.
+See the earnings discussion document on the Investor Relations webpage for more information regarding the revenue and gross margin component impacts of this change.
+I would like to provide you the reclassified amount of ARR at December 31, 2020 by category reflecting these changes.
+After reclassifying managed services and third-party software ARR, total AAR was $1.425 billion at the end of 2020 which still grew over 11% year-over-year.
+And it consisted of the following $917 million of subscription and cloud related ARR, which increased 38% from the end of the prior year with public cloud ARR of $106 million of this total and $508 million of maintenance and software upgrade rights related ARR, which decreased 17% as expected, due to our shift to a subscription model.
+Second, we look to continue our growth in the cloud as we accelerate our product roadmap, focus our go-to market to grow cloud while protecting our base and drive awareness and demand for our platform, a mix the ongoing pandemic.
+Given our cloud momentum and the purchasing behavior of our high-end enterprise customer base as more of them move to Vantage in the cloud, we expect that we will contract differently with our customer base versus what we have historically done on-premises.
+We anticipate that some or many of our customers may choose to purchase or use committed volumes of cloud instances directly from the public cloud providers rather than through us.
+This could create variability in our total ARR and recurring revenue in subsequent quarters.
+As only the ARR and recurring revenue associated with our Vantage software will flow through our P&L rather than that plus the cloud infrastructure.
+However, we are happy to take that trade-off as that recurring revenue has a higher gross margin for Teradata and it is easier for our customers to a elastically consume Teradata in the public clouds versus on-premises.
+Additionally, as more customers and workloads move to the cloud, it is likely more of our business will be consumption based and will not necessarily be recognized ratably creating more variability in the recurring revenue we report by quarter.
+Furthermore, many of our customers will operate Vantage on-premises as well as in the cloud.
+And thus we expect that may change our on-premises contracts with customers, which could result in on premise revenue recognized other than ratably which also may create more variability in the recurring revenue we report by quarter.
+As a result we anticipate it becoming more difficult to forecast our recurring revenue, especially on a quarterly basis.
+Therefore, we will not be providing guidance for recurring revenue by quarter.
+With that said, our 2021 annual guidance, which considers the week is expected to grow total ARR is anticipated to grow in the mid to high single-digit percentage range year-over-year.
+We expect total recurring revenue to grow in the mid to high single-digit percentage range year-over-year.
+We expect total revenue growth for the first time since 2018.
+We anticipate total revenue to grow in the low single-digit percentage range year-over-year.
+Non-GAAP earnings per share are expected to be in the range of a $1.50 to $1.58 which would be about 18% year-over-year growth at the midpoint and we expect free cash flow of at least $250 million.
+Now I'd like to provide some color on 2021 to help you understand our business, which again considers the reclassification I recently mentioned we expect public cloud AR to become a more meaningful part of total AR within the total revenue guidance we provided, we anticipate mid single-digit percentage reduction in consulting revenue year-over-year and a continued reduction of perpetual and other revenue, by at least half in 2021 versus 2020.
+We expect our total gross margin rate in 2021 to be approximately the same as in 2020, given our significant movement to the cloud.
+And we also expect recurring revenue gross margins to be in the low 70% range.
+Perpetual another gross margin is expected to be in the mid 20% range and consulting gross margin to be in the low teens percentage range.
+We expect to improve operating margins by 100 to 150 basis points as we continue to drive efficiencies in our operating model to drive profitable growth, while increasing our investment in cloud sales and R&D capabilities.
+As previously discussed, the majority of the $80 million of expected annual run rate cost savings are being reinvested back into R&D and go to market, cloud initiatives.
+However on a net basis, we anticipate 5 to 10 said some benefit to 2021 EPS.
+This is on top of the benefit recognized in earnings per share for the fourth quarter of 2020.
+Non-GAAP earnings per share includes the cost savings I just mentioned.
+The free cash flow guide, I mentioned, reflection is reduced by the $42 million of restructuring cash payments previously discussed.
+We anticipate approximately $27 million of the $42 million being paid during the first quarter.
+We expect our non-GAAP effective tax rate to be approximately 23% for the full year and assume $112 million fully diluted shares outstanding.
+We plan to be opportunistic about share buybacks during 2020, while we are focused on executing against our full year guidance we wanted to provide you with a few markers to assist you with your modeling of Q1 2021, which again considers the reclassifications I previously mentioned.
+They cloudy are is expected to grow 155% or more from the $44 million in Q1, 2020 probably cloud ARR or about 10 million to 15 million increase sequentially from the end of 2020.
+Total revenue in the first quarter is expected to be higher year-over-year, but lower sequentially which is consistent with our historical seasonal pattern however, we anticipate that decline rate for total revenue from Q4, 2020 to Q1 2021 while we expect -- and with that operator, we are ready to take questions.

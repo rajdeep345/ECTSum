@@ -1,0 +1,156 @@
+We are joined here today by Bill Meaney, president and chief executive officer; and Barry Hytinen, our executive vice president and chief financial officer.
+In addition, we use several non-GAAP measures when presenting our financial results.
+We have included the reconciliations to these measures in our supplemental financial information.
+We are pleased to have delivered record performance for both the fourth quarter and the full year.
+These record results are reflective of our broad offerings, deep customer relationships, resilient business model and our dedicated teams.
+Despite the challenges associated with the pandemic and most recently with the Omicron variant, our Mountaineers around the world have continued each and every day to put our customers first now with renewed and invigorated focus on growth.
+And our historically high revenue and profitability are a testament to our Mountaineers' commitment.
+Speaking about our Mountaineers, I wish to begin my remarks by stating that we are all saddened by the overnight events in the Ukraine.
+Our thoughts and prayers are with our customers there and our fellow 60 Mountaineers and their families living and working in the Ukraine.
+I am sure for all of us, given the current events in Europe, it deals in many ways inappropriate discussing our financial results with this backdrop.
+Yet at the same time, it is in keeping with our Mountaineer spirit.
+With that, let me begin our discussion of our remarkable and record year.
+In the fourth quarter, we achieved our highest ever quarterly revenue of $1.16 billion, yielding eight and a half percent of total organic revenue growth and record EBITDA of $431 million.
+For the full year, we achieved record revenue of nearly $4.5 billion and EBITDA of $1.6 billion.
+These results were fueled by increased demand for our services across key markets.
+For the full year, we delivered organic storage rental revenue growth of 2.6%, reflecting continued benefit of pricing combined with positive volume trends.
+We drove double-digit growth in digital offerings, including data center inside our digital transformation services and secure IT disposition, now referred to as ALM, or asset life cycle management.
+Our digital services and ALM businesses continue to build momentum, growing over 20% in the fourth quarter and capping off an excellent year of growth.
+Further to our recent success in the ALM area, we are also pleased to report that the acquisition of ITRenew, announced in December, closed in January.
+This acquisition will accelerate our growth trajectory in this $30 billion market, which is growing over 10% per year.
+Our newly created ALM division will absorb our historical secure ITAD business line.
+This enlarged division not only helps us provide chain of custody for our customers' IT assets, but our ALM activities also assure our customers that their IT assets are wiped of any data at the end of their life and destroyed and recycled in a responsible way.
+On this last point, in terms of recycling, our expanded offerings in this space around a circular economy are important for both IRM's and our customers' ESG goals leading to carbon neutrality.
+This expanded ALM division also strongly complements our fast-growing data center business, bringing capabilities to serve some of the largest and most innovative companies in the world in a more cradle-to-grave way, consistent with the best security and ESG practices.
+This expanded ALM platform will directly benefit from Iron Mountain's 225,000 loyal customer base, which includes 95% of the Fortune 1000.
+This global customer base is supported by 25,000 Mountaineers across 1,450 facilities in 63 countries.
+Our recent expansions in data center, machine learning-driven data analytics and insights and now ALM are just some of the examples of how we continue to invest in growth to capitalize on our many opportunities ahead, serving a customer base which has been loyal to Iron Mountain for decades.
+I have shared with you previously how in the last five years, these investments have taken the total addressable market, or TAM, of our products and services from $10 billion to some $80 billion.
+I am happy to report our continued build-out of new products and services in the last year as well as growth in these underlying markets has now taken our TAM to over $120 billion.
+Our continued drive in building an ever-expanding set of synergistic and customer-centric solutions, together with global reach and scale, is the fuel behind much of the acceleration in our growth.
+Let me share a few examples of how we've been empowering our customers' success in growth through our diverse solution offerings and unmatched customer service.
+Our recent customer win with a large aerospace company, where we won a backfile digitization deal of over $20 million, is a superb example of collaboration among our entertainment services, technology organization and our global records organization, or GRO.
+In order to achieve its goal of being a 100% model engineering company and to most effectively use designs and data from historical archives to refine new designs, this aerospace company sought help with the digitization and auto classification of over 50 million digital engineering assets.
+We were tasked to store, classify and utilize machine learning to identify relevant information while maintaining compliance with International Traffic in Arms Regulations known as ITAR.
+To this end, we developed and implemented an ITAR-compliant solution using our InSight machine learning platform operating in the AWS government cloud environment.
+Iron Mountain is uniquely positioned to assist our partner with this initiative with our storage capabilities, our understanding of ITAR compliance complexities, our machine learning-trained analytic engines and our technological support to ensure efficiency and success.
+Moreover, this project enables us to deliver critical insight into engineering data, not just to this company but also to other manufacturing and engineering customers across the globe.
+We concluded a Phase 1 contract and have also been awarded a Phase 2 contract for this branch.
+The agency originally planned to select three vendors for the first contract due to the high volume of microfilm reels needing to be processed, but our solution surpassed the customer's expectations, and Iron Mountain was awarded the exclusive contract to process all 177,000 of microfilm reels or over 2 billion records needing analysis.
+This win was based on our unique splitting technique, proprietary machine learning, automated QA process and processing scalability that helped us to differentiate our offer from the competition.
+These technology innovations for the customer have enabled future use cases, which rely on advanced pattern recognition at scale, including OCR microfilm processing projects, applying machine learning extraction techniques for digital mailroom, invoice processing and extracting information from claims documents, to name a few.
+Another example how Iron Mountain is working with customers to support their digital transformation is our recent partnership with a production and development company operating in the U.K.'s North Sea.
+We've undertaken a significant back scan of their legacy archive records to meet their regulatory obligations to the U.K. oil and gas authority in order to relinquish their license to operate on 230 wells they wish to abandon.
+They're required to digitally upload all information assets to the National Data Repository.
+Using the InSight platform, we were able to solve the problem of having enormous amounts of data to sift while consolidating physical and digital data in disconnected information silos and resulting in millions of dollars of annual savings.
+Moving back above ground, recently in our Crozier Fine Arts division, we won a contract to provide comprehensive storage solutions and logistical support for the museum operations of the Academy Museum of Motion Pictures.
+We were excited and proud that based upon a foundation of long-term partnership and trust built up through many years of support from Iron Mountain's entertainment services division, they came to us to meet their evolving needs where Crozier services were an ideal match.
+Now, turning to wins in our data center business.
+Recall that our bookings target for the year was 30 megawatts.
+We are pleased to have finished the year with nearly 49 megawatts of leases signed with over 27 megawatts of leases in the fourth quarter alone.
+This includes the new 20-megawatt lease in our Manassas, Virginia data center announced in December.
+This lease is expected to commence in phases from mid-2022 through mid-2023.
+We continue to see strong demand for comprehensive data center solutions from our existing customer base.
+This lease is indicative of our ability to meet that demand and reflects our commitment to strategically partnering with our customers to meet their individual requirements.
+Based on current design plans, we now expect that the VA2 facility to support 36 megawatts, up from 30 megawatts previously.
+With these changes and other additions to our portfolio, our total capacity is now in excess of 600 megawatts.
+Finally, we continue to be recognized for our leadership around ESG.
+This has been an important focus for us for many years, having produced annual sustainability reports outlining our commitments and progress since 2013.
+Some of our past recognitions have included 100% of our data center power is generated by renewables.
+We were the launch provider of Green Power Pass, which allows our customers to report reductions in their carbon footprint when using our data centers.
+We were a co-signer with Google to expand our commitment to green-powered data centers to 24/7 carbon-free electricity, and we were one of the original signatories of the UN Global Compact on Sustainability back in 2016.
+More recently, we announced, in addition to their RE100 program, we have joined the Climate Group's EV100 initiative and reached a key milestone in electrifying our global vehicle fleet in line to reach our climate pledge commitment to achieve net zero carbon emissions by 2040.
+We have made real progress toward our carbon reduction goals.
+Since establishing our first science-based targets, we have reduced absolute greenhouse gas emissions by over 60% from our 2016 baseline while growing the business.
+We believe that our commercial growth and ESG initiatives make us stand out, and we suspect they were a major factor of our being ranked among the top 100 on Newsweek's list of America's most responsible companies.
+In summary, our future ahead is bright.
+We are building on our growth momentum as we expand our portfolio to meet our customers' evolving needs.
+And with our strong footprint, powerful portfolio and deep customer relationships, we are confident that we can continue this momentum as we ascend our mountain range and provide another set of performance records this year and the years ahead.
+In the fourth quarter, our team delivered strong performance, exceeding the expectations we provided on our last call.
+On a reported basis, revenue of $1.16 billion grew 9.4% year on year with total organic revenue up eight and a half percent.
+Revenue was $10 million ahead of the high end of the expectations we shared previously despite the U.S. dollar strengthening and being more of a headwind in the quarter.
+As an example of the momentum we are building, on a two-year basis, our total organic revenue growth continued to accelerate in the quarter.
+Organic storage revenue grew 3.6% in the quarter, reflecting our strong pricing and data center commencements.
+Organic service revenue increased $65 million or 17.6% driven by continued strong growth in digital solutions and asset life cycle management.
+As revenue associated with our traditional transportation services were still down nearly 10% from pre-pandemic levels, we are even more pleased with this performance.
+Adjusted EBITDA was $431 million, an increase of $56 million from last year.
+As a result of strong flow-through driven by pricing and productivity, fourth quarter EBITDA exceeded the high end of our expectations by $6 million despite additional FX headwind.
+AFFO was $267 million or $0.92 on a per share basis, up $76 million and $0.26, respectively, from the fourth quarter of last year.
+In both cases, we significantly exceeded the high end of our expectations.
+Now, let me briefly summarize the full year.
+Revenue of $4.5 billion increased 8% on a reported basis and over 6% on an organic constant currency basis.
+Adjusted EBITDA increased 11% year on year to $1.635 billion, an increase of $159 million year on year.
+We achieved the high end of our full year guidance.
+AFFO increased 14% to $1.01 billion or $3.48 on a per share basis, in both cases, exceeding our full year guidance ranges.
+Now, let's turn to segment performance.
+In the fourth quarter, our Global RIM business delivered revenue of $1.02 billion, an increase of $76 million from last year or 8% on a reported basis from last year.
+On an organic basis, revenue increased 7%.
+Constant currency storage rental revenue growth of 4.2% or two and a half percent on an organic basis reflects our focus on revenue management and solid volume trends.
+With positive volume trends and growth in our adjacent and consumer businesses, total physical volume was in line with our expectations for the quarter and the year.
+Global RIM adjusted EBITDA was $453 million, an increase of $49 million year on year.
+Adjusted EBITDA margin was up 160 basis points year on year, reflecting continued pricing strength and productivity.
+Turning to our global data center business.
+Our team booked 27 megawatts in the quarter.
+For the full year, bookings came in at 49 megawatts, significantly exceeding our full year guidance of 30 megawatts.
+We are very pleased with the team's leasing performance.
+To give some historical context, we leased 10 megawatts in 2018, 17 megawatts in 2019 and excluding our joint venture in Frankfurt, 31 megawatts in 2020.
+In terms of revenue, as we projected, fourth quarter growth accelerated to 25% year over year.
+Storage revenue grew 18% year on year, and service revenue was up sharply and in line with our projections.
+As a reminder, service revenue in the second half includes fit-out services we are providing to our Frankfurt joint venture.
+We expect that activity will be completed early in 2022.
+Even with the large service component, EBITDA margin increased sequentially with strong commencements.
+We are pleased with our data center performance, and our pipeline has continued to strengthen, both in terms of hyperscale and retail colocation.
+In 2022, we expect to lease 50 megawatts, which would represent 28% annual bookings growth.
+We project full year data center revenue growth in a range of high teens percent year on year with even higher growth rates on storage.
+With our strong prior-year bookings and recent commencements, we have very good visibility to revenue.
+With pricing and improved mix, we expect data center margin for the full year to be up modestly compared to 2021.
+Turning to Project Summit.
+This quarter, the team delivered $30 million of incremental year-on-year adjusted EBITDA benefit.
+For the full year, as compared to 2020, Summit delivered $160 million of benefits.
+We continue to expect another $50 million of year-on-year benefit in 2022.
+Total capital expenditures were $219 million, of which $173 million was growth and $46 million was recurring.
+For the full year, total capital expenditures were $606 million, of which $309 million was growth capital related to data center development.
+In 2022, we expect total capital expenditures to be approximately $850 million.
+We are projecting approximately $700 million of growth capex, with data center development representing about three-quarters of that.
+We expect recurring capex to approach $155 million.
+Turning to capital recycling.
+As we have said before, we view the market for industrial assets as highly attractive as a means to supplement our growth capital.
+With that backdrop, in the fourth quarter, we upsized our recycling program and generated approximately $63 million of proceeds, bringing the full year to $278 million.
+Turning to the balance sheet.
+We ended the quarter with net lease adjusted leverage of 5.3 times, in line with our projection and modestly improved compared to last quarter.
+As we have said before, we are committed to our long-term leverage range of four and a half to five and a half times.
+For 2022, with the closing of the ITRenew transaction, we expect leverage to tick up modestly in the first quarter.
+We expect to exit the year at levels within our target range.
+From a cash perspective, I would like to recognize our team for driving strong collections, improving our days sales outstanding and resulting in year-on-year improvement in our cash cycle.
+The collective performance has resulted in a five-day improvement from pre-pandemic levels.
+With our strong financial position, our board of directors declared our quarterly dividend of $0.62 per share to be paid in early April.
+Also, as you may have seen, we are pleased to announce an important strategic milestone related to our unconsolidated joint venture focused on the fast-growing valet consumer storage market.
+MakeSpace recently completed a merger with Clutter, a similarly sized business also focused on valet storage.
+We expect the combination will result in considerable benefits, including a focus on a single brand, Clutter, broader reach and natural synergies.
+Iron Mountain will continue to provide storage services to the business, and our ownership interest will be nearly 25% of the combined entity.
+We are excited about the opportunities that lie ahead and expect continued benefit to our total physical volume.
+Now, turning to our outlook.
+For the full year 2022, we currently expect revenue of $5.125 billion to $5.275 billion.
+We expect adjusted EBITDA to be in a range of $1.8 billion to $1.85 billion.
+At the midpoint, our guidance represents revenue growth of 16% and EBITDA growth of 12%.
+We expect AFFO to be in the range of $1.085 billion to $1.12 billion, which represents 9% year-on-year growth at the midpoint point.
+We expect AFFO per share to be in a range of $3.70 to $3.82.
+Our guidance assumes organic global physical volume will be consistent to slightly positive year on year.
+We expect revenue management will be a significant benefit, and I will note that the majority of those actions have already been taken as we speak to you today.
+And nearly all of them will be in place by the end of the quarter.
+As Bill mentioned, we are planning for a continuation in the strong trends we are seeing in digital solutions and our organic ALM business, combined with a slight recovery in our service activity across the year.
+Our guidance also assumes the contribution from our acquisition of ITRenew.
+As we closed the deal at the end of January, we are including 11 months of the results in our guidance.
+Our guidance includes approximately $450 million of revenue from ITRenew.
+We estimate the stronger U.S. dollar will result in foreign exchange headwinds to revenue of approximately $60 million year on year with the vast majority of that in the first half.
+In terms of EBITDA, our expectations include the benefit from revenue management and top-line growth, the contribution from ITRenew as well as Project Summit benefits.
+dollar and the divestiture of the software escrow business, which we sold in late second quarter.
+With the ongoing volatilities in the market associated with the pandemic as well as the closing of the ITRenew transaction during the quarter, we felt it would be helpful to share our expectations for the first quarter.
+We expect total revenue to be in excess of $1.2 billion.
+We expect EBITDA to be approximately $425 million.
+We expect AFFO to be in excess of $250 million.
+In summary, our team is executing well.
+Our pipeline continues to expand, and momentum continues to build across our business.
+Our addressable market has grown significantly over the last several years, and we expect this to continue to expand.
+We feel confident in our ability to deliver higher levels of growth.
+And with that, operator, please open the line for Q&A.

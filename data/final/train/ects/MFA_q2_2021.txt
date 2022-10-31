@@ -1,0 +1,169 @@
+These types of statements are subject to various known and unknown risks, uncertainties, assumptions, and other factors, including those described in MFA's annual report on Form 10-K for the year ended December 31, 2020, and other reports that it may file from time to time with the Securities and Exchange Commission.
+The second quarter of 2021 was a difficult period for mortgage investors, particularly for those invested in agencies, strong economic data and early fed chatter about tapering, pushed mortgage spreads wider and a rally in rates, coupled with the flattening curve, caused prepayment levels to remain elevated, while never completely immune to general mortgage market trends, MFA's investment strategy intentionally mitigates many of these interest rate risks.
+Through asset selection that emphasizes credit versus interest rate sensitivity and shorter-duration assets that again limit interest rate risks, our portfolio performed quite well during the second quarter of 2021, and our book value was stable.
+On the credit side, continued very strong housing trends have bolstered the value of the underlying assets, securing the mortgages that we own, thus, lowering LTVs.
+Robust housing prices have also created a strong tailwind for delinquent mortgages and REO properties as these trends lead to improved resolution and outcomes.
+MFA's tireless efforts to find new attractive investments were also rewarded in the second quarter as our asset acquisitions exceeded runoff for the first time since late 2019.
+This progress is due to continued growth from many of our origination partners as well as our ability to analyze and source new investment opportunities.
+With financial markets awash in liquidity, sourcing attractive investment opportunities have been very challenging this year.
+But we are starting to fire on all cylinders, and we feel good about our continued growth prospects.
+Please turn to Page 4.
+We reported GAAP earnings of $0.13 per share for the second quarter, largely driven by a solid increase in net interest income.
+Contributions from credit loss reserve reversals were more modest this quarter versus Q1, $8.8 million versus $22.8 million as were unrealized gains on fair value loans, $6 million in Q2 versus $31 million in Q1.
+GAAP book value was $4.65, up $0.02 from March 31, and economic book value was $5.12, up $0.03 from March 31.
+Economic return, both GAAP and economic for the second quarter, was 2.6%.
+And this follows economic returns in Q1 of 3.6% and 5%, respectively.
+Our leverage ticked up slightly over the quarter to 1.8 to one versus 1.6 to one, and we paid $0.10 dividend to shareholders on July 30, which is a 33% increase from the dividend paid in April.
+Please turn to Page 5.
+Digging into the numbers a little more.
+Our efforts to lower interest expense through securitizations had a visible impact on our second-quarter earnings as interest expense declined by $4.5 million or 15% from the first quarter.
+And the larger of the two securitizations executed in the second quarter had limited impact on the full quarter because it priced on June 10.
+Net interest income for the second quarter increased by $8 million or 16% versus the prior quarter.
+We continue to make excellent progress in liquidating REO properties as we capitalize on strong housing trends.
+And for borrowers who are still negatively impacted by COVID, we've been able to offer modifications and/or repayment plans to allow them to stay in their homes, restore their payment status to current and retain the equity in their homes.
+Please turn to Page 6.
+We expect that this transaction will significantly increase our purchase of business purpose loans and by providing a strong capital base and expertise in securitization we will also further enhance Lima One's already existing profitability and growth potential.
+Please turn to Page 7.
+Again, continuing the theme of aggressively taking advantage of available market opportunities, we executed 2 additional securitizations on over $850 million of UPB at attractive levels in the second quarter.
+As you can see on this page, AAA yields on bonds sold for the Non-QM1 deal was 112 basis points and 110 basis points on the RPL1 deal.
+And the blended cost of debt for both deals is in the 130s.
+We expect to complete at least two additional securitizations in the third quarter.
+Please turn to Page 8.
+We illustrate our investment portfolio and summarize our after-tax financing on this slide.
+Our investment portfolio grew by $300 million in the second quarter, which is a milestone of sorts as it is the first quarter in the last six quarters that our portfolio has increased.
+New loan acquisitions in the second quarter were $857 million, which is more than two times the last three quarters combined.
+The composition of our portfolio has not changed materially since March 31, other than for the addition in Q2 of agency-eligible investor loans, which Bryan will discuss shortly.
+On the financing side, you can see that two-thirds of our asset-backed financing is nonmark to market with over 70% of the nonmark-to-market financing in the form of securitizations as we continue to term out and reduce the cost of nonmark-to-market debt.
+As Craig has already noted, MFA delivered solid results for the second quarter, highlighted by higher net interest income on our residential whole loan investments.
+Before diving into the details, I want to point out two important changes that impact the way our results are presented this quarter.
+Firstly, we changed the way we present interest income on residential whole loans on which we have elected the fair value option at acquisition.
+Prior to this quarter, we presented the coupon payments received, along with noninterest income from fair value loans in other income on our income statement.
+We now present interest income on loans accounted for at fair value as part of net interest income.
+While noninterest income, which primarily reflects market value changes, continues to be presented in other income.
+Secondly, as we noted in our last earnings call, starting this quarter, we decided to elect the fair value option for all acquisitions of the purchased performing loans.
+This includes acquisitions of Non-QM, fix and flip, single-family rental, and agency-eligible investor loans.
+Purchase performing loans acquired prior to this quarter continue to be accounted for at carrying value, so we will continue to present the economic book value metric to capture the impact of fair value changes for these loans.
+Further, we can now present interest yield and net interest spread information for all loans in our portfolio, which should make our results easy to review and more comparable to our peers.
+In addition, we believe that using fair value accounting is the best way to properly capture the impact of Lima One's origination and servicing activities for loans originated by Lima and held on MFA's consolidated balance sheet.
+Turning now to the details of our Q2 2021 results.
+Net income to common shareholders was $58.5 million or $0.13 per share.
+The key items impacting our results are as follows: net interest income of $59 million was $8 million or 16% higher sequentially.
+As Craig also noted interest expense again declined primarily due to the ongoing efforts to use securitization and other forms of more durable and lower-cost financing.
+Interest income on our loan portfolio was also approximately $5 million higher, primarily driven by higher prepayments and lower delinquency levels on purchase credit deteriorated and purchased nonperforming loans.
+Similarly to the prior quarter, interest income from our securities investments included approximately $8 million of accretion on an MSR term note investment that was redeemed at par but that we have taken an impairment charge on in Q1 of 2020.
+Our net interest spread increased to an impressive 3.02% this quarter.
+And while additional securitizations will continue to meaningfully benefit funding costs, overall spread levels should moderate in future periods as prepayment speeds declined in line with seasonal factors.
+We reduced our overall CECL allowance on carrying value loans to $54.3 million, reflecting lower loan balances and adjustments to estimated levels of future unemployment and home price appreciation used in our credit loss modeling.
+This reversal and other net adjustments to our CECL reserves positively impacted net income for the quarter by $8.9 million.
+After the significant increase in CECL reserves taken in Q1 2020 when uncertainty related to COVID-19 economic impacts were at their highest, we reduced our CECL reserves by approximately $90 million in the subsequent five quarters.
+Actual charge-off experience continues to remain very modest, with approximately $1.6 million of net charge-offs taken in the six-month period ended June 30, 2021.
+Pricing on loans held at fair value continues to be firm.
+Net gains of $6 million were recorded, primarily reflecting the impact of market value changes.
+Finally, our operating and other expenses were $22.8 million for the quarter, in line with the previous quarter.
+And with that, I will now turn the over to Bryan Wulfsohn.
+Turning to Page 10.
+Housing has continued to push higher over the quarter.
+The pace of annual home price increases have reached levels not seen in over 40 years.
+Historically low rates, demographic trends, and a severe lack of supply have all contributed to the rise in prices.
+Unemployment rate has broken through 6% and is expected to continue to move lower with the economy reopening.
+All of these factors, combined with monetary and fiscal support have played a part in keeping mortgage credit performance strong and bode well for the continued credit performance in the near term.
+Turning to Page 11.
+Non-QM origination volume increased over the quarter as rates offer to borrowers have been dropping.
+We purchased over $370 million over the second quarter, which is an increase of 85% over the previous quarter.
+Prepayment speeds increased over the quarter with the drop in rates to Non-QM borrowers.
+The 3-month average CPR for the portfolio was 40.
+We executed on the securitization in the second quarter, bringing the total amount of collateral securitized to approximately $1.75 billion.
+We expect to bring another securitization of Non-QM loans in the third quarter.
+These securitizations have lowered our financing costs, and at the same time, have provided additional stability to our borrowings.
+Securitization, combined with nonmark-to-market term facility has resulted in over 70% of our Non-QM portfolio to be financed with nonmark-to-market leverage.
+We expect to continue to be a programmatic issuer of securitization as it is currently efficient form of financing for our portfolio.
+Turning to Page 12.
+COVID impacted our borrowers significantly as many of our borrowers are owners of small businesses that were affected by shutdowns across the country.
+We instituted a deferral program at the onset of the pandemic in an effort to help our borrowers manage through the crisis.
+Through our servicers, we granted almost 32% of the portfolio temporary payment relief, which we believe help put our borrowers in a better position for long-term payment performance.
+Subsequent to June of 2020, we reverted to a forbearance program instead of a deferral as the economy opened up.
+The forbearance program instituted is largely now determined by state guidelines.
+In the second quarter, we saw serious delinquency rates improved by 0.1% and 30-day delinquencies drop by 1.4%.
+In addition, almost 40% of those delinquent loans made a payment in June.
+Many delinquent borrowers are on repayment plans, which will cause them to cure their delinquency status over the next six to 12 months.
+As the economic recovery continues, the portfolio's credit performance should continue to improve.
+Our strategy of targeting lower LTV loans should mitigate losses under a scenario with elevated delinquencies.
+In many cases, borrowers which no longer have the ability to afford their debt service will sell their home in order to get the return on their equity.
+Turning to Page 13.
+Updated letter agreements between the treasury and the GSEs relating to the 2008 senior preferred stock purchase agreement restricted the percentage of loans purchased by the GSEs backed by investor properties and second homes to 7%.
+This change created a dislocation in the marketplace, acquiring originators to look for alternative outlets for their loans backed by investor properties.
+We were able to source over $300 million of this product in the second quarter from our existing originator relationships at attractive prices.
+We expect to execute on our first securitization of this collateral in the third quarter with more to follow should the opportunity persist.
+This is another example of our ability to adapt to an ever-changing environment and a testament to our strong originator relationships in a competitive market environment.
+Turning to Page 14.
+Our RPL portfolio of $1 billion has been impacted by the pandemic but continues to perform well.
+Eighty-one percent of our portfolio remains less than 60 days delinquent.
+And although the percentage of 60 -- the portfolio 60 days delinquent in status was 26%, a quarter of those borrowers continue to make payments.
+Prepayment speeds in the second quarter moderated a bit, but continue to be elevated at a three-month CPR of 15 as mortgage rates continue to be historically low and more borrowers gained equity with the increase of home prices.
+While 30% of our RPL borrowers were impacted by COVID, we have worked with our servicers to provide assistance to borrowers and have seen improvement in delinquency levels over the quarter.
+Turn to Page 15.
+Our asset management team continues to push performance of our NPL portfolio.
+The team has worked in concert with our servicing partners to maximize outcomes on our portfolio.
+This page shows the outcomes for loans that were purchased prior to the year ended 2019.
+Thirty-eight percent of loans that were delinquent at purchase are now either performing or paid in full.
+Forty-seven percent are either liquidated or REO to be liquidated.
+Our sales of REO properties have continued at an accelerated pace at advantageous prices.
+We have been able to cut the REO portfolio in half since the pandemic began.
+Fifteen percent are still in nonperforming status.
+Our modifications have been effective as almost three-quarters are either performing or paid in full.
+We are pleased with these results as they continue to outperform our assumptions at the time of purchase.
+Turning to Page 16.
+We closed the previously announced acquisition of Lima One on July 1.
+We're very excited about this transaction, and I would like to give a shout-out to the entire MSA and Lima One teams that work diligently and collaboratively toward closing this transaction quickly.
+Lima One is a leading nationwide originator of business purpose loans, or BPLs, with a strong brand recognition in the BPL borrower community.
+They serve the needs of short- and long-term borrowing strategies in the BPL space by offering a diverse set of products, including fix and flip and new construction loans, longer-term rental loans, and small balance multifamily value-add and bridge loans.
+Lima's originated over $3 billion since inception and has shown that they can reliably originate over $1 billion annually with a clear path to grow significantly beyond that.
+The acquisition enhances our position as a significant capital provider to the BPL space, which we believe offers some of the most attractive opportunities to deploy capital in the residential mortgage space.
+This acquisition will provide MFA with reliable access to high-quality high-yielding assets that are difficult to source in the marketplace.
+At closing of the acquisition, we added $152 million of business purpose loans to our balance sheet.
+The integration of Lima One into the MFA family has been smooth and efficient.
+The working relationship we've built over the last four years across our organizations has been a tremendous asset in the integration and allowed Lima One to continue to originate high-quality loans and service customers without any issues.
+One of the key initiatives has been to quickly use MFA's balance sheet and reputation to substantially improve the financing of Lima's assets and origination going forward.
+We've already refinanced expensive financial, a BPL securitization, and subordinated debt that Lima needed to put in place during 2020, which will save over 500 basis points in financing costs over time.
+And we are in the process of adding additional financing lines to meet the expected growth of business going forward.
+Turning to Page 17, where we will discuss the fix and flip portfolio.
+Our portfolio declined modestly by about $32 million in the second quarter as principal paydowns continue to exceed loan acquisitions.
+Limited acquisitions last year led to our current seasoned loan portfolio where we see completed projects getting sold quickly into a strong housing market, leading to high repayment rates.
+We expect this trend to change going forward as purchase activity has picked up meaningfully.
+Second-quarter loan acquisitions more than doubled from the first quarter as we acquired $68 million in UPB and $118 million in max loan amount in the quarter.
+As a reminder, fix and flip loans financed the acquisition, rehabilitation, and construction of homes.
+Typically, a certain amount of the loan is held back in the form of a construction holdback, which explains the difference between UPB on day one and the max loan amount, which represents the fully funded loan at the completion of project.
+Third-quarter acquisitions are on track to increase even further as we've already added in excess of $150 million max loan amount of fix and flip loans and fuel others.
+With the acquisition of Lima as well as other seller relationships, we expect purchase activity to be strong going forward and expect the fix and flip portfolio to grow again in the third quarter.
+The fix and flip portfolio delivered strong income in the second quarter with average portfolio yield of approximately 6.4% in the quarter.
+The housing market continues to be extremely strong with record-low mortgage rates and low levels of inventory supporting annual home price depreciation in excess of 15%.
+In addition, we continue to see unemployment declining and overall economic activity improving across the country.
+The combination of these positive economic fundamentals, low initial LTVs on our loans, and the efforts of our experienced asset management team continues to lead to acceptable outcomes on our delinquent loans.
+Sixty-plus day delinquent loans continue to decline and dropped $29 million to $120 million at the end of the second quarter.
+And what is really encouraging is that we continue to see a solid amount of loans pay off in full out of 60-plus.
+The loans paid off in full from serious delinquency we often collect default interest, extension fees, and other fees of payout.
+For loans where there is meaningful equity in the property, these can add up.
+Since inception, we have collected approximately $4.8 million in these types of fees across our fix and flip portfolio.
+Sixty-plus day delinquency as a percentage of UPB declined 4% to 28% and remains elevated.
+But keep in mind that we have purchased over $2.1 billion of fix and flip loans and had over $1.5 billion pay off in full.
+Due to the short-term nature of fix and flip loans with expected payoff in about six to 12 months, delinquent loans can be outstanding for longer than performing loans due to the time it takes to complete foreclosure.
+As our purchase activity was limited last year and performing loans paid off, the delinquency percentage increase as one would naturally expect as our portfolio shrank.
+As we now grow our portfolio again and continue to have positive outcomes on seriously delinquent loans, we expect those in dollar amount as well as the percentage delinquency to continue to decline going forward.
+And so far in the third quarter, we continue to see positive delinquency trends.
+Finally, the fix and flip loan reserves continued to trend down in the second quarter, declining by $2.1 million, primarily due to improved economic expectations and a strong housing market.
+Turning to Page 18.
+Our single-family rental loan portfolio continues to deliver attractive yields and strong credit performance.
+The portfolio yield has remained steady in a mid- to high 5% range post-COVID and was 5.76% in the second quarter.
+Underlying credit trends remained solid and 60-plus day delinquency declined 90 basis points to 4.9% at the end of the second quarter.
+Purchase activity increased significantly from the first quarter as we purchased $102 million of single-family rental loans in the second quarter and grew the single-family rental portfolio for the second quarter in a row.
+The pace of acquisitions has continued to accelerate into the third quarter, and we have already added approximately $100 million in the month of July.
+The acquisition of Lima One will significantly bolster our ability to source single-family rental loans.
+And we believe that we will be able to continue to grow our acquisition volume as well as our single-family rental portfolio in the near future.
+Over two-thirds of our single-family rental portfolio is financed with nonmark-to-market financing and over 15% through securitizations.
+We priced our first single-family rental securitization in the first quarter of 2021, where the weighted average coupon of bond sold was only 106 basis points.
+Going forward, we expect to programmatically execute single-family rental securitizations to finance our rental loans with the next deal expected in the fourth quarter.
+We are pleased with the results of the second quarter of 2021 and even more excited about the future at MFA.
+Our investment initiatives are picking up steam as our asset acquisitions outpace runoff for the first time since late 2019.
+We're continuing to execute our strategic plan to lower and term out borrowing costs, and we're beginning to see the results of this activity in our income statement.
+The strength of the housing industry has obvious positive implications for our mortgage credit investments.
+And our acquisition of Lima One is an important initiative that will enhance our ability to deploy future capital in the BPL sector and grow our future earnings power.

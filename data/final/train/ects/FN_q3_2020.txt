@@ -1,0 +1,90 @@
+With me on the call today are Seamus Grady, chief executive officer, and Csaba Sverha, chief financial officer.
+Before I discuss the details of our results, I would like to tell you about how we are handling COVID-19.
+We are very fortunate that COVID-19 has not impacted our ability to keep our factories running globally.
+Needless to say, we greatly appreciate the extraordinary efforts of our employees and their families, our suppliers, and of course, our customers for their continued dedication and hard work during this challenging time.
+We've taken great measures to ensure the safety of our employees and their families, and we are pleased to report that we are operating at 100% capacity and that our employees are well.
+Extreme flexibility, decisive response to the crisis, excellent leadership and teamwork, together with excellent partnerships with our customers and suppliers, helped us make immediate changes to our build schedules and operating protocols to meet the volatile demand resulting from the crisis.
+We came to know about the COVID-19 issues from Casix, our factory in China, in late January.
+The information received from our staff during the Chinese New Year was very disconcerting as the virus was reported to be similar to the SARS virus of 2003.
+We immediately implemented all of the measures taken in our China factory across all of our factories, starting the first week of February.
+We continued to enhance the measures as recommended by the CDC, the World Health Organization, local and federal governments of the regions where we operate as well as based on our own research on the subject.
+The measures include monitoring body temperatures of all people entering the factories, cutting down on visitors, banning visitors from regions heavily hit by the virus, mandatory social distancing, frequent washing of hands, wearing face masks, stopping large group meetings, providing disinfectant in all areas of the factories and special training of staff on the symptoms and precautions to be taken in the factory and at home.
+We encouraged staff to work from home where possible and mandated that all vulnerable staff work from home.
+By mid-February, we started disinfecting all material coming in to ensure it was virus free before it was issued to the manufacturing lines.
+Despite the challenges we faced, we demonstrated the flexibility inherent in our business model to produce financial results that were within our guidance range in our fiscal third quarter, with revenue of $411 million and non-GAAP net income of $0.92 per share.
+This nimbleness also enabled us to generate significant free cash flow.
+Looking at some of the details of the quarter.
+Our high-level business mix was relatively consistent with our recent history, with 75% of revenue from optical communications and 25% from non-optical communications.
+Optical communications revenue of 309 million was down 4% from the second quarter but up 3.5% from a year ago.
+Within optical communications, telecom revenue was 224 million, down 10% from the second quarter but up 3% from a year ago, reflecting some inventory adjustments associated with certain next-generation programs.
+Datacom revenue of 85 million rebounded nicely and was up 14% from the second quarter and up 5% from a year ago.
+By technology, silicon photonics-based optical communications revenue increased 5%, both from the second quarter and from a year ago, to 86 million and represented 21% of total revenue.
+Revenue from QSFP28 and QSFP56 transceivers also continued to grow and was up 7% from the second quarter and 17% from a year ago at 51 million or 12% of total revenue.
+By data rate, 100-gig programs grew 1% from the second quarter and 10% from a year ago to 161 million.
+Products rated at speeds of 400-gig and above declined 41% from the second quarter but grew 25% from a year ago to 29 million.
+Looking at our non-optical communications business.
+Revenue of 103 million was essentially flat from the second quarter and up 2% from a year ago.
+Demand for industrial lasers was also flat sequentially with revenue of 46 million.
+During the third quarter, we reclassified certain revenue from other non-optical revenue to automotive to better represent the end market being served.
+As such, automotive revenue was 31 million and other revenue was 22 million.
+Excluding the impact of this reclassification, revenue from automotive and other non-optical revenue would have been consistent with the second quarter.
+Sensor revenue was 3 million.
+As we look to and beyond the fourth quarter, it's clear that there is extraordinary uncertainty ahead.
+In light of this, I wanted to share some thoughts on how the COVID-19 crisis could impact our business going forward.
+On the one hand, with work-from-home protocols in place around the world, demand for Internet bandwidth has grown substantially.
+Clearly, the next-generation telecom and datacom products we manufacture for our customers, which make up about three-quarters of our revenue, are critical to expanding network capacity.
+This will continue to be a positive driver for Fabrinet.
+On the other hand, we could continue to see regional downward demand adjustments if outbreaks return.
+In addition, markets for other products we manufacture such as industrial lasers and automotive are likely to see reduced demand in a prolonged economic downturn.
+Our approach toward managing shifting customer demand remains unchanged.
+Our employee wellbeing remains our top priority, and that means we will continue to follow intense safety protocols at all of our facilities.
+At the same time, the availability of parts and materials we need to manufacture are likely to face variability.
+And we will continue to work closely with our customers and suppliers to identify solutions to satisfy our customers' demand.
+These supply chain constraints are the primary factor that has pressured our gross margin in the third quarter and will likely continue to do so in the foreseeable future until the COVID-19 impact settles down.
+Because of this, we now expect our gross margin to be in the range of 11.5 to 12% or slightly below our target range of 12 to 12.5% for the full year.
+And we could see this pressure continue into early fiscal 2021.
+Fortunately, our business model remains extremely resilient and agile.
+More than 90% of our costs are variable, with components and materials making up the greatest portion of our costs.
+Because of this, we are able to quickly adjust manufacturing costs to manage changing demand dynamics.
+As such, we believe we can maintain industry-leading gross margin levels despite the demand churn and material availability challenges.
+From an operating expense perspective, we continue to be a very lean organization and do not foresee meaningful expansion of operating expenses in the near future.
+From a balance sheet perspective, we remain very well capitalized with over $465 million in cash and investments and total debt of approximately $55 million.
+In addition, we continue to generate significant cash flow and anticipate maintaining that position in the upcoming quarters.
+In summary, we're in a very dynamic business environment and our within guidance performance in the third quarter is a strong reflection of our resiliency and agility.
+This ability to quickly respond to shifting markets has been a part of Fabrinet's core strategy since our inception, and its value becomes most apparent when the environment gets challenging.
+As such, we believe we are uniquely positioned to continue to thrive during and post the COVID-19 crisis.
+I will provide you with more details on our financial results for the third quarter and our guidance for the fourth quarter of fiscal year 2020.
+Total revenue in the third quarter of fiscal year 2020 was 411.2 million, within our guidance range and slightly below our record second-quarter performance as anticipated.
+Recall that in our last call, our revenue guidance incorporated an 8 million to $10 million impact from COVID-19.
+During the quarter, we have demonstrated our extreme flexibility to produce financial results that were within our guidance changes even though the actual impact on revenue from the pandemic was 12 to $15 million or 4 to $5 million more than we originally anticipated.
+Non-GAAP net income was $0.92 per share, which was at the lower end of our guidance range, even after the greater-than-expected effects on both revenue and expenses that Seamus discussed.
+Now, turning to the details of our P&L.
+Seamus described a number of extraordinary efforts we are going through during COVID-19 to remain operational while also keeping our employees safe.
+Combined with the revenue impact, gross margin was below our target range at 11.2% in the third quarter.
+Non-GAAP operating expense was $12.2 million in the third quarter, flat with Q2.
+As a result, non-GAAP operating income was 33.7 million, and non-GAAP operating margin was 8.2%.
+Taxes in the third quarter were 1 million and our normalized effective tax rate was 2.4%.
+With revenue streams coming from more advantageous tax jurisdiction, we now expect our effective tax rate to be below 5% for the full year.
+Non-GAAP net income was 34.8 million in the third quarter or $0.92 per diluted share, as I indicated earlier.
+On a GAAP basis, which includes share-based compensation expenses and amortization of debt issuance costs, net income for the third quarter was 28.3 million or $0.75 per diluted share, also within our guidance range.
+Turning to the balance sheet and cash flow statement.
+At the end of the third quarter, cash, restricted cash and investments were 465.2 million, up from 450.5 million at the end of the second quarter.
+Operating cash flow in the quarter was 51.8 million.
+And with capex of $12.1 million, free cash flow was $29.8 million in the third quarter.
+On a year-to-date basis, operating cash flow was 104.4 million and free cash flow was 77 million.
+From a capital allocation perspective, we remain committed to returning value to shareholders and have been focused on opportunistically repurchasing share in the open market as permitted.
+During the quarter, we repurchased 355,000 shares at an average price of $58.27 for a total cash outlay of 20.7 million.
+At the end of the quarter, we have 41.5 million remaining in our share repurchase program.
+We will continue to evaluate market conditions to opportunistically repurchase additional shares when possible.
+I would now like to turn to our guidance for the fourth quarter of fiscal year 2020.
+We believe that long-term growth trends are intact for the markets we serve and that the current environment in many respect highlight the importance of products we manufacture.
+That said, we are not immune from the broader factors that are impacting some of our customers, and this is reflected in our revenue guidance, which calls for a sequential decline of 6% at the midpoint.
+At the same time, the market uncertainty is greater than we have seen in some time.
+As such, we are expanding our guidance ranges to reflect this.
+For the fourth quarter, we anticipate revenue to be in the range of 370 to 400 million, including a 25 to 35 million impact from COVID-19-related uncertainties.
+We are also reflecting in our guidance an approximately 15 million impact as a result of an inventory correction from one of our customers.
+As you'd anticipate from the factors that impacted our gross margin in the third quarter, many of which will extend into upcoming quarters, we expect gross margin to be in the range of 11.5 to 12%, slightly below our target range of 12 to 12.5% for the full year of fiscal 2020.
+From an earnings perspective, we anticipate non-GAAP net income per share in the fourth quarter to be in the range of $0.80 to $0.92 and GAAP net income per share of $0.64 to $0.76, based on approximately 27.6 million of fully diluted shares outstanding.
+In conclusion, we are pleased to see our resilient business model work successfully at a volatile time.
+While we see the potential for even greater uncertainty ahead, our flexibility and agility leaves us well positioned to protect our business during this pandemic.
+We believe we can exit the crisis in an even stronger position and continue to be optimistic about our prospects to deliver shareholder value over the longer term.

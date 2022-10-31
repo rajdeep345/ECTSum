@@ -1,0 +1,100 @@
+These items will be archived, and our call will be available for replay.
+In our earnings supplement, we refer to certain non-GAAP measures.
+We believe our non-GAAP measures are more reflective of our cash operations and core business performance.
+You'll find a reconciliation to the equivalent GAAP terms in the earnings materials.
+Please see the explanatory notes on the second page of the earnings supplement for additional details regarding the definition of certain items.
+With us on the call today are Jeff Sprecher, Chairman and CEO; Warren Gardiner, Chief Financial Officer; Ben Jackson, President; and Lynn Martin, President of Fixed Income and Data Services.
+I'll begin on slide four with some of the key highlights from our third quarter results.
+Adjusted earnings per share totaled $1.30, up 34% year-over-year, marking the best third quarter in our company's history.
+Net revenues totaled a record $1.8 billion and, on a pro forma basis, increased 11% versus last year, with all three of our business segments contributing to the strong year-over-year growth.
+Total transaction revenues grew 13%, while total recurring revenues, which accounted for nearly half of our business, increased by 10%.
+Third quarter adjusted operating expenses totaled $755 million, including $35 million related to Bakkt, which, after successfully completing its merger with Victory Park, recently began trading on the NYSE.
+Adjusting for Bakkt, third quarter operating expenses would have been $720 million, in the middle of our guidance range, while operating -- or while our adjusted operating margin would have been 60%, up over 100 basis points year-over-year.
+Looking to the fourth quarter, we expect adjusted operating expenses to be between $737 million to $747 million.
+Relative to the full year outlook provided on our second quarter call, the fourth quarter is now expected to include approximately $10 million related to the Bakkt stub period and $10 million to $15 million of performance-related compensation as we expect to reward our employees for their contribution to the strong results we are once again on track to achieve in 2021.
+Record year-to-date free cash flow has totaled nearly $2 billion.
+These strong cash flows, along with the divestment of our $1.2 billion stake in Coinbase, has enabled us to reduce leverage to under 3.25 times at the end of September, nearly a full year ahead of schedule.
+As a result, we expect to resume share repurchases, including up to $250 million in this year's fourth quarter.
+We anticipate updating you on our 2022 capital return plans early next year.
+In addition, we announced in October that we have agreed to sell our stake in Euroclear for EUR709 million or approximately $820 million.
+We expect to determine the use of Euroclear proceeds as we approach closing, which we expect will be -- will occur in 2022.
+Now let's move to slide five, where I'll provide an overview of the performance of our Exchange segment.
+Third quarter net revenues totaled $959 million, an increase of 16% year-over-year.
+This strong performance was driven by a 30% increase in our interest rate business and a 38% increase in our energy revenues, including 34% increase in our oil complex, a 73% increase in European natural gas revenues and a 72% increase in revenues related to global environmental products.
+Importantly, total open interest, which we believe to be the best indicator of long-term growth, is up 18% versus the end of last year, including 11% growth in energy and 28% growth across our financial futures and options complex.
+Recurring revenues, which include our exchange data services and NYSE listings, increased 6% year-over-year, including 10% growth in our listings business.
+This acceleration in growth was driven by an increasing number of operating company IPOs choosing the NYSE, particularly in the technology and consumer sectors.
+Looking to the fourth quarter, we expect recurring revenues in our Exchange segment to be between $330 million and $335 million.
+Turning now to slide six, I'll discuss our Fixed Income and Data Services segment.
+Third quarter revenues totaled $477 million, a 6% increase versus a year ago.
+Recurring revenue growth, which accounted for nearly 90% of segment revenues, also grew 6% in the quarter.
+Within recurring revenues, our fixed income, data and analytics business increased by 5% year-over-year, including another double-digit growth in our index franchise, while other data and network services grew 9% driven by continued customer demand for additional network capacity.
+Looking to the fourth quarter, we expect that our recurring revenues will improve sequentially to a range of $415 million to $420 million and that full year revenue growth will be approximately 6%, at the high end of our guidance range.
+Let's go next to slide seven, where I will discuss our Mortgage Technology segment.
+Please note that my comments on revenue growth are on a pro forma basis.
+Despite a double-digit decline in industry origination volumes, our Mortgage Technology business grew 7% year-over-year and achieved record revenues of $366 million.
+While third quarter transaction revenues declined slightly, they were more than offset by a 33% growth in our recurring revenues, which, at $143 million, once again exceeded the high end of our guidance range and accounted for nearly 40% of total segment revenues.
+Our outperformance relative to industry trends continues to be driven by increased customer adoption of digital tools across the workflow.
+While these secular growth trends have been a clear tailwind for our recurring revenues, there is also opportunity to drive accelerating adoption across our transaction-based businesses such as our closing solutions, where revenue increased by 30% in the third quarter.
+Looking to the fourth quarter guidance, we expect that recurring revenues will once again grow sequentially and be in a range of $147 million to $152 million.
+At the midpoint, this represents growth of approximately 25% year-over-year, which is on top of 20% growth achieved in last year's third quarter.
+In summary, we once again had strong contributions from each of our businesses and across the asset classes in which we operate.
+We delivered double-digit growth in revenue, operating income and earnings per share.
+We also generated strong cash flows, reduced leverage to under 3.25 times, announced the divestment of our stake in Euroclear and successfully took back public on the NYSE.
+As we look to the end of the year into 2022, we remain focused on meeting the needs of our customers, continuing to drive growth and create value for our shareholders.
+Our strong third quarter results were driven in part by interest rate volatility, global energy supply shortages and the continued adoption of our mortgage technology even amid a decline in origination volumes.
+But more importantly, underpinning that performance are long-term, secular tailwinds that will continue to drive growth across asset classes and macroeconomic environments.
+And with data and technology at our core, we have strategically positioned the business to benefit from these tailwinds across our platform.
+In energy, the globalization of natural gas and the evolution to cleaner energy are trends that we began investing in over a decade ago.
+And today, cleaner energy sources, including global natural gas and environmentals, make up approximately 40% of our energy revenues and have grown 12% on average over the past five years.
+With the rise of LNG, natural gas markets are becoming more global in nature.
+In our European gas benchmark, TTF is emerging as the global gas benchmark.
+Revenues in our TTF markets have grown 38% on average over the last five years, including 84% growth in the third quarter.
+The supply shortages and price volatility that we saw in the third quarter are a peek into the future of what the energy transition could look like.
+Energy consumption is expected to double over the next 30 years, yet carbon emissions are expected to be reduced by half.
+This imbalance in supply and demand will introduce additional complexity and volatility to energy markets, which will drive greater demand for our risk management.
+Our global environmental markets, alongside our global oil, gas and power markets, provide the critical price transparency across the energy spectrum that will enable participants to navigate this evolution.
+Complementary addition to the risk management that our technology provides is our growing suite of associated data products.
+Leveraging our leading environmental markets, we built a suite of carbon indices which allow global investors to access market-based carbon prices through a single investment instrument.
+And today, there are a growing number of ETFs benchmarking to our carbon indices and environmental markets.
+Turning now to fixed income.
+The electronification of fixed income is a data-driven trend.
+We recognized this in 2015 when we acquired IDC and continue to invest and innovate in data and technology to further enable this trend.
+Our leading evaluated prices provide critical price transparency for nearly three million securities daily.
+By combining our proprietary pricing data with our comprehensive reference data, we've built innovative tools and analytics that will facilitate the continued electronification and automation of the fixed income markets.
+Solutions like our continuous evaluated pricing, best execution and liquidity indicators, for example, provide pre-trade transparency needed to determine fair value.
+We also see the electronification of fixed income within the ETF ecosystem.
+Our quality pricing and reference data, combined with four years of history, serves as the foundation of our growing index business.
+We not only offer benchmark indices but also calculation services, analytics and unique solutions like our custom indices.
+By servicing the entire ETF ecosystem through data and technology, we've been able to grow our index business double digits for the past four years.
+And finally, turning to our mortgage business.
+In the third quarter, we were once again able to grow our revenues even with industry volumes down double digits.
+This continued outperformance is a result of executing against our strategy of leveraging our mission-critical technology and data expertise to accelerate the analog-to-digital conversion happening in the industry.
+Part of that strategy is intentionally shifting more business to recurring revenue, particularly within our origination technology and data and analytics business.
+While we only recently began this transition, we've already seen strong client adoption.
+Another opportunity that we're executing on today is in our closing solutions.
+The demand for automation in the closing of a real estate transaction is increasing.
+We see this evidenced by the continued onboarding of new customers to our electronic closing room and hybrid solution that we launched in the second quarter.
+This month, we further advanced the automation of our eClose solution, which can save lenders hundreds of dollars per loan by leveraging additional technology and automation by adding eNote and eVault.
+Our comprehensive offering and the efficiencies that it delivers positions us well to execute on what we believe to be a $1 billion opportunity.
+Within data and analytics, our AIQ solution leverages AI, machine learning and proprietary data from our origination platform to automate the steps in the loan manufacturing process.
+This automation could save lenders thousands of dollars per loan by reducing manufacturing time and complexity.
+Today, only a fraction of Mortgage Technology customers take our AIQ solution, and we continue to have strong sales success cross-selling to existing customers even if they're not on our loan origination system, including one of the largest depositories in the U.S. And while still an early opportunity at under $100 million in revenue today, the efficiencies that our data analytics provide position us well to continue executing against what we think is a $4 billion opportunity.
+Flywheel effect that our leading technology and data provides, combined with the cross-sell that our broad connectivity offers, generates an array of opportunities for us to grow a business that at $1.4 billion today is only a fraction of the $10 billion opportunity.
+The third quarter extends our track record of growth.
+We once again grew revenues, grew adjusted operating income and grew adjusted earnings per share with strong growth from all business segments, across asset classes and amid a dynamic macro environment.
+These results are a testament to the strength of our business model, positioning the company at the center of some of the largest markets undergoing an analog-to-digital conversion and which together make ICE an all-weather name that generates growth on top of growth.
+The diversity of our platform positions us to benefit not only from near-term cyclical events but also longer-term, secular growth trends.
+We've expanded into new asset classes, grown our addressable markets and broadened our expertise, making our network significant and providing the opportunity to unlock additional growth by collaborating across businesses.
+We recently announced another new product from the collaboration between ICE Data Services and ICE Mortgage Technology called the ICE rate lock indices.
+Leveraging anonymized and aggregated data from ICE Mortgage Technology's leading origination platform, this suite of indices provides a more comprehensive, accurate and timely reflection of residential mortgage rates.
+Building on this innovation, like we've done in other asset classes, these indices provide an opportunity to create additional products like rich analytics and better pricing tools for lenders.
+The opportunity to turn raw, unstructured data into actionable insights abounds across our business.
+By taking alternative datasets and marrying them with our proprietary data, we've built solutions that offer unique insights into the market.
+Our climate analytics, for example, leverage our strength in the fixed income market with third-party geospatial data to help market participants better manage climate risk as a part of their overall investing and risk management processes.
+As ESG is increasingly becoming a component of investment portfolios, our technology and data expertise positions us well to deliver solutions that meet these evolving customer needs.
+We have strategically assembled a portfolio to drive growth across asset classes and macro environments.
+And part of this strategy is capturing value by thoughtfully repositioning businesses.
+This year alone, we harvested our gain in Coinbase, announced an agreement to do the same with our stake in Euroclear and unlocked Bakkt via our New York Stock Exchange listing.
+These transactions expose billions of dollars in value creation and position us well to return capital to shareholders while continuing to invest for our future growth.
+It's collaborative efforts, innovative solutions and strategic capital allocation like this that have driven our growth for the past 20 years and which lay the foundation for continued growth well into the future.

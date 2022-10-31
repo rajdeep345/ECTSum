@@ -1,0 +1,98 @@
+There are many factors that may cause future results to differ materially from these statements, which are discussed in our most recent 10-K and 10-Q filed with the SEC.
+Our first quarter results put us on track to achieve our 2021 guidance and 7% to 9% average annual growth through 2025.
+Gustavo will provide more color on our financial results later in the call.
+As we spoke about on our Investor Day in early March, we see a great opportunity for growth given the momentous changes in our sector, and we are very well positioned to capitalize on the shift to low-carbon sources of energy.
+Over the past five years, we have transformed our company to be a leader in renewables, and we have invested in innovative technologies that will give us a competitive advantage for many years to come.
+Although it has been less than two months since our Investor Day, we had a number of significant achievements to announce, including a landmark deal with Google, which I will describe in more detail later, a strategic collaboration to develop new battery technologies between Fluence and Northvolt, the leading European supplier of sustainable battery systems, and a significant increase in LNG sales in Central America and the Caribbean to support those economies in their transition away from heavy fuels.
+First, let me lay out our strategic priorities for 2021 and the substantial progress that we have made year-to-date toward achieving those objectives.
+Turning to Slide four.
+Our five key goals for the year are: one, signed contracts for four gigawatts of renewables.
+Two, launched the first 24/7 product for carbon-free energy on an hourly basis; three, further unlock the value of our technology platforms; four, continue to improve our ESG positioning through the transformation of our portfolio; and five, monetize excess LNG capacity in Central America and Caribbean.
+Turning to Slide five.
+Last year, we set and exceeded a goal of signing two to three gigawatts of PPAs for renewables and energy storage.
+This year, we are increasing that goal by 60% to a target of four gigawatts.
+Today, I am pleased to report that year-to-date, we've already signed 1.1 gigawatts including a landmark deal with Google.
+As you can see on Slide six, we have a backlog of 6.9 gigawatts of renewables, consisting of projects already under construction or under signed power purchase agreements, or PPAs.
+This equates to 20% growth in our total installed capacity and a 60% increase in our renewables capacity.
+Turning to Slide seven.
+We continue to increase our pipeline of projects to support our growth and now have a global pipeline of more than 30 gigawatts of renewable projects, roughly half of which is in the United States.
+With increasing demand from corporate customers and a much more favorable policy environment, we expect the need for renewables to grow dramatically, and we're taking steps to ensure a continued competitive advantage.
+Moving to Slide eight.
+Our second key goal for this year is to launch the first 24/7 energy product that matches a customer's load with carbon-free energy on an hourly basis.
+To that end, earlier this week, we announced a landmark, first of its kind agreement to supply Google's Virginia-based data centers with 24/7 carbon-free energy sourced from a portfolio of 500 megawatts of renewables.
+Under this innovative structure, AES will become the sole supplier of the data center's energy needs, ensuring that the energy supplied will meet carbon-free targets when measured on an hourly basis for the next 10 years.
+The carbon-free energy will come from an optimized portfolio of wind, solar, hydro and battery storage resources.
+This agreement sets a new standard in carbon-free energy for commercial and industrial customers who signed 23 gigawatts of PPAs in 2020.
+As we discussed at our Investor Day, the almost 300 companies that make up the RE100 will need more than 100 gigawatts of new renewables by 2030.
+This transaction with Google demonstrates that a higher sustainability standard is possible, and we expect a substantial portion of customers to pursue 24/7 carbon-free objectives.
+Based on our leadership position, we are well placed to serve this growing market.
+And in fact, we've already seen significant interest from a number of large clients.
+Turning to Slide nine.
+Our third key goal is to further unlock the value of our technology platforms.
+One of these platforms is Uplight, an energy efficiency software company that works directly with the utility and has access to more than 100 million households and businesses in the U.S. Uplight is at the forefront of the shift to low-carbon and digital solutions on the cloud.
+In March, we announced a capital raise with a consortium led by Schneider Electric, valuing Uplight at $1.5 billion.
+Now to Slide 10.
+We're seeing increasing value in many of our other technology platforms as well.
+Fluence, our joint venture with Siemens, remains a global leader in energy storage, which is a key component of the energy transition.
+This dynamic industry is expected to grow 40% annually, and Fluence is well positioned to capitalize on this immense opportunity through its distinctive competitive advantages, including its AI-enabled bidding engine.
+Turning to Slide 11.
+As you may have seen, last month Fluence announced a multiyear agreement with Northvolt, the leading European battery developer and manufacturer, for assured supply and to co-develop next-generation battery technology.
+This is an example of Fluence's continued innovation, which has been validated by their consistent rank as the number one utility-scale energy storage technology company according to Guidehouse insights.
+Similarly, we see the rapid progress of our prefab solar solution, 5B, as you can see on Slide 12.
+This technology doubled the energy density and cuts construction time by 2/3.
+We now have 5B projects in Australia, Panama and Chile.
+We will be including 5B technology in our bids in Puerto Rico, where it's proven resilience to category four hurricane winds will provide greater energy security, proving out the unique value proposition of 5B could significantly speed up the adoption of solar in cyclone prone areas.
+Lastly, we continue to work toward the approval of the first large-scale green hydrogen based ammonia plant in the Western Hemisphere, in Chile.
+Moving to Slide 13.
+We have undergone one of the most dramatic transformations in our sector.
+Over the past five years, we have announced the retirement or sale of 10.7 gigawatts of coal, or 70% of our coal capacity, one of the largest reductions in our spectrum.
+We recognize that we have more work to do and have set a goal of reducing our generation from coal to less than 10% of total generation by 2025.
+Furthermore, we expect to achieve net-zero emissions from electricity by 2040, one of the most ambitious goals of any power company.
+As we achieve these decarbonization targets and continuing our near-term growth in renewables, we anticipate being included in additional ESG-oriented indices.
+Finally, turning to Slide 14.
+We see natural gas as the transition fuel that can lower emissions and reduce overall energy costs as markets work toward a future with more renewable power.
+Last month, we reached an agreement to provide terminal services for an additional 34 tera BTUs of LNG throughput under a 20-year take-or-pay contract.
+This will bring our total contracted terminal capacity in Panama and the Dominican Republic to almost 80%.
+There are 45 tera BTUs of available capacity remaining, which we expect to sign in the next couple of years.
+Our LNG business is focused on providing environmentally responsible LNG or green LNG as soon as feasible, which ensures the lowest levels of emissions throughout the entire supply chain.
+As Andres mentioned, we are off to a good start this year, having already achieved significant milestones toward the strategic and financial objectives that we discussed on our Investor Day.
+We are also encouraged by the continued economic recovery across our markets, with Q1 demand in line with pre-COVID levels.
+Turning to our financial results for the quarter.
+As you can see on Slide 16, adjusted pre-tax contribution, or PTC, was $247 million for the quarter, which was very much in line with our expectations and similar to last year's performance.
+I'll discuss the key drivers of our first quarter results and outlook for the year in the following slides.
+Turning to Slide 17.
+Adjusted earnings per share for the quarter was $0.28 versus $0.29 last year.
+With adjusted PTC essentially flat, the $0.01 decrease in adjusted earnings per share was the result of a slightly higher effective tax rate this quarter.
+In the U.S., in utilities, strategic business unit, or SBU, PTC was down $27 million, driven primarily by a lower contribution from our legacy units at Southland and higher spend in our clean energy business as we accelerate our development pipeline given the growing market opportunities.
+These impacts were partially offset by the benefit from the commencement of PPAs at the Southland Energy combined cycle gas turbines, or CCGTS.
+At our South America SBU, PTC was down $31 million, mostly driven by lower contributions from AES and is formerly known as AES Gener, due to higher interest expense and lower equity earnings from the Guacolda plant in Chile.
+These impacts were partially offset by higher generation at the Chivor hydro plant in Colombia.
+Lower PTC at our Mexico, Central America and the Caribbean, or MCAC SBU, primarily reflects outages at two facilities in Dominica Republic and Mexico, with both already back online since April.
+Results also reflect the expiration of the 72-megawatt barge PPA in Panama.
+Finally, in Eurasia, higher PTC reflects improved operational performance and lower interest expense in our Bulgaria businesses.
+Now to Slide 22.
+With our first quarter results, we are on track to achieve our full year 2021 adjusted earnings per share guidance range of $1.50 to $1.58.
+Our expected 2021 quarterly earnings profile is consistent with the average of the last five years.
+Our typical quarterly earnings is more back-end weighted with roughly 40% of the earnings occurring in the first half of the year and the remaining in the second half.
+Growth in the year to go will be primarily driven by contributions from new businesses, including a full year of operations of the Southland repowering project, 2.3 gigawatts of projects in our backlog coming online during the next nine months, reduced interest expense, the benefit from cost savings and demand normalization to pre-COVID levels.
+We are also reaffirming our expected 7% to 9% average annual growth target through 2025.
+Now turning to our credit profile on Slide 23.
+As discussed at our Investor Day, strong credit metrics remain one of our top priorities.
+In the last four years, we attained two to three notches of upgrades from the three credit rating agencies, including investment-grade ratings from Fitch and S&P.
+These actions validate the strength of our business model and our commitment to improving our credit metrics.
+We expect the positive momentum in these metrics to continue, enabling us to achieve BBB flat credit metrics by 2025.
+Now to our 2021 parent capital allocation plan on Slide 24.
+Consistent with the discussion at our Investor Day, sources reflect approximately $2 billion of total discretionary cash, including $800 million of parent free cash flow and $100 million of proceeds from the sale of Itabo in the Dominican Republic, which just closed in April.
+Sources also include the successful issuance of the $1 billion of equity units in March, eliminating the need for any additional equity raise to fund our current growth plan through 2025.
+Now to uses on the right-hand side.
+We'll be returning $450 million to shareholders this year.
+This consists of our common share dividend, including the 5% increase we announced in December and the coupon of the equity units.
+And we plan to invest approximately $1.4 billion to $1.5 billion in our subsidiaries as we capitalize on attractive growth opportunities.
+Approximately 60% of the investments are in global renewals, reflecting our success in renewables origination during 2020 and our expectations for 2021.
+About 25% of these investments are in our U.S. utilities to fund rate base growth with a continued focus on grid and fleet modernization.
+In the first quarter, we invested approximately $450 million in renewables, which is roughly 1/3 of our expected investment for the year.
+In summary, 85% of our investments are going to the U.S. utilities and global renewables, helping us to achieve our goal of increasing the proportion of earnings from the U.S. to more than half and from carbon-free businesses to about 2/3 by 2025.
+The remaining 15% of our investment will go toward green LNG and other innovative opportunities that support and accelerate the energy transition.
+As I have noted, we have made great progress on our 2021 and long-term strategic goals, and we are reaffirming our 2021 guidance and expectations through 2025.
+We see a tremendous opportunity for growth, and further increasing our technological leadership as the industry transition unfolds.
+From advancing our renewables to unlocking the value of our new technology businesses, we have a competitive advantage that will continue to benefit our customers and investors.

@@ -1,0 +1,185 @@
+Today, we will discuss the financial performance of KAR Global for the quarter ended December 31st 2020.
+Let me also mention that throughout this conference call, we will be referencing both GAAP and non-GAAP financial measures.
+Today, I plan to cover three topics, I want to review 2020, provide you with an update on the integration of TradeRev and BacklotCars and review our guidance for 2021.
+Let me start with acknowledging the challenges that we faced in the most unusual year.
+Obviously, COVID-19 impacted all businesses in 2020, including KAR.
+We remain committed to providing the safest possible working environment for our employees and our customers.
+With the challenges COVID-19 created in our workforce, we also saw challenges that directly impacted our marketplaces for wholesale used cars.
+We continue to operate our auctions on our digital platforms, Simulcast, Simulcast+, OPENLANE, TradeRev and DealerBlock, but demand was very low in April as uncertainty was prevalent throughout the automotive ecosystem.
+We continue to offer vehicles only through our digital marketplaces from mid-March through the remainder of 2020.
+A key challenge that we faced in the second quarter was the need to accelerate the development of our digital marketplaces.
+This increased level of online bidding began literally over a two-week period and our technology teams had to make sure our systems were always available and there were no service disruptions caused by the increased use of our networks.
+I'm extremely proud of the collective effort of all KAR employees to make this happen.
+In the past, many investors have asked me what keeps me awake at night, and technology and digital disruption have always been at the top of the list.
+Well, while the challenges of 2020 took technology and digital disruption to a new level, we responded quickly, and today we have the best collection of digital assets in the entire industry.
+We were able to accelerate the transition of our legacy physical auction business to a digital operating model in the matter of weeks instead of the three years to five years that we anticipated at the beginning of 2020.
+Another challenge that we faced in 2020 was handling our workforce.
+In late March, we closed all of our auctions and sent our employees home with pay to evaluate the impact of COVID-19 was having on the safety of our employees and our customers.
+We furloughed 11,000 of our 15,000 employees globally.
+In April, our weekly revenue had fallen to as low as 10% of the prior year revenue, the low point for KAR Global performance.
+By May, we began to see some recovery in demand.
+Our supply at the time was strong as inventory had been building up at our sites.
+It became obvious that our business process had changed and many of these changes were going to be permanent.
+We leaned heavily into technology for our auctions and supporting our back-office functions.
+Changes in the business operations and especially, all of our support functions led us to permanently eliminate 5,000 positions, reducing our annual payroll costs by over $150 million.
+By fall, we had our headcount and cost structure aligned with the business and our digital auction process.
+We saw the impact of the permanent changes in our cost structure in our third quarter results and expect this to contribute to an improved financial performance going forward.
+And then we saw a resurgence of COVID-19 with the impacts that went beyond what we had experienced in the spring.
+We saw the supply of used vehicles tighten and our inventory levels continue to decline as retail demand remains strong, resulting in strong conversion rates and high wholesale prices.
+Lower transaction volumes led to reduce performance in the fourth quarter despite all the reductions that we'd made to our cost structure.
+In any organization, people are the most valuable asset.
+In this environment, the strain and the uncertainty, our people are feeling is the most challenging aspect of running the business today, and it looks like it will be a while longer before we see relief from the strain of COVID-19.
+Now, let me share some of our accomplishments in 2020.
+First, we have successfully migrated all of our auction platforms to digital marketplaces.
+This has been a strategic direction for KAR for over two years, and we were able to accelerate the pace of change during 2020.
+We are committed to operating a digital marketplace business supported by services and logistics capabilities that make the wholesale process easy and efficient.
+Our collection of digital assets that we have strategically focused on building and acquiring over the last five years put us in the unique position to move forward with a digital business model.
+It is true that many of our competitors are running cars through the lane despite the increased COVID numbers over the past several months.
+But we have not returned to the old way of doing business and don't believe there is any evidence that running cars across the block improves the financial outcomes for our customers.
+We are committed to providing our auction services digitally going forward.
+In 2020, we introduced Simulcast+ to the marketplace.
+Simulcast+ is a fully automated auction that can easily sell cars from multiple locations using technology instead of people to manage and run the auction event.
+Simulcast+ has proven to expand the geography represented by buyers and this improves liquidity for the sellers.
+We are also not tied to a sale day event when using Simulcast+.
+We can operate Simulcast+ any day of the week from one or multiple locations.
+These can be ADESA or customer locations.
+And the Simulcast+ platform gives us additional digital capabilities that allow our sellers to manage the auction event in real time without leaving their office.
+We have provided a number of demos to investors this year.
+And if you have seen one of those virtual tours, you saw that we have a significant amount of information available to both buyers and sellers that lead to strong pricing and conversion on the Simulcast+ platforms.
+We see a number of benefits for both buyers and sellers.
+We've seen increased liquidity.
+We're able to reach a greater number of buyers that are interested in the car being offered.
+We've seen lower costs to execute the transactions for all involved, and it is easier to integrate data and analytics in the process, excuse me, that is available to all parties.
+Better information leads to better price attainment on the vehicle and realistic expectations by the sellers as to what is the current value of the vehicle.
+Another success in 2020 was the improved growth and profitability for our TradeRev platform.
+Our combination of dealer consignment sales teams of ADESA and TradeRev has been a success.
+We reduced the use of incentives and focused on service levels.
+We simplified our auction process in order to provide a better experience for our customers.
+We generated positive earnings for several months in 2020 and have proven this business model can be profitable growth going forward.
+And we acquired BacklotCars in order to accelerate our growth in the dealer-to-dealer segment in the U.S. market.
+And finally, let me talk about the permanent reductions in our cost structure.
+First, the changes we made in moving to a digital business model allowed us to make permanent reductions in our labor costs, both direct labor and SG&A.
+Our SG&A was down year-over-year in Q4 by $25 million.
+This decrease was achieved despite adding $5 million of SG&A in the fourth quarter related to BacklotCars.
+Even though our costs, we're able to -- even though we were able to reduce our costs, our fourth quarter performance fell below our expectations as we saw the supply of wholesale vehicles decline throughout the entire industry.
+Our volumes in Q4 reflect the slowing of the economy in response to the increased COVID cases.
+I do not believe the lower volumes reflect the seasonal impacts or the permanent disruption of our marketplaces.
+I believe the factors that negatively impacted our supply in Q4 are transitory.
+Now, let me give you a real-time update on TradeRev and BacklotCars.
+First, we are migrating all U.S. dealer-to-dealer transactions that previously took place on TradeRev to the BacklotCars platform.
+We ran a pilot migration in three U.S. markets in January to refine our migration playbook.
+We were pleased with the results of the migration and the acceptance of BacklotCars platform by our TradeRev customers in these markets.
+Beginning February 1st, we initiated the migration of all U.S. TradeRev customers to the BacklotCars platform.
+We expect the migration activities to be completed in March.
+By moving our U.S. customers from the TradeRev application to the BacklotCars, we will be moving from a timed auction format to a 24/7 bid-ask marketplace.
+Our analysis of the performance on the two platforms supported this move.
+We believe running a single dealer-to-dealer digital marketplace will maximize liquidity.
+Utilizing the inspection process developed by BacklotCars should lower our inspection cost per vehicle and provide greater consistency in the inspection reports for cars sold on BacklotCars platform.
+And most important, we believe the price realization on the BacklotCars platform in the U.S. outperforms the competition in the U.S. market.
+The early results on the migration activities has been very positive.
+Initially, there was a small reduction in volumes as former TradeRev customers began using BacklotCars platform.
+The learning curve for our customers seems to be about five days to seven days and in the second week, we began seeing our combined volumes increase in the markets that we are in the first wave of migrations.
+We believe the BacklotCars is the fastest growing dealer-to-dealer platform in the U.S. market.
+Our goal is simple.
+We want BacklotCars to be the number one digital dealer-to-dealer marketplace in the U.S. Just to be clear, we will continue to operate TradeRev in Canada.
+To sum it all up, after 90 days of owning BacklotCars, we are pleased with the performance and the fit with KAR.
+We have focused -- we have a focused and energetic team leading our efforts to be the leader in the digital dealer-to-dealer transactions in the U.S.
+Our customers have been receptive to change in the early days of integration activities and bringing the strength of the KAR organization to the outstanding team at BacklotCars is a winning combination that should accelerate the already fantastic pace of growth in the digital dealer-to-dealer space.
+The last agenda on my -- the last item on my agenda and an important topic for today is an update on our outlook for 2021.
+We are reinstating annual guidance for 2021.
+While we continue to be in the middle of the COVID crisis in all of our markets, we believe we are better positioned to analyze the impacts on our business and assess the likely outcomes on various scenarios.
+We are not providing a range, but we are providing the minimum level of performance we expect this year.
+We still have significant uncertainty around the economy, employment, levels of new car production, the timing of repossession activities and many other factors that are still a ways from returning to normal.
+Obviously, our guidance indicates we expect to continue to be below pre-COVID level of transactions and this is representative of our industry outlook.
+I would like to provide some insight without specific numbers into how we see 2021 coming together.
+First, we expect lower supply of wholesale used vehicles to persist through the first half of the year.
+As a result, our outlook for the first and second quarter is conservative.
+We do not believe the second half of 2021 will improve upon the first half of 2021 and the second half of 2020.
+We have seen good progress in providing vaccinations in the first months of 2021 and expect continued progress on this front in all of the geographic markets we serve.
+We also see stimulus in the U.S., Canada, and European -- and Europe as a positive for our customers in the used car retail market if passed by legislators.
+We also believe that our financial performance may exceed 2019 levels before we achieve 2019 volume levels given the improvements that we have made in our cost structure.
+Let me speak to the parts of the market that we believe will drive a return to normal.
+First, our digital dealer-to-dealer platforms, BacklotCars in the U.S. and TradeRev in Canada are expected to grow substantially over 2020 levels.
+We expect to continue -- to continue gaining market share in this channel throughout the year.
+We are committed to expanding the use of Simulcast+ in 2021.
+We are targeting an increased number of events using this technology platform.
+There is tremendous value to using the Simulcast+ platform for multi-location sales events, targeted marketing for similar vehicles that allow us to create events that have high buyer interest and expand the geographic reach of the typical physical auction.
+And our growth internationally, especially at ADESA Europe, formerly, CarsOnTheWeb is very strong and we expect this to continue throughout all of 2021.
+We have not given a range of guidance, it is difficult to set an upper end of the range with the uncertainty on when operations will return to normal levels.
+We still have more questions and answers on what our markets will look like, especially in the first half of the year.
+But we have had -- have an opportunity to outperform above the adjusted EBITDA and operating adjusted net income per share provided in our guidance once volumes start improving.
+As a team, we will focus on controlling our costs, increasing our market share, we expect our market share to be driven primarily by digital dealer-to-dealer platforms, BacklotCars and TradeRev, and we will be disciplined around capital deployment.
+We think our balance sheet, excuse me, is an asset in the current economic environment.
+And as we look to deploy capital, we expect uses of capital to have a strong connection to our strategic priorities around the digital transformation of the wholesale used car industry.
+We are a digital marketplace business that utilizes data and analytics and value-added services through a network of locations throughout North America.
+We are leading the digital transformation of our industry.
+We have reduced our cost structure permanently and we expect increased profitability going forward.
+We have combined two leading digital dealer-to-dealer wholesale auction platforms and have the goal of being the leading provider in this segment of the market in the United States and Canada.
+And finally, we believe our balance sheet is well positioned to support the growth of our business.
+We will deploy capital going forward on the initiatives that support our strategy.
+And before I get into my remarks, I'd like to correct the statement Jim made during the call.
+He said that we do not believe the second half of 2021 will improve upon the first half, he misspoke, it is, we do believe the second half of 2021 will improve upon the first half of 2021 and the second half of 2020.
+So now I'll get into my remarks.
+Let me start with an overview of our financial performance in 2020.
+To say the least, it was a challenging year and our results quarter-to-quarter were like riding a roller coaster.
+We experienced both ups and downs in performance this year.
+In review, we started the first quarter strong and performed very well until the middle of March.
+Uncertainties created by COVID-19 caused us to shut down our operations for the last two weeks of March.
+We lost approximately $35 million in those two weeks as revenue was minimal and all employees were paid for two weeks despite all locations being closed.
+We lost money in the month of April.
+We had negative adjusted EBITDA of approximately $25 million for the month.
+We then saw a relatively fast rebound during May as weekly volumes rebounded to over 90% of the prior year, followed by June, where volumes and our financial performance exceeded the prior year.
+Volumes and financial performance remained strong in July, as we saw strong used car demand, low new car inventories, used car values were increasing and we were selling inventory that had been on our properties through the pandemic.
+While volume started to decline in August, we finished the third quarter with volumes over 90% of 2019 levels for the quarter and adjusted EBITDA that was 8% above 2019 levels.
+We had gross profit of over 50% of net revenue and adjusted EBITDA margin that was 23.5% of total revenue.
+We feel this performance demonstrates the performance characteristics of our business model going forward when volumes are at or near 2019 levels.
+Unfortunately, the fourth quarter saw volumes dropped to 75% of the prior year, excluding acquisitions.
+And our financial performance deteriorated due to the low revenue levels.
+Gross profit declined to 40% -- 46% of net revenue.
+Even though we have improved our cost structure and reduced direct labor, there is a fixed component to our direct cost and the volume levels experienced in the fourth quarter did not generate sufficient revenue to maintain our gross margins.
+In terms of SG&A, we're able to control cost and hold the SG&A below the prior year by $25 million.
+This was accomplished despite recording approximately $16 million in incentive pay in the fourth quarter compared to $7 million in the prior year.
+This increase in incentive pay reflects the proposal by management to adjust the threshold for payment to 50% from approximately 95% of target for 2020.
+We felt the sacrifices and contributions of our employees should be recognized with the opportunity for a performance-based incentive payout.
+The threshold set at the beginning of the year did not reflect the challenges we faced in 2020.
+The Compensation Committee of the Board of Directors approved the adjustments of threshold.
+The total payout for employees with annual incentive programs was approximately 70% of target for the year.
+We also recorded an adjustment to contingent purchase price related to the acquisitions of CarsOnTheWeb and Dent-ology, that was a net increase in expense of $4.7 million.
+This represents an increase in the expected contingent purchase consideration for CarsOnTheWeb as performance has exceeded the expectations set at the time of the transaction, offset by a reduction in contingent purchase consideration related to Dent-ology, where payments are expected to be less than estimated at the time of the acquisition.
+Our effective tax rates for the fourth quarter and full-year were unusual in 2020.
+The contingent purchase consideration and the write-off of goodwill totaling $25.5 million for our U.K. operations that we recorded earlier in the year are not tax deductible and increased our effective tax rate.
+As we look forward, we expect our effective tax rate to be approximately 30%, unless, the U.S. federal income tax rate is increased from current levels.
+I know the big question in everyone's mind is what does KAR's performance look like post-pandemic?
+We believe our performance in June and through the third quarter gave us insight on what we can do going forward.
+We believe when volumes get back to 90% or more of 2019 levels, our business can generate gross profit of approximately 50% of net revenue with adjusted EBITDA margins in the mid 20% range.
+Our focus on operating a digital marketplace business and maintaining processes that leverage technology for a more efficient cost structure will allow us to perform at this level.
+Now we need the markets to get back to what we would call normal, so we can prove to you the changes we have made will generate these results.
+We are providing auction fees, service revenue, purchased vehicle revenue and finance-related revenue.
+This will give a clear picture of the major components of revenue in our businesses.
+In terms of key metrics provided in MD&A, we're now disclosing volumes for on-premise and off-premise vehicles sold.
+We are reporting auction fee per vehicle sold as a key performance metric.
+We will no longer be utilizing physical revenue per vehicle sold as a key metric.
+While the number is easy to calculate, a significant portion of services revenue is generated from off-premise activity and not related to the on-premise vehicles sold.
+We are also computing the gross profit dollars per vehicle sold and including that in MD&A.
+This is a key indicator of performance and trends in this metric will be important going forward as volumes increase.
+This metric will capture both the impact of auction revenue and services revenue on our performance.
+We have also simplified our segment reporting to be consistent with the simplification of the KAR businesses post spin of Insurance Auto Auctions.
+All holding company costs are reflected in the ADESA business segment other than costs specifically related to AFC.
+This simplified segment reporting better reflects the KAR organization structure and how the businesses are being managed.
+We want to maintain a cost structure that reflects the revenue and performance of the business.
+Aligning our costs directly with the reportable segments simplifies our reporting and matches the cost structure of KAR with the revenue produced by our businesses.
+Let me close with some comments on guidance.
+However, one item that creates confusion is the computation of weighted average diluted shares.
+Generally Accepted Accounting Principles require us to compute per share numbers using either the two-class method or the if-converted method when determining the impact of the Series A convertible preferred stock.
+For clarity, we use both calculations and for GAAP, are required to use the number that produces the lower earnings per share.
+For GAAP purposes, we reduced net income by the preferred dividend and exclude the preferred shares from the calculation of fully diluted shares outstanding when we used the two-class method.
+In computing operated adjusted net income per share, we are utilizing the if-converted method.
+In this method, we do not adjust for the preferred dividend, but do include the conversion of the preferred shares into common shares in the calculation.
+To the extent, preferred dividends are paid in kind, we include the accrued dividends in the conversion calculation.
+In summary, the only difference between the two weighted average diluted shares numbers is the conversion of the convertible preferred stock to common shares using the conversion price of $17.75 per share.
+We did buy back $10.2 million of common stock in the fourth quarter at an average price of $17.50 per share.
+We acquired the shares in the open market within the parameters we established during our open window during the quarter.
+One last item that I will provide in the call, because it will be included in the 10-K that will be filed later today or tomorrow, is our expectation for capital expenditures for 2021.
+We expect capital expenditures to be approximately $125 million, an increase from actual capital expenditures of $101 million in 2020.
+The increase in capital expenditures expected in 2021 reflects continued investment in technology to support our strategy around digital transformation, as well as a return to normal capital spending to support our physical locations.
+Our 2020 capital expenditures were reduced from our expected levels for 2020 to conserve capital as our business was adversely impacted by the pandemic.

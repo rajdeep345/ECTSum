@@ -1,0 +1,209 @@
+I'm pleased that you're joining us for DXC Technology's third quarter 2022 earnings call.
+Our speakers on the call today will be Mike Salvino, our president and CEO; and Ken Sharp, our EVP and CFO.
+In accordance with SEC rules, we provide a reconciliation of these measures to their respective and most directly comparable GAAP measures.
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+And I hope you and your families are doing well.
+Today's agenda will begin with an update on Q3, which was another strong quarter of operational execution for DXC.
+Next, I will cover how we are consistently delivering on our transformation journey.
+As a result of this execution, organic revenue, margin, and earnings per share all continue to improve.
+In addition, you will see the outstanding results for book-to-bill and free cash flow.
+The best part about this performance is we expect it to be sustainable.
+And then I will hand the call over to Ken to share our Q3 results along with our Q4 and full year guidance.
+Regarding our Q3 performance, our revenues were $4.09 billion compared to $4.03 billion in Q2.
+Organic revenue continued to improve as we progressed from minus 2.4% in Q2 to minus 1.4% in Q3.
+I see this as a significant improvement as only a year ago, our organic revenues were minus 9.7%.
+I was also very pleased to see the organic revenue growth in GBS accelerate, from positive 3.4% in Q2, to positive 7% in Q3.
+Our strategy to grow DXC relies on GBS consistently growing, and we are clearly delivering against this piece of our growth strategy.
+Our adjusted EBIT margin was 8.7%, up 170 basis points as compared to last year driven by our operational work that we are doing to optimize our business.
+Our non-GAAP diluted earnings per share was $0.92 in the quarter, which is up 10% as compared to $0.84 last year.
+While the quarter was strong across the board, the 2 strongest financial results were book-to-bill and free cash flow generation.
+We delivered $5 billion in bookings for a book-to-bill of 1.23 times.
+This gets us to a book-to-bill of 1.08 times on a trailing 12-month basis.
+And in Q3, we delivered $550 million in free cash flow.
+Now let me turn to the progress we are making on our transformation journey.
+The first step of the journey is to inspire and take care of our colleagues.
+Hiring was a major focus of ours.
+And we ramped up our hiring engine to meet the high level of demand and to activate more project work.
+In the quarter, we increased our headcount by 3% and increased project work by 13%.
+We continue to see our people-first strategy and our virtual-first model is resonating in the market and helping us in our recruiting efforts.
+We recently hired Kristie Grinnell as our new CIO.
+And she specifically called out our virtual-first model as one of the key items that drew her to DXC.
+In addition, I am pleased with how we continue to deliver for our people through the COVID pandemic.
+It is due to all these points that our attrition at DXC has stabilized and it remains below industry average.
+Focus on the customer is the next step of our transformation journey and continues to be the primary driver of our success in improving organic revenue.
+A key metric that we measure is our Net Promoter Score, and I'm happy to report that we continue to see improvement.
+Currently, our 12-month rolling NPS score is at the upper end of the industry best practice range of 20 to 30.
+Another piece of our growth strategy is to run our customers' mission-critical systems, which mainly make up our GIS business, and ultimately have these customers award us new work.
+Running these mission-critical systems builds trust with our customers.
+This strategy is being successful because we are winning more work from our customers in both GIS and GBS, and our revenues are clearly not going backwards.
+A great example of this strategy working is the new agreement with Lloyd's.
+When I started DXC a little over two years ago, Lloyd's was contemplating a significant reorganization without DXC, which would have caused a negative impact to our revenue.
+Running Lloyd's' mission-critical systems well has built trust that enabled us to be chosen to build the future at Lloyd's, which will be the most advanced insurance marketplace in the world.
+DXC will rearchitect and develop a cloud-native platform running on AWS to replace their legacy mainframe platform.
+Simply put, leveraging the trust we have built with our customers by running their mission-critical systems is how we are stabilizing our revenues and setting ourselves up for growth.
+Now let me turn to our cost optimization program.
+We continue to make progress in optimizing our cost and delivering for our customers without disruption.
+Managing our cost includes executing portfolio-shaping initiatives.
+We have identified businesses with roughly $500 million in revenues that are not strategic and will not help us grow.
+Selling these businesses will improve our organic revenue growth and our overall margin.
+We expect the sale of these businesses to result in an additional $500 million in proceeds within the next 12 months.
+At the same time, we are focused on prudently investing in assets that will enable us to grow.
+A great example of this is our recently announced relationship with ServiceNow.
+Here, we are leveraging our proprietary technology called Platform X, which is a data-driven intelligent automation platform that helps us detect, prevent and address issues before they happen within our customers' cloud and on-prem IT estates.
+NelsonHall named DXC's Platform X as a leader in cognitive and self-healing IT infrastructure management, reflecting DXC's ability to deliver immediate results through automation.
+Next, seize the market is where we are focused on, cross-selling to our existing customers and winning new work.
+We had a strong quarter of bookings, totaling $5 billion and a book-to-bill of 1.23 times.
+58% of the bookings were new work and 42% were renewals.
+We are winning in the ITO market.
+And this is helping us with our organic revenue growth, significantly limiting the declines from double-digit to low single-digit negative declines.
+Modern Workplace is following a very similar path.
+Our strong 12-month book-to-bill of 1.1 times gives us confidence that, like ITO, we can take this business from double-digit to low single-digit decline in the next 12 months.
+Analytics and Engineering is a great story as we are converting our strong book-to-bill of 1.29 times on a 12-month basis and growing this business 18.7% in Q3, which is helping us consistently grow our GBS business.
+We are seeing increased opportunities in the market.
+We have shown the ability to win, and the investment we have made in execution is paying off, with good deals turning into good revenue as you can see in ITO and Analytics and Engineering.
+Turning to Slide 11.
+Our transformation journey remains on track, with strong progress across all four key metrics.
+Organic revenue improved 100 basis points from Q2 to a decline of 1.4%.
+Adjusted EBIT margin is up to 8.7%.
+Year-over-year, our adjusted EBIT margin expanded 170 basis points, while we substantially reduced our restructuring and TSI expense.
+Q3 book-to-bill was 1.23 times and 1.08 times on a trailing four quarters.
+From our perspective, looking at book-to-bill over a trailing four quarters is more meaningful than looking at one quarter in isolation.
+Non-GAAP diluted earnings per share was $0.92, up $0.08 compared to the prior year.
+Our earnings per share expanded despite $0.23 of headwinds from taxes.
+The tax rate headwinds were more than offset by increased margins and lower interest expense.
+Moving to our segment results on Slide 12.
+GBS continued its strong performance, accelerating organic revenue growth to 7%, our third consecutive quarter of organic revenue growth.
+GBS is benefiting as we leverage our relationships with our platinum customers.
+Our GBS business has higher margins and lower capital intensity.
+So as we grow this business, it has a disproportionately positive impact on margins and cash flow.
+Our GBS profit margin was 16.2%, up 200 basis points compared to the prior year.
+GIS organic revenue declined 8.3%.
+GIS profit margin was 4.8%, an improvement of 110 basis points compared to prior year.
+Our focus with GIS heretofore has been on improving delivery, to deliver for our customers while stabilizing the margins.
+As we set up for next year, we are putting in place a program to drive cost out of GIS to move the margins forward.
+Turning to our enterprise technology stack.
+Analytics and Engineering revenue was $545 million and organic revenue was up 18.7%.
+We continue to see high demand in this area.
+Of note is the success we are seeing with our platinum customer channel.
+Applications organic revenue increased 4.8%, also accelerating.
+BPS, our smallest layer of the enterprise technology stack, generated $116 million of revenue, and organic revenue was down 8.3%.
+We expect the declines in this business to moderate as we move forward and put our new strategy in place.
+For our GBS layers of our technology stack, our book-to-bill was 1.28 times and 1.17 times on a trailing 12-month basis.
+Cloud and Security revenue was $471 million and organic revenue was down 12.2%.
+IT Outsourcing revenue was $1.11 billion and organic revenue was down 1.9%.
+Let me remind you that this business declined 19% in Q3 FY '21.
+This is a significant improvement that we indicated last quarter.
+We expect IT Outsourcing to continue to decline in low single digits, ideally 5% or better.
+Lastly, Modern Workplace revenue was $561 million, and organic revenue was down 16% as compared to prior year.
+We remain positive about our prospects.
+And our strong book-to-bill of 1.11 times over the trailing 12 months is expected to stabilize Modern Workplace as we move through FY '23.
+For our GIS layers of the technology stack, our book-to-bill was 1.18 times and 1.01 times on a trailing 12-month basis.
+As you think about organic revenue growth prospects for GIS, our focus on improving the quality of revenue by expanding margins, reducing capital intensity and driving cash flow may create headwinds for organic revenue growth.
+For example, using our capital to buy laptops, bearing the risk and ultimately recovering our cash over three to four years with relatively low returns does not feel like a great economic model.
+At the end of the day, we would prefer to provide our offerings and services and forego the revenue associated with buying the assets to improve the underlying economics.
+Next up, let me touch on our efforts to build our financial foundation.
+This quarter, we made particularly strong progress with cash generation and continued reduction of restructuring and TSI expense.
+With regard to financial discipline, remediating our material weakness is a top priority.
+We are in the late stage of our efforts to remediate the material weakness, and we have fully implemented our 11-point remediation plan.
+As a result, we expect to remediate our material weakness in Q4.
+I should note, as it relates to the material weakness in governance more holistically, we are clear-eyed on how we think about governance.
+We do not find our current governance score to be acceptable.
+We are working hard to ensure we improve its trajectory like many things at DXC.
+We are finishing the unfinished homework, creating a sustainable business brick by brick.
+In addition to our material weakness remediation, we are committed to improving our pay practices.
+As part of good governance, our board members and management are continuing to engage with our shareholders to proactively take their feedback as we work together to design and set our short-term and long-term incentive structure.
+Our focus is to set metrics and targets that are highly aligned to what our shareholders want, all the while incentivizing management to improve the company's performance, creating an enduring and sustainable business.
+The execution of the transformation journey has made measurable improvement, allowing us to put the business on a firmer financial foundation, expanding margins, and generating and keeping more cash.
+Slide 15 shows the results of the structural improvements we have made.
+We reduced our debt from $12 billion to $4.9 billion and are now below our targeted debt level.
+We have reduced our quarterly net interest expense to $23 million, a $31 million reduction as compared to prior year.
+As you recall, we were able to term out a significant portion of our debt last quarter with principally all of our outstanding borrowings at fixed rates.
+We expect to continue the lower interest expense at approximately $25 million per quarter.
+We also continue to make progress on reducing restructuring and TSI expense.
+This reduction contributed $195 million to cash flow during the quarter as compared to the prior year.
+Further, this also achieves one of our goals of narrowing the difference between GAAP and non-GAAP earnings.
+I should note that while we have been reducing restructuring and TSI expense, we have also been able to expand margins.
+Lastly, as you can see, we have also reduced operating lease cash payments from $156 million in the third quarter of the prior year to $117 million in the third quarter of FY '22.
+Moving to Chart 16.
+Let's talk about the focus we've brought to capital expenditures, including capital leases.
+Our capital expenditures were reduced from $219 million in Q3 FY '21 to $146 million in Q3 FY '22.
+We are closely managing our capital lease originations, which ultimately means our capital lease debt and associated payments continues to decline.
+In FY '20, we had a $270 million quarterly run rate for originations while our last two quarters averaged less than $60 million.
+We made $207 million of capital lease payments in Q3 last year, which is now down to $184 million in the current quarter.
+For Q4, we expect a further reduction of capital lease payments to approximately $140 million.
+A metric we like to look at to gauge capital efficiency is capital expenditures and capital lease originations as a percentage of revenue.
+We are now tracking at 5.2% for two consecutive quarters, down from roughly 10% in FY '20.
+Clearly, our focus has been on improving our cash flow.
+Specific to new business, we have been focused on structuring our transactions to have lower capital intensity, potentially trading off revenue in favor of cash flow.
+As you can see, from my prior comments, our focus on driving structural changes has improved our ability to generate and hold on to more cash.
+Cash flow from operations totaled an inflow of $696 million.
+Free cash flow for the quarter was $550 million, an increase of $956 million as compared to prior year and moves our year-to-date free cash flow to $650 million or $150 million above our full year guidance.
+Further, cash in the quarter was negatively impacted by two previously disclosed payments, totaling approximately $130 million.
+These payments were offset by much stronger performance due to improvements in the business and benefits from timing on payments and receipts in the quarter.
+We expect this timing to create some headwinds in Q4 cash flow.
+Slide 18 shows our trended cash flow profile.
+Our progress in Q2 and Q3 gives us confidence as we work toward delivering our longer-term FY '24 guidance of $1.5 billion in free cash flow.
+Moving to Slide 19.
+Let's revisit our relatively simple capital allocation formula.
+We are targeting a debt level of approximately $5 billion and a cash level of $2.5 billion.
+With debt at our target debt level, cash over $2.5 billion is excess cash, which we expect to deploy.
+Based on this formula, we expect to self-fund stock repurchases of $1 billion over the next 12 months.
+The $1 billion in repurchases will be funded from a combination of cash generated from operating our business as well as proceeds from our portfolio-shaping efforts.
+We recently executed a number of sale agreements and expect to divest businesses and assets with approximately $500 million of revenue and will generate $500 million of proceeds in the next 12 months.
+These businesses are not synergistic and cannot be leveraged more broadly in our platinum channel.
+As you will see in our 10-Q, we entered into an agreement to sell our German financial service subsidiary that includes both of our banks for approximately $340 million.
+As noted in the liquidity section of our previously filed financials, the German financial services business has cash held on deposit for the bank's customers.
+The current cash balance related to these deposits is $670 million.
+We also announced an agreement for the sale of our Israeli business for $65 million.
+The valuation for these assets are accretive to our valuation.
+Further, we do not expect these divestitures to create headwinds related to achieving our FY '24 longer-term guidance for organic revenue growth, adjusted EBIT margin, and free cash flow.
+We continue to assess our portfolio to ensure we have businesses that are aligned to our strategy and not a distraction for our management team.
+Now let me cover our progress on share repurchases.
+In Q3, we repurchased $213 million of common stock, bringing our FY '22 year-to-date repurchases to $363 million or 10.6 million shares.
+Our share repurchases are self-funded.
+As noted, we expect to repurchase $1 billion of our common stock over the next 12 months as we firmly believe our stock is undervalued.
+Turning to the fourth quarter guidance.
+Revenues between $4.11 billion and $4.15 billion.
+If exchange rates were at the same level as when we gave guidance last quarter, our fourth quarter revenue guidance range would be $20 million higher.
+Organic revenue declined, minus 1.2% to minus 1.7%.
+Adjusted EBIT margin in the range of 8.7% to 9%.
+Non-GAAP diluted earnings per share of $0.98 to $1.03 per share.
+For Q4, we expect a tax rate of approximately 26%.
+As we look to the end of FY '22, I would like to update our current fiscal year guidance.
+Based on the strengthening U.S. dollar, our revenues are expected to be negatively impacted by approximately $40 million.
+We now expect to come in at approximately $16.4 billion.
+Organic revenue growth range of minus 2.2% to minus 2.3%, which is slightly lower than our previous range.
+Adjusted EBIT margin, 8.5% to 8.6%.
+We continue to expand margins while significantly lowering restructuring and TSI expense and are now guiding to $400 million for FY '22.
+To put this all in context, we expect to spend $500 million less on restructuring and TSI spend than last year, while expanding margins by over 200 basis points.
+Our focus is to embed these types of expenses over time into the normal performance of the business and believe we have taken significant strides in doing so.
+Non-GAAP diluted earnings per share of $3.64 to $3.69.
+Lastly, we are increasing free cash flow guidance to over $650 million, $150 million improvement to our prior FY '22 guidance.
+Fourth quarter cash flow is expected to be impacted by timing, which boosted Q3 cash flow and in addition, a $100 million payment in Q4 to terminate a financial structure put in place a number of years ago.
+We are reaffirming our guidance for FY '24.
+This reflects our strong execution and driving forward on our transformation journey.
+Overall, we are making great progress driving efficiency in the business and generating strong free cash flow.
+We are utilizing those cash flows to drive significant value for our shareholders through our stock repurchase program.
+Let me leave you now with a few key takeaways.
+As I think about finishing out FY '22, we are making great progress.
+During our June investor day, we committed to making progress on all nine of these points, and let me quickly give you an update on each.
+Win in the market and a book-to-bill of greater than 1x.
+Our trailing 12-month average is now 1.08 times.
+This year, we produced relatively stable revenues in Q2, Q3, and we expect this to continue in Q4.
+Strengthening the balance sheet.
+Our debt is now at $4.9 billion, and our refinancing has significantly lowered our interest expense.
+Achieved organic revenue growth of minus 1% to minus 2% in FY '22.
+This is where we're coming up a little short, anticipating negative 2.2% to negative 2.3% organic revenue growth.
+Remediate material weakness and improve governance score.
+As Ken indicated, we will remediate the material weakness in Q4, and we have plans to continue to improve our governance score.
+Reduce restructuring and TSI.
+We have taken it from over $900 million to roughly $400 million in FY '22.
+We have expanded margins every quarter throughout FY '22.
+Improve free cash flow.
+We exceeded the $500 million guidance for FY '22.
+And finally, resume capital deployment to shareholders.
+We have repurchased $363 million and plan to do another $1 billion over the next 12 months.
+In addition to this progress, we are also committed to portfolio-shaping.
+What this means is we are making the right bets and investments like what we are doing with Platform X and ServiceNow and divesting assets that are not core to our strategy and will not help us grow.
+Our portfolio-shaping is anticipated to drive $500 million in excess cash in the next year.
+In closing, I am confident that by staying focused on our transformation journey, we will continue to deliver on our commitments both in the short term and the long term.

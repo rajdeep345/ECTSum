@@ -1,0 +1,188 @@
+These types of statements are subject to various known and unknown risks, uncertainties, assumptions and other factors, including those described in MFA's Annual Report on Form 10-K for the year ended December 31, 2020, and other reports that it may file from time to time with the Securities and Exchange Commission.
+The third quarter was a transformational quarter for MFA, and as we sit here today, we are excited about our company and enthusiastic about our future.
+We continue to execute on our strategy to grow our portfolio and reduce and term out liabilities.
+Our third quarter financial results featured strong earnings and book value growth.
+On the credit side, continued strong housing trends have bolstered the value of the underlying assets, securing the mortgages we own thus lowering LTVs.
+Robust housing prices have also created a strong tailwind for delinquent mortgages and REO properties as these trends lead to improved resolution and outcomes.
+MFA's tireless efforts to find new attractive investments were also rewarded in the third quarter as record asset acquisitions exceeded runoff and led the portfolio growth of $1.5 billion.
+Please turn to Page 4.
+We reported GAAP earnings of $0.28 per share for the third quarter, largely driven by gains of $43.9 million or $0.10 per share related to our acquisition of Lima One.
+These gains resulted from the difference between the fair value of our Lima One purchase relative to our basis in our previous investments, in both common equity and preferred equity of Lima One, both of which were impaired early on in the pandemic.
+Our net interest income from our loan portfolio increased by 15%, over the second quarter to $55 million from $48 million.
+GAAP book value was $4.82, up $0.17 or 3.7% from June 30 and economic book value was $5.27, up $0.15 or 2.9% from June 30.
+Economic return was also strong for the quarter.
+5.8% GAAP and 4.9% economic book value.
+Our leverage picked up slightly over the core to 2.2 to 1 versus 1.8 to 1 at June 30.
+And we paid a $0.10 dividend to shareholders on October 29.
+Please turn to Page 5.
+We acquired $2 billion of loans in third quarter, the highest quarterly loan purchase volume in our history, and we grew our loan portfolio by $1.5 billion to $7 billion.
+These purchases included $820 million of agency eligible investor -- sorry about that.
+So these loan purchases included $820 million of agency eligible investor loans and $485 million of business purpose loans.
+In fairness, it's likely that purchases of agency eligible investor loans will taper somewhat in future quarters, given the recent removal of the cap on GSE investor loan purchases.
+The business purpose loan acquisitions included approximately $170 million of loans that were on Lima One's balance sheet at July 1.
+But as Gudmundur will discuss shortly, Lima One's origination volume continues to grow and their October production was their highest month ever.
+So while $1.5 billion of portfolio growth was an extraordinary quarter, we believe that we are well positioned with our originator partners to continue to grow our portfolio.
+Our net interest income increased versus Q2 by 5% to $61.8 million.
+We continue to make excellent progress in liquidating REO properties, as we capitalize on strong housing trends.
+And for borrowers still negatively impacted by COVID, we can offer modifications and/or repayment plans to allow them to stay in their homes, restore their payment status to current and retain their equity in their home.
+Please turn to Page 6.
+This slide illustrates the components of our investment portfolio and also the nature of our asset-based financings.
+The increase of approximately $1 billion in mark-to-market financing versus last quarter is primarily related to our agency eligible investor loans, which are financed with traditional repo as a bridge to securitization.
+Please turn to Page 7.
+Despite the normal challenges associated with the corporate acquisition, Lima One did not miss a beat in the third quarter as they originated over $400 million of loans during the quarter.
+We have an excellent relationship with Jeff Tennyson and his team at Lima One having worked closely with them for over four years now.
+As many of you probably know, there have been two recent announcements of acquisitions of similarly large business purpose lenders.
+We're confident that we can provide Lima with the resources to continue to grow and excel at their business.
+There are no doubt efficiencies that we can cultivate over time to lower costs.
+And to that point, we've already taken steps to reduce Lima's interest expenses.
+Steve Yarad will review some of the accounting aspects of this transaction shortly.
+Please turn to Page 8.
+We continued to execute on our securitization strategy in the third quarter, pricing our fifth non-QM deal in August.
+As luck would have it, we priced this deal when yields were at their lowest levels in the quarter.
+Subsequent to quarter end, we priced our first agency eligible investor securitization in October.
+We structured $312 million bonds and we retained a 5% vertical slice of the deal.
+Please turn to Page 9.
+Finally, you may have noticed that we've added a corporate responsibility section to our website.
+Environmental, social and governance issues have never been as prevalent as they are today.
+And the focus on ESG in investment decisions is real and growing.
+MFA has been committed to these principles for years, but we have been remiss in communicating our endeavors and policies to support these principles publicly.
+We will always continue to improve our efforts, but we are proud to finally communicate our substantial progress to date.
+Craig has already noted, MFA delivered strong results for the quarter that were driven by record quarterly loan portfolio growth and certain purchase accounting adjustments related to the Lima One acquisition, as well as the inclusion of Lima One earnings in MFA's consolidated results.
+Before discussing the core portfolio results in more detail, I'd like to take a minute to discuss the impact of Lima One purchase accounting on our income statement for the third quarter, as well as on their quarter end balance sheet.
+Firstly, earnings include gains totaling $43.9 million that relate to the Lima One purchase transaction.
+This includes the following: $38.9 million gain arising from revealing our previously held investment of approximately 43% of Lima One's common equity.
+GAAP purchase accounting requires at the previously held interest is adjusted at closing to the fair value implied by the current transaction.
+We impaired the value of our prior investment by $21 million back in March of 2020, when valuations of mortgage originators were highly uncertain.
+Consequently, the $38.9 million gain includes a reversal of its prior impairment charge, while the remaining $18 million represents the incremental adjustment to reflect the prior investment at the fair value implied by the current transaction.
+An additional gain was recorded as Lima repaid its outstanding preferred equity in full, of which MFA held roughly half.
+The gain recorded reflects $5 million impairment reversal.
+That impairment was also initially recorded in March of 2020.
+Secondly, under the required GAAP purchase accounting to consolidate Lima One onto MFA's balance sheet, we recorded $28 million of intangible assets and $61.6 million of residual goodwill.
+Intangible assets include the value allocated to customer relationships, the Lima One brand name and internally developed technology.
+These assets are amortized over their estimated useful lives with $3.3 million of amortization expense recorded this quarter.
+The residual goodwill asset represents the difference between the purchase price paid to acquire Lima One.
+And the fair value of the net assets acquired including the intangible assets.
+Goodwill is not amortized under current GAAP, but is subject to periodic impairment testing.
+Further detail on the purchase accounting for Lima One is provided in our 10-Q, which we expect to file later today.
+Turning now to the core components of our Q3 2021 results, the key items to highlight are as follows.
+Net interest income of $61.8 million was $2.8 million higher or 5% higher sequentially.
+As Craig noted residential whole loan net interest income again increased, this quarter by 15%, primarily due to impressive portfolio growth and the ongoing impact of securitizations to lower the cost of financing.
+Now, net interest spread was essentially flat to last quarter at 2.98%.
+The CECL allowance in our carrying value loans decreased for the six quarter in a row, and at September 30, this $44.1 million down from $54.3 million at June 30.
+The decrease reflects continued runoff of the carrying value loan portfolio and adjustments to macroeconomic and loan prepayment speed assumptions used in our credit loss modeling.
+This reversal to our CECL reserves positively impacted net income for the quarter by $9.7 million.
+Actual charge-off experience continues to remain very modest with approximately $2.1 million of net charge-offs taken in the nine-month period ended September 30, 2021.
+Pricing on loans held at fair value was higher than the end of the second quarter, particularly on purchased non-performing loans and business purpose loans.
+This primarily drove the net gains recorded of $21.8 million.
+Approximately $11.3 million of this amount relates to business purpose loans originated at par by Lima One during the third quarter, because we elect the fair value option on these loans.
+At quarter end, they're mark-to-market based on estimated third-party sale process.
+In addition to the fair value gains on originated loans, Lima One also contributed $9.6 million of origination, servicing and other fee income during the quarter, reflecting strong origination volumes.
+Gudmundur will discuss this in more detail shortly.
+Finally, our operating and other expense, excluding the amortization of Lima One intangible assets was $30.1 million for the quarter.
+This includes approximately $10.3 million of expenses, primarily compensation related at Lima One.
+MFA's G&A expenses this quarter were approximately $14.5 million, which is in line with our normal run rate.
+Moving forward, we would expect our consolidated G&A expense to run at around $25 million per quarter, up since significant changes in Lima One origination volumes.
+Other loan portfolio related costs meaning those not related to Lima One loan origination servicing are expected to run at around $5 million to $7 million a quarter, but will fluctuate based on the level of loan at acquisition activity, REO portfolio management expenses and costs incurred to the extent we continue to favor securitization over warehouse financing.
+Turning to Page 11, home prices showed continued strength over the quarter.
+We saw prices increased at year-over-year rate of 18%.
+We have however seen the pace of month-over-month increases moderate a bit, as of the dramatic increase in home prices have had a slight impact on affordability.
+All of the same fundamental factors remain at play, such as low inventory, demographic trends and historically low rates.
+The unemployment rate is now down below 5% as economic activity continues to increase.
+All of these factors combined with monetary and fiscal support, continue to keep mortgage credit performance strong and should bode well for continued credit performance in the near term.
+Turning to Page 12, non-QM origination volume remained elevated over the quarter and we were able to purchase almost $700 million of loans, which represents another significant quarter-over-quarter increase.
+Prepayment speeds remain elevated over the quarter as the three month average CPR for the portfolio was 39%.
+We executed on our fifth securitization in the third quarter, bringing the total amount of collateral securitized to over $2 billion.
+And we expect to bring another securitization of non-QM loans in the fourth quarter.
+These securitizations continue to lower our financing cost and at the same time, have provided additional stability to our borrowings.
+Securitizations combined with non-mark-to-market term facility have resulted in approximately 50% of our non-QM portfolio funded with non-mark-to-market leverage at the end of the quarter.
+We expect to continue to be a programmatic issuer of securitizations as it's currently the most efficient form of financing for our portfolio.
+Turning to Page 13.
+The non-QM portfolio has exhibited strong performance coming back from the uncertainty created by the onset of the pandemic.
+We've seen steady improvement and delinquency percentages as our loss mitigation tactics employed have been effective.
+We instituted a deferral program at the onset of the pandemic in an effort to help our borrowers manage through the crisis.
+Currently, have a very small handful of non-QM borrowers in forbearance or deferral plans.
+For borrowers that did receive forbearances, many of them are either current today or on a repayment plan to be current within one to two years' time.
+In the third quarter, we saw 60-plus-day delinquency rates improved by two anda half percent and 30 day delinquencies dropped by 0.3%.
+In addition, approximately 30% of those delinquent loans made a payment in the most recent months.
+As the economic recovery continues, we expect the portfolio's credit performance to improve.
+Our strategy of targeting lower LTV loans should mitigate losses under a scenario with elevated delinquencies, in many cases, borrowers, which no longer have the ability to afford their debt service will sell their home in order to get the return of their equity.
+Turning to Page 14.
+In September, the FHFA and treasury suspended the 7% cap on investor loan purchases for Fannie Mae and Freddie Mac for at least one year.
+We took advantage of the opportunity over the quarter acquiring over $2 billion or acquiring over $1 billion in loans since we started purchasing these loans in the second quarter, from our existing originator relationships at attractive prices.
+This new announcement limits the opportunity size for the time being, but could arise again in the future.
+We executed on our first securitization of this collateral subsequent to quarter end and expect to execute another before the end of the year.
+This is another example of our ability to adapt to an ever-changing environment and a testament to our strong originator relationships in a competitive environment.
+Turning to Page 15.
+Our RPL portfolio of approximately $700 million continues to perform well.
+81% of our portfolio remains less than 60 days delinquent.
+And although the percentage of the portfolio of 60 days delinquent in status was 19%, almost 30% of those borrowers continue to make payments.
+Prepaid speeds in the third quarter continue to be elevated at a three month CPR of 17.
+More and more of our borrowers are gaining equity with the increase in home prices and are taking advantage of the low interest rate environment.
+We have a small amount of borrowers still receiving COVID assistance and believe the impact from COVID will be de minimis on our RPL portfolio going forward.
+Turning to Page 16.
+Our asset management team continues to push performance of our NPL portfolio.
+The team has worked in concert with our servicing partners to maximize outcomes on our portfolio.
+This slide shows the outcomes for loans that were purchased prior to the year ended 2020.
+38% of loans that were delinquent at purchase are not either performing or have paid in full.
+48% have either liquidated or REO to be liquidated.
+Our sales of REO properties have continued at an accelerated pace at advantageous prices.
+Over the quarter, we sold almost three times as many properties as a number of loans we converted to REO.
+14% are still a non-performing status.
+Our modifications have been effective as almost three quarters are either performing or have paid in full.
+We are pleased with these results as they continue to outperform our assumptions at the time of purchase.
+Turning to Page 17.
+We closed our acquisition of Lima One, a leading nationwide business purpose originator at the beginning of the quarter.
+This acquisition solidifies MFA's position as a leading capital provider to the BPL space, which we believe offers some of the most attractive opportunities to deploy capital in the residential mortgage space.
+Our teams wasted no time utilizing our collective strengths to take the business to new heights.
+Lima One originated over $400 million of business purpose loans in the third quarter, a record quarter for the company and a 34% increase over second quarter origination levels.
+We saw strong demand for all of Lima's products and continue to experience the benefits of Lima's diversified product offerings, which offer financing solution to residential real estate investors with short and long-term investment strategies in the single family and small balance multi-family markets.
+September origination of over $150 million was a record month for the company, but that record was short-lived as the fourth quarters off to a strong start with October volume setting a new record with origination of over $170 million.
+One of the key benefits of this transaction is Lima's ability to provide MFA with a reliable flow of high quality, high yielding assets that are difficult to source in the marketplace.
+When we announce the transaction in May, we also mentioned that we believe that Lima had the potential to grow substantially beyond the run rate at the time of $1.2 billion annual origination.
+We are already seeing that play out as we now expect full 2021 origination volume of between $1.4 billion to $1.5 billion.
+And the third and fourth quarter volume suggests continued growth in 2022.
+In addition to the benefit of adding assets to our balance sheet Lima as profitable company.
+Lima generated $10.6 million of net income from origination servicing activities in the quarter, representing an annualized return on allocated equity of approximately 30%.
+We have been very impressed by Lima's operational efficiency as they've consistently closed over 450 loan units in the last few months, up from about 300 units per month in the first quarter.
+We believe the team's experience with closing large volume of loans and scaling up operational capacity quickly sets us up nicely for future growth.
+We added $600 million of BPL financing capacity in the quarter – in the third quarter, as we close on two new financing facilities.
+These facilities allow for financing of a broad range of BPL assets, it will support the continued growth of our BPL strategy.
+And finally, the increased rent to loan acquisition volume from the Lima One acquisition has accelerated our timeline for our next business purpose rent to loan securitization, which we now expect to close in the fourth quarter.
+Turning to Page 18.
+Here we will discuss the fix and flip portfolio.
+The portfolio grew by over $160 million or 37% in the quarter.
+Purchase activity picked up significantly as we closed on the Lima acquisition, including loans on their balance sheet and benefited from very strong origination activity.
+In total, we purchased approximately $230 million UPB with $350 million max loan amount in the quarter and have added over $95 million maximum loan amounts so far in the fourth quarter.
+As a reminder, flix and flip loans finance the acquisition, rehabilitation and construction of homes.
+Typically, a certain amount of the loan is held back in the form of a construction holdback, which explains the difference between UPB on day one and the max loan amount, which represents the fully funded loan at the completion of projects.
+The flix and flip portfolio delivered strong income in the third quarter with an average portfolio yield of 7.11% in the quarter, a 67-basis-point increase from the second quarter.
+The housing market remains extremely strong with record low mortgage rates and low levels of inventory supporting annual home price appreciation in excess of 15%.
+In addition, we continue to see unemployment declining and overall economic activity improving across the country.
+The combination of these positive economic fundamentals, low initial LTVs in our loans and the efforts of our experienced asset management team continues to lead to acceptable outcomes on our delinquent loans.
+60-plus-day delinquent loans continue to decline and drop $13 million or about 10% to $107 million at the end of the third quarter.
+And we continue to see a solid amount of loans payoff in full out of 60 plus.
+When loans payoff in full from serious delinquency, we often collect default interest, extension fees and other fees of payoff.
+For loans where there's meaningful equity in the property, these can add up.
+Since inception, we have collected approximately $5.6 million and these types of fees across our fix and flip portfolio.
+60-plus-day delinquency as a percentage of UPB declined 10% to 18% and remain somewhat elevated.
+One thing to note here is that Lima originated fix and flip loans held by MFA have approximately 5% 60 day delinquency, speaking to the quality of origination and servicing.
+Almost all of the 60-plus-day delinquent loans were originated prior to March of 2020 and are simply working the way through the appropriate loss mitigation activities.
+Due to the short term nature of fix and flip loans with expected payoff in about six to 12 months, delinquent loans can be outstanding for longer than performing loans due to the time it takes to complete foreclosure.
+Keep in mind that we acquired over $2.2 billion of fix and flip loans and have had over $1.6 billion payoff in full.
+As our purchase activity was limited last year and performing loans paid off, the delinquency percentage increased as one would naturally expect as our portfolio's rank.
+As we now grow our portfolio again and continue to have positive outcomes on seriously delinquent loans, we expect both dollar amount as well as percentage delinquency to continue to decline going forward.
+Turning to Page 19.
+Our single family rent to loan portfolio continues to deliver attractive yields and strong credit performance.
+The portfolio yield has remained steady in a mid-to-high 5% range post-COVID and was 5.76% in the second quarter.
+Underlying credit trends remain solid and 60-plus-day delinquency declined 140 basis points to 3.5% at the end of the third quarter.
+Purchase activity more than doubled from the second quarter, as we acquired over $250 million of single family rental loans in the quarter, a record quarterly acquisition volume.
+The SFR portfolio group by 39% to $717 million at the end of the third quarter.
+Acquisition activities have remained robust in the fourth quarter, as we've already added over $70 million in the month of October.
+The acquisition of Lima One has significantly boosted our ability to source single family rent to loans, and we believe, and we will be able to continue to grow our single family rental portfolio in the near future.
+Approximately, 50% of our single family rental portfolio is financed in non-mark-to-market financing and slightly over one-thirds of securitizations.
+We price our first single family rental securitization in the first quarter of 2021 and expect to close another one in the fourth quarter.
+We expect to programmatically execute single family rental securitizations to efficiently finance our portfolio.
+We are pleased with the results of the third quarter of 2021 and even more excited about the future at MFA.
+Our investment initiatives are picking up steam and contributing to portfolio growth.
+We're continuing to execute our strategic plan to securitize our assets and term out durable financing.
+Lima One is firing on all cylinders and the strength of the housing industry has obvious positive implications for our mortgage credit investments.

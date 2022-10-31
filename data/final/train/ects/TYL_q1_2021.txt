@@ -1,0 +1,101 @@
+First, I'd like for Brian to give the safe harbor statement.
+Next, I will have some preliminary comments on our quarter results, and then Brian will review the details.
+I'll end with some additional comments, and then we'll take questions.
+During the course of this conference call, management may make statements that provide information other than historical information and may include projections concerning the company's future prospects, revenues, expenses and profits.
+We'd refer you to our Form 10-K and other SEC filings for more information on those risks.
+Please note that all growth comparisons we make on the call today will relate to the corresponding period of last year, unless we specify otherwise.
+Our first quarter results exceeded our expectations, providing an exceptional start to 2021.
+Recurring revenues, which comprised 75% of our first quarter revenues, were strong, led by a 25% growth in subscription revenues.
+However, software licenses and services revenues continue to be pressured by longer sales cycles and delays in projects as clients deal with the ongoing effects of the pandemic.
+A favorable revenue mix with strong subscription growth, coupled with cost efficiencies, drove a 270 basis point expansion of our non-GAAP operating margin to 26.8%.
+Cash flow continued to be very robust as cash from operations grew 26% and free cash flow grew almost 34%.
+We're pleased to see signs of growing activity in our public sector markets and expect that federal stimulus under the American Rescue Plan Act will have a positive impact on government technology spending going forward.
+Bookings in the first quarter were solid at approximately $247 million, but were down 22.8% against a very challenging comparison with the first quarter of 2020.
+Our largest deal in the quarter was a SaaS arrangement for our Munis ERP solution with the City of Fresno, California valued at approximately $10 million.
+Other significant SaaS contracts included ERP deals with Hall County, Georgia and Fort Smith, Arkansas and Odyssey Courts deal with Val Verde County, Texas.
+Our largest on-premises contracts include an ExecuTime time contract with the U.S. Virgin Islands, public safety and Brazos citations contracts with Montgomery County, New York and Cicero, Illinois and an EnerGov contract with the Commonwealth of the Bahamas.
+So far this year, we've been busy on the M&A front.
+On March 31, we completed two tuck-in acquisitions, DataSpec and ReadySub, for a total purchase price of $12 million in cash.
+DataSpec is a market-leading provider of software for the electronic management of veterans claims.
+DataSpec's web-based Software-as-a-Service system called VetraSpec allows for secure electronic claims submission to the Federal Department of Veterans Affairs and reporting capabilities in addition to scheduling, calendaring and payments.
+DataSpec offers county, state and national versions of VetraSpec, with state solutions making a majority of its implementations.
+The solution allows state departments to execute and analyze reports on the entire state, individual offices, regions and districts and individual users.
+ReadySub is a cloud-based platform that delivers comprehensive absence and substitute teacher management solutions, serving approximately 1,000 school districts across the United States, with only approximately 20 of which overlapping with Tyler's 2,000 school district clients.
+The solution helps districts with the labor-intensive and demanding task of filling both planned and unplanned staff absences with the most highly qualified substitute resources.
+With continuous pressure due to substitute teacher shortages, exacerbated by the COVID-19 pandemic, districts can more easily retain a pool of qualified substitutes and automate the searching and filing of needed substitute spots.
+Additionally, ReadySub can integrate districts' payroll processes, eliminating duplicate work and streamlining related payroll tasks.
+Most importantly, last week, we completed the $2.3 billion cash acquisition of NIC, a leading digital government solutions and payments company that serves more than 7,100 federal, state and local government agencies across the nation.
+NIC delivers user-friendly digital services that make it easier and more efficient for citizens and businesses to interact with government, providing valuable conveniences like applying for unemployment insurance, submitting business filings, renewing licenses, accessing information and making secure payments without visiting a government office.
+In addition, NIC has extensive experience and expertise and scale in the government payments area, processing more than $24 billion in payments on behalf of citizens and governments last year, which will accelerate Tyler's strategic payments initiative.
+With the addition of NIC's highly complementary industry-leading digital government solutions and payment services to Tyler's broad client base and multiple sales channels, the combined company will be well equipped to address the tremendous demand at the federal, state and local levels for innovative platform services.
+Together, Tyler and NIC will connect data and processes across disparate systems and deliver essential products and services to all public sector stakeholders.
+NIC had revenues of $460.5 million and net income of $68.6 million in 2020.
+NIC's core first quarter revenues, excluding the TourHealth and COVID initiatives that are expected to wind down after the second quarter, grew more than 10% over last year.
+In addition, NIC's operating income, again excluding the TourHealth and COVID initiatives as well as acquisition costs, rose more than 20%.
+Now I'd like for Brian to provide more detail on the results for the quarter.
+Yesterday, Tyler Technologies reported its results for the first quarter ended March 31, 2021.
+Both GAAP and non-GAAP revenues for the quarter were $294.8 million, up 6.6% on a GAAP basis and 6.5% on a non-GAAP basis.
+As you may recall, we were off to a very strong start in the first two months of 2020 before the COVID-19 pandemic began to significantly affect our business in March.
+So we're generally pleased with our growth this quarter against that comparison.
+Software license revenues declined 20.3%, reflecting both extended sales cycles and a high mix of subscription deals at 66% of new software contract value.
+Software services revenue declined 8.6% as a result of the continued impact of the COVID-19 pandemic, and our shift to remote delivery of most services resulted in a decline in billable travel revenue.
+On the positive side, subscription revenues rose 25.4%.
+We added 84 new subscription-based arrangements and converted 39 existing on-premises clients, representing approximately $52 million in total contract value.
+In Q1 of last year, we added 131 new subscription-based arrangements and had 19 on-premises conversions, representing approximately $98 million in total contract value.
+Subscription contract value comprised approximately 66% of total new software contract value signed this quarter, compared to 73% in Q1 of last year.
+The value weighted average term of new SaaS contracts this quarter was 4.0 years, compared to 5.9 years last year.
+Revenues from e-filing and online payments, which are included in subscriptions, were $26.9 million, up 22.4%.
+That amount includes e-filing revenue of $15.6 million, up 4.8%, and e-payments revenue of $11.3 million, up 59.3%.
+For the first quarter, our annualized non-GAAP total recurring revenue, or ARR, was approximately $886 million, up 12.9%.
+Non-GAAP ARR for SaaS arrangements for Q1 was approximately $302 million, up 26.3%.
+Transaction-based ARR was approximately $108 million, up 22.4%, and non-GAAP maintenance ARR was approximately $476 million, up 4.1%.
+Our backlog at the end of the quarter was $1.55 billion, up 3%.
+As Lynn noted, our bookings in the quarter were solid at $247 million.
+However, this was down 22.8% compared to a difficult comparison to Q1 of last year.
+Last year's first quarter bookings included several large contracts, including two significant follow-on SaaS deals with the North Carolina courts, with a combined contract value of approximately $38 million.
+For the trailing 12 months, bookings were approximately $1.2 billion, down 13.3%, although they do not include the majority of the $98 million extension of our Texas e-filing contract signed in Q4 of 2020 because of certain termination provisions in that contract.
+If the Texas e-filing renewal was fully included, trailing 12-month bookings would have been down only 6.4%.
+The prior trailing 12-month bookings also included four significant SaaS deals with the North Carolina courts, with a combined contract value of approximately $123 million.
+The bookings growth rate in Q1 was also affected by a shorter average term for new subscription contracts.
+Our subscription -- software subscription booking in the first quarter added $10.2 million in new annual recurring revenue.
+Cash flow was once again very strong in the first quarter as cash from operations increased 26.4% to $71.7 million and free cash flow grew 33.9% to $61.7 million, representing an all-time high for first quarter free cash flow.
+We financed the NIC acquisition with a mixture of debt at very attractive rates that gives us a flexible capital structure.
+In March, we completed a $600 million offering of 0.25% convertible senior notes due 2026.
+The notes are convertible into Tyler common stock at a conversion price of $493.44, which represents a 30% premium over our closing price on March 4.
+On April 21, concurrent with the closing of the NIC acquisition, we entered into a new $1.4 billion senior unsecured credit facility with a group of eight banks.
+The facility includes a $300 million term note due in 2024 and a $600 million term note due in 2026, both of which can be prepaid without penalty.
+The facility also includes a new five-year $500 million revolving credit agreement that replaces our prior $400 million revolver.
+The combination of the convertible debt, term notes and revolver provide us with a great deal of flexibility.
+Our balance sheet remains very strong and its pro forma net leverage at the NIC closing was approximately 3.2 times trailing 12-month adjusted EBITDA.
+And we expect to end the year with net leverage under 2.5 times.
+The current blended interest rate on the $1.75 billion of debt we have outstanding today is 1.1%.
+We remain on track to achieve or exceed the annual revenue and earnings per share guidance that we communicated in February for Tyler, excluding the impact of the NIC acquisition.
+As Lynn mentioned, NIC also had a very strong first quarter results that exceeded their plans.
+We expect the NIC acquisition will be accretive to our non-GAAP earnings and EBITDA as well as to our recurring revenue mix and free cash flow per share in 2021.
+Because of antitrust restrictions, we took a conservative approach to our integration and strategic planning for NIC prior to closing the transaction last week.
+We are currently working closely with NIC's leadership to evaluate strategic growth opportunities that take advantage of the combined strength of the two businesses and determine the impact on our 2021 plan.
+We expect to complete the fine-tuning of our joint operating and financial plans for the remainder of the year and issue 2021 guidance for the combined company during the second quarter.
+Our team of professionals, including our new NIC team members, executed at a high level in the first quarter, driving results that surpassed expectations for both Tyler and NIC and provided a great start to 2021.
+Exiting 2020, our financial position was stronger than ever, allowing us to continue to pursue strategic acquisitions, including NIC, the largest acquisition in our history with a purchase price of $2.3 billion in cash.
+We've also been able to continue to invest in and, in some cases, accelerate all of our long-term strategic initiatives, in particular, our shift to a cloud-first approach.
+As a result, our competitive position has also continued to strengthen.
+We believe we will continue to see an acceleration of the public sector's move to the cloud, and we are in a great position to support that move.
+I'm happy to say that we are on track with the strategic investments in optimizing our products for the cloud that we discussed on our fourth quarter call.
+This quarter, we saw early indicators that our market is beginning to recover as some delayed procurement processes are moving forward and RFP activity is growing from the levels of the second half of 2020.
+We also expect that the $350 billion of aid to state and local governments under the American Rescue Plan Act will provide a significant measure of relief to budget pressures faced by many of our clients and prospects and have a positive impact on recovery of our markets.
+One topic I've not discussed on these calls before pertains to our efforts regarding environmental and social initiatives.
+Tyler's culture guides our commitment to being a responsible partner in the communities where we live, work and serve our clients.
+This year marks the 50th anniversary of the Tyler Foundation, which since its creation has provided millions of dollars to charities and causes that positively impact our communities.
+Our culture is also the foundation for our belief in the importance of providing an inclusive and diverse workplace.
+We are proud to have been included in the Forbes America's Best Employers for Diversity List for the past two consecutive years.
+The pause in normal office occupancy and business travel due to the pandemic provided an opportunity for us to evaluate our environmental impact across our major office locations and identify opportunities to make our practices more consistent and effective.
+Last year, we formed an environmental task force to strengthen our sustainability efforts across our office locations and the communities we impact.
+We achieved a significant milestone last year by responding to Tyler's first invitation to the Dow Jones Sustainability Index survey.
+More than 3,500 of the world's largest publicly listed companies provide detailed data and background to this global survey for evaluation by its independent sustainability ranking body.
+Completing the survey was an important opportunity for Tyler to uncover opportunities to strengthen our core responsibility strategy.
+We recently published our second annual corporate responsibility report, which is available on our website.
+This report represents a significant expansion of our reporting on our ESG efforts, and we look forward to continuing our journey and sharing our progress in this area.
+Finally, this week, we are virtually hosting more than 5,000 clients at Connect 2021, our annual user conference with a theme called Virtually Possible.
+Team members from across Tyler are providing nearly 700 hours of valuable content for our clients using our advanced virtual event platform.
+We are excited to be able to connect with so many clients at our virtual event, and we look forward to connecting with them in person at Connect 2022.
+With that, we'd like to open up the line for Q&A.

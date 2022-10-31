@@ -1,0 +1,137 @@
+We reported solid financial results that were propelled by our ongoing diversification efforts.
+Sales in the third quarter were $122 million, up 8% compared to the same period in 2020.
+Customer demand remains robust, while supply challenges persist, especially for transportation products.
+Third quarter gross margin was 37.3%, up 490 basis points from 32.4% in the third quarter of 2020.
+EBITDA margin of 21.7% was up 270 basis points from 19% in the same period last year.
+Third quarter adjusted earnings per share of $0.46 were up 35% from $0.34 in the third quarter of 2020.
+Later, Ashish Agrawal, our CFO, who is with me for today's call, will speak to the GAAP performance.
+Operating cash flow of $21 million was down from $26 million in the third quarter of 2020.
+New business awards of $179 million were solid and up from $127 million in the same period last year.
+Ashish will take us through the Safe Harbor statement, Ashish.
+To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investors section of the CTS website.
+I will now turn the discussion back over to our CEO, Kieran O'Sullivan.
+In the third quarter, our sales increased 8% to $122.4 million versus the prior period.
+Demand from customers remains strong, but not surprisingly, revenue has been dampened by persistent supply chain constraints reverberating throughout the global economy, especially for automotive products, where we saw sales decline in the third quarter.
+Excluding sales from the acquisition of Sensor Scientific, sales were up 6% organically.
+Importantly, the SSI acquisition continues to deliver solid growth, and we're pleased with the performance of our temperature acquisitions and the momentum we are building to scale this platform.
+We are benefiting from the richness of our customer base, in particular, in transportation end market.
+As a result, we performed better than the overall market as our teams excelled in-sourcing initiatives globally, including the qualification of alternative sources.
+Gross margin for the third quarter was 37.3%, up 490 basis points from the 32.4% in the prior year.
+As we gain momentum from the advancement of our diversification strategy that I will talk about more in just a minute.
+EBITDA margin of 31.7% was up 270 basis points from 19% in the third quarter of 2020.
+We continue to be impacted by rising commodity prices as well as increased freight costs.
+That said, we've been working alongside our customers to offset or share these cost increases.
+While inflationary pressures negatively impacted our earnings for the third quarter, we remain confident in our ability to navigate this dynamic environment.
+Third quarter adjusted earnings per share of $0.46 were up 35% from $0.34 in the same period last year.
+New business awards of $179 million were solid and up from $127 million in the same period last year.
+We added two new industrial customers in the quarter, one for an RF filter application and the other for a temperature-controlled crystal component applied in a GPS application.
+Our long-term strategy centers on diversifying our end market profile by expanding our range of technologies, products, customers and geographic reach.
+This diversification will also enhance the quality of our earnings.
+We made tremendous progress on this front with the non-transportation related revenue moving closer to 50% of total revenue during the third quarter of 2021.
+As a reminder, historically, our non-transportation related revenue was roughly 1/3 of sales, and our movement toward 50% of revenues is a meaningful shift that advanced our business across the board.
+As we move forward, we will continue to strategically grow our transportation business, while at the same time continue to increase the growth rate of non-transportation revenues.
+We are well positioned in multiple end markets that offer attractive growth prospects.
+In the industrial space, we are seeing good traction in inkjet printing related to packaging and ceramic tile printing.
+We continue to expand our applications in cold and hot temperature sensing.
+In flow measurement, we have developed transducer applications in an area where we see good growth opportunities.
+In medical, we see strong mid to long-term growth driven by traditional ultrasound technologies.
+Additionally, with intravascular ultrasound applications, we are in sample qualification phases with potential customers, expanding our offering of temperature sensors in the medical market is a priority for us.
+In aerospace and defense, our growth in undersea Sonar is expanding as we develop samples with new European customers where we expect future growth.
+More recently, we provided samples for testing in underwater unmanned vehicle applications.
+We are working on new material formulations, which we expect to provide solid tailwinds for next-generation products and new applications.
+In transportation, the move toward hybrid and electric vehicles as well as increased sensor content with passive safety and future E-brake applications presents a tremendous opportunity.
+Importantly, except for the smart actuator, the rest of our portfolio is agnostic to the propulsion system, which allows us to be flexible to meet the needs of our customers.
+Overall, across all end markets, demand remains robust, in particular, in transportation, which we expect to continue given the historic low days on hand of vehicle inventories.
+As I highlighted last quarter, some automotive customers have confirmed demand through 2022.
+Order intake in the non-transportation end market was again strong in the third quarter.
+We remain cautious of potential inventory buildup in various end markets, but most likely will not see this as an issue in the first half of 2022.
+As I mentioned earlier, non-transportation sales now account for nearly 50% of our revenue, supported by our efforts to diversify the business.
+With a very challenging supply chain environment, our teams worked creatively and diligently to secure parts and adapt with speed to support our customers.
+Whilst transportation sales are lower than the previous quarter, we performed better than the outlook we provided in the last quarterly update.
+We expected the third quarter to be the most challenging from a supply chain perspective.
+The supply challenges and some customer shutdowns will likely persist for the balance of this year.
+We expect an improving trend in 2022.
+We also expect demand for automotive products to be robust in the year ahead as supply chain constraints improve.
+In the accelerator module product lines, we had large wins with two existing Japanese customers.
+We also had accelerator wins with customers in China and North America.
+For passive safety sensors, we secured a win with a North American OEM and were awarded a Chassis Right Height Sensor program with a Japanese OEM.
+Moving to Megatronics, a customer for actuator products, extended an existing platform for an additional year where products being supplied to all regions.
+two of the awards this quarter were electric vehicle wins, one with a European OEM, and one with a Japanese OEM.
+Bookings and sales for 2-wheeler applications were consistent with prior quarters.
+Our non-transportation end market performed strongly in the third quarter.
+Sales in industrial advanced from robust demand for temperature products across pool and spa, where we had two large awards, and we received multiple awards for HVAC applications.
+Our focus on extending into the hot side applications is gaining momentum, and we will begin shipments to a new customer later this year.
+Also, in industrial with wins for an EMC product, measurement transducers and a frequency product.
+We renewed contracts with two customers for an application in musical instruments and end use market, which continued to gain sales growth throughout the pandemic environment as consumers shift to dedicating more of their time to leisure products.
+Momentum in our medical end market continues to improve in a more consistently positive direction.
+We had several wins from aiding drug delivery to next-generation medical ultrasound applications.
+Also, for medical we secured temperature sensing awards with existing customers ranging from incubators to critical freezer and disposable applications.
+We are working with new customers sampling medical ultrasound and temperature sensing products.
+In defense, we had several undersea sonar wins and extended an RF filter program for a GPS anti-jamming application.
+As I mentioned earlier, we are testing samples with new customers and expanding new advanced material formulations for next-generation products.
+We had various smaller wins for RF and 10 applications and continue to develop frequency solutions to support millimeter wave technology for 5G applications.
+Operationally, Ashish will provide more color on the savings we anticipate from our restructuring activities, we are tracking close to the target range.
+We are nearing the end of our ERP implementation journey and the rollout of the SAP system, though we will continue to optimize our learnings and capabilities from these important initiatives.
+Our balance sheet is strong, which is bolstered by strong solid cash flow generation, continues to be a competitive advantage as we advance our diversification strategy.
+In the third quarter of 2021, we delivered operating cash flow of $21 million.
+As we look to capital deployment, our emphasis remains firmly on supporting organic growth investments and using our financial strength to advance on M&A in alignment with our strategic priorities.
+We also remain committed to returning cash to shareholders.
+This past quarter, we repurchased approximately 148,000 shares for slightly less than $5 million as part of our previously announced stock buyback program.
+We continue to strengthen our M&A pipeline in an environment where activity is at record highs.
+From an M&A perspective, our strategy centers on enhancing our technology and product capabilities as well as our geographic reach across our end markets to enhance our diversification goals.
+At the same time, adding technology that will enhance our EV offering remains a priority.
+Our sweet spot continues to be acquisition targets in the range of up to $50 million a year in sales, but we remain open for the right larger opportunities that will advance our long-term strategy.
+Looking ahead, the semiconductor shortage is now expected to reduce vehicle builds by nine million to 10 million units this year.
+Pressure from the semiconductor shortages and OEM shutdowns certainly deteriorated downwards in the third quarter.
+For the U.S. light vehicle transportation market, the SAAR dropped closer to $12 million in September, and we expect approximately 13 to 13.5 million unit range for this year.
+On hand days supply are now closer to 20 days, the lowest in recent history and down over 60% from the five-year average of 55 days.
+European production is forecasted in the 16 million to 17 million unit range.
+The Chinese market has fluctuated, which also reflects the chip related impact.
+China volumes are expected to be in the 23 million to 24 million unit range for this year.
+The commercial vehicle market remains solid and likely to remain robust in 2022.
+The biggest challenge to that outlook is the supply of semiconductors and the subsequent rescheduling of some unit builds into next year.
+As I mentioned earlier, for transportation, the supply challenges will continue to impact our sales for the balance of this year.
+However, we continue to see improvements in the medical end market as well as solid growth in industrial and defense markets.
+In terms of our guidance for full year 2021, we are updating and narrowing our range.
+Our previous guidance was for sales in the range of $480 million to $500 million and adjusted earnings per share in the range of $1.70 to $1.90.
+We are now updating our guidance for sales to be in the range of $495 million to $505 million, and adjusted earnings are expected to be in the range of $1.85 to $1.95.
+Our global team continues to demonstrate strong execution and a commitment to delivering operational excellence and achieving our long-term goals.
+Our investments in our business development program and front-end sales are providing us with opportunities to build on our existing accounts and cross-sell our technologies, as you will find at some of our new business wins.
+In our ongoing efforts to build our talent and culture, we came together in September as the global leadership team for the first time since the beginning of the pandemic.
+Our event proved to be engaging and energizing as we collaborated and worked diligently on our focus 2025 initiatives to support growth, focusing on our strategic path forward customer relationships, operating systems, leadership, talent and culture.
+Along the same lines and as part of our ongoing efforts to bolster engagement in our communities, we launched CTS Cares, a new platform designed to help our employees across the globe, collaborate on community engagement and charitable giving programs and share best practices for doing so.
+This is our 125 anniversary, and we're very proud of our rich heritage and excited by what we can give back to our communities in the years ahead as we integrate the CTS Cares program into our culture.
+In conclusion, CTS is well positioned for the future.
+We have a strong team aligned around common goals that continue to advance the business for long-term value creation for our shareholders and other stakeholders.
+Third quarter sales were $122.4 million, up 8% compared to the third quarter of 2020 and down 6% sequentially from the second quarter.
+Sales to transportation customers declined by 5% compared to the third quarter of 2020 and 13% sequentially.
+Conversely, sales to our other end markets increased 24% year-over-year and 3% sequentially, as the industrial, aerospace and defense end markets exhibited consecutive year-over-year double-digit growth.
+As Kieran mentioned, this quarter, we have made significant advances in our diversification strategy as the sales to transportation end market represented 51% of our total revenue.
+We remain committed to further diversifying the business.
+Changes in foreign exchange rate impacted our revenues favorably by approximately $1.3 million.
+Our gross margin was 37.3% in the third quarter, up 490 basis points compared to the third quarter of 2020 and up 50 basis points sequentially from the second quarter of 2021.
+Our global team's operational efficiencies as well as profitability in our industrial, medical, aerospace and defense end markets helped mitigate the price increases in raw materials and freight costs that we have seen during the year.
+We are also working closely with our customer base to find the best ways to manage the macroeconomic pricing pressures we currently face.
+In the third quarter, we achieved $0.03 in earnings per share in savings from our restructuring program.
+We remain on track to achieve targeted annualized savings of $0.22 to $0.26 of earnings per share by the end of 2022.
+SG&A and R&D expenses were $26 million or 22% of sales in the third quarter of 2021 versus $23 million or 20% of sales in the third quarter of 2020.
+The higher expenses in 2021 were driven by higher incentive compensation, timing of certain projects and the full restoration of cost reduction initiatives implemented in 2020.
+In the third quarter, we recorded a noncash charge of $106 million before tax as part of the U.S. pension plan termination process.
+As a reminder, these are noncash charges as the U.S. pension plan was overfunded at settlement.
+The third quarter tax rate was 28.9% as a result of the impact of the final pension settlement charge on our income statement.
+We anticipate our 2021 tax rate to be in the range of 19% to 21%, excluding the impact of the pension settlement and other discrete items.
+We are also closely monitoring the U.S. government initiatives on tax that may impact our business in the future.
+For the third quarter 2021, we reported a loss of $1.97 per share.
+Adjusted earnings for the third quarter were $0.46 per diluted share compared to $0.34 per diluted share in the same period last year.
+Our operating cash flow was $21 million for the third quarter of 2021 compared to $26 million in the same period last year.
+The primary driver of lower operating cash during Q3 was inventory increases in our plants as we work through the supply chain challenges and our customers pushing out shipments.
+We continue to focus on working capital efficiency, but anticipate carrying some excess inventory considering the ongoing supply chain challenges.
+Our cash position is strong with a cash balance of $129 million as of September 30, 2021, up from $92 million on December 31, 2020.
+Our long-term debt balance is at $50 million, a slight decrease from the $55 million on December 31, 2020.
+Our debt to capitalization ratio was at 9.9% at the end of the third quarter compared to 11.4% at the end of 2020.
+Given the strength of our balance sheet and cash flows, we continue to carefully consider M&A transactions that will further help our diversification efforts.
+We are near the end of our rollout of the SAP system.
+A majority of our sites are now running on SAP, and we expect to complete the rollout to the remaining sites in early 2022.
+As Kieran mentioned earlier, we see a sustained demand ahead of us.
+However, supply chain challenges are expected to persist for us and our customers on both material availability and cost through the rest of the year and into 2022.
+This concludes our prepared comments.

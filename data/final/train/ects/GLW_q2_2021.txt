@@ -1,0 +1,237 @@
+These factors are detailed in the company's financial reports.
+You should also note that we'll be discussing our consolidated results using core performance measures unless we specifically indicate our comments relate to GAAP data.
+Our core performance measures are non-GAAP measures used by management to analyze the business.
+In the second quarter, GAAP net income was $449 million.
+However, GAAP earnings per share was a loss of $0.42 due to the GAAP accounting treatment required for the transaction entered into with Samsung Display.
+Let me take you through why this was the case.
+As a reminder, on April 5, 2021, Corning entered into a share repurchase agreement with Samsung Display.
+As part of the agreement, Samsung converted preferred stock into common stock, and Corning immediately repurchased 35 million shares of that common stock from Samsung.
+The common shares were traded on the open exchange, so GAAP requires a special accounting treatment of the repurchase as an extinguishment of the original preferred shares.
+The accounting treatment for an extinguishment of preferred shares is to record the difference between the repurchase price and the original book value in retained earnings.
+This adjustment to retained earnings is also removed from net income available to common shareholders when calculating GAAP earnings per share.
+Excluding this, U.S. GAAP earnings per share would have been $0.52.
+Differences between our GAAP and core results can also stem from non-cash mark-to-market gains or losses associated with hedging contracts.
+They were de minimus this quarter.
+A reconciliation of core results to the comparable GAAP values can be found in the Investor Relations section of our website at Corning.com.
+You may also access core results on our website with downloadable financials in the interactive analysts center.
+We encourage you to follow along and they're also available on our website for downloading.
+Today we reported outstanding second-quarter results and we're on track for a strong year.
+Versus second-quarter 2020, sales grew 35% to $3.5 billion.
+EPS grew 112% to $0.53 on the higher sales and expanding margins.
+Free cash grew 65% to $471 million with first-half cash generation of $843 million.
+No question, we're in great shape and we see a clear growth story playing out across our businesses.
+Each of our five segments grew sales by a double-digit percentage year over year, ranging from 16% for specialty materials to 80% for environmental technologies.
+Now, of course, 2020 was an easy compare so I think it's worth noting that even versus second quarter of 2019, we grew total company sales and earnings per share 17% and 18%, respectively.
+Since the second quarter of 2019, we've added more than half a billion dollars in quarterly sales.
+About $200 million is from Hemlock and more than $300 million is organic growth with about 70% of that coming from success of our more Corning content strategy and outperforming the competition.
+The other 30% of organic growth is from rising with the market.
+In each of our market access platforms, we're addressing significant and transformational trends.
+We seek to drive content and expand our total addressable market by combining capabilities from our focused portfolio and prioritizing opportunities for more Corning.
+Our long-term strategy is built on a complementary set of three core technologies for proprietary, manufacturing, and engineering platforms, and five market access platforms.
+And the synergies among them allow us to create distinctive benefits for our customers, improve the return on our investments in R&D and reduce our capital intensity.
+We create breakthrough products and processes by leveraging the synergies among our core capabilities, capitalizing on insights we gain through close collaboration with our customers and taking advantage of our existing plants and pilot facilities for early stage production.
+For example, over the past few years, we have created new-to-the-world products including ceramic shield, tougher Gorilla Glasses, auto-grade glass, Valor drug packaging, Gen 10.5 display glass, innovative passive optical solutions that are dramatically increasing the ease and cost efficiency of network deployments.
+But we're not just creators, we're also builders.
+We do the manufacturing ourselves using processes that we invent and proprietary equipment that we design and build.
+When growth opportunities arise and demand exceeds our existing capacity, we build state-of-the art plants to manufacture products at scale.
+And we locate these plants in close proximity to our customers, a strategy that is likely to continue to pay off in a post-pandemic world.
+We derisk these investments by requiring meaningful commitments from customers often including funding before beginning construction.
+We last detailed our build investments with you in 2019 when we described our focus, create, build, extend value creation cycle.
+We pointed out how our build projects were directly responding to customer needs and commitments.
+We knew that carriers like AT&T and Verizon would need more fiber to densify their networks for 5G.
+We knew that BOE would need glass for its Gen 10.5 panels, that car companies would need gasoline particulate filters to meet new regulations, that bio tech companies would need high density cell culture to support gene therapy, and that smartphone OEMs would need increasingly durable, scratch-resistant cover glass as they design thinner phones and bigger cameras.
+We told you these build projects would increase our capacity to meet committed demand, and that as we delivered on that demand, they would increase our revenue and generate excellent returns.
+Today the build projects we undertook from 2016 to 2019 are collectively delivering return on invested capital above 20%.
+They've helped us increase our sales run rate from $10 billion in 2015 and 2016 to our current run rate of $14 billion, and they've help us improve total company ROIC by three percentage points.
+Importantly each time we build, we increase our scale and we enhance the opportunity to extend our leadership and create new innovations.
+And because we're constantly improving our productivity and capabilities, we can often manufacture these innovations and drive revenue growth without building new facilities.
+Now we actually spend most of our time in this extend part of the cycle.
+It's where we are today.
+In this phase, we keep creating and extending until we're so successful that demand exceeds our capacity.
+As we reapply our insights and repurpose our assets, our best-in-the world capabilities just keep getting better.
+Every time we pursue an adjacent opportunity, we explore new combinations of capabilities.
+We push the boundaries in areas where we already lead and we cross-train our people in deep and important ways.
+In other words, we've created a positive feedback loop that expands our knowledge, increases the relevance of our capabilities, and enhances our value to customers.
+And this directly fuels our content strategy.
+We aren't exclusively relying on people buying more stuff.
+We're putting more Corning into the products that people are already buying.
+With that in mind, let's look at some of the initiatives we're advancing across our market access platforms.
+In mobile consumer electronics, we continue to help transform the way people interact with and use their devices.
+We capture growth, increasing the value we offer on each of those devices.
+In the quarter, consistent with our strategy to a customer commitments and support of build initiatives, Apple awarded Corning an additional $45 million from its advanced manufacturing fund to help expand our manufacturing capacity in the United States and to support our R&D.
+To date, we've received $495 million dollars in total from Apple's fund.
+We've also launched another chapter in our more Corning strategy with an important application of our capabilities to enhance the optics of smartphone cameras, which is a new category for us.
+The social media experience is centered around photos.
+Device designers are adding cameras and increased lens size.
+They're also integrating more advanced capabilities such as telephoto, wide-angle lenses, and infrared sensors.
+These features naturally increase the prominence of the lens surface area, which in turn increases the likelihood of scratches and damage, and to Corning.
+Just last week, we announced Gorilla Glass with DX and DX plus for mobile phone cameras.
+Our DX family increases image quality and camera durability by providing a composite glass material that combines low reflection with scratch resistance approaching sapphire.
+Samsung is the first adopter.
+OEMs are designing cleaner and safer vehicles with technology that enhances the driving experience.
+We're uniquely suited to address these trends and we're pursuing $100 per car content opportunity across emissions, precision glass products, and auto glass solutions.
+And we recently entered a new product category in automotive, curved mirror solutions.
+Our solutions are enabling the augmented reality head-up display in Hyundai's new electric crossover, the IONIQ 5.
+The system essentially turns the windshield into a display screen, letting drivers keep their eyes on the road while assessing navigation and speed information directly in their line of sight.
+Additionally a new generation of gasoline particulate filters is helping us on our way to surpassing $500 million in annual GPF sales, well ahead of our original timeframe.
+Turning to life sciences.
+We're delivering growth on multiple fronts.
+We're seeing ongoing demand in support of the global pandemic response while inventions are helping advance the transition to cell and gene therapies.
+And we're making significant strides toward building a Valor Glass franchise, addressing a multi-billion dollar content opportunity in the pharmaceutical packaging market.
+In the second quarter, we further increased Valor production capacity and secured additional customer wins.
+We worked with Thermo Fisher and OPTIMA Pharma to create solutions that increase [Inaudible] filling speed by nearly 70%, thereby alleviating a critical bottleneck in the medical supply chain.
+Our collaboration features a combination of Corning's Valor vials and OPTIMA's ultra high-speed fill and finish solutions.
+Thermo Fisher called the results "a game changer in their ability to serve patients".
+Turning to display, we've experienced the most favorable pricing environment in more than a decade and we announced a second moderate increase to our display glass substrate prices.
+Stepping back, we're the lowest cost producer of display glass, which makes us significantly more profitable than our competitors.
+Our superior products, [Inaudible] capabilities, and deep customer relationships enable us to enhance our leadership position.
+Meanwhile the emergence of Gen 10.5 has given us a unique opportunity although the market for large size keys is expected and projected to grow at a double-digit CAGR through 2024.
+And Gen 10.5 provides the most economical approach for larger sets.
+We recently hosted the official opening ceremony for our Gen 10.5 facility in the city of Wuhan.
+This site is co-located with a large BOE plant, allowing Corning to deliver Gen 10.5 glass substrates more efficiently to our customer for its production of large-sized display panels.
+Gen 10.5 provides strong economics for our shareholders while creating options to use earlier generation fusion tanks for new applications such as automotive and cover glass.
+To illustrate, remember that we launched our Gorilla Glass business back in 2007 by repurposing some of our existing fusion assets.
+Over time, repurposing has resulted in us avoiding more than a billion dollars in capital spending.
+Finally, let's look at optical communications.
+We're energized by the momentum that is building in this business.
+We see that momentum confirmed by multiple sources.
+First is network need.
+Demand on the network has only been increasing.
+Broadband usage for June was up 33% versus pre-pandemic levels, and up 10% versus June 2020, which was a peak quarantine period.
+Global 5G subscriptions have grown to almost $300 million, and they're on track to double that by the end of 2021 according to industry projections.
+The second confirmation is customer commitments.
+And many of our customers are actually being quite public about their plans.
+We believe we're in the early innings of a large capital deployment cycle across 5G, fiber to the home, and hyperscale data centers.
+On AT&T's earnings call last week, their CEO said that by year end, they expect to have expanded their fiber footprint by 3 million locations, including both business and consumer customers.
+Deutsche Telekom's managing director recently shared that by 2024, they're planning to have about 10 million homes passed and 97% 5G coverage.
+He said, "The expansion of high performance networks is our top priority whether with 5G in mobile communications or fiber optic broadband expansion.
+To achieve this we are massively increasing the investments in our network end quote".
+And Microsoft CEO recently shared his perspective on expanding data center capacity to meet cloud demand.
+He said, "Digital adoption curves aren't slowing down.
+In fact, they're accelerating and it's just the beginning".
+Of course, the third confirmation is our order book, which is perhaps the most important indicator of growth over the next few quarters.
+Here, we're seeing year-over-year growth in double-digit percentages in both carrier and enterprise networks.
+During the quarter, we extended our technology and market leadership in optical communications by introducing new solutions that speed network deployment.
+We launched Corning SM-28 contour fiber, which offers an industry first combination of superior bendability, compatibility with other fibers, and low signal loss.
+We also launched Edge rapid connect solutions that increase fiber density and reduce customer installation time by up to 70%.
+Across our markets, you can see that our value creation model is driving growth and that key trends are converging around our capabilities.
+We're helping our customers move toward a world with nearly infinite and ubiquitous bandwidth with large lifelike displays where cars are cleaner, autonomous, and connected; where medicines are individualized, effective, and safe; and where you can do more from your mobile device protected by cover materials that are more and more capable.
+Now I'll wrap up my remarks today with one final point.
+I've always said that how we do things is as important as what we accomplish.
+So I'd like to take a moment to emphasize that we're committed to making a difference wherever we can.
+We're building on more than a century of honest respectful and fair behavior.
+And such behavior must continuously characterize all our actions, including progress toward improving our environmental, social, and governance programs.
+To share insight into our approach, we recently issued our annual report on diversity, equity, and inclusion, and we published our first sustainability would play.
+On all dimensions, Corning is operating exceptionally well, focused on providing value for all our stakeholders.
+And I look forward to updating you on our progress as we build on our momentum in the second half of the year.
+As Wendell said, we are on track for a strong year.
+Second-quarter results were outstanding.
+We added almost $1 billion in sales year over year, a half a billion in sales over pre-pandemic levels, and we generated significant operating and free cash flow.
+We also improved margins both sequentially and year over year, which contributed to our strong EPS.
+Across the board, our progress has been very positive.
+In particular pre-pandemic comparisons highlight our strength.
+We are confident this momentum will continue.
+In our markets, Corning's unique capabilities put us at the center of a substantial growth trend while our content strategy drives our performance.
+And we have a highly effective value creation model in place to deliver profitable growth and create shareholder value.
+Now let me walk you through the key metrics and drivers of our second-quarter performance.
+Sales increased 35% year over year to $3.5 billion, a strong run rate.
+Net income was $459 million, up 111%, an earnings per share was $0.53, up 112% year over year.
+We saw continued strength across our business segments.
+Optical communications delivered its third consecutive quarter of year-over-year growth and we expect to see that trend continue.
+Display technologies was up sequentially and year over year, and continues to experience the most favorable pricing environment in more than a decade.
+Life sciences and environmental outperform their markets and grew significantly versus last year's pandemic lows.
+Sequentially gross margin improved 200 basis points to 37.8% and operating margin improved 120 basis points to 18.3%.
+On a year-over-year basis, gross margin expanded 450 basis points and operating margin expanded 710 basis points.
+Now during the quarter, we continued to face supply chain disruptions and inflationary headwinds.
+Planning and increased output allowed us to reduce costly airfreight but the sequential improvement was offset by increases in shipping rates and the cost of certain raw materials, such as resin, a key component in our optical and life sciences businesses.
+In total, we felt about the same 150 basis points drag on margins as in Q1.
+Now while we don't expect significant improvement on the supply chain costs in the short term, we do expect them to normalize over time and we're taking mitigating actions, including raising prices in selected product lines.
+Now as is usual in the second quarter, operating expenses in dollars increased sequentially.
+The increase was greater than in prior years because of a larger -- because of larger variable compensation accruals consistent with our rising outlook.
+Free cash flow was $471 million, up $186 million year over year.
+Cumulative free cash flow for the first half of 2021 was $843 million.
+We expect to generate significant free cash flow in the second half of the year and to suppress our 2020 total by a wide margin.
+Now let's take a closer look at the performance of each of our businesses.
+In display technology, second-quarter sales were $939 million, up 9% sequentially and 25% versus 2020.
+Net income was $248 million, up 16% sequentially and 63% year over year.
+And Q2 sequential prices increased moderately as we implemented a price increase during the quarter.
+For the third quarter, we are moderately increasing glass prices once again.
+We believe the pricing environment will remain favorable going forward.
+Three factors will continue to drive this.
+First, we expect glass supply to remain short to tight in the upcoming quarters.
+Second, our competitors continue to face profitability challenges at current pricing levels.
+And third, display glass manufacturing requires periodic investments in existing capacity to maintain operations.
+Now we receive a lot of questions on how pandemic has impacted the display industry.
+For example, will there be fewer TVs sold in 2021 or in 2022?
+And what's the impact on the glass market?
+So let me take a moment to explain our view.
+I'll focus on televisions since they represent about 70% of the glass market.
+Since LCD TV has emerged as mainstream technology in 2004, LCD's television units have only three times and never two years in a row an annual glass demand has never declined.
+Assess 2014 television set for units are typically range bound between 225 million and 235 million while average screen size grows about an inch and a half a year.
+In 2020, global TV units increased 4% above the trend line to about 242 million.
+Screen size growth was about 1.2 inches, about 20% below trend.
+A lot of smaller TVs sold, probably to accommodate more people living working and studying from home.
+In total, glass demand was up mid-single digits.
+Now entering the year, we expected and continue to expect the market to revert to trend, implying a decrease in TV units, especially smaller TVs, and for normal growth of one and a half inches in screen size to return.
+We now have retail data through the first half of 2021 and it is largely confirmatory.
+TV units declined by a mid-single digit percentage year over year while average size growth returned to the one and a half inches per year trend.
+Unit volume for TVs, 65 inches and larger increased over 20% and smaller televisions were down by a high single digit percentage.
+Now consistent with math and history, the glass market grew.
+So halfway through the year, our expectations for TV units being down year over year and seen -- screen size growing approximately one and a half inches are playing out.
+Looking ahead to 2022, we think TV units and screen size will continue to follow historical trends.
+That means TV units will be within the typical range and average screen size will grow about one and a half inches.
+Now we have yet to see how the current holiday retail season plays out so we don't have enough information to definitively comment too much on next year but it is worth noting that TV units, which are declining this year, have never declined two years in a row.
+And next year is a world cup year and TV units have never declined in a world cup year.
+And finally, the biggest driver of retail glass growth in most years is the increase in screen size.
+We would expect the average screen size to once again grow one and a half inches next year.
+Now where we find our views based on this year's holiday retail season, which is still in front of us, and we will keep you updated.
+Let's move to optical communications, which continues its growth in with sales surpassing a billion dollars, up 21% year over year and 15% sequentially.
+Sales increased by a double-digit percentage in both carrier and enterprise network sequentially and year over year.
+Net income was $148 million, up 83% year over year and 33% sequentially.
+Higher volume and better operational performance drove the improvement.
+The environment is extremely favorable.
+Demand on networks is at an all-time high.
+In response, operators are expanding network capacity, capabilities, and access.
+The pace of data centers builds is accelerating and capital spending by our customers is increasing.
+Governments around the world are announcing and initiating plans to extend the reach of broadband.
+All this points to the start of a strong sustained investment phase across the industry.
+We are the market leaders and we're well-positioned to capture significant growth as network investment increases our solutions improve the speed and capital efficiency [Inaudible].
+Additionally, Corning is the only large-scale Indian manufacturer of optical solutions, which allows us to innovate on important dimensions not available to competitors.
+Our broad customer base unquestioned technology leadership puts us squarely at the center of customer investments for fiber-to-the-home, rural broadband, 5G, and hyperscale data centers.
+In environmental technology, second-quarter results for $407 million, up 81%year over year but down 8% sequentially.
+Net income improved year over year to $81 million and also grew sequentially, partly due to improved freight and logistics costs versus Q1.
+Car-related sales increased 68% year over year as vehicle production improved from pandemic lows and GPF adoption continues in Europe and China.
+Auto markets continue to be constrained by chip shortages, which impacted our automotive sales sequentially in the second quarter.
+We are monitoring in-market demand and supply chain activity as we go through the second half of the year.
+We remain on track to build a $500 million gasoline particular filter business ahead of our original timeframe.
+We continue to innovate to solve our customer's most challenging problems and have recently begun to ship next-generation GPFs to help OEMs achieve even lower levels of emissions.
+In diesel, sales grew 101% year over year driven by continued customer adoption of advanced after-treatment in China and continued strength in the North American heavy duty truck market.
+Specialty materials delivered another outstanding quarter.
+Following first-quarter year-over-year growth of 28%, the second quarter was up 16% year over year with sales of $483 million.
+Demand remains strong for our premium cover glass materials and I.T. products.
+During the quarter, our premium glasses and services supported multiple new phone and I.T. launches, including 16 smartphones along with six laptops and tablets featuring Gorilla Glass.
+Demand also remains strong for advanced optics content used in semiconductor manufacturing, which are essential for deep ultraviolet and extreme ultraviolet or EUV lithography.
+Now investments and innovations that are moving toward commercialization resulted in lower net income than in 2020.
+As we've noted before, newer innovations can face high costs as we develop and scale our manufacturing processes.
+We anticipate that profitability will improve as we come up the learning curve and improve utilization.
+Life sciences second-quarter sales were $312 million, up 28% year over year and 4% sequentially driven by ongoing recovery in academic and pharmaceutical research labs and continued strong demand for bio production vessels and diagnostic-related consumables.
+Net income with $52 million, up 68% year over year and 8% sequentially driven by the higher sales and solid operating performance.
+So our businesses performed very well and our markets are strong.
+That said let me take a moment to reiterate our commitment to financial stewardship and capital allocation.
+Our fund -- our fundamental approach remains the same.
+We will continue to focus our portfolio and utilize our financial strength.
+We generate very strong operating cash flow and we expect that to continue going forward.
+We will continue to use our cash to grow, extend our leadership, and reward shareholders.
+Our first priority for use of cash is to invest in our growth and extend our leadership.
+We did -- do this through R&D investments, capital spending, and strategic acquisitions.
+Our next priority is to return excess cash to shareholders in the form of dividends and opportunistic share repurchases.
+This year we increased our quarterly dividend by 9% and resumed share buybacks by repurchasing and retiring 4% of our outstanding common shares from Samsung Display.
+In closing, we had an excellent quarter.
+Our performance relative to both 2020 and 2019 adds to our confidence that we are on track for an outstanding year.
+For the third quarter, we expect core sales in the range of $3.5 billion to $3.7 billion and we expect earnings per share in the range of $0.54 to $0.59.
+Our value creation model is working.
+We are pursuing opportunities that utilize capabilities from our focused and cohesive portfolio to drive growth.
+By repurposing and reapplying capabilities, we're increasing our probability of success lower our cost of innovation and becoming more capital efficient.
+I look forward to sharing our progress with you as the year goes on.
+With that let's move the Q&A.
+And, Katherine, we're ready for our first question.

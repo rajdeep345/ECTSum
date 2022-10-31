@@ -1,0 +1,130 @@
+And our actual results could differ materially.
+In addition, our discussion today will include references to certain supplemental non-GAAP financial measures and should be considered in addition to and not as a substitute for our GAAP results.
+Also, during the call today, we will be referring to the slide deck posted on our website.
+I'm excited to share this update with all of you today, which continues to expand on our themes of exceptional growth and market-leading innovation.
+First, as a quick snapshot of our recent growth, in the fourth quarter of 2021, we delivered $106 million of revenue and 38% adjusted EBITDA margins, ending a year of exceptionally strong execution on a high note.
+In 2021, we measured 4.5 trillion ad impressions, resulting in record revenue of $333 million, an increase of 36% compared with a year ago.
+We grew faster than the digital advertising industry and significantly outperformed the industry's programmatic, social, and CTV growth trajectories, while generating 33% adjusted EBITDA margins.
+We completed strategic acquisitions of Meetrics and OpenSlate and successfully continue to evolve our customer value proposition from protection to performance with the launch of two new identity independent performance solutions that do not rely on third-party cookies or persistent identifiers, custom contextual and DV authentic attention.
+Building on the update we provided at our investor day on February 25, I will discuss the current and future scaling of our business within the context of our five key growth drivers, which are product evolution, channel extension, international expansion, current client upsell and cross-sell, and new client acquisition and strategic M&A.
+Nicola will then discuss our fourth quarter and 2021 results, as well as our outlook for 2022.
+Beginning with product evolution.
+Our expansion of pre-campaign activation solutions that drive performance continued to be led by authentic brand suitability, or ABS.
+ABS was the largest driver of revenue growth for our advertiser programmatic business.
+ABS revenue grew 77% in 2021 and contributed approximately $85 million to our top line.
+For most of last year, ABS revenue was fueled by continued customer adoption and volume expansion on major buying platforms, most notably Google's DV360 and The Trade Desk, where it was launched in 2020.
+Considerable ABS growth also came from upgrading current clients to ABS, as well as selling ABS to new clients at the outset of their relationship with DV.
+While a significant majority of our top 100 clients are now using ABS in some applications, their usage of the product tends to be in North America where programmatic buying is dominant.
+There is a substantial and growing opportunity to upsell ABS to our biggest clients in their international markets, where adoption of this premium performance product has just begun.
+In the fourth quarter, for example, we activated ABS with Disney in Latin America, Colgate in EMEA, and Nike in 21 global markets.
+We have just started to scratch the surface of ABS growth with current clients in markets outside of North America.
+Beyond our top 100 customers, approximately 40% of our top 500 clients still do not use ABS in any market, representing a solid expansion opportunity among this established customer base.
+We are focused on making ABS and all of our performance solutions an integral component of an unmatched suite of independently accredited pre-campaign activation and post-campaign measurement tools that drive better outcomes for advertisers.
+While we're discussing DV's programmatic activation products, I'd like to highlight our MRC pre-bid accreditation announcement made last week, establishing DV as the only provider currently accredited for predicted viewability targeting, as well as property-level ad verification, inclusive of brand suitability and contextual targeting within programmatic media campaigns.
+To put it simply, we have the only fully accredited programmatic suite in the market today.
+We expect this unique differentiator of DV's programmatic solutions, including ABS and DV custom contextual to further drive our programmatic sales momentum and support DV's overall RFP win rate, which was 80% in 2021.
+Beyond our core Programmatic solutions, we're excited about the growth opportunities with our newest performance products, authentic attention, custom contextual, OpenSlate's pre-campaign social targeting tools and our audience verification solution with Comscore.
+Today, let's dig deeper into two of them, authentic attention and audience verification.
+DV authentic attention, which you'll be hearing a lot about over the next few quarters, builds upon the baseline quality and safety metrics established by the DV authentic ad.
+For ad impressions that meet the standards of the authentic ad, attention measurement provides a real-time impression level view of engagement and exposure, which allows advertisers to optimize media based on what's resonating most with audience.
+As traditional performance metrics like reach and frequency lose their efficacy due to privacy and policy changes, we believe that attention will be the next currency that advertisers rely on to drive outcomes.
+Our go-to-market strategy for authentic attention leverages DV's established customer base of over 1,000 leading brands to drive ubiquitous uptake of these new data sets.
+We essentially have a built-in pool of trial customers.
+In Q2, we will provide a preview of attention metrics through our software platform, Pinnacle, to all customers that use the DV authentic ad, exposing the biggest brands on the planet to the performance solution of the future.
+Today, we are the only leading verification company to have built and launched a comprehensive attention solution.
+We've already secured accreditation for fully on-screen measurement and attention metrics specific to CTV and we'll continue to expand our lead in accreditations of all our attention metrics over time.
+Turning to our upcoming audience verification solution.
+We are excited to launch a market-leading product in partnership with Comscore.
+By using audience verification, advertisers will be assured that the cross-platform audiences they are measuring are free of invalid traffic, delivered in view into the right geography and in the right brand environment.
+This is an industry-first measurement solution that combines media quality verification data with audience data to help advertisers maximize campaign performance and drive real business outcomes.
+We expect to launch the first iterations of this evolving joint offering for a select group of customers as early as the second quarter of 2022.
+Moving on to our second growth driver, channel extension.
+We are excited about our continued growth in Social and CTV.
+Social revenue grew by nearly 50% in 2021 with strong performance across Facebook, YouTube, Twitter, Snapchat, and Pinterest as more than 300 new advertisers activated DV's social media verification solutions last year.
+We believe the prospects for social growth in 2022 and beyond are exceptional for two key reasons.
+First, we are expanding our solutions and coverage on both emerging and leading social platforms, including TikTok, Twitter and several others.
+And second, we have accelerated our product road map in social through the successful integration of OpenSlate's pre-campaign social activation solutions into our sales process, providing an expansion opportunity with all existing DV customers and prospects.
+Beginning with TikTok, we continue to expand coverage of our viewability solution, which is now available in 67 countries.
+Our solution has been used by nearly 30 advertisers, resulting in average monetized impression growth of approximately 220% over the last six months.
+On brand safety and TikTok, DV's advertiser activated brand safety controls continue to expand and have now been rolled out in North America, the U.K., Australia and the Middle East, with 82 advertisers using the solution.
+In addition, we continue to develop end-to-end in-feed solutions in conjunction with TikTok.
+With coverage of viewability, fraud and in-geo, as well as our brand safety controls, DV offers the most comprehensive measurement and activation product offering across TikTok today.
+On Twitter, we're developing a brand safety and suitability measurement solution for Twitter's news feed, known as timeline, and expect to launch this in the first half of 2022.
+Moving on to pre-campaign social solutions that we are integrating into our platform via the OpenSlate acquisition, we're actively working to capitalize on both immediate and long-term revenue opportunities.
+We have begun cross-selling our combined pre-campaign activation solution to DV's expansive global customer base.
+Our research demonstrates that when our pre-campaign activation and social solutions are paired with our post-bid measurement products, we can deliver significantly improved outcomes for our customers.
+On YouTube, we saw that when our pre-campaign activation solutions are applied to campaigns, brand suitability incidents are reduced by up to 50%.
+We expect to be able to drive even better advertising outcomes for advertisers as the operational integration progresses.
+On CTV, our impression volumes grew 57% in 2021.
+And by the fourth quarter, 25% of our tag-based advertiser video impressions were CTV.
+So in essence, one of every four of DV's open internet video impressions are attributable to CTV, over-indexing relative to CTV share of the digital video across the industry and underscoring the growing importance of verification in this fast-growing sector.
+Our CTV products are becoming essential to advertisers because fraud and viewability are emerging as real challenges to advertiser and media investment confidence.
+Fraud continues to violate unprotected digital transactions with increasing incidences of counterfeit SSAI servers generating fake CTV inventory across countless apps, IPs and devices.
+As recently as last month, DV discovered a new scheme that we've dubbed ViperBot, which strips the code that verifies ad impressions and then conceals and redirect this code through real devices to hide the fraudulent activity and attempt to go undetected.
+DV customers are fully protected from this scheme, which continues to scoop more than 5 million devices and over 80 million ad requests per day, undercutting ad investments and underlining performance.
+In addition to fraud, viewability, which has generally been assumed by CTV advertisers is also being challenged in CTV.
+In a recent study, DV discovered that one in four analyzed CTV environments continue to play programming content, including recording ad impressions after the television was turned off.
+The ad was delivered, but certainly was not viewed, rendering performance measurement invalid and diverting media investment.
+To combat this latest viewability challenge, last month, DV launched fully on-screen prebid targeting, enabling connected advertisers to target inventory from sources that are tested and evaluated by DV to ensure ads are only displayed 100% on screen and when the TV screen is turned on.
+Through this first-of-a-kind solution, DV complements our post-bid measurement capabilities with pre-bid targeting, empowering programmatic advertisers to address CTV's viewability challenges across the media transaction.
+DV fully on-screen prebid segments are available on Amobee, MediaMath and Microsoft Xandr with more media buying platforms coming.
+In addition to these CTV solutions, DV is the first and only verification provider to provide effective brand suitability controls in CTV environments.
+We currently offer CTV app inclusion and exclusion lists and app level controls that are utilized in both monitoring and active prebid avoidance.
+And we will be launching content level classification in CTV in 2022.
+Shifting to international expansion.
+International revenue grew by almost 70% last year with APAC revenue growing by 84% and EMEA by 61%, all outpacing the industry and our competitors.
+International now contributes 26% of our overall direct revenue.
+We currently generate revenue in 93 countries and from our expanding base of 20 locations outside the United States, we will leverage our exceptional RFP win rate to take advantage of the expansion opportunity that exists in markets around the world.
+In 2021, 55% of our headcount growth was driven by international hires as we continue to invest in expanding our global presence.
+Turning to client upsells and new client acquisition.
+We signed 176 new advertising customers in 2021, including brands such as Target, GEICO, Diageo, BMW, Bumble and Apple services.
+61% of our new logo wins were greenfield, while 39% were competitive wins.
+In addition, on the supply side of the business, we added numerous new platform clients such as Amazon, Taboola, AdTheorent, Smartclip, and Verve, as well as 19 new publishers to the fold.
+The platform and publisher businesses are additional great examples of how we can extend our core data assets into entirely new revenue lines.
+With regard to our final growth lever, strategic M&A, the integrations of Meetrics and OpenSlate are progressing well, and we have received client and partner endorsement of the additional global breadth and product depth that they have delivered to DV.
+With a strong and growing cash position and zero debt, we are exceptionally well-positioned to take advantage of global market expansion, product acceleration and solution extension opportunities that exist in the market.
+Wrapping up with a quick take on our innovation story, DV continues to lead the industry with unique value-driving solutions that set us apart from our competitors, paving the road for additional growth ahead.
+In the last 12 months, DV has launched or expanded the only widely available attention solution, the only comprehensively accredited programmatic suite, the only solution for measuring and filtering fully on-screen CTV impressions, the only certified CTV fraud program for programmatic partners, and we are the only leading verification company to root out and publicize the numerous new fraud attacks that shake the confidence of digital advertisers around the globe.
+And soon, we will launch the only verified audience solution along with Comscore.
+And now we are the only independent leading verification company that is not in the conflicted business of selling digital ads.
+We lead and differentiate with innovation and earn our customers' trust through independence.
+Let me begin with a review of our fourth quarter and full year 2021 performance before discussing our 2022 outlook.
+Growth and profitability accelerated in the fourth quarter.
+We generated $106 million of revenue, representing year-over-year growth of $27 million or 34%.
+We grew fourth quarter adjusted EBITDA to $40 million or 46% year over year, representing a 38% adjusted EBITDA margin.
+For context, DV generated more revenue and more adjusted EBITDA in the fourth quarter of 2021 than it did in all of 2018.
+Fourth quarter results were ahead of our expectations as the impact of supply chain disruption on CPG and auto ad spend was lower than we had anticipated going into the quarter.
+Stronger-than-expected growth from verticals such as financial services, retail and entertainment more than offset the slight weakness in CPG and auto, demonstrating the benefits of our well-diversified customer base.
+The acquisition of OpenSlate completed at the end of November did not have a material impact on fourth quarter results.
+And as previously mentioned, we anticipate the integration of OpenSlate solution to generate between $15 million and $18 million in 2022.
+Revenue growth was broad-based across advertisers, platforms and publishers and each revenue type grew sequentially from the third to the fourth quarter, which is our seasonally strongest quarter.
+For the full year 2021, we delivered $333 million in revenue, up 36% year over year and adjusted EBITDA of $110 million, up 50% year over year and representing a 33% adjusted EBITDA margin.
+In 2021, advertiser programmatic grew 45%, driven by ABS, which grew 77% and represented 50% of advertiser programmatic revenue.
+Advertiser direct revenue grew 27%, driven by social revenue growth of 47%.
+Social represented 33% of our advertiser direct revenue, up from 29% in 2020.
+Finally, supply side revenue grew 38% in 2021, driven by new deals with large platforms such as Yahoo!
+Japan and Amazon, as well as the 19 new publishers we signed on during the year.
+The basis for our strong advertiser revenue performance is an attractive set of KPIs, which drive the recurring nature of our business.
+Our 2021 net revenue retention rate was 126% and while gross revenue retention was 98%.
+Our customer tenure was 6.9 years for our top 75 customers.
+For our top 100 customers, we grew average revenue per customer from $1.8 million in 2020 to $2.2 million in 2021.
+And finally, we increased the number of customers generating more than $1 million in revenue by 42% in 2021.
+Our cost of revenue increased by $19 million year-on-year in 2021, primarily due to an increase in costs from revenue sharing arrangements with our Programmatic partners as Programmatic revenue grew as a percentage of total revenue.
+In addition, we continue and intend to accelerate our investments in cloud-based hosting solutions to provide the scale and flexibility necessary to support our geographic expansion.
+GAAP product development and sales and marketing expenses, which include stock-based compensation, increased at a rate below our top line growth reflecting the operating efficiency of our business model.
+In 2021, we expanded adjusted EBITDA margins to 33% while continuing to invest in the business.
+We added over 200 employees during 2021, including approximately 100 from our two acquisitions.
+In terms of cash flow and balance sheet, we generated $83 million in cash from operating activities in 2021, a nearly fourfold increase from the $21 million generated in 2020.
+We had approximately $222 million of cash at the end of the year and zero debt on the balance sheet.
+Turning to 2022 guidance.
+We expect to continue to deliver high revenue growth and high profitability in 2022.
+We expect full year 2022 revenue in the range of $429 million to $437 million, a year-over-year increase of 30% at the midpoint.
+And we expect full year 2022 adjusted EBITDA in the range of $126 million to $134 million, representing a 30% adjusted EBITDA margin at the midpoint.
+We expect a quarterly share of full year revenue to be similar to the seasonal patterns that we achieved in 2021.
+For the first quarter of 2022, we expect revenue in the range of $89 million to $91 million, which implies a 33% growth at the midpoint.
+And we expect first quarter adjusted EBITDA in the range of $21 million to $23 million, which represents a 24% adjusted EBITDA margin at the midpoint.
+While we anticipate realizing synergies from the acquisitions of OpenSlate and Meetrics by eliminating duplicative costs over time, we expect operating expenses to trend higher in the first half of 2022 and this is reflected in our first quarter EBITDA guidance.
+Stock-based compensation expense for the first quarter of 2022 is expected in the range of $9 million to $10 million.
+For the full year, stock-based compensation expense is expected in the range of $44 million to $49 million and shares outstanding for the first quarter are expected in the range of 170 million to 173 million.
+As mentioned during investor day, starting with first quarter 2022, advertiser programmatic will be renamed Activation Revenue and will include programmatic revenue in addition to pre-campaign social revenue, including revenue contribution expected from selling OpenSlate solutions.
+advertiser direct will be renamed Measurement Revenue and will continue to include DV's post-campaign measurement business on social, CTV and the open web.

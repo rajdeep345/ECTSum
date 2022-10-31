@@ -1,0 +1,77 @@
+An audio recording of today's call will be available on the Internet for a limited time and can also be accessed on our website.
+Today's remarks are governed by the safe harbor provisions of the 1995 Private Securities Litigation Reform Act.
+For a discussion of the risks associated with VPG's operations, we encourage you to refer to our SEC filings, especially the Form 10-K for the year ended December 31, 2019, and our other recent SEC filings.
+On the call today are Ziv Shoshani, CEO and president; and Bill Clancy, CFO.
+I will begin with some commentary on VPG's consolidated financial results and sales trends, the impact of the COVID-19 pandemic on our business, and the strategy and actions we have taken to mitigate that impact.
+Bill will provide financial details in the second-quarter 2020 outlook.
+Moving to Slide 3, I'd like to begin my remarks by commenting that VPG's team around the world for their hard work and for their dedication during these challenging times as they adjusted quickly to local restrictions and extraordinary working conditions.
+Their commitment to meeting the needs of our customers has been truly exemplary.
+Moving to Slide 4, even in the rapidly changing market conditions over the past few months, and we are satisfied with our financial and operating performance in the first quarter.
+We have ended the quarter with a positive book-to-bill of 1.08 and grew our total orders 4.4% from the same quarter a year ago.
+Moving to Slide 5, I'll discuss the operational and EH&S impacts on VPG from COVID-19.
+As the pandemic begin to unfold around the world, we took steps to keep our employees and customers safe.
+These measures included suspending business travel and enabling employees whose functions allowed to work from home effectively.
+We have also implemented workplace distancing and increased sanitizing common areas, as well as adjusting our work shifts to minimize contact with other employees.
+We know of four employees who tested positive for the virus.
+Of this, two have tested negative after the required quarantine period and two are currently under quarantine.
+As countries, states and local jurisdictions around the world implemented stay-at-home orders, we quickly made adjustments to maintain the continuity of operations while also complying with those regulations.
+While the majority of VPG's facilities were able to continue operations due to the essential nature of our products, our two facilities in India and in China were more significantly impacted.
+As we indicated in our earnings call in February, our facility in China was impacted by approximately three weeks by government-imposed restrictions.
+That facility returned to production in mid-February when those restrictions were lifted.
+Our facility in India was also shut down beginning in late March as a result of stay-at-homes order imposed by our Indian government.
+While this order has been extended to May 17, we received approval to resume partial operations on our India facility.
+As of today, with the exception of our India facility, our supply chains and logistics network are functioning as we are able to meet our customers' needs.
+We created an internal committee to monitor and manage the situation.
+Financially, we have implemented a companywide salary freeze and have reduced our planned capital spending for 2020 by 30%.
+Moving to Slide 5, in terms of the impact on demand for our products, one of VPG's strength is its broad diversity of VPG's markets, which is a major differentiator from other pure-play sensor technology companies during times of turbulent market conditions that we are seeing now.
+This breadth enables us to maintain our financial momentum within our segment as stronger end markets offset weaker ones.
+For Foil Technology Products segment, first-quarter sales of $30.5 million grew 2.8% sequentially, reflecting growth in precision foil resistors and shrinkages in test and measurement and consumer markets, which offset weaker sales in the general industrial market.
+Order for FTP in the first quarter grew from the fourth quarter of 2019 and included significant order for advanced sensors, which resulted in our book-to-bill of 1.25 as compared to 1.18.
+First-quarter sales of Force Sensors of 14.7% -- $14.7 million declined 2.4% and from the fourth quarter of 2019, reflecting slower demand in the industrial weighing markets as well as modest impact from a temporary government-mandated shutdown of our China facility.
+Nonetheless, we saw growth in OEM-driven sales for precision ag and construction applications.
+While a book-to-bill for Force Sensors in Q1 was 1.02, we expect our second quarter sales for these products to be impacted by the essential shutdown of our manufacturing facility in Chennai, India that I mentioned earlier.
+Assuming the full reopening of this facility on May 17, we expect that our Force Sensors revenues in the second quarter to be reduced by approximately $5 million to $7 million, which is reflected in our guidance.
+We also expect our operating profit to be impacted by approximately $3.5 million, reflecting the lower revenues, the required payments to employees during the shutdown period and of some partial operations and higher logistics costs.
+Following the lifting of these restrictions, we anticipate we will be able to recover the majority of the revenue shortfall in future quarters.
+Sales of Weighing and Control Systems in the first quarter of $22.5 million declined 7.9% sequentially.
+The decline in WCS sales was primarily due to the timing of the end user driven projects in the steel market, which offset modestly higher revenues for certain onboard weighing solutions.
+We expect to see lower revenue in the second quarter in WCS, primarily in the transportation market.
+Book-to-bill for WCS was 0.9 in the first quarter of 2020.
+As the world contents with the residual impact from the pandemic on the business environment, we are confident in both our strategy and our strong financial position to weather these turbulent times.
+We believe we have ample liquidity with a net cash of $42 million on our balance sheet and a new revolving credit facility we put in place in March 2020 that not only gives us expanded borrowing capacity should we need it, but also offers us lower borrowing rates and more favorable terms.
+Given the high degree of uncertainty in the macro environment, we are focused on what we can control, which are our key strategic initiatives, to both grow our business and to reduce our operating cost.
+These initiatives, which are critical to our company's future, are intact and we are -- and we intend to be ready to realize their potential as the global economic environment normalizes.
+On the growth side, we are moving forward with our FTP manufacturing project in Israel.
+As we have discussed, this project will support future growth of advanced sensors.
+While sales of these products were essentially flat sequentially, we have received large orders in Q1 in our other markets, such as consumer and medical.
+For the overload protection initiatives in Europe, our TruckWeigh and VanWeigh Solutions, which have already been tested by our key OEM truck and van manufacturers, and we have received very positive feedback.
+However, several of them have signaled that they are pushing out the implementation further into 2021, pending a return to a more normalized economic activity.
+Our aftermarket OEM sales for this product, which was expected to be booked in this year, was pushed into 2021.
+On the cost side, we have already implemented a number of initiatives over the past few years to consolidate our manufacturing footprint and to reduce our operating cost.
+We believe that these steps, which have been already contributed to the margin improvement in some key areas, will increase our operating leverage and financial returns once we see the return to more normalized economic condition.
+As we continue to meet the challenges of the pandemic and as we can remain vigilant in protecting our employees and our customers, we are confident that we will successfully navigate to these challenges.
+This confidence is based on strong business model and financial position, our diverse set of markets, and the depth of experience of the VPG management team across the world.
+Referring to Page 7 of the slide deck.
+In the first quarter of 2020, we achieved revenues of $67.7 million, operating income of $4.6 million or 6.9% of revenues, and net earnings per diluted share of $0.24.
+On an adjusted basis, which excludes $515,000 of acquisition purchase accounting adjustments related to the DSI acquisition in November 2019 and $130,000 of restructuring costs, our adjusted operating income was $5.3 million or 7.8% of sales and our adjusted net earnings per diluted share was $0.29.
+Our first-quarter 2020 revenue declined 2.1%, compared to 69.1% -- $69.1 million in fourth quarter and were down 11.5% as compared to $76.5 million in the first quarter a year ago, which was also a historical high quarter for VPG.
+Foreign exchange negatively affected revenues by $600,000 for the first quarter of 2020 compared to a year ago and had no impact as compared to the Q4 of 2019.
+Our gross margin in the first quarter was 37%.
+Our gross margin on an adjusted basis was 37.8%, which improved from 36.8% in the fourth quarter of 2019.
+Our operating margin was 6.9% for the first quarter of 2020.
+Excluding the above-mentioned purchase accounting adjustments and restructuring charges, our first-quarter adjusted operating margin was 7.8%, which increased from 7.5% we reported in the fourth quarter of 2019.
+Selling, general and administrative expenses for the first-quarter 2020 were $20.3 million or 30% of revenues.
+This compares to $20.4 million or 26.7% for the first quarter of last year and $20.2 million or 29.2% in the fourth quarter of 2019.
+The sequential SG&A in the first quarter reflected the inclusion of a full quarter of SG&A expenses for DSI.
+The adjusted net earnings for the first quarter of 2020 were $3.9 million or $0.29 per diluted share, improved from $3.7 million or $0.27 per diluted share in the fourth quarter of 2019.
+The impact of foreign exchange rates for the first quarter of 2020 was positive compared to the first quarter of 2019 by approximately $400,000 or $0.03 per diluted share.
+We generated adjusted free cash flow of $3 million for the first quarter of 2020 as compared to $4.8 million for the first quarter in 2019.
+We define free cash flow as cash from operating activities with less capital expenditures plus any sale of fixed assets.
+The GAAP tax rate in the first quarter was 32.3%.
+We are assuming an operational tax rate in the range of 27% to 29% for 2020 planning purposes.
+We ended the first quarter with $82.7 million of cash and cash equivalents and total long-term debt of $40.6 million.
+As Ziv mentioned, in March, we put in place a new revolving credit facility that gives us greater flexibility and lower interest expense as well as less restricted covenants.
+With a net leverage ratio of about one time, we believe that we have a strong balance sheet and ample liquidity to support our business requirements and to fund additional M&A opportunities.
+Turning to our outlook, given the expected impacts resulting from the COVID-19 pandemic, we now currently expect net revenues in the range of $56 million to $62 million for the second quarter of 2020, which assumes constant first-quarter 2020 exchange rates.
+In summary, while the COVID-19 pandemic continues to create uncertainty around the world, we are prepared to meet these challenges as we remain diligent in protecting our employees and our customers.
+Our strong operating model, financial position, diverse set of markets, combined with the commitment to our strategic initiatives, gives us confidence in our ability to not only successfully navigate these challenging times, but to accelerate our performance as conditions return to normal.

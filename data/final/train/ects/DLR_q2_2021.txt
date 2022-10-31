@@ -1,0 +1,121 @@
+Chief Investment Officer Greg Wright, Chief Technology Officer Chris Sharp, and Chief Revenue Officer Corey Dyer are also on the call and will be available for Q&A.
+For a further discussion of risks related to our business, see our 10-K and subsequent filings with the SEC.
+Reconciliations to net income are included in the supplemental package furnished to the SEC and available on our website.
+We continue to enhance our product mix with a record contribution from our sub-1 megawatt plus interconnection category.
+We extended our sustainability leadership with the publication of our third annual ESG report.
+We raised revenue and EBITDA guidance for the second quarter in a row, setting the stage for accelerating growth in cash flow.
+Last but not least, we further strengthened the balance sheet with the redemption of high coupon preferred stock and the issuance of low-cost, long-term fixed rate debt.
+Our formula for long-term value creation is a global, connected, sustainable framework.
+We continue to advance along these lines during the second quarter.
+Our business continues to globalize.
+And, once again, we generated solid performance and strong bookings across all regions.
+Our full-spectrum product offering continues to blossom with record sub-1 megawatt bookings in the second quarter and regional highs in both EMEA and APAC.
+Together, with interconnection, the sub-1 megawatt category comprised nearly half of our total bookings, demonstrating customers' enthusiastic adoption of PlatformDIGITAL to help accomplish their digital transformation initiatives.
+I'll discuss our sustainable growth initiatives on Page 3.
+In June, we were awarded the Green Lease Leader Gold award from the Institute for Market Transformation and the U.S. Department of Energy for the third year.
+We remain the only data center provider to receive this award, which recognizes Digital Realty as a leader in the real estate industry that incorporates green leasing provisions to better align our interest with our customers and drive high performance and healthy buildings.
+During the second quarter, we published our third annual ESG report, detailing our 2020 sustainability initiatives, including the utilization of renewable energy for 100% of our energy needs across our entire portfolio in Europe as well as our U.S. colocation portfolio and reaching 50% of our global needs.
+We also reported progress toward our science-based target, ensuring a deep focus on our renewable energy, energy efficiency and supply chain sustainability initiatives.
+Our ESG report highlights many of our ongoing initiatives, including our diversity, equity and inclusion efforts along with our community involvement.
+Digital Realty is committed to being an active member of and giving back to the communities where we operate globally.
+We encourage and celebrate community involvement and employee engagement activities through our Do Better Together initiative.
+We also recently underscored our commitment to transparency and accountability on our diversity, equity and inclusion journey with the publication of our EEO-1 report.
+Events over the past year and a half have demonstrated that now more than ever, ESG belongs at the forefront of our business.
+I'm proud of our leadership in this area as we advance our broader goal of delivering sustainable growth for all of our stakeholders, investors, customers, employees, and the communities we serve around the world.
+Let's turn to our investment activity on Page 4.
+We are continuing to invest in our global platform with 39 projects underway around the world as of June 30, totaling nearly 300 megawatts of incremental capacity, most of which is scheduled for delivery over the next 12 months.
+We are investing most heavily in EMEA with 19 projects totaling over 150 megawatts of capacity under construction.
+Most of this capacity is highly connected, including projects in Frankfurt, Marseille, Paris, and Zurich.
+Demand remains strong across these metros, and each continues to attract service providers as well as enterprise customers from around the world, many of which contributed to a truly standout performance by the region during the second quarter in the up-to-1 megawatt category.
+In North America, over half of our capacity under construction is concentrated in two hot markets, Portland and Toronto, that can sometimes be overlooked in favor of more traditional North American data center metros.
+We've had tremendous recent success in these two metros.
+We have 30 megawatts under construction in Portland or, more specifically, Hillsboro, that are now fully pre-leased, while our Toronto connected campus continues to gain momentum as the premier Canadian hub for global cloud service providers and enterprise customers.
+Finally, in Asia Pacific, we are accelerating our organic growth in this underserved region.
+We opened our third data center in Singapore, a 50-megawatt facility that received permitting prior to the moratorium on new data center construction.
+Demand for this scarce capacity is robust, and we have another 18 megawatts largely presold and scheduled to open this quarter.
+Also coming soon in this region are a pair of MC Digital Realty data centers in Japan.
+With the world's eyes currently on Tokyo for the Olympics, we are opening a new Tokyo facility that's poised to win the gold medal.
+We are also opening another data center in Osaka this quarter, along with our first data center and the first carrier-neutral offering in Seoul, Korea, during the fourth quarter.
+We are very excited about the opportunity in Seoul.
+Finally, earlier this month, we announced our intention to enter India in partnership with Brookfield Infrastructure.
+Given the success of our existing partnership on the Ascenty platform in Latin America, the complementary skills and expertise that we both bring to this partnership, and with the significant growth opportunity available in India, we are excited to expand our footprint in this robust and dynamic market.
+Let's turn to the macro environment on Page 5.
+We are fortunate to be operating in a business levered to secular demand drivers.
+Our leadership position provides us with a unique vantage point to detect secular trends as they emerge globally on PlatformDIGITAL.
+The first of these trends is the growing importance of data gravity for Global 2000 enterprises.
+Last year, we introduced the Data Gravity Index, our market intelligence tool, which forecasts the growing intensity of enterprise data creation life cycle and its gravitational impact on global IT infrastructure between key global markets.
+Earlier this year, we took the next step and published an industry manifesto, enabling connected data communities to guide cross-industry collaboration, tackle data gravity head-on, and unlock a new era of growth opportunity for all companies.
+Earlier this week, we announced a collaboration with Zayo to further interconnection business through the creation of an open fabric-of-fabrics.
+With data sets exploding and data gravity challenges expanding, this initiative will enable multinational enterprises to connect these data oceans through fabric and orchestration.
+Third-party research continues to support data gravity's growing importance.
+Market Intelligence firm, Gartner, recently conducted its 6th annual survey of chief data officers, and less than 35% of these executives reported their business have achieved their data sharing objectives, including data exchange with external data sources that drive revenue-generating business outcomes.
+Issues often arise due to multiple data hosting and processing meeting places together with the need for appropriate security controls and the inability to overcome latency challenges with direct private interconnection between many counterparties.
+PlatformDIGITAL was designed to solve these problems.
+Digital transformation is compounding this enterprise data and connectivity problem.
+Recent research indicates that enterprise workflows utilize an average of 400 unique data sources, while exchanging data with 27 external cloud products.
+Digital Realty's enterprise and service provider customers are turning to PlatformDIGITAL to overcome these issues by deploying their own data hubs and using interconnection to securely exchange data in and across multiple metros.
+Our leadership position is resonating with industry experts and influencers.
+For the second consecutive year, Digital Realty was named a global leader by IDC MarketScape for data center colocation and interconnection services, further acknowledgment of our consistently improving customer capabilities.
+This recognition reflects our execution against the PlatformDIGITAL road map, providing unique differentiated value for customers with our fit-for-purpose, full-spectrum global capabilities.
+Earlier this month, Cloudscene again ranked Digital Realty as the strongest provider of data center ecosystems in EMEA for the second consecutive year.
+Digital Realty was ranked second in both North America as well as Latin America and jumped up three spots to No.
+Also, in July, GigaOm published their analysis of edge infrastructure capabilities.
+Digital Realty ranked as an industry leader on multiple criteria across three broad categories.
+Our capabilities were ranked highest in vendor positioning and evaluation metrics comparison and second among the key criteria comparison.
+Given the resiliency of the demand drivers underpinning our business, and the relevance of our platform to meeting customers' needs, we believe we are well positioned to continue to deliver sustainable growth for customers, shareholders and employees, whatever the macro environment may hold in store.
+Let's turn to our leasing activity on Page 7.
+We signed total bookings of $113 million in the second quarter, including a $13 million contribution from interconnection.
+Network and enterprise-oriented deals of 1 megawatt or less reached an all-time high of $41 million, demonstrating our consistent momentum and the growing success of PlatformDIGITAL as we continue to capture a greater share of enterprise demand.
+The weighted average lease term was over eight years.
+We landed 109 new logos during the second quarter, with a strong showings across all regions, again, demonstrating the power of our global platform.
+The geographic and product mix of our new activity was quite healthy, with APAC and EMEA, each contributing approximately 20%, the Americas representing nearly 50%, and interconnection responsible for a little over 10%.
+The megawatt or less plus interconnection category accounted for almost half of our total bookings with particular strength in the cloud, content and financial services verticals.
+In terms of specific wins during the quarter and around the world, we landed a top five cloud service provider to anchor our new Tokyo campus.
+Close on the heels of this magnetic customer deployment, Japan's most popular social media applications selected PlatformDIGITAL on the same campus.
+NAVER, the leading Korea-based cloud provider serving the greater APAC region, selected our new carrier-neutral facility in Singapore to support data-intensive workloads for their high-performance computing and I -- AI-intensive technology-based platform.
+A European broadcaster is leveraging PlatformDIGITAL in Vienna and Frankfurt to rewire their network in favor of data-intensive interconnection with benefits in performance, scalability, and cost savings.
+A Global 2000 enterprise data platform is adopting PlatformDIGITAL in Amsterdam, Dublin and Frankfurt to orchestrate workloads across hundreds of ecosystem applications, delivering improved performance, security, cost savings, and simplicity.
+In London, PlatformDIGITAL is supporting a top three global money center banks fortification of their business continuity capabilities without compromising their data-intensive interconnection requirements.
+On the continent, our connectivity and operational capabilities are helping two independent fintech customers improve performance enhance -- and enhance access to their connected data communities.
+Finally, in North America, a life sciences digital marketing firm chose PlatformDIGITAL to improve their network architecture and enable future growth.
+Turning to our backlog on Page 9.
+The current backlog of leases signed but not yet commenced ticked down from $307 million to $303 million as commencement slightly eclipsed space and power leases signed during the quarter.
+The lag between signings and commencements was a bit longer than our long-term historical average at just over seven months.
+Moving on to renewal leasing activity on Page 10.
+We signed $178 million of renewals during the second quarter in addition to new leases signed.
+The weighted average lease term on renewals signed during the second quarter was just under three years, again, reflecting a greater mix of enterprise deals smaller than 1 megawatt.
+We retained 77% of expiring leases, while cash releasing spreads on renewals were slightly positive, also reflective of the greater mix of sub-1 megawatt renewals in the total.
+In terms of second quarter operating performance, overall portfolio occupancy ticked down by 60 basis points as we brought additional capacity online across six metros during the quarter.
+Same capital cash NOI growth was negative 1.5% in the second quarter, largely driven by the churn in Ashburn at the beginning of the year.
+As a reminder, the Westin Building in Seattle, the Interxion platform in EMEA, Lamda Helix in Greece and Altus IT in Croatia are not yet included in the same-store pool.
+So these same capital comparisons are less representative of our underlying business today than usual.
+Let's turn to our economic risk mitigation strategies on Page 11.
+The U.S. dollar fluctuated during the second quarter but remained below the prior year average, providing a bit of an FX tailwind.
+As a reminder, we manage currency risk by issuing locally denominated debt to act as a natural hedge so only our net assets within a given region are exposed to currency risk from an economic perspective.
+In addition to managing credit risk and foreign currency exposure, we also mitigate interest rate risk by proactively terming out short-term variable rate debt with longer-term fixed rate financing.
+Given our strategy of matching the duration of our long-lived assets with long-term fixed-rate debt, a 100 basis-point move in benchmark rates would have roughly a 75 basis-point impact on full year FFO per share.
+In terms of earnings growth, second quarter core FFO per share was flat year-over-year but down 8% from last quarter driven by $0.12 noncash deferred tax charge related to the higher corporate tax rate in the U.K., which came into effect during the second quarter.
+Excluding the tax charge, which was not previously contemplated in our guidance, we outperformed our internal forecast due to a beat on the top line with a slight assist from FX tailwinds as well as operating expense savings, partially due to lower property-level spending in the COVID-19 environment.
+For the second time this year, we are raising our full-year outlook for total revenue and adjusted EBITDA to reflect the underlying momentum in our business.
+The deferred tax charge does run through core FFO per share.
+Since it is noncash, the deferred tax charge does not hit AFFO.
+Most of the drivers of our guidance table are unchanged.
+But I would like to point out that we are lowering our expected recurring CapEx spend for the remainder of the year, setting a stage for accelerating growth in cash flow.
+As you could see from the bridge chart on Page 12, we expect our bottom line results to improve sequentially over the balance of the year as the deferred tax charge comes out of the quarterly run rate and the momentum in our underlying business continues to accelerate.
+We do still expect to see some normalization in our cost structure with an increase in property-level operating expenses that have been deferred due to COVID, along with an uptick in G&A expense as we return to the office and resume a more normal travel schedule.
+So your model should reflect these higher costs.
+Last, but certainly not least, let's turn to the balance sheet on Page 13.
+As you may recall, we closed on the sale of a portfolio of noncore assets in Europe for $680 million late in the first quarter, which impacted second quarter adjusted EBITDA to the tune of approximately $10 million.
+As a result, net debt to adjusted EBITDA was slightly elevated 6x as of the end of the second quarter but is expected to come back down in line with our long-term range over the course of the year through a combination of proceeds from asset sales and growth in cash flows as signed leases commence.
+Fixed charge coverage ticked down slightly, also reflecting the near-term impact from asset sales, but remains well above our target and close to an all-time high at 5.4x, reflecting the results of our proactive liability management.
+We continue to execute our financial strategy of maximizing the menu of available capital options while minimizing the related costs and extending the duration of our liabilities to match our long-lived assets.
+In mid-May, we redeemed $200 million of preferred stock at 6.625%, which brought total preferred equity redemptions over the prior 12 months to $700 million at a weighted average coupon of just over 6.25%, effectively lowering leverage by 0.3 turns.
+In mid-June, we issued 0.5 million shares under our ATM program, raising approximately $77 million.
+In early July, we raised another $26 million with the sale of the balance of our Megaport stock.
+We also took our first trip to the Swiss bond market in early July, raising approximately $595 million in a dual tranche offering of Swiss green bonds with a weighted average maturity of a little over six and a half years and a weighted average coupon of approximately 0.37%.
+This successful execution against our financial strategy reflects the strength of our global platform, which provides access to the full menu of public as well as private capital, sets us apart from our peers, enables us to prudently fund our growth.
+As you can see from the chart on Page 13, our weighted average debt maturity is nearly six and a half years, and our weighted average coupon is down to 2.2%.
+dollar-denominated, reflecting the growth of our global platform and serving as a natural FX hedge for our investments outside the U.S. 90% of our debt is fixed rate to guard against a rising rate environment, and 98% of our debt is unsecured, providing the greatest flexibility for capital recycling.
+Finally, as you can see from the left side of Page 13, we have a clear runway with nominal near-term debt maturities and no bar too tall in the out years.
+Our balance sheet is poised to weather a storm, but also positioned to fuel growth opportunities for our customers around the globe, consistent with our long-term financing strategy.
+Andrew, would you please begin the Q&A session?

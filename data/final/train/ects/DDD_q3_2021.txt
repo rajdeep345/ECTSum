@@ -1,0 +1,163 @@
+With me on the call are Dr. Jeffrey Graves, our President and Chief Executive Officer; Jagtar Narula, Executive Vice President and Chief Financial Officer; and Andrew Johnson, Executive Vice President and Chief Legal Officer.
+Actual results may differ materially.
+At this time last year, we were seeing only the very beginning of what we all hoped would be a sustained recovery from the worst of the COVID pandemic.
+At the same time, here at 3D Systems, we were in the midst of executing our four phased transformation journey.
+We reorganized our company into two segments, Healthcare and Industrial Solutions.
+We have restructured our organization to gain efficiencies.
+And we had announced the first of our divestitures of non-core assets.
+As we speak to you today, a year later, these first three phases are complete.
+We are now a company that's singularly focused on additive manufacturing with a lean nimble operating structure, global reach and breadth of metal, polymer and biological technologies that's unparalleled in the industry.
+These attributes brought together through an intense focus on our customers' most demanding applications has proven to be a powerful driver of value creation as reflected clearly in our organic growth rates, our profitability and our operating cash performance, all of which we will recap for you in a few moments.
+While we're pleased with this performance, even more exciting is that we're now in the fourth and final stage of our transformation, namely, investing for growth.
+Since last quarter, we completed the last of our divestitures, retiring our debt and stockpiling over $500 million of cash on the balance sheet.
+We subsequently announced two acquisitions that embody our strategic focus on growth, which is to invest in businesses that drive the adoption of additive manufacturing, solve customers' most complex application needs and generate high margin recurring revenue streams that are critical to sustain value creation.
+The first of these acquisitions was Oqton, a unique software company that's emerged as a recognized leader in the creation of a new breed of intelligent, cloud-based manufacturing operating system.
+The driver for this acquisition is very simple; customers across our Industrial and Healthcare segments are now anxious to accelerate their adoption of additive manufacturing in full scale production environments.
+But in doing so, they're facing significant challenges and how to incorporate these technologies into their existing enterprise systems.
+To-date, they relied heavily on spreadsheets and highly skilled engineers to run production applications.
+This is obviously too slow, too inefficient and too expensive to scale as production volumes ramp up.
+While we and others have made strides in optimizing and to some extent automating the performance of single printer or even a collection of like-kind printers working in parallel, our customers' challenges extend well beyond this.
+What they need is a manufacturing system that can easily and intelligently incorporate a mixed fleet of printers, often from a variety of manufacturers, and in addition, one that will incorporate all of the surrounding digital production systems on the shop floor such as post-print thermal and mechanical processing, robotic motion systems and automated inspection systems.
+Oqton not only provides this linkage, it goes a step further in applying cloud-based AI to optimize the entire workflow then links this workflow to the customers' existing enterprise software such as those provided by Salesforce, Oracle, Microsoft or SAP.
+The end result is that Oqton not only links, optimizes and tracks the customers' unique operational workflow at an individual component level from raw material to finished in respected parts, but it also builds in future flexibility to substitute new printing, finishing and automation technologies that will undoubtedly be introduced in the years ahead.
+These attributes which are unique to the Oqton platform will remove a significant barrier to the large-scale adoption of additive manufacturing and production environments.
+And for that reason, we've opened the system to the entire industry, which we hope will accelerate market growth for everyone.
+In addition, for the first time in our history, we will now make available our full complement of market-leading metal and polymer printing software platforms to all others in the industry, which we hope will accelerate the introduction of new printing technologies to customers around the world.
+Importantly, as with all software platforms, the span in entire industry, we are committed to Oqton continuing to operate in this model of independence with a supreme commitment to customer data protection and confidentiality.
+I'm happy to tell you that we closed the Oqton acquisition on November 1, and the reception by our customers and partners alike has been very positive.
+Before I move to our most recent and incredibly exciting acquisition, let me step back and explain how we look at our company holistically, which I believe is much different than others in this industry.
+In the decade since 3D printing was invented, we and our competitors have routinely defined ourselves as hardware and material developers, with our products sold broadly to customers around the world.
+While this is natural when any industry is young and when the product is mainly consumed in small quantities by labs or prototype facilities, as the industry now matures and production environments are targeted, successful companies will need to adapt their entire operating model to reflect their deepening integration with specific markets and customers.
+If you don't, you will remain simply a vendor and not a true partner to your customers, which will ultimately be reflected in your organic growth rate and profit margins.
+So with this in mind, at 3D Systems, beginning a year ago, we changed the way we defined ourselves by reorganizing our entire company around key markets, and within those markets, key vertical segments that we believe will drive the most value from their adoption of additive manufacturing.
+We began with the creation of two business segments, Healthcare and Industrial Solutions.
+Using a strong application focus, these two businesses each integrate our printer, material and software technologies in unique combinations to solve the customers' product need.
+Once complete, our customers can then ask us to scale the process for them to a certain production level.
+And then with increasing demand, they can elect to have us enable a manufacturer of their choosing to continue scaling to high volumes.
+This transfer of the workflow involves providing printing systems, materials and software along with the process definition.
+It results in a seamless transfer of capability to the chosen manufacturer whether it's the OEM themselves or a contract manufacturer of their choosing.
+So fast forwarding to this year, with the acquisition of Oqton, we expanded our software capabilities into what we call broadly digital manufacturing software, which as we described earlier, enables a rapid and efficient adoption of additive manufacturing in high volume production environments.
+This operating model has been very well received by our customer base and we expect it to fuel exciting organic growth in the years ahead.
+Most recently, we've added a strong biotech organizational focus and invested significantly to bring our emerging biological technologies to laboratory and human applications, details of which we'll cover in a few moments.
+So in short, these are our five core market segments that you'll hear us talk about moving forward.
+While each of the five will adapt to the needs of their customers, each will also leverage our core technologies of hardware, software and materials in the unique manner needed to fulfill their customer application needs.
+Let me illustrate this approach using our Healthcare business as an example.
+In the mid-1990s, 3D Systems pioneered Medical Modeling, which is the printing of highly detailed anatomical models from digital images.
+These models have proven instrumental in support of complex surgical procedures.
+In a highly publicized application of our modeling technology, which was beautifully documented by CNN's Dr. Sanjay Gupta, we created a number of medical models to assist in the separation of conjoined twins, Jadon and Anias McDonald who were born with the extremely rare craniopagus condition, in which twins are joined at the head, sharing not only the skull and vasculature, but portions of the brain itself.
+The modeling used for the surgical planning was vital to the success of Dr. James Goodrich and his team that they had in separating the twins, both of which are alive and living independently today many years later.
+To date, our medical modeling technology has supported dozens of similarly complex operations around the world, along with hundreds of others, and it continues to expand each year.
+Building upon this foundation and investing in point-of-care infrastructure that accompany this growth, we deepened our surgical support over the next decade.
+And by 2005, we were working with surgeons to design and manufacture customized patient-specific surgical guides and instruments using 3D printing.
+As this portion of the business in turn grew, we expanded our scope once again, this time to include actual patient-specific implants, which offered an even larger market opportunity.
+Fast forwarding today, we offer the broadest range of FDA-cleared capabilities for modeling surgical planning and patient-specific medical implants, which inspires our customers to continue expanding their partnership with us year-after-year.
+While we're very proud of our progress by now redefining ourselves as a healthcare business in this example and leveraging both our critical infrastructure and channel partner relationships, we can broaden our scope more aggressively to now include other parts of the human skeleton structure, and importantly, to advance these applications in parallel instead of in series as we have in the past.
+This provides us the opportunity to bring benefits to a much larger patient population and at a much higher rate than ever before.
+This is the power of redefining ourselves as a healthcare business and not simply a provider of printing technology to healthcare customers in the market.
+Of note, our Healthcare business grew over 28% in our most recent quarter and over 44% on an organic basis, which is where we disregard the businesses that we have divested.
+This remarkable growth rate is a testament to our increasing momentum in this exciting market.
+So building upon this discussion of our Healthcare business, I would like to end my commentary for today on the remarkable emerging market of bioprinting in our announcement last week of our acquisition of Volumetric Biotechnologies.
+This company, under the inspired leadership of Dr. Jordan Miller, brings specific expertise and biomaterials and regenerative medicine that combine synthetic chemistry, 3D printing, microfabrication and molecular imaging to direct culture human cells to form more organized complex organizations of living vessels and tissues.
+3D Systems has been a pioneer in our industry by focusing resources on regenerative medicine since 2017.
+And we began a joint development program with United Therapeutics Corporation to develop the capability to print scaffolds for human lungs using a process we call printer profusion.
+Once developed, this bioprinting technology can be applied to other major organs in the human body as well as a wide range of other human and laboratory applications.
+We've made significant strides in this unique technology.
+And as a result, we recently announced an expansion of our development program with United Therapeutics, an expansion that includes increased funding and an extension to two additional organs.
+This program expansion reflects the progress that our joint team has made in this groundbreaking endeavor.
+By acquiring Volumetric, we're adding critical skill sets to our 3D Systems' team, which we feel are a perfect complement to ours, bringing strong biological expertise and cellular engineering skills along with highly creative bioprinting systems to our development group.
+As I realize this is an entirely new area for many that have followed our company for some time, let me quickly recap our regenerative medicine strategy and the market opportunities that we're addressing through our unique bioprinting technology.
+The first opportunity is the printing of human organs, beginning with the lung and expanding from there to two additional organs.
+We're pursuing this as a joint program with our partner United Therapeutics.
+The ambitious goals that we've set for this program are driving quantum advances in our technology and laying the foundation for the rest of our regenerative medicine efforts.
+In our second regenerative medicine market opportunity, we're taking the core unique disruptive technologies developed for the bioprinting of human organs and applying it to other parts of the human body.
+There are tremendous number of these applications ranging from the printing of human skin for burn victims to soft tissue for breast reconstruction and repair to critical blood vessel and bone replacements and many, many more.
+We're now forming partnerships focused on each application area where we can combine our bioprinting expertise with the appropriate application experts to provide unique and highly impactful solutions for people in need.
+We refer to this second market vertical within regenerative medicine as human non-organ bioprinting.
+Our last but certainly not least market opportunity is to extend our bioprinting technologies into research labs, providing advanced printing systems and unique biological materials to those that study the basic science of regenerative medicine and in the pharmaceutical laboratories where the ability to print high precision, three dimensional vascularize cell structures can be used for the development of new, more effective drug therapies.
+Our acquisition of Volumetric and their unique capabilities in combination with our own will allow us to expand the pace of our efforts in all three of our regenerative medicine markets.
+It amazes me to think of these revolutionary applications enabled by our 3D printing technologies; applications that we are uniquely positioned to deliver with our extensive history in advanced 3D printing technologies, our material expertise, our application development expertise, our deep understanding of FDA and other regulatory processes and now our biological and cellular engineering capabilities.
+We believe that in the years to come, bioprinting will take its place as a very significant business for our company, bringing critical relief to patients in need of life-saving procedures and great value to our company's employees and our shareholders alike.
+Moving from our strategic growth investments to our most recent quarterly performance, I'm very pleased to say that we've continued to execute well on our core business.
+With continuing strong demand, our operational challenges have largely centered around global supply chain and logistics issues, which are unfortunately continuing to plague most companies around the world.
+Our solid execution in the face of these challenges in the third quarter resulted in strong double-digit growth with revenues increasing by 15% before adjusting for divestitures.
+When these adjustments are made, which is a much better reflection of our core business performance, revenues were up over 36% versus 2020 and up over 20% versus our pre-pandemic 2019 third quarter, a benchmark we consider very important.
+Looking at our major business segments, our Industrial Solutions segment is continuing its rebound, seeing strong performance particularly in jewelry, automotive and transportation and general manufacturing.
+In Healthcare, we see continuing strong demand for personalized health services as well as solid performance in dental.
+As Jagtar will discuss shortly, in addition to the strong revenue performance, our EBITDA climbed by over 125%.
+We generated positive cash from operations for the fourth consecutive quarter, the first time this has happened in four years.
+With our cash generation in addition with the proceeds from divestitures, we built a sizable cash balance by the end of Q3.
+A portion of these funds will be used to fund the strategic growth initiatives I mentioned earlier, but we will still have be left with a significant amount of liquidity to pursue additional opportunities.
+As I'm sure is clear to everyone, I am very excited not only about what we've accomplished this last year, but even more so about the future as our focus on growth in this final stage of our transformation has only just begun.
+For the third quarter, we reported revenue of $156.1 million, an increase of 14.6% compared to the third quarter of 2020.
+Our organic revenue growth, which excludes divestitures completed in 2020 and 2021, was 35.9% in Q3 2021 versus Q3 2020.
+Since the third quarter of 2020 was beginning of the economic reopening from the COVID-related shutdowns, we think it is valuable to compare our results to Q3 2019, which was untainted by the pandemic.
+Again, excluding divested businesses, we are comparing on an apples-to-apples basis.
+Our revenue in the third quarter 2021 was 21.2% higher than pre-pandemic Q3 2019.
+As we have discussed previously, with the completion of our Simbionix and on-demand manufacturing divestitures in Q3 2021, we have completed our planned divestitures and are now focused on the performance, growth and investment of our core additive manufacturing business.
+I would like to note that our -- at post-divestitures, we continue to generate nearly two-thirds of our revenue from our recurring revenue streams.
+These high margin lines of business highlight the strength and diversity of our core business, our ability to weather various economic cycles and around which we will continue to make strategic investments.
+We reported GAAP net income of $2.34 per share in the third quarter of 2021 compared to a GAAP loss of $0.61 in the third quarter of 2020.
+The year-over-year improvement was driven by gains on divested businesses as well as the goodwill impairment charge we took in the third quarter of 2020.
+For our non-GAAP results, we reported non-GAAP income of $0.08 per share in the third quarter of 2021 compared to a non-GAAP loss of $0.03 per share in the third quarter of 2020.
+The year-over-year improvement reflects higher revenue with lower non-GAAP operating expense as a result of the cost actions we took last year.
+Now I will discuss revenue by market.
+Healthcare grew 28.3% year-over-year and decreased 7.8% compared to the last quarter.
+The decrease was primarily a result of the divestiture of the Simbionix medical simulation business during the quarter.
+Adjusted for divestitures, Healthcare revenue increased 44.5% year-over-year as a result of strong demand for dental applications in both printers and materials.
+In fact, the last four quarters have seen the highest level ever of dental material sales as compared to any prior four quarter period.
+Our Industrial segment generated revenue growth of 4% to $79.7 million compared to the same period last year and was flat to last quarter, reflecting the divestiture of the on-demand manufacturing parts business during the quarter.
+Adjusted for divestitures, Industrial revenue increased 28.1% year-over-year and 2.1% over the last quarter.
+The increase was driven by higher demand in both printers and materials in a variety of sub-segments, most notably, jewelry, automotive and transportation and general manufacturing.
+Now we turn to gross margin.
+We reported gross profit margin of 41.2% in the third quarter of 2021 compared to 43.1% in the third quarter of 2020.
+Non-GAAP gross profit margin was 41.5% compared to 43.2% in the same period last year.
+Gross profit margin decreased primarily as a result of businesses divested in 2020 and 2021.
+If we exclude the impact of those divestitures, gross profit -- gross margins increased 80 basis points in the third quarter of 2021 compared to the same period last year, driven by 2020 cost actions and the higher revenue, which resulted in better capacity utilization.
+As evidenced by our strong performance this year, demand continues to be strong for both our -- for our products in both business segments.
+The biggest challenge we've faced isn't unique to 3D Systems.
+We are all aware of the supply chain issues that are affecting everyone, from multinational corporations to small businesses to individuals on Main Street.
+In fact, our Q3 revenue, while strong, was impacted by supply limitations of certain products.
+Consistent with last quarter, we continue to see a tightening of cost and availability for certain components that go into our product.
+Our team is doing a heroic job as it manages through these challenges.
+Supply chain and not end customer demand remains the key headwind in our business and is our strong focus as we finish out the year.
+We have taken steps to mitigate the economic impact, such as adding alternative sources for key components where possible.
+We have seen some cost impacts from the supply chain constraints, especially in increased freight charges and have instituted a temporary surcharge for our customers on certain types of purchases effective in the fourth quarter.
+Year-to-date, our non-GAAP gross profit margin was 42.6% and we expect full year gross profit margins to be between 41% and 43%.
+Operating expenses for the quarter were $81.5 million on a GAAP basis, a decrease of 35.4% compared to the third quarter of 2020.
+This year-over-year decrease reflects a goodwill impairment booked in Q3 2020.
+Our non-GAAP operating expenses in the third quarter were $54.1 million, a decrease -- an 8% decrease from the third quarter of the prior year.
+Compared to the second quarter of 2021, non-GAAP operating expenses decreased 2%, primarily driven by lower R&D spend.
+Adjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $16.3 million or 10.5% of revenue compared to $7.2 million or 5.3% of revenue in the third quarter 2020.
+Our disciplined approach to growth, cost management and focus on our core business is resulting in continued strong adjusted EBITDA.
+Turning to the cash flow statement and balance sheet.
+We are pleased to show $502.8 million of cash on the balance sheet, an increase of $418.4 million since the beginning of the year.
+The increase was primarily driven by proceeds from the divestitures of the on-demand parts business and our medical simulation business, but supported in no small part by our extremely strong cash generation from operations.
+During the quarter, we generated $20.7 million of cash from operations, marking the fourth straight quarter of positive cash from operations.
+This is the first time in four years the company has achieved four straight quarters of positive operating cash flow and reflects a strong transformation of our business.
+Now that we have demonstrated consistent profitability and cash generation and post-divestiture $0.5 billion of cash on hand, we are in a prime position to continue growing the company by taking a disciplined approach to invest organic and inorganic solutions that will solve customers' complex needs, drive adoption of additive manufacturing and generate high margin recurring revenue streams.
+We have previously announced some of those growth opportunities, namely our acquisitions of Oqton, which closed November 1 and Volumetric Biotechnologies, which is expected to close in the fourth quarter.
+The cash considerations for these will total approximately $130 million, leaving roughly $370 million of cash.
+These acquisitions will position the company for strong growth and are core to our strategies in both high margin software to enable the adoption of additive manufacturing as well as adoption of advanced 3D printing technologies in the field of regenerative medicine where we believe we will be a leader in the market.
+As I conclude my remarks, I want to reflect on the past year.
+I joined the company at the beginning of the third quarter of 2020.
+At that time, the company was just beginning its transformation.
+We had just announced results for the second quarter of 2020 that included negative operating cash flow of $21 million for the first half of that year, cash and cash equivalents on the balance sheet of only $64 million and $22 million of debt.
+Now fast forward to this year and the transformation we've been through.
+We have generated over $60 million of operating cash this year for the third quarter and ended the quarter with over $500 million of cash and cash equivalents with no debt.
+We are 100% focused on additive manufacturing and growing strongly in our core markets.
+We are able to make smart and strategic investments to support our core business and are rapidly advancing our key technologies into new segments such as regenerative medicine.
+I continue to believe that we are uniquely positioned in our industry with a strong balance sheet growth, cash generation and a suite of technologies that continue to be in demand by our customers.
+Finally, we wanted to provide an update at our Investor Day event.
+You may recall that we had scheduled an event for September 9 in the Denver, Colorado area.
+Out of the abundance of caution for the safety of our investors, analysts and employees, we postponed the planned Investor Day as COVID infection rates increased this past summer due to the Delta variant.
+We are now seeing the hopeful signs of progress, with once again declining infection rate, rollout of booster shots and a newly announced pill that seems to offer promise of dramatically cutting the hospitalization rates from this infection.
+As a result, we are in the early stages of planning an updated Investor Day with an aim for the first half of 2022.
+We will provide an update as soon as possible and look forward to sharing our long-term growth strategy in more detail with the investment community.
+Well, Jagtar and I have covered the remarkable progress that we've made over the last year.
+We've created value for our investors, our customers and our employees by remaking the business.
+Our growth and profitability distinguishes us in the industry and has made us a key partner for a growing number of organizations that are considering additive manufacturing.
+At the same time, our transformation has also made us a more exceptional place to work to drive the future of additive manufacturing, and as a result, more talented individuals are becoming a part of the new 3D Systems each day.
+However, as much as we've accomplished this last year, it's more about the future.
+We will continue to be a valuable solutions partner with customers and deeply integrate with them as they adopt our solutions and technologies.
+We will also invest in our business and drive our solutions capabilities in the five key areas I spoke about earlier.
+I'm truly excited about the depth and breadth of technology we bring to our markets and application expertise.

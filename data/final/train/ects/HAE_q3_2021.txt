@@ -1,0 +1,129 @@
+I'm joined today by Chris Simon, our CEO; Stewart Strong, President of the Hospital Business Unit; and Bill Burke, our CFO.
+Additionally, we provided a complete P&L, balance sheet, summary statement of cash flows, as well as reconciliations of our GAAP to non-GAAP adjusted results.
+Before we get started, unless noted otherwise, all revenue growth rates discussed today are on an organic basis and exclude the impacts of currency fluctuation, strategic exits of product lines, acquisitions and divestitures.
+Please note that these measures exclude certain charges and income items.
+Please note that these measures exclude certain charges and income items.
+Our improved third quarter results are evidence in the strength of our strategy and our progress transitioning to transformational growth.
+We have a lot to discuss today.
+Let me start by highlighting five key themes.
+Revenue improved sequentially in all three business units as our markets are recovering from the pandemic.
+Productivity from the Operational Excellence Program and cost management helped improve our profitability.
+We are making meaningful progress with NexSys adoption.
+Our innovation agenda continues to propel organic growth, and the Cardiva acquisition will help us diversify, grow, and create shareholder value.
+Moving to our results.
+Organic revenue was down 6% in the quarter and 12% [Technical Issues] as the impacts from the pandemic continue to affect our business.
+Third quarter adjusted earnings per diluted share was $0.81, down 14% from the prior year quarter and down 28% year-to-date.
+While our results were below our pre-pandemic fiscal 23rd [Phonetic] quarter, we did see a 14% sequential improvement in revenue driven by all three business units, and our adjusted earnings per diluted share was up 31% from second quarter.
+Plasma revenue declined 13% in the third quarter and 26% year-to-date as the pandemic continued to have a pronounced effect on the U.S. source plasma donor pool.
+Revenue declines were partially offset by a $6 million one-time safety stock order of plasma disposables.
+Sequentially, North America collection volume improved 29% excluding the effect of the safety stock order.
+To put this in perspective, we typically have a 3% to 5% seasonal increase in the third quarter.
+Our customers have taken extensive donor safety measures and launched a myriad of promotional campaigns to encourage donations.
+Heightened safety protocols and compelling financial incentives along with waning government stimulus contributed to 10 consecutive weeks of volume recovery.
+NexSys platform adoption is progressing, and we are confident that it will supplant PCS2 as a standard for source plasma collection worldwide.
+We are on track to upgrade all U.S. customers to our NexLynk DMS software by the end of the calendar year.
+All major customers have agreed to adopt NexSys PCS devices somewhere in their network.
+This bodes well for eventual broad-based implementation, because history shows that first-hand user experience leads to adoption.
+Rollout will not be immediate as there is important planning and support work to be done and near-term, Haemonetics and our customers primary focus is on driving a robust recovery in collections.
+Our innovation agenda continues to propel organic growth.
+Persona's individualized donor-specific approach is expected to yield an incremental 9% to 12% of plasma per collection.
+NexSys early adopters are validating the new nomograms impact on immunoglobulin levels and implementing logistics changes needed to support the new procedure, including accommodating our collection bottle, that is a third largest.
+The real world data being collected will strengthen the NexSys offering and inform ongoing innovation in our proprietary collection technology, including safely advancing additional personalization and further yield enhancements.
+Meanwhile, we continue to do everything we can to support our customers and we remain cautiously optimistic about the timing and pace of recovery.
+The third quarter highlights the critical role that donor economics play in plasma collections.
+Collection volumes weakened over the last few weeks, which we believe was driven by a donor response to the new government stimulus.
+Nonetheless, our customers are ramping up to support end-market growth, and although forecasting remains difficult in this environment, once the pandemic subsides, we expect to see 8% to 10% collections growth over the long-term and the potential to grow in excess of that, as customers replenish their inventories.
+Blood center revenue declined 1.4% in the third quarter and 2.6% year-to-date.
+The business continues to outperform as our continuity and responsiveness enables us to supply blood bankers around the world seeking expanded safety stocks.
+We also continue to support customers globally in collecting convalescent plasma.
+We had strong capital sales both in the third quarter and year-to-date, as our apheresis devices continue to play an important role in helping to provide essential blood products to our customers.
+We believe the increased installed base should provide longer-term benefits to our disposable sales.
+Apheresis revenue was up 6% in the third quarter and 1.8% year-to-date.
+Continued plasma growth and favorable order timing among distributors in both periods was partially offset by the impact of a previously disclosed customer loss of about $4 million in the quarter and $12 million year-to-date.
+We did not see distributor stocking order reversals in the third quarter.
+Whole blood revenue declined 19% in the quarter and 11% year-to-date, driven by lower-than-usual procedure volumes due to COVID-19, previously discontinued customer contracts, and overall declines in blood utilization rates.
+Additionally, whole blood revenue in the third quarter was impacted by unfavorable order timing among distributors.
+Our recent efforts to optimize this portfolio has allowed our team to focus on apheresis devices and disposable, which is driving performance.
+Cardiva is a leader in vascular closure, an under-developed segment with significant potential.
+VASCADE is a leading product with strong tailwinds and the Cardiva team is talented and highly motivated to deliver.
+With focus and support, we can accelerate growth, especially in electrophysiology, where VASCADE MVP is uniquely positioned for use with cardiac ablation procedures.
+This is a revenue deal.
+But with added scale, there will also be increased operating leverage.
+We avoid the G&A cost Cardiva would have incurred to operate as a public company.
+We can use our infrastructure to support U.S. expansion and our international commercial organization can help to launch VASCADE outside the U.S. Together, we can improve our global reach and relevance.
+Investments in sales and clinical reps, as well as clinical medical and health economics capabilities will benefit both portfolios in IC and EP.
+Our TEG long-range plan is anchored in interventional cardiology with further opportunity in electrophysiology.
+Haemonetics [Indecipherable] can learn from Cardiva.
+And over time, there may be commercial and-or clinical calpoint [Phonetic] synergies.
+We value diversification and growth.
+Cardiva diversifies our product offerings in [Indecipherable] and vascular closure.
+Attractive near adjacencies that can fuel accelerated growth.
+Our focus has shifted to integration and execution is now our top priority.
+Over to you, Steve.
+I would like to reiterate my excitement about Cardiva.
+The acquisition is on track to close this quarter.
+Detailed integration planning is under way, and we are squarely focused on driving revenue growth.
+We are supporting the Cardiva team's strategy in their commercial, product innovation and manufacturing plans, while working on G&A integration.
+Now moving to our results.
+Hospital revenue increased 5% in the third quarter and 1% year-to-date.
+Our hospital business has seen continued sequential improvement over the course of the fiscal year and our third quarter growth was driven by our direct markets across the globe, and in particular, our top two markets, North America and China.
+Hemostasis Management revenue was up 11% [11.3%] in the third quarter and 6% year-to-date, compared with the prior year, driven by strong sales of TEG disposables in the U.S. and capital sales in Europe.
+The pandemic continued to partially offset the strength of this business, both in the quarter and year-to-date.
+We are excited to share that the FDA has issued guidance on the use of viscoelastic testing in patients suspected of COVID-19 coagulopathy, and we are working to update our indication in line with the guidance.
+The use of TEG analyzers for hypercoagulable patients has already been discussed in a number of scientific publications, and updated indications will give us the opportunity to be proactive in deploying this technology to help advance COVID-19 patient management.
+In parallel, we're driving our go-to-market strategies.
+We recently signed an agreement in China to manufacture locally designed and made viscoelastic testing analyzers, and locally manufactured reagents to expand our product offering to meet the unique needs of the Chinese market.
+The product line will focus on automation, high-throughput, and easy customer interface as we build on market specific platform with further innovation in the pipeline.
+Transfusion management was up 7% in the third quarter and 9% year-to-date, primarily driven by strong growth in BloodTrack through new accounts in several key geographies.
+Our teams have implemented alternative methods to advance installations and utilization in customer environments where access continues to be restricted.
+Cell salvage revenue declined 6% in the third quarter and 11% year-to-date, primarily driven by declines in disposable usage.
+Sequentially, cell salvage revenue was up 1% in the third quarter as additional recovery in procedure volumes plateaued toward the end of the quarter.
+The pandemic continues to validate the essential role our technologies play in assessing bleeding and thrombosis risks, autologous blood transfusions and effectively managing blood supply.
+Recovery has been very encouraging, but we're cautious about the near-term forecast as procedure volumes have leveled-off over the past four weeks, driven by a global resurgence of COVID cases that may prolong the recovery.
+We are confident in the hospital business unit's long-term value to our customers and their patients, and our significant opportunity for growth and expansion.
+Chris has already discussed revenue.
+So, I will start with adjusted gross margin, which was 51.4% in the third quarter, a decline of 70 basis points compared with the third quarter of the prior year.
+Adjusted gross margin year-to-date was 50.4%, a decline of 160 basis points compared with the first nine months of the prior year.
+The primary drivers of the declines in both the third quarter and year-to-date we're impacts from higher costs, including an inventory charge in the third quarter, cost per COVID-19 protective measures, and lower volume.
+There was also some un-favorability due to product mix.
+These downward effects on gross margin were partially offset by productivity savings realized from the ongoing strength in our operational excellence program, and lower depreciation expense as our PCS2 devices were mostly depreciated by the end of the prior fiscal year.
+Additionally, the combination of our recent divestitures and our strategic exit of the liquid solution business resulted in a net negative impact on our third quarter, and about neutral impact on our year-to-date adjusted gross margin.
+We continue to successfully execute an appropriate balance of cost control measures and investments without disrupting our growth objectives.
+Adjusted operating expenses in the third quarter were $71 million, a decrease of $2.4 million or 3% [3.3%] compared with the third quarter of the prior year.
+Adjusted operating expenses year-to-date were $201.1 million, a decrease of $19.1 million or 9% compared with the first nine months of the prior year.
+Lower adjusted operating expenses, both in the third quarter and year-to-date were due to a combination of ongoing productivity savings related to our operational excellence program and cost containment measures implemented to help offset the negative effects of COVID-19.
+Partially offsetting these savings were ongoing investments in key growth areas of the business.
+As a result of the performance and adjusted gross margin and adjusted operating expenses, the third quarter adjusted operating income was $52.6 million, a decrease of $9 million or 15% [14.6%], and adjusted operating income year-to-date was $124.1 million, a decrease of $46.7 million or 27% compared with the same period in fiscal ' 20.
+As our business continue to recover from the pandemic, we have seen significant progress in the sequential quarterly improvement of our adjusted operating margins throughout the fiscal year.
+We continue to expect adjusted operating margins to improve to levels above fiscal '20 once the pandemic fully subsides.
+Adjusted operating margin was 21.9% in the third quarter and 19.2% year-to-date, down 190 basis points and 350 basis points respectively compared with the same periods in fiscal ' 20.
+For both periods, the lost leverage from revenue declines outpaced the impacts of cost mitigation efforts.
+The adjusted income tax rate was 16% in the third quarter and 15% in the first nine months of the fiscal year, compared with 17% in the third quarter and 14% in the first nine months of the prior year.
+Third quarter adjusted net income was $41.4 million, down $7.1 million or 15% [14.5%] and adjusted earnings per diluted share was $0.81, down 14% [13.8% ] when compared with the third quarter of fiscal ' 20.
+Adjusted net income year-to-date with $96.8 million, down $39.1 million or 29%, and adjusted earnings per diluted share was $1.89, down 28% when compared with the prior year.
+Our third quarter results are encouraging and show a significant recovery from the effects of the pandemic.
+In the short-term, however, we continue to view the current environment as uncertain and we will not be providing guidance for the fourth quarter.
+Our operational excellence program is delivering positive results and continues to drive improvements in adjusted gross margin and adjusted operating margin.
+We remain committed to delivering $80 million to $90 million of savings by the end of fiscal '23 as part of this program, which is essential for our future growth.
+The progress we have made has helped us to reduce the impacts from the pandemic.
+We expect the majority of savings realized will drop through to adjusted operating income by the conclusion of the program with the return of the business back to historical levels.
+Free cash flow before restructuring and turnaround costs was $99 million in the first nine months of fiscal '21, compared with $95 [$95.2 ] million in the prior year.
+We have been able to offset the decline in earnings due to the impact of the pandemic on sales volumes, particularly in the plasma business through a combination of lower increases in inventory, lower capital expenditures, an improvement in accounts receivable, when compared with the prior year.
+Although our free cash flow for inventory is lower than the same period of the prior year, the impact from lower sales volumes and plasma has resulted in a higher disposables inventory balance.
+We continue to monitor our inventory levels and have seen a decrease in our disposable inventory sequentially.
+Additional fluctuations in inventory may occur as we adjust our production to support customer demand and our operational excellence program initiatives.
+Cash on hand at the end of the third quarter was $189 million, an increase of $52 [$51.7] million since the beginning of the fiscal year.
+In addition to free cash flow, the third quarter ending cash balance increased $28 million from recent portfolio moves and decreased $73 million due to debt repayments, including a $60 million repayment of the revolving credit line that was outstanding at the end of fiscal ' 20.
+The borrowing of $150 million under the revolving credit facility in the first quarter of this fiscal year was repaid during the third quarter, and has no effect on the cash increase in this fiscal year.
+Our current debt structure includes a $700 million credit facility that does not mature until the first quarter of fiscal '24, with the majority of the principal payments weighted toward the end of the term.
+At the end of the third quarter, total debt outstanding under the facility included $311 million term loan.
+There were no borrowings outstanding under the existing $350 million revolving credit line at the end of the third quarter.
+Following our announcement to acquire Cardiva Medical, we will execute additional term loan of $150 million and we'll finance the remaining $325 million balance using a combination of our cash on hand and our existing revolving credit line.
+At the completion of this transaction, which is expected to occur during the fourth quarter, our EBITDA leverage ratio as calculated in accordance with the terms set forth in the company's existing credit agreement will increase from 1.3 at the end of our third quarter of fiscal '21 up to about 3.2.
+Our capital allocation priorities are clear and remain unchanged as we continue to prioritize organic growth followed by inorganic opportunities and share repurchases.
+Over the last fours years, we put a lot of emphasis on strengthening our portfolio in funding key organic growth initiatives.
+These investments have enabled us to improve our growth trajectory and will continue to fuel growth.
+We have also bought back a total of $435 million or $4.5 million of the company's shares outstanding.
+And while we do not plan to make additional purchases under the current share repurchase authorization, we view share repurchases as an important driver of shareholder return.
+M&A is also a critical pillar of our capital allocation and by acquiring Cardiva Medical, we are adding a high growth asset, which will help us sustain future revenue growth and provide attractive financial returns.
+And now, I'd like to open the call for Q&A.

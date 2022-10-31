@@ -1,0 +1,170 @@
+Steve McMillan, Teradata's President and Chief Executive Officer; will lead our call today; followed by Claire Bramley, Teradata's Chief Financial Officer, who will discuss our financial results.
+We will also discuss other non-GAAP items such as free cash flow and constant currency revenue comparisons.
+Additional commentary on key metrics and segment trends can be found in the earnings discussion document on our Investor Relations web page at investor.
+A replay of this conference call will be available later today on our website.
+I'm pleased to report Teradata delivered a solid second quarter, worldwide sales and operational execution as well as our continued cost discipline resulted in year-over-year growth and outperformance in key financial and operational metrics, including 157% growth in public cloud ARR as well as growth in recurring revenue, non-GAAP earnings per share and free cash flow.
+We will maintain our executional focus and with this ongoing attention, we expect to drive sustained revenue growth margin expansion and an increased stream of free cash flows.
+I am also pleased to report our cloud business continues its upward growth trajectory.
+Our large enterprise scale customers are accelerating their digital transformation agendas to address the ongoing challenges of the global macro environment.
+Organizations need data and analytics to provide the business insights that will help them manage through these changing environments.
+They need access to all relevant data as they address new customer buying behaviors and remote work models stemming from the pandemic as well as ever-increasing volumes of data coming from AI, machine learning, 5G and IoT.
+Teradata has proven that we can help customers get real insights from their data regardless of where it resides, whether in public cloud or in on-prem environments.
+We are competing and winning in a large and growing market.
+There is not a day that goes by with less data than the previous one.
+The technologies we deploy help customers get the most value from their data environment at enterprise scale and with outstanding price performance giving us an advantage in the hypergrowth enterprise market.
+Our purpose to transform how businesses work and people live through the power of data, gives the alignment of our entire team, and the team executed quite well in Q2.
+Customers increasingly see Teradata as being uniquely able to support their multi-cloud strategies through our ability to seamlessly support multiple cloud environments on-prem or a hybrid combination.
+We have a 40-plus year track record providing unparalleled expertise in helping customers with the largest data environments leverage their volumes of data to get great insights and achieve breakthrough business results.
+This is certainly a differentiator for us.
+Our expertise, combined with our powerful vantage connected multi-cloud platform is driving cloud growth across our targeted verticals around the globe and with each of the leading cloud service providers.
+A robust growth in the cloud is coming from both new customers and existing accounts.
+Since June of 2020, we've experienced more than 50% growth in cloud customers, and we are adding new logos in each of our three geographic regions.
+While starting numbers are small, the trend is clear.
+As companies realize they received tangible business results from Vantage in the cloud just as we do with our on-prem environment.
+They continue to expand the Teradata cloud environment.
+Our top 10 customers in terms of cloud ARR at the end of June last year grew significantly year-on-year.
+And these types of ongoing success and ease of scalability are helped driving growth.
+We further saw broad-based subscription ARR growth in every region and across many of our target industries, including financial services, healthcare and government as our customers realize the enterprise scale and price performance of Vantage.
+Let's look at a few examples of our wins from the quarter.
+One of the world's largest automators based in Europe as a new cloud customer, it chose Teradata to help optimize production as part of its strategic growth plan.
+Vantage on AWS will manage significant volumes of IoT data captured from robots on the plant floor to boost quality across its smart manufacturing initiative.
+One of Europe's top financial services groups and a long-standing Teradata customer, is migrating to Vantage on Google Cloud as part of its public cloud transformation strategy.
+This customer was an early cloud adopter with Vantage on AWS and considered adding a big clear environment.
+However, our multi-cloud capability demonstrated that Vantage in the cloud will be the best in helping this institution comply with governmental regulations to support its operations in the event of a stressed exit.
+Cerdia and Accenture are collaborating closely to help this customer continue to grow with Vantage and now in a multi-cloud environment.
+This customer is a great example of companies realizing the value of Teradata Vantage as the fastest, lowest risk and most cost-effective path to our modern cloud deployment.
+We are taking this financial use case forward to other institutions facing the same compliance mandate.
+Colby Steel, a major manufacturer in Japan is another one of our new cloud accounts.
+It selected Vantage on AWS to improve analytics and its research division gaining greater understanding of the properties have produced and its manufacturing processes.
+As this industrial gain proceeds with digital transformation for all aspects of this business, it plans to add IoT data at the machine and factory level.
+Banco Itau, the largest financial institution in Latin America, is migrating its on-prem Teradata environment to Vantage on AWS.
+Vantage supports most of the bank's major applications, including cost, purchasing and regulatory reporting.
+Here, we are positioned as a key partner for the bank well into the future, establishing Vantage of the customers' preferred cloud data warehouse platform and paving the way to deliver increased business value through new use cases.
+Consumption-based pricing was really important to this customer, enabling it to pay for exactly what it needs and uses.
+Many of our large customers now operate in a hybrid cloud environment of connected on-prem and cloud ecosystems.
+Customers also continue to have substantial data environments on-prem.
+This portion of our business remains healthy.
+The enterprise scale customers we serve realize that to win in this new era, they must leverage all of the data possible all of the time, respective of deployment option and often in blended environments.
+I'd like to share one hybrid and one on-prem win.
+A large U.S.-based healthcare services company has chosen Vantage on Azure as it revamps its analytical environment scale and support aggressive agile development and deployment processes.
+This customer chose Vantage on Azure as its first step toward implementing a hybrid cloud strategy, leveraging a flexible and transparent consumption pricing model along with the inherent advantages provided by a cloud infrastructure provisioning.
+Middle Eastern tax authority joined the ranks of Teradata customers in Q2 to like in Vantage on-prem to help it develop analytical use cases, including risk mitigation, fraud prevention, tax peer segmentation and behavioral analytics.
+Working in concert with the local SI, we replaced Oracle and beat a category of legacy vendors.
+Winning factors included our deep expertise in helping tax authorities around the world are focus on tangible outcomes for the agency and shown how Teradata provides the fastest and most reliable path to the cloud when this entity is ready to migrate.
+This sampling of wins from Q2 are great examples of the differentiated position we hold and our ability to deliver in whatever environment the customer has, connecting a suite of multi-cloud ecosystems, connecting cloud and on-prem as the customer moves through digital transformation.
+This is where Teradata excels and is the key reason we have significant momentum across the market.
+We are continually innovating.
+In the quarter, we brought out enhancements to QueryGrid, our patented technology that enables a data fabric across multi-cloud ecosystems and multiple data platforms.
+We regret our customers to federate queries without requiring unnecessary data movement.
+This functionality optimizes SLAs and costs in hybrid and multi-cloud environments.
+-- lighting business users who can now seamlessly get access to the data.
+Here's one recent example, a world-leading manufacturer of consumer electronics is using QueryGrid to enable business agility throughout its extended data ecosystem with new functionality and enhancements to QueryGrid, performance was improved by orders of magnitude from 10 to 15 hours to just over three minutes.
+The performance boost improves the tech leader's ability to rapidly share data between lines of business and make better informed decisions across its Federated enterprise.
+Our world-class industry data models are another facet of our technology that helps customers get to value faster.
+And in the quarter, we brought out enhancements to our media and entertainment data model.
+These models are the backbone for modern data management and provide high-value business information to support customers in their vertical industry.
+We have also been strengthening our partnerships with leading SIs and ISVs as we grow.
+In the quarter, we announced a joint initiative with Deloitte to help customers easily and efficiently migrate from on-prem to Vantage in the cloud.
+We're collaborating with Deloitte to take the complexity out of data migration and equip organizations for a modern cloud future.
+While customers are recognizing the value in our multi-cloud solutions, so as the industry, in July, Teradata again garnered recognition of our strength in the cloud in Gartner's new solution comparison for cloud data warehouse platforms.
+Gartner noted that cloud data warehouses are central to organizations and compared a number of vendors.
+Teradata scored exceedingly well, receiving the highest score possible and more attributes than any other vendor.
+We intend to keep earning these types of recognition.
+We also remain dedicated to being a socially responsible corporate citizen.
+And just recently, we issued our annual environmental, social and governance report.
+You can find the full report on our website, but I'd like to share a couple of them.
+Our report notes are pledged to the UN Global Compact principles of ethical behavior and human rights, a careful monitoring and reduction of greenhouse gas emissions and specifically, the reduction of total Scope one and Scope two emissions of about 40% since 2018.
+Our strength lies in our people.
+and a report notes the various actions we took in support of diversity, equity and inclusion to ensure an inclusive workplace and to reinforce our commitment to creating a culture of belonging.
+In 2020, the company participated in the Corporate Equality Index of the Human Rights Campaign Foundation, demonstrating Ally ship to our LGBTQ employees.
+The company scored 90 out of 100 and we are using the inputs and learning how to better support our LGBTQ colleagues.
+Furthermore, we were recently recognized by Sustainalytics for our conscientious management of ESG issues.
+The solid performance in the quarter came up from across the organization, reflecting our focus and operational rigor and our go-to-market organization, our transformation is accelerating.
+We have added seasoned sales talent in our regions and have further strengthened our customer success and renewals organization.
+Complementing our go-to-market efforts and to accelerate our momentum we have added highly experienced cloud leadership and talent dedicated to driving growth across the leading cloud providers.
+Claire's extensive senior leadership experience in corporate finance and accounting as well as our deep knowledge of the technology industry is a perfect fit for us.
+Claire's appointment continues our commitment to building the strongest team possible to execute our strategy and accelerate profitable growth.
+And I know she is looking forward to spending time with all of you.
+We remain relentlessly dedicated to meet and exceed customers' expectations and achieve outstanding business outcomes from the data.
+Our capabilities across multi-cloud, on-prem and hybrid of what customers need today and into the foreseeable future, and we will continue to innovate to address tomorrow's needs as well.
+We have an incredibly talented team who keeps the customer at the center of all we do.
+These are the healthy fundamentals of our company, ones that we believe will deliver significant shareholder value.
+Claire, over to you for a more in-depth look at our financial results and our 2021 outlook.
+I am excited to join you all today for the first time.
+I was drawn to this incredible company because we value the same thing: world-class technology, a true customer focus and creating a strong culture that helps people.
+I am truly honored to be part of this very talented and motivated leadership team as we look to take advantage of the huge opportunities ahead of us.
+In the second fiscal quarter, Teradata delivered solid financial and operating results.
+Here are some of the highlights.
+Our sales and product teams executed well, delivering in line with our outlook and growing public cloud ARR by 157% year-over-year and growing recurring revenue by 16% year-over-year as reported.
+Our operational execution was very efficient across the Board, driving an operating margin of 23.8% and non-GAAP earnings per share of $0.74, which is above the previous outlook.
+Finally, our cash collections were strong.
+Enabling us to generate $219 million in free cash flow.
+These results demonstrate that Teradata combines strong financial fundamentals and operational discipline.
+Together with our market-leading technology, these qualities differentiate Teradata in the market and give us a robust base to continue to grow from.
+With regards to ARR, as Steve highlighted, customers are adding mission-critical workloads that drive increased adoption and consumption of Vantage in the cloud, on-premises and in hybrid environment.
+These digital transformation activities resulted in total ARR growing by 9% year-over-year as reported and by 7% year-over-year in constant currency.
+Total ARR grew by $22 million sequentially.
+We achieved growth in both public cloud and subscription ARR across all three geographical regions year-over-year and sequentially.
+Public cloud ARR grew by $15 million sequentially, of which more than half resulted from customers migrating to Vantage in the cloud from on-premises perpetual and subscription licenses.
+We also continue to experience healthy expansion rates in the cloud, maintaining the positive trends that we have seen over the last several quarters.
+To top things off, we added several new name brand customers in the quarter, that provide us with future expansion opportunities.
+We saw strong growth in subscription ARR, driving a 20% increase year-over-year and approximately a 5% increase sequentially.
+We grew in all three regions from both existing and new enterprise customers.
+These customers are choosing Teradata for the combination of best price and performance at scale in hybrid environments.
+Now turning to revenue.
+Total revenue was $491 million, a 7% increase year-over-year and 4% in constant currency, driven by strength in all three revenue components.
+We continue to build on a higher base of recurring revenue, growing 16% year-over-year and 13% in constant currency.
+We also benefited in the quarter from the timing of revenue recognition of certain on-premise customers expanding or renewing their contract with us.
+Similar to last quarter, the economic structure of these arrangements resulted in the upfront recognition of approximately $22 million in recurring revenues in the second quarter.
+We expect this to recur annually in the same quarter of the following years during the multiyear term of these contracts.
+This $22 million was approximately $4 million higher than what we forecasted in our second quarter outlook and will lower recurring revenue in the next three quarters by approximately $7 million per quarter.
+I plan to cover this again when I update you on our outlook.
+Both perpetual and consulting revenues performed slightly better than we expected due to demand.
+We continue to perfectly manage perpetual revenue down given our shift from a perpetual to a subscription model.
+We also continue to gradually manage a decline in consulting revenues, given our strategic shift to increase collaboration with partners in order to drive higher adoption and consumption of Teradata.
+Second quarter gross margin expanded to 64.8%, which was approximately six percentage points higher than last year's second quarter primarily for four reasons.
+We continue to shift our mix to subscription-based recurring revenue, which carries a higher margin.
+Second, our continued operational execution drove sustainable efficiencies in both subscription and cloud recurring revenue gross margin.
+Third, the margin benefit associated with the upfront recurring revenue recognition and fourth, rate and mix improvements impacting perpetual and consulting margins.
+Second quarter operating margin expanded to 23.8%, significantly ahead of what we anticipated, driven by the combination of benefits flowing through gross margin and a lower cost structure as a result of last year's cost actions and continued cost discipline.
+Total operating expenses were down 2% year-over-year and flat sequentially.
+Consistent with what we said previously, we are reinvesting savings back into the business and we'll continue to expand our cloud investment into the second half of the year.
+I'll comment further on this in a few moments.
+Second quarter earnings per share of $0.74 and exceeded our outlook range of $0.47 to $0.49 by $0.26 at the midpoint.
+Of the $0.26, $0.18 flows through to full year EPS.
+The remaining $0.08 only benefit the second quarter.
+The $0.08 includes the $0.03 from additional upfront recurring revenues, $0.02 from currency, $0.02 from cost delays and $0.01 related to tax rate and weighted average share assumptions.
+Turning to free cash flow and capital allocation.
+We have already exceeded our annual free cash flow outlook with first half free cash flow of $324 million.
+In the second quarter, greater operational efficiency on cash collections resulted in free cash flow of $219 million.
+Second quarter DSO was 55 days, which was 12 days better than last quarter and 13 days better than last year.
+While we look to maintain our collection efficiency, we view 55 days as exceptional and generally not sustainable.
+We continue to take advantage of our strong balance sheet buying back stock to offset dilution.
+In the second quarter, we repurchased approximately 850,000 shares for $36 million in total.
+For the first half of the fiscal year, we spent $121 million on share repurchases or a return of 37% of year-to-date free cash flow to shareholders.
+For the full year, we anticipate returning approximately 50% of free cash flow to shareholders via share repurchases while continuing to make investments in the company to support our strategy for profitable growth and cloud acceleration.
+Looking to the second half of the fiscal year, we expect total ARR growth to peak in the fourth quarter in line with historical seasonality.
+We anticipate tougher public cloud ARR comparison in the second half, resulting from Teradata's cloud-first focus that accelerated under speed leadership in July of 2020.
+We could see more upfront recurring revenue.
+Although difficult to predict, we have included our best current view for this activity in our May fiscal 2021 earnings per share outlook.
+As noted previously, this activity may impact revenue linearity in the second half of fiscal 2021 and in fiscal 2022.
+As I mentioned earlier, we are continuing our plans to increase spending in cloud that support R&D and go-to-market activities.
+The incremental investments are anticipated to have a $0.02 to $0.03 impact on earnings per share in each quarter in the second half.
+Free cash flow generation in the second half is expected to be positive, but not as strong as the first half.
+This is due to the earnings impact of the items previously mentioned, an anticipated increase in billings at the end of the year, which is in line with normal seasonality and less favorable working capital dynamics, particularly with regards to collections.
+With that, let me take you through our outlook.
+The outlook for the third quarter of fiscal 2021 is public cloud ARR is expected to grow at least 90% year-over-year or by at least $15 million sequentially.
+Non-GAAP earnings per diluted share to be in the range of $0.30 to $0.34, the fiscal second quarter operational outperformance about $0.04 flows through a sustainable improvement in the quarter, offset by the incremental investments I previously mentioned.
+We anticipate the tax rate to be between 17% and 18% and a weighted average shares outstanding to be between 113 million and 114 million.
+For the year, we are reaffirming our fiscal 2021 outlook for public cloud and total ARR growth year-over-year.
+Public cloud ARR growth is expected to be at least 100% and total ARR growth is expected to be in the mid- to high single-digit percentage range.
+We are raising several elements of our fiscal 2021 outlook.
+Total recurring revenue is now expected to grow in the high single to low double-digit percentage range year-over-year.
+Total revenue is now anticipated to grow in the low to mid-single-digit percentage range year-over-year.
+Non-GAAP earnings per diluted share is expected to be in the range of $1.92 to $1.96.
+We anticipate the tax rate to be approximately 23% and the weighted average shares outstanding to be between 113 million and 114 million.
+Free cash flow for the year is now expected to be at least $400 million.
+I am very encouraged by the strength of Teradata fundamentals and see real opportunity to build on these in the future.
+Our operational execution and disciplined investing enables Teradata to deliver innovation to our customers, expand adoption and consumption in the modern market rate and drive profitable growth.
+It truly is an exciting time to be at Teradata today.
+I look forward to speaking with you about how we will execute our future strategy and continue to drive increased shareholder value at our Investor Day on September 9.

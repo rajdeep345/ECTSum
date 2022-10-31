@@ -1,0 +1,127 @@
+We begin with our Safe Harbor statement.
+You should listen to today's call in the context of that information.
+Today, we will discuss our results for the quarter primarily on an adjusted non-GAAP basis.
+For the first quarter, the difference between our GAAP results and our adjusted results consists of the following items; amortization of acquisition-related intangible assets, purchase accounting adjustments to acquired deferred revenue and related commission expense, and lastly, a gain on sale related to a minority investment in Sedaru.
+I'll hand the call over to Neil.
+Rob will then highlight our P&L performance and balance sheet metrics.
+I'll then walk through our segment details, our increased outlook for the year and our concluding comments.
+As we turn to Page 5, we got off to a better start than we expected.
+Business execution was strong across the portfolio and it was also broad based.
+We are encouraged by seeing nice improvements across the vast majority of our software and product-based end markets.
+In addition, we continue to see accelerating software recurring revenue growth, growing approximately 6% on an organic basis.
+Importantly, our 2020 cohort of acquisitions, led by Vertafore, continue to perform very well versus our expectations.
+When we put this all together, we experienced double-digit growth across virtually all financial metrics; revenue, EBITDA, DEPS and cash flow.
+The growth in cash flow performance in the quarter allowed us to continue our rapid deleveraging with about $500 million in debt pay-down during the quarter.
+Based on this encouraging start, we're increasing our outlook and guidance for the full year.
+Turning to Page 6 and covering the Q1 financial highlights.
+Total revenue increased 13% to $1.53 billion, which was an all-time record for any Roper quarter.
+Organic revenue for the enterprise declined 1% versus last year's plus 4% pre-pandemic comp.
+EBITDA grew 20% to $561 million.
+EBITDA margin increased 220 basis points to 36.7%, on really great incrementals across the portfolio.
+Adjusted DEPS was $3.60, 18% above prior year.
+Free cash flow was $543 million, up 54%.
+We continue to benefit from our business transformation to a more software-weighted model, where working capital boosts cash flow as our growth accelerates.
+Our results were enhanced a bit by approximately $40 million of accelerated payments that were the result of wins at our UK-based CliniSys laboratory software business.
+Aided by our outstanding cash flow performance, we reduced our debt by approximately $500 million in the quarter.
+More on that to follow.
+So in summary, a great start to 2021.
+Turning to Page 7, an update on our deleveraging.
+The charts on this page are a good preview for how we expect 2021 to look as we follow through on our commitment to reduce debt after our 2020 opportunistic capital deployment.
+As each quarter passes by, we will benefit from meaningfully improved trailing EBITDA as the performance of last year's acquisitions rolls into Roper's financials.
+EBITDA is then further enhanced by our accelerating organic growth.
+Concurrently, our strong cash conversion allows us to apply our high levels of excess free cash flow toward consistent reduction of our debt.
+In the first quarter, we reduced our debt by approximately $500 million.
+Over the first three months of the year, our EBITDA growth, combined with debt reduction, enabled us to lower our net debt to EBITDA ratio from 4.7 to 4.2.
+We expect this downward trend in leverage ratios to continue, moving forward.
+As we turn to Page 9, revenues in our Application Software segment were $578 million, up 2% on organic basis.
+EBITDA margins were an impressive 44.9% in the quarter.
+Across this segment, we saw organic recurring revenue, which is about 75% of the revenue for this segment, increase approximately 6%.
+This recurring revenue strength is based on strong customer retention and continued migration to our SaaS delivery models.
+Of note, this quarter should be the last quarter of non-recurring revenue declines as we come across the COVID comp from last year.
+From a business unit perspective, Deltek continued its long string of great performance.
+As we expected, Deltek's recurring revenue grew nicely.
+Of particular importance, Deltek saw an increase to the perpetual revenue during the quarter, coming off a decently strong quarter a year ago.
+Also encouraging was the nature of the bookings activity, which was broad based across our architecture, engineering, creative and government contracting end markets.
+For reference, the professional services end markets tied to AEC and creative have been slow since the onset of COVID.
+Also, CliniSys, our European lab software business, just crushed it during the quarter.
+As Rob mentioned, CliniSys had exceptionally strong cash flow as they gained tremendous market share within the clinical lab consolidation occurring within the United Kingdom.
+CliniSys has approximately 85% market share in the UK and is now recognized as one of four critical IT vendors for the entire National Health Service.
+Just outstanding execution by the CliniSys team, and congrats.
+We also saw sign in the higher education markets that CBORD serves; certainly encouraging.
+Finally, our 2020 cohort of acquisitions continues to perform very well.
+Specific to Vertafore, we continue to be encouraged by their customers' comfort in having Roper as a long-term owner for the business.
+Also, Amy and her team have done a great job transitioning to Roper and our governance model.
+As we turn to the outlook for the balance of the year, we expect high single-digit organic growth for the segment.
+This is based on the expectation for sustained levels of recurring revenue growth and resumption of non-recurring revenue growth.
+As it relates specifically to the second quarter, we expect our growth to be a touch below high single digits due to our global lab software group coming off across a challenging comp from a year ago as they are instrumental standing up COVID testing on a global basis.
+Solid and encouraging quarter for sure.
+And with that, let's turn to our next slide, please.
+Turning to Page 10.
+Revenue in our network segment were $440 million, flat versus last year and down 3% on an organic basis.
+EBITDA margins were 40.9% in the quarter.
+Our software businesses in this segment, about 65% of the revenues were up 4% on an organic basis.
+This revenue was broad based among our software businesses and driven by organic recurring revenue growth of approximately 6%.
+Recurring revenue growth is underpinned by strong customer retention.
+Recurring revenues are also benefited by increasing network participation.
+At the business level, our Freight Match businesses, both in the US and Canada, continue to be solid growers for us.
+As a reminder, our freight match networks are critical and necessary elements to help organize and transact the trucking, shipping spot markets.
+Strength in our businesses has been on both sides of the network; brokers and carriers.
+We also continue to see nice organic gains at ConstructConnect as their network enables commercial construction planning and bidding to occur in a more efficient and transparent manner.
+Lastly, as it relates to our Network Software businesses, we saw improved end market activity, especially in the middle market for Foundry, our media and entertainment compositing software business.
+Our non-software businesses in this segment were down 13% for the quarter; a touch better than we anticipated.
+TransCore's New York project work continues and is tracking well.
+TransCore's tag volumes declined versus a year ago based on lower traffic volumes across the US.
+Turning to the outlook for the balance of the year.
+We expect to see high single-digit organic revenue growth for the segment with consistent high single-digit growth through out -- through the balance of the year for our Network Software businesses.
+As it relates specifically to the second quarter, we anticipate our segment organic growth to be a touch below HSD, given TransCore's should be stronger in the second half versus next quarter based on timing of project for execution and tag shipments.
+All in all, a solid outlook for the balance of the year.
+Please turn to the next slide.
+As we turn to Page 11, revenues in our MAS segment were $381 million, up 2% on an organic basis.
+EBITDA margins were 34.8% in the quarter.
+As usual, in this segment, we will profile the three macro parts; medical products, Neptune and our industrial businesses.
+To start, our medical product businesses performed very well this quarter.
+Verathon continued its strength based on consistent factors; GlideScope unit placements and recurring consumables pull through and continued momentum and share gains with our single-use Bronchoscope product offering.
+What is also encouraging to see is the growth in our Bladder Scan product line.
+We believe this was based on a broader base trend of hospitals resuming some normal level of clinical capital spending.
+We saw similar strength in our other medical product businesses as well.
+For instance, Northern Digital had their best Q1 bookings quarter in history.
+This trend bodes well for the balance of the year.
+Neptune, as expected, declined in the quarter for the same reasons discussed in each of the last three quarters, having limited access to indoor meters in the Northeast United States and Canada.
+However, we did see some easing of these restrictions in March, and Neptune's customers are beginning to increase their maintenance schedules throughout Q2 and into the second half of the year.
+Finally, our industrial businesses benefited from improvements in their end market conditions.
+For the balance of the year, we expect high single-digit growth for the segment.
+This is based on broadly improving conditions both in medical and industrial end markets and increases to access in indoor meter replacements at Neptune.
+This strength will be somewhat offset by the extraordinary prior-year COVID demand at Verathon.
+We're encouraged by our expected high single-digit growth for the balance of the year.
+Now, let's turn to our final segment, Process Tech.
+As we turn to Page 12, revenues in our Process Technology segment were $131 million, down 10% on an organic basis, EBITDA margins hung in at 31% in the quarter.
+The short story here is we're seeing improving end market conditions across virtually every one of our businesses in this segment after nearly two years of declines.
+For instance, at CCC, we're seeing the resumption of previously deferred projects and demand for field services to come back online.
+Also, greenfield bidding activity is back in full swing, especially on an international basis.
+Cornell continues to perform well for us.
+This is particularly partially based on market conditions, but also based on Cornell's product innovation as they're seeing very nice demand pick-up for their IoT-connected pumping solutions.
+As we look to the outlook for the balance of the year, we see double-digit organic growth based on improving end market conditions and continued even comps.
+Now, please turn to Page 14, where I'll highlight our increased guidance for 2021.
+Based on strong Q1 performance and our increased confidence for the balance of the year, we're raising our full-year adjusted DEPS to be in the range of $14.75 and $15 per share and organic growth to be in the 6% to 7% range.
+The 6% to 7% organic growth is against a 1% organic decline in 2020.
+This demonstrates that we have meaningfully improved on an organic basis since 2019.
+Our tax rate should continue to be in the 21% to 22% range.
+For the second quarter, we're establishing adjusted DEPS guidance to be between $3.61 and $3.65 and expect second quarter organic revenue growth to be in line with the full-year organic growth rate.
+Turning to Page 15 and our closing summary.
+This was an encouraging start, and we're raising our outlook for the year.
+We performed well across virtually every financial metric with double-digit increases in revenue, EBITDA, DEPS and cash flow.
+EBITDA margins expanded nicely and free cash flow grew 54% to $543 million, which enabled us to continue our rapid deleveraging in the quarter.
+Importantly, we are well positioned for continued double-digit compounding.
+We are seeing improving conditions across virtually all of our end markets.
+When combined with our leading market positions, we expect high single-digit organic growth for the remainder of the year.
+As owners or prospective owners of Roper Tech, you should be encouraged by our increasing levels of recurring revenue and the stability of our recurring revenue growth.
+Also, our 2020 cohort of acquisitions are performing very well and Vertafore has proven to be an excellent addition to our growing portfolio of software businesses.
+We continue to focus on deleveraging our balance sheet and remain committed and focused on our long-term capital deployment strategy.
+To this end, our pipeline of M&A candidates is active, robust and has many high-quality opportunities.
+As our balance sheet becomes more offensive toward the end of this year, our active pipeline of M&A targets will enable us to resume capital deployment in our usual process-oriented and disciplined manner.
+Amy has been a tremendous Board Member since 2015 and will be a fantastic Board Chair.
+I certainly look forward to working with Amy and the full Board for many years to come.
+Bill has been a Roper Director since 1997 and has reached our mandatory Board retirement age.
+He served as our Lead Independent Chair Director and became Board Chair during the CEO transition from Brian Jellison to myself.
+Bill has been a wonderful Board Chair, enabling a smooth CEO transition and the continued evolution of our strategy and business model.
+On a personal note, Bill has been a tremendous mentor to me, which I hope will continue on an informal basis for years to come.

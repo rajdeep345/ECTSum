@@ -1,0 +1,174 @@
+I'm Andy Simanek of investor relations for Hewlett Packard Enterprise.
+Also, for financial information that has been expressed on a non-GAAP basis, we have provided reconciliations to the comparable GAAP information on our website.
+Throughout this conference call, all revenue growth rates, unless noted otherwise, are presented on a year-over-year basis and adjusted to exclude the impact of currency.
+While great progress is made in the fight against COVID, it's also clear that it's still a global challenge.
+We will continue to do everything we can to support our team members, customers, and communities through this very challenging time.
+Hewlett Packard Enterprise had a strong second quarter.
+I'm very pleased with our results and that they are marked by revenue growth, strong profitability, and free cash flow.
+The overall demand environment is improving, and we are seeing traction across our portfolio.
+We saw solid sequential improvement in total HPE orders growth that was up mid-single digits with double-digit growth in HPE GreenLake and HPC business segments.
+We expect to continue to see improvement in customer IT spending throughout 2021.
+Our disciplined execution on our strategic priorities outlined at the Security Analyst Meeting last fall is positively impacting both top and bottom-line performance.
+We are strengthening our core businesses, doubling down in key areas of growth, and accelerating our ultra service pivot while advancing our cloud-first innovation agenda to become the edge-to-cloud Platform-as-a-Service choice for our customers and partners.
+We have also executed well throughout the industrywide tightening and cost inflationary trends with minimal impact to our first half.
+We have taken proactive inventory buffering measures to position us well for the second half.
+We will continue to take additional inventory actions as appropriate, in alignment to the market demand by leveraging great engineering capabilities and our long-term agreements with our suppliers.
+Our continued strong performance gives us the confidence to raise our fiscal year '21 earnings per share and free cash flow outlook for the third time since our Security Analyst Meeting.
+We will provide more details about this new guidance later in the call.
+First, let me review some key Q2 highlights.
+Revenue of $6.7 billion was up 9% year over year, with better-than-normal sequential seasonality.
+I'm particularly pleased with the double-digit revenue growth in both our HPC and Intelligent Edge businesses that together now represents two -- 22% of our HPE total revenue.
+Our as-a-Service annual recurring revenue growth was an impressive 30% year over year, which underscores our momentum in enabling consumption-based IT.
+This is an important long-term growth driver for our company.
+We made significant improvements in both gross and operating margins.
+Our non-GAAP gross margin of 34.3% is at record level and up 210 basis points year over year.
+Our non-GAAP operating profit of 10.2% is up 300 basis points year over year.
+And our non-GAAP earnings per share of $0.46 is up 70% year over year and above the high end of our outlook range.
+These results contribute to Q2 free cash flow of $368 million, which is up $770 million year over year, bringing our first half fiscal year '21 free cash flow to a record $931 million.
+Tarek will discuss the financial results and outlook in greater detail.
+Before he does that, I want to provide additional comments on our business segment performance and highlight some of the innovative solutions and experiences we introduced during the quarter.
+HPE has been a driving transformation in our businesses to deliver a modern secure cloud experience everywhere to help our customers with their digital transformations.
+Our Intelligent Edge business accelerated its momentum with an outstanding quarter across all metrics.
+Revenue of $799 million grew 17% year over year, and operating profit expanded 320 basis points year over year.
+This is the third consecutive quarter of year-over-year revenue growth and sixth consecutive quarter of operating profit expansion.
+Edge-as-a-Service offerings were up triple digits year over year and now a meaningful contributor to HPE's overall ARR.
+Extended to the edge has never been more critical for enterprises.
+At Aruba Atmosphere, our signature event for Aruba customers and partners, we announced an expansive set of cross-portfolio edge-to-cloud security integrations for our Aruba Edge Services Platform, or ESP, including SD-WAN technology from our recent Silver Peak acquisition.
+Today, our Aruba Edge Services platform already supports well over 100,000 customers with 150 new customers added every day, connecting over 1 billion active devices.
+Aruba building identity network security is unique in the market and provides the ideal foundation for building a zero-trust and Secure Access Service Edge.
+Our comprehensive portfolio and AI-powered, cloud-driven platforms like Aruba ESP and Aruba Central will continue to accelerate WAN and security deployment, advanced cloud and IoT adoption, and fast-track digital transformation.
+Customers like Walgreens Boots Alliance and Mercado Libre chose Aruba in Q2 for these reasons.
+I am tremendously pleased with Aruba's impressive performance, and it is against this successful backdrop that I want to share that Aruba founder, Keerti Melkote, has made the decision to retire from HPE.
+We acquired Aruba in 2015 when we saw the edge as the next frontier.
+Aruba and Keerti has been instrumental in accelerating this business to the $3 billion business it is today.
+I'm incredibly grateful for his leadership, and I have personally benefited from his counsel, knowledge, and friendship.
+Keerti will remain as an advisor to me for the remainder of 2021.
+I am pleased to announce that effective today, Phil Mottram will take over the leadership of our Aruba Intelligent Edge business.
+Phil is a result-driven leader with extensive experience implementing growth strategies and leading transformation initiatives.
+He joined HPE in 2019 and most recently assumed the role as the General Manager of our Communications Technology Group, leading a team of more than 5,000 team members who drive $500 million in CPG-specific revenue and $3.5 billion in total revenue for HPE.
+In our high-performance compute and mission critical solutions business, revenue of $685 million was up 11% year over year.
+We are the undisputed market leader with an industry-leading portfolio in AI and people learning solutions for the new Age of Insight.
+We continue to execute on over $2 billion in awarded contract, and we are pursuing a robust pipeline of another $5 billion in market opportunity over the next three years.
+In Q2, we announced several new HPC systems deals and collaborations.
+This includes building new supercomputer to advance scientific research for the Swiss National Supercomputing Centre, the United States Department of Energy Los Alamos National Laboratory, and the National Supercomputing Center in Singapore.
+As we have noted on previous calls, this is an inherently lumpy business due to the lead times between ordinary revenue recognition, but we remain on track to deliver our target of 8% to 12% annual growth in this business this year.
+Our compute and storage businesses performed very well in the quarter.
+Our strategy to grow in profitable segments of the market and pivot to more as-a-Service solutions is paying off.
+In Compute, revenue of $3 billion was up 10% year over year.
+We drove strong operational performance, expanding operating margins by 550 basis points.
+We expanded our portfolio with the latest AMD EPYC and Intel Xeon Scalable Processors, which include launching three new HPE ProLiant solutions targeting 5G deployments in telco, virtual desktop infrastructure, and storage optimized solutions for database workloads in enterprise.
+In storage, revenue of $1.1 billion was up 3% year over year with a strong operating profit of 16.8%, up 110 basis points year over year.
+We continue to see strength in key software-defined solutions, which drive our ability to attach rich services to our product offerings.
+HPE Primera and Nimble dHCI both grew triple digits.
+Our HPE's All-Flash Array portfolio grew 20%.
+On May 4, we introduced a new portfolio of cloud-native data infrastructure called HPE Alletra.
+This portfolio delivers workload-optimized systems and provides customers with architectural flexibility to run any application without compromise from edge to cloud with a cloud operational experience.
+These innovations are propelling our storage business into our cloud-native software-defined data services business.
+Our pivot to as-a-Service continued its strong momentum.
+Our annualized revenue run rate of $678 million was up 30% year over year.
+We saw strong total as-a-Service order growth of 41%.
+Over 900 go-to-market partners are now actively selling HPE GreenLake as a part of their own marketplace.
+And we average a 95% renewal rate with billings from those customers at 124% usage of the regional contract commitments.
+We have an unmatched portfolio of hybrid cloud services that spans all aspects of networking, compute, storage, VMs, containers, ML Ops, HPC, and more.
+On the innovation front, we announced a transformative new data storage services platform that brings a cloud operational model to whatever data it is by unifying data operations.
+The platform will be available through HPE GreenLake Central and includes a new data services cloud console and a suite of software subscription services that simplifies and automates global infrastructure and scale.
+Our industry-leading HPE GreenLake Cloud Services experience enables us to gain more than 90 new customers during the quarter.
+Carestream is a great recent customer, for example.
+In a three years multimillion-dollar deal, Carestream selected HPE GreenLake Cloud Services with HPE Ezmeral software HPE Pointnext services to power a transformative new healthcare initiative based on Artificial Intelligence-as-a-Service.
+We will continue to invest aggressively in HPE GreenLake Cloud Services to provide a true cloud experience and operating model, whether at-the-edge, on-premise, or across multiple clouds.
+HPE's businesses that provide services and capability of our customers recently transformed also performed well in Q2.
+HPE Pointnext Operational Services had another solid quarter with revenue growing year over year as reported.
+We expect to see growth for the full fiscal year, driven by our growing services intensity and other service momentum.
+HPE Financial Services continue to play an important role helping our customers as they rebuild and rethink their IT transformation requirements.
+Cash collections continue to improve, and HPE FS delivered a return on equity of 18.3%, well above prepandemic levels.
+This business continued to perform very well.
+Over the past year, our global communities have faced a catastrophic health crisis and significant business disruption.
+At HPE, we accelerated our strategy to be the edge-to-cloud Platform-as-a-Service company to support our customers' rapidly changing needs, who have defined our 60,000 team members' demonstrated amazing agility and perseverance.
+And I'm tremendously proud of our team members' response during this unprecedented time.
+As businesses emerge from the pandemic and move beyond the realities of COVID, digital transformation is at the forefront of their strategic initiatives.
+At our Discover event on June 22, you will hear more about how HPE is at the center of this super-charged digital economy.
+Our edge-to-cloud architecture, software, and solutions all delivered as-a-Service will continue to help our customers transform their businesses, optimize their applications, and data clouds are increasingly distributing work and be future-ready today.
+I'm excited about our momentum, and I believe the HPE represents a strong investment opportunity for our shareholders.
+I'll start with a summary of our financial results for the second quarter of fiscal year '21.
+Antonio discussed the key highlights for this quarter on Slide 1, and now let me discuss our financial performance, starting with Slide 2.
+I am very pleased to report that our Q2 results reflect continued momentum in revenue, strong growth and operating margin expansion, and robust cash flow generation.
+We delivered Q2 revenues of $6.7 billion, up 9% from the prior-year period, a level better than our normal sequential seasonality.
+I am particularly proud of the fact that our non-GAAP gross margin is at the record level of 34.3%, up 210 basis points from the prior-year period and up 60 basis points sequentially.
+This was driven by strong pricing discipline, cost takeouts, and an ongoing favorable mix shift toward higher-margin, software-rich offering.
+Our non-GAAP operating expenses increased in the quarter, as we've previously indicated due to the planned hiring increases along with R&D and go-to-market investments, this offset by our continued progress delivering on the savings from our cost optimization plan, which is on track.
+Even with our investments, our non-GAAP operating margin was 10.2%.
+That is up 300 basis points from our prior year, which translates to a 59% year-over-year increase in operating profit.
+Within other income and expense, we benefited from one-time gains related to increased valuations in our Cohesity and IonQ investments within our Pathfinder venture portfolio.
+As a result, we now expect other income and expense for the full year in fiscal year '21 to be an expense of approximately $50 million.
+With strong execution across the business, we ended the quarter with non-GAAP earnings per share of $0.46, up 70% from the prior year and meaningfully above the higher end of our outlook range for Q2.
+Q2 cash flow from operations was $822 million and free cash flow was $368 million, up $770 million from the prior year, driven by better profitability and strong operational discipline, as well as working capital benefits.
+This puts us at a record level of free cash flow for the first half at $931 million.
+Finally, we paid $156 million of dividends in the quarter and are declaring a Q3 dividend today of $0.12 per share payable in July.
+Now let's turn to our segment highlights on Slide 3.
+In Intelligent Edge, we accelerated our momentum with rich software capabilities to meet robust customer demand, delivering 17% year-over-year revenue growth across the portfolio.
+Switching was up 17% year over year, and wireless LAN was up 16%.
+Additionally, the Edge-as-a-Service offerings were up triple digits year over year and now represent a meaningful contribution to HPE's overall ARR.
+We also continue to see strong operating margins at 15.5% in Q2, up 320 basis points year over year, which is the sixth consecutive quarter of year-over-year operating margin expansion.
+Silver Peak continues to perform well, leveraging the high-growth SD-WAN market opportunity and contributed about five points to the Intelligent Edge top-line growth.
+In HPC-MCS, revenue grew 11% year over year as we continue to achieve more customer acceptance milestones and deliver on our more than $2 billion of awarded contracts.
+We remain on track to deliver on our full-year and three-year revenue growth CAGR target of 8% to 12%.
+In compute, revenue grew 10% year over year and was down just 1% sequentially, reflecting much stronger-than-normal sequential seasonality.
+Operating margins were up meaningfully year over year due to disciplined pricing and the rightsizing of the cost structure in this segment.
+We ended the quarter with an operating profit margin of 11.3%, up 550 basis points from the prior-year period and toward the upper range of our long-term margin guidance for these segments provided at SAM.
+Within storage, revenue grew 3% year over year, driven by strong growth in software-defined offerings.
+Nimble grew 17% with ongoing strong dHCI momentum growing triple digits.
+All-Flash Arrays grew 20% year over year, led by Primera, that was up triple digits and is expected to surpass 3PAR sales next quarter.
+The mix shift toward our more software-rich platforms and operational execution helped drive storage operating profit margin to 16.8%, up 110 basis points year over year.
+With respect to Pointnext operational services, including Nimble services, revenue grew for the second consecutive quarter year over year as reported with further growth expected for the full year of fiscal year '21.
+This has been driven by the increased focus of our BU segments on selling product and service bundles, improve service intensity, and our growing as-a-Service business, which I'll remind you, enrolls service attach rates of 100%.
+This is very, very important to note because all of our OS revenue is recurring with three-year average contract length, and OS is the highest operating margin contributor to our segments.
+Within HPE Financial Services, revenue was down 3% year over year as the pandemic did not materially impact this business until later in 2020.
+As expected, we are seeing continued sequential improvements in our bad debt loss ratios ending this quarter at just 75 basis points, which continues to be best-in-class within the industry.
+We have also seen improved cash collections well above pre-COVID levels.
+Our operating margin in this segment was 10.8%, up 160 basis points from the prior year and our return on equity at 18.3% is well above pre-pandemic levels and the 15%-plus target that we set at SAM.
+Slide 4 highlights key metrics of our growing as-a-Service business.
+Similar to the past couple of quarters, we are making great strides in our as-a-Service offering with over 90 new enterprise GreenLake customers added.
+That is in Q2, bringing the total to well over 1,000.
+I am pleased to report that our Q2 '21 ARR was $678 million, which was up 30% year over year as reported.
+Total as-a-Service orders were up 41% year over year, driven by strong performance in North America and Central Europe.
+Our Edge-as-a-Service offerings also continued to grow revenue strong triple digits year over year.
+Based on strong customer demand and recent wins, I am very happy with how this business is executing and progressing toward achieving our ARR growth targets of 30% to 40%, a CAGR from FY '20 to FY '23.
+Slide 5 highlights our revenue and earnings per share performance to date where you can clearly see the strong rebound and momentum from our Q2 '20 trough.
+For the past two quarters, revenue has exceeded our normal sequential seasonality, reflecting the improving demand environment.
+And with the operational execution of our cost optimization and resource allocation program, we have increased non-GAAP earnings per share in Q2 by 70% year over year.
+Turning to Slide 6.
+We delivered a record non-GAAP gross margin rate in Q2 of 34.3% of revenues, which was up 60 basis points sequentially and up 210 basis points from the prior year.
+This was driven by strong pricing discipline, operational services margin expansion from cost takeout and automation, and a positive mix shift toward high-margin, software-rich businesses like the Intelligent Edge and next-generation storage offering.
+We have also benefited from the new segmentation we implemented beginning of fiscal year '20 that has given us much better visibility into each business unit and enabled better operational discipline.
+Moving to Slide 7.
+You can also see we have expanded non-GAAP operating profit margin substantially from pandemic lows of -- to 10.2%, which is up 300 basis points from the prior-year period.
+We have done this by driving further productivity benefits and delivering the expected savings from our cost optimization plan while simultaneously increasing our investment levels in R&D and field selling costs, which are critical to fuel our long-term innovation engine and revenue growth targets.
+Q2 operating expenses also included planned increased hiring and spending on select investments to drive further growth.
+Turning to Slide 8.
+We generated a record first half levels of cash flow with $1.8 billion of cash flow from operations and $931 million of free cash flow, which is up $1.5 billion year over year.
+This was primarily driven by the increased profitability, strong operational discipline, and some in near timing-related benefits.
+I would like to underscore that this year, our free cash flow profile seasonality will be different as a result of our back-end-loaded restructuring costs and investment in inventory for our supply chain to cater for rising demand and chip shortages as the economic recovery accelerate.
+Now moving on to Slide 9, let me remind everyone about the strength of our diversified balance sheet.
+As of April 30 quarter end, we have improved the operating company to a net cash neutral position with our strong free cash flow.
+portfolio securitized by year end.
+The refinancing of higher-cost unsecured debt with ABS financing allows us to boost access to financing markets at a cheaper cost of debt capital, as well as diversifying and segregating our balance sheet between our operating company and our financial services business.
+Bottom line, our improved free cash flow outlook and cash position ensures we have ample liquidity available to run our operations, continue to invest in our business, drive growth and execute on our strategy.
+Now turning to our outlook on Slide 10.
+I am very pleased to announce that we are once again raising our full-year guidance to reflect the continued momentum in the demand environment and our strong operational performance to date.
+This will be our third guidance increase in SAM in October 2020.
+We now expect to grow non-GAAP operating profit by 25% to 35% and deliver fiscal year '21 non-GAAP diluted net earnings per share between $1.82 and $1.94.
+This is a $0.09 per share improvement at the midpoint of our prior earnings per share guidance of $1.70 to $1.88 and a $0.22 per share improvement at the midpoint since SAM.
+With respect to supply chain, we have executed well to date with minimal impact and continue to take proactive inventory measures where possible.
+We do see further industrywide tightening and inflation persisting in the near term, which has been factored in our outlook from both a revenue and cost perspective.
+But overall demand remains strong.
+From a top-line perspective, we are pleased with the momentum we saw in the first half.
+And while we continue to see further demand improvement, we remain prudent as certain geographies continue to navigate the pandemic, and we continue to observe uncertainties in the supply of commodity.
+More specifically for Q3 '21, we expect revenue to be in line with our normal sequential seasonality of up low single digits from Q2.
+For Q3 '21, we expect GAAP diluted net earnings per share of $0.04 to $0.10 and non-GAAP diluted net earnings per share of $0.38 to $0.44.
+Additionally, given our record levels of cash flow in the first half and raised earnings outlook, I am very pleased to announce that we are also raising FY '21 free cash flow guidance to $1.2 billion to $1.5 billion.
+That is a $350 million increase at the midpoint from our original SAM guidance.
+So overall, Antonio and I are very proud of the progress we have made in the first half.
+We have navigated well through the pandemic and are exiting the first half with improved revenue momentum, strong profitability, and robust cash flow.
+Our growth businesses in the Intelligent Edge and HPC-MCS have accelerated top-line performance.
+Our core business of Compute and Storage revenues are growing with improved margins, and our as-a-Service ARR is accelerating.
+We also continue to execute well against our cost optimization and resource allocation program, which has made us leaner, better resourced, and positioned to capitalize on the economic recovery currently at play.

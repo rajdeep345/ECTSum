@@ -1,0 +1,112 @@
+We appreciate you joining us for our third-quarter earnings call.
+Moving to Slide 3.
+I'll share a few updates on regulatory and ESG-related matters.
+And Joe will then provide a more detailed overview of the third-quarter financial results.
+Turning to Slide 4.
+Today, we announced third-quarter reported earnings of $0.37 per share.
+based on the 2020 Finance Act and unrealized losses on foreign currency economic hedges.
+Third-quarter earnings from ongoing operations were $0.58 per share compared with $0.61 per share a year ago.
+At a high level, results for the quarter were in line with our expectations.
+I'll note that the lower earnings, compared to last year include $0.02 of lower volumes in the U.K., which will recover in future periods.
+And $0.01 due to the timing of our estimated federal income tax computation, which will reverse in Q4.
+Joe will cover the financial results in more detail in his section.
+Regarding a COVID update, throughout the quarter, we continued to deliver strong operational performance, providing outstanding customer service and reliability.
+At the same time, we've remained focused on innovation and building for the future.
+In September, we launched the new digitalization strategy in the U.K. The strategy focuses on transforming the way we develop and operate the network to empower customers drive greater efficiency and deliver faster decarbonization.
+And in Pennsylvania, during Q3, we reached the $1 million mark for customer outages avoided as a result of our investments in automated power restoration technology.
+Regarding customer sales during the quarter, residential load continued to be strong than our weather-normalized forecast, driven by sustained work-from-home measures in all of our service territories.
+Conversely, C&I demand remained lower in all three business units albeit less pronounced in Q3 than it had been earlier in the pandemic.
+From a financial perspective, we are well-positioned to weather the continued economic downturn.
+We've maintained a strong liquidity position of over $4 billion.
+Our cash receipts remain steady and our capital plans remain largely intact.
+And as the moratoria are starting to lift across our U.S. service territories, we will comply with all state utility commission requirements and continue to work with our customers to maintain uninterrupted electricity and gas service.
+This means offering flexible payment plans, connecting our customers with agencies and programs that can provide assistance and working with them to address overdue balances before they become unmanageable.
+Service terminations are always a last resort.
+Overall, we continue to believe the full-year impact of COVID-19 will be manageable as we close out the year.
+As a result, we've narrowed our forecast range to $2.40 to $2.50 per share from the prior range of $2.40 to $2.60 per share.
+We continue to expect to track toward the lower end of this guidance range due to the impacts of COVID-19 and warmer than normal weather during the first quarter.
+sale process remains on track, and we continue to expect to announce a transaction in the first half of 2021.
+Moving to Slide 5, and starting with key regulatory developments.
+On October 1, WPD responded to Ofgem's RIIO-ED2 sector-specific methodology consultation, advocating for the continuation of a strong incentive-based regulatory regime that supports the best outcomes for our customers in terms of low prices and high-quality service.
+We believe RIIO-ED1 largely achieved this balance and that the basic structure of the RIIO-ED1 regime should broadly remain intact under ED2.
+WPD's response to the consultation focused on several areas, where we believe Ofgem should reconsider its position and the robustness of its supporting evidence before making its methodology decision.
+In the end, we continue to believe that Ofgem has made it clear that DNOs will be critical to supporting decarbonization efforts in the U.K. to deliver a net-zero economy.
+Based on our discussions with Ofgem, we expect the incentive scheme for ED2 to continue to play a significant role in the overall returns for electric distribution companies.
+And we expect that WPD will have the opportunity to earn reasonable returns and invest significant amounts of capital during RIIO-ED2 and beyond.
+Moving forward, WPD will remain very focused and engaged with its stakeholders and Ofgem to ensure it delivers a plan that will achieve the U.K.'s ambitious carbon reduction goals.
+Ofgem is expected to issue its RIIO-ED2 sector-specific methodology decision in December.
+developments, the Competition and Markets Authority or CMA issued a recent provisional ruling that supports more stable returns for regulated utilities in the U.K. to incentivize appropriate levels of investment.
+The CMA ruling concluded that the water sector regulator, Ofwat, went too far in its efforts to sharply reduce returns for water utilities.
+We expect the provisional ruling will be one that Ofgem studies closely as it nears its decision on the RIIO-2 final determinations for the gas and electric transmission sectors and ultimately for the electric distribution sector.
+Turning to the U.S. The FERC on October 15 issued an order in a complaint filed by a third-party challenging PPL Electric Utilities based return on equity for transmission.
+The FERC order sent the complaint to settlement procedures.
+If no settlement can be reached, the case will go to public hearing.
+We continue to believe that PPL Electric Utilities' current transmission return on equity is just and reasonable, and that complaint is without merit and based on flawed assumptions and calculations.
+Also in the U.S. on October 23, LG&E and KU notified the KPSC of the company's intent to file a rate request later this month.
+As part of the rate case, we will be applying for approval to deploy advanced metering to further enhance grid automation and reliability in the state.
+Assuming the maximum suspension period for such a proceeding, the resulting base rate changes would be effective July 1, 2021.
+Shifting gears to a few notable highlights related to our sustainability efforts and governance updates, in August, we announced that we joined an exciting new initiative to accelerate the development of low-carbon technology.
+The low carbon resources initiative led by the Electric Power Research Institute and the Gas Technology Institute, focuses on identifying, developing and demonstrating affordable pathways to economywide decarbonization.
+BPL is an anchor sponsor for the five-year program, which supports our clean energy strategy.
+At a high level, that strategy is focused on decarbonizing PPL's own generation, decarbonizing our non-generation operations, enabling third-party decarbonization and advancing research and development into clean energy technologies.
+As we've shared previously, PPL has set a goal to reduce its carbon emissions by at least 80% by 2050.
+We're confident this goal is achievable with today's technology.
+At the same time, we recognize that going further and faster, we'll require new ideas, new technology and new systems that can be delivered at scale safely, reliably and affordably for those we serve.
+We also remain squarely focused on diversity, equity and inclusion as part of our long-term corporate strategy.
+I'm pleased to share that PPL has been named a best place to work for people with disabilities.
+In July, the company earned a top score of 100% on the 2020 Disability Equality Index, the nation's most comprehensive annual benchmarking tool for disability inclusion.
+PPL's top score is the result of policies and practices that we've put in place to promote the success of those with disability.
+And it's just the latest recognition of PPL policies focused on ensuring all employees have the opportunity to succeed.
+Earlier this year, for example, PPL was named the best place to work for LGBTQ equality by The Human Rights Campaign after achieving a perfect score on their corporate equality index.
+Moving forward, we will continue to work with employee-led affinity groups to better enable all employees to reach their full potential.
+We believe it's important to be transparent on these matters, highlighting one of our core values of integrity and openness and our overall compliance and ethics commitment that is supported by robust internal controls.
+Lastly, PPL's Board of Directors appointed Ar Beattie as a new director effective October 1.
+Ar brings to the board a wealth of knowledge and experience with regulated utilities and the energy industry and we're certainly glad to have him onboard as we strategically reposition PPL for the future.
+I'll cover our third-quarter segment results on Slide 6.
+First, I would like to highlight that the estimated impact of COVID on our third-quarter results was about $0.04 per share, which was primarily due to lower sales volumes in the U.K. and lower demand revenue in Kentucky.
+This is less than the $0.06 impact we experienced during the second quarter, primarily due to the improving electricity demand that Vince mentioned earlier in his remarks.
+As a reminder, the majority of this impact is recoverable via the U.K. decoupling mechanism, which adjusts revenues on a two-year lag.
+Turning to the quarterly walk, starting with the Q3 2019 ongoing results on the left.
+We first separate the impact of weather and dilution for comparability purposes of the underlying businesses.
+During the third quarter, we experienced a $0.02 unfavorable variance due to weather compared to the third quarter of 2019, primarily in Kentucky.
+We experienced substantially higher degree days in Kentucky during the third quarter of 2019 that led to a favorable variance last year.
+Weather in the third quarter of 2020 was about $0.01 favorable overall compared to plan, primarily due to stronger load in Pennsylvania versus normal due to the warmer conditions in July.
+In terms of dilution, during the third quarter, we continued to recognize the impact of the November 2019 draw on our equity forward contracts, which resulted in dilution of about $0.03 per share for the quarter.
+Moving to the segment drivers.
+Excluding these items, our U.K.-regulated segment earnings increased by $0.01 per share compared to a year ago.
+earnings results include higher foreign currency exchange rates, compared to the prior period, with Q3 2020 average rates of $1.54 per pound, compared to $1.26 per pound in Q3 2019, and lower interest expense, primarily due to lower interest on index-linked debt.
+These increases were partially offset by lower sales volumes, primarily due to the impact of COVID-19, lower other income due to lower pension income and higher income taxes.
+Segment earnings were $0.02 per share higher than our comparable results in Q3 2019.
+The increase was primarily driven by higher adjusted gross margins, primarily resulting from returns on additional capital investments in transmission.
+And as we saw in Q2, our customer mix mitigated the impact on sales from COVID-19 as our positive impact from our significant residential base in Pennsylvania and fixed charges more than offset lower demand in the C&I sectors.
+Turning to our Kentucky-regulated segment.
+Results were flat to the comparable results one year ago.
+Factors impacting the results include lower commercial and industrial demand due to the impact of COVID-19 offset by factors that were individually not significant.
+Results at corporate and other were $0.01 per share lower compared to a year ago, driven primarily by higher income taxes due to timing, which is expected to reverse in the fourth quarter.
+Turning to Slide 7.
+We again outlined the changes in weather-normalized sales for each segment by customer class as we did last quarter.
+And like Q2, we saw lower demand in the C&I sectors, partially offset by higher residential load in each of our service territories.
+Demand in the C&I sector, while still lower than last year, has been steadily recovering as certain COVID restrictions have been lifted.
+In Pennsylvania, demand improved from about an 11% decline in C&I load in the second quarter to a 4% decline during Q3 compared to a year ago.
+C&I declines in Pennsylvania continue to be primarily in retail trade and services industry and manufacturing, respectively.
+Our large industrial customers have generally returned to pre-COVID operations and are not expecting future reductions at this time.
+Our Kentucky segment reported about a 7% C&I load decline during Q3, compared to the greater than 14% decline we saw last quarter versus the prior year.
+And like Pennsylvania, the services industry, such as restaurants, retail and hotels continue to be negatively impacted in our commercial sector in Kentucky.
+Much of the improvement we experienced during Q3 was on the industrial side as many manufacturing companies were able to reopen after temporarily being forced to shut down in Q2.
+Specifically, industrial volumes were driven in part by auto manufacturing volumes returning to pre-COVID levels.
+Coal mining and non-auto manufacturing continue to be more negatively affected.
+Finally, in the U.K., C&I load improved to about a 14% decline in the third quarter, compared to a 20% decline that we experienced last quarter versus a year ago as government restrictions put in place in late March were further eased throughout the month of July.
+The primary driver of the increase was seen in the large industrial and manufacturing sectors that have largely closed during the full lockdown phase and have since opened, albeit not quite the pre-COVID levels.
+It's clear on this slide that the U.K. demand has not recovered as sharply as our U.S. service territories which underscores the value of the effective decoupling mechanism there.
+We remain encouraged by the recovery we have observed in each of our service territories during the third quarter, but we'll continue to monitor load impacts as we move into the winter months, including the impact of additional temporary lockdowns should they arise, such as the lockdowns we are currently experiencing in England and Wales.
+At this time, the current lockdown is not as stringent as what we experienced early in the year as workers that are not able to work from home can still go to work and many retail establishments can still provide takeout options.
+In addition, strong residential demand is expected to continue to act as a hedge to lower C&I demand.
+Now I know I just stated a lot of percentages.
+So let me take a moment to summarize the impact of COVID-19 on our ongoing results in 2020.
+We experienced a $0.10 per share impact to the end of the third quarter.
+The remaining $0.03 is primarily from lower demand in Kentucky, and we have been able to offset the majority of that through effective cost management.
+Overall, we believe our strong regulatory constructs, balanced rate structures and customer mix, positions PPL well to continue to operate at a high level in this challenging environment.
+In closing, I remain very proud of how our teams across PPL have risen to the challenge of COVID-19.
+We continue to deliver electricity and gas safely and reliably to our customers.
+At the same time, we remain as focused as ever on innovation and continuous improvement as we position the company for future success.
+With that, operator, let's open the call for Q&A.

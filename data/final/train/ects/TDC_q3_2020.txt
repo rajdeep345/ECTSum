@@ -1,0 +1,172 @@
+Steve McMillan, Teradata's President and Chief Executive Officer will lead our call today.
+Followed by Mark Culhane, Teradata's CFO, who will discuss our financial results.
+We will also discuss other non-GAAP items, such as free cash flow.
+A replay of this conference call will be available later today on our website.
+I'm pleased to report that Teradata executed extremely well in Q3 and delivered good results for our shareholders.
+We exceeded our expectations and guidance, and for all key metrics, including ARR, recurring revenue, free cash flow and non-GAAP earnings per share.
+The strong performance comes as a result of concentrated efforts from across the organization.
+The team delivered very well, delivered solid sales execution in all regions, provided ongoing support for our customers to help them obtain the greatest value from the data assets and significantly advanced the technology for the cloud.
+We also stepped up and directly address outdated market perceptions with clear market messages and implemented focused cost discipline as well.
+As a testament to a growing momentum in the cloud, I will start today's remarks by sharing examples of our code-first success with customers.
+We are starting from a great base and a well-established a strong commitment to helping customers leverage their data assets and solve their complex data challenges at scale.
+We are therefore seeing substantial growth in our cloud business across regions, industries and public cloud platforms.
+Loblaw's, a large Canadian retailer is migrating key applications and database technologies to the cloud with Teradata.
+This customer is a great example of her ability to operate in a hybrid multi-cloud model, and Loblaw's now runs Teradata Vantage in more than one public cloud platform.
+A leading truck manufacturer in Asia has selected Vantage on AWS and its cloud data analytics platform.
+The customer will leverage Vantage in the cloud from real time analysis of vehicle data to reveal insights from vehicle functionality and performance, drive predictive maintenance and determine value-added services to offer its customers.
+Next one, we are partnering with a regional provider of Integration Services.
+A global Fortune 500 CPG company headquartered in Europe connected to Teradata Vantage on Azure in the quarter.
+The significant competitive wins was the result of our team's ability to prove its credentials in migrating the customers large and complex workloads to the Azure cloud.
+Our customer will leverage with advanced analytical capabilities of Vantage on Azure to drive rapid innovation and expedite the delivery of new, high value business outcomes for his global finance, supply chain, sales, marketing and HR functions.
+A large American retailer and long-standing Teradata customer is migrating its Teradata environment to Azure.
+Its scale of production analytics is enormous, with millions of queries run weekly, that reviewed alternative Cloud Data Warehouse Solutions, and selected Vantage on Azure.
+Vantage offers unmatched performance and reliability.
+Our customer will continue to support a myriad of business critical functions, including merchandising and assortment planning, finance, supply chain and demand forecasting, as well as digital marketing, price management, and its growing data science operations.
+And finally, we brought in a significant Vantage on Azure win when that Fortune 100 CPG company.
+When this customer completes his migration to the cloud, that will be our largest Vantage on Azure deployment.
+The customer is leveraging its data assets for analytic use, by all major divisions of its worldwide business, and relies upon Vantage across its entire organization to democratize analytics, and finance [Phonetic] and HR, drive down the cost of inventory and supply chain, while increasing revenues from sales, marketing and e-commerce.
+I'll just run through a small selection of the code wins we are seeing, but I wanted to commence my remarks highlighting a strong positive momentum and significant increases in cloud ARR.
+Now, I'll provide an update on four areas that are propelling us forward and fueling that momentum.
+First, our technology innovations, second, our ongoing progress and execution and efficiency.
+Third, an update on how we are strengthening our executive leadership to gauge our future and profitable growth.
+And finally, I'll wrap up by providing a status on our transformation efforts.
+Let's start with the advancements we've made in the quarter with our code-first technology.
+We had a great milestone with the general availability of Teradata Vantage on Google Cloud.
+And of course, Google Cloud customer wins.
+Teradata is now the only data analytics platform provider with hybrid multi-cloud offerings across all three of the top public clouds, providing utmost deployment flexibility for our customers.
+It's important to our customers vantage software is consistent across all environments, with a multi cloud, hybrid or on prem.
+This flexibility makes migration to cloud environments easier, faster, and lower risk for providing the scale they need without compromise.
+It makes it easy for customers to benefit from data analytics in the cloud, we introduced new flexible code pricing options.
+Our blended pricing option is ideally suited for enterprise class usage and provides predictability and building [Phonetic] while delivering the lowest cost of scale.
+Our cloud consumption pricing option is an affordable pay-as-you-go usage-based offer.
+Businesses leveraging our consumption pricing model, we never worry about utilization, system sizing or resource status, since we manage these on their behalf.
+We further make it risk-free to get started with Teradata Vantage in the cloud with zero down [Phonetic] consumption pricing option.
+Long time Teradata customer, True Value Company, one of the world's leading hardware wholesalers is one customer now taking advantage of the company's new cloud consumption pricing model.
+We introduced a new cloud cost calculator on our website to help people understand the cost advantage in cloud.
+Today to help change the inaccurate cost perceptions of the Teradata.
+By answering five simple questions visitors will see a cost estimate for using Vantage in the cloud, including the recommended consumption model, either blended or consumption.
+Visitors can get a customized cost report based on their inputs.
+Many organizations are surprised when they consider a code only option and realize how fast the cost escalate when they try to scale.
+As customers scale what goes in the cloud, Teradata has the lowest cost per query in the cloud because of our industry leading query optimization and workload management.
+As we accelerate our Vantage roadmap on the cloud, integrations with cloud native services continue to remain a top priority.
+We recently released connections to manage Hive and Spark on the base three [Phonetic] cloud platforms, that extend their hybrid cloud and multi cloud capabilities, as customers move workloads to the cloud.
+We further extended cloud-native Vantage integrations with AWS AppFlow and ensure data factory.
+As an example, our customers can combine data and vantage with customer sentiment data from social media and the opportunity information in Salesforce, as well as support and call logs from ServiceNow to build a complete customer 360 profile that can help them and their customers increase sales and reduce churn.
+So, overall, a great quarter of advancing our cloud-based data analytics platform technology.
+You can be assured that we will keep up the pace here, as going forward, we will be allocating approximately three quarters of our research and development and to quote faster initiatives.
+This is a significant redirection from just a year ago.
+And we believe it will fuel our growth and movement to the cloud.
+At Teradata, we firmly believe that businesses will continue to increase their need to leverage massive amounts of data and develop their enterprise with the future.
+Data is proliferating, and organizations need partners who will help them leverage their data in the cloud without rapidly escalating consumption costs.
+This leads to a tremendous growth opportunity for Teradata.
+As enterprises test multiple cloud solutions, and connect or reconnect to Teradata, we look forward to continuing our leadership roles in that exciting market.
+We believe and we proved to customers every day that Teradata have best technology and expertise to help them leverage data, cost effectively and at massive scale to unlock real business value.
+While we are building our cloud momentum, we are also seeing customers add to their Vantage on-prem solutions.
+Texas Health Resources, our regional healthcare provider expanded the Teradata environment.
+And here we work in partnership with TelBru's [Phonetic] The customer is capturing, cleansing and orchestrating patient data, using predictive decision models to drive virtualized care options to the right patients in real time, particularly important now during COVID-19.
+There's a great article that our IR team will be happy to share and how this customer is using predictive analytics to improve patient care.
+Now the telecom company, a telco leader in the Middle East, as well as being an industry leader in the adoption of analytics continues to expand its Teradata platform.
+The expansion will address both the strategic direction in digital transformation, as well as key programs in their own customer value management, and support the Saudi National initiative to help government and healthcare with COVID-19 analytic.
+Saudi Telecom continues to drive success with its Teradata platform and has tripled its capacity for analytics to Teradata over the last 18 months.
+Complementing our progress in technology innovations, we correspondingly made advancements in our execution during the quarter.
+In Q3, we expanded our partner ecosystem, and Teradata became a partner of the Volkswagen industrial cloud.
+We will support Volkswagen on this open IoT platform by providing cloud-based data analytics to optimize production processes, and drive productivity increases in Volkswagens plans.
+Also, we have actively stepped up our marketing to increase market awareness of our cloud [Phonetic] plus division.
+We are proud of our hybrid multi cloud differentiation and are committed to building awareness around leadership and helping businesses unlock value as they turn data into a strategic asset or remain vigilant and publicly address misperceptions in the market, as we declare our differentiated possession.
+Our organization also continues to prove its resilience with remote work arrangements to keep our people and our customers safe during the pandemic.
+And I'm very proud of our team and their persistence and dedication in this unprecedented time.
+We're executing customer engagements and executive briefings virtually around the globe.
+And these focus sessions are leading to great opportunities.
+We're seeing much greater engagement with customers at the executive level on our cloud first offerings.
+Teradata has received some outstanding industry recognition, as the firm's who follow technology are acknowledging the ever-increasing importance of data-driven decisions, and taking note of our strength of the cloud data analytics platform.
+We were named by IDC in the FinTech top 100 Rankings as number 34, Inclusion and Netflix, recognizing our compelling value proposition, as the leading supplier of technology to the financial services industry.
+As you know, financial services remain an important vertical for us, and we remain steadfast in our commitment to providing best in class data Analytics to support this dynamic industry.
+IDC also named Teradata and its Asia Pacific MarketScape recognition of major vendors for cloud data analytics platforms.
+In this research IDC noted that Teradata is a good match for companies that need hybrid cloud flexibility and prioritize security and performance for the analytics workloads.
+As such, further pointed out, the Gen Z workers and large enterprises concerned with operations and governance, often look Teradata solutions.
+These recent industry analyst recognitions follow a strong score in the Forrester Wave on data management for analytics from earlier this year.
+In fact, By Teradata received the highest score in the current offering category.
+The report noted that Teradata remains a prominent choice, especially for hybrid deployments, for scalability and availability are critical.
+Now, I'll turn to how we are strengthening our executive ranks, as we accelerate our drive to the cloud and an increasing rate of profitable growth.
+We brought in Nicolas Chapman, as the Chief Strategy Officer to ensure we have a well-defined strategic and operational plan, as we accelerate our transformation to cloud first company.
+Teradata has made solid progress on this front, and Nicolas will help build on our success momentum.
+Nicolas has a proven track record of driving organizational performance through cohesive strategy planning and execution, and joins us from Imperva and McKenzie.
+Additionally, we appointed Hillary Ashton, as our Chief Product officer, and brought together all aspects of our technology innovation into one organization dedicated to ensuring delivery, differentiated value to our customers, and an extraordinary customer experience from a cloud first technology.
+Hillary joined us from PTC just under a year ago and has accelerated her innovation cadence of keeping a customer centered approach.
+I'm also very pleased that we have appointed Molly Treese, as our Chief Legal Officer, exceeding Laura Nyquist, who recently retired as a former General Counsel.
+Molly is a seasoned leader with outstanding judgment and deep knowledge of Teradata and will help get guidance forward.
+Further, we've named Erica Hausheer', as our Chief Information Officer.
+Erica will lead Teradata as IT and Security organizations and will drive the ongoing use of our own data analytics technology to advance her business objectives.
+Of course, we too are using data to drive her business.
+Erica joins us from 3d Systems and Hewlett-Packard Enterprise.
+It's very gratifying to have these incredibly capable executives in our leadership rank.
+These definitely reflect our commitment to enhancing diversity and inclusion through our culture, as we hire the best talent to help us move the company forward into our next chapter of market success.
+I do want to recognize Scott Brown, our Chief Revenue Officer, who just departed the company as he becomes the President and CEO of FinancialForce.
+We wish him the best in his great career opportunity.
+Improvements began in our go-to-market organization contribute to our Q3 success, and I have great confidence in our GTM team to execute their plans and ensure a seamless continuation of our sales efforts going forward.
+We have an active executive search in progress for a new CRO.
+Before I pass the call to Mark, I would like to provide an update on our transformation efforts.
+And what we have been undertaken to better align our investments through code-first initiatives.
+In Q3, every organization and the company has reviewed their operations and is working to just cost, to better possession that corporations for a move to the cloud and the continuation of profitable growth.
+This encompasses non-revenue generating programs, real estate rationalization, and so way headcount reductions, including a voluntary separation program, in a more recent end voluntary reduction program that will result in more -- and therefore costs.
+Our efforts should result in a more optimized business model for financially healthy footing as we enter 2021.
+You'll hear more from Mark on the actions to realign our cost structure under investment to accelerate our business and strengthen our bottom line.
+As we near the end of such a tumultuous year resulting from the global pandemic, has become abundantly clear that enterprises of the future need to be able to adapt with agility and speed to unpredictable situations.
+To do that, they need data.
+And there is no better data analytics platform than ours.
+Teradata's hybrid, multi cloud architecture gives businesses the flexibility and portability to manage through dynamically changing environments.
+Our platform is built for today's hybrid, multi cloud world.
+And we are going to keep the firm momentum going strong.
+I am pleased to report that the company delivered a strong quarter with better than expected recurring revenue, ARR growth, non-GAAP earnings per share and free cash flow generation.
+We accomplished these strong financial results, while making further progress in realigning our R&D and product management organization, and investing to support our cloud first initiatives, as well as taking actions to reduce and streamline our overall cost structure.
+Additional commentary on key metrics and segment trends can be found in the earnings discussion document on the IR website at investor.
+We delivered $365 million in recurring revenue, which was above our guidance range, and was 6% growth year-over-year.
+We generated $47 million in incremental ARR this quarter, and exited the quarter with a total ARR balance of $1.501 billion, an 8% increase over Q3 of 2019.
+We were particularly pleased with the strength we saw in our EMEA and APJ regions, which helped drive recurring revenue and ARR ahead of our expectations.
+Perpetual revenue came in as expected at $17 million, slightly up from the prior year.
+Although the mix of deals varied from expectations, driving better than expected gross margins.
+Consulting revenue declined to 28% as expected, as we continue to refocus our consulting business on higher margin engagements to drive increased software consumption within our customer base.
+In addition, we had continued impact from the ongoing COVID-19 pandemic, as some customers cancelled certain projects as they continue to manage their discretionary spending, especially for on-site consulting engagements.
+We expect to see a continued year-over-year decline in consulting revenue in the fourth quarter, given our overall strategy and the ongoing uncertainty around COVID-19.
+Turning to gross margins, recurring revenue gross margin was 70.4%, up 70 basis points from the third quarter of 2019 and up 60 basis points sequentially from Q2.
+We benefited from a couple of one-time items in Q3, including favorable FX revaluation, which we don't expect to carry over into Q4.
+In addition, we are expecting our increased cloud momentum to be a headwind to our Q4 recurring revenue gross margin and expect recurring revenue gross margin on an annual basis to be flat year-over-year.
+As we have previously stated, we are more than happy to incur short term recurring revenue gross margin impact from accelerating cloud ARR momentum.
+Perpetual revenue gross margins came in well ahead of our expectations at 58.8%, driven by a large US customer purchasing hardware on a perpetual basis.
+We expect Q4 perpetual revenue gross margin to be similar to prior year Q4 level.
+Consulting margin was 13.9% versus 9% in the third quarter of 2019, as improved utilization, improved cost management, and better price realization helped drive significant improvement over last year.
+We continue to expect consulting margins to increase sequentially in the fourth quarter, and to be in the low double digits for the year.
+Total gross margin came in at 61%, up 500 basis points year-over-year and ahead of our expectation.
+The improvement was driven by better than expected gross margins in each revenue category, as well as the continued favorable revenue mix shift to higher margin, recurring revenues and away from perpetual and lower margin consulting revenues.
+We expect Q4 gross margins to sequentially decline and be approximately 400 basis points higher than Q4 of the prior year.
+Turning to operating expenses.
+Total operating expenses were down 2% year-over-year, and came in lower than expectations, primarily due to certain expenses shifting to Q4, as well as our focus on expense management.
+We continue to reallocate spend toward our cloud initiatives and offers, modernizing our go-to-market sales motions, and redirecting our marketing focus to virtual events and other higher ROI areas during COVID.
+We expect our fourth quarter operating expenses to be up sequentially, primarily driven by higher sales commissions, as well as from sales and marketing investments in our cloud initiatives and modernizing our go-to-market sales motions.
+We are continually evaluating opportunities to optimize our cost structure, while investing in our cloud first initiatives and transforming our go-to-market organization, to accelerate our recurring revenues growth and expand our opportunities in the market, particularly in the cloud.
+We had an exceptionally strong free cash flow quarter, driven by our shift in subscription model, as well as excellent execution by our collection organization.
+Free cash flow in the third quarter was $58 million, which contributed to year-to-date free cash flow of $171 million, well ahead of prior year, actual full year free cash flow of $89 million and our beginning of the year expectations of $150 million.
+As Steve mentioned, we took an initiative to realign the company to be cloud first, more agile and position Teradata for increased growth, profitability and capitalize on our opportunity for the long term.
+The first action we took was to offer a voluntary separation program for certain employees, which gave us more flexibility, realigning the company, as well as reducing our expense level.
+The second program was an involuntary reduction in force action that will enable us to realign our investments and operating expenses to accelerate our move to the cloud, add new talent to support our cloud first initiative and reduce our overall expense structure.
+In addition, we are rationalizing our real estate footprint around the world, especially given that working virtually is likely to become more commonplace in the future.
+We will provide more commentary on this topic in the future, but is another opportunity to more efficiently operate and realign additional investment dollars to our cloud initiative.
+From these actions, we expect to incur restructuring charges of approximately $70 million to $80 million, of which approximately $28 million was recorded in Q3 and the remaining balance to be recognized in Q4 and 2021, with the vast majority of it in Q4 of 2020.
+Cash usage for these restructuring actions is expected to be approximately $75 million, of which approximately $50 million is expected to be used in the fourth quarter of 2020.
+We currently estimate these actions will reduce annual expenses by approximately $80 million to $90 million.
+Before considering any reinvestment toward our strategic initiatives for 2021 and beyond, as well as any further cost reduction considerations, both of which are currently being evaluated.
+We will provide more commentary on these topics on our Q4 call in early 2021.
+As a result of our strong free cash flow quarter in Q3, and our expectation for another strong cash flow generation quarter in Q4, we expect our Q4 free cash flow after including the aforementioned Q4 restructuring cash payments to be breakeven to slightly positive, resulting in our full year free cash flow to be approximately $170 million to slightly higher for the full year, which is a significant increase over the prior year free cash flow of $89 million.
+Although COVID-19, has been disrupted for our customers and employees, we are quite pleased with how our team has adapted and supported our customers, as well as realign the company to be cloud first.
+We came into the year setup for a strong year and remain optimistic based on the pipeline we see for the fourth quarter.
+For Q4, we expect recurring revenue in the range of $371 million to $373 million.
+We expect a higher mix of cloud ARR and recurring revenue in Q4, which is fantastic.
+However, it does come at lower margin.
+But we are happy to take the short-term gross margin impact for the favorable shift to the cloud.
+In addition, we will see higher operating expenses in Q4 compared to Q3, driven by higher sales commission expense and sales and marketing expense related to our cloud initiatives and modernizing our go-to-market motion.
+Lastly, the benefits from our restructuring activities predominantly impact 2021 and will not be a tailwind to expensive and margin in Q4.
+We continue to expect our full year tax rate to be approximately 23% and our full year share count of approximately 111 million weighted average shares.
+Taking all this into account, we expect non-GAAP earnings per share in the $0.23 to $0.25 range.
+In terms of ARR, we expect another quarter of strong incremental ARR growth and expect ARR to grow 8% or higher for the full year.
+As in prior years, we anticipate providing guidance and commentary for 2021 when we report the results at the end of the year.
+And with that, operator, we are ready to take questions.

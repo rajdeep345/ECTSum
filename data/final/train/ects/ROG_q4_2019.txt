@@ -1,0 +1,163 @@
+The slides for today's call can be found on the Investors section of our website, along with the news release that was issued today.
+These uncertainties include economic conditions, market demands and competitive factors.
+Also, the discussions during this conference call may include certain financial measures that were not prepared in accordance with generally accepted accounting principles.
+Reconciliation of those non-GAAP financial measures to the most directly comparable GAAP financial measures can be found in the slide deck for today's call, which is posted on the Investors section of our website.
+2019 was in many ways a tale of two halves for Rogers.
+In the first half of the year, our strategic positioning enabled us to take advantage of strong market growth and achieve consecutive quarters of record sales.
+In the second half of the year, changing macroeconomic conditions, trade tensions and a pause in the wireless infrastructure market combined to temper full year results.
+Even with these headwinds, we have reported modest growth in revenue and earnings in 2019.
+Net sales for the year were $898 million and adjusted earnings per share was $6.14.
+In addition, we delivered record cash from operations of $161 million and strong free cash flow of $110 million for the year.
+As mentioned, challenging market condition impacted the second half of 2019 and specifically Q4.
+For the fourth quarter, net sales were $194 million and below our guidance range, primarily due to a greater than anticipated pause in the 5G build out and lower 4G demand.
+This decline was partially offset by stronger sales of power semiconductor substrates for the EV/HEV market and aerospace and defense demand.
+Q4 adjusted earnings per share was $1.14, which was near the high-end of our guidance range.
+I will take a moment here to briefly discuss the coronavirus outbreak.
+Similar to other multinationals with sales and operations in China, we are closely following the situation.
+While Rogers is well positioned in a variety of growth areas, the still unfolding situation is expected to have a near-term impact on market demand, which is affecting our Q1 outlook.
+Mike will discuss this in more detail during his comments.
+One of the key pillars of Rogers' strategy is a commitment to a market driven innovation, which has enabled us to advance our position in a number of high growth global markets.
+Our diverse portfolio and market strategy enabled us to mitigate the impact of the challenging business environment in late 2019.
+Relative strength in areas such as aerospace and defense, portable electronics, ADAS and EV/HEV partially offset headwinds in industrial and traditional automotive markets and slower wireless infrastructure demand from China.
+We believe our market driven innovation strategy creates a competitive advantage for Rogers and will enable us to continue to drive growth in a diverse set of markets.
+Turning to slide six.
+I'll next provide our latest outlook for the advanced connectivity and advanced mobility markets.
+Beginning with advanced connectivity, the expectations for 5G deployment over the next several years continues to be very strong.
+Recent estimates from third party experts project that nearly 4 million 5G base stations will be installed globally by 2023 with around 880,000 deployed in 2020.
+However, these 2020 deployments do not take into account the potential impact of the coronavirus that it could have on the China deployment timeline.
+In the U.S., there are encouraging signs for the 5G market as the FCC continues to take steps to free up additional mid-band spectrum that is needed to facilitate a large scale rollout of 5G in coming years.
+Overall, there are some challenges and uncertainties that we face in the wireless infrastructure market.
+These include: first, the ongoing trade tensions that continued to push Chinese OEMs to diversify their supply chains, thereby putting pressure on the market share of U.S. suppliers.
+Second, a substantial capital required for 5G infrastructure is reducing 4G deployments and putting pressure on OEMs to reduce base station costs leading to some reductions in content.
+With these changes, we expect that our opportunity for 5G content will be around three times that of 4G or approximately $175 to $225 per base station.
+Third, uncertainty around the impact of the coronavirus is adding timing risk to 2020 deployments in China.
+In summary with forecasts for strong multi-year 5G deployments, we see the wireless market as a promising growth opportunity for Rogers.
+While we have imperfect visibility to market share and timing of the near-term 5G rollout given the challenges and uncertainties discussed, we expect to retain a substantial share of this growing market.
+The advanced connectivity sector also includes portable electronics and we saw a strong growth in this market in 2019.
+Despite the decline in the global smartphone market last year, we expanded our market share based on our broad portfolio of sealing and protection technologies, which continues to be a leading choice in this market for major smartphone manufacturers.
+Turning to advanced mobility.
+The growth outlook for sales of EVs and HEVs continues to be robust.
+Industry experts project that through 2024 sales of EVs and HEVs will continue at a compounded annual growth rate of approximately 30%.
+In response to this trend, automakers worldwide continue to make multi-billion dollar commitments to electrify their fleets and invest in electric vehicle battery technologies.
+For a number of years, Rogers has targeted investments toward innovative technologies that have put us in a strong position to take advantage of these significant opportunities.
+For example, in our PES business, we have a leading market position based on the strength of our new generation wide band gap semiconductor silicon nitride substrates for the EV/HEV market.
+We are encouraged by our progress here based on multiple active programs and recent design wins.
+In our EMS business, battery pads and battery pack sealing solutions for electric vehicles is another exciting opportunity where we saw a solid growth in 2019 and which also provides significant growth potential for 2020 and beyond.
+The superior performance of our products developed for this market has firmly established Rogers as a leading provider to a large number of EV battery manufacturers and automakers.
+Additionally, the outlook for ADAS continues to be very positive based on trends and adoption of automotive safety systems and the push by automakers to higher levels of autonomy.
+Our leadership position has been reinforced by positive customer responses to our new products for the next generation auto radar and we continue to maintain high share with leading global auto suppliers for existing and new designs.
+In 2019, ACS net sales were $317 million, an increase of 8% compared to 2018, or 10% on a constant currency basis.
+The higher sales were driven by demand in Wireless Infrastructure, Aerospace and Defense and ADAS.
+Wireless Infrastructure as highlighted on slide five, accounted for about 14% of total Rogers revenue in 2019.
+Sales increased for the full year but as noted we saw a slowdown in demand in the second half of the year and the coronavirus may impact timing of the next wave of 5Q deployments.
+With that said, the multi-year growth outlook for 5G deployments remain very strong.
+With four million base station deployment expected over the next four years at three times the content of 4G.
+Aerospace and Defence grew at double digit rates in 2019 and has delivered consistent growth over the past three years, with a compounded annual growth rate of about 10%.
+The outlook for Aerospace and Defence remains positive as the U.S. government increases its defence budget and as we continue to secure design wins.
+ADAS grew at a solid rate in 2019 and has also demonstrated a strong multi-year growth profile with a three year compounded annual growth rate of more than 15%.
+We expect growth for the full year as new vehicles increasingly adopt auto radar systems and as the average number of sensors per vehicle increases with higher level of autonomy.
+In addition to the significant ACS opportunities discussed, we continue to pursue growth opportunities for high frequency circuit materials used in consumer receivers or low earth orbit internet service as well as next generation advance antenna material and components.
+Turning to slide eight.
+EMS net sales were $362 million, an increase of 6% versus 2018 or 8% on a constant currency basis.
+The higher EMS sales resulted from strong growth in applications for portable electronics, mass transit and EV/HEV as well as contributions from our recent acquisitions.
+This growth was partially offset by weakness in general industrial and traditional automotive markets.
+As mentioned, we believe there is a substantial growth opportunity for the company in battery pads and battery pack sealing solutions for the EV/HEV market.
+The application of our innovative technologies add value by enhancing the life of lithium-ion batteries.
+We are encouraged by our growing sales in this market and a significant design progress in a number of battery suppliers.
+2019 PES net sales were $199 million, a decrease of 11% as compared to 2018 or 7% on a constant currency basis, double-digit growth in mass transit, power interconnects and power semiconductor substrates for EV/HEV were areas of strength.
+However weakness in the industrial power and traditional automotive markets in the second half of 2019 more than offset these increases.
+We made significant improvements in PES operations in the fourth quarter.
+As we indicated in the middle of last year, PES operational improvements were a top priority for company and we established a detailed recovery plan.
+In Q4, we continued to successfully execute on that plan as we achieved yield improvements and other efficiencies which contributed to meaningful gains in gross margin and segment operating margin, even as volume remained low from softer demand in non-EV/HEV markets.
+There is still a great deal of improvement that needs to be made and we are making good progress.
+With the substantial growth outlook for silicon nitride ceramic substrates, we significantly increased capacity in 2019 and additional capacity is planned to come online in 2020.
+This investment positions us well to take advantage of the rapidly growing EV/HEV market opportunity.
+Lastly, turning to slide 10, I'll discuss our vision for the future.
+As indicated on our last earnings call, there was increased uncertainty that we would attain these targets as a run rate in 2020 due to the challenging market conditions and effects of the trade tensions.
+With the business environment remaining challenging and near term uncertainty related to the impact of the coronavirus, we see the timing of attaining these financial targets as being extended beyond this year.
+However, as a company we remain committed to achieving annual revenue growth of 15% driven by both organic and synergistic M&A opportunities.
+We also remain committed to achieving a greater than 20% adjusted operating margin as we drive top line growth and continue to execute on operational improvements.
+We believe that our investments in innovation and growth markets in our broad portfolio are positioning the company well to achieve these future targets.
+In the slides ahead, I'll review our fourth quarter and full year 2019 results followed by our first quarter guidance.
+Turning to slide 12, fourth quarter revenues as previously noted, were $193.8 million, below our Q4 guidance range of $200 million to $210 million.
+A slowdown in demand for products serving the Wireless Infrastructure market for both 4G and 5G applications and seasonal weakness in the portable electronics market were the primary drivers of the lower revenues in Q4.
+In addition, continued soft demand for products serving the general industrial and conventional automotive end markets also contributed to lower sequential revenues.
+Gross margin for the fourth quarter was 33.1%.
+The gross margin was within our guidance range of 33% to 34% despite the lower revenues, as we took steps to reduce our manufacturing spending in all business segments to compensate for the adverse impact of significantly lower volumes.
+Adjusted operating income for Q4 2019 was $22.5 million or 11.6% of revenues, down sequentially due to the lower revenues in the quarter.
+The company had a GAAP loss in the fourth quarter of $28.8 million or $1.55 per share, that included a $43.9 million or $2.35 per share non-cash after tax charge, which resulted from terminating a pension plan in the fourth quarter.
+This decision continues our strategy to improve cost competitiveness and de-risk the balance sheet.
+On an adjusted basis, the company delivered earnings per share of $1.14 per fully diluted share within our guidance range of $1 to $1.15.
+The good earnings performance on an adjusted basis resulted from a lower than forecasted income taxes for the fourth quarter.
+The company generated $32.9 million of free cash flow in the fourth quarter and $109.7 million for all of 2019 compared to $19.7 million in 2018.
+Turning to slide 13, revenues for calendar year 2019 of $898.3 million were 2% higher than 2018 due to organic growth of just under 3% on a constant currency basis.
+Acquisitions added approximately 2% and currency had a negative impact of just over 2%.
+Organic growth resulted primarily from advanced connectivity related applications, both in Wireless Infrastructure and ACS, primarily in the first half of 2019 as well as portable electronics and EMS. Growth in advanced mobility and advanced connectivity was tempered by weak general industrial and conventional automotive demand.
+Adjusted operating income for 2019 of $141.4 million or 15.7% of revenues was 10 basis points lower than 2018, the lower adjusted operating margin resulted from a 40 basis point decline in 2019 gross margin versus 2018 due primarily to operational challenges to add capacity and wrap new products in our PES business throughout the year and incremental costs for integration of EMS acquisitions in the first half of 2019.
+In addition, trade tensions between U.S. and China resulted in tariffs that decreased gross margin by 66 basis points in 2019.
+Despite the challenges outlined above, both ACS and EMS increased our gross margins compared to 2018.
+EPS for 2019 was $2.43 per fully diluted share compared to $4.70 per fully diluted share in 2018.
+As discussed in our Q4 results, 2019 results include a significant charge to terminate a pension plan.
+Adjusted earnings per share per fully diluted share of 2019 of $6.14 was $0.37 higher than 2018, due primarily to a decrease in the effective tax rate to 14.2% in 2019 from 20.7% in 2018.
+Adjusted EBITDA of $188.2 million or 21% of revenues in 2019 was slightly higher than the $184.8 million or 21% of revenues in 2018.
+Returning to the fourth quarter on slide 14, our Q4 2019 revenues of $193.8 million decreased 13% compared to the third quarter of 2019.
+The sequential decrease was experienced in our ACS business segment down 18% and our EMS business segment down 16% while the PES business segment saw its revenues increase 2% over the third quarter.
+Currency exchange rates negatively impacted fourth quarter revenues by $1.1 million compared to Q3.
+The decrease in ACS revenues resulted primarily from a further slowdown in 4G demand and a continued delay in the 5G rollout in China.
+As a result, our Wireless Infrastructure revenues declined 34% sequentially.
+4G revenues ended the year 23% below 2018 revenues.
+The 5G revenues for the year 2019 resulted in Wireless Infrastructure revenues growing 10% over 2018 levels.
+Fourth quarter revenues from Aerospace and Defense programs grew 4% sequentially over a strong third quarter and increased 16% for the year.
+ADAS revenues were down 8% sequentially but are up 7% annually compared to 2018 in the face of a weak auto market.
+Revenues in our EMS segment decreased sequentially due to weakness in our end user applications in all markets led by an expected seasonal softness in portable electronics, which declined 19% in the fourth quarter.
+Despite the fourth quarter demand decline revenues for portable electronics, which comprised greater than 27% of the segment revenues grew 16% in 2019 compared to 2018 due to our strong product portfolio, which led to share gains in new handset and tablet designs.
+General industrial application revenues, which comprise approximately 40% of the business segment's revenues were down 9% compared to the third quarter and down 5% annually compared to 2018 reflecting ongoing weakness in certain industrial markets.
+PES revenues increased in the fourth quarter due to a strong increase in our power semiconductor substrates for EV/HEV applications.
+These revenues which represent close to 20% of the segment revenues increased 42% compared to the third quarter and grew 14% annually.
+Power semiconductor substrates, for general industrial applications, which comprise over 30% of the segment revenues grew 2% in the fourth quarter, principally from the completion of inventory corrections in the quarter.
+For the year revenues from general industrial applications were down 16% as demand for factory automation capital was weak, particularly in the second half of 2019.
+Revenues from conventional vehicle electrification applications showed continued weakness in the fourth quarter, declining 11% sequentially and 21% for the year as a result of weak auto sales, particularly in Europe.
+In our power interconnect business revenues for mass transit applications grew nicely in 2019 due to strong first half demand from a couple of key customers increasing 35% for the year.
+Turning to slide 15, our gross margin for Q4 2019 was $64.2 million or 33.1% of revenues, significantly lower than our third quarter gross margin.
+The decrease in the gross margin percentage was due to lower volumes resulting in less factory absorption and manufacturing expenses, particularly fixed costs.
+We were able to reduce manufacturing spending at all business segments, thereby mitigating a portion of the negative impact from the reduced volumes.
+Tariffs were $1.6 million lower in the quarter due primarily to reduced Wireless Infrastructure production.
+Gross margins declined significantly for both ACS and EMS in the fourth quarter due primarily to the meaningful volume declines experienced in the quarter.
+In addition, EMS had a negative impact from product mix as the higher profit portable electronics revenues experienced a seasonal decline compared to Q3.
+In the fourth quarter, we continued to execute on the PES recovery plan as Bruce mentioned and we are encouraged by signs of progress made in the quarter for manufacturing yield and cost structure.
+The improvements led to a significant progress on the business segment profitability, increasing PES gross margins by over 600 basis points resulting in over 100 basis point improvement to the company gross margin.
+While encouraged, we still have significant work to realize the additional expected improvement and incremental 600 basis points improvement at PES driven primarily from increased yields and continue to believe it will take us through the first half of 2020 to realize the majority of the remaining improvements.
+These efforts are critical to maintaining our ability to support the increasing demand in the wide band gap semiconductor power applications.
+Tariffs resulting from trade tensions continued to be headwind to gross margins in the fourth quarter, although less so compared to Q3.
+The impact to gross margins was approximately $0.8 million or 41 basis points, a decrease of 65 basis points sequentially.
+The decrease was due primarily to lower shipments subject to tariffs, specifically less Wireless Infrastructure materials.
+We are working aggressively to leverage our factory footprint and to optimize our supply chain to mitigate the effects of tariffs and expect to see the benefits of these actions throughout 2020.
+As we have discussed previously, the path to higher gross margins continues to be through improved operational execution, primarily in PES mitigating the impacts of tariffs and increased volumes in all businesses.
+Slide 16 details the changes to adjusted net income for Q4 2019 of $21.3 million compared to adjusted net income for Q3 of $28.2 million.
+As discussed earlier, the adjusted operating income for Q4 2019 was lower than Q3 adjusted operating income both on a dollar and a percent of revenue basis.
+Adjusted operating expenses for Q4 of $41.7 million or 21.5% of revenues were $1 million lower than Q3 adjusted operating expenses, 19.2% of revenues.
+The lower dollar expenses resulted from reduced performance-based expenses.
+The company had lower interest expense in the fourth quarter as a result of paying down $65 million of debt in the third quarter.
+Rogers effective tax rate for 2019 was 14.2% compared to 20.7% in 2018.
+The 2019 rate decreased primarily due to the increased utilization of research and development credits and excess tax deductions on stock based compensation, partially offset by the tax effect of the pension settlement charge and an increase in reserves for uncertain tax positions.
+Turning to slide 17, we ended 2019 with a cash position of $166.8 million, an increase of $26.1 million from September 30 and a decrease of $0.9 million from December 31, 2018.
+In Q4 the company spent $12.8 million on capital expenditures, we spent $51.6 million in 2019 with significant expenditures to increase capacity at both ACS and PES.
+The company paid down $7.5 million if debt in the quarter and paid down $105.5 million of debt in 2019 and ended the year in a net cash position of $43.8 million.
+The company generated $45.7 million from operating activities in Q4, including a decrease in working capital of $17.4 million.
+For 2019, the company generated a record $161.3 million from operating activities including $13.4 million from a decrease in working capital.
+Cash generation in 2019 compares favorably to the cash generation in 2018 of $66.8 million from operating activities, net of the $46.2 million used for increases in working capital and $25 million to fund a pension plan.
+The company ended 2019 with a healthy balance sheet and is well positioned to fund growth in 2020 and beyond, whether it be organically or through M&A activities Taking a look at our Q1 2020 guidance on slide 18, several of the headwinds Bruce described in his Q4 comments will continue into the first quarter and are expected to be exacerbated by the near term impacts and uncertainties from the coronavirus.
+While we have been able to restart our factory near Shanghai, we expect the outbreak will have near-term negative impacts on global supply chains in our China business, which accounts for approximately one third of our revenues.
+The impacts will be felt by all three of our business segments, but it will have the most severe impact on our ACS business segment, specifically the continued push out of 5G deployments.
+As a result, we believe the coronavirus will reduce our revenues in the first quarter by approximately 7% to 10%.
+We are however projecting to see a continued uptick in advanced mobility business both in EV/HEV and ADAS applications.
+Therefore, revenues for Q1 are estimated to be in the range of $185 million to $200 million.
+The range is wider than historically provided due to the increased level of uncertainty from the potential impact of the coronavirus.
+We will continue to flex our spending for manufacturing infrastructure, SG&A and capital expenditures to address the anticipated lower demand levels.
+We will also continue our progress improving yields at PES as discussed earlier.
+Even with these actions, the lower volumes will continue to negatively impact our gross margins in Q1 and we will continue to carry some incremental costs in our ACS business to address our customer needs when 5G rollout resumes.
+As a result, we are guiding gross margin in the range of 32.5% to 33.5% for Q1.
+We guide a GAAP Q1 earnings in the range of $0.50 to $0.70 per fully diluted share.
+On an adjusted basis we guide fully diluted earnings in the range of $0.75 to $0.95 per share for the first quarter.
+In 2020, we expect the effective tax rate to be 20% to 21% excluding the impact of discrete items, which have historically lowered the effective rate.
+Lastly, we expect to spend $40 million to $45 million on capital expenditures in 2020.

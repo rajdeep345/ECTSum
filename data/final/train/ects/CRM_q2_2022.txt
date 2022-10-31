@@ -1,0 +1,59 @@
+I'm Evan Goldstein, senior vice president of investor relations.
+With me on the call today is Marc Benioff, chair and CEO; Amy Weaver, chief financial officer; Bret Taylor, chief operating officer; and Gavin Patterson, chief revenue officer.
+As a reminder, our commentary today will primarily be in non-GAAP terms.
+In particular, our expectations around the impact of COVID-19 pandemic on our business, acquisition, results of operations and financial condition, and that of our customers and partners are uncertain and subject to change.
+A description of these risks, uncertainties, and assumptions, and other factors that could affect our financial results is included in our SEC filings, including our most recent report on Form 10-K.
+With that, let me hand the call to Marc.
+I am actually here in Geneva, Switzerland with Gavin Patterson, our chief revenue officer.
+And I'm attending the World Economic Forum's IBC meeting and board of trustees meeting, and it's been a great experience being here in Geneva.
+Very much the world is open for business here, and it's great to be meeting with our customers face-to-face and in-person and discussing our business with them and talking about their businesses and how their businesses are doing in this new normal.
+And we're learning quite a bit about how different the U.S. is from Europe right now and also how much has really changed, which is quite a bit.
+So, I'm absolutely excited to be here, but I'm also extremely excited to share our phenomenal second-quarter results with you.
+You can really see we had a phenomenal second quarter.
+We just had a phenomenal second half.
+You're about to hear we're about to have a phenomenal first half as well.
+And we're also going to have a good chat about what we're doing with Slack, a very exciting acquisition that's now closed.
+And you are going to hear about No.
+1 CRM just got better.
+And it's incredible what's going on with Slack, and looking forward to addressing all that with the -- in the script with you.
+So look, we are in a new world.
+There's no doubt about that.
+I'm sure that all of us realize that, and we are delivering success from anywhere as well for Salesforce.
+We've gone through a tremendous transformation, and we're now delivering this new world for our stakeholders.
+And from a business perspective, well, I'd say it's been an absolutely extraordinary 18 months for Salesforce, I know for all of you and certainly for all the CEOs I met with today.
+We're navigating this global pandemic.
+We have been guided by our core values of trust, of customer success, of innovation, of quality.
+But through all this and through our perseverance and through our, I think, dedication to our customers, we've been able to deliver record financial results.
+And with these results, we've now -- can say -- and looking over this, we've now had five outstanding quarters in a row really delivering the success of our vision.
+So, let's take a look now at the second quarter because the numbers are incredible.
+And you can see we delivered our first $6-billion-quarter, about $6.3 billion, and continue to maintain our very strong growth rate, our profitability, our cash flow, our margin growth, continue to execute our new operating margin model.
+And you can see right now, revenue and the growth in the quarter, you can see $6.34 billion, up 23% year over year.
+Pretty awesome and above where we thought we were going to be, considerably above.
+And I guess I'm -- as excited as I am about the revenue, I'm also very excited that as we're executing this new operating margin model, we can see the margin in the quarter was also a very healthy, 20.4%, up 20 basis points year over year, and also delivered $386 million in operating cash flow.
+For fiscal year '22, we are raising again our guide to $26.3 billion, which is now at the high end of our range.
+It's a raise of $300 million, and it's going to represent about 24% projected growth year over year and just really reflects, I think, how well the company is doing in its core, not just through the Slack acquisition, but you can see organically, especially when you look at the numbers over the last five quarters.
+And we're raising our operating margin to 18.5%, up 80 basis points year over year.
+Again, based on just the outstanding performance of the company, we're able to do some amazing things here with the operating margin.
+I don't think Salesforce has really ever been -- you know, had better execution, better management team, greater momentum.
+And as I have spoken to so many customers today, I don't think we've ever been more well-positioned for them.
+And I'll say that in two areas.
+One is in our core products, our focus on customer success, the Customer 360 now with the Slack user interface and everything being Slack first, but also our core values.
+So, many of our customers are attracted to us because, in many cases, they're going through an amazing values transformation and in the areas of -- that we've pioneered.
+And now especially in regards to sustainability, which we'll talk about because, as you know, Salesforce has been a net zero company, but now we're fully renewable as well.
+And as we start to head toward the Fortune 100, I think that -- a lot of the companies that I met with today were mostly Fortune 100 CEOs.
+They crave to have that same net zero and renewable profile, which is very exciting to see the world having this kind of sustainability focus.
+So, I'm absolutely thrilled to see how the core business grew in the first half of the year.
+And I am excited about the outlook.
+I'm excited about our positioning with our customers.
+And I'll tell you, I'm very excited that five out of the last five quarters that we've had that 20% or greater revenue growth.
+And three out of the last five quarters, we're having greater than 20% operating margin.
+I don't think we could have said either of those things five quarters ago.
+So, my hat is really off to the management team and to the employees for making this happen.
+And we're raising our guidance for the fourth time in a row as we see increased opportunities for additional revenue growth and additional operating margin capability this year.
+And look, we're the fastest-growing enterprise software company ever.
+You see where the numbers are going.
+You can see what the trajectory is, the velocity of the company, both in revenue and margin.
+And now you can also see that no other software company of our size and scale is really performing at this level.
+So, we are really quite confident and remain on our path to generate $50 billion in revenue by fiscal year '26, which doesn't seem very far away from right now.
+And when we first gave that number, it didn't seem as -- it didn't -- it seems like it was so far away.
+Now it seems like, wow, this is going to happen.

@@ -1,0 +1,112 @@
+Going to Slide 2.
+Today, we have on the call, Drew DeFerrari, our Chief Financial Officer; and Ryan Urness, our General Counsel.
+Now moving to Slide 4, and a review of our first quarter results.
+As we review our results, please note that in our comments today and in the accompanying slides, we reference certain non-GAAP measures.
+We refer you to the quarterly report section of our website for a reconciliation of these non-GAAP measures to their corresponding GAAP measures.
+Now, for the quarter.
+Revenue was $727.5 million, a decrease of 10.7%.
+Organic revenue excluding $3.9 million of storm restoration services in the quarter declined 11.1%.
+As we deployed 1 gigabit wireline networks, wireless/wireline converged networks and wireless networks this quarter reflected an increase in demand from two of our top five customers.
+Gross margins were 14.8% of revenue, reflecting the continued impacts of the complexity of a large customer program.
+Revenue declined year-over-year with other large customers and the effects of winter weather in the first half of the quarter.
+General and administrative expenses were 9.2% and all of these factors produced adjusted EBITDA of $44.1 million or 6.1% of revenue.
+And adjusted loss per share of $0.04 compared to earnings per share of $0.36 in the year ago quarter.
+Liquidity was strong at $477.4 million and operating cash flow was $41.5 million.
+Finally, during the quarter we issued $500 million in 4.5% senior notes due in April 2029, and resized and extended our credit facility through April of 2026.
+These two transactions leave the company solidly financed as we look forward to better performance.
+Now going to Slide 5.
+Today, major industry participants are constructing or upgrading significant wireline networks across broad sections of the country.
+These wireline networks are generally designed to provision 1 gigabit network speeds to individual consumers and businesses, either directly or wirelessly using 5G technologies.
+Industry participants have stated their belief that a single high capacity fiber network can most cost-effectively deliver services to both consumers and businesses, enabling multiple revenue streams from a single investment.
+This view is increasing the appetite for fiber deployments and we believe that the industry effort to deploy high capacity fiber networks continues to meaningfully broaden our set of opportunities.
+Increasing access to high capacity telecommunications continues to be crucial to society, especially in rural America.
+The wide and active participation in the completed FCC RDOF auction augurs well for dramatically increased rural network investment, supported by private capital that in the case of at least some of the participants is expected to be significantly more than the FCC subsidy.
+We are providing program management planning, engineering and design, aerial and underground and wireless construction and fulfillment services for 1 gigabit deployments.
+These services are being provided across the country in numerous geographic areas to multiple customers, including customers who have initiated broad fiber deployments, as well as customers who have resumed broad deployments.
+These deployments include networks consisting entirely of wired network elements as well as converged wireless/wireline multi-use networks.
+Fiber network deployment opportunities are increasing in rural America, as new industry participants respond to emerging societal incentives.
+We continue to provide integrated planning, engineering and design, procurement and construction and maintenance services to several industry participants.
+Macroeconomic effects and potential supply constraints may influence the near-term execution of some customer plans.
+Broad increases in demand for fiber optic cable and related equipment may impact delivery lead times in the short-to-intermediate term.
+In addition, the market for labor is tightening in some regions of the country, particularly for unskilled, semi-skilled new hires.
+It remains to be seen how geographically broad these conditions will be and how long they will persist.
+Despite these factors, we remain confident that our scale and financial strength position us well to deliver valuable service to our customers.
+Moving to Slide 6.
+During the quarter, organic revenue decreased 11.1%.
+Our top five customers combined produced 68.2% of revenue, decreasing 23% organically.
+Demand increased for two of our top five customers.
+All other customers increased 31.9% organically.
+AT&T was our largest customer at 21.4% of total revenue or $155.6 million.
+AT&T grew 0.9% organically.
+This was our first quarterly organic growth with AT&T since our July of 2019 quarter.
+Revenue from Comcast was $131.1 million or 18% of revenue.
+Comcast was Dycom's second largest customer and grew organically 10.7%.
+Verizon was our third largest customer at 12.6% of revenue or $91.5 million.
+Lumen was our fourth largest customer at 485.8 million or 11.8% of revenue.
+And finally, revenue from Windstream was $32.1 million or 4.4% of revenue.
+Windstream was our fifth largest customer.
+This is the ninth consecutive quarter where all of our other customers in aggregate, excluding the top five customers, have grown organically.
+In fact, the 31.9% organic growth rate with these customers is the highest growth rate in at least nine years.
+Of note, fiber construction revenue from electric utilities was $47 million in the quarter or 6.5% of total revenue.
+This activity increased organically 92.1% year-over-year.
+We have extended our geographic reach and expanded our program management network planning services.
+In fact, over the last several years, we have meaningfully increased the long-term value of our maintenance and operations business, a trend which we believe will parallel our deployment of 1 gigabit wireline direct and wireless/wireline converged networks, as those deployments dramatically increase the amount of outside plant network that must be extended and maintained.
+Despite this overall industry trend, we were recently notified by customer representing less than 5% of our revenue that it had decided to in-source a portion of the construction and maintenance services that are currently provided for them by us as well as a number of other suppliers.
+They expect to implement this decision during the fourth calendar quarter of 2021.
+After this initiative is fully implemented, we expect to continue working for this customer in several markets under new contracts and perform other work on an ongoing basis.
+Although it currently appears at lower levels of activity.
+Now, going to Slide 7.
+Backlog at the end of the first quarter was $6.528 billion versus $6.81 billion at the end of the January 2021 quarter, decreasing approximately $282 million.
+Of this backlog, approximately $2.746 billion is expected to be completed in the next 12 months.
+Backlog activity during the first quarter reflects solid performance as we booked new work and renewed existing work.
+We continue to anticipate substantial future opportunities across a broad array of our customers.
+From various electric utilities, fiber construction agreements in Arizona, Oklahoma, Missouri, Arkansas, Mississippi, Indiana, Kentucky, Tennessee, Georgia, and North Carolina.
+For Ziply fiber, construction and maintenance agreements in Washington, Oregon, and Idaho.
+For Charter, a fulfillment agreement covering Washington, Nevada, Montana, Wisconsin, Massachusetts, Connecticut, New York, North Carolina, South Carolina, Alabama, and Georgia.
+From Frontier, locating services agreement in California.
+And for Consolidated Communications, a construction services agreement in New Hampshire.
+headcount increased during the quarter to 14,331.
+Going to Slide 8.
+Contract revenues for Q1 were $727.5 million and organic revenue declined 11.1%.
+Adjusted EBITDA was $44.1 million or 6.1% of revenue.
+Gross margins were 14.8% in Q1 and decreased 169 basis points from Q1 '21.
+This decrease resulted from the impact of a large customer program as well as margin pressure from revenue declines for other large customers compared to Q1 '21.
+Margins were also impacted by the adverse winter weather conditions experienced in many regions of the country during the first half of the quarter.
+G&A expense increased 112 basis points, reflecting higher stock-based compensation and administrative and other costs.
+Non-GAAP adjusted net loss was $0.04 per share in Q1 '22, compared to net income of $0.36 per share in Q1 '21.
+The variance resulted from the after-tax decline in adjusted EBITDA, offset by lower depreciation, lower interest expense, and higher gains on asset sales.
+Now going to Slide 9.
+Our financial position remains strong.
+Over the past four quarters, we have reduced notional net debt by $185.2 million.
+During Q1, we issued $500 million of 4.5% senior unsecured eight-year notes due April 2029.
+We repaid $105 million of revolver borrowings and $71.9 million of term loan borrowings, and we resized and extended our senior credit facility through April 2026.
+Cash and equivalents were $330.6 million at the end of Q1.
+$58.3 million is expected to be used to repay our convertible notes due September 2021.
+We ended the quarter with $500 million of senior unsecured notes, $350 million of term loan, no revolver borrowings, and $58.3 million principal amount of convertible notes.
+Our capital allocation prioritizes organic growth followed by opportunistic share repurchases and M&A within the context of our historical range of net leverage.
+As of Q1, our liquidity was strong at $477.4 million, and we continue to maintain a strong balance sheet.
+Going to Slide 10.
+Operating cash flows have remained strong and totaled $41.5 million in the quarter.
+The combined DSOs of accounts receivable and net contract assets were at 128 days, an improvement of eight days sequentially from Q4 '21.
+Capital expenditures were $28.6 million during Q1 net of disposal proceeds, and gross capex was $31.6 million.
+Capital expenditures net of disposals for fiscal 2022 are expected to range from $105 to million to $125 million, a reduction of $40 million when the midpoint as compared to the midpoint of the prior outlook.
+This deferral reflect short-to-medium term manufacturer supply constraints.
+Going to Slide 11.
+For Q2 2022, the company expects contract revenues to range from in-line to modestly lower as compared to Q2 2021, and expects non-GAAP adjusted EBITDA as a percentage of contract revenues to decrease compared to Q2 2021.
+We expect the year-over-year gross margin pressure of approximately 200 basis points from the impact of a large customer program and from revenue declines for other large customers that are expected to have lower spending in the first half of this calendar year.
+We expect approximately $8.7 million of non-GAAP adjusted interest expense for the components listed as well as $0.7 million for the amortization of the debt discount on convertible notes for total interest expense of approximately $9.4 million during Q2.
+We expect the non-GAAP effective income tax rate of approximately 27% and diluted shares of $31.3 million.
+Moving to Slide 12.
+Within a recovering economy, we experienced solid activity and capitalized on our significant strengths.
+First and foremost, we maintained significant customer presence throughout our markets.
+We are encouraged with the emerging breadth in our business.
+Our extensive market presence has allowed us to be at the forefront of evolving industry opportunities.
+Telephone companies are deploying fiber to the home to enable 1 gigabit high speed connections, increasingly rural electric utilities are doing the same.
+Cable operators are deploying fiber to small and medium businesses and enterprises.
+A portion of these deployments are in anticipation of the customer sales process.
+Deployments to expand capacity as well as new build opportunities are under way.
+Dramatically increased speeds to consumers are being provisioned and consumer data usage is growing, particularly upstream.
+Fiber deployments enabling new wireless technologies are under way in many regions of the country.
+Customers are consolidating supply chains, creating opportunities for market share growth and increasing the long-term value of our maintenance and operations business.
+As our nation and industry recover from the COVID-19 pandemic, we remain encouraged that a growing number of our customers are committed to multi-year capital spending initiatives.
+We are confident in our strategies, the prospects for our company, the capabilities of our dedicated employees and the experience of our management team.

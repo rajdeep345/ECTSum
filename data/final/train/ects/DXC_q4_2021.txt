@@ -1,0 +1,150 @@
+I'm pleased that you're joining us for DXC Technology's fourth-quarter fiscal 2021 earnings call.
+Our speakers on the call today will be Mike Salvino, our president and CEO; and Ken Sharp, our executive vice president and CFO.
+In accordance with SEC rules, we've provided a reconciliation of these measures to their respective and most directly comparable GAAP measures.
+A discussion of these risks and uncertainties is included in our annual report on Form 10-K and other SEC filings.
+Today's agenda will start by giving you a quick update on our strong Q4 performance.
+Next, I will highlight the progress we are making on our transformation journey.
+Our strong Q4 results were driven by executing on the three key areas of our transformation journey, which are focused on our customers, optimize cost, and seize the market.
+I will then hand the call over to Ken to share our detailed Q4 financial results, guidance for FY '22, and longer-term outlook.
+Regarding our Q4 performance, our revenues were $4.39 billion, approximately $85 million above the top end of our guidance.
+This is the third straight quarter of revenue stabilization and we expect this trend to continue in FY '22.
+Concerning adjusted EBIT margin, we delivered 7.5%, also higher than the top end of our guidance.
+This, too, is the third straight quarter of sequential margin expansion and is driven by our cost optimization program.
+We expect margins to continue to expand in Q1 of FY '22.
+Book-to-bill for the quarter was 1.08, underscoring the success of bringing the new DXC, which focuses on our customers and colleagues to the market.
+This is the fourth straight quarter that we've delivered a 1.0 or better book-to-bill.
+We expect our success of winning in the market to continue in Q1 of FY '22.
+I am pleased with the momentum we have achieved.
+All the work in FY '21 to inspire our people, invest in our customers, take costs out without disruption and win in the market has positioned us very well for financial success in FY '22 and longer term.
+Now, I will cover the good progress we are making on our transformation journey, starting with our customers.
+Our investment in our customers continues to be the primary driver of revenue stabilization.
+When we deliver for our customers and are seen as a trusted partner, customers are more likely to renew existing work and consider us for new work.
+Let me give you an example.
+We recently signed a five-year expansion with Zurich Insurance Group.
+We'll provide IT outsourcing and security services as part of their global IT transformation, focused on improving the customer and employee experience.
+This is a perfect example of delivering for a customer, strengthening the relationship and then a customer wanting to work with DXC in the future.
+This is strong evidence that our investment in our customers is paying off, which gives us confidence that we can flatten organic revenue during FY '22.
+Now, let me turn to our cost optimization program.
+We have achieved our goal of $550 million of cost savings in FY '21.
+Our cost optimization program was responsible for the strong adjusted EBIT margin of 7.5% in Q4.
+We have done well optimizing our costs and continuing to deliver for our customers without disruption.
+You will hear from Ken that we expect to continue to expand margins in FY '22.
+Seize the market is the final area of our transformation journey.
+In this area, we are focused on cross-selling to our existing accounts and winning new work.
+So the 1.08 book-to-bill that we delivered this quarter is consistent evidence that our plan is working.
+In Q4, 53% of our bookings were new work and 47% were renewals.
+Ahold Delhaize is a great example of an existing customer who has renewed work with DXC and given us new work.
+We will be providing infrastructure services, application outsourcing, cloud migration, and workplace services in a hybrid cloud environment for the retail business services group, to reduce costs and support their business-critical systems that enable each of their local brands to stock their shelves.
+Our ability to deliver a consistent book-to-bill of over 1.0 in each of the four quarters of FY '21 is clear evidence that we can win in the IT services industry.
+This is translating into improving quarterly organic revenue growth, which we expect will flatten during FY '22.
+As we are witnessing the ongoing impact of COVID-19, our focus continues to be on our people.
+Currently, we are focused on the more severely impacted areas of India and the Philippines.
+The dedication of our team is a source of great pride for us at DXC as our people continue to take care of themselves, their families and to deliver for our customers.
+In the past three quarters, we have stabilized our revenue on a sequential basis and guided to the fourth quarter of revenue stability.
+This is a significant accomplishment by my DXC colleagues.
+It is not lost on Mike and me that investors look at revenue growth on a year-over-year basis.
+However, when a company has a period of significant decline and change to its business, strategy, and leadership, you first have to stabilize revenue sequentially.
+As we all know, once you achieve four quarters of sequential revenue stability, you achieve year-over-year revenue stability.
+Going forward, we will pivot our narrative accordingly.
+Turning on to our financial priorities on Slide 10.
+We are working to build a stronger financial foundation and drive the company in a disciplined and rigorous fashion to unleash the true earnings power.
+To that end, remediating our material weakness and the impact it has on our corporate governance is a key focus.
+Our second priority is to have a strong balance sheet.
+We paid down $6.5 billion of debt in the past nine months and subsequent to year-end, retired an additional $500 million.
+We are now approaching a far more manageable $5 billion debt level.
+Further, we have relatively low maturities over the next three years.
+We remain committed to an investment-grade credit profile, and I believe our actions more than demonstrate our commitment.
+Third, we will focus on improving cash flow.
+We expect this will improve our focus on our true earnings power and will allow you to better understand our performance.
+As part of our focus on the business and cash optimization, we will continue our portfolio-shaping efforts to increase the focus on our core business.
+Fourth, we will reduce restructuring and TSI expense to approximately $550 million in FY '22 to under $100 million in FY '24, ultimately improving cash flow.
+Fifth, have a thoughtful and disciplined approach to capital allocation.
+As we generate free cash flow, we will appropriately deploy capital to invest in our business and return capital to our shareholders, all the while staying focused on maintaining our investment-grade credit rating.
+For the quarter, DXC exceeded the top end of our revenue, adjusted EBIT margin, and non-GAAP diluted earnings per share guidance.
+GAAP revenue was $4.39 billion, $85 million higher than the top end of our guidance.
+On an organic basis, revenue increased 0.4% sequentially.
+Organic revenue declined 7% year over year due to the previously disclosed runoffs and terminations.
+As we mentioned on our third-quarter earnings call, our Q3 10.5% year-over-year decline would be the high watermark.
+GAAP EBIT margins were negative 16.8% in the fourth quarter, impacted by approximately $1.1 billion of costs, including pension mark-to-market, asset impairments, restructuring TSI, loss on disposals, and debt extinguishment costs.
+Excluding these items, adjusted EBIT margin was 7.5% in the fourth quarter, an improvement of 50 basis points from the third quarter.
+Non-GAAP diluted earnings per share was $0.74 and was negatively impacted by $0.04 due to a higher-than-expected tax rate of 32%.
+In Q4, bookings were $4.7 billion for a book-to-bill of 1.08, the fourth straight quarter of a book-to-bill greater than one.
+For the full year, this takes our book-to-bill to 1.12, compared to 0.9 in FY '20.
+Turning now to our segment results.
+The GBS segment, the top half of our technology stack, includes analytics and engineering, applications in the horizontal BPS business.
+GBS was $2 billion or 46% of our total Q4 revenue.
+Organic revenues increased 2% sequentially, primarily reflecting the strength of our applications and analytics and engineering business.
+Year over year, GBS revenue was down 4% on an organic basis.
+GBS segment profit was $315 million with a 15.8% profit rate, up 160 basis points from Q3.
+GBS bookings for the quarter were $2.39 billion for a book-to-bill of 1.2 and a full-year book-to-bill of 1.32, compared to 0.99 in the prior year.
+Now, turning to our GIS segment, which consists of IT outsourcing, cloud and security, and the modern workplace.
+Revenue was $2.39 billion, down 0.9% sequentially and down 9.3% year over year on an organic basis due to the previously disclosed terminations and runoffs.
+Our ITO business had positive sequential revenue growth in the quarter.
+The ITO business benefited from approximately $100 million of resale revenue, resulting from a typical Q4 increase of customer demand due to their fiscal year-end.
+GIS segment profit was $98 million with a profit margin of 4.1%, a 40-basis-point margin improvement over the third quarter.
+GIS bookings were $2.3 billion for a book-to-bill of 0.98.
+Book-to-bill for FY '21 was 0.94, compared to 0.83 in the prior year.
+Now, turning to one of my favorite slides, our enterprise technology stack.
+This slide demonstrates how winning in the market for four consecutive quarters translates into revenue stability and the progression that our team has been able to achieve by focusing on our customers.
+Before I get into the details, I want to provide you the three changes to the stack you can expect for next year.
+First, as we think about next year, you will see our sequential-quarter comparison give way to a year-over-year comparison.
+Second, we delivered on the sale of the healthcare provider software business.
+Therefore, this will no longer be included.
+Third, the modern workplace and horizontal BPS businesses will be integrated into the enterprise technology stack above.
+Once again, we had three layers of the stack achieve a book-to-bill greater than one and sequential growth.
+Now, let me drill down one level.
+IT outsourcing revenue was $1.19 billion in the quarter, up 1.4%, the first positive sequential growth since we began tracking in this manner.
+ITO book-to-bill was 0.98 in the quarter.
+Cloud and security revenue was $524 million, declined 1.6% sequentially, and was down 5.7% year over year.
+The cloud and security business had a difficult compare as the third quarter grew 4.7% sequentially.
+Book-to-bill was 1.08 in the quarter.
+Moving up the stack, the applications layer posted a 1.9% sequential growth and was down 7.2% year over year.
+Analytics and engineering revenues were $478 million, up 2% on a sequential basis and up 8.4% compared to prior year.
+Analytics and engineering book-to-bill was 1.46 in the quarter.
+The modern workplace and BPS revenues were $795 million, down 3.3% sequentially and down 10.5% compared to the prior year.
+As we previously mentioned to you, these two businesses just began their transformation journey so you should expect some unevenness in performance.
+Moving on to cash flows on Slide 15.
+Fourth-quarter cash flow from operations totaled an outflow of $280 million.
+Free cash flow for the year was negative $652 million, impacted primarily by four nonrecurring items.
+Q4 tax payments of $531 million related to the business sale.
+As you may recall, we planned $900 million of tax payments, so this result surpassed our expectation.
+As we told you before, in Q3, $832 million related to readying the U.S. state and local Health and Human Services business for sale and normalizing payables and $200 million related to deferrals of certain tax payments due to COVID relief legislation that will be paid during FY '22.
+One of our key initiatives we are employing to drive cash flow and improve earnings power is to wind down restructuring and TSI costs.
+Since DXC was formed four years ago, we had significant cash outflows with approximately $900 million in expense per year on average.
+In FY '22, this will be reduced to approximately $550 million, with a larger portion being allocated to facilities restructuring efforts to improve the work experience for our people as we reshape our portfolio for our virtual model.
+We have heard from many of our analysts and investors that our cash flow is hard to understand.
+We believe this will allow investors to better understand our performance.
+As part of our effort to build a sustainable business, we will continue to evaluate these historical practices of using capital leases to a much greater level, long-term purchase commitments, and selling our receivables.
+Unwinding these historical practices may have an impact on short-term cash flow.
+We will also focus our efforts to build the necessary rigor associated with capital budgeting to better control our outsized capital spend.
+On Slide 17, we detail our efforts we have undertaken to strengthen our balance sheet.
+As you can see, we have achieved a lot in this area, reducing our net debt leverage ratio by more than one turn from the high watermark of 2.4 to one at the end of March.
+Another goal we gave you was to improve financial visibility, and we are committed to providing annual and longer-term three-year guidance.
+Starting with our first-quarter guidance on Slide 18.
+Organic revenues declines are expected to moderate, down 2% to down 4% in the first quarter year over year.
+This translates into reported revenues between $4.08 billion and $4.13 billion.
+Our sequential revenue is lower for two reasons: first, previously mentioned lumpiness of resale revenue that occurs in Q4; second, our portfolio-shaping efforts reduced revenue by about $100 million.
+EBIT margin 7.4% to 7.8% includes 20 basis points of margin headwinds due to the sale of our healthcare provider software business.
+Non-GAAP diluted earnings per share in the range of $0.72 to $0.76.
+Moving on to our FY '22 guidance on Slide 19.
+Organic revenue growth of minus 1% to minus 2%.
+On a year-over-year basis, divestitures will account for $1.2 billion of the revenue decline.
+Our previously disclosed terminations and runoffs wind down in the first half of FY '22.
+We expect to see further improvement in the quarterly year-over-year organic revenue growth rates as we move through the year.
+This translates into revenue of $16.6 billion to $16.8 billion; EBIT margin, 8.2% to 8.7%; non-GAAP diluted earnings per share of $3.45 to $3.65, an increase of 42% to 50% year over year; free cash flow of $500 million.
+Now, moving on to our longer-term expectations on Slide 20.
+Organic revenue growth of 1% to 3%; adjusted EBIT margin of approximately 10% to 11%; non-GAAP diluted earnings per share of $5 to $5.25; free cash flow of approximately $1.5 billion.
+I should note our guidance does not anticipate additional portfolio shaping.
+Let me share three key takeaways on the progress we are making at DXC.
+First, as I reflect on FY '21, we delivered on our commitments, and here's how.
+With regard to our people, we moved from a workforce that was not engaged to one that is now engaged and inspired.
+Concerning our customers, we went from challenged accounts to building a level of customer intimacy where we are delivering, building strong partnerships, and being proactive with our customers.
+Customers are clearly seeing the new DXC.
+We changed the direction of our revenues and margin from declining to improving.
+In the market, we went from losing to winning, and we repaid over $6 billion in debt, taking our balance sheet from highly leveraged to strengthened.
+The next key takeaway is that FY '22 will be the year we build the foundation for growth.
+What that means is we will retain and continue to attract talent.
+We will build off our customer intimacy to deliver revenue stability and continue to win in the market all while we expand margins and deliver increased free cash flow.
+Finally, we expect to deliver positive organic revenue growth longer term.
+In closing, we are confident that the momentum we created in FY '21 will continue in FY '22.
+We hope that you will join us on June 17 for our Analyst Day as we're excited to showcase the strength and depth of our new leadership team and discuss our business in more detail.

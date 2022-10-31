@@ -1,0 +1,112 @@
+These statements are based on currently available information and assumptions, and we undertake no duty to update this information, except as required by law.
+These statements are also subject to a number of risks and uncertainties, including the numerous risks related to the cyber incident and the recently completed spinoff of the N-able business.
+Copies are available from the SEC or on our Investor Relations website.
+We completed the spin-off of the N-able business on July 19, 2021, and accordingly have included the results of the N-able business as discontinued operations for the current and historical periods.
+Unless otherwise specified, when we refer to the financial measures, we will be referring to the non-GAAP financial measure.
+We note also that because there was no impact of purchase accounting on revenue in the third quarter, our non-GAAP total revenue is equivalent to our GAAP total revenue in this period.
+Going forward, we will begin to present certain financial measures on a GAAP basis only.
+I hope you're doing well and staying safe.
+As many of you know, we will hold our annual Analyst Day meeting on November 10, 2021.
+During this virtual event, we look forward to then share our vision for SolarWinds and how we plan to retain, evolve, and grow to build an even more successful business.
+As we move our discussion of financial and operational highlights for Q3, I've described our performance and continued progress.
+I attribute the progress to the dedication of our Celerion, the relevance of our solutions to address our customer needs, and the commitment of our partners and customers to SolarWinds.
+For the third quarter, we delivered revenue above the high end of the range of the outlook we provided with total revenue ending the quarter at $181.3 million.
+Third quarter adjusted EBITDA was $75.3 million, representing an adjusted EBITDA margin of 42%, exceeding just the high end of our outlook.
+As I outlined in the Q4 2020 earnings call, customer retention is a top priority in 2021, and we continue to make great progress toward this goal in Q3.
+Our Q3 maintenance and annual rate of 88% was above the low to mid-80% renewal rate we noted we expected in 2021.
+Customer retention remains a key priority.
+And with our growing portfolio of offerings, we believe we have a great opportunity to continue to grow our LTV and net retention rates with our large customer base.
+While we continue to be able to offer flexible pricing, purchasing options to our customers, we are increasing our focus on subscription bookings and we expect to continue to increase the mix of subscription in these upcoming quarters and years.
+In Q3, our subscription revenue grew at a 20% year-over-year rate with subscription ARR growing 23% year over year.
+Bart will provide more color on how this part of our business will trend in Q4 and beyond, given the skew that the SentryOne acquisition timing creates.
+We have completed now the successful spin-off of the N-able business in July, and that has enabled us to plan and execute our stand-alone strategy, the details of which we look forward to sharing with you at Analyst Day.
+Our global system integrator and enterprise motions are resulting in larger subscription deals.
+Noteworthy here is that customers are investing in our entire solutions offering and taking advantage of our simplified packaging and the pricing.
+We will also highlight our views on our [Inaudible] solutions potential to be a growth driver in the coming years through a comprehensive and differentiated approach to observability compared to the alternate.
+Our product teams made significant progress in Q3, delivering these new elements within our solutions that are designed to drive additional value to our customers based on their evolving needs, including updates to our database and ITSM solutions as well as Secure by Design initiatives that impact our entire product portfolio.
+We have also extended the breadth of our database monitoring portfolio's platform support, which now includes Google cloud extensions and added enhanced integration, including with Microsoft teams to our ITSM solutions.
+Increasingly, our application, database, and ITSM offerings will become integral elements of SolarWinds' observability that -- as we create -- as we support customers of all sizes with their IT, Dev, and SecOps requirements.
+We believe that this will help differentiate our offerings from all -- from those of the other vendors.
+We are expanding our global partner engagement with events in various geographies.
+The global partners, including GSIs, cloud service providers, and MSPs, are critical to expanding our GTM reach and to jointly deliver customer success.
+Differentiated offerings with rich enablement, incentives, and a spirit of mutual accountability are the underpinnings of our partner strategy.
+In September, we celebrated the Seventh Annual IT Professionals Day holiday, which was originally established by SolarWinds here in 2015.
+IT Pro Day recognizes and celebrates all IT professionals and the contributions they make to their business every day.
+As part of the celebration, we released findings from our IT Pro Day 2021 Survey, Bring It On, which then revealed IT [Inaudible] confidence and [Inaudible] in their roles.
+We were also able to recognize four IT professionals nominated by their peers in our second annual IT Pro Day awards.
+We also believe that IT professionals showed their true grit under challenging conditions this past year and deserve recognition and appreciation for their efforts, commitment, and resiliency.
+We continue to attract excellent talent across all functions of our organization, and we are selectively adding our footprint in international regions, including most recently in South Korea and parts of our EMEA region.
+I'll discuss our SolarWinds results on a stand-alone basis.
+As most of you know, our spin of the N-able business happened earlier this quarter and was effective on July 19th.
+Therefore, these results are reflected as discontinued operations in our third quarter financial results.
+Also, a quick reminder that the guidance for the third quarter that I provided in August did not include any impact from N-able as the spin had been completed at that time.
+Once again, our public filings will present N-able as discontinued operations in the third quarter as well as in prior periods for a much better comparability.
+Our third quarter financial results reflect another quarter of improving execution while demonstrating the resiliency of our model.
+That execution led to another quarter of better-than-expected financial results for the third quarter with total revenue ending at $181.3 million, above the high end of our total revenue outlook of about $176 million to $180 million.
+For the third quarter of 2021, there was no impact of purchase accounting on revenue, so our non-GAAP total revenue is equivalent to our GAAP total revenue.
+Total license and maintenance revenue was $149 million in the third quarter, which is a decrease of 6% from the prior year period.
+The maintenance revenue was $120 million in the third quarter, which is up slightly from the prior year.
+Our maintenance revenue has been impacted by a combination of year-over-year declines in license sales for the past eight quarters and a reduction in our renewal rate in 2021.
+The trend of this lower license sales intensified with the COVID-19 pandemic in the first quarter of 2020 and because of the introduction of subscriptions of our licensed products in Q2 of 2020 as well as the SUNBURST incident in December of 2020 as we focus more for our efforts on longer-term customer success and retention rather than maximizing near-term sales.
+Although maintenance renewal rates have remained lower than historical levels since SUNBURST, we are encouraged by the fact that they have improved throughout the year.
+Our expectation at the start of the year was that maintenance renewal rates this would be in the low to mid-80s.
+On a trailing 12-month basis, our maintenance renewal rate is 89%.
+Working with our customers had been a top priority this year.
+Also consistent with recent quarters, we want to provide the in-quarter renewal rate for the third quarter, which currently stands at approximately 88%, which again is above our expectations at the start of the year.
+For the third quarter, license revenue was $29.2 million, which represents a decline of approximately 26% as compared to the third quarter of 2020.
+On-premises subscription sales resulted in an approximately 11-percentage-point headwind to license revenue for the quarter.
+The remainder of the decline in license revenue reflects the combination of an impact of that cyber incident and the continuing impact of the COVID-19 pandemic.
+That said, our new license sales performance with commercial customers has improved sequentially each quarter during the year.
+And while we have continued to sell to customers in the federal government and have had some key wins post-SUNBURST, new sales to customers in the federal space overall has been a challenge this year.
+We have an incredibly committed federal team, who's now the primary focus has been on working with customers and maintaining the security and stability of their environment.
+Moving to our subscription revenue.
+Third quarter subscription revenue was $32.3 million, up the 20% year over year.
+This increase is due to the additional subscription revenue from SentryOne products as well as increased sales of our on-premise subscriptions as part of our early efforts to shift more of our business to subscription.
+Total ARR have reached approximately $624 million as of September 30, 2021, reflecting year-over-year growth of 9% and is up slightly from our ending Q2 2021 ARR balance of $621 million, which is the corrected amount included in our 8-K filing from earlier this month.
+The growth in ARR is that primarily due to the incremental revenue of SentryOne, which we acquired late last year, and our efforts on sales of our products at on-premises subscription.
+Our subscription ARR of $130.2 million increased 23% year over year and 9% sequentially from the second quarter.
+So we finished the third quarter of 2021 with 786 customers that have spent more than $100,000 with us in the last 12 months, which is a 4% improvement over the previous year.
+We are continuing our efforts will build larger relationships with our enterprise customers, which we will talk more about at our upcoming Analyst Day next month.
+We delivered a solid quarter of our non-GAAP profitability.
+Third quarter adjusted EBITDA was $75.3 million, representing an adjusted EBITDA margin of 42%, exceeding the high end of the outlook for the third quarter despite continuing to invest in our business.
+Excluded from the adjusted EBITDA are onetime costs of approximately of the $2.9 million of cyber-related remediation, containment, investigation, and professional fees, net of insurance proceeds.
+I do want to clarify that these cyber-related costs not included in adjusted EBITDA are onetime and nonrecurring.
+They are separate and distinct from our Secure by Design initiatives, which are aimed at enhancing our IT security and supply chain process.
+Costs related to our Secure by Design initiatives are and will remain part of the recurring cost structure as we go forward.
+We expect onetime cyber-related cost to fluctuate in future quarters but to be less in future periods.
+These onetime cyber costs are, however, difficult to predict.
+They not only include the significant cost of the forensic investigation efforts we substantially in May but also costs associated with our ongoing litigation, government investigations, and any potential judgments or fines related and -- as well as related professional fees.
+We expect our insurance coverage and offset a portion of these expenses and will be presented net of insurance proceeds.
+Net leverage at September 30 was approximately 3.8 times our pro forma trailing 12-month adjusted EBITDA.
+We retained the full amount of the $1.9 billion in term debt that the company had at present.
+During the third quarter, we completed a two for one reverse stock split and declared a dividend of $1.50 per share on this post-split basis, which was paid in August.
+In addition, N-able repaid $325 million of inter-company debt.
+As a result of this repayment, our cash balance is $709 million at the end of the third quarter, bringing our net debt to approximately $1.2 billion.
+Our plan is to keep that cash of our balance sheet for the foreseeable future.
+We believe we have favorable terms on our debt, so we intend to maintain flexibility as it relates to our cash on balance sheet.
+Our debt matures in February of 2024 and we expect to revisit our level of gross debt as we get closer to that date.
+I will then now walk you through our outlook before turning it back over to Sudhakar for some final thoughts.
+We are providing guidance for the fourth quarter of 2021 for total revenue, adjusted EBITDA, and earnings per share, and we will tell you what that means for a full year.
+For the fourth quarter of 2021, we expect total revenue to be in the range of $180 million to $184 million, representing a year-over-year decline of negative 3% to negative 1%.
+Adjusted EBITDA for the fourth quarter is expected to be approximately $72 million to $74 million, which also implies an approximately 40% adjusted EBITDA margin.
+Non-GAAP fully diluted earnings per share is projected to be $0.25 to $0.26 per share, assuming an estimated 160.7 million fully diluted shares outstanding, which reflects the reverse stock split completed on July 30.
+And finally, our outlook for the fourth quarter assumes a non-GAAP tax rate of 22%, and that we expect to pay approximately $8 million in cash taxes during the fourth quarter of 2021.
+For the full year, we expect total revenue to be in the range of $712 million to $716 million, representing a year-over-year decline of negative 1% to flat with prior year.
+So our adjusted EBITDA for the full year is expected to be approximately $297 million to $299 million, which implies an approximately 42% adjusted EBITDA margin for the year.
+Non-GAAP fully diluted earnings per share is projected to be $1.14 to $1.15 per share, assuming an estimated 160.5 million fully diluted shares outstanding.
+As you think about the components of revenue in the fourth quarter, it is important to remember that we acquired SentryOne last year in late October.
+We expect our subscription revenue growth in the fourth quarter to be in the high single digits.
+However, looking ahead to 2022 and beyond, we intend to continue to expand our subscription offerings while turning new subscription sales a much higher priority with our sales team.
+Based on what we've seen year-to-date, we expect that maintenance renewal rates will be in the high 80s for the fourth quarter and anticipate continued progress throughout 2022.
+And in the near term, we expect the maintenance revenue will continue to be relatively flat to slightly down compared to prior year periods.
+So as we think about EBITDA margins for the rest of the year and into 2022, the costs associated with our Secure by Design initiatives, investments in transitioning our product portfolio to a greater subscription mix and our continued investments in our sales and marketing initiatives are factored into the margins in the short term.
+We anticipate that accelerating margins again in the future, but believe that these investments are now necessary.
+We will talk more about these initiatives at the Analyst Day on November 10.
+Our team's competence, commitment, and attitude continues to be on display as we delivered a strong Q3 performance, exceeding outlook in both total revenue and adjusted EBITDA.
+We are executing our mission to help customers accelerate their business transformation via simple, powerful, and secure solutions for multi-cloud environments.
+In Q3, we introduced an early adopter program of SolarWinds' observability to select customers.
+These customers currently under maintenance has the great opportunity to make an early move to subscribe to our offerings and begin a journey to multi-cloud with SolarWinds as a strategic partner.
+By eliminating customer complexity and meeting them where they currently are, we believe we are uniquely positioned to protect investments while increasing our relevance to them over time.
+We expect this motion to become a mainstream activity in our upcoming quarters and a significant contributor to our subscription and ARR.
+In Q4, we have continued to execute on the initiatives that I outlined during our Q4 2020 earnings call, focusing on customer retention and demonstrating ongoing progress in subscription, license, and maintenance growth across geographies and sectors.
+We hope to see you all on November 10.

@@ -1,0 +1,147 @@
+I would like to start by expressing how grateful I am to our colleagues for their continued hard work and commitment, especially to those who are continuing to experience the devastating effects of the pandemic.
+We have not yet seen a uniform recovery as there are still many regions around the world that have been ravaged by the pandemic.
+As many of you are aware, India is facing a particularly dire situation at the moment.
+Our colleagues and customers that are very much on our minds and we are working closely with our team in India to ensure safety of our employees and their families, and we're doing all we can to support our customers.
+During today's call, I will provide you a brief overview of our first quarter operating results as well as an update on our three phase transformation plan focused on; Number 1, beginning our commercial momentum; Number 2, further strengthening our organization with leadership and performance management; and Number 3, aligning our portfolio with growth areas.
+Next, I will provide some thoughts on how our business is positioned to drive sustainable growth.
+Mike will then review our financial results in detail and provide comments on our updated second quarter and full-year financial outlook.
+Briefly reviewing our operating results, for the first quarter revenue grew 31% as reported, 27% on a constant currency basis, and non-GAAP adjusted earnings per share grew 99% year-over-year.
+This strong start for the year was driven by growth across all end markets as we saw continued strength in pharma and earlier-than-expected recovery in non-pharma spending by our customers, new product traction and strong commercial execution by our team.
+Looking more closely at our top-line results.
+First, from a customer end market perspective, all our end markets grew double-digits during the first quarter.
+Our largest market category pharma grew 28% in constant currency, industrial grew 24%, and academic and government grew 29%.
+Moving now to our sales performance by geography.
+On a constant currency basis; sales in Asia grew 41%, with China up 109%; sales in Americas grew 14%, with US growing 13%; and sales in Europe grew 25%.
+From an operating segment perspective, our Waters division grew 26%, while TA grew by 28% on a constant currency basis.
+Customer activity continued to improve in the first quarter with pharma leading the way driving better-than-expected trends in recurring revenues and a significant growth in instrument revenue.
+Recurring revenues grew 15%, with services growing 14% and chemistry consumables revenue growing 18%, driven by combined pharma strength and improved industrial demand.
+LC instruments grew across all of our major geographies and market categories with more than 40% growth.
+It's encouraging to see both HPLC and UPLC instrument units grow double-digits, driven by pent-up demand, integration of the Arc HPLC and strong execution of our LC replacement initiative.
+The success of the launch of the Arc HPLC in the general purpose HPLC space cannot be understated and the ACQUITY PREMIER has been received very well by customers since its February launch.
+Mass spec sales were also strong in the first quarter with growth in excess of 50% as demand in the pharma market remains robust.
+In addition to rebound, we saw in other markets, including clinical, food and environmental and biomedical research.
+Demand was solid for our tandem quads in Europe and China, particularly in pharma and in food.
+Revenue grew 28% as demand rebounded in the core industrial business and strength continued in pharma medical devices and semiconductors.
+Growth was robust across all major geographies and product lines with particular strength in thermal and electrophoresis.
+Looking deeper at our sales performance by geography.
+All major regions grew double-digits.
+China built further on last quarter's strength, more than doubling sales year-over-year, results were strong across all end markets as China continued its recovery from last year's COVID disruptions.
+Pharma was particularly strong in China, driven by triple-digit growth in both contract labs and traditional Chinese medicine.
+Our food business in China also saw meaningful growth, driven by a significant rebound in contract testing organizations to the level that were above those we saw in 2018 and in 2019.
+This is just one quarter and not indicative of a trend, but it demonstrates that the market is recovering and our execution has improved.
+India sales grew double-digits for the third consecutive quarter, despite worsening conditions and continued pandemic challenges throughout the country.
+Europe experienced broad-based strength across all customer end markets, including meaningful sequential improvements in both industrial and academic and government markets.
+In the US, both pharma and industrial markets had strong growth in the quarter, while demand in our academic and government market remained soft as it lags behind other markets in reopening.
+In summary, we had a great start for the year with strong year-on-year growth that was broadly based than last quarter.
+With impressive performance across all our regions, end markets and product categories.
+Pharma demand has not subsided and many of our non-pharma markets are now in the process of recovering, which gives us greater confidence as we look to the remainder of the year.
+Now I would like to talk more broadly about our business and its overall direction moving forward, including the strength of the Company, the effectiveness of the markets that we serve, and our deep commitment to innovation as we look beyond this quarter into the longer term.
+Our three-phase transformation plan is; Number 1, beginning our commercial momentum; Number 2, strengthening our organization with leadership and performance management; and Number 3, aligning our portfolio with growth areas.
+Looking at our first priority of beginning our commercial momentum, let me review some initiatives I mentioned previously.
+First, our instrument replacement initiative.
+We delivered a significant acceleration in instrument revenue growth to 45%.
+In February, we launched the ACQUITY PREMIER system augmenting the already solid placement of Arc HPLC launched in June of 2020, creating new opportunities for instrument replacements.
+Additionally, we have gained traction with customers to replace aging tandem quad mass spec instruments with newer instruments.
+Second, as part of our CROs CDMO expansion initiative, we've seen revenue growth accelerate to strong double digits in both these customer segments.
+Customers continue to perceive us as a strong technical partner as they transfer methods from originators and they see us as a strong collaborator rather than a competitor.
+Third, our e-commerce initiative has begun to deliver tangible results, search engine optimization and paid search had lead to search impressions that are up more than 40% year-on-year.
+While not every click translates to immediate revenue increasing traffic is an important first step in our e-commerce efforts.
+Fourth, driving launch excellence.
+Let me start with liquid chromatography.
+While the Arc HPLC is a leader in general purpose HPLC space, I want to focus on the ACQUITY PREMIER.
+Last year we launched the ACQUITY PREMIER Columns and follow that up with the ACQUITY PREMIER System last quarter.
+Though, we are still in the early stages of the revenue ramp up for both the Columns and the System sales of ACQUITY PREMIER Columns are significantly outpacing prior successful chemistry launches, including the original ACQUITY Columns.
+Turning to mass spec.
+In 2019, we launched the BioAccord, Cyclic IMS, SYNAPT XS, TQ-S cronos and a next generation version of our TQ-S micro.
+Pairing our tandem quad with ACQUITY PREMIER creates industry-leading reproducibility and sensitivity for challenging assays.
+With expanding applications of the BioAccord, we've maintained our focus on bringing a versatile, easy to use and robust LCMs system to the QA-QC space.
+During Q1, we launched a full workflow for peptide multi-attribute method on the new Waters Connect platform to enable the monitoring of quality attributes at the peptide level.
+This adds to already existing simple use applications of peptide mapping impacts of unit mass analysis, released glycan profiling and oligonucleotide mass confirmation.
+Over the last year, we established the BioAccord into the workflows for characterizing mRNA molecules that have since become vaccines.
+In fact, BioNTech recognized Waters for our support of its COVID-19 vaccine development and relief efforts.
+Lastly, Cyclic was launched in September of 2019 and is targeted at the most advanced high resolution mass spec users.
+Augmenting traditional LCMs with high-resolution ion mobility allows us to separate molecules with additional -- with identical molecular weight based on their different shapes.
+This is now especially relevant from one of the structural changes in the sugar pattern of the spike protein of the SARS-CoV-2 virus.
+We do recognize that we still have a bit of work to do on our mass spec informatics applications and we are addressing this through the development and rollout of our Waters Connect software platform across our full mass spec portfolio.
+Today, Waters Connect support biopharma characterization and monitoring workflows with a range of capabilities on the BioAccord, Xevo QTof and [Indecipherable].
+And with the launch of our RDa Benchtop -- Benchtop Tof in Q1, Waters Connect also enables small molecule workflows.
+We're grateful that we've earned the trust and partnership with our customers as we develop further applications and beta test upcoming products and software.
+Next from our TA Instrument division.
+Last year we launched the X3 DSC, which offers unique advantages for routimg high throughput labs and R&D, especially in pharma, electronics and advanced materials.
+The ability of the X3 DSC to deliver high sensitivity measurements of physical properties more quickly than comparable products is enabling these measurements to be more broadly deployed in manufacturing processes, where scientists can evaluate multiple combinations in parallel, reducing time to market.
+The more time I spend with my R&D colleagues together with our customers the more impressed I am with the strength of our deeply, deeply technical culture.
+Moving on to our second priority.
+You've already seen the plan leadership transitions we announced last month.
+Amol Chaubal will join as the CFO on May 12th, Amol has deep experience in pharma and diagnostics and has led many transformations in his prior roles through both organic and inorganic growth.
+Mike will continue to serve as our Corporate Controller and I'm pleased to add that Mike will also assume the role of Chief Accounting Officer.
+Secondly, we have established a dedicated Innovation Board, which I will share that includes leaders from R&D, Business Development and Marketing.
+The Innovation Board will review unmet needs in markets we serve, assess technology proof of concepts and monitor the execution of top R&D programs.
+Though their retirements are effective July 2, they've graciously which we offer to service consultants for a period of time to ensure a smooth transition.
+Both Jon and Jianqing have deep commercial and transformation experience in global leadership roles in fast growing markets such as molecular diagnostics and bioprocessing.
+I'm really pleased with our new team and I look forward to introducing them to you in the coming months.
+That brings us to our third priority aligning our portfolio with high growth areas.
+While we won't take our eye off commercial execution, which remains our top priority, we have recently started our strategic planning process.
+And I'd like to share you -- share with you some high-level thoughts on where we are today.
+Our number one priority is to continue strengthening the core meaning LCMs, and materials characterization instruments, informatics, service and consumables.
+Second, is staffing into faster growing adjacencies where we can bring our strength of managing compliant data without competing directly with our customers.
+These adjacencies include opportunities to increase our exposure to biologics, be it in reagents, other instrument technologies or bioprocessing, all in accelerating LCMs into diagnostics or other high-growth markets.
+Lastly, we will maintain our long-standing disciplined approach to financial management, capital structure and capital deployment as we are focused on maintaining a top-tier ROIC.
+Over the coming year, I look forward to sharing more with you on our strategy, as well as the data points that give us confidence that we have the foundation in place to sustainably grow in this attractive market.
+With that, I'd like to pass the call over to Mike Silveira for a deeper review of the first quarter financials and our outlook for the remainder of 2021.
+In the first quarter, we recorded net sales of $609 million, an increase of approximately 27% in constant currency.
+Currency translation increased sales growth by approximately 4%, resulting in sales growth of 31% as reported.
+Looking at product line growth.
+Our revenue -- our reoccurring revenue, which represents the combination of precision chemistry products and service revenue increased by 15% for the quarter, while instrument sales increased 45%.
+Chemistry revenues were up 18% for the quarter, driven by strong pharma market growth and improving industrial demand.
+On the service side of our business, revenues were up 14% as customers continue to reopen labs and catch up on performance maintenance, professional services and repair visits.
+As we noted on our last earnings call, reoccurring sales were impacted by five additional calendar days in the quarter, which primarily impacted service revenues.
+Looking ahead, compared to 2020, there is no year-over-year difference in the number of calendar days for this year's second or third quarter.
+However, there are six fewer calendar days in the fourth quarter of this year.
+Breaking first quarter operating segment sales down further, sales related to Waters Division sales grew 26%, while TA Instrument sales grew 28%.
+Combined LC and LCMs instrument sales were up 47%, while TA system sales grew 34%.
+Now I'd like to comment on our first quarter non-GAAP financial performance versus the prior year.
+Gross margin for the quarter was 58.2%, a 350 basis point increase compared to 54.7% in the first quarter of 2020, primarily due to an increase in sales volume and favorable effects.
+Moving down to first quarter P&L.
+Operating expenses increased by approximately 9% on a constant currency basis and 11% on a reported basis.
+The increase was primarily attributed to higher labor incentive compensation costs and higher depreciation from IT investments we made over the last few years.
+In the first quarter, our effective operating tax rate was 14% an increase from last year, as compared to the comparable period included some favorable discrete items in the prior year.
+Net interest expense was $7 million for the quarter, a decrease of about $3 million, as anticipated on lower average outstanding debt balances.
+Our average share count came in at 62.6 million shares, flat with the first quarter of last year.
+Our non-GAAP earnings per fully diluted share for the first quarter increased 99% to $2.29 in comparison to the $1.15 last year.
+On a GAAP basis, our earnings per fully diluted share increased to $2.37 compared to $0.86 last year.
+Turning to free cash flow, capital deployment and our balance sheet, I would like to summarize our first quarter results and activities.
+We define free cash flow as cash flow from operations less capital expenditures and excluding certain special items.
+In the first quarter of 2021, free cash flow grew 60% year-over-year to $193 million, after funding $40 million of capital expenditures.
+Excluded from free cash flow was $14 million related to the investment in our Taunton precision chemistry operation.
+In the first quarter, this resulted in $0.32 of each dollar of sales converted into free cash flow.
+Our increased free cash flow was primarily a result of sales growth and better operating margins compared to the prior year.
+In the quarter, accounts receivable days sales outstanding came in at 84 days, down 15 days compared to the first quarter of last year.
+Inventory decreased by $16 million in comparison to the prior year quarter on higher sales volumes.
+Waters maintains a strong balance sheet, access to liquidity and a well-structured debt maturity profile.
+In terms of returning capital to shareholders, we repurchased approximately 600,000 shares of common stock for $173 million in the first quarter.
+These capital allocation activities along with our free cash flow results in cash and short-term investments of $810 million in debt of $1.7 billion on our balance sheet at the end of the quarter.
+This resulted in a net debt position of $893 million and a net debt to EBITDA ratio of about 1 times at the end of the first quarter.
+Our capital deployment priorities remain consistent, invest for growth, maintain balance sheet strength and flexibility, and return capital to shareholders.
+We remain committed to deploying capital against these priorities and as Udit commented earlier, we have begun a new strategic planning process.
+As we continue to execute against our priorities, we will evaluate deploying capital to open up attractive and adjacent markets.
+As we look forward to the remainder of the year ahead, I would like to provide some updated context on our thoughts for 2021.
+One, while the business environment remains subject to volatility, we are seeing good momentum in our market segments, which will help us exceed the 2019 levels.
+Two, we believe this momentum will continue into the second quarter, but that the strong double-digit growth will mostly occur in the first half of the year due to more challenging comparisons in the second half of the year and the six fewer calendar days that we will have in the fourth quarter.
+Three, we continue to expect that all major geographies will perform better this year than they did in 2020 led by growth in China.
+Four, our near-term growth initiatives are expected to continue to ramp, led by our LC replacement initiative, which we expect to contribute increasingly to our performance.
+These dynamics support updated full-year 2021 guidance for constant currency sales growth up 8% to 11%.
+At current rates, the positive currency translation to 2021 sales growth is expected to be approximately 1 percentage points to 2 percentage points.
+Gross margin for the full year is expected to be between 57.5% and 58%.
+Every year we look to balance growth, investment and profitability.
+Accordingly, we expect 2021 operating margins of between 28% and 29% based on a combination of investments, the normalization of COVID-related cost, and disciplined expense controls.
+Moving now below the operating income line, other key assumptions for the full year guidance are as follows; net interest expense of $35 million to $38 million; a full year tax rate in the range of 14.5% to 15.5%; the net impact of our share repurchase program in 2021 that will result in an average diluted 2021 share count of 61.5 million to 62.0 million shares outstanding.
+Over the course of the year, we will evaluate our share repurchase program and provide quarterly update as appropriate.
+Rolling all this together, and on a non-GAAP basis, full-year 2021 earnings per fully diluted share are now projected in the range of $9.85 to $10.05, which assumes a positive currency impact on full year earnings-per-share growth of approximately 3 percentage points.
+Looking at the second quarter of 2021.
+We expect constant currency sales growth to be 14% to 16%.
+At today's rates, currency translation is expected to increase second quarter sales growth by approximately 3 percentage points.
+Second quarter non-GAAP earnings per fully diluted share are estimated to be in the range of $2.15 to $2.25 as the significant prior year COVID cost savings actions start to normalize.
+At current rates, the positive currency impact on second quarter earnings-per-share growth is expected to be approximately 1 percentage point.
+Like in summary, there is much to be pleased about -- with our first quarter results, driven by strong growth across each of the major end markets with pharma leading the way.
+Our transformation plan is well under way with commercial momentum and a strong leadership team in place.
+We now turn toward developing a new strategy as we work more closely to align our portfolio with higher growth areas of the market.

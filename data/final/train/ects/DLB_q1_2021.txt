@@ -1,0 +1,153 @@
+In particular, the extent of the continued impact of COVID-19 on our business remains uncertain at this time.
+During today's call, we will discuss GAAP and non-GAAP financial measures.
+After the content of today's call, Lewis will begin with a recap of Dolby's financial results and provide our second quarter 2021 outlook, and Kevin will finish with the discussion of the business.
+I think I'll jump right into the numbers.
+First quarter revenue was $390 million, which was above the guidance range of $330 million to $360 million and was also above the $271 million we saw in Q4 and the $292 million in Q1 of last year.
+Revenues were better than what we guided as we had a true-up in the quarter of about $20 million that relates to Q4 shipments, and we also had some recoveries in Q1 that came in sooner in the year than we thought.
+So that's more of a shift in timing within the fiscal year.
+Q1 also benefited from higher estimated market TAMs. In terms of the sequential growth from Q4, Q1 benefited from timing of revenue under contracts and higher recoveries, along with higher adoption, and this was consistent with what I highlighted at the beginning of the quarter.
+And in addition, sequential growth was helped by holiday seasonality, which is sort of a typical factor.
+In the year-over-year comparison, all of our cinema-related revenue streams were down significantly from last year's Q1, and that's because of COVID.
+But then more than offsetting that were higher revenues from timing under contracts, higher recoveries and greater adoption of Dolby.
+So the Q1 revenue of $390 million was composed of $373 million in licensing and $17 million in products and services.
+So let me discuss the trends in-licensing revenue by end market starting with Broadcast.
+Broadcast represented about 37% of total licensing in the first quarter.
+Broadcast revenues increased by about 36% year-over-year, and that was driven by higher recoveries; higher adoption of Dolby, including our patent programs; and a higher true-up, which relates to the Q4 shipments.
+And this was offset partially by lower market volume in set-top boxes.
+On a sequential basis, Broadcast was up by about 16%, driven by holiday seasonality for TVs, higher recoveries and higher adoption, offset partially by the lower set-top box activity.
+Mobile represented approximately 28% of total licensing in Q1.
+Mobile increased by a little over 200% from last year and about 170% from last quarter due primarily to timing of revenue under customer contracts and also helped by higher customer adoption.
+Consumer Electronics represented about 14% of total licensing in the first quarter.
+On a year-over-year basis, CE licensing was up by about 6%, mainly due to higher adoption of Dolby, including our patent programs.
+On a sequential basis, CE increased by about 52%, driven by higher seasonality, higher adoption in our patent programs and timing of revenue under contracts.
+PC represented about 9% of total licensing in Q1.
+PC was higher than last year by about 3% due to increased adoption of Dolby's premium technologies like Dolby Atmos and Dolby Vision.
+And this was offset partially by declining ASPs that comes from mix of disc versus non-disc units.
+Sequentially, PC was up by about 5%, driven by higher adoption of those premium Dolby technology.
+Other Markets represented about 12% in total licensing in the first quarter.
+They were up by about 8% year-over-year, driven by higher gaming from new console releases and also from higher Via admin fees and via the patent pool program that we administer.
+And that was offset partially by significantly lower Dolby Cinema box office share because of COVID.
+On a sequential basis, Other Markets was up by about 33%, driven by higher revenue from gaming and from the Via admin fees.
+Beyond licensing, our products and services revenue was $16.9 million in Q1 compared to $14.3 million in Q4 and $34.2 million in last year's Q1.
+We had anticipated the large year-over-year decrease in our guidance because most of this revenue comes from equipment that's sold to cinema exhibitors, and these customers continue to be negatively impacted by the pandemic.
+The Q1 total was slightly above guidance, and that was mostly attributable to exhibitors in China.
+Now I'd like to discuss Q1 margins and operating expenses.
+Total gross margin in the first quarter was 90.9% on a GAAP basis and 91.5% on a non-GAAP basis.
+Products and services gross margin on a GAAP basis was minus $5.5 million in Q1 compared to minus $15.5 million in the fourth quarter, and the fourth quarter included large excess of obsolete inventory charges because of our decision to exit the conferencing hardware arena.
+We are taking steps to reduce the cost structure in manufacturing, and we should start to see some impact of this by the end of this quarter.
+This quarter, meaning Q2.
+Products and services gross margin on a non-GAAP basis was minus $3.9 million in Q1 compared to minus $14.1 million in the fourth quarter.
+And I would apply the same comments here as I did in the GAAP section.
+Operating expenses in the first quarter on a GAAP basis were $189.8 million compared to $198.7 million in Q4.
+The Q1 total includes $13.9 million of gain from sale of assets as we completed the disposition of our former Brisbane manufacturing site during the quarter.
+But it also includes $10 million of restructuring expense, primarily for severances and the related benefits, consistent with the comments that I made at the beginning of the quarter when I provided guidance.
+Operating expenses in the first quarter on a non-GAAP basis were $167.1 million compared to $176.5 million in the fourth quarter.
+Non-GAAP operating expenses were below what we've guided primarily due to various marketing programs that shifted out in timing as well as lower bad debt expenses than we had projected.
+Operating income in the first quarter was $164.7 million on a GAAP basis or 42.3% of revenue compared to $48.6 million or 16.6% of revenue in Q1 of last year.
+Operating income in the first quarter on a non-GAAP basis was $189.7 million or 48.7% of revenue compared to $74.1 million or 25.4% of revenue in Q1 of last year.
+Income tax in Q1 was 14.5% on a GAAP basis and 19.9% on a non-GAAP basis.
+Net income on a GAAP basis in the first quarter was $135.2 million or $1.30 per diluted share compared to $48.8 million or $0.47 per diluted share in last year's Q1.
+Net income on a non-GAAP basis in the first quarter was $153.3 million or $1.48 per diluted share compared to $65.5 million or $0.64 per diluted share in Q1 of last year.
+For both GAAP and non-GAAP, net income in the first quarter was above guidance due to revenue higher than what we projected, combined with operating expenses lower than what we had estimated.
+During the first quarter, we generated about $82 million in cash from operations, which compares to about $31 million generated from operations in last year's first quarter.
+And we ended the first quarter this year with about $1.2 billion in cash and investments.
+During the first quarter, we bought back about 500,000 shares of our common stock and ended the quarter with about $147 million of stock repurchase authorization still available to us.
+We also announced today a cash dividend of $0.22 per share.
+The dividend will be payable on February 19, 2021, to shareholders of record on February 9, 2021.
+Now let's discuss the forward outlook.
+As a reminder, the approach we took at the beginning of the fiscal year was to give specific guidance for Q1, like normal, and then give a scenario of a revenue range for Q2 and then give some qualitative comments on the second half of the year.
+We took that approach because of the uncertainties from COVID, which was causing very limited forward visibility.
+Now nearly three months later, it's fair to say that visibility remains very limited.
+Not surprising, given the ongoing disruption we're seeing around the world from pandemic.
+So today, we'll take a similar approach to what we did before.
+I will discuss full P&L guidance for Q2 and then provide some color on the second half of the year, but not detailed guidance.
+Let me start by reminding you of a couple of comments I made last quarter that remained true today.
+At that time, I said that for the first half of FY '21, we were anticipating year-over-year growth in licensing revenue from higher adoption of Dolby technologies, but we are also expecting year-over-year decline in products and services revenue because of the COVID impact on the cinema industry.
+Let's talk more specifically now then about the Q2 revenue outlook.
+Last quarter, I provided a Q2 revenue scenario of $270 million to $300 million for the quarter.
+Today, our scenario is that Q2 revenue could range from $280 million to $310 million.
+The TAM data for Q2 has risen modestly compared to what we were seeing a few months ago, and we have factored that into this latest scenario.
+And to reinforce something I said last quarter, the transition from Q1 to Q2 this year reflects higher revenue in Q1 from timing under customer contracts and also recoveries.
+Last year, in FY '20, that order was reversed in the sense that Q2 was the quarter that benefited more from the timing and recoveries.
+So if I combine the Q2 actual that we just reported with the Q2 outlook I mentioned a second ago, that would put our first half revenue outlook range at $670 million to $700 million compared to our previous outlook range of $600 million to $660 million.
+So that's the first half.
+Now let's talk about revenue in the second half of FY '21.
+There's four main factors that I'd like to highlight: TAMs, the pace of recovery in cinema space, timing of revenue and higher adoption of Dolby.
+Let me explain a bit more.
+First of all, the industry TAM data that we're currently seeing from analysts continues to indicate that TAMs are projected to be lower in our second half on a year-over-year basis, mainly because of an uptick in shipment volume of certain devices like TVs and PCs that happened in the second half of FY '20 but is not projected to repeat in the same time frame of FY '21.
+Second, in the cinema space, the recovery that people might have been expecting seems to be pushing out in time, and that's judging by trends in content by big titles and screen openings or closings.
+Third, as I alluded to earlier, some of the upside in our Q1 revenue, the quarter we just reported, came from deals closing sooner than we thought, in other words, moving from second half into the first half.
+And fourth, we would anticipate that a higher adoption of Dolby technologies would drive year-over-year growth.
+And then from a sequential perspective, i.e., transitioning from first half '21 to second half '21, we had said before and we continue to say that we anticipate second half revenue would be below first half because of a combination of lower seasonality in consumer device shipments and lower revenue from timing under contracts and from recoveries.
+So considering these various factors, we could see a scenario for second half revenue in the mid- to high 500s.
+But as I said earlier, we'll stop short of providing detailed guidance because of the limited visibility right now.
+And of course, we plan to provide you all with an update in three months when we publish our Q2 actual results.
+So let me quickly finish up by providing an outlook on the rest of the P&L for Q2.
+I already highlighted the revenue range of $280 million to $310 million in total, of which licensing would comprise $270 million to $295 million, while products and services would comprise $10 million to $15 million.
+Q2 gross margin on a GAAP basis is estimated to range from 88% to 89%, and the non-GAAP gross margin is estimated to range from 89% to 90%.
+Within that, products and services gross margin is estimated to range from minus $3 million to minus $4 million on a GAAP basis and from minus $2 million to minus $3 million on a non-GAAP basis.
+Operating expenses in Q2 on a GAAP basis are estimated to range from $200 million to $210 million.
+In Q2, our annual salary increases for all the employees go into effect, and we also anticipate more activity in marketing programs as well as R&D projects.
+Operating expenses in Q2 on a non-GAAP basis are estimated to range from $175 million to $185 million, and the projected increase from Q1 is driven by the same comments I made about the GAAP operating expenses.
+Other income is projected to range from $1 million to $2 million for the quarter, and our effective tax rate for Q2 is projected to range from 20% to 21% on both a GAAP and non-GAAP basis.
+So based on the combination of the factors I just covered, we estimate that Q2 diluted earnings per share could range from $0.36 to $0.51 on a GAAP basis, and from $0.57 to $0.72 on a non-GAAP basis.
+That's all I have.
+Over to you, Kevin.
+Our fiscal year is off to a great start, and we continue to enable Dolby experiences to more people around the world.
+Dolby Vision and Dolby Atmos are increasingly available across a broad range of new devices and services, and we are enabling more Dolby experiences in music and gaming, which is adding to our value proposition for broader adoption in areas such as Mobile and PC.
+On top of that, we are excited about bringing Dolby to address everyday virtual experiences and interactions through Dolby.io.
+All of this adds to our confidence in the significant growth opportunities that we see ahead of us.
+As consumers spend an increased amount of time enjoying content within their homes, it is clear that the quality of these experiences matter.
+And Dolby Vision and Dolby Atmos are consistently highlighted among the devices and services that enable the best way for people to enjoy their content.
+The combined Dolby experience was highlighted at CES throughout the latest TV lineups from our partners, including LG, Sony and Panasonic.
+TCL and Skyworth also announced they are adding support for Dolby Vision IQ, which optimizes the picture on your TV to the surrounding light and the content being viewed.
+Earlier this quarter, OPPO launched their first TVs, which includes support for the combined Dolby Vision and Dolby Atmos experience.
+And Dolby Atmos continues to be highlighted among the top sound bars in the market, including the latest products announced at CES from LG, JBL and TCL.
+As we move beyond the living room, our partners are increasing the ways in which consumers can enjoy Dolby experience, including new adoption and headphones.
+Apple is supporting Dolby Atmos in AirPods Max, adding to the ways the consumer can enjoy the Dolby experience across Apple's devices and services.
+Samsung recently announced that their Galaxy Buds Pro supports Dolby Atmos and includes Dolby head tracking technology, which enables consumers to have a realistic and immersive sound experience as they physically move in relation to where their content is being played.
+Within PC, we continue to see growing momentum for broader adoption of Dolby technologies.
+Lenovo announced that they will be bringing the first PCs with Dolby Voice to market.
+Dolby Voice for PCs will optimize the communications experience to create clearer and more natural meeting experiences.
+This is another example of how we are bringing new value to our partners by addressing a primary use case for how consumers interact with their PCs on an everyday basis.
+Lenovo also continues to support Dolby Vision and Dolby Atmos across their latest PC lineups.
+Additionally, Dell continues to release new PCs that support Dolby Vision.
+And in India, we saw new Nokia PCs from Flipkart come to market with the combined experience.
+With a broad range of OEM partners and devices that support Dolby Vision and Dolby Atmos, it is becoming easier for consumers to discover content available in Dolby.
+HBO Max became the latest major streaming service to support the combined Dolby Vision and Dolby Atmos experience, starting with the release of Wonder Woman 1984.
+They joined top streaming services around the world like Netflix, Disney+, Apple TV+, Tencent, Rakuten and more that are enabling content and the combined experience.
+In addition, Amazon Prime video began to stream live English Premier League matches in Dolby Atmos, and Canal Plus is now supporting Dolby Atmos within their on-demand services in Poland.
+And while we're on the topic of movie and TV content, let me spend a moment on Dolby Cinema.
+As Lewis said, the environment remains challenging across the industry.
+At the same time, in certain regions where consumers have been able to return to the cinema and there is strong local content, we have seen that consumers will seek out a premium experience.
+As the industry continues to evolve, we are confident that Dolby Cinema enables the best way to enjoy a movie and our partners remain deeply engaged.
+12 new Dolby Cinema locations around the world were opened this quarter, including our first site in Taiwan.
+So as we continue building on our strong presence within movie and TV content, we see significant opportunities to enable more Dolby experiences in areas like music and gaming.
+The music and Dolby experience continues to expand globally across artists, services and devices.
+Several new artists around the world released music in Dolby Atmos for the first time this quarter.
+Anghami, one of the largest music streaming services in the Middle East, announced that they will be enabling support for Dolby Atmos music within their Anghami Plus service.
+TIDAL continues to expand the number of devices within the home that enable the Dolby Atmos music experience with their TIDAL Connect feature.
+The music and Dolby experience adds to our value proposition for deeper adoption within mobile, and creates new opportunities in new device categories like automotive, where we see strong initial engagement from potential partners.
+Moving on to gaming.
+The Xbox Series X and Series S will be the first consoles to support the combined Dolby Vision and Dolby Atmos experience for gaming content with updates scheduled for later this year.
+New gaming titles like Call of Duty: Cold War and Immortals Fenyx Rising were released this quarter with support for Dolby Atmos.
+As we grow the amount of gaming content in Dolby, we increase the reasons for broader adoption in mobile and PC devices.
+Lenovo and ASUS recently announced new gaming PCs that will support Dolby experiences.
+And this quarter, QQ Speed Mobile by Tencent became the first mobile game with Dolby Atmos.
+Tencent games and Anghami Plus are examples of the growing momentum we have in enabling more Dolby experiences in gaming and music that address more of the content that consumers are most engaged with on their mobile devices.
+With the release of iPhone 12 at the beginning of the quarter, consumers can now record, share and enjoy their videos in Dolby Vision.
+BT is now streaming live sports in Dolby Atmos to mobile devices via their BT Sports app.
+And Bilibili, one of the largest video sharing sites in China, began supporting content in Dolby Atmos.
+As we continue to increase the amount of relevant content, we are adding to our value proposition for deeper and broader adoption of Dolby within mobile devices.
+We also continue to deepen our engagement within the developer community with Dolby.io.
+Having been in market now for about eight months, let me highlight a couple of opportunities that we are focused on.
+First, there is an increasing demand for high-quality real time interactions across a broad range of apps and services, including social media, live performance and online education.
+This is the use case for our interactivity APIs with Dolby Voice.
+For example, Kiddom, a digital platform for online education, is expanding their usage to include our full suite of interactivity APIs, including Dolby Voice, to improve the quality of the communications experience between teachers and students.
+Second, we see an opportunity to bring higher quality to recorded media content, starting with audio.
+Video platforms are embedding our media APIs to enable higher quality audio experiences ranging from social media and podcasts, to product videos and even footage used for news broadcasts.
+While we are still in the early days, we are learning from our engagement with developers to continue to involve our offer -- evolve our offering, increase usage and broaden the number of use cases that we can address.
+So to wrap up, the combined Dolby Vision and Dolby Atmos experience is consistently highlighted among the best ways to enjoy movie and TV content.
+We are seeing the Dolby experience expand across new forms of content, for music and gaming to user-generated content, all of which build upon our value proposition for broader adoption across devices and services.
+The engagement with our developer platform continues to grow, bringing Dolby to a broader world of content experiences and interactions.
+All of this gives us confidence in our ability to drive revenue and earnings growth into the future.

@@ -1,0 +1,151 @@
+Tony Milando, our chief supply chain officer, is also joining today's call.
+They will provide their perspective on Xylem's third quarter results and our outlook.
+A replay of today's call will be available until midnight on November 9th.
+Additionally, the call will be available for playback via the Investors section of our website under the heading Investor Events.
+All references will be on an organic or adjusted basis unless otherwise indicated.
+These statements are subject to future risks and uncertainties, such as those factors described in Xylem's most recent annual report on Form 10-K and in subsequent reports filed with the SEC, including in our Form 10-Q to report results for the period ending September 30, 2021.
+In the appendix, we have also provided you with a summary of our key performance metrics, including both GAAP and non-GAAP metrics.
+For the purposes of today's call, all references will be on an organic and adjusted basis unless otherwise indicated.
+By now, you will have seen that the team delivered a solid third quarter performance with earnings and margins above our expectations.
+The fast pace of orders growth that we saw in the first half of the year has continued with orders up 20% in the quarter, driving our backlog up 34%.
+That commercial momentum reflects a really strong underlying demand for our solutions, which continues to be robust in all segments, markets and geographies.
+Nevertheless, supply driven constraints on volume slowed the conversion of orders to revenue.
+A month ago, we indicated a probable $100 million impact on full year revenue, driven by the global supply chain environment.
+The continuing shortage of electronic components, especially microcontrollers and other chips, is in particularly affecting players with large digital solution businesses like Xylem.
+So we're reflecting those ongoing challenges in our full year view.
+Having raised guidance at the end of the first and second quarters, we now anticipate that the constraints on volume will moderate our full year revenue growth to between 3% and 4%, and bring adjusted earnings per share into a range of $2.40 to $2.50, which represents roughly 20% earnings per share growth over last year.
+The growth in orders and earnings per share reflects the privileged position we're in.
+Macro trends in our sector are driving durable and increasing demand for sustainable digital water solutions, our team is executing on a clear strategy to drive above-market growth and expand margins as our portfolio continues to digitize.
+This quarter has been a vivid demonstration of those trends.
+The team has also shown its ability to capture that demand while showing real discipline on cost.
+Still, given the impact that supply headwinds are having on volume, we'll provide some additional color on what we've -- we're seeing and how the team is addressing those conditions.
+I've invited Tony Milando, our chief supply chain officer, to join us on the call today.
+But first, let me hand over to Sandy to look at the third quarter in more detail, and then we'll turn to a discussion of the market landscape that we see through the end of the year.
+Sandy, over to you.
+Revenue grew 2% organically compared to the prior year.
+Utilities, our largest end market, was down 5% despite continuing strong demand.
+The decline was driven by supply chain impacts on order conversion, especially chip shortages, slowing M&CS deliveries.
+Industrial was up 11%, led by our continued growth in the emerging markets and Western Europe.
+Commercial grew 10%, led by the ongoing recovery in the United States.
+While residential, our smallest end market, was up 4%.
+Geographically, emerging markets was up high single digits with particular strength in Eastern Europe and Latin America.
+Western Europe was up mid-single digits while the U.S. declined modestly.
+As Patrick has mentioned, the team delivered exceptional organic orders growth of 20%, which was broad-based across all segments and regions.
+In fact, year-to-date order volume is higher at this point of the year than in any previous year in company history.
+M&CS led the way with nearly 40% -- 42% orders growth, driven by large smart metering contract wins, the impact of longer lead times, and pent-up demand from the COVID-19-impacted prior year.
+We're exiting the quarter with an overall backlog of about 34%.
+As expected, we are seeing positive momentum on price realization, which will continue ramping through Q4 and into 2022.
+Looking at other key financial metrics.
+Margins were above our forecasted range with EBITDA margins coming in at 17.9%, reflecting strong productivity and good cost control by the team.
+Year over year, EBITDA margin contracted 30 basis points as inflation and strategic investments were largely offset by productivity, price realization, and cost containment.
+Our earnings per share in the quarter was $0.63.
+In Water Infrastructure, orders were up 9% on strength in wastewater transport applications in the U.S. and Western Europe.
+Revenues were up 2% organically.
+The Wastewater Utilities were down modestly, mostly due to delays in ocean shipping.
+Industrial demand was broad-based across all regions.
+And so regionally, emerging markets delivered high single-digit growth, led by increasing industrial dewatering activity.
+Western Europe was also up, driven by resilient wastewater opex spending and recovery in industrial applications.
+The U.S. was down modestly due to the shipping delays I just mentioned.
+EBITDA margin expanded over the prior year as strong productivity savings, price realization, and volume leverage more than offset inflation and investments.
+Please turn now to Slide 6.
+In Applied Water, orders were up 17% organically in the quarter on broad industrial strength and commercial recovery.
+Revenue grew 8% in the quarter from continued commercial momentum and industrial growth in most regions.
+Residential growth moderated slightly due to volume constraints.
+and Western Europe both contributed 6% growth due to the uplift from commercial and industrial.
+Emerging markets were up 13% on continued strength in China and gains in Eastern Europe.
+Segment EBITDA margin contracted 60 basis points compared to the prior year as inflation and the investments to -- more than offset productivity benefits and price realization.
+In M&CS, orders were up 42% organically, as I mentioned a moment ago.
+Our M&CS backlog now stands at roughly $1.6 billion.
+The bidding pipeline remains very active as customer demand for advanced digital technologies accelerates.
+And organic revenue was down 5%, which is a tangible effect of chip shortages.
+Water applications were down modestly as growth in our test and assessment services businesses largely offset lower sales from smart metering.
+So due to the digital composition of our metrology portfolio, it has a greater exposure to chip shortages.
+By geography, Western Europe was up 1% while emerging markets was flat.
+was down mid-single digits.
+Segment EBITDA margin in the quarter was down by 60 basis points compared to the prior year as volume declines from component shortages and higher inflation offset productivity and price realization.
+Our financial position continues to be very strong.
+We closed in the quarter with $1.3 billion in cash after paying down $600 million of debt in the third quarter.
+Free cash flow conversion was 57% in the quarter, in line with our expectations, and we continue to expect full year of free cash flow conversion of 80% to 90%.
+Net debt-to-EBITDA leverage was in 1.3 times at the end of the quarter.
+The team has clearly done a great job delivering a solid quarter's earnings in difficult circumstances.
+I want to give a special shout-out to our sales, service, and supply chain teams.
+They've been really pulling out all the stops to care for our customers despite the unusual challenges.
+Let's turn to the quarter now and look forward.
+Since the supply chain environment has everybody's attention, we want to also provide more detail on what we're seeing and the actions we've been taking so I've asked Tony Milando, our chief supply chain officer, to walk us through that.
+Tony, over to you.
+I'm sure many of you are already familiar with the various dimensions of stress on the supply chain across all sectors.
+Material shortages are having at least some effect on each of the segments with particular challenges in microcontrollers and other chips.
+In addition, logistics times have continued to lengthen and carry reliability is at an all-time low.
+We're also seeing labor tightness in markets where we have significant manufacturing, and particularly in the U.S. Of course, all of this has contributed to inflation across commodities, logistics, and labor.
+We're managing the challenges with both short-term mitigations and longer-term actions.
+In the short term, we're committing freight with carriers nearly two months further ahead than usual.
+We're using these boat options to gain access to smaller ports and thus improve lead times, and we've accelerated value engineering and dual sourcing.
+To create more resilience that's beyond that, we're working directly with our technology manufacturers to firm up allocations well into 2022 and beyond.
+We've dedicated teams to accelerate product redesign rounds around components that are unavailable or nearing the end of life, we're taking advantage of this opportunity to take strategic actions around some SKU rationalization.
+One more thing to mention, albeit with a slightly greater time horizon, there's been a lot of discussion about cross-border supply chains.
+Our developed markets largely depend on global supply chains.
+What we've seen is that in several cases, the current challenges aren't hitting our emerging markets nearly as hard, simply and because we have well-established localization strategies there.
+So to that point, we'll continue to drive our strategy of making where we sell, always evaluating the benefit of shortening domestic supply chain.
+Patrick, that's the overview.
+Of course, I'm happy to go into more detail perhaps in response to questions when we get to Q&A.
+So now turning from supply to demand.
+It's essentially the opposite story.
+Bidding pipelines are very active, orders pace continues to be brisk, and we are not seeing project cancellations.
+We're staying as close to our customers as we are to our suppliers and doing everything we can to keep them served and, in turn, to help them serve their communities.
+Just here in last week, we had about 500 of our customers join us at our annual Xylem Reach User Conference.
+These are utility operators who are at the forefront of digitizing their networks with AMI and advanced analytics.
+What we continue to hear from them is that the value they're getting from these technology deployments continues to grow.
+In the short term, supply constraints are top of mind for about nearly all of them.
+And from their vantage point, they're seeing the same challenges industrywide.
+So they're being patient and staying as flexible as possible.
+On longer-term demand, the trends driving the water sector are more durable than the causes of the supply headwinds.
+One example is the growing market for sustainable solutions.
+A month ago, we announced Xylem's commitment to net zero greenhouse gas emissions and to Science-based targets.
+Over the next two weeks, the water sector will be turning out in force at the COP26 Climate Conference in Glasgow to encourage utilities around the world to do the same.
+Xylem will now be sharing platforms at COP to the utility leaders as they call on their peers to also make net zero commitments with the aim of decarbonizing the entire sector.
+More than 65 water utilities around the world have already done so and it's a movement that's gaining momentum, which is just one reflection of the trend toward technologies that we affordably decarbonize water systems.
+Turning back to the near-term drivers in our end markets, I'm going to hand it back over to Sandy to share some detail on what we're seeing and to lay out our guidance for the balance of the year.
+The full year outlook for our end markets remains largely consistent with our view from last quarter with the exception of utilities.
+In utilities, underlying demand for our technologies continues to be very strong in both wastewater and clean water but in the immediate term, we expect growth will come down from just a range of the mid- to high single digits to flat.
+On the wastewater side, we have seen steady performance in Western Europe on resilient utility opex and continued growth in emerging markets as a result of large capital projects and our localization efforts there.
+Order rates that remain solid in the U.S., but revenue growth is challenged by constraints on volume.
+On the clean water side, demand for smart water solutions and digital offerings continues to be robust.
+However, consistent with our earlier commentary, the impact of chip shortages is particularly acute in the clean water end market.
+Looking at the industrial end market, we continue to anticipate growing in the high single digits.
+The growth is this broad-based with rebounding industrial activity across all segments and most regions.
+We're seeing healthy demand in our industrial dewatering business in emerging markets as well as share gains with some OEMs and its impact of the new product introductions in Western Europe.
+We're also seeing continuing strength in marine and food and beverage, driven by ongoing recovery in outdoor recreation and the hospitality sector.
+We are also maintaining our high to mid-single-digit outlook in the commercial end market.
+The U.S. business continues to recover at a brisk pace as new commercial building begins to ramp, and key leading indicators reflect such optimism for continuing recovery in the institutional sector.
+Sustained growth in Western Europe and China is coming from new product introductions in the -- and energy efficiency mandates.
+In residential, we're maintaining our expectations of low teens growth for the full year on strength of backlog and continuing market momentum.
+For Xylem overall, we now see full year organic revenue growth in the range of 3% to 4%, down from the previous range of 6% to 8%.
+This reflects the adverse effects of chip shortages and other supply chain disruptions that -- this revenue guidance breaks down by segment as follows: for Water Infrastructure, we maintain our expectations of mid-single-digit growth.
+We expect high single-digit growth in Applied Water, down from low double digits.
+And in Measurement & Control Solutions, we now expected to be down mid-single digits rather than up mid-single digits.
+We are now expecting EBITDA margins in the range of 17.1% to 17.4% compared to our previous guidance range of 17.2% to 17.7%.
+This guidance represents full year margin expansion of just roughly 100 basis points.
+Our adjusted earnings per share guidance is now $2.40 to $2.50 which, at the midpoint, reflects a 19% increase in earnings per share over last year.
+Full year 2021 free cash flow conversion is in line with previous guidance at 80% to 90%, putting our three-year average right around 130%.
+We've provided you with the number of other full year assumptions to supplement your models.
+Those assumptions are largely unchanged from our original guidance.
+We have updated our euro to dollar conversion rate assumption for the fourth quarter from 1.18 to 1.16.
+As you know, foreign exchange can be volatile so we've included our typical foreign exchange sensitivity table in the appendix.
+Now before wrapping up, let me share some thoughts on our fourth quarter outlook.
+We anticipate total company organic revenues will be down roughly 4% to 6% in the quarter.
+This includes flattish growth in Water Infrastructure and in the Applied Water, and M&CS down high teens.
+We expect fourth quarter adjusted EBITDA margin to be in the range of 16% to 17%.
+Just in the last couple of days, we've been recognizing Xylem's 10-year anniversary.
+The Xylem ticker started trading a decade ago when the company spun out of ITT.
+Ten years ago, it wasn't nearly as obvious to the market that water was an investable piece, much less than it was about to become a growth sector.
+Our anniversary has been a good reminder to reflect on how much progress we've made.
+I genuinely believe our team has created something special.
+And along the way, we've been creating a lot of value.
+Xylem's total shareholder returns have been nearly double the S&P 500 over the decade.
+But what's most exciting to us are the opportunities that lie ahead.
+The immediate challenge around supply chain are a good reminder that growth rarely happens in a straight line but these trends that are driving demand in the water sector are only intensifying and we're strongly positioned on those trends.
+We have an outstanding purpose-driven team that's passionate about solving the world's water challenges.
+We built technology leadership on the foundation of a durable business model.
+We're benefiting from the growing market for our sustainable solutions and we're driving growth and margin expansion on the back of digitization, all of which underpins our commitment to growth framework that we laid out last month at our Investor Day.
+So I'm confident here in our current market momentum will carry us strongly into 2022 and beyond and keep us on pace to deliver our 2025 strategic and the financial milestones.
+Operator, please lead us into Q&A.

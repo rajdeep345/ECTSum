@@ -1,0 +1,142 @@
+With me on the call are Dr. Jeffrey Graves, our President and Chief Executive Officer; Jagtar Narula, Chief Financial Officer; and Andrew Johnson, Executive Vice President and Chief Legal Officer.
+Actual results may differ materially.
+Nearly one-year ago today, I joined 3D Systems as Chief Executive Officer.
+My reasons for joining were very simple.
+First, I believe that this industry was beginning to enter an exciting growth phase, driven by both maturing of the technologies as well as receptivity of the customer base to industrial scale additive manufacturing.
+Second, I saw the potential for 3D Systems to be a leader in the industry, one that could not only be at the forefront of this industrial renaissance but instrumental in making it happen.
+As excited as I was a year ago when I arrived, those feelings are dwarfed by the enthusiasm I feel today.
+Rather than opening the call with a recap of our financial performance as I usually do, today I'm simply going to let our Q1 results speak for themselves, with Jagtar providing more color for you in a few moments.
+Having taken all these responsibilities last summer, they have performed magnificently, making significant changes in the organization and in the underlying processes that we follow and delivering for our customers each day.
+And doing so while facing unprecedented headwinds from the ongoing COVID crisis, the impact of which is still being felt today.
+So, given that this is my one-year anniversary, I think it's an appropriate time to ask how did we get here.
+And much more importantly, how will we sustain this momentum going forward?
+Our journey started last summer by first establishing a clear strategic purpose for the company, which is to be leaders in enabling additive manufacturing solutions for applications in growing markets, the demand high reliability products.
+We then laid out a simple four-stage plan, which would allow us to live into this purpose.
+They began with reorganization of the company into two business units, Healthcare and Industrial Solutions within restructured operations to gain efficiencies and began the process of divesting non-core assets.
+Then, as these elements gained momentum, we systematically increased our focus on investing for accelerated growth and profitability.
+By focusing intensely on execution of our plan, by the time we entered the New Year, we have returned to growth.
+We were profitable, we were generating cash from operations and we're in a net cash position on the balance sheet.
+And then, the real fun began.
+As we began moving through Q1, the US economy began to reopen, our new products and applications gained momentum and our organic growth accelerated markedly.
+And our profitability and cash from operations increased dramatically as we leveraged our streamline operations.
+Based upon this progress and our long-term outlook, we've set a goal of sustained double-digit organic revenue growth, 50% gross margins and 20% adjusted EBITDA margins, all of which we think are attainable in the years ahead.
+But in an increasingly competitive industry, why should you believe in our future success?
+Well, in addition to delivering on our commitments, which I think we demonstrated again this quarter, what I can tell you is that there are three things that inspire my confidence in our future.
+And I believe they should inspire yours as well.
+First, we clearly by far have the broadest technology portfolio in the industry.
+It includes a full range of metal and polymer printing systems, industry-leading software platforms and an outstanding portfolio of materials for both human and industrial system applications.
+These capabilities, which are so vital to our customer's success, distinguish us from virtually all of our competitors.
+And with our ongoing R&D investments, they're stronger and better than ever.
+Second, I'm convinced that we have the brightest and most creative application engineers in the industry.
+This group of very talented people provide exceptional value to our customers as they work hand-in-hand to introduce advanced systems and components that capitalize on additive manufacturing.
+These applications range from unique medical devices and personalized implants that are so vital to improving patient outcomes in healthcare to unique components that enable the newest generation of commercial rockets for space travel, a revolutionary equipment for the manufacture of semiconductor chips, just to name a few.
+And that list of new applications is growing rapidly every day.
+Third, as one of the largest and most experienced companies in the industry, we have the scale and the infrastructure to not only support our customer's needs when they initially implement additive manufacturing, but also sustain them over the lifetime of their equipment by providing key services and consumables that are vital to their ongoing business success.
+How do we know this formula works?
+Well, as always, the proof is in the numbers.
+Today, our technologies are used to print approximately 0.75 million production components per day 365 days a year.
+That equates to over 250 million components per year and climbing.
+This experience is invaluable as we invest more than ever into our core technologies and drive relentlessly to enable our customer's success.
+In short, at 3D Systems, our goal is to inspire your confidence in us each day, first by delivering on our near-term commitments on growth and profitability, as demonstrated in our numbers today, while setting aggressive but realistic targets for the future.
+As an investor, you need not invest based solely on promises about next year's growth through the one thereafter.
+The market for industrial scale additive manufacturing is here today.
+It's real and it's growing at an exciting rate, particularly as the headwinds from COVID recede.
+So, as I said at the outset of the call, I have never been more excited about our future than I am today.
+Now before I hand off to Jagtar to talk about the quarter, let me spend just a few minutes talking about the investments we're making for growth, some of which were described in our announcements last week.
+First, as you can see in our numbers for Q1, we're seeing rising demand for new applications, particularly in our Healthcare business.
+To meet this demand forecast, we're expanding our Denver, Colorado location by roughly 50%.
+For more than a decade, this operation has supported a range of customers from large industry-leading customers to innovative start-ups and delivering a diverse portfolio of groundbreaking precision healthcare applications and medical technologies.
+From this location, we have supported more than 100 CE marked and FDA-cleared products.
+We've collaborated with surgeons to plan and guide more than 140,000 patient-specific procedures.
+And we've manufactured over 2 million medical device implants in our advanced manufacturing group.
+Through this next phase of investment, which includes putting in place some of our most advanced metal and polymer printing systems and software tools, we'll be able to reduce time to market for new medical applications, continue expanding our product offerings and better support the holistic needs of our growing healthcare customer base.
+The scale we have now obtained in our Healthcare business in Denver provides a marvelous platform for growth, allowing us to maintain our industry-leading solution offerings that target patient-specific applications in growing markets like cranial maxillofacial surgical solutions and an expanding range of orthopedic surgical aids and implants.
+In addition to supporting healthcare-specific growth, our Denver investment will expand the overall capabilities and capacity of our Application Innovation Group.
+As I discussed earlier, this group of application engineers is in the central element of our solutions-oriented approach to customers.
+With deep expertise in hardware, software and materials, this team of engineers helps customers not only demonstrate feasibility of new high value component solutions, but also design the overall workflows necessary to validate the economics of the process, gain regulatory approvals and then moving to full-scale production.
+With expanded customer-facing engineering resources armed with a broad array of technologies and supporting infrastructure, we are well positioned to continue the strong momentum and expanded application development and early stage manufacturing that our customers are seeking.
+In addition to our Colorado investment plans, last week we also announced the acquisition of two technology companies, Allevi and Additive Works.
+These acquisitions have an important role to play in meeting our current and future growth objectives.
+Let me start with the Additive Works acquisition.
+They are a small but extremely talented group of German software engineers and physicists that have developed unique software that simulates the key steps of the additive manufacturing workflow from setup during the component design phase through post-print processing.
+Their sophisticated physics-based algorithms are extremely fast and effective in optimizing the part orientation, the support structure and thermal conditions during printing.
+The result has dramatically reduced setup times and post processing requirements, in conjunction with improved product performance yield and yield.
+Historically, much of this optimization work was done empirically and requiring highly skilled process engineers and operators to optimize the process for each new component.
+The Additive Works simulation software reduces or even eliminates the need for this intensive effort, allowing for a much more rapid introduction of new components and improved economics, performance and reliability of the resulting product.
+The Additive Works software, sold under the name Amphyon, interfaces seamlessly with leading CAD systems as well as our 3DXpert software platform and other major print platforms, which we will continue to support.
+Integrating Additive Works products and expertise into 3D Systems will further enhance our software portfolio and innovation capacity, driving accelerated adoption of additive manufacturing across the industrial and healthcare markets that we serve.
+We expect the deal to close by the third quarter paced by normal German regulatory requirements.
+Moving then to one of the areas that I'm increasingly excited about, the emerging field of regenerative medicine.
+You may remember, on our last earnings call, we talked about the incredible progress our development team under Chuck Hull, working in close partnership with the wonderful folks in United Therapeutics, has made toward the printing of solid human organs.
+While not yet a reality, the promise of this technology is truly extraordinary, offering the hope of meeting the needs for thousands of patients who are desperately waiting on the availability of new lungs, kidneys, livers, hearts and other organs.
+Our commitment to this effort with United Therapeutics continues unabated.
+As an outgrowth of this program, we also announced last quarter that given our strong technology foundation in this emerging field, we would expand our efforts pursuing additional applications for the human body such as printing of bones, arteries and soft tissue, just to name a few.
+We've increased application support this year to pursue these partnerships and hoping the intermediate term to bring these extraordinary products to market.
+In addition to these direct human applications, I'm very excited to announce a further expansion of our focus to include the rapidly emerging market for laboratory applications of bioprinting technology.
+These laboratory applications are being driven by two major objectives; one is the study of regenerative medicine itself in a lab setting, which is increasingly of interest to researchers at major universities and renowned medical institutions around the world.
+The other driver and one that we believe bring substantial growth opportunities for us is with pharmaceutical laboratories who wish to utilize the unique three-dimensional cellular structures produced by bioprinting to accelerate the development of new drugs and drug therapies, some of which may eventually be optimized to accommodate an individual's unique genetic framework.
+In addition to drug development, bioprinting offers unique advantages in the development of cosmetics and other skincare treatments in that human interactions can be directly assessed using three-dimensional bioprinted human tissue constructs, instead of relying upon simulations or animal studies, which are often less effective and bring with them difficult social issues.
+In short, bioprinting for laboratory studies offers the potential for better, faster and safer and more humane development pass for a wide range of human applications.
+For all of these reasons, we're excited to expand our efforts to include these rapidly emerging laboratory applications, which we believe potentially represent a multi-billion-dollar market opportunity that will become available to us over the next several years.
+In support of this effort to expand our regenerative medicine focus into the lab, we were very pleased last week to announce our acquisition of Allevi, a Philadelphia-based developer of bioprinting solutions comprising bioprinters, biomaterials, also known as bioinks, and specialized laboratory software.
+Allevi has established a strong technology base, brand and distribution network for this rapidly emerging market with a presence today in over 380 medical and pharmaceutical laboratories in over 40 countries.
+As a complete solutions provider, Allevi's business model aligns well with 3D Systems and positions us to leverage the technology we've developed for in-vivo applications as well as leveraging the overall scale of our Healthcare business to meet these emerging laboratory application needs.
+When viewed in totality, with the Allevi acquisition completed last week, we're now well positioned across a broad market spectrum ranging from near-term laboratory applications, medium-term human applications and longer-term human solid organ applications in the exciting emerging field of regenerative medicine.
+So, to bring this full circle, let me end by saying how very proud I am of our team's performance in the first quarter of the year as we continue to execute on our four-phase plan that we launched last summer.
+More than ever, I believe that additive manufacturing will play a key role in transforming the way components can be designed and manufactured for critical applications ranging from complex space systems to the human body.
+With our extensive portfolio of additive manufacturing systems, material science, software and domain expertise, 3D Systems is uniquely positioned to help our customers benefit from this transformation.
+For the first quarter, we reported revenue of $146.1 million, an increase of 7.7% compared to the first quarter of 2020.
+Our organic revenue growth, which excludes businesses divested in 2020 and 2021 was 16.6% in Q1 2021 versus Q1 2020.
+We experienced strong product revenues across the portfolio, including printers, both plastics and metals, materials and software.
+We believe this growth emphasizes the strategic nature of our portfolio breadth and validates our solution strategy.
+We reported a GAAP income of $0.36 per share in the first quarter of 2021 compared to a GAAP loss of $0.17 in the first quarter of 2020.
+Driving this improvement was a $32.9 million gain from the sale of the Cimatron and GibbsCAM software business as well as a tax benefit of $8.9 million as a result of the favorable ruling from the IRS regarding a FIN 48 reserve.
+Turning to non-GAAP results.
+We reported non-GAAP income of $0.17 per share in the first quarter of 2021 compared to a non-GAAP loss of $0.04 per share in the first quarter of 2020.
+The exceptional non-GAAP result reflects our strong revenue growth combined with the restructuring and cost optimization activities that we have previously announced.
+Now, we will discuss revenue by market.
+Our Healthcare business had a strong quarter with revenue growing 38.7% year-over-year.
+This growth was fueled by an increase in hardware and material sales in our dental business.
+The large hardware volume, like we saw in Q1, may fluctuate on a quarterly basis, but drives the recurring higher margin material and services revenue, which is a focus of our long-term financial goals.
+Excluding dental applications, revenue for medical applications grew by 9% as we continue to see increased demand for personalized health services and advanced manufacturing of medical devices.
+We recently announced a planned expansion in Denver, Colorado that is intended in part to support the future growth of this business.
+Revenue in our Industrial segment, when we exclude the businesses divested in 2020 and 2021, was up approximately 1% year-over-year as compared to year-over-year declines in prior periods.
+The revenue trend turnaround in our Industrial segment was across our sub-segments such as jewelry and automotive with no single segment driving the results.
+This is a reflection of global economies continuing to recover, albeit at an inconsistent pace from the pandemic-related shutdowns.
+We expect this inconsistency to continue in 2021.
+So while we see a path to full-year double-digit organic revenue growth in our core business, excluding businesses divested in 2020 and 2021, macroeconomic risks such as further COVID-19 impacts, inflation concerns and supply chain shortages in certain critical components like semiconductor chips, continue to create uncertainty.
+Now, we turn to gross margin.
+During the first quarter of 2021, we identified certain costs that have historically been shown as cost of products that actually relate to cost of services.
+Our reported gross profit margins reflect an update to properly present these costs.
+While this resulted in a small movement of cost between products and services, the change not affects our gross profit, bottom line results, consolidated balance sheets or statement of cash flow.
+For Q1 2021, we reported gross profit margin of 44% in the first quarter of 2021 compared to 42.1% in the first quarter of 2020.
+Non-GAAP gross profit margin was 44% compared to 42.7% in the same period last year.
+Gross profit increased year-over-year as a result of higher sales volume mix, including software sales and the impact of our cost reduction activities.
+We are quite pleased with our improved margin performance in Q1, especially when you consider that we divested a relatively high gross margin software business at the beginning of the year.
+In our last earnings call, we said we expect non-GAAP gross profit margins in the range of 40% to 44% for 2021.
+We continue to expect to be in that range on a full-year basis.
+Operating expenses for the quarter were 66.2% on a GAAP basis, a decrease of 12.1% compared to the first quarter of 2020, including a 11.6% decrease in SG&A expenses and a 13.7% decrease in R&D expenses.
+Our non-GAAP operating expenses in the first quarter were $51.2 million, an 18.7% decrease from the first quarter of the prior year as we saw the benefits from our restructuring efforts as well as the impact of divested businesses.
+The primary differences between GAAP and non-GAAP operating expenses are $13.4 million in amortization of intangibles and stock-based compensation.
+Continuing the theme of year-over-year improvement, adjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $19.8 million or $13.6% of revenue compared to $2.2 million or 1.6% of revenue in the first quarter of 2020.
+The improvement is due to stronger gross margins as well as the results from our restructuring efforts.
+We are very pleased with the trend of our EBITDA margins over the past several quarters.
+Driving improvements to margins, adjusted EBITDA and revenue growth is the impetus behind targeted acquisitions like Additive Works and Allevi.
+While they will not be material to 2021 results, these and future acquisitions will be a key component of our long-term strategy to reach double-digit revenue growth, gross profit margins of 50% and adjusted EBITDA margins of 20%.
+Now, let's turn to the cash flow statement and balance sheet.
+Cash on hand increased $48.2 million during the first quarter.
+This increase was primarily driven by the net proceeds from divestitures of $54.7 million and cash generated from operations of $28.5 million, offset by a debt repayment of $21.4 million and other financing and investing uses of cash, including capital expenditures.
+Note that our cash from operations of $28.5 million included the use of approximately $6.6 million of cash for withholding taxes related to the Cimatron sale.
+When factoring together, it is of note that we have substantially improved cash from operations compared to the $2.3 million of cash used in operations in Q1 2020.
+We ended the quarter with a strengthened balance sheet with $133 million of cash and cash equivalents, no debt and nearly full capacity on our $100 million undrawn revolving credit facility.
+We have made a very strong turnaround from this time last year.
+3D Systems is now growing profitably, generating cash and maintaining available liquidity.
+Our combination of growth and profitability is unique to our industry and positions us well to continue to invest in high growth areas that will support our long-term financial goals.
+Our solid financial profile makes us the partner-of-choice for customers that are considering as solutions provider for their most critical manufacturing processes.
+We are excited about the opportunity for our business and our plans to deliver against our long-term objectives.
+To continue to provide more detail to the investment community on our strategy, we plan to hold an Investor Day in the Denver, Colorado area on September 9.
+We'll provide more details as we get closer to the event.
+Again, I just want to say how pleased I am with our results and our return to year-over-year growth, our continued profitability improvements, the strength of our balance sheet and our strong cash generation performance.
+With intentional action taken on our four-phased plan, we're reinforcing our leadership in this exciting industry.
+We plan to continue looking for opportunities to optimize our resources, divesting or investing as needed to support sustained exciting growth and profitability.
+Kevin, let's open it up.

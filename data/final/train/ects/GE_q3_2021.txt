@@ -1,0 +1,270 @@
+I'm joined by chairman and CEO, Larry Culp; and CFO, Carolina Dybeck Happe.
+As described in our SEC filings and on our website, those elements may change as the world changes.
+With that, I'll hand the call over to Larry.
+Our team delivered another strong quarter as orders, margins and cash improved.
+While the aviation market is showing continued signs of recovery and contributed to the quarter, our focus on continuous improvement and lean is driving broader operational and financial progress.
+At the same time, we're managing through significant challenges that we'll discuss further today.
+Starting with the numbers on Slide 2.
+Orders were robust, up 42%, with growth in all segments in both services and equipment, reflecting continued demand for our technology and solutions and better commercial execution.
+Industrial revenue was mixed.
+We saw a continued strength in services, up 7% organically.
+Aviation improved significantly, benefiting from the market recovery.
+Equipment was down 9% organically, largely due to supply chain disruptions, the Ford ventilator comparison in healthcare, and as expected, lower power equipment.
+Adjusted Industrial margin expanded 270 basis points organically, largely driven by operational improvement in many of our businesses, growth in higher-margin services at Aviation and Power, and net restructuring benefits.
+Adjusted earnings per share was up significantly, driven by Industrial.
+Industrial free cash flow was up $1.8 billion ex discontinued factoring programs due to better earnings, working capital, and the short-term favorable timing impact of aircraft delivery delays.
+Overall, I'm encouraged by our performance, especially at Aviation.
+Let me share what gives me -- gives us confidence there.
+First, our results reflect a significant improvement in near-term market fundamentals.
+Departure trends are better than the August dip and have recovered to down 23% of '19 levels.
+We expect this acceleration in traffic to continue as travel restrictions lift and vaccination rates increase.
+Our results also reflect operating improvements.
+For example, at Aviation's overhaul shops, our teams have used lean to increase turnaround time by nearly 10% and decrease shop inventory levels by 15% since the fourth quarter of 2020.
+These improvements are enabling us to get engines back to customers faster and at a lower cost.
+No business is better positioned than GE Aviation to support our customers through the coming up cycle.
+We're ready with the industry's largest and youngest fleet, while we continue to invest for the next generation with lower carbon technologies, such as the CFM RISE program.
+This platform will generate value for decades to come.
+We're also clearly navigating headwinds as we close this year and look to 2022.
+We're feeling the impact of supply chain disruptions in many of our businesses, with the largest impact to date in Healthcare.
+Based on broader industry trends, we expect companywide pressure to continue, at least into the first half of next year.
+Our teams are working diligently to increase supply by activating dual sources, qualifying alternative parts, redesigning and requalifying product configurations, and expanding factory capacity.
+We're also focused on margins as we deploy lean to decrease inventory and costs as well as implement appropriate pricing actions and to reduce select discounts.
+Our C team -- our CT team in Japan, for example, has been experiencing higher customer demand, so we're making our production even more efficient to help offset the challenge of delayed inputs.
+The team used value stream mapping, standard work and quarterly Kaizens to reduce production lead time once parts are received by more than 40% from a year ago.
+And there's line of sight there to another 25% reduction by the end of the year.
+While this is a single example within Healthcare, taken together with other efforts, and over time, these add up.
+At renewables, we're encouraged by the U.S. administration's commitment to offshore wind development.
+production tax credit extension is creating uncertainty for customers and causing much less U.S. market activity in preparation for 2022.
+As we've shared, a blanket extension, while a well-intended policy, has the unintended consequence of pushing out investment decisions.
+In our business, given the lag between orders and revenue, the impact will continue through the fourth quarter and into '22.
+This environment, along with inflation headwinds picking up next year, makes renewables' ongoing work to improve cost productivity even more urgent.
+Given these puts and takes, we now expect revenue to be about flat for the year, driven by changes to some of our business outlooks, which Carolina will cover in a moment.
+Importantly, even with lower revenue, we're raising our margin and earnings per share expectations, underscoring improved profitability and services growth, and reflecting our strengthened operations.
+And we're narrowing our free cash flow range around the existing midpoint.
+Looking further out to next year, as our businesses continue to strengthen, we expect revenue growth, margin expansion, and higher free cash flow despite the pressures that we're managing through currently.
+We'll provide more detail as usual during our fourth quarter earnings and outlook call.
+Moving on to Slide 3.
+Challenges aside, our performance reflects the continued progress in our journey to become a more focused, simpler, stronger, high-tech industrial.
+The GECAS and AerCap combination is a tremendous catalyst, enabling us to focus on our industrial core and accelerate our deleveraging plan.
+Just last week, GE and AerCap satisfied all regulatory clearances for the GECAS transaction.
+And we're now targeting to close November 1.
+We'll use the proceeds to further reduce debt, which we now expect to reach approximately $75 billion since the end of 2018.
+This is enabling GE to look longer term even as we execute our deleveraging.
+As we accelerate our transformation, lean and decentralization are key to improving operational results.
+This quarter, we hosted our global Kaizen week in each of our businesses, with over 1,600 employees participating.
+John Slattery, the CEO of GE Aviation, and I joined our Military team in Lynn, Massachusetts for the full week, while our business CEOs joined their teams across the globe.
+Lean is fundamentally about going to Gemba, where the real work is done, and is best learned in operations where you can see it, touch it, smell it firsthand.
+And in Lynn, we were there to serve those closest to the work, our operators.
+Our mission was to improve first-time yield on midframes, a key subassembly of the military engines we produce in Lynn, whose stubborn variability has been directly and negatively impacting our on-time delivery.
+By the end of the week, we had improved processes for welding and quality checks on midframe parts, improvements that we're convinced will help us reach our goals for military on-time delivery by the middle of next year, if not earlier.
+And we can improve our performance on the back of these changes for years to come.
+There are countless other examples of how our teams are leveraging lean to drive sustainable, impactful improvements in safety, quality, delivery, cost, and cash.
+They reflect how we're running GE better and how we're sustaining these efforts to drive operational progress and lasting cultural change.
+Our significant progress on deleveraging and operational execution sets us up well to play offense in the future.
+Our first priority of course, is organic growth.
+This starts with improving our team's abilities to market, sell, and service the products we have.
+There are many recent wins across GE this quarter, but to highlight one, our Gas Power team delivered, installed, and commissioned four TM2500 aeroderivative gas turbines in only 42 days to complement renewable power generation for California's Department of Water Resources during peak demand season.
+These turbines, using jet engine technology adapted for industrial and utility power generation, start and ramp in just minutes, providing rapid and reliable intermittent power, helping enhance the flexibility and sustainability of California's grid.
+And we're bolstering our offerings with innovative new technology that serves our customers and leads our industries forward.
+For example, at renewables, our Haliade-X offshore wind turbine prototype operating in the Netherlands, set an industry record by operating at 14 megawatts, more output than has ever been produced by any wind turbine.
+From time to time, we'll augment our organic efforts with inorganic investments.
+Our recently announced acquisition of BK Medical represents a step forward as we advance our mission of precision healthcare.
+Bringing BK's intraoperative ultrasound technology together with the pre and postoperative capabilities in our Ultrasound business creates a compelling customer offering across the full continuum of care, from diagnostics, through surgical, and therapeutic interventions as well as patient monitoring.
+Not only does BK expand our high-performing $3 billion Ultrasound business, but it also is growing rapidly with attractive margins itself.
+We expect the transaction to close in '22, and I'm looking forward to welcoming the BK team to GE.
+All told, we hope that you see that GE is operating from a position of strength today.
+We delivered another strong quarter, and we're playing more offense, which will only accelerate over time.
+We're excited about the opportunities ahead to drive long-term growth and value.
+Our results reflect our team's commitment to driving operational improvement.
+We're leveraging lean across GE and our finance function.
+In addition to Kaizen week that Larry mentioned, over 1,800 finance team members completed a full waste work week, applying lean and digital tools to reduce nonvalue-added work by 26,000 hours and counting.
+For example, at renewables, our team streamlined and automated account reconciliations, intercompany settlements and cash applications.
+This type of transactional lean frees up time so we can focus more on driving higher-quality, faster operational insights and improvement, helping our operating teams run the businesses more efficiently.
+Looking at Slide 4, I'll cover on an organic basis.
+Orders were robust, up 42% year over year and up 21% sequentially on a reported basis, building on revenue momentum heading into '22.
+Equipment and services in all businesses were up year over year, with strength in Aviation, renewables and Healthcare.
+We are more selective in the commercial deals we pursue, with a greater focus on pricing in an inflation environment, economic terms and cash.
+Together with targeting more profitable segments like services, we're enhancing order quality to drive profitable growth.
+Revenue was up sequentially, with growth in services, driven by Aviation and Power, but down year over year.
+Equipment revenue was down, with the largest impact in Healthcare and Power.
+Overall, mix continues to shift toward higher-margin services, now representing half of the revenue.
+Adjusted Industrial margins improved sequentially, largely driven by aviation services.
+Year over year, total margins expanded 270 basis points, driven by our lean efforts, cost productivity, and services growth.
+Both Aviation and Power delivered margin expansion, which offset the challenges in Healthcare and renewables.
+Consistent with the broader market, we are experiencing inflation pressure, which we expect to be limited for the balance of '21.
+Next year, we anticipate a more challenging inflation environment.
+The most adverse impact is expected in onshore wind due to the rising cost of transportation and commodities, such as steel and resin, impacting the entire industry.
+We are taking action to mitigate inflation in each of our businesses.
+Our shorter-cycle businesses felt the impact earliest, while our longer-cycle businesses were more protected given extended purchasing and production cycles.
+Our service businesses fall in between.
+Our teams are working hard across functions to drive cost countermeasures and improve how we bid on businesses, including price escalation.
+Finally, adjusted earnings per share was up 50% year over year, driven by Industrial.
+Overall, we're pleased with the robust demand, evidenced by orders growth and our year-to-date margin performance.
+While we're navigating headwinds caused by supply chain and PTC pressure, these have impacted our growth expectations.
+We're now expecting revenue to be about flat for the year.
+However, due to our continued improvement across GE, we are raising our '21 outlook for organic margin expansion to 350 basis points or more and our adjusted earnings per share to a range of $1.80 to $2.10.
+A major focus of our transformation has been strengthening our cash flow generation through better working capital management and improved linearity, ultimately to drive more consistent and sustainable cash flow.
+Our quarterly results show the benefits of these efforts.
+Industrial free cash flow was up $1.8 billion ex discontinued factoring programs in both years.
+Aviation, Power, and Healthcare all had robust free cash flow conversion in the quarter.
+Cash earnings, working capital, and allowance and discount payments, or AD&A, driven by the deferred aircraft delivery payment, contributed to this significant increase.
+Looking at working capital, I'll focus on receivables, where we saw the largest operational improvement.
+Receivables were a source of cash, up $1.3 billion year over year ex the impact of discontinued factoring, mainly driven by Gas Power collections.
+Overall, strengthening our operational muscles in billings and collections is translating into DSO improvement, as evidenced by our total DSO, which is down 13 days year over year.
+Also positively impacting our free cash flow by about $0.5 billion in the quarter was AD&A.
+Given the year-to-date impact and our fourth quarter estimate aligned with the current airframer aircraft delivery schedule, we now expect positive flow in '21, about $300 million, which is $700 million better than our prior outlook.
+This year's benefit will reverse in 2022, and together with higher aircraft delivery schedule expectations, will drive an outflow of approximately $1.2 billion next year.
+To be clear, this is a timing issue.
+You'll recall that we decided to exit the majority of our factoring programs earlier this year.
+In the quarter, discontinued factoring impact was just under $400 million, which was adjusted out of free cash flow.
+The fourth quarter impact should be under $0.5 billion, bringing our full-year factoring adjustment to approximately $3.5 billion.
+Without the factoring dynamics, better operational management of receivables have become a true cross-functional effort.
+Let me share an example.
+Our Steam Power team recently shifted to this from a more siloed approach.
+Leveraging problem solving and value stream mapping, they have reduced average billing cycle time by 30% so far.
+So only two quarters in, more linear business operations, both up and downstream, are starting to drive more linear billings and collections.
+While we have a way to go, more linear business operations drive better and sustainable free cash flow.
+Year to date, ex discontinuing factoring across all quarters, free cash flow increased $4.8 billion year over year.
+In each of our businesses, our teams are driving working capital improvement, which together with higher earnings make a real and measurable impact.
+Taking the strong year-to-date performance, coupled with the headwinds we've described, we're narrowing our full-year free cash flow range to $3.75 billion to $4.75 billion.
+Turning to Slide 6.
+We expect to close the GECAS transaction on November 1.
+This strategic transaction not only deepens our focus on our industrial core, but also enables us to accelerate our debt reduction, with approximately $30 billion in consideration.
+Given our deleveraging progress and cash flow improvement to date, plus our expected actions and better pass-through performance, we now expect a total reduction of approximately $75 billion since the end of 2018.
+GE will receive a 46% equity stake in one of the world's leading aviation lessors, which we will monetize as the aviation industry continues to recover.
+As we've shared, we expect near-term leverage to remain elevated.
+And we remain committed to further debt reduction and our leverage target over the next few years.
+On liquidity, we ended the quarter with $25 billion of cash.
+We continued to see significant improvement in lowering GE's cash needs, currently at $11 billion, down from $13 billion in the quarter, taking this decrease due to reduced factoring and better working capital management.
+This is an important proof point that we are able to operate with lower and more predictable cash needs, creating opportunities for high-return investments.
+Moving to the businesses, which I'll also speak to on an organic basis.
+Our improved results reflect a significantly stronger market.
+Departure trends recovered from August.
+It's early, but the pickup that began in September is continuing through October.
+Better departures and customer confidence contributed to higher shop visits and spare part sales than we had initially anticipated.
+The impact of green time utilization has also lessened.
+We expect these positive trends will continue into the fourth quarter.
+Orders were up double-digits.
+Both commercial engines and services were up substantially again year over year.
+Military orders were also up, reflecting a large Hindustan Aeronautics order for nearly 100 F404 engines along with multiple T700 orders.
+For revenue, Commercial Services was up significantly, with strength in external spares.
+Shop visit volume was up over 40% year over year and double-digits sequentially, with the overall scope slightly improved.
+We continued to see higher concentration of narrowbody and regional aircraft shop visits.
+Commercial Engines was down double-digits with lower shipments.
+Our mix continues to shift from legacy to more NPI units, specifically LEAP, and lower production rates on GEnx.
+We're also navigating through material fulfillment constraints, amplified by increased industry demand, which impacted deliveries.
+Military was down marginally.
+Unit shipments were flat sequentially, but up year over year.
+Without the delivery challenges, Military revenue growth would have been high single-digits this quarter.
+Given this continued impact, Military growth is now expected to be negative for the year.
+Segment margin expanded significantly, primarily driven by Commercial Services and operational cost reduction.
+In the fourth quarter, we expect margins to continue to expand sequentially, achieving our low double-digit margin guide for the year.
+We now expect '21 shop visits to be up at least mid-single-digit year over year versus about flat.
+Our solid performance, especially in services, underscores our strong underlying business fundamentals as the commercial market recovers.
+Market momentum is driving very high demand while we navigate supply chain constraints.
+Government and private health systems are investing in capital equipment to support capacity demand and to improve quality of care across the market.
+Building on a 20-year partnership, we recently signed a 5-year renewal to service diagnostic imaging and biomedical equipment with HCA Healthcare, one of the nation's leading providers of healthcare.
+Broadly, we're adapting to overarching market needs of health system efficiency, digitization as well as resiliency and sustainability.
+Against that backdrop, orders were up double-digits, both year and versus '19, with strength in Healthcare Systems up 20% year over year, and PDx up high single-digits.
+However, revenue was down with a high single-digit decline at HCS, more than offsetting the high single-digit growth we saw at PDx.
+You'll recall that last year, the Ford ventilator partnership was about $300 million of Life Care Solutions revenue.
+This comp negatively impacted revenue by six points.
+And thinking about the industrywide supply shortages, we estimate that growth would have been approximately nine points higher if we were able to fill our orders.
+And these challenges will continue into at least the first half of '22.
+Segment margin declined year over year, largely driven by higher inflation and lower Life Care Solutions revenue.
+This was partially offset by productivity and higher PDx volume.
+Even with the supply chain challenges, we now expect to deliver close to 100 basis point of margin expansion as we proactively manage sourcing and logistics.
+Overall, we're well positioned to keep investing in future growth, underscoring our confidence in profit and cash flow generation.
+We're putting capital to work differently than in the past, supplementing organic growth with inorganic investments that are a good strategic fit.
+These are focused on accelerating our precision health mission, like BK Medical.
+And we're strengthening our operational and strategic integration muscles.
+At renewables, we're excited by our long-term growth potential, supported by new technologies like Haliade-X and Cypress and our leadership in energy transition despite the current industry headwinds.
+Looking at the market, since the second quarter, the pending PTC extension has caused further deterioration in the U.S. onshore market outlook.
+Based on the latest WoodMac forecast for equipment and repower, the market is now expected to decline from 14 gigawatts of wind installments this year to approximately 10 gigawatts in 2022.
+This pressures orders and cash in '21.
+In Offshore Wind, global momentum continues, and we're aiming to expand our commitment pipeline through the decade.
+And modernizing the grid is a key enabler of the energy transition.
+And we saw record orders, driven by offshore, where the project-driven profile will remain uneven.
+This leads to continued variability for progress collection.
+Onshore orders grew modestly, driven by services and international equipment, partially offset by lower U.S. equipment due to the PTC dynamics.
+Services was the main driver, largely due to fewer onshore repower deliveries.
+Ex repower, onshore services was up double-digits.
+Equipment was down to a lesser extent, driven by declines in the U.S. onshore and grid.
+This was partially offset by continued growth in international onshore and offshore.
+For the year, we now expect revenue growth to be roughly flat.
+Segment margin declined 250 basis points.
+Onshore was slightly positive, but down year over year.
+repower volume, mix headwinds as new products ramp and come down the cost curve as well as supply chain pressure.
+Offshore margins remain negative as we work through legacy projects and continue to ramp Haliade-X production.
+At grid, better execution was more than offset by lower volume.
+Due mainly to the PTC impact, we now expect renewables free cash flow to be down and negative this year.
+Looking forward, where we are facing headwinds, we're intently focused on improving our operational performance, profitability, and cash generation.
+Looking at the market, global gas generation was down high single-digits due to price-driven gas-to-coal switching.
+Yes, you heard me right, gas to coal switching.
+However, GE gas turbine utilization continues to be resilient as megawatt hours grew low single-digits.
+Despite recent price volatility, gas continues to be a reliable and economic source of power generation.
+Over time, as more baseload coal comes offline and with the challenges of intermediate renewables power, customers continue to need gas.
+Through the next decade, we expect the gas market to remain stable, with gas generation growing low single digits.
+Orders were driven by Gas Power services, aero, and steam, each up double-digits.
+Gas equipment was down despite booking six more heavy-duty gas turbine as timing for HAs remain uneven across quarters.
+We continued to stay selective with disciplined underwriting to grow our installed base.
+And this quarter, we booked orders for smaller-frame units.
+Demand for aeroderivative power continues.
+For the year, we expect about 60 unit orders, up more than five times year over year.
+Revenue was down slightly.
+Equipment was down due to reduced turnkey scope at Gas Power and the continued exit of new build coal at steam.
+Consistent with our strategy, we are on track to achieve about 30% turnkey revenue as a percentage of heavy-duty equipment revenue this year, down from 55% in 2019, a better risk-return equation.
+At the same time, Gas Power shipped 11 more units year over year.
+Gas Power services was up high single-digits, trending better than our initial outlook due to strong CSA volume.
+We now expect Gas Power services to grow high single-digits this year.
+Steam services was also up.
+Margins expanded year over year, yet were down sequentially due to outage seasonality.
+Gas Power was positive and improved year over year, driven by services growth and aero shipments.
+We remain confident in our high single-digit margin outlook for the year.
+Steam is progressing through the new build coal exit.
+And by year-end, we expect our equipment backlog to be less than $1 billion compared to $3 billion a year ago.
+Power Conversion was positive and expanded in the quarter.
+Overall, we're encouraged by our steady performance.
+Power is on track to meet its outlook, including high single-digit margins in '23 plus.
+Our team is focused on winning the right orders, growing services, and increasing free cash flow generation.
+Moving to Slide 8.
+As a reminder, following the GECAS close in the fourth quarter, we will transition to one column reporting and roll in the remainder of GE Capital into Corporate.
+Going forward, our results, including adjusted revenue, profit, and free cash flow, will exclude insurance.
+To be clear, we'll continue to provide the same level of insurance disclosures.
+At Capital, the loss in continuing operations was up year over year, driven primarily by a nonrepeat of prior year tax benefit, partially offset by the discontinuation of the preferred dividend payment.
+At Insurance, we generated $360 million net income year to date, driven by positive investment results and claims still favorable to pre-COVID levels.
+However, this favorable claim trends are slowing in certain parts of the portfolio.
+As planned, we conducted our annual premium deficiency test, also known as the loss recognition test.
+This resulted in a positive margin, with no impact to earnings for a second consecutive year.
+The margin increase was largely driven by a higher discount rate, reflecting our investment portfolio realignment strategy, with a higher allocation toward select growth assets.
+Claims costs curve continued to hold.
+In addition, the teams are preparing to implement the new FASB accounting standard, consistent with the industry, and we're working on modeling updates.
+Based on our year-to-date performance, Capital still expects a loss of approximately $500 million for the year.
+In discontinued operations, Capital reported a gain of about $600 million, primarily due to the recent increase in AerCap stock price, which is updated quarterly.
+Our priorities are to reduce functional and operational costs as we drive leaner processes and embrace decentralization.
+The results are flowing through, with costs down double-digits year over year.
+We are now expecting Corporate costs to be about $1 billion for the year, and this is better than our prior $1.2 billion to $1.3 billion guidance.
+As you can see, lean and decentralization aren't just concepts.
+They are driving better execution and cultural change.
+They are supporting another strong quarter.
+They are enabling our businesses to play more offense.
+And ultimately, they're driving sustainable, long-term profitable growth.
+Now Larry, back to you.
+Our teams continued to deliver strong performance.
+We're especially encouraged by our earnings improvement, which makes us confident in our ability to deliver our outlook for the year.
+You've seen today that our transformation to a more focused, simpler, stronger, high-tech industrial is accelerating.
+We're on the verge of closing the GECAS-AerCap merger, a tremendous milestone for GE.
+Stepping back, our progress has positioned us to play offense.
+We just wrapped up our annual strategic reviews with nearly 30 of our business units.
+These complement our quarterly operating reviews, but have a longer-term focus as we answer two fundamental questions: What game are we playing?
+And how do we win?
+These reviews were exceptionally strong this year across the board, with the most strategic and cross-functional thinking we've seen in my three years, enabling us to drive long-term growth and value across GE, while delivering on our mission of building a world that works.
+We're positioned to truly shape the future of flight with new technology for sustainability and efficiency, such as the recent Catalyst engine launch, the first clean sheet turboprop design entering the business in general aviation market in 50 years.
+Touching one billion patients per year, we're delivering more personalized and efficient care through precision health and combining digital AI within our products, including our new cloud-based Edison TruePACS, to help radiologists adapt to higher workloads and increased exam complexity with improved diagnostic accuracy.
+Through our leadership in the energy transition, we're helping the world tackle the trilemma of sustainability, affordability and reliability from launching new tech platforms at renewables, such as the Haliade-X and Cypress, to our recently announced flexible transformer project with the Department of Energy, to growth in the world's most efficient gas turbines.
+To be clear, we still have work to do.
+And as we do it, we're operating increasingly from a position of strength, serving our customers in vital global markets with a focus on profitable growth and cash generation.
+Our free cash flow will continue to grow toward a high single-digit percentage of sales level.
+And we have an opportunity to allocate more resources on capital deployment to support GE's growth over time.
+Steve, with that, let's go to questions.
+[Operator instructions] John, can you please open the line?

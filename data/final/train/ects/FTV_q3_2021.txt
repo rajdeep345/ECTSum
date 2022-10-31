@@ -1,0 +1,108 @@
+Information required by SEC Regulation G relating to these non-GAAP financial measures are available on the Investors section of our website, www.
+Fortive.com, under the heading, Investors Quarterly Results.
+We completed the separation of our prior Industrial Technologies segment through the spin-off of Vontier Corporation on October 9, 2020.
+And have accordingly included the results of the Industrial Technologies segment as discontinued operations.
+All references to period-to-period increases or decreases and financial metrics are year-over-year on a continuing operations basis.
+Early in the third quarter, Fortive celebrated its fifth anniversary as an independent public company.
+This quarter, we continue to demonstrate the success of the strategy we outlined in 2016 to enhance growth and margins across our businesses through the successful execution of the Fortive Business System, the acceleration of innovation and the impact of disciplined capital allocation.
+Our third quarter results were highlighted by 32% growth in adjusted earnings per share.
+We continue to generate significant revenue momentum throughout the quarter, realizing 9.1% core revenue growth and order growth of just over 20% against the backdrop of strong broad-based demand.
+Strong execution and application of FBS helped to generate 325 basis points of core operating margin expansion, along with very strong free cash flow despite widespread supply chain disruption.
+In the third quarter, our software businesses grew by low-double-digits, supported by strong demand and improving net dollar retention.
+In total, we now have almost $750 million of annualized software revenue across the portfolio with double-digit organic growth profile as well as a high share of recurring revenue and high operating margins.
+In August, we closed the acquisition of service channel, adding another differentiated high growth software asset to our Intelligent Operating Solution.
+The service channel acquisition significantly enhances our strategic position in the facility and asset lifecycle market, extending our leading suite of offerings for facility owners and operators and providing a variety of potential avenues to deliver unique value added solutions in combination with Gordian and Accruent.
+As you can see on slide four, across Fortive, we continue to invest in product development to drive organic growth and enhance our competitive position.
+Many of our investments in organic innovation are focused on enabling digital transformation across our customer base.
+This includes vertically tailored software offerings at Tektronix and Fluke Health, emerging IoT solutions in sensing as well as early progress with new tools for improved workforce management at TeamSense.
+In addition, our investment can afford continue to drive data analytics and machine learning opportunities across all of our businesses.
+Our success and accelerating the pace of innovation across our portfolio is demonstrated by example, such as the Fluke ii900, a groundbreaking product which was recently recognized as test measurement inspection product of the year at the 2021 electronics industry awards.
+We continue to build the strength of our talent base to accelerate progress across Florida.
+This quarter, we announced a number of important additions and promotions to the senior leadership team, including the appointment of Olumide Soroye as President and CEO of Intelligent Operating Solutions, the promotion of Tami Newcombe to President and CEO of Precision Technologies and the promotions of Justin McElhattan and Bill Pollak to Group President roles within iOS.
+These moves highlight how we are building leadership capacity through a combination of internal development and external hires aimed at adding differentiated skill sets and experiences to our senior team.
+With Olumide and Tami as well as Pat Murphy now leading advanced healthcare solutions, we have significantly increased the depth of our leadership within all three of our segments.
+Turning to a quick summary of the results in the quarter on slide five.
+We generated year-over-year total revenue growth of 12%, core growth of 9.1% and orders growth of just over 20% with backlog increasing by 40% year-over-year.
+Adjusted operating margin was 22.8%, while adjusted earnings per share with $0.66, representing a year over year increase of 32%.
+The strong adjusted operating margin performance helped us to deliver $252 million of free cash flow, which represented 105% conversion of adjusted net earnings.
+On slide six, we take a closer look at the intelligent operating solution segment.
+iOS posted total revenue growth of 16.6% in the third quarter with core growth of 13.1%.
+This included low teens growth in North America, high teen's growth in Western Europe and mid single digit growth and China.
+Fluke's core revenue increased by mid teens with very strong demand trends continuing across its end markets and major geographies.
+Fluke's performance was highlighted by high teen's revenue growth at Fluke industrial, which also generated order growth of greater than 20%.
+Fluke's industrial imaging business continues to perform well paced by momentum from innovation across its acoustic imaging product lines, which doubled year-over-year in the third quarter.
+Fluke Network had a very strong quarter driven by innovation such as Link IQ product line.
+Fluke's efforts to expand its recurring revenue base sought further progress in Q3, including strong performance across both its service offerings and an email which generated high teens growth in revenue and fast bookings for the quarter.
+The combination of robust order growth and supply chain constraints in Q3 led to strong backlog that we're carrying into the fourth quarter and 2022.
+Industrial scientific revenue increased by mid teens, as instruments and rental business continued their strong recovery.
+The ISC team has done an excellent job using FBS tools to accelerate product redesign initiatives, which have helped alleviate component supply challenges and limit impact on delivery times to customers.
+Intelex grew by mid teens and posted another record revenue quarter.
+Intelex is seeing solid FPS driven improvements in its upsell process to support higher net dollar retention.
+Also in Q3 intellect signed an exclusive partnership deal with data Moran [Phonetic], which enables Intelex customers to manage their full lifecycle of their ESG strategy including materiality analysis and risk identification.
+Accruent grew by low single digits in the third quarter while seeing strong bookings greater than 20%.
+This booking strength was paced by continued demand for occurrence Meridian engineering, document management, and maintenance connection CMF offerings.
+Accruent also continues to see strong demand for its EMS event, workspace and resource scheduling solution to support emerging hybrid office models as customers execute their return to work plans.
+Among the notable new customer wins for the EMS solution in Q3 were several leading global financial services providers.
+Accruent and also continue to see improve performance in its professional services business, which generated low double digit growth.
+Gordian increased by mid teens with strong growth in procurement and in estimating in the third quarter Gordian continued to see increasing project volume as well as higher average dollars per project.
+Gordian has also seen success from its expansion into healthcare with significant demand for its facility solutions from hospital customers.
+After completing the acquisition of service channel at the end of August, we are obviously early in our ownership but we're very pleased with what we've seen thus far and are excited to have them join Florida.
+Specifically service channel continues to demonstrate strong momentum in its large enterprise retail business, with several large customer wins in Q3, including Walgreens, which will roll out automation software across their more than 10,000 locations, and the third largest mobile carrier in North America as they transform their facility management program.
+Moving to slide seven.
+The Precision Technology segment posted a total revenue increase of 8.9% in the third quarter, with core growth of 7.7%.
+This included high single digit growth in North America and high teens growth in Western Europe.
+China grew low single digits but saw strong continued momentum and demand with double digit order growth in the quarter.
+Tektronix through high single digits with strong demand trends across its product portfolio and double digit order growth.
+Growth was led by the performance of its mainstream oscilloscope, with a greater than 30% increase supported by new extensions to the six series MSO product line.
+Tektronix continued to see traction from its efforts to expand in data centers and other related wired communications applications, delivering a number of key customer wins, including Lenovo and Ericsson.
+Throughout the third quarter, Tektronix did an excellent job deploying FBS countermeasures to navigate sustained supply chain challenges while also delivering significant price realization.
+Even with the strong execution, given the continued robust pace of demand from its customers, Tektronix increased its backlog by more than 70% versus a year ago.
+Sensing Technologies increased by low double digits in the third quarter.
+Sensing reported strong growth across each of its major regions with robust order momentum across its key end markets.
+Setra registered additional market share gains with its HVAC offerings in Q3 and continues to generate strong growth across a range of critical environment applications, including hospital isolation rooms and pharmaceutical manufacturing.
+Pacific Scientific EMC grew by mid-single digits, including improved momentum across its commercial customer base.
+Pay continues to see significant growth opportunities in its aircraft and space end markets with strong momentum across its critical safety technology offerings.
+Moving to Advanced Healthcare Solutions on slide eight, total revenue increased 9.3%, while core revenue increased 4.7%.
+This included mid-single-digit growth in North America and low single-digit growth in China.
+Western Europe saw high-teens decline based on a difficult prior year comp at Invetec, partially offset by strong growth at ASP and Fluke Health.
+ASP grew by low single-digits in the third quarter, highlighted by a strong capital equipment performance, including low double-digit growth in terminal sterilization capital.
+ASP continues to benefit from the solid sales execution driving the consistent expansion of its global installed base.
+Consumables revenue grew by low single-digits, led by high single-digit increase across all geographies outside of the United States.
+In the U.S., the spike in COVID-related hospitalizations, led to a notable decline in elective procedure volumes toward the end of the quarter, resulting in global electric procedures at approximately 88%, of pre-COVID levels for the period.
+While we expect only nominal improvement in electric procedure volume in Q4, longer term, we expect ASP's consumable revenue will benefit from procedure volume normalization and growth in its global installed base.
+Census increased in the low 40% range, highlighted by very strong growth in professional services and related hardware.
+It CensiTrac SaaS offering, grew mid-teens as it continued to benefit from new customer additions as well as good momentum with up-selling and cross-selling to existing customers.
+Censis continues to have open access to customer sites.
+And saw strong sustained order growth throughout the quarter.
+Fluke Health Solutions increased by high single-digits with continued strength in North America and Western Europe, tied to market share gains with OEM customers through the continued deployment of FBS growth tools.
+FHS executed very well throughout the quarter, driving significant price realization and managing through supply chain constraints to open new market opportunities.
+FHS continues to benefit from partnership efforts with the Ford, driving lower customer churn at Landauer using the Ford's predictive modeling tools.
+The company continues to see good early traction from software innovation efforts with 30% growth year-over-year in Q3.
+Invetech declined by mid-single digits, which was better than expected against the tough prior year comp that included significant COVID-related tailwinds.
+The company continues to see strong demand across the diagnostics and life science verticals.
+And expect to end the year with significant order momentum and a healthy backlog to carry into 2022.
+With that, I'll pass it over to Chuck, who will take you through some additional details on our margins, free cash flow and balance sheet.
+We delivered another quarter of strong margin performance in Q3, using FBS tools to deliver strong pricing and successful value engineering to implement component substitutions across a variety of hardware businesses.
+This FBS execution and the continued strength of our software businesses helped deliver adjusted gross margins of 57.3%, in Q3.
+This reflects 90 basis points of expansion on a year-over-year basis, as we accelerated to 220 basis points of total price realization.
+Q3 adjusted operating profit was 22.8%, reflecting solid execution across the portfolio, including counter measures enacted in the face of ongoing supply chain challenges.
+We had strong margin performance across all of our segments, resulting in 325 basis points of core operating margin expansion.
+On slide nine, you can see that in the third quarter, we generated $252 million of free cash flow, representing a 105% conversion of adjusted net income.
+Free cash flow over the trailing 12 months increased 22% to $991 million.
+Our current net leverage is approximately 1.6 times and we expect net leverage to be around 1.3 times at year-end, excluding any additional M&A.
+Turning now to the guide on slide 10, we are raising the low end of our full year 2021 adjusted diluted net earnings per share guidance to $2.70, resulting in a range of $2.70 to $2.75 for the year.
+This represents a year-over-year growth of 29% to 32% on a continuing operation basis.
+This assumes that total revenue growth of 14% to 14.5%, adjusted operating profit margins of 23% to 23.5%.
+And an effective tax rate of approximately 14%.
+We continue to expect free cash flow conversion to be approximately 105% of adjusted net income for the full year.
+We are also initiating fourth quarter adjusted diluted net earnings per share guidance of $0.74 to $0.79, representing year-over-year growth of 6% to 13%.
+This assumes total revenue growth of 6.5% to 8.5%, adjusted operating profit margin of 23.5% to 24.5% and an effective tax rate of approximately 15%.
+The adjusted diluted net earnings per share guidance also excludes, approximately $12 million of anticipated investments in strategic productivity initiatives that we expect to execute before the end of the year.
+For the fourth quarter, we expect free cash flow conversion to be approximately 125% of adjusted net income.
+With that, I'll pass it back to Jim for some closing.
+We're very pleased with our performance in Q3.
+We worked diligently to countermeasure supply chain challenges, that persisted throughout the quarter and which we expect to continue into 2022.
+Our teams are doing an excellent job, deploying FBS to navigate those headwinds, while also delivering strong margin performance and free cash flow generation.
+Looking across our end markets, the demand backdrop we're seeing is very strong with significant momentum in our order flow, driving continued growth in our backlog and double-digit growth across our software businesses.
+While continuing our focus on execution, we're investing in innovation, expanding our base of leadership talent and pursuing additional capital deployment opportunities, as we look to enhance our competitive advantage and pave the way for consistent double-digit earnings and free cash flow growth in the years to come.
+That concludes our formal comments.

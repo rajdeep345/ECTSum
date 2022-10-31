@@ -1,0 +1,204 @@
+We appreciate you joining us today for Gartner's third quarter 2020 earnings call, and hope you're well.
+With me on the call today are Gene Hall, Chief Executive Officer; and Craig Safian, Chief Financial Officer.
+All growth rates in Gene's comments are FX neutral unless stated otherwise.
+Reconciliations for all non-GAAP numbers we use are available in the Investor Relations section of the gartner.com website.
+Finally, all contract values and associated growth rates we discuss are based on 2020 foreign exchange rates unless stated otherwise.
+I encourage all of you to review the risk factors listed in these documents.
+Business leaders need help in all times, but during highly uncertain times like today they need help more than ever.
+Those that know Gartner, know, we are the best source for how to survive and thrive in these difficult times.
+Beginning in Q1, we made significant changes in response to the pandemic and economic downturn.
+Our strategy is to ensure our research content addresses the most critical priorities of our clients at any point in time.
+When the pandemic hit, the rate of change in the world increased radically.
+We responded with agility, we accelerated the creation of new, highly relevant content for our clients across every function.
+Topics included adapting to COVID-19, shifting to remote work, accelerating the transition to digital business, strengthening diversity, equity and inclusion across the enterprise and more.
+Clients have highly valued this content addressing their mission critical priorities.
+Client engagement with our experts rose significantly, during Q3 client interactions increased more than 20% year-over-year to over 120,000 interaction.
+Gartner Conferences delivered the same unparalleled insight and advice to those who want an immersive experience.
+Seat holders who attend our conferences received great value, which results in higher retention.
+Non-seat holders equally received great value and are a great source of highly qualified leads for our research sales force.
+Once the pandemic hit, we pivoted to virtual conferences to replace our traditional in-person destination conferences.
+So far we've delivered seven virtual conferences through October and the performance of these conferences has exceeded our expectations.
+IT Symposium/Xpo is our flagship conference series for senior IT executives.
+We recently held our IT Symposium Americas virtually.
+It was a resounding success.
+More than 15,000 executives attended and that's about double the number that attended Orlando Symposium in-person last year.
+Attendees were highly engaged and participated in an average of 11 live sessions.
+More than 80% of IT Symposium Americas attendees rated the conference as meeting or exceeding their expectations.
+Attendee scores for the keynotes were on par with the in-person conferences from last year.
+Exhibitors are also an important element of our conferences.
+We've been working with them to create a great experience for both attendees and themselves.
+While exhibitor revenues were lower when compared to our in-person conferences from last year, they exceeded our expectations.
+Early on, there was great uncertainty as to whether virtual conferences would be viable.
+The results of the seven virtual conferences, we've held-to-date demonstrate we can achieve attendance, while delivering high value to both attendees and exhibitors.
+We're early in the virtual conference journey and each one we've held has been better than the last.
+We are a learning organization, we'll continue to get even better by taking the experience from each conference and improving on the next.
+We have eight more virtual conferences planned for 2020 and have -- already have more than 21,000 attendees registered.
+So we were extremely agile in serving the needs of our clients, by adapting our content and pivoting to virtual conferences.
+We were just as agile in adapting our operations for the new environment.
+We went from an in-office to completely remote and we now have achieved the same level of operational effectiveness as we had in the office.
+We acted early and decisively at the beginning of the pandemic to optimize our costs and prepare for a wide range of scenarios.
+We've achieved strong cost savings by working smarter, not just by getting by with less.
+For example, we've established specialized teams to handle some tasks such as background research.
+Previously, this was done individually by all our experts rather than specialized teams.
+The specialized teams do this research in fewer hours and often with higher quality because of the specialization.
+In addition, we have automated some of this work through technologies such as web mining, which further lowers the cost and increases the overall quality.
+Though these changes didn't begin during the pandemic, but because of the pandemic we accelerated the pace.
+In addition to cost savings and operational efficiencies, we also took several steps to preserve liquidity and maintain financial strength.
+We now have a capital structure with less maturity risk and more flexibility.
+So we accelerate the creation of new, highly relevant content for our clients across every function.
+We successfully pivoted to virtual conferences, which were well attended and delivered high value to our clients.
+Our clients are more engaged than ever.
+Beyond client engagement we adapted our operations to work remotely just as effectively as we do from our offices, and we combine this with early and decisive actions to optimize our cost structure and our balance sheet.
+The combination of these factors has resulted in improvements across most of our operational metrics compared to Q2.
+The improvement in our operational metrics in turn has resulted in improvement in our Q3 financial metrics and guidance compared to Q2.
+Revenue and EBITDA are performing better than we expected and free cash flow generation is very strong.
+I hope everyone remains safe and well.
+Third quarter results were ahead of our expectations and we raised our full year guidance to reflect the modestly better demand environment and strong cost management.
+We had another successful bond offering during the quarter and amended and extended our credit facility through 2025.
+As of September 30th, we have a stronger balance sheet than we did at the start of the year.
+We have significant liquidity, which gives us financial flexibility.
+We reduced our maturity risk and our annual interest expense will be lower starting in 2021.
+As we have gotten more clarity on the economy and gauged our business performance over the past several months, we've resumed targeted spending.
+While we continue to manage our cost carefully, we remain focused on positioning ourselves to rebound strongly as the economy recovers.
+Third quarter revenue was $995 million, down 1% both as reported and FX neutral.
+Excluding conferences, our revenues were up 5% year-over-year FX neutral.
+In addition, contribution margin was 67%, up more than 300 basis points versus the prior year.
+EBITDA was $168 million, up 20% year-over-year and up 19% FX neutral.
+Adjusted earnings per share was $0.91 and free cash flow in the quarter was a very strong $229 million.
+Research revenue in the third quarter grew 6% year-over-year on a reported and FX neutral basis.
+Third quarter research contribution margin was 72%, benefiting in part from the temporary cost avoidance initiatives we put in place starting in the first quarter.
+As we have seen improvements in the macro environment, we have resumed growth spending and started to restore some of the compensation and benefit programs, which we've had put on hold when the pandemic first hit.
+Total contract value was $3.4 billion at September 30th, representing FX neutral growth of 5% versus the prior year.
+Global Technology Sales contract value at the end of the third quarter was $2.8 billion, up 5% versus the prior year.
+The more challenging selling environment that began in March continued through the third quarter and had an impact on most of our reported metrics.
+Client retention for GTS was 80%, down about 160 basis points year-over-year, but up modestly from last quarter.
+Wallet retention for GTS was 99% for the quarter, down about 600 basis points year-over-year.
+GTS new business declined 7% versus last year.
+We ended the third quarter with enterprises down about 3% from last year.
+The average contract value per enterprise continues to grow.
+It now stands at $227,000 per enterprise in GTS, up 9% year-over-year.
+Growth in CV per enterprise reflects the combination of up-sell, increased number of subscriptions and price.
+In addition, we continue to see higher churn among lower spending client.
+At the end of the third quarter, the number of quota-bearing associates in GTS was down about 8% year-over-year.
+We expect to end 2020 with more than 3,100 quota-bearing associates, a slight decline from the end of 2019.
+We entered this year with a large bench, which we have now fully deployed.
+For GTS, the year-over-year net contract value increase, or NCVI, divided by the beginning period quota-bearing headcount was $41,000 per salesperson, down about 60% versus the third quarter of last year.
+Despite the challenging macro environment, GTS CV grew in nearly all of our 10 largest countries similar to last quarter was up double digits in Brazil, Japan, France and the Netherlands.
+CV grew across all sectors except for transportation and media.
+Across our entire GTS sales team, we sold significant amounts of new business in the quarter to both existing and new clients.
+New logo has continued to be a significant contributor to our CV growth.
+Finally, despite some net churn in clients, we continue to see increased spending by retained clients on average, although not quite enough to offset dollar attrition.
+This speaks to the compelling client value proposition we offer in both strong and challenging economic environments.
+Overall GTS retention and new business improved in the third quarter as compared to the second quarter.
+Global Business Sales contract value of $656 million at the end of the third quarter.
+That's about 20% of our total contract value.
+CV growth was 6% year-over-year as reported and 5% on an organic basis.
+CV growth in the quarter was led by our supply chain and human resources teams.
+All practices positively contributed to the 6% CV growth rate for GBS with the exception of marketing.
+GBS new business was strong, up 14% over last year.
+As we've discussed the last three quarters, in the marketing practice, we are transitioning away from some lower margin products.
+This has created short-term headwinds, but is expected to improve profitability in a normal environment.
+GxL is now more than 50% of GBS total contract value, an important milestone in the path to long-term sustained double-digit growth in GBS.
+Client retention for GBS was 82%, up 117 basis points year-over-year.
+Wallet retention for GBS was 99% for the quarter, up 220 basis points year-over-year.
+We ended the third quarter with GBS enterprises down about 9% from last year as we continue to see churn of legacy clients.
+The average contract value per enterprise continues to grow, it now stands at $140,000 per enterprise in GBS, up 16% year-over-year.
+Growth in CV per enterprise reflects upsell, an increased number of subscriptions, penetration of new functional areas and price.
+Despite the pandemic, our retain clients are continuing to spend more with us every year, although not quite enough to offset dollar attrition.
+At the end of the third quarter, the number of quota-bearing associates in GBS was down 7% year-over-year.
+We expect to end 2020 with roughly flat headcount at the end of 2019 in GBS.
+For GBS, the year-over-year net contract value increase, or NCVI, divided by the beginning period quota-bearing headcount was $38,000 per salesperson, up from last year.
+Overall, GBS had a good third quarter, driven by a strong double-digit year-over-year improvement in new business.
+As you know, the Conferences segment has been materially impacted by the global pandemic.
+We cancelled all in-person destination conferences for the remainder of 2020.
+We pivoted to producing virtual conferences with a focus on maximizing the value we deliver for our clients.
+We held two virtual conferences in the third quarter after producing pilots in the second quarter.
+We have also held a number of virtual Evanta meetings, shifting these one-day local conferences online due to the pandemic.
+Conferences revenue for the quarter was $30 million, a combination of the two virtual conferences and a number of virtual Evanta meetings.
+We are still in the early stages of all forms of virtual conferences and will continue to leverage customer feedback as we develop, refine and grow our virtual conference offerings.
+The revenue mix of our virtual conferences is different from the mix from in-person conferences.
+First, in Q3, our revenues were split between virtual conferences and virtual Evanta meetings with a higher mix from Evanta meetings than last year.
+Attendee revenue with virtual conferences is from two sources, tickets that are purchased as a stand-alone item, either online or through our sales teams, or an entitlement associated with a broader research contract.
+As we've detailed in the past, a small portion of many research contracts gets attributed to the Conferences segment.
+The vast majority of the Q3 and expected Q4 attendee revenue is from subscription contract entitlements.
+These are entitlements which would have been applied to in-person conferences in 2020 or in some cases in 2021.
+We continue to refine our exhibitor offerings for virtual conferences.
+We expect Q4 exhibitor revenue to be a much smaller part of overall conferences revenue than in the past.
+We continue to incur costs, both in cost of services and SG&A to support virtual conferences and to be in a position to resume in-person conferences when it is safe and permitted.
+Lastly, the timing of receiving conference cancellation insurance claims remains uncertain.
+So we will not record any recoveries and expenses incurred until the receipt of the insurance proceeds.
+Third quarter consulting revenues decreased by 4% year-over-year to $89 million, on an FX neutral basis revenues declined 6%.
+Consulting contribution margin was 32% in the third quarter, up over 300 basis points versus the prior-year quarter.
+Margins were up, primarily due to cost reduction actions.
+Labor-based revenues were $74 million, down 5% versus Q3 of last year or 6% on an FX neutral basis.
+Labor-based billable headcount of 737 was down 9%.
+Utilization was 60%, up about 300 basis points year-over-year.
+Backlog at September 30th was $96 million, down 12% year-over-year on an FX neutral basis.
+Our backlog provides us with about four months of forward revenue coverage.
+As we discussed last quarter, we had a small workforce action in the consulting business to align our billable headcount with our revenue outlook for the balance of the year.
+Our contract optimization business was down 3% on a reported basis versus the prior year quarter.
+This compares to a 74% growth rate in the third quarter last year.
+As we have detailed in the past, this part of the Consulting segment is highly variable.
+SG&A increased 2% year-over-year in the third quarter and 1% on an FX neutral basis.
+SG&A as a percentage of revenue increased in the quarter as we restored certain compensation and benefits costs.
+EBITDA for the third quarter was $168 million, up 20% year-over-year on a reported basis and up 19% FX neutral.
+As I mentioned earlier, we had stronger than expected top-line performance and continue our disciplined focus on expenses.
+We also continue to see a meaningful benefit from significantly lower than normal travel costs.
+Depreciation in the quarter was up approximately $2 million from last year, although, flat with the second quarter as a result of additional office space that had gone into service before the pandemic hit.
+Amortization was about flat sequentially.
+Net interest expense, excluding deferred financing costs in the quarter, was $29 million, up from $22 million in the third quarter of 2019.
+Net interest expense is up because our interest rate swaps had higher fixed rates from the warrants, which expired last year.
+The Q3 adjusted tax rate which we use for the calculation of adjusted net income was 20% for the quarter.
+The tax rate for the items used to adjusted net income was 26.4% in the quarter.
+Adjusted earnings per share in Q3 was $0.91.
+Operating cash flow for the quarter was $244 million compared to $220 million last year.
+The increase in operating cash flow was primarily driven by cost of avoidance initiatives, partially offset by an earlier interest payment due to the refinancing.
+Capex for the quarter was $15 million, down 59% year over year.
+Lower capex is largely a function of lower real estate expansion needs due to the pandemic.
+We define free cash flow as cash provided by operating activities less capital expenditures.
+Free cash flow for the quarter was $229 million, which is up 25% versus the prior year.
+This includes outflows of about $10 million of acquisition, integration and other non-recurring items.
+Free cash flow as a percent of revenue, or free cash flow margin was 15% on a rolling four-quarter basis, continuing the improvement we've been making over the past few years.
+Free cash flow as a percent of GAAP net income was about 285%.
+Free cash flow benefited from continued strong collections combined with reductions in outflows from our cost avoidance initiatives, lower capital expenditures and lower cash taxes and deferrals of certain tax payments.
+While we've seen timing benefits to our free cash flow margin from significantly lower capex and our ability to defer certain tax payments, even excluding these, LTM free cash flow margin is still up about 200 basis points versus the prior year.
+During the quarter, we took advantage of historically attractive high yield bond pricing and issued $800 million of new 10-year senior unsecured notes with a 3.75% coupon.
+We use the proceeds from this new issuance to extinguish our 2025 bonds, which carry a 0.625% coupon.
+We also amended and extended our credit facility to September 2025 with attractive financial terms, increased flexibility and fewer less restrictive covenants.
+The overall impact of the financing activities resulted in a 50 basis point reduction to total cost of borrowing.
+The combination of the capital market activities in the past six months has extended our debt maturity profile to nearly eight years versus less than three years pre-pandemic.
+Our September 30th debt balance was $2 billion.
+Our reported gross debt to trailing 12 month EBITDA is about 2.5 times.
+Our total modified net debt covenant leverage ratio was 2.3 times at the end of the third quarter, well within the 5 times covenant limit.
+At the end of the third quarter, we had $554 million of cash.
+After pausing share repurchases at the start of the pandemic, we are in a position to resume our normal capital allocation programs.
+Going forward, we will deploy excess cash for share repurchases and strategic tuck-in acquisitions.
+At the end of the quarter, we had about $1 billion of revolver capacity and have around $680 million remaining on our share repurchase authorization.
+We are updating our full-year outlook to reflect Q3 performance, a modestly better demand environment including the successful launch of virtual conferences and cost restoration plans.
+Last quarter, when updating guidance, we were cautious because we had only been through one full quarter of the pandemic and we had two quarters remaining in the year.
+With more experience, better performance and more visibility, we have updated our guidance accordingly.
+We now forecast research revenue of at least $3.57 billion for the full year.
+This is growth of almost 6% versus 2019 and reflects a continuation of third quarter new business and retention trends.
+For the Conferences segment, we are generating revenue from our virtual conferences.
+We now expect revenue of $110 million for the full year.
+This reflects our initial success in launching virtual conferences and virtual Evanta meetings.
+The majority of the incremental revenue, we expect in conferences is from entitlements, included in some of our subscription contracts, as we've discussed earlier.
+We now forecast consulting revenue of at least $370 million for the full year or a decline of about 6%.
+The consulting outlook continues to contemplate a slowdown in labor-based demand.
+The timing of revenue in the contract optimization business can be highly variable as you know.
+Overall, we expect consolidated revenue of at least $4.05 billion, that's a reported decline of about 5% versus 2019.
+Excluding conferences, we expect revenue growth of at least 4.5% versus 2019 on a reported basis.
+The cost avoidance programs we put in place in March have allowed us to protect profitability and conserve cash.
+We started to resume certain spending late in the second quarter as the operating environment appears to have at least stabilized, we want to ensure we are well-positioned for an economic normalization.
+We expect full year adjusted EBITDA of at least $740 million, that's full year margins of about 18.3%, up from the 16.1% margins we had in 2019.
+We expect our full year 2020 net interest expense to be $106 million.
+We continue to expect an adjusted tax rate of around 22% for 2020.
+This does imply a higher fourth quarter rate than we've seen throughout 2020, consistent with our experience in recent years.
+We expect 2020 adjusted earnings per share of at least $4.07.
+For 2020, we expect free cash flow of at least $625 million.
+Our free cash flow guidance reflects both the P&L outlook we just discussed, strong capex management and better than previously forecasted collections.
+All the details of our full year guidance are included on our Investor Relations site.
+In summary, despite a very uncertain economic environment we delivered better-than-planned financial results in the third quarter, which has allowed us to update our full year outlook favorably.
+Most of our key operating metrics improved in the quarter and we were able to successfully launch and monetize virtual conferences and virtual Evanta meetings.
+Cash flow was outstanding and we have taken a number of measures to increase our financial flexibility, reduce maturity risk and ensure we have ample liquidity.
+We will continue to balance cost avoidance programs with targeted investments and restoration of certain expenses, to ensure we are well positioned to rebound when the economy recovers.

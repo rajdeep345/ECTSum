@@ -1,0 +1,225 @@
+These statements are not guarantees of future performance or events and are based on management's current expectations.
+Actual performance and events may differ materially.
+Factors that could cause results to differ include the factors described in our third quarter 2021 report on Form 10-Q and our 2020 annual report on Form 10-K and other recent filings made with the SEC.
+Additionally, some remarks may refer to non-GAAP financial measures.
+Shane Fitzsimons, who became AIG's CFO on January 1st, will be available for Q&A, along with David McElroy and Kevin Hogan.
+Today, I will cover four topics: First, an overview of General Insurance fourth quarter and full year performance, where we continue to drive meaningful underwriting profitability improvement.
+I will also briefly touch on the 1/1 reinsurance renewal season.
+Second, I will review results from our life and retirement business, which continues to be a meaningful contributor to our overall results.
+Third, I will provide an update on our progress toward an IPO of life and retirement and operational separation of the business from AIG.
+And fourth, I will review our current plans regarding capital management.
+Before turning to those topics, I want to take a few minutes to highlight some noteworthy achievements in 2021, which were significant for AIG.
+2021 was a pivotal year and one in which our team executed on several strategic priorities.
+We produced strong liquidity throughout 2021, which provided flexibility and allowed us to return $3.7 billion to shareholders through share repurchases and dividends.
+We also repurchased $4 billion of debt, which reduced our debt leverage by 380 basis points to 24.6%.
+Notwithstanding these actions, we ended 2021 with $10.7 billion in parent liquidity.
+As I said on prior calls, the path we've taken to improve AIG and our portfolio in general insurance, in particular, with a significant undertaking.
+In general insurance, given the portfolio we started within 2018, we needed to make fundamental changes.
+We quickly overhauled our underwriting standards and developed a culture of underwriting excellence, including significantly reducing gross limits.
+To give you a sense for the magnitude of what we needed to do, we reduced gross limits by over $1 trillion in our property, specialty, and casualty businesses.
+In addition, we took a conservative approach to volatility by reducing net limits and exposure through strategic implementation of reinsurance.
+As a result of this strategy, since 2018 and through 2021, we've been able to grow net premiums written in commercial by over $3 billion, while ceding an additional $2 billion of reinsurance premium to further reduce volatility and protect the balance sheet.
+At the same time, we improved the combined ratio, excluding CATs by 1,000 basis points.
+Simply put, today, we have a different portfolio with a markedly different risk profile, which we believe is significantly stronger by all measures.
+Turning to life retirement, we again had solid and consistent results throughout 2021, benefiting from product diversity within the business.
+Return on adjusted segment common equity was 14.2% for the full year.
+Throughout 2021, we also made tremendous progress on the separation of life retirement from AIG.
+We're executing on multiple workstreams to operationally separate the business, and we closed on the sale of 9.9% equity stake and transferred $50 billion of assets under management to Blackstone.
+Additionally, we achieved significant milestones at AIG 200 and remain on track to deliver $1 billion in run-rate savings by the end of 2022 against the spend of $1.3 billion.
+I could not be prouder of what the team has accomplished.
+While we still have plenty of work ahead of us, it would be remiss of me not to recognize these accomplishments and the significant momentum we have heading into 2022.
+Now let me turn to our business results in general insurance for the fourth quarter of 2021.
+Mark is going to go into more detail, but we had a terrific quarter to close out the year.
+In the fourth quarter, general insurance net premiums written increased 8% overall on an FX-adjusted basis, with another strong quarter of 13% growth in commercial, which was tempered somewhat by a slight contraction in Personal, with a 1% reduction in net premiums written.
+The growth in commercial lines was balanced with 11% in North America and 16% in international.
+Personal lines net premium growth contracted by 1% in the quarter due to a 5% reduction in international, driven by our repositioning of the Personal Property portfolio in Japan, offset by 17% growth in North America, which largely reflects less year-over-year ceded reinsurance.
+Looking at fourth quarter profitability, I'm very pleased with the accident year combined ratio ex CATs, which improved 310 basis points year over year to 89.8%, the first sub-90% quarterly result since the financial crisis.
+This improvement was driven by commercial, which achieved an accident year combined ratio ex CATs of 87.9%, a 380 basis point improvement year over year and the third consecutive quarter below 90%.
+Personal report 130 basis points of improvement in the accident year combined ratio ex CATs to 94.3%.
+Pivoting to the full year 2021, we made enormous progress in improving the quality of the underwriting portfolio and driving growth throughout the year.
+Net premiums written grew 11% on an FX-adjusted basis, driven by global commercial growth of 16%.
+Growth in commercial was particularly strong in both North America at 18% and international at 13%.
+We had very strong retention in our in-force portfolio with North America improving by 300 basis points and international improving by 500 basis points for the full year.
+Gross new business in Global Commercial grew 27% year over year to over $4 billion, with 24% growth in international and 30% in North America.
+Overall, global commercial saw increases of 13%, and strong momentum continued in many lines.
+In global personal, we had some growth challenges in this segment, but accident and health performed very well, and overall, we had a solid year with net premiums written up 1% on an FX-adjusted basis.
+These results also reflect less reinsurance cessions in our high net worth business and some growth in warranty.
+Turning to underwriting profitability for full year 2021.
+general insurance's accident year combined ratio ex CATs was 91%, an improvement of 310 basis points year over year.
+The full year saw 140 basis point improvement in the accident year loss ratio ex CATs and 170 basis point improvement in the expense ratio, split evenly between the GOE ratio and the acquisition ratio.
+These positive results were driven by our improved portfolio mix, net earned premium growth, achieving rate in excess of loss cost trends, continued expense discipline, and the benefits we are receiving from AIG 200.
+Global commercial achieved an impressive accident year combined ratio ex CATs of 89.1%, an improvement of 410 basis points year over year.
+The accident year combined ratio ex CAT for North America commercial and international commercial were 91% and 86.7%, which reflected improvements of 450 basis points and 340 basis points, respectively.
+In global personal, the accident year combined ratio ex CATs was 94.9%, an improvement of 120 basis points year over year, driven by improvement in the expense ratio.
+These notable combined ratio improvements across general insurance reflected improved higher-quality global portfolio driven by the strategic underwriting actions and strong execution, which have enabled us to shift our focus toward accelerating profitable growth in areas of the market where we see attractive opportunities.
+We are very pleased with these materially improved results, which provide tangible evidence of our successful underwriting strategy and the significant progress we have made.
+Turning to January 1 renewals with respect to our ceded reinsurance, we were very pleased with the outcome of our reinsurance placements.
+While the markets presented significant challenges across the industry, with retrocessional limited along with other capacity issues, our reinsurance partners recognize the strength of our improved underwriting portfolio and reduced aggregation exposure, which translated to many improvements in our reinsurance structures, along with better terms and conditions.
+It's important to keep in mind that we placed over 35 treaties at 1/1, with over 65 discrete layers and over $12 billion of limit placed and we cede over $3 billion of premium in the market.
+As you can imagine, we're not an index of market pricing because of the significant improvement in the portfolio, along with the size and complexity of our placements.
+We continue to maintain very strong relationships with our reinsurance partners.
+And the support we receive in the marketplace is evident in the quality of the overall reinsurance program.
+We continue to make meaningful improvements to our core placements in every major treaty on January 1, and as a result, continue to reduce volatility in our portfolio.
+For our Property CAT treaty, we improved the per occurrence structure and improved our aggregate structure for our global commercial businesses.
+For the North America per occurrence property CAT treaty, we lowered our attachment point to $250 million for all perils, which is a reduction from our core 2021 program that had staggered attachment points, depending on apparel, that range from $200 million to $500 million.
+And we maintained our per occurrence attachment points in international, which are $200 million for Japan and $100 million for the rest of the world.
+For our global shared limit aggregate cover, we were able to reduce our attachment point in every region across the world, most notably, $100 million reductions in the attachment point in North America.
+Our global shared limit, each and every deductible remain the same or reduced in every global region, most notably $25 million reductions in North America-named storms.
+Our attachment point return periods are the same or lower in every region across the world when compared to our 2021 core reinsurance program, and our exhaustion period returns are higher in every instance across the world on an OEP and AEP basis.
+And we achieved these significant improvements while modestly reducing the total aggregate reinsurance CAT spend.
+On our core casualty treaty, we reduced our net limits on our excess to loss treaty in both North America and international.
+On our proportional core North America placement, we maintained the same session amount while improving our ceding commission by 400 basis points, which represents an 800 basis point improvement over the last 24 months, reflecting our significantly improved underwriting and recognition from the reinsurance market.
+Lastly, we renewed our cyber structure at 1/1, with additional quota share seed increasing from 60% to 70% and the aggregate placement attaching at 85% versus a 90% loss ratio.
+Given the tight terms and conditions and discipline in our portfolio, along with significant rate increase we achieved during the year, we were able to secure more quota share authorization, which is a great example of the reinsurance market's flight to quality.
+As we discussed on last earnings call, we've spent considerable time through AIG research and our chief underwriting office analyzing the impact of climate change and the increased frequency and severity of natural catastrophes.
+A few observations about 2021.
+It was the sixth warmest year on record since NOAH began tracking global temperatures in 1880.
+Hurricane Ida estimated at $36 billion of insured loss was the third largest hurricane on record.
+In North America, $17 billion of winter weather losses was the largest on record for this peril.
+And $13 billion of insured loss for European flooding was the costliest disaster on record for the continent.
+While we've been working over the past few years to reposition our portfolio to limit exposure and dampen volatility, changing weather patterns and increased density of risk in peak zones have caused stress on aggregation and anchored the ability of property underwriters to make appropriate risk-adjusted returns on capital deployed.
+These changes have caused us to look deeper into the exposures we are underwriting in several lines of business.
+An example of a business that needs further attention and strategic repositioning is our high net worth property portfolio within our personal insurance segment.
+By the nature of the business, it's exposed to peak zones and is susceptible to increased frequency and severity.
+This reality, together with secondary perils that have become primary perils in the underwriting and modeling process, as well as secondary perils and modeling, have all driven up loss costs, creating a significant issue that needs to be addressed.
+When analyzing the portfolio over the last five years, we've seen catastrophe levels that are 10 times the level the portfolio dealt with in the prior 10 years for losses in excess of $50 million.
+The inability to reflect emerging risk factors, the effects of changes to modeling, increased loss costs from cats has put the profitability of the business under pressure.
+In addition, when you consider the increased exposure in most peak zones in the United States over the last few years, with significantly increased total insured values, in some cases, greater than 100%, more density, supply chain issues, reinsurance availability, and increased reinsurance costs, and all this with heightened complexity the pandemic has caused, along with the impact of demand surge post-CATs, not being tested, the business model simply needs to change.
+Recognizing these realities, after careful review, we decided to take meaningful steps to address this risk issue in our high net worth business, which will allow us to continue to offer comprehensive solutions to our clients that are more consistent and sustainable.
+Aggregation and profitability challenges led us to the conclusion that we have to offer the property homeowners product as an example, through excess and surplus lines on a non-admitted basis in multiple states.
+For example, in December, we announced that we would no longer be offering admitted personal property homeowners policies in the state of California.
+We cannot maintain our current level of aggregation in the state nor have we been able to achieve any profitability from this line of business.
+Being a prudent steward of capital, these actions will enable us to segment the portfolio, achieve an acceptable return, reduce volatility, and offer clients more comprehensive policy wordings and services.
+Now turning to life retirement.
+Full year results were driven by improved equity markets, strong alternative investment income, higher interest rates, higher call, and tender income, and higher fee income, partially offset by elevated mortality and base spread compression across products.
+Adjusted pre-tax income in the fourth quarter and full year was $969 million and $3.9 billion, respectively.
+The full year growth of 11% was driven by strong alternative investment and fee income.
+Full year sales were strong with premiums and deposits increasing 15% year over year to $31.3 billion.
+Sales within our individual retirement segment grew 34% across our three product lines for the year.
+Assets under management were $323 billion, and assets under administration increased to $86 billion, benefiting both from strong sales activities and favorable economic conditions.
+We also made excellent progress with Blackstone in the fourth quarter, completing the initial $50 billion asset transfer, incorporating them into our asset-liability management process, finalizing the investment guidelines, and developing initial product offerings based on Blackstone's origination platform.
+Lastly, having analyzed our exposure to long-duration target improvements, or LDTI accounting, based on the current interest rate and macro environment, we expect the transition impact of LDTI is well within Life Retirement's current balance of AOCI.
+Mark will provide more detail on this topic in his remarks.
+Turning to the separation and IPO of life retirement.
+In addition to closing Blackstone transactions, we also continue to make significant progress on operationally separating life retirement from AIG, both with respect to what can be done by the IPO and longer-term to transition service agreements.
+We are applying the same rigor and discipline to our separation workstreams as we have with our AIG 200 transformation program, but with a clear focus on speed to execution.
+We continue to work toward an IPO in the second quarter of this year, subject to regulatory approvals and market conditions.
+As I mentioned on our last call, due to the sale of our affordable housing portfolio in the fourth quarter, and the execution of certain tax strategies, we are not constrained in terms of how much of life retirement we can sell in an IPO.
+Having said that, the size of the IPO will be dependent on market conditions.
+We continue to expect to retain a greater-than-50% interest immediately following the IPO and to continue to consolidate life retirement's financial statements at least until such time as we fall below the 50% ownership threshold.
+Finally, turning to capital management.
+We've been giving significant thought to both life retirement as a stand-alone business and AIG as we continue the path to separation.
+With respect to life and retirement, our goal remains to achieve a successful IPO of a business with a capital structure that is consistent with its industry peers.
+Life and retirement has a strong balance sheet and limited exposure to legacy liabilities, and its insurance operations have a history of strong cash flow generation.
+We expect that over time, this business will sustain a payout ratio to shareholders of 60% to 65% between dividends and share repurchases on a full calendar year basis.
+We also expect that post IPO, life and retirement will pay an annual dividend in the range of $400 million to $600 million, which equates to roughly a 2% to 3% yield on book value.
+Additionally, as part of the separation process, in the fourth quarter of 2021, life and retirement declared a dividend payable to AIG in the amount of $8.3 billion, which will be funded by life and retirement debt issuances and paid prior to the IPO.
+Our expectation is that a vast majority of this dividend payment will be used to reduce debt at AIG, and therefore, the overall amount of debt across our consolidated company will remain relatively constant at the time of the life retirement IPO.
+Post deconsolidation, we expect life retirement to maintain a leverage ratio in the high 20s, with AIG maintaining a leverage ratio in the low 20s.
+Regarding our current capital management plan for AIG, ending 2021 with $10.7 billion in parent liquidity provides us with a significant amount of flexibility.
+Our capital management philosophy will continue to be balanced to maintain appropriate levels of debt and to return capital to shareholders through share buybacks and dividends, while also allowing for investment in growth opportunities across our global portfolio.
+This will also be true post-IPO and over time as we continue to sell down our stake in life retirement.
+With respect to share buybacks, we have $3.9 billion remaining under our current authorization and expect to complete this amount in 2022, weighted more toward the first half of this year.
+We do not expect the life retirement IPO to impact AIG's dividend and expect to maintain our current annual dividend level at $1.28 per share.
+With respect to growth opportunities, our priorities will be to allocate capital in general insurance, where we see opportunities to grow and further improve our risk-adjusted returns.
+We believe there are excellent opportunities for continued growth in global commercial Lines, which Mark will cover in more detail in his remarks.
+As we move through 2022 and are further along with the IPO and separation of life retirement, we will continue to provide updates regarding capital management.
+As you can see, we made significant progress in 2021 and had a terrific year.
+2022 will be another busy and transformational year for AIG.
+We started 2022 with a significant amount of momentum, and our colleagues continue to demonstrate an ability to execute on multiple fronts as we continue our journey to be a top-performing company.
+Given Peter's comments, I will head directly into the fourth quarter results.
+Diluted adjusted earnings per share were $1.58, representing 68% growth over the prior year.
+This material improvement in adjusted earnings per share was driven by an over 1,000 basis point reduction in the general insurance calendar quarter combined ratio; 9% growth in net earned premiums, led by global commercial with 13% net earned premium growth; and an improvement in the underlying accident year combined ratio ex CATs to 89.8%, as Peter mentioned, our first sub-90% quarterly results since before the financial crisis, which also represented a 310 basis point improvement from the prior-year quarter.
+Life and retirement delivered another quarter of solid returns and remained well-positioned, with a 13.7% return on adjusted segment common equity for the fourth quarter and 14.2% for the full year 2021.
+The strength of our operating earnings and capital actions in the quarter helped drive a near 10% adjusted annualized ROE and growth in adjusted tangible book value per share of nearly $7, which represents a sequential increase of 12% and a full year increase of 23%.
+We fulfilled our capital management commitments and finished the year with a GAAP leverage ratio of 24.6%, a reduction of 150 basis points in the quarter and 380 basis points over the course of the year, which is another milestone, as we stated, our goal was to be at or under 25% on this important metric.
+This improvement was driven by approximately $4 billion of debt and hybrid retirement, along with $2.6 billion of share repurchases, nearly $2.1 billion of which occurred in the second half of 2021, which was slightly above our guidance.
+Moving to general insurance.
+Catastrophe losses of $189 million were significantly lower this quarter, compared to $545 million in the prior-year quarter.
+This quarter's main drivers were the Midwest tornadoes and the Colorado wildfire.
+Prior year development was $44 million favorable in the fourth quarter compared to unfavorable development of $45 million in the prior-year quarter.
+As usual, there was net favorable amortization from the ADC, which was $45 million this quarter.
+So PYD was essentially flat without this amortization.
+On a full year basis, net favorable development amounted to $201 million relative to $43 billion in net loss and loss adjustment expense reserves.
+In 2020, we released $76 million of net favorable development.
+Shifting to premium growth.
+Overall global commercial Insurance net premiums grew 13% on a reported and constant dollar basis for the quarter, and growth in North America commercial was 11%, driven by casualty, which increased 50%; Lexington, which increased 14%; and financial lines, which increased over 10%.
+In international commercial, growth was 16% on an FX-adjusted basis.
+And by line of business, global specialty, which is booked in international, grew over 25%.
+Talbot had 20% growth, and property grew by 13%.
+Overall growth in the fourth quarter was driven by strong incremental rate improvement, higher renewal retentions, and strong new business volumes.
+Commercial retention improved by 300 basis points year-over-year in North America to 80% and by 400 basis points in international to 86% in the period.
+This increase in wholesale business in North America commercial brings with it lower channel retention ratios in addition to purposefully lower retentions in cyber and private D&O.
+Excluding these items, the retention ratios between North America and international commercial are comparable.
+Commercial new business grew by 33% in the fourth quarter with 41% growth in North America and 25% growth in international.
+Turning to rate, where overall global commercial Lines saw increases of 10% in the quarter, we achieved the third straight year of double-digit increases.
+Strong momentum continued across most lines, and we continue to achieve rate above loss cost trends.
+North America commercial's overall 11% rate increases were balanced across the portfolio and led by financial Lines, which increased by 15%; excess casualty, which increased by 14%; retail property, which was up 13%; and Lexington, which increased by 11%.
+International commercial rate increases in the aggregate were 9%, driven by EMEA, which increased by 18%; the U.K., which increased by 12%; financial lines, which increased 18%; and energy, which was up 11%, which is also its 11th consecutive quarter of double-digit rate increases.
+Shifting now to a calendar year combined ratio comparison.
+General insurance produced a 95.8% combined ratio for 2021, an improvement of 850 basis points over 2020 and nearly 1,600 basis points better from 2018's 111.4% calendar year combined ratio.
+Peeling back a bit more, the combined CAT and prior period development improvement has been 720 basis points since 2018, indicating both a material CAT exposure reduction, in line with the movement we have shown in our PMLs, and a much stronger loss reserve position than three years ago.
+Turning to additional pricing.
+Rate increases continue to be favorable and outpaced loss cost trends in most areas of the portfolio.
+With the level of rate that we have achieved in just the last 12 months, we expect that margin expansion will continue at least through 2022 and likely into accident year 2023.
+Getting more specific for illustrative purposes, we have communicated written rate changes during prior earnings calls and will continue to do so.
+However, since earned rate changes more directly impact reported results, and given recent discussions around the inflation component of loss cost trend, I thought I'd go over a few areas on an earned rate basis for full year 2021.
+In North America commercial, for example, excess casualty business that focuses on our national and corporate accounts has achieved an approximate earned rate increase approaching 40% in 2021 over 2020's earned rate level, as has cyber.
+D&O and non-admitted casualty achieved earned rate increases in the mid-20s.
+And importantly, retail and wholesale property achieved earned rate increases during 2021 in the low 20s.
+This is noteworthy because property is getting most of the inflation attention, and yet the level of earned rate that was achieved is, in my view, still materially ahead of property and loss cost trend.
+And the same could be said for both excess casualty and D&O.
+Recent property written rate increases are still in the low teens, and looking into policy year 2022 should keep them above loss trend even with an inflationary spike.
+Property pricing needs to remain firm to cover these increased costs of labor, materials, and transportation.
+Turning to international commercial.
+Similar to North America, there are large areas of material earned rate increases for full year 2021.
+International financial Lines achieved a 23% earned rate increase over 2020's earned rate level.
+The international property book achieved an 18% earned rate increase, and the energy book achieved earned rate increases in the mid-20s.
+Let's now step back and look at the last three years of cumulative written rate increases achieved at a high level during 2019 through 2021.
+North America commercial across all lines of business had a 47% cumulative written rate increase, and international commercial's cumulative written rate increase during that same time period was 40%.
+These measures, although they don't take into account improved terms and conditions and other difficult-to-track impacts, indicate, on their own, a significant ingredient of margin improvement as evidenced by the material reduction in our reported accident year results.
+As we think about moving forward into calendar year 2022 and 2023, we need to be cognizant about the absolute, significantly favorable impact on combined ratios over the last three years and realize that most lines of business are well into the green.
+Although there are several opposite forces that work, such as economic and social inflation, my sense is that the 2022 market will continue to produce tight terms and conditions and strong pricing to sustain additional margin expansion into calendar 2023.
+As we think about 2022, major areas of growth for North America would be accident and health as the economy is expected to begin rebounding, and Lexington on a non-admitted basis.
+And on the international side, we see growth in our global specialty operations, A&H as well and select casualty and financial Lines areas around the globe, whereas AIG Re sees growth mostly in casualty business.
+The AIG Re portfolio strategically took the opportunity to further derisk and rebalance the portfolio away from property CAT due to our view of less-than-adequate returns in that space and expanded further into casualty and specialty Lines and expects to continue that trend.
+zone PML down meaningfully across most points in the return period curve.
+Moving to life and retirement.
+Premiums and deposits grew 19% in the fourth quarter, excluding retail mutual funds, relative to the comparable quarter last year.
+Growth was driven by individual retirement and $2.1 billion of pension risk transfer activity.
+APTI for the quarter was $969 million, down 6%, driven primarily by lower net investment income and unfavorable COVID-19 base mortality, although non-COVID-19 mortality returned to being better than pricing expectations.
+On a full year basis, APTI increased to $3.9 billion, reflecting higher net investment income and fee income, partially offset by adverse mortality.
+Our investment portfolio and hedging program continued to perform extremely well for both the quarter and the year.
+Composite base spreads across individual and group retirement, along with institutional markets, compressed 12 basis points during 2021 within the sensitivity guidance we've previously provided.
+Within individual retirement, Index Annuities continued to be the net flows growth engine with $880 million of positive net flows for the quarter and $4.1 billion of the full year.
+APTI was essentially flat for full year 2021 over full year 2020, but premiums and deposits were up 34% and AUM was up 2% year over year to $159 billion.
+Group retirement had APTI of $314 million for the fourth quarter, virtually flat with last year's comparable quarter, but was up 27% on a full year basis, with premium and deposits up roughly 4% and assets under administration up over 7.5% on a full year basis to $140 billion.
+Life insurance APTI was a negative $8 million in the fourth quarter, but had a gain of $106 million for the full year.
+Premiums and deposits grew 4% from fourth quarter of 2020 and over 5% for the full year to $4.7 billion.
+Additionally, total insurance in-force grew to $1.2 trillion, representing over 3% growth.
+Institutional markets grew premiums and deposits by 74% relative to last year's comparable quarter, primarily due to the significant pension risk transfer sales.
+Moving to other operations.
+The adjusted pre-tax loss before consolidation and eliminations was $178 million, a $250 million improvement versus the prior-year quarter, with the primary drivers being higher net investment income of $237 million; a lower corporate interest expense on financial debt of $51 million, resulting from our debt redemption activities; partially offset by higher corporate GOE of $12 million, which include increases in performance-based compensation.
+Heading to Peter's comment about AIG 200, $810 million of run-rate savings are already executed or contracted toward the $1 billion run rate savings objective, with approximately $540 million recognized to date in our income statement and $645 million of the $1.3 billion cost to achieve having been spent to date.
+Total cash and investments were $361 billion, and fourth quarter net investment income on an APTI basis was $3.3 billion, which was essentially the same both sequentially and year over year and was aided by higher alternative investment income, particularly within private equity.
+NII for the full year of $12.9 billion was up over $600 million from 2020.
+Private equity returns were nearly 32% for the full year, up from approximately 10% last year.
+Hedge funds returned approximately 14% each year, and mortgage loan returns were stable at 4.2%.
+We ended the year with our primary operating subsidiaries being profitable and well capitalized, with general insurance's U.S. pool fleet risk-based capital ratio for the fourth quarter estimated to be between 460% and 470%.
+And the life and retirement [Inaudible] is estimated to be between 440% and 450%, both well above the upper bound of our target operating ranges.
+With respect to share count, our average total diluted shares outstanding in the fourth quarter were 847 million, a reduction of 2%, as we repurchased approximately 17 million shares in the quarter.
+The end-of-period outstanding shares for book value per share purposes was approximately 819 million at year-end 2021.
+Now I'd like to address the forthcoming LDTI accounting changes affecting our life and retirement business.
+First, this is a GAAP-only accounting standard, and there should not be impacts to cash flow or statutory results.
+As this continues to be a work in progress for us and the industry at large, I'd like to provide a range toward the transitional balance impact at January 1, 2021, as being between $1 billion and $3 billion decrease to shareholders' equity, with our current point estimate being toward the lower end of this range.
+This decrease represents a netting between an increase to retained earnings and a decrease to AOCI.
+Once again, life and retirement's breadth of product offerings provides value as the LDTI impact of old traditional products covered by FAS 60 involving mortality are roughly offset by the elimination of historical AOCI adjustment associated with certain longevity products.
+Also, current GAAP accounting for living benefits is at fair value, and changes go through the income statement, whereas under LDTI, a portion of that charge will be recorded in AOCI, pertaining to the company's own credit spreads, which, for that piece, will help to dampen some volatility.
+But mortality benefits will now also be at fair value and will act as an offset to take volatility in the other direction within the GAAP income statement.
+Turning now to the recent S&P capital model changes.
+The deadline to respond has been extended to March of 2022, and S&P will presumably conclude shortly thereafter.
+Both the property, casualty, and the life retirement insurance industries will likely see higher capital charges for in insurance exposures as well as for asset credit and asset market risks.
+Additionally, reduced benefits of holding company cash liquidity and lower levels of accessible debt leverage is an indicated outcome, but all with material offsets due to increased diversification benefits.
+We have spent considerable time on the analysis of this proposal so far, but it is probably premature to make any predictions at this point before S&P in the industry have had more time to land upon the exact details of the final framework.
+Now in conclusion, by virtually all measures, growth, profitability, returns, margin expansion, adjusted book, adjusted tangible book value, debt leverage reduction, EPS, adjusted pre- and after-tax income, and net income all point to an outstanding year for AIG.
+When you also factor in our global platform, our marketplace actions and impact, the strength of our loss reserves, a robust reinsurance program, and massive portfolio reconstruction AIG is exceedingly well-positioned as we look to the separation of L&R, completing AIG 200, maintaining our path toward increasing profitable growth and for whatever else the future holds.

@@ -1,0 +1,207 @@
+Steve McMillan, Teradata's President and Chief Executive Officer, will lead our call today; followed by Mark Culhane, Teradata's Chief Financial Officer, who will discuss our financial results.
+We will also discuss other non-GAAP items such as free cash flow and constant currency revenue comparisons.
+A replay of this conference call will be available later today on our website.
+Teradata is off to a very good start in fiscal 2021.
+We had solid growth in revenue and free cash flow and we exceeded our quarterly outlook on public cloud ARR growth, and both GAAP and non-GAAP EPS.
+You all saw that we issued a release on April 21, pre-announcing our first quarter 2021 results as our quarterly earnings per share performance was higher than the guidance issued during our fourth quarter 2020 earnings call.
+We saw significantly higher earnings per share resulting from strong performance in revenue and gross margin, as well as continued solid expense discipline.
+With our customer base among the world's largest enterprises, and with large transactions, we can have non-linear quarters, which is why we encourage you to focus on a full-year outward and results rather than quarterly.
+During his remarks, Mark will explain in more detail.
+Now, on to the quarter.
+Teradata grew in all three geographic regions.
+Growth was driven by large cloud and subscription deals from customers making meaningful commitments to Teradata, adding to or expanding the workloads on Vantage.
+We also executed higher margin consulting project data and a small fast-growing contribution from new customers and partners.
+Our focus on profitable growth is as strong as ever, and we generated more profit dollars both year-over-year and sequentially.
+We are resolute and dedicated to keep that momentum going and are building upon our solid fundamentals to energize growth.
+In Q1, we continue to advance our cloud transformation, tightening the aperture on the strategy, and growing close momentum with customers, prospects, and partners by reinforcing our cultural ethos of inclusion and accountability.
+We confirmed our market strength and differentiation for Teradata Vantage, our connected multi-cloud data platform for enterprise analytics.
+Teradata holds a significant position in a large, important, and growing market.
+As enterprises continue the digital transformation, the opportunity in cloud is significant and we are moving with speed and purpose to accelerate our positioning.
+Teradata's capabilities in delivering outcomes across multi-cloud and hybrid environments, providing flexibility and lowering risk for the world's leading companies is being recognized with customers and the industry.
+As a connected data platform, Vantage brings an integrated set of capabilities with open extensibility enabling partnerships with cloud-service providers, systems integrators, and independent software vendors.
+Our heritage is an enterprise analytics with unparalleled skill to cost effectively address business challenges of governance and security for the largest companies in the world.
+And their technology differentiation supports the large enterprises and their complex, mixed workloads containing strategic and operational, traditional, and advanced analytics, as we help customers drive business outcomes.
+Our Q1 results demonstrate that our strategy is the right one, and it is resonating with current and prospective customers.
+With 176% year-over-year growth and public cloud ARR during the first quarter, customer engagement and acceptance continues to grow and become more evident.
+Customers are recognizing that our Vantage Cloud Platform is a great fit for their needs, and delivers business value from enterprise analytics in today's connected multi-cloud world.
+Vantage offers the deployment flexibility they need.
+Vantage software is consistent across all environments, whether multi-cloud, public-cloud, or on prem, supporting fast, easy, and low-risk migrations to the cloud.
+Our flexible cloud pricing options are also strongly resonating with customers and could use just two quarters ago, customers liked having choice in selecting a more predictable blended pricing, or our usage based pay as you go option.
+The unmatched power and skill in our Vantage platform, combined with deployment flexibility, and the pricing options we offer are all contributing to our public cloud ARR growth.
+Let's walk through a representative sample of our Vantage cloud wins.
+The team is running cloud business in all regions and with all of the leading cloud service providers, a tangible demonstration of the strength and the strategy and multi-cloud data platform.
+A worldwide [Indecipherable] retailer is migrating it's on prem environment to Vantage on as your customer utilizes Vantage for sales and inventory analytics and reporting.
+The move to Vantage on Azure allows for incremental and flexible growth needed to support more users and additional customer data driving enhanced insights into buying behavior that will result in more targeted offers.
+Teradata is blended pricing model enables their customer to cost effectively move away from the confines of on prem architecture, and easily steal compute and storage as needed.
+This customer also considered Snowflake and Azure Synapse Analytics, but ultimately chose to migrate Teradata and take advantage of the capabilities and Vantage as a service, including support for native objects to work new languages like Python and R, utils, like Jupiter and our studio and advanced analytics in machine learning and graph engines as well.
+Sirius XM, the leading audio entertainment company in North America, with more than 150 million listeners is migrating to Vantage on AWS as it modernizes its data and analytics ecosystem.
+Sirius XM is committed to continue innovation, using technology to understand listeners and drive more personalized communications.
+Vantage on AWS will serve as a mission critical foundational component to the customer's hybrid, best of breed analytics ecosystem, supporting increasing users, more sophisticated analytics, and an ever growing amount of data.
+Peoples decision to migrate to the cloud is the ability of Vantage to utilize low cost data storage offered with native object store.
+Sirius XM considered other cloud native solutions that determined they wanted a multi-cloud environment and Teradata offered the flexibility and support to deploy across multiple public cloud platforms.
+An American-based global health services company is migrating to Vantage on AWS for analytics and data science.
+Working with Accenture, Teradata won this deal over competition from Snowflake and Amazon Redshift.
+The Vantage on AWS environment will serve as the foundation for the customer to create a data superset that will enable innovation to improve patient health and lower healthcare costs to drive win-win growth.
+One of Europe's leading mail and package delivery companies is migrating as on prem environment to Vantage on Google Cloud.
+Banking serves as a platform for critical analytics used cases that support the company's strategic initiatives to drive an increase in its domestic parcel business.
+We partnered with Accenture, and executed a successful personal concept against cloud native offerings.
+Together our teams are able to demonstrate to the customer the flexibility and scalability of Vantage on Google cloud.
+One f the world's largest auto manufacturers headquartered in Asia Pacific has a strategic plan to enable data analytics at scale, best global manufacturer has added to his Vantage platform on AWS to accommodate the increased volume of IoT data, and additional premiums coming from business users.
+Insights from connected car data will drive product innovations and operational improvements in research and development.
+With this expansion, the environment has become one of our largest cloud customers in APJ.
+As we accelerate our cloud momentum, we are adding strong cloud leadership to the team.
+We recently appointed Barry Russell, as General Manager of Cloud and SVP of Business Development.
+Barry brings outstanding credentials in driving cloud transformations, and has successfully navigated through change initiatives similar to ours.
+Barry is working across all the organizations in the company, unifying our efforts on acquired growth strategies to scale our cloud business.
+He is also building partnerships and driving stronger collaboration with leading cloud service providers.
+Along with the growth we see in public cloud, we also continue to have strong on prem and private cloud business.
+Hybrid capabilities are extremely important to our customers as they move along their digital transformation journey.
+We see customers making meaningful long-term commitments to Teradata, and investing in their on prem and private cloud environments as they continue along the transition continuum to public cloud.
+These significant investments come as a result of receiving tangible and ongoing business value from Teradata and mutually beneficial business relationships.
+For example, one of the top five wireless carriers in the U.S. expanded in the Teradata environment to support the integration of a number of new business units.
+This customer is running over 7 million analytical queries and upwards of 20 million total queries per day to support 80 business applications critical to running its operations.
+The customer needed the scale and complex workload management that we uniquely provide that support its high growth.
+In a go to market transformation, we have added very capable and experienced leaders to augment a cloud first sales momentum and drive consistent value-based customer success.
+These senior level appointments include sales leaders in both the EMEA and Americas regions, a worldwide TTM strategy and operations head, and their new global leader of alliances, each bringing a great deal of cloud experience to rapidly move us forward.
+We're also going wide and deep in adding cloud [Indecipherable] experience to our selling teams.
+Our total TTM headcount or selling capacity is growing sequentially.
+We are seeing a cloud pipeline up a very strong double-digit percentage in core key verticals, as we have been addressing perceptions, increasing prospecting, and reinforcing strong customer relationships based on delivering lasting value.
+Our GTM leadership has also kept his attention on tuning our consulting organization to contribute very specifically to our efforts in increasing cloud ARR.
+We are building partnerships that will extend our reach in and our TTM efforts.
+And all regions we are growing collaboration with cloud service providers and are creating joint go to market initiatives.
+We are seeing increasing momentum with global systems integrators, gaining customers in the digital transformation journeys and helping them migrate Teradata on prem environments to Teradata in the cloud and in emerging markets such as in APJ, we're increasingly working with distributors to help us scale more rapidly.
+In the quarter, we [Indecipherable] an open partnering approach, and announced alliances with core industry verticals that have needs for cloud based data analytics.
+But imagine a couple.
+We jointly announced new offerings with GE Aviation that we believe will help airlines improve passenger experience and revenue growth.
+This partnership illustrates how integrating multiple data types helps organizations enable greater analytics ability.
+We recently announced a partnership with Antuit.
+Together, we will deploy the latest AI innovation to help retailers and consumer packaged goods companies optimized decision making for demand planning, assortment, allocation, and pricing.
+We also joined the open manufacturing platform, where we will be working with other leading manufacturers to drive innovation and industrial IoT and manufacturing an automotive industry for.
+zero solutions through cloud based data analytics.
+Along with stronger partnerships, our technology innovation engine is going strong.
+Our large airline modernizes data architecture by leveraging object stores as a journey to the cloud with advantages native object store feature and accelerated business insights by seamlessly joining data between the Vantage Cloud data warehouse and semi-structured data on object stores on demand.
+Along with AWS, Google Cloud and Azure with verified compatibility with seven private cloud S3 compatible object storage technologies.
+Our support for cloud native integrations was fathered as we enable our customers to securely collaborate with our consumers and partners, sharing and leveraging data across organizations to augment their analytics.
+With Vantage users can now publish data to and subscribe data from cloud native data marketplaces like AWS Data Exchange, and Azure Data Share.
+Demonstrating the strength of our technology garnered industry recognition in the quarter, Teradata was again named a leader.
+This time Forrester named as a market leader in Cloud Data Warehouse.
+In this ranking, we are solidly positioned as a leader along with three major cloud service provider platforms.
+This endorsement validates the Teradata the top choice for those that need a multi-Cloud Data Warehouse platform for their enterprise analytics.
+The strength of our company is in our people, and to build a continuously strong and vital organization our focus on diversity, equity, and inclusion or DE&I has woven into all that we do.
+We know that we are a stronger organization when we embrace DE&I as that enables transparency, belonging, and opportunity, all contributing to business practices that drive consistent, profitable growth.
+Last year, we committed to and met our goal of ensuring a diverse slate of candidates for all director and above positions, and we remain committed to working to eliminate unconscious bias throughout our hiring processes.
+Within our senior leadership ranks, in the last two quarters, 60% of our appointments were diverse, including 40% female.
+DE&I had an ongoing prioritized focus for us, and we are dedicated to actively and systemically ensuring we are driving a culture that values inclusion and supports, diversity, and equity of all forms.
+Also, in the environmental, social, and governance arena, we are pleased to again be named one of the 2021 world's most ethical companies by ecosphere.
+Operating with integrity at our core has always been our ethos, and we remain committed to doing business the right way.
+We were honored to be recognized for the 12th consecutive year with best meaningful designation.
+Throughout our transformation, we are reimagining Teradata into a more modern and relevant technology company.
+As we grow, we are designing a more modern future of work environment with greater flexibility for our people and greater agility for the company with more hybrid work arrangements.
+And as the world looks ahead to emerge from the veil of the COVID-19 pandemic, we're beginning a carefully phased reopening of our offices worldwide.
+Unsurprisingly, we're using data and analytics to guide us to return an allocation only when safe for our employees in line with all local government and health advice.
+And every situation we put our employees' health and well being first.
+Our teams demonstrated great resilience throughout the past year, collaborating across changing work environments, and remaining accountable to our customers and to each other.
+Best resilience set us up to thrive despite the challenges of the pandemic.
+A year ago tomorrow, I was honored to be named as Teradata's next CEO, and my passion for this company and what we do has grown immensely.
+I am very proud to work with this talented team of professionals that are committed to the power of data to transform how businesses work, and people love, and are obsessed with the success of our customers.
+And even more proud of this teams unequivocal pivot to the cloud, our results, customer validation, and industry recognition are testimony to the focus and dedication to drive lasting business value for our customers and shareholders.
+As I hand the call to Mark to discuss the financial performance in more detail, our Q1 results when another step in our strategy to win in the cloud, and achieve annual profitable growth.
+We affirm a fiscal 2021 annual ARR and revenue outlook and reins of fiscal 2021 outlook for earnings per share and free cash flow.
+Over to you, Mark.
+Additional commentary on key metrics and segment trends can be found in the earnings discussion document on our Investor Relations webpage at investor.
+I also want to remind everyone of the financial reporting change that we made for 2021 and announced on our prior earnings call since it appears that some street models use numbers not reflective of the reporting change.
+To reiterate, beginning in fiscal 2021, we reclassified managed services related ARR and revenue from recurring revenue and into non-recurring consulting revenue.
+And we reclassified third-party software related ARR and revenue out of recurring revenue and into non-recurring perpetual revenue.
+Accordingly, the year-over-year comparisons that I will cite in my comments are based on the reclassified amounts for the first quarter of 2020.
+And the full-year 2021 outlook that I provided on our prior earnings call is based on a comparison to the reclassified amounts for the full-year 2020.
+Let's move on to the results for the quarter.
+We are off to a very solid start to the fiscal year as Teradata exceeded the quarterly outlook we provided for public cloud ARR, as well as GAAP earnings per share and non-GAAP EPS.
+The company exceeded the outlook we provided due to solid execution by our go to market team, strong product market fit for our customers, our team's continued focus on profitable growth, and a strong focus on cash flow.
+We pre-announced our preliminary results two weeks ago once it became evident that we would materially exceed our first quarter expectations in GAAP earnings per share and non-GAAP EPS.
+As Steve noted, we released this information during our normal quiet period, and we could only provide limited context as we had not completed our full analysis of results at that time.
+I will go through the drivers of the quarter.
+But before I do, I want to remind everyone that Teradata engages in large transactions with large enterprise customers.
+We provided an annual outlook for fiscal 2021 ARR in revenue versus quarterly forecasts because of the reasons explained during our Q4 2020 earnings call that can create more variability in our quarterly results and make quarterly forecasts more difficult.
+Let's start with ARR.
+Public cloud ARR grew sequentially by over 18 million, ending the quarter at 124 million as reported or 176% growth year-over-year.
+We exceeded our outlook of 165% growth year-over-year, due to continued natural momentum of our Vantage multi-cloud platform.
+We continue to see customer demand for Vantage across all three leading public clouds.
+While today, we have mostly been focused on our existing customers, we are encouraged by the potential new customer activity we see in the cloud pipeline as we move forward into the future with our new efforts on customer acquisition.
+Importantly, we are also very pleased to see continued good organic growth by our annual cloud customer cohorts, especially from those customers who moved to the cloud with Teradata during the first quarter, where we saw strong double-digit growth during the quarter.
+Expansion rates continue to be very healthy.
+We are very pleased by the value our customers see for Vantage in the cloud, which gives us confidence to reaffirm our outlook for fiscal 2021 public cloud ARR year-over-year growth to be at least 100%.
+Total ARR increased to 1.404 billion at March 31, 2021 from 1.254 billion at March 31, 2020.
+Total ARR grew 12% year-over-year as reported.
+On a sequential basis total ARR was down 1% as reported and flat in constant currency given very strong FX headwinds.
+Consistent with prior years, our first quarter ARR sequentially declined, as it is our seasonal low point for ARR, and the fourth quarter is our seasonal high for ARR.
+As such, we continue to see and expect growth in subscription and public cloud ARR during 2021 and we reaffirm our full-year 2021 total ARR year-over-year growth of mid-to-high single-digit percentage.
+Turning to revenue, we had strong performance in all revenue categories, which increased total revenue to 491 million as reported from 434 million, an increase of 13% year-over-year, and 10% in constant currency.
+As a reminder, this is our first quarter reporting with our new revenue classifications, which has no impact on total revenues, but has the net impact of moving certain revenues out of recurring revenues into perpetual and consulting revenues.
+I'll refer you to this quarter's supplemental financial schedules, and our prior quarter's earnings discussion document for proper comparisons to prior reporting periods on the investor relations website at investor.
+Recurring revenue as reported increased to 372 million from 311 million, a 20% increase year-over-year, and a 17% increase in constant currency.
+There were two key drivers for this increase.
+First, we had a very strong Q4 2020 ARR growth, both public cloud and subscription, which contributed to the foundation for the strong year-over-year increase in recurring revenue.
+And second, as I mentioned in our fourth quarter earnings call, we expected that given our high-end enterprise customer base, we may see many of our existing customers operate Vantage on premises, as well as in the cloud.
+And that may change the revenue recognition for some existing on premises contracts to a different ratable recognition period, other than quarterly.
+We experienced a few significant transactions, principally driven by two significant renewals, one from a major health services company and another from a major Telco company where these customers made substantial commitments to Teradata and extended and expanded their arrangements with us not only on premises, but also added the ability to use Vantage in the cloud.
+Ultimately, the terms of these arrangements resulted in components of on premise software recurring revenue being recognized on a recurring annual basis, rather than on a recurring quarterly basis under U.S. Generally Accepted Accounting Principles.
+We have not changed our accounting policies.
+These few significant transactions resulted in approximately 24 million of 2021 recurring revenue recognized in the first quarter, rather than ratably across each of the four quarters of 2021.
+This will not impact the full-year 2021 recurring revenue associated with these transactions.
+Only the timing of recognition within 2021 was impacted.
+There will not be any impact of fiscal 2022 and beyond revenue.
+We plan to see the same amount of recurring revenue in the first quarter each year in the future during the multi-year term of these contracts.
+The variability in recurring revenue caused by these types of arrangements is a significant reason why we stated in our prior earnings call, we were not providing quarterly recurring or total revenue outlooks, but rather encourage you to focus on our annual outlook.
+The overall economics of these transactions have not changed.
+Only the timing of recognition of recurring revenue.
+And importantly, these few transactions are not included and did not impact the 176% year-over-year growth and public cloud ARR we reported this quarter.
+Turning to perpetual and consulting revenue, perpetual revenue of 23 million as reported showed flat growth year-over-year, but was ahead of the outlook comments we provided at the beginning of the year.
+While we are not emphasizing perpetual in our go-to-market model, perpetual revenue performed better than we anticipated, due primarily to deal mix in EMEA and third party software products.
+Consulting revenue as reported decreased to 96 million from 100 million a 4% decrease year-over-year.
+As we noted in our outlook comments last quarter, we anticipated consulting revenue to decline by 15% year-over-year in the first quarter of 2021, and to gradually improve throughout fiscal 2021.
+Our first quarter performance was well ahead of that trajectory as we saw better execution of engagements around the world, from both direct engagement with customers and joint engagement with partners that resulted in increased revenue in the quarter.
+Turning to gross profit, Q1 gross margin was 64.2%, approximately 10 percentage points greater than last year's period and approximately 5 percentage points greater than last quarter.
+We generated 315 million in gross profit dollars, which is 80 million higher than the same period last year, and 24 million better than last quarter, despite our total revenues been unchanged sequentially.
+The primary reasons were: first, we had a higher amount of recurring revenue at an improved gross margin rate driven by greater subscription and more cloud efficiencies versus prior year.
+Second, gross profit dollars benefited directly from the recurring revenue recognized annually in the quarter that I mentioned previously.
+And third, perpetual gross profit dollars were higher than anticipated driven by both perpetual revenue and gross margin rate higher than anticipated, driven by deal mix.
+And last, consulting margin was higher than anticipated driven by more profitable revenue mix.
+Turning to operating expenses, total operating expenses were down 1% year-over-year and 11% sequentially.
+This is due primarily to a lower cost based beginning fiscal 2021, spending less in discretionary SG&A year-over-year, less sales commission expense in Q1 2021 when compared to our traditionally high bookings in Q4 2020, and a focus on efficient operational execution.
+As a reminder, we undertook some cost actions in Q3 2020 to drive operational efficiencies that funded reinvestment in our strategic cloud initiatives.
+Turning to earnings per share, earnings per share of $0.69 significantly exceeded our outlook range of $0.38 to $0.40 provided last quarter, by $0.30 when using the midpoint.
+To provide some context are the main drivers of this $0.30 differential, approximately $0.16 is attributable to the few transactions where recurring revenue was recognized on an annual basis in the first quarter instead of on a quarterly basis throughout full-year 2021.
+This has no impact on full-year 2021 EPS.
+The remaining $0.14 was driven by the following and will impact full-year 2021 EPS.
+The higher than expected perpetual revenue and related higher gross margins, higher than expected consulting revenue, and related higher gross margins, and better recurring revenue growth in operational efficiencies.
+Turning to free cash flow, we had an excellent quarter of free cash flow generation driven by strong cash collections, higher operating margin, and other favorable working capital dynamics.
+Free cash flow in the quarter was 105 million, well ahead of the pace needed to achieve the annual free cash flow outlook of at least 259 we provided at the beginning of the year.
+As an update to cash payments related to our Q3 2020 cost actions, we previously expected to make total cash payments of approximately 42 million during fiscal 2021 and that 27 million was to be paid in the first quarter of fiscal 2021.
+We now expect total cash payments in fiscal 2021 of 36 million.
+We paid 18 million during the first quarter of fiscal 2021, and the remaining 18 million is expected to be paid during the remainder of fiscal 2021.
+About 14 million of the remaining 18 million is expected to be paid in the second quarter.
+Turning to stock buyback, we bought back 2.6 million shares at an average price of $32.94 or 85 million in total, as we take advantage of our strong balance sheet to buy back stock and offset dilution for shares issued this year.
+Turning to our outlook, as a reminder, the outlook we're providing is based on the financial reporting change that we made for 2021 and announced on our prior earnings call.
+To reiterate beginning in fiscal 2021, we reclassified managed services related ARR and revenue from recurring revenue and into non-recurring consulting revenue.
+And reclassified third party software related ARR and revenue out of recurring revenue and into non-recurring perpetual revenue.
+Accordingly, the year-over-year comparisons that I will cite in my comments for the second quarter and full-year 2021 outlook is based on a comparison to the reclassified amounts for the full-year and second quarter of 2020.
+For the full-year, we are reaffirming our fiscal 2021 outlook for ARR and revenue.
+Probably cloud ARR is expected to grow at least 100% year-over-year from 106 million at December 31, 2020.
+Total ARR is anticipated to grow in the mid-to-high single-digit percentage range year-over-year from the restated balance of 1.425 billion at December 31, 2020.
+Total recurring revenue is expected to grow in the mid-to-high single-digit percentage range year-over-year from the restated balance of 1.309 billion for the year ending December 31, 2020.
+Total revenue is anticipated to grow in the low-single-digit percentage range year-over-year from the 1.836 billion for the year ended December 31, 2020.
+We are raising our full-year fiscal 2021 non-GAAP earnings per share and free cash flow outlook.
+Non-GAAP earnings per diluted share are expected to be in the range of $1.61 to $1.67, which at the new midpoint of $1.64 is a $0.10 increase from the midpoint of the range previously provided.
+As I mentioned in my comments regarding first quarter 2021 results, $0.14 is flowing through to the full-year, but is offset by $0.06 of higher tax rate and weighted average diluted shares outstanding.
+We are raising our full year earnings per share outlook further by $0.02 at the midpoint.
+Free cash flow for the year is expected to be in the range of 275 million to 300 million, which is an increase from the prior outlook of at least 250 million.
+We expect to continue to be opportunistic in share buybacks and have approximately 352 million of share repurchase authorization at March 31, 2021.
+Similar to last quarter, we wanted to provide you with a few markers to assist you with your modeling of the second quarter of 2021.
+We anticipate Q2 recurring revenue to be slightly down to Q1.
+Q2 consulting revenue to be roughly flat to Q1 and Q2 perpetual revenue declined by about a third from the Q1 2021 amount.
+We anticipate Q2 gross margins to be up approximately 40 basis points to 50 basis points from the comparable quarter in the prior year, and Q2 operating margins to be up approximately 250 basis points from the comparable quarter in the prior year.
+We now expect the full-year tax rate to be approximately 24% to 25%.
+Given the rise in our stock price, and its impact in calculating fully diluted weighted average shares outstanding for earnings per share purposes, we now assume about 114 million fully diluted weighted average shares outstanding for both the full-year and the second quarter.
+With that, the outlook for the second quarter for 2021 is as follows: Public cloud ARR is expected to grow at least 155% year-over-year or in the range of 15 million to 20 million sequentially.
+Non-GAAP earnings per diluted share to be in the range of $0.47 to $0.49.
+And with that, operator, we are ready to take questions.

@@ -1,0 +1,95 @@
+We continue to be in various remote locations today.
+We may have some audio quality issues and we appreciate your patience should we experience a disruption.
+A replay of today's call will be available via phone and on our website.
+To be fair to everyone, please limit yourself to one question plus one follow-up.
+And now, I'd like to turn the discussion over to Phil Snow.
+I'm pleased to share our third quarter results headlined by strong top line growth.
+This has allowed us to increase our organic ASV plus professional services guidance for this fiscal year.
+Building on last quarter's momentum, we grew organic ASV plus professional services by 5.8% this quarter.
+The investments made in both content and technology over the past seven quarters have strengthened our product portfolio.
+And as a result demand for our solutions is increasing, further supported by our clients' own digital transformation needs.
+Our growth this quarter was strongest with wealth managers, banking clients and asset owners.
+The acceleration in ASV reflects solid execution from the sales team who increased wallet share with existing accounts and further improve client retention.
+Our strategy to build the industry's leading open content and analytics platform continues to make an impact in the market.
+We remain on track with our multiyear investment plan.
+We continue to build out our content offering with particular focus on deep sector, private markets, ESG and data for wealth managers.
+Growth in workstations this quarter was driven by deep sector and private markets data, especially with banks and corporate clients.
+The expansion of our StreetAccount coverage in Canada and Asia as well as more fund data collection has generated greater demand from wealth managers.
+And clients are using our data management solutions, which include entity mapping and data concordance services to manage their own content.
+These offerings are key differentiators often sought by asset management clients.
+Our migration to the cloud is progressing as planned, and gives us the opportunity to build new products that support ASV growth.
+One example is the advisor dashboard which is being well received by wealth managers as evidenced by new wins and solid pipeline.
+Clients are seeking personalized tools like the advisor dashboard that can surface insights, increase efficiency and help users identify the next best action.
+In addition, we provide greater flexibility to clients by further opening up our platform.
+Our broader API offerings allow clients to leverage core and alternative data sets, tap into our robust portfolio analytics engine, build digital portals and gain access to proprietary signals.
+We have seen strong demand for our analytics APIs, as well as fundamental company data APIs for CTS.
+We are also seeing more data sales through cloud-based platforms such as Snowflake and having success with CRM integrations.
+This growth in our digital solutions can be attributed to our technology investments.
+Looking at our regions, I'm pleased to say that our ASV growth rate increased in the Americas and EMEA across the majority of our business lines.
+The Americas growth rate increased to 6% with strength across CTS, research and analytics.
+Acceleration was driven primarily by strong workstation sales to our banking clients and overall demand for premium and core data feeds.
+We benefited from an increase in hiring of middle market and bulge bracket banks due to robust M&A and equity capital markets.
+EMEA's growth rate accelerated to 5% improving over the past two quarters.
+We experienced stronger results in research and analytics reflected in part by higher retention of our asset management and wealth firms.
+In addition, we captured greater international price increases as clients continue to affirm the value of our solutions.
+Asia Pac's growth remained at 9% driven largely by research and analytics.
+Results include strong cross sales to asset management firms, as well as increases to global banks who are hiring more to accommodate increased capital markets activity.
+The region also benefited from higher price increases.
+In summary, we enter the end of fiscal '21 with good momentum and have good visibility into our fourth quarter.
+We have a strong pipeline weighted most heavily toward institutional asset managers, broker-dealers and wealth managers and are increasing our organic ASV guidance to $85 million to $95 million for this fiscal year.
+Overall, we are encouraged by market trends.
+Clients are showing more willingness to spend against the backdrop of anticipated economic recovery.
+Decisions on more complex deals that had been delayed are now beginning to be reconsidered as clients look to execute on their own digital transformations.
+We see increased demand for enterprisewide technology upgrades and data management as CIOs and CTOs look to future proof their technology stacks.
+This gives us conviction in the long-term benefit of our multiyear investment plan and our path to higher growth.
+This month marks FactSet's 25th year as a public Company.
+I'm proud to reflect on our team's strong performance, the culture of continuous innovation we have fostered, and the significant value to shareholders we have created over the years.
+We will continue to push ourselves to create smarter, more adaptive and more personalized solutions that make us the trusted enterprise partner for clients.
+She will take you through the quarter in more detail.
+Our quarterly results also reflect increased year-over-year spending in people and technology, in line with our investment plan as well as anticipated higher ASV performance.
+We believe the progress made in our own digital transformation is enhancing our ability to help clients do the same.
+I will now share more details on our third quarter performance and provide an update to our annual outlook.
+We grew organic ASV plus professional services by 5.8%, reflecting in part the client demand for our solutions driven by their own digital transformation needs.
+In addition, our ability to realize higher pricing is a direct reflection of the value our products provide to clients.
+To that point, in line with the $14 million captured last quarter with the Americas price increase, we added $8 million from our international price increase this quarter.
+Our investments in content technology have further strengthened our product offerings with clients, as reflected in both higher levels of client retention and cross-selling.
+Focused execution from our sales team in delivering key workflow solutions also accelerated our growth.
+All of these factors underpin our results year-to-date.
+For the quarter, GAAP revenue increased by 7% to $400 million.
+Organic revenue which excludes any impact from foreign exchange, acquisitions and deferred revenue amortization increased 6% to $397 million.
+Growth was driven primarily by our analytics and CTS solutions, which have been the drivers of ASV in prior quarters.
+As a reminder, ASV represents the next 12 months of revenue.
+So there is a lag between the recording of ASV and the realization of revenue.
+For our geographic segments, organic revenue growth for the Americas grew to 6%, EMEA grew to 5% and Asia Pacific to 11%.
+All regions primarily benefited from increases in our analytics and CTS solutions.
+GAAP operating expenses grew 12% in the third quarter to $282 million, impacted by higher cost of services.
+Compared to the previous year, our GAAP operating margin decreased by 300 basis points to 29.5%, and our adjusted operating margin decreased by 390 basis points to 31.6%.
+As a percentage of revenue, our cost of services was 570 basis points higher than last year on a GAAP basis and 560 basis points higher on an adjusted basis.
+This increase is driven by higher compensation and technology costs.
+Compensation growth is comprised of higher salary expenses for existing employees, new hires to support our multiyear investment plan and higher bonus accrual in line with stronger than anticipated ASV performance.
+This higher technology spend relates to our planned migration to the public cloud.
+We have been experiencing higher cloud usage and costs due to increased client trials, enterprise hosting and new product development.
+We anticipate this level of elevated expenses to continue as clients adopt our digital solutions.
+SG&A expenses when expressed as a percentage of revenue improved year-over-year by 270 basis points on a GAAP basis and 170 basis points on an adjusted basis.
+The primary drivers include reduced facility expenses, lower spend due to office closures and a decrease in professional fees, offset in part by higher compensation costs, reflecting the same factors as noted in the cost of services.
+Moving on, our tax rate for the quarter was 12% compared to last year's rate of 15% primarily due to lower operating income this quarter, and a tax benefit related to finalizing prior year's tax returns.
+GAAP earnings per share was almost flat to last year at $2.62 this quarter versus $2.63 in the prior year.
+Adjusted diluted earnings per share decreased 5% to $2.72.
+Both earnings per share figures were largely driven by higher operating expenses, partially offset by higher revenue.
+Free cash flow which we define as cash generated from operations, less capital spending was $122 million for the quarter, a decrease of 13% over the same period last year.
+This decrease is primarily due to higher capital expenditure from higher investment in internal software and the timing of certain tax items.
+For the third quarter, our ASV retention continued to be above 95%, and our client retention improved to 91% which speaks both to the mission criticality of our solutions and the solid efforts and focused execution of our sales teams.
+We grew our total number of clients by 7% compared to the prior year to over 6,100 clients, largely due to the addition of more wealth and corporate clients, including private equity and venture capital firms.
+And our user count grew 11% year-over-year and crossed the total of 155,000, primarily driven by wealth and corporate users.
+For the third quarter, we repurchased over 178,000 shares of our common stock for a total of $58 million, at an average share price of $323.
+We also increased our quarterly dividend by 6.5% to $0.82 per share, marking the 22nd consecutive year that we have increased our dividend.
+We remain disciplined in our buyback program and committed to returning long-term value to our shareholders.
+The impact of our multiyear investment plan is reflected in our results.
+The demand for our strong content offerings, digital solutions and open platform is accelerating growth.
+Given our strong performance this quarter, and our confidence that we will execute successfully on a healthy pipeline as we close out the fiscal year, we are increasing our full-year organic ASV plus professional services guidance range to $85 million to $95 million.
+We are also reaffirming the other metrics in our annual outlook.
+Given its timing and nature, an increase in ASP in the fourth quarter will not materially change revenue in fiscal year '21, but would result in a higher bonus accrual.
+The related expense would impact our margins by an incremental 60 basis points to 75 basis points.
+We believe that we will remain within our stated annual guidance ranges.
+In closing, from the vantage point of now overseeing FactSet sales and marketing organization, I can attest to the diligent focus and efforts we have made this year, helping clients leverage our offerings, building a stronger and broader pipeline and converting opportunities to sales.
+I have confidence in our ability to continue to execute on all these fronts and grow our market share as we finish the year.

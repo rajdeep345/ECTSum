@@ -1,0 +1,100 @@
+Joining me in the call today are Dushyant Sharma, our founder and CEO; and Matt Parson, our CFO.
+In addition, during today's call, we will discuss non-GAAP financial measures, specifically contribution profit, adjusted gross profit, adjusted EBITDA and adjusted EBITDA margins our non-GAAP financial measures.
+These non-GAAP financial measures, which we believe are useful in measuring Paymentus performance and liquidity, should be considered in addition to, not as a substitute for, or an isolation, from GAAP results.
+All great things are happening at Paymentus.
+A strong financial performance with strong implementations and strong sales.
+Our contribution profit grew 37% year over year to $40.7 million in the quarter.
+This is a significant acceleration from Q3 of 2020 and from our last quarter.
+And we believe this is just the beginning of the network effect that we have been talking about.
+We have signed over 140 billers so far through Q3 and had an exceptionally strong quarter for sales, driven by a large enterprise business deal.
+This deal alone could add in excess of 400 basis points to our current revenue run rate when fully implemented.
+The strong sales performance is a good example of the halo effect from the IPN ecosystem we have built.
+We processed 70.6 million transactions in the quarter, an increase of 45% year over year, giving us an annualized run rate of over 280 million transactions.
+This amount remains less than 2% of the overall domestic bill payment market of over 15 billion transactions.
+In five of the six verticals that we currently focus on, utilities, insurance, financial services, telecommunications, government, and healthcare, we have less than 2% of the billers as clients, with utilities being the only one over 2%.
+Overall, we believe the sales opportunity is significant and the runway is long.
+In addition to the runway being long with respect to the ongoing addition of new clients, one of the key strengths of our business is the length of relationships that we enjoy with our existing clients and partners.
+They trust us with long-term contracts, generally three to five years, though sometimes longer.
+This gives us a significant ability to build and creatively execute on our strategy to grow our business into a big and pervasive platform and to expand our TAM, which also gives us a great deal of confidence regarding our growth prospects for 2022, 2023, and beyond, assuming, of course, that we continue to execute on our service and the payment volumes continue based on the historical patterns in the large market, we recently expanded our relationship with J.P. Morgan Chase.
+We'll work closely with the bank on sales of digital payment to J.P. Morgan Chase corporate and commercial clients.
+There will also be a revenue stream from some existing build pay clients at J.P. Morgan, which we will recognize as those clients go live on our platform.
+This is a very exciting relationship for us, and we have already seen the benefits in our sales and pipeline growth as billers have recognized the power of our combined resources.
+Additionally, in the mid-market, we have renewed our relationship with Harris Computer, a key partner for us.
+Harris is a leading provider of CIS systems to government and utilities, and we are optimistic about continuing to grow together.
+With the help of our partners, our network ecosystem, and our extraordinary sales team, we just had a very strong sales quarter, which continues our momentum from earlier in the year.
+We completed some sizable implementations in the third quarter, and fourth quarter looks as strong as well, providing strong growth going into 2022.
+For example, we brought one of the largest water utilities in the US live in Q3, serving well over 1 million customers, both residential and commercial.
+They chose Paymentus to replace a legacy provider because of our platform's functionality, real-time integration with their ERP system, and our IPN ecosystem.
+As anticipated, we closed our acquisitions of Payveris and Finovera in the third quarter and continued to make progress integrating them.
+Previously, Paymentus was not capturing financial services initiative transactions, but those payments now become part of our instant payment network following the Payveris acquisition.
+Further, a significant percentage of the Payveris transactions are sent to non-payment of billers.
+These billers then become targets of our sales team.
+We enjoy the same phenomenon across other IP partners as well.
+The implication is that we are no longer limited to only processing transactions for our 1,400-plus direct billers.
+Our reach through our IPN ecosystem massively extends our distribution and shows the power of IPN to expand our obtainable market.
+Just to make this point clear, consumers can pay bills to nonpayment distillers through technology, retail, and banking partners.
+We have created a modern platform and an ecosystem that allows any user, any biller and any partner to engage like never before possible and extend the flexibility of the billers ecosystem enjoyed through our platform to all these apps in our ecosystem.
+This results in a unique value proposition for all three and the flagyl effect.
+We are having a lot of fun leveraging the foundation of the ecosystem we have built by attracting the type of clients and partners we are adding.
+As we have built an ecosystem, our four objectives remain: No.
+1, find and implement as many billers as possible; No.
+2, constantly grow biller payment volume through digital adoption and usage; No.
+3, expand the reach of IPN to process every payment from every partner as possible; No.
+4, generate a long lead list of all billers that are outside of our biller-direct platform, but processed through our IPN network, and therefore, add them to our sales pipeline.
+Finally, some of the seeds we have been planting are bringing to sprout.
+Our B2B payment volume is over $1 billion now on a run rate basis.
+And similarly, our IPN network payment volume is over $1 billion as well.
+The reason I mentioned this is to provide proof points that both products are contributing to our financial performance and growth acceleration.
+We are excited about the momentum and expect to continue to expand on it.
+It's still early days, but a very positive sign.
+With that, I'll pass the call over to Matt.
+As a quick reminder, today's discussion includes non-GAAP financial measures.
+In the third quarter, we processed 70.6 million transactions, representing a year-over-year increase of 44.9%.
+As we add new products such as B2B, account-to-account and person-to-person, our transactions [Inaudible] inclusive of these, so the number now goes beyond pure bill payments to include other money movement transactions.
+This transaction growth drove a 30.3% increase in revenue over the same period in 2020, which resulted in revenue of $101.7 million.
+I'd just like to take a moment to highlight that this is the first time the company has crossed the $100 million mark for a quarter, which is a great achievement and milestone for us.
+We, as a management team of Paymentus, cannot wait for this to become our monthly revenue amount.
+Contribution profit for Q3 was $40.7 million, a 37.1% increase over the same period last year.
+Note that the combined impact of Payveris and Finovera was less than $1 million on both revenue and contribution profit.
+Growth for the quarter was stronger than anticipated due to the higher-than-expected volumes from certain large billers that went live in Q2 and Q3.
+The average amount of payment made on our platform was lower in Q3 of 2021 than it was in Q3 of 2020.
+Some early tailwinds from the J.P. Morgan partnership and a small amount of revenue from the acquired companies.
+Adjusted gross profit for the third quarter was $32.6 million, which is an increase of 38.3% from Q3 of 2020.
+Adjusted EBITDA was $5.5 million, which represents a 13.6% adjusted EBITDA margin.
+The 8.6% decline in adjusted EBITDA from the second quarter of 2021 is due to the cost increases related to being a public company, increased investments in R&D and sales and marketing and some small dilutive impact from the acquisitions.
+Operating expenses rose $10.9 million to $30 million for Q3 of 2021 from the same period last year.
+Overall, the increase in operating expenses from last year was driven by a variety of factors, including a corresponding increase in headcount as we continue to innovate with and for our customers, IPN partners and other partners, and we continue to invest in sales and marketing.
+We also experienced significant increases in G&A expense due to legal expenses and intangibles amortization related to the acquisitions, multifold increases in the cost of corporate insurance and continuing investment in public company infrastructure.
+And then, lastly, travel and marketing events did start to pick back up in Q3.
+Specifically, R&D expense increased $2.6 million or 41.7% from the third quarter in 2020 as we continue innovating with and for our customers and partners.
+This is a key point of differentiation for Paymentus, and we will continue to invest in it going forward.
+Also, a portion of the intangible amortization went into R&D.
+Sales and marketing increased $3.3 million or 41.4% as we continue to add headcount to accelerate the acquisition of new customers and partners, given the significant market opportunity and strong market position that we have and also a portion of the intangible amortization winning this sales and marketing as well.
+Our GAAP net income was $0.4 million, and GAAP earnings per share for Q3 was 0.
+Non-GAAP net income was $1.4 million.
+Non-GAAP earnings per share was $0.01 for the quarter.
+As expected, we closed the acquisitions of Payveris and Finovera and completed the preliminary purchase accounting for those acquisitions.
+As a result of the valuation performed, we recorded $53 million of identifiable intangible assets.
+Those intangible assets had useful lives of two to eight years.
+And so, the related amortization decreased our GAAP net income by $933,000 and our GAAP earnings per share by $0.01 in Q3, and it will have a meaningful impact on our GAAP net income and earnings per share going forward.
+However, because it's amortization, it will not impact our adjusted EBITDA.
+As of September 30, 2021, we had $177.5 million of cash and cash equivalents on our balance sheet.
+The cash decreased primarily due to the acquisitions and our share count on that date was 119.96 million shares.
+Now from our Q3 results, let's turn to our 2021 full year outlook.
+We are quite pleased to be able to raise our full year outlook for revenue and contribution profit, as well as reaffirm our full year outlook for adjusted EBITDA to be at the top end of the previously provided range.
+Our revenue outlook for 2021 is in the range of $391 million to $393 million, which represents growth between 29.5% and 30.5% year over year.
+For contribution profit, our full year outlook is between $156 million and $158 million or approximately 30% to 31%.
+It's worth highlighting that our guidance now for revenue and contribution profit growth is at 30% for the full year.
+For full year 2021, we also see adjusted EBITDA in the range of $26.5 million to $28 million with an adjusted EBITDA margin of approximately 17% to 18%.
+We expect that our full year effective tax rate will be approximately 55%, and this is due to the discrete onetime tax items that were discussed in Q2.
+On a normalized basis going forward, we would anticipate that our effective tax rate would be approximately 30%, assuming no changes to current US federal tax laws or rates.
+We are performing really well and feel very good about where we are in the final few weeks of 2021 and for 2022 and beyond.
+Despite processing nearly $50 billion of processing volume in the past 12 months, I still think of it as a start-up company that truly understands the overall fintech landscape and the opportunities therein.
+I believe we already have all of the pieces needed to be successful and continue to deliver growth results now and in the future.
+We are very excited about where we are headed because of five fundamental factors.
+1, a team of industry leaders.
+2, a strong, loyal and growing customer base and therefore, a line of sight to revenues in outer years.
+3, a great ecosystem, leading to more biller sales and consumer adoption.
+4, multiple vectors of monetization.
+5, a multitrillion-dollar addressable market in the US alone.
+We'll now open the line to questions.

@@ -1,0 +1,109 @@
+Our strong momentum from earlier in the year has continued despite the resurgence of COVID-19 due to the delta variant.
+This has not had an impact on our operations as we have learned to manage through these disruptions.
+Our outlook for the longer-term remains unchanged.
+The backdrop for the life science industry continues to be very strong.
+Biotech funding continues to run at record levels.
+According to the National Venture Capital Association, funding totaled $35.8 billion through September 2021, already exceeding the full year of 2020.
+The pipeline of late-stage molecules continues to expand and is at an all time high with almost 3,000 molecules in active Phase II or Phase III development.
+Clinical trial starts are trending well ahead of recent years with year-to-date starts up 23% over 2020 and 13% over 2019.
+And finally, new drug approvals by the FDA are keeping pace with the historically high levels of 2020 with 40 new drugs approved year-to-date, which sets the stage for a strong volume of upcoming commercial launches.
+The bottom line is the dynamics in the industry are strong and we remain bullish on our outlook for our end markets and for IQVIA in particular.
+As we think about our longer term plans, I want to remind you of our upcoming Analyst and Investor Conference on November 16th in New York City.
+At that meeting, we will provide financial guidance for 2022 ahead of our usual timeline, which is normally coinciding with the end of year results in early February and we will share as well, our mid-term outlook and plans for the next phase of IQVIA's growth.
+We look forward to seeing everyone and hope you can join us then.
+With that let's review the third quarter.
+Revenue for the third quarter grew 21.7% on a reported basis and 21.1% at constant currency and was $64 million above the midpoint of our guidance range.
+The beat was driven primarily by higher pass-throughs, which as you know dilutes our margin somewhat, as well as by a stronger organic revenue growth.
+Third quarter adjusted EBITDA grew 20.5% reflecting our revenue growth, as well as productivity measures.
+The $8 million [Phonetic] beat above the mid-point of our guidance range was entirely due to the stronger operational performance.
+Third quarter adjusted diluted earnings per share of $2.17 grew 33.1% that was $0.07 above the midpoint of our guidance with the beat coming from the adjusted EBITDA drop through, as well as favorability in below the line items.
+Let me now provide an update on the business.
+Our real-world evidence business continues to take a leading role in informing healthcare.
+In late September, the FDA released their drug guidance on how electronic health records and medical claims data can support regulatory decision making and it cited several IQVIA publications.
+With the growth of rare disease therapies and personalized medicine driven trials, the number of single-arm clinical trials increases every year and external comparators provide important context for these studies for both regulators and payers.
+Our clients recognized our leading expertise in this area.
+For example, we had a recent major win to deliver an external comparator in a cardiovascular study for top 20 pharma clients.
+In another example, we were awarded a 15-year follow up study to demonstrate the long-term effectiveness and safety of a newly launched gene therapy.
+Regulatory guidance requires extended follow-up for patients exposed to cell and gene therapy and IQVIA's innovative real-world capabilities combining direct to patient solutions, as well as IQVIA's technology platforms to capture secondary data was pivotal in this award.
+On the technology front, our suite of offerings continue to be adopted in the marketplace.
+You're familiar with our OCE platform and other commercial technology applications and we have, of course, continued to expand our footprint here.
+We had 10 new client wins in the quarter, bringing the total number of OCE wins to-date to 169 customers.
+But we are also very excited to see increased adoption of our orchestrated clinical trial suite OCT.
+This quarter, for example, a leading biotechnology company in Asia selected our site portal module within OCT to power site engagement across all of their trials.
+We now have 165 customers that have bought the site portal module, representing 155,000 sites and 1,716 active studies that are using our site portal module.
+Similarly, our award winning eCOA platform continues to experience strong demand.
+We have successfully deployed over 150 projects across 35 different therapeutic areas.
+To date, we have over 70 customers using this platform, including eight of the top 10 pharma clients.
+The platform has processed over 10 million unique patient responses in 65 countries and across 28 languages.
+Now I want to say a few words about a fast growing part of our industry.
+You are familiar with decentralized trials or DCT.
+The IQVIA's decentralized trial offering combined several tech modules within our OCT suite including e-COA, eConsent, telemedicine and connected devices, as well as other service capabilities, including home nurses and phlebotomy, along with our decentralized trial patient counselors and study coordinators, all organized around our decentralized trial platform.
+Importantly, we've developed innovative clinical patient engagement offerings including direct-to-patient services to accelerate recruitment and improve patient diversity and inclusion in clinical trials.
+When we step back and look at the growing importance of DCT in our own portfolio, we find that up to 30% of our active full service trials utilize one or more components of our DCT Offering.
+Incidentally, when our competitors speak about their own DCT offering.
+This is often what they report as their DCT business.
+When we look at trials that actually fully utilize our DCT capabilities, meaning they are fully run on our decentralized trial platform.
+We've been awarded 89 trials to-date, totaling over $1 billion.
+These awards are with 34 unique sponsors of which 10 have multiple decentralized trials ongoing with us.
+These trials spent 12 different therapeutic areas, 32 unique indications and have recruited over 200,000 patients in 40 countries, our ability to combine advanced clinical technology with an extensive network of investigators and care professionals differentiates us in this space and makes us the partner of choice for decentralized trials that utilize the full capabilities.
+Our overall R&DS business continues to build on its strong momentum.
+We had approximately $2.6 billion of net new bookings in the quarter, bringing our LTM net new bookings for the first time to over $10 billion including pass-throughs.
+This resulted in a contracted net book-to-bill ratio of 1.39 including pass-throughs and 1.28 excluding pass-throughs.
+At September 30, our LTM contracted book-to-bill ratio was 1.38 including pass-throughs and 1.37 excluding pass-throughs.
+Our contracted backlog in R&DS including pass-throughs grew 12.7% year-over-year to $24.4 billion at September 30, 2021.
+As a result, our next 12 months revenue from backlog increased to $6.9 billion, up $300 million sequentially versus the second quarter.
+As we have signaled several times in the past, we've ramped up investments in our lab capabilities.
+We recently announced the opening of our new 160,000 square foot Innovation laboratories in North Carolina.
+This facility provides customers with access to cutting edge bioanalytical, vaccine and genomics capabilities, along with an expansion into exploratory human biomarker discovery services.
+These new services will enable us to partner closely with sponsors in the development of essential biomarkers to support new molecules moving into clinical development and throughout their life cycle.
+And this expansion of course comes on top of the investment we announced last quarter in our 130,000 square foot facility in Scotland.
+Let's start by reviewing revenue.
+Third quarter revenue of $3,391 million grew 21.7% on a reported basis and 21.1% at constant currency.
+Year-to-date revenue was $10,238 million, growing at 27% reported and 25% at constant currency.
+Technology & Analytics Solutions revenue for the third quarter was $1,337 million, which was up 10.8% reported and 9.9% at constant currency.
+Year-to-date, Technology & Analytics Solutions revenue was $4,038 million, which was up 17.6% reported and 14.9% at constant currency.
+In the third quarter, R&D Solutions had revenue of $1,853 million, up 32.4% at actual FX rates and 31.9% at constant currency.
+Excluding the impact of pass-throughs, third quarter R&DS revenue grew 24.7% year-over-year.
+Year-to-date revenue in R&D Solutions was $5,612 million, up 37.7% reported and 36.2% at constant currency.
+Finally Contract Sales & Medical Solutions or CSMS revenue of $201 million was up 12.3% reported and 12.8% at constant currency.
+Year-to-date CSMS revenue was $588 million, growing 6.5% reported and 5.1% at constant currency.
+And let's move down the P&L to adjusted EBITDA, which was $728 million in the third quarter, up 20.5%, year-to-date adjusted EBITDA was $2,194 million, growing 33.1% year-over-year.
+Third quarter GAAP net income was $261 million and GAAP diluted earnings per share with $1.34.
+Year-to-date, we had GAAP net income of $648 million or $3.32 of earnings per diluted share.
+Adjusted net income was $423 million for the third quarter and adjusted diluted earnings per share grew 33.1% to $2.17.
+Year-to-date adjusted net income was $1,264 million or $6.48 per share.
+Turning now to the R&D Solutions backlog.
+As already reviewed R&D Solutions delivered another outstanding quarter of net new business.
+Backlog now stands at $24.4 billion.
+In last 12 months, net new bookings including pass-throughs rose to over $10 billion.
+Turning to balance sheet.
+At September 30th, cash and cash equivalents totaled $1.5 billion and debt was $12.2 billion.
+This resulted in net debt of $10.7 billion.
+Our net leverage ratio at September 30th came in at 3.65 times trailing 12 month adjusted EBITDA.
+Cash flow was again quite strong in the third quarter.
+Cash flow from operations was $844 million and with capex of $162 million, this resulted in free cash flow of $682 million.
+This third quarter performance brought our free cash flow year-to-date, that is through the first three quarters to almost $128 billion, which continues the strong improvement trend we've had over the past three years.
+In the quarter, we repurchased $125 million of our shares, which leaves us with $697 million of share repurchase authorization remaining under our latest program.
+Lets turn to guidance.
+As you saw, we're raising our full-year 2021 revenue guidance by $188 million at the midpoint, this reflecting the third quarter strength and the continued operational momentum in our business.
+Our new revenue guidance is $13,775 million to $13,850 million, representing year-over-year growth of 21.3% to 21.9%.
+Of note that included in this guidance is a $30 million headwind from FX versus our previous guidance.
+Now looking at the comparison to the prior year, FX is a tailwind of about 120 basis points to full-year revenue growth.
+We're also raising our profit guidance as a result of a stronger revenue outlook.
+We've increased our full-year adjusted EBITDA guidance by $20 million at the midpoint.
+Our new full-year guidance is $2,980 million to $3,010 million, which represents year-over-year growth of 25% to 26%.
+Moving down to EPS, we're increasing our adjusted earnings per share guidance by $0.10 at the midpoint.
+The new guidance range is now $8.85 to $8.95, which represents year-over-year growth of 37.9% to 39.4%.
+Now, our full-year 2021 guidance assumes that September 30th foreign currency rates remain in effect for the balance of the year.
+The full year guidance implies our fourth quarter guidance, which we show here and before getting into the numbers, I'll say for context, you'll probably recall that last year's fourth quarter was unusual due to a snap back in the general business as we rebounded from the effects of COVID-19, picked up incremental demand from mega vaccine studies in R&DS and government-related COVID work within TAS.
+Fourth quarter revenue is expected to be between $3,537 million and $3,612 million, representing growth of 7.2% to 9.5%.
+FX in the quarter is a headwind to growth of about 100 basis points.
+We expect fourth quarter TAS revenue growth to be mid single digits, reflecting the expected year-over-year decline in government COVID related work and the FX drag.
+I'll note though that underlying constant currency organic growth for TAS will be in the high single digits, which is a level that TAS has recently accelerated.
+R&DS revenue growth would be in the low teens with services growth in the mid teens despite last year's difficult comparison due to the COVID vaccine work.
+CSMS will be slightly down.
+Adjusted EBITDA in the fourth quarter is expected to be between $786 million and $816 million, up 6.9% to 11% and adjusted diluted earnings per share is expected to be between $2.37 and $247, growing 12.3% to 17.1%.
+So, in summary, we delivered a very strong third quarter with strong results results on both the top and bottom line.
+R&DS backlog improved to $24.4 billion, that's up 12.7% year-over-year, next 12 months revenue from backlog increased to $6.9 billion, up $300 million sequentially versus the second quarter.
+We reported another strong quarter of free cash flow, which at $1.8 million through the first three quarters of the year is a market improvement over prior year.
+And finally, we are once again raising our full year guidance for revenue, adjusted EBITDA and adjusted diluted EPS.

@@ -1,0 +1,253 @@
+I'm here with Arvind Krishna, IBM's chairman and chief executive officer; and Jim Kavanaugh, IBM's senior vice president and chief financial officer.
+I'll remind you the separation of our managed infrastructure services business, Kyndryl, was completed on November 3.
+As a result, our income statement is presented on a continuing operations basis.
+Our results also reflect the incremental revenue from the new commercial relationship with Kyndryl.
+Because this provides a one-time lift to our growth, we will provide the contribution to our revenue growth for the next year.
+For example, all of our references to revenue and signings growth are at constant currency.
+These statements involve factors that could cause our actual results to differ materially.
+Additional information about these factors is included in the company's SEC filings.
+Our fourth-quarter results reinforce our confidence in our strategy and model.
+With solid revenue growth, we are on track to the mid-single-digit trajectory we had laid out in our investor briefing last October.
+The trend we see is clear.
+Across industries, clients see technology has a major source of competitive advantage.
+They realize that powerful technologies embedded at the heart of their business can lead to seismic shifts in the way they create value.
+This reality of technology being about a lot more than cost will persist and explains why clients are eager to leverage hybrid cloud and artificial intelligence to move their business forward.
+Our fourth-quarter results illustrates the strong client demand we see in the marketplace for our technology and consulting.
+IBM Consulting again had double-digit revenue growth as our ecosystem play continues to gain momentum.
+Software revenue growth reflects strength in Red Hat and our automation offerings.
+Infrastructure had a good quarter, especially with regards to IBM Z and storage.
+Over the last year and a half, we have taken a series of actions to execute our hybrid cloud and AI strategy and improve our revenue profile, optimizing our portfolio, increasing investments, expanding our ecosystem, and simplifying our go-to market.
+As we start to yield benefits from these actions, our constant-currency performance improved through 2021.
+Our most significant portfolio action was the separation of Kyndryl.
+You will remember we had initially expected the spin by the end of the year, and we completed it in early November.
+As we discuss our results, we'll focus on the new basis and structure that encompasses today's IBM.
+As we look to 2022, we expect mid-single-digit revenue growth before Kyndryl and currency and $10 billion to $10.5 billion of free cash flow for the year.
+Both of these are consistent with our medium-term model.
+Let me now spend a few minutes on what we are seeing in the market, how we address it, and the progress we are making.
+We are seeing high demand for our capabilities in several areas.
+Clients are eager to automate as many business class as possible, especially given the new employee demographics.
+This dynamic is likely to play out over the long term.
+They are also using AI and predictive capabilities to mitigate friction in their supply chains.
+Cybersecurity remains a major area of concern as the cost of cybercrime, already in the billions of dollars, rises each year.
+As clients deal with these challenges and opportunities, they are looking for a partner they can trust and who has a proven track record in bringing about strategic transformation projects.
+This is why our strategy is focused on helping our clients leverage the power of hybrid cloud and AI.
+Hybrid cloud is about providing a platform that can straddle multiple public clouds, private cloud, and as-a-service properties that our clients typically have.
+Our approach is platform-centric, and the platform we have built is open, secure, and flexible and it provides a solid base of the multiplier effect across software and services for IBM and our ecosystem partners.
+It starts with Red Hat, which offers clients unique software capabilities based on open-source innovation.
+Our software, which has been optimized for that platform, helps our clients apply AI, automation, and security to transform and improve their business workflows.
+Our consultants deliver deep business expertise and they co-create with our clients to advance their digital transformation journeys.
+And our infrastructure allows clients to take full advantage of an extended hybrid cloud environment.
+This strategy, along with the differentiated capabilities we bring to bear to our clients, have led to an increase in platform adoption and new business opportunities across the stack.
+We now have more than 3,800 hybrid cloud platform clients, which is up 1,000 clients from this time last year.
+IBM Consulting continues to help drive platform adoption, with about 700 Red Hat engagements for the year.
+Clients like Dun & Bradstreet, National Grid, AIB, and Volkswagen have all recently chosen IBM's broad hybrid cloud and AI capabilities to transform their processes and move their business forward.
+As I look back on the year, we had good success in broadening our ecosystem to drive platform adoption and to better respond to client needs.
+During our investor briefing, we talked about strategic partnerships that will yield billion-dollar businesses within IBM Consulting.
+As we move toward that, we had more than 50% revenue growth this year in partnerships with AWS, Azure, and Salesforce.
+This adds to the strong strategic partnerships we have with others such as SAP, Oracle, and Adobe.
+We're continuing to broaden our ecosystem reach.
+In the fourth quarter, we announced an expansion of our strategic partnership with Salesforce to run MuleSoft integration software on Red Hat OpenShift.
+We also created a host of new consulting services with SAP to help clients accelerate their journey to S/4HANA.
+Together with Deloitte, we announced DAPPER, an AI-enabled, managed analytics solution.
+And we have expanded our partnership with EY to help organizations leverage hybrid cloud, AI, and automation capabilities to transform HR operations.
+We have also recently announced a host of new strategic partnerships with Cisco, Palo Alto Networks, and TELUS, all focused on the deployment of 5G, edge, and network automation capabilities.
+During 2021, we have been making changes to increase our focus and agility and build a stronger client-centric culture.
+This includes putting experiential selling, client engineering, and co-creation at the heart of our client engagement model.
+We have completed thousands of IBM Garage engagements.
+And today, we have nearly 3,000 active engagements.
+We've invested in hundreds of customer success managers to help clients capture more value from our solutions.
+And we have upgraded our skills with fewer generalists and more technical specialists.
+This is resonating well with our clients, and it's starting to contribute to our performance.
+The most important metric, of course, is revenue growth, but we are also pleased to see our client renewal rates increasing and our recurring revenue base growing.
+We are starting to see signs of sales productivity improvements, with average productivity per technology seller increasing from the first to the second half.
+At the same time, innovations that matter to our clients remain a constant focus, and our teams have worked hard to deliver a series of important innovations in the past quarter.
+Starting with AI, we added new natural language processing enhancements to Watson Discovery.
+We're also combining and integrating products such as Turbonomic, Instana, and Watson AIOps to offer a complete set of AI-powered automation software to address the significant demand.
+This quarter, Red Hat announced that the Ansible automation platform is now available on Microsoft Azure, bringing more flexibility to clients and how they adopt automation.
+In partnership with Samsung Electronics, IBM announced a breakthrough that reorients how transistors are built upon the surface of a chip to enable tremendous increases in energy density.
+In Quantum, we unveiled Eagle, 127-qubit quantum processor.
+This is the first quantum chip that breaks the 100-cubic barrier and represents a key milestone on our path toward building a 1,000-cubit processor in 2023.
+While organic innovations are important, we continue to acquire companies that complement and strengthen our portfolio.
+We made five acquisitions in the fourth quarter and a total of 15 acquisitions in 2021.
+Two weeks ago, we announced the acquisition of Envizi.
+Many consumers are willing to pay more for products that are made by companies that are more environmentally sustainable.
+As the world continues to move toward a more circular economy, our clients' need is the ability to manage and measure their progress.
+Envizi's capabilities complement our own and help us respond to that client demand.
+Sustainability is important across a number of stakeholder groups, including clients, employees, and investors.
+We are continuing to make good progress and are particularly proud of our diversity and inclusion scores, and our ability to attract and retain talent.
+Our efforts were recently recognized by JUST Capital who named IBM as one of America's most just companies.
+Let me now close by emphasizing once again our fourth-quarter results strengthen the conviction that we have in our ability to deliver our model of mid-single-digit revenue growth.
+Jim will take you through the fourth quarter and then provide more color on 2022.
+Jim, over to you.
+Let me start out with a few of the headline numbers.
+We delivered $16.7 billion in revenue, 58% operating gross margin, operating pre-tax income of $3.5 billion, and operating earnings per share of $3.35 for continuing operations.
+Last January, we said we expected performance to improve over the course of 2021 as we start to benefit from the actions we've taken.
+We have seen progress in our constant-currency revenue growth rate every quarter and now again in the fourth.
+This is the first view of IBM post-separation.
+We had solid revenue performance, up nearly 9%.
+I'll remind you, this includes the incremental revenue from the new commercial relationship with Kyndryl, and we said we would be transparent on the contribution to our revenue growth for the first year.
+This quarter, our revenue growth includes about 3.5 points from the new relationship.
+Excluding this, IBM's revenue was up 5%.
+We have aligned our operating model and segment structure to our platform-centric approach.
+In the fourth quarter, Software was up 10%, and Consulting was up 16%.
+These are our two growth vectors and together represent over 70% of our annual revenue.
+Infrastructure, more of a value vector, tends to follow product cycles and was up 2%.
+The Software and Infrastructure growth each include nearly 5 points from the new Kyndryl relationship while there is no contribution to Consulting's growth.
+Our platform-centric model has attractive economics.
+For every dollar of hybrid platform revenue, IBM and our ecosystem partners can generate $3 to $5 of software, $6 to $8 of services, and $1 to $2 of infrastructure revenue.
+This drives IBM's hybrid cloud revenue, which is up 19% for the year.
+Post-separation, revenue from our full-stack cloud capabilities from Infrastructure up through Consulting now represents $20 billion of revenue or 35% of our total.
+Looking at our P&L metrics.
+Our operating gross profit was up 3%, and the $3.5 billion of operating pre-tax profit was up over 100%.
+Operating net income and earnings per share also grew.
+Let me highlight a couple of items within our profit performance.
+First, the year-to-year pre-tax profit reflects $1.5 billion charge to SG&A last year for structural actions to simplify and optimize our operating model and improve our go-forward position.
+We're continuing to invest to drive growth.
+Throughout the year, we have been aggressively hiring, with about 60% of our hires in Consulting.
+We're scaling resources in Garages, sign engineering centers, and customer success managers, all to better serve our clients.
+We're increasing investments in R&D to deliver innovation in AI, hybrid cloud, and emerging areas like Quantum.
+We're ramping investment in our ecosystem, and we acquired 15 companies in 2021 to provide skills and technologies aligned to our strategy, including capabilities to help win client architecture decisions.
+Regarding tax, our fourth-quarter operating tax rate was 14%.
+This was up significantly from last year but roughly 2 to 3 points lower than what we estimated in October due to a number of factors, including the actual product and geographic mix of our income in the quarter.
+Let me spend a minute on our free cash flow and balance sheet position.
+Our full-year consolidated cash from operations was $12.8 billion, and free cash flow was $6.5 billion.
+These are all-in consolidated results and include 10 months of Kyndryl and the cash paid for the 2020 structural actions and spin charges.
+IBM's stand-alone or baseline free cash flow for the year was $7.9 billion, which is aligned to our go-forward business.
+This excludes Kyndryl charges and pre-separation activity but includes the IBM portion of the structural actions.
+Payments for these IBM-related structural actions and deferred cash tax paid in 2021 contributed to the year-to-year decline in the stand-alone results.
+In terms of uses of cash for the year, we invested over $3 billion in acquisitions.
+We continue to delever, with debt down nearly $10 billion for the year and over $21 billion since closing the Red Hat acquisition.
+And we returned nearly $6 billion to shareholders in the form of dividends.
+This results in a year-end cash position of $7.6 billion, including marketable securities and debt of just under $52 billion.
+Our balance sheet remains strong, and I'd say the same for our retirement-related plans.
+You'll remember that over the last years, we've shifted our asset base to a lower risk profile.
+In 2021, the combination of modest returns and higher discount rates improved the funded status of our plans.
+In aggregate, our worldwide tax-qualified plans are funded at 107%, with the U.S. at 112%.
+Now, I'll turn to the details by segment, and I'll remind you we have put in place a simplified management system and segment structure aligned to our platform-centric model.
+And within the segments, we're now providing new revenue categories and metrics that will provide greater transparency into business trends and drivers.
+IBM Software delivered double-digit revenue growth in the quarter.
+This was driven by good revenue performance in both hybrid platform and solutions and transaction processing, the latter benefiting significantly from the new Kyndryl content.
+Software is important to our hybrid cloud strategy and our financial model.
+Our hybrid cloud revenue in software is up 25% for the year to more than $8.5 billion.
+And subscription and support renewal rates continue to grow again this quarter, contributing to a $700 million increase in the software deferred income balance over the last year.
+Hybrid platform and solutions revenue was up 9%.
+This performance is an indication of the strength across the software growth areas focused on hybrid cloud and AI.
+It's worth mentioning this includes only a point of help from the new Kyndryl commercial relationship.
+Let me highlight some of the trends by business area.
+Red Hat revenue, all in, was up 21%.
+Both infrastructure and app dev and emerging tech grew double digits as RHEL and OpenShift address enterprise's critical hybrid cloud requirements.
+With this performance, we're continuing to take share with our Red Hat offerings.
+Automation delivered strong revenue growth, up 15%.
+As Arvind mentioned, there is strong market demand for automation.
+We had good performance in AIOps and management this quarter as we address resource management and observability.
+Clients are realizing rapid time to value from Instana and Turbonomic, two of our automation acquisitions.
+And integration grew with continued traction in Cloud Pak for Integration.
+Data and AI revenue grew 3%.
+We have particular strength in data fabric, which enables clients to connect siloed data distributed across the hybrid cloud landscape without moving it.
+You'll recall, we talked about the data fabric opportunity back in October.
+We also had strong performance in business analytics and weather.
+Within these solutions, clients are leveraging our AI to ensure AI models are governed to operate in a fair and transparent manner.
+Security revenue declined modestly in the quarter driven by lower performance in data security, while revenue grew 5% for the year.
+As we called out in our recent investor briefing, security innovation is an integral part of our strategy.
+In December, we launched a new data security solution, Guardium Insights, with further plans to modernize the broader portfolio throughout the year.
+This quarter, we also completed the acquisition of ReaQta, which leverages AI and machine learning to automatically identify and block threats at the endpoint.
+Putting this all together, our annual recurring revenue, or ARR, is now over $13 billion, which is up 8% this quarter.
+This demonstrates the momentum in our hybrid platform and AI strategy, including Red Hat and our suite of Cloud Paks.
+Moving to transaction processing.
+Revenue was up 14%.
+This is above our model driven by a few underlying dynamics.
+First, all of the growth in transaction processing came from the new Kyndryl commercial relationship, which contributed more than 16 points of growth.
+Second, I'll remind you that we're wrapping on a very weak performance in the fourth quarter of last year, which was down 26%.
+And lastly, we had some large perpetual license transactions given the good expansion in the IBM Z capacity we've seen this cycle.
+While the new capacity is important, what's just as important is the continued strong renewal rates this quarter.
+These are both good proof points of our clients' commitment to our infrastructure platform and these high-value software offerings.
+Looking at software profit.
+We expanded pre-tax margin by 12 points, including nearly 10 points of improvement from last year's structural actions.
+Revenue grew 16% with acceleration across all three revenue categories.
+Complementing this strong revenue performance, our book-to-bill was 1.2.
+Clients are accelerating their business transformations powered by hybrid cloud and AI to drive innovation, increase agility and productivity, and capture new growth opportunities.
+Enterprises are turning to IBM Consulting as their trusted partner on this journey.
+They are choosing us for our deep client, industry, and technical expertise, which drives adoption of our hybrid cloud platform and pulls through key technologies.
+Consulting's hybrid cloud revenue grew 34% in the quarter.
+For the year, cloud revenue is up 32% to $8 billion.
+Offerings and application modernization, which are centered on Red Hat, contributed to this growth.
+The Red Hat-related signings more than doubled this year and are now over $4 billion since inception.
+This quarter, we added over 150 client engagements, bringing the total since inception to over 1,000.
+Our strategic partnerships also drove our performance.
+Revenue from these partnerships accelerated as the year progressed and was up solid double digits in the fourth quarter led by Salesforce, SAP, AWS, and Azure.
+Turning to our business areas.
+Our Consulting's growth was led by business transformation, which was up 20%.
+Business transformation brings together technology and strategic consulting to transform critical workflows at scale.
+To enable this, we leverage skills and capabilities in IBM technologies and with strategic ecosystem partners such as SAP, Salesforce, and Adobe.
+Our practices are centered on areas such as finance and supply chain, talent, industry-specific solutions, and digital design.
+This quarter, we had broad-based growth, reflecting strong demand for these solutions.
+In technology consulting, revenue was up 19%.
+Technology consulting architects and implements cloud platforms and strategies.
+We leverage hybrid cloud with Red Hat OpenShift and work with providers, such as AWS and Azure, in addition to IBM Cloud.
+This quarter, we continue to see good performance in application modernization offerings that build cloud-native applications and that modernize existing applications for the cloud.
+Finally, application operations revenue grew 8%.
+This business line focuses on application and cloud platform services required to operationalize and run in both cloud and on-premise environments.
+Revenue growth was driven by offerings, which provide end-to-end management of custom applications in cloud environments.
+Moving to consulting profit.
+Our pre-tax income margin expanded about 8 points, including just over 9 points from last year's structural actions.
+We're in a competitive labor market, and we continue to have increased pressure on labor costs due to higher acquisition, retention, and wages.
+While we still expect to capture this value in our engagements, it will take a few quarters to appear in our profit profile.
+So, now, turning to the new Infrastructure segment.
+Revenue was up 2%.
+The Kyndryl commercial relationship contributed about 5 points of growth, which is higher than we expected in October.
+In this segment, we brought together hybrid infrastructure with infrastructure support, which was formerly technology support services.
+This allows us to better manage the life cycle of our hardware platforms and to provide end-to-end value for our clients.
+Hybrid infrastructure and infrastructure support revenue were up 2% and 1%, respectively, with pretty consistent contribution from the new Kyndryl relationship.
+Hybrid infrastructure includes IBM Z and distributed infrastructure.
+IBM Z revenue performance, now inclusive of both hardware and operating system, is down 4% this quarter.
+This is the 10th quarter of z15 availability and the combination of security, scalability, and reliability continues to resonate with clients.
+This program continues to outpace the strong z14 program, and we ship more MIPS in the z15 program than any program in our history.
+Our clients are leveraging IBM Z as an essential part of their hybrid cloud infrastructure.
+And then in distributed infrastructure, revenue was up 7% driven by pervasive strength across our storage portfolio.
+Looking at infrastructure profit.
+The pre-tax margin was up over 9 points but essentially flat, normalizing for last year's structural action.
+Now, I'll wrap up with a discussion of how our investments and actions position us for 2022 and the longer term.
+We've been laser-focused on our hybrid cloud and AI strategy.
+Our portfolio, our capital allocation, and the moves we've been making are all designed to create value through focus for our clients, our partners, our employees, and our shareholders.
+We took significant steps during 2021.
+The most impactful portfolio action was, of course, the separation of Kyndryl.
+We've also been allocating capital to higher-growth areas, investing in skills and innovation, and expanding our ecosystem.
+We've aligned our business to a more platform-centric business model.
+And we're simplifying and redesigning our go-to-market to better meet client needs and execute on our growth agenda.
+Bottom line, we're exiting 2021 a different company.
+We have a higher-growth, higher-value business mix, with over 70% of our revenue in software and services and a significant recurring revenue base dominated by software.
+This will result in improving revenue growth profile, higher operating margin, strong and growing free cash flow, and lower capital intensity, leading to a higher return on invested capital business.
+We also continue to have attractive shareholder returns through dividends.
+In October, we laid out a model for IBM's performance over the medium term defined as 2022 through 2024.
+The model is focused on our two most important measures of success: revenue growth and free cash flow.
+As we enter the new year, I'll talk about our expectations for 2022 performance along those dimensions.
+We expect to grow revenue at mid-single-digit rate at constant currency.
+That's consistent with the model.
+On top of that, in 2022, the new commercial relationship with Kyndryl will contribute an additional 3 points of growth spread across the first three quarters.
+Currency dynamics, unfortunately, will be a headwind.
+At current spot rates, currency is roughly a 2-point headwind to reported revenue growth for the year and 3 points in the first quarter.
+For free cash flow, we expect to generate $10 billion to $10.5 billion in 2022.
+To be clear, this is an all-in free cash flow definition.
+The adjusted free cash flow view we provided in 2021 was useful given the significant cash impact associated with the separation and structural actions.
+Now in 2022, despite the fact we still have nearly $0.5 billion of impact from the charges, we're focusing on a traditional free cash flow definition.
+The $10 billion to $10.5 billion reflects a year-to-year improvement driven by lower payments for the structural actions, a modest tailwind from cash taxes, working capital improvements, and profit growth resulting from our higher growth and higher value business mix.
+With this performance, we're on track to our model.
+So, now, let me provide some color on our expectations for segment performance.
+Because this is a new segment structure, I'm going to spend a little more time and provide perspective on constant-currency revenue growth and pre-tax margin in the context of our segment models.
+In Software, as we benefit from the investments in innovation and our go-to-market changes, we're seeing progress in our Software growth rate.
+In 2022, we expect growth at the low end of the mid-single-digit model and then another 5 to 6 points of revenue growth from our external sales to Kyndryl.
+We expect Software pre-tax margin in the mid-20s range for the year.
+We have solid momentum in IBM Consulting revenue and expect this to continue into 2022 as we help clients with their digital transformations.
+This momentum and our book-to-bill ratio support revenue at the high end of our high single-digit model for the year, with double-digit growth in the first half.
+We expect low double-digit pre-tax margin for the full year with improving performance through the year as we make progress on price realization.
+Infrastructure revenue performance will vary with product cycle.
+In 2022, with a new IBM Z introduction late in the first half, we expect performance above the model and a slight contribution to IBM's overall growth.
+On top of that, we're planning for about 2 to 3 points from the external sales to Kyndryl in 2022.
+This supports a high-teens pre-tax margin rate for the full year.
+These segment revenue and margin dynamics will yield about a 4-point year-to-year improvement in IBM's pre-tax operating margin for the full year and 2 to 3 points in the first quarter.
+In terms of tax, we expect a mid- to high-teens tax rate, which is a headwind to our profit growth.
+Bringing this all together, we expect mid-single-digit revenue growth before Kyndryl and currency and $10 billion to $10.5 billion of free cash flow for the year, both in line with our midterm model.
+Patricia, let's go to the Q&A.
+Before we begin the Q&A, I'd like to mention a couple of items.
+In addition to our regular materials, we've included a summary of our new segments for your reference and historical data on segment pre-tax income.
+And then, second, as always, I'd ask you to refrain from multi-part questions.

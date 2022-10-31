@@ -1,0 +1,135 @@
+Please see the Events section of our Investor Relations homepage for a full list.
+Our actual results may differ significantly from the matters discussed today.
+When you hear us say on a comparable basis, that means excluding the impact of FX, net M&A and other noncomparable items.
+When you hear us say adjusted, that means excluding noncomparable items.
+When you hear us say organic, that means excluding the impact of FX and net M&A.
+We will also refer to our market.
+When you hear us say market, that means the change in light and commercial vehicle production weighted for our geographic exposure.
+Our outgrowth is defined as our organic revenue change versus the market.
+We encourage you to follow along with these slides during our discussion.
+We're very pleased to share our results today for the first quarter of 2021 and provide an overall company update starting on Slide number five.
+I'm very proud of our strong start of the year despite the components supply headwinds.
+With just over $4 billion in sales, our first quarter revenue increased over 18% organically.
+This compares to a market being up less than 13%.
+So our outgrowth was about 570 basis points for the quarter, which was ahead of our expectation and our guidance for the year.
+We saw strong outgrowth in North America and Europe.
+Our earnings per share increased year-over-year due to the impact of our higher revenue.
+Our incremental margin performance was in line with our expectations, with an even strong free cash flow of $147 million for the quarter, a good strategy toward our full year guidance.
+We also secured additional new business awards for electrified vehicles, which I speak about in a moment.
+And finally, during the quarter, we announced our planned acquisition of AKASOL.
+The key strategic elements of the AKASOL acquisitions are detailed on Slide number six.
+Based on the last couple of years of experience we have in this space, we're believers in the prospect of easy bet resistance and are very familiar with the industry players.
+As a leader in this space, AKASOL had been on our radar for a long time as a potential partner.
+We're confident that AKASOL is an excellent strategic fit for BorgWarner, and we are really excited about adding their capabilities to our portfolio.
+In particular, we're attracted to AKASOL's following strength.
+Flexible battery technology across multiple cell architectures, proven technology and products with established manufacturing facilities already in serial production today, strong order backlog of about $2.4 billion, primarily from leading OEMs and a focus on bus, CV and off-highway applications.
+We're extremely excited and expect to complete the transaction during the second quarter.
+Next I would like to highlight a significant new program win for electric vehicles on Slide seven.
+BorgWarner's Integrated Drive Module, or as we call it, our IDM, was selected by a major non-Chinese Asian OEM for its upcoming global S segment electric vehicle production planned to start in mid-2023.
+This is a significant program for the company as it is our first IDM award combining BorgWarner's and legacy Delphi Technologies portfolio.
+It is a validation of the potential we saw in bringing our two companies together.
+And there is more to come.
+This IDM features our electric motor, our box and our integrated power electronics.
+It operates at 400 volts and has exceptional peak power of 135 kilowatts.
+The IDM weight and space are reduced by integrating our gearbox, our 400-volt silicon inverter and our motor.
+This results in a maximized power density and functionality.
+The IDM also offers a scalable and modular inverter design making it easily adaptable to customer requirements.
+This is an important step for the company with a great partner.
+Next, on Slide eight, let me summarize our new strategical project charging forward that we unveiled at our Investor Day in late March.
+With successful execution of this strategy, we expect to deliver over 25% of our revenue from electric vehicles by 2025 and approximately 45% by 2030.
+That compares to under three percent of revenue today.
+Project charging forward as three pillars: one, we plan to profitably scale ELVs through our continued integration of Delphi and our ability to capture synergies.
+The new IDM win is a great example.
+We would also pursue other organic and inorganic actions; two, we intend to expand more aggressively into ECVs.
+We will do that by leveraging our strong intimacy with CV customers as well as our position in ELVs.
+We're building out a go-to-market product portfolio and operation capabilities organically and inorganically.
+Our AKASOL acquisition is a key part of this expansion.
+And three, we plan to optimize our combustion portfolio, reducing our exposure by disposing parts of the portfolio that we believe are lower growth that don't ever pass to product leadership or that are not expected to deliver strong margins.
+We believe we can fund the EV growth underlying project charging forward, primarily from the capital generated by our existing operations.
+This is not a certain change in the company's direction.
+It is a logical extension to what we've been building since 2015.
+We're excited about the acceleration of the market toward electrification and about the momentum that we are building with our customers.
+Next, on Slide nine.
+I'm proud to announce that BorgWarner achieved The Great Place to Work certified status for the second consecutive year.
+Great Place to Work is the global authority on workplace culture.
+This certification validates BorgWarner's positive work environment.
+I've said before that the BorgWarner secret sauce starts with our people: to lead, develop and attract the best talents.
+We strive to be an employer of choice where we operate around the world.
+We cultivate a workplace environment that is collaborative, transparent, inclusive and that promotes continuous learning and excellence.
+So let me summarize our first quarter results and our outlook.
+The first quarter was a good start to the year, particularly considering the supply challenges currently impacting the industry.
+We delivered strong top line growth, and we believe we're tracking well toward our full year margin and free cash flow objectives.
+Our first quarter performance has led us to increase our full year revenue and adjusted earnings per share guidance despite a lower industry production outlook, as Kevin will detail.
+As we look beyond 2021, I'm extremely excited about our long-term positioning.
+We are continuing to take significant steps that we believe will help us to secure our profitable growth well into the future.
+We are winning, in line with our expectations in the electric world, both from a component standpoint like inverters and heaters, for example, and also from a latest generation system standpoint with our IDMs. We're focusing on a disciplined inorganic investment approach, like the planned acquisition of AKASOL, which adds great technology to our portfolio while supplementing our growth profile.
+Before I review the financials in detail, I'd like to provide a quick overview of the two key takeaways from our first quarter results.
+First, our revenue came in stronger than we were expecting going into the year.
+This was driven by the fact that we delivered solid outgrowth with both the legacy BorgWarner and former Delphi Technologies businesses performing better than expected.
+Second, our margin and cash flow performance in the quarter were strong, driven by the top line results as well as our cost-saving measures.
+As we look at our year-over-year revenue walk for Q1, we begin with pro forma 2020 revenue of $3.2 billion, which includes $945 million of revenue from Delphi Technologies.
+You can see the foreign currencies increased revenue by about six percent from a year ago.
+Then our organic growth year-over-year was over 18% compared to a less than 13% increase in weighted average market production.
+That translates to 570 basis points of outgrowth in the quarter, which breaks down as follows: in Europe, we outperformed by mid- to high single digits, driven by growth in small gasoline turbochargers and strong performance in multiple former Delphi Technologies businesses, most notably fuel injection.
+In North America, we outperformed the market by high single digits as we saw a nice benefit from the ramp-up of the new Ford F-150 and other new business launches.
+In China, we underperformed the market by mid-single digits against very strong outperformance in the first quarter of 2020.
+Also keep in mind, Q1 was a very unusual quarter last year in the face of COVID-19, primarily in China.
+The sum of all this was just over $4 billion of revenue in Q1, which was a new quarterly record for the company.
+Now we do believe that some of the strong outgrowth we delivered in Q1 was a result of the production of build and hold vehicles by our customers in multiple regions of the world.
+That means it's likely that some level of our reported outgrowth in Q1 is inflated due to a pull forward of production into the quarter.
+This will have an offsetting impact on our expected outgrowth later in the year.
+However, our outgrowth for the full year is still expected to be above our prior guidance, as I'll discuss further in a moment.
+With all that background in mind, we're pleased with the strong start to 2021.
+Now let's look at our earnings and cash flow performance on Slide 11.
+Our first quarter adjusted operating income was $444 million, compared to the pro forma $274 million in the first quarter of 2020.
+This yielded an adjusted operating margin of 11.1%, which was up compared to the 10.3% margin for BorgWarner only in the first quarter of 2020.
+On a comparable basis, excluding the impact of foreign exchange, adjusted operating income increased $145 million on $591 million of higher sales.
+That translates to an incremental margin of roughly 25%.
+This solid performance was driven by conversion on higher volumes, restructuring savings and Delphi Technology synergies in excess of purchase price amortization.
+We are particularly pleased with this performance given elevated supplier costs that we experienced during the quarter.
+Moving on to free cash flow.
+We're proud of the fact that we generated $147 million of positive free cash flow during the first quarter, which was roughly flat year-over-year despite increased investment in working capital.
+As a reminder, our market assumptions incorporate our view of both the light vehicle and on-highway commercial vehicle markets.
+As you can see, we expect our global weighted light vehicle and commercial vehicle markets to increase in the range of nine percent to 12%, which is down from our previous assumption of an 11% to 14% increase.
+This reduction to our prior market outlook reflects the ongoing impact of the semiconductor shortage on industry production.
+Looking at this by region, we're planning for North America to be up 17% to 20%.
+We see the largest incremental impact of the semiconductor shortage in North America with our market expectations down approximately 500 basis points from our initial assumptions.
+In Europe, we expect a blended market increase of nine percent to 12%, with that range being down approximately 200 basis points from our earlier planning assumption.
+And in China, we expect the overall market to be roughly flat year-over-year similar to our previous estimate.
+Now let's talk about our full year financial outlook on Slide 13.
+Starting with our pro forma 2020 sales, which includes $2.6 billion of revenue from the first three quarters of Delphi Technologies in 2020.
+As you know, those revenues were not part of our P&L last year.
+But to provide year-over-year comparability, we thought this pro forma revenue approach for the 2020 baseline would be useful.
+You can see that our end market assumptions from the prior slide are expected to drive an increase in revenue of roughly $0.9 billion to $1.3 billion.
+Next, we expect to drive market outgrowth for the full year of approximately 300 to 500 basis points, which is a meaningful step up from our previous guidance of 100 to 300 basis points.
+Based on these assumptions, we expect our 2021 organic revenue to increase about 12% to 17% relative to 2020 pro forma revenue.
+Then adding a $400 million benefit from stronger foreign currencies, we're projecting total 2021 revenue to be in the range of $14.8 billion to $15.4 billion.
+That's up from our prior guidance by about $100 million at both ends of the revenue range.
+Even with weaker end market outlook, our stronger revenue outgrowth is driving an overall increase in our revenue guidance from the guidance we gave last quarter.
+Also, you should note that we're maintaining a wider-than-typical revenue range at this point of the year due to the wide range of potential production scenarios that I discussed on the previous slide, which stems from the volatility and uncertainty in end markets, arising from the industrywide semiconductor issues.
+From a margin perspective, we expect our full year adjusted operating margin to be in the range of 10.1% to 10.5% compared to a pro forma 2020 adjusted operating margin of 8.3%.
+This contemplates the business delivering full year incrementals in the low 20% range before the impact of Delphi related cost synergies and purchase price accounting.
+From a cost synergy perspective, our margin guidance includes $70 million to $80 million of incremental benefit in 2021.
+That puts us right on track to achieve 50% of our total expected cost synergies in 2021.
+And based on our year-to-date performance, we believe that we're tracking at the high end of this range.
+Based on this revenue and margin outlook, we're expecting full year adjusted earnings per share of $4 to $4.35 per diluted share, which is an increase from our prior guidance of $3.85 to $4.25 per diluted share.
+I would point out that this guidance now assumes a 31% tax rate versus our prior guidance of 32% as a result of the successful execution of certain international tax planning initiatives.
+And finally, we continue to expect that we'll deliver free cash flow in the $800 million to $900 million range for the full year.
+This is flat with our prior guidance as we expect the higher sales outlook to drive an increase in working capital that largely offsets higher adjusted operating income.
+This would still represent a record annual free cash flow generation for the company.
+That's our 2021 outlook.
+On the acquisition front, we believe we remain on track to complete the AKASOL acquisition in the second quarter.
+We've now received regulatory approvals in all required jurisdictions.
+The tender offer is in progress with the final acceptance period expected to be completed later this month and then with the closing shortly thereafter.
+AKASOL represents an important part of Project CHARGING FORWARD as it represents approximately 20% to 25% of the estimated 2025 revenue from acquisitions underlying our plan and it significantly increases our exposure to the ECV space.
+As it relates to portfolio optimization, we continue to target combustion-related dispositions with annual revenue of approximately $1 billion to be executed over the next 12 to 18 months.
+The process for these dispositions is under way.
+We would expect to update you on our progress there as we get closer to executing those transactions.
+So let me summarize my financial remarks.
+Overall, we had a really solid start to the year despite the industry supply headwinds.
+We delivered 570 basis points of market outgrowth, an 11.1% adjusted operating margin and $147 million of free cash flow.
+And we increased our full year revenue and earnings guidance despite moderating our industry production assumptions.
+Looking beyond our near-term results, we're taking the necessary steps to accelerate the company's progression toward electrification.
+The AKASOL acquisition and today's IDM announcement are great examples of our progression.
+And importantly, we're executing our strategy from a position of financial strength.
+Ultimately, we expect that the successful execution of our strategy will drive value creation for our shareholders.

@@ -1,0 +1,251 @@
+And from TDS Telecom, Jim Butman, President and Chief Executive Officer; and Vicki Villacrez, Senior Vice President and Chief Financial Officer.
+We provide guidance for both adjusted operating income before depreciation and amortization or OIBDA, and adjusted earnings before interests, taxes, depreciation and amortization or EBITDA to highlight the contributions of US Cellular's wireless partnership.
+In terms of our upcoming IR schedule on slide 3, we'll be attending the Raymond James Institutional Investors Conference on March 2 in Orlando, and the Morgan Stanley Technology, Media and Telecom Conference on March 5 in San Francisco.
+I will be doing a Non Deal Roadshow with Strategas Securities in Portland on March 6.
+And as you know we have an open door policy.
+So if you're coming to Chicago and would like to meet with members of management or the IR team, please let us know and we will try to accommodate you, calendars permitting.
+Also, I did want to highlight that we have yet again announced an increase in our dividend rate for 2020, this being the 46th consecutive year that we've raised our dividend.
+And before turning the call over, I want to remind everyone that even though the auction -- FCC Auction 103 has ended, we are still in the assignment phase and we are unable to respond to any questions related to any FCC auctions.
+I'll start on slide 5.
+And before talking about 2019 and 2020, I first want to take a step back and look at some of our multi-year investments that have positioned us to better serve our customers into the future.
+Let's start with Spectrum.
+While I cannot comment on Auction 103, I do want to point to the success we've had in Auctions 101 and 102 where we secured an important spectrum for our 5G plans.
+In terms of the customer experience, the introduction of unlimited plans has been a game changer for this entire industry.
+And as much as I still worry about the long-term economics of unlimited plans, customers do love them.
+They have improved overall satisfaction levels and the migration to these higher-priced plans has helped drive increases in average revenue per user.
+To support the increased data usage, we have continued to invest in our network capacity.
+Other investments we've made include a brand refresh turnaround Bringing Fairness to Wireless and designed to broaden our appeal in the marketplace.
+We have also enhanced our websites so the customers have a better and faster online experience, giving us a platform for future growth in this channel.
+Also there are very positive developments in our roaming economics.
+Voice over LTE technology has broken down the old CDMA, GSM only roaming patterns and today we have roaming agreements with all of the big four carriers.
+As a result, we have seen roaming traffic and roaming revenues growing and roaming expenses declining, a very nice combination.
+We've also invested in our culture.
+We know it's our frontline associates that delivers the outstanding customer experience US Cellular is known for in the marketplace.
+We have numerous programs to ensure our exceptionally high levels of engagement remain and our culture continues to thrive.
+Our associates are our secret sauce and I greatly appreciate all of their efforts.
+As mentioned earlier, we continue to invest in the network to meet capacity and the ongoing growth in demand and to improve speeds too.
+We are completing the final stages of our Voice over LTE rollout and beginning our multi-year rollout of 5G.
+Our initial 5G rollout in 2020 will use 600-megahertz spectrum.
+We're planning to augment it with millimeter wave spectrum to increase speeds and support future use cases.
+These charts on this page show how while meeting our customers' ever-increasing demands for data, we have at the same time managed the businesses to drive annual increases and adjusted earnings before taxes, depreciation -- and depreciation and amortization.
+We'll continue to make investments for the long term, including Voice over LTE, network modernization, Spectrum and 5G.
+Turning to 2019, slide 6, we worked hard in 2019 to protect our customer base and smartphone connections grew by 71,000 during the year.
+For the full year, handset churn increased slightly from the previous year, but still low indicating strong levels of customer satisfaction, especially in this ultra-competitive market.
+Another priority was growing revenues.
+We reported a 2% increase in service revenues for the year driven by a 2% increase in postpaid average revenue per customer, and a 6% increase in prepaid average revenue per customers.
+Factors that drove this growth include a shift in mix in connected devices to smartphones, customers migrating to higher priced service plans and increases in the penetration of device protection plan.
+Also contributing to the growth in service revenues was a 13% increase in roaming revenue.
+For the third year in a row, we tightly managed costs throughout the company.
+In fact, for the year, cash operating expenses rose just four-tenths of 1%.
+Key to this was a company wide initiative that has provided $500 million of cumulative cost savings over the last three years, and we believe we have more opportunities in 2020.
+One highlight was our ability to manage network costs, given the impact from increased data usage.
+To put this in perspective for the full-year, data usage grew 39% while systems operation expenses were essentially flat, quite an accomplishment.
+The combined result of all these actions as we grew adjusted EBITDA 5% in 2019.
+Network quality remains core to our customer satisfaction strategy.
+In 2019, we continue to invest in the network to accommodate increased data usage and to enhance the customer experience.
+We ended the year with VoLTE technology available to nearly 70% of our customers and deployment to the final markets is expected to be largely completed in 2020.
+And we'd aim to deploy 5G technology in Wisconsin, our first 5G markets with commercial launches planned in the next couple of months.
+I want to talk first about postpaid handset connections shown on slide 7.
+Postpaid handset gross additions for the fourth quarter were 130,000, down from 136,000 a year ago due to aggressive industry wide competition on both service plans and devices.
+Postpaid handset net additions for the fourth quarter were positive 2,000.
+This was down from 20,000 last year, driven by the decline in gross additions and higher churn.
+I'll touch more on churn in a moment.
+On a sequential basis, both gross and net additions improved due primarily to the normal seasonal trend.
+In addition to smartphone gross additions, we continue to have existing handset customers upgrading from feature phones to smartphones.
+As you can see on the graph on the right side of this slide, including the upgrades, total smartphone connections increased by 27,000 during the quarter and by 71,000 over the course of the past year that helps to drive more service revenue given that ARPU for a smartphone is about $22 more than ARPU for a feature phone.
+Next I want to comment on the postpaid churn rate shown on slide 8.
+Postpaid handset churn depicted by the blue bars was 1.11% for the fourth quarter of 2019, higher than last year, driven primarily by aggressive industry wide competition.
+Total postpaid churn by handsets and connected devices was 1.38% for the fourth quarter of 2019 higher than a year ago and flat sequentially.
+Now let's turn to the financial results.
+Total operating revenues for the fourth quarter were $1 billion, essentially flat year-over-year, while service revenues increased $9 million.
+Retail service revenues increased by $3 million to $666 million.
+The increase was due largely to higher average revenue per user, which I'll cover on the next slide.
+Inbound roaming revenue was $42 million that was an increase of 11% or $4 million year-over-year, driven by higher data volume.
+Finally, equipment sales revenues decreased by $8 million or about 3% year-over-year.
+This was primarily driven by a decrease in the number of devices sold.
+As I mentioned earlier, there was a decrease in gross additions activity year-over-year that impacted device sales.
+In addition, we are continuing to see that existing customers are holding onto their devices for increasingly longer periods, resulting in a slight decrease in upgrade transactions.
+Now a few more comments about postpaid revenue shown on slide 10.
+Average revenue per user or connection was $46.57 for the fourth quarter, up $0.99, or approximately 2% year-over-year.
+The increase was driven by several factors, including a higher mix of smartphones relative to connected devices, a shift in service plan mix to higher priced plans and increased device protection revenue.
+43% of our postpaid connections are now on unlimited plans versus 27% a year ago.
+Partially offsetting these increases were higher promotional sales costs.
+Also there was a decrease in universal service fund revenues resulting from the FCC's December 2018 ruling that revenues from text and multimedia messaging services are no longer assessable under the universal service fund.
+As a result this year US Cellular stopped charging customers and will no longer pay the FCC USF fees on these revenue streams.
+Because this change also affected general and administrative expense by a light amount, it is neutral to earnings.
+Looking through this change, ARPU on a comparable basis increased by a $1.39 year-over-year versus the reported increase of $0.99, a pretty strong result.
+On a per account basis, average revenue grew by $1.39 year-over-year.
+Excluding the USF impact that I just discussed, ARPU increased by $2.42, or 2%.
+Let's move next to our profitability measures.
+First, I want to comment on adjusted operating income before depreciation, amortization and accretion and gains and losses.
+To keep things simple, I'll refer to this measure as adjusted operating income.
+As shown at the bottom of the slide, adjusted operating income was $181 million, up 6% from a year ago.
+Correspondingly, the margin as a percent of total operating revenues was up 1 percentage point to 17%.
+For those watching service revenue margins, the current quarter result was 24%, an increase of 1 percentage point year-over-year.
+As I commented earlier total operating revenues of over $1 billion were essentially flat year-over-year.
+Total cash expenses were $871 million, decreasing $10 million or 1% year-over-year.
+Total system operations expense decreased year-over-year.
+Excluding roaming expense, system operations expense decreased by 2% despite a 47% growth in total data usage on our network.
+Roaming expense decreased 4% year-over-year primarily due to lower rates, partially offset by a 50% increase in off-net data usage.
+Cost of equipment sold decreased due to a decrease in the number of devices sold and a higher mix of used device sales, which primarily represent the resale devices returned or traded in by customers through our device service program vendors.
+SG&A expenses increased 1% year-over-year due to higher selling and marketing costs.
+Shown next is adjusted EBITDA, which starts with adjusted operating income and incorporates the earnings from our equity method investments along with interest and dividend income.
+Adjusted EBITDA for the fourth quarter was $222 million, up 4% from a year ago.
+The improvement is due to the increase in adjusted operating income.
+This was partially offset by slight decreases in equity and earnings of unconsolidated entities as well as interest and dividend income.
+Adjusted operating income and adjusted EBITDA, do not include depreciation, amortization and accretion expense.
+In connection with the network modernization and 5G initiatives, we are upgrading several of the network equipment elements.
+This results in the recognition of accelerated depreciation and certain of the assets being replaced.
+As a result, depreciation, amortization and accretion expense was up 10% from a year ago.
+Total operating revenues were $4 billion, an increase of $55 million or 1% year-over-year.
+This was driven by an increase in retail service revenues due to higher average revenue per user.
+Also contributing to the increase was higher inbound roaming and tower rental revenues.
+Total cash expenses were $3.2 billion, an increase of $13 million year-over-year.
+This was due primarily to an increase in selling, general and administrative expenses driven by information system initiatives as well as increase in bad debt expense.
+System operations expense was essentially flat despite a 39% increase in data usage on our network, and a 33% increase in off-network data usage.
+Adjusted operating income and adjusted EBITDA grew 5%.
+This is primarily driven by the increase in operating revenues.
+Slide 14, our plans for the year 2020.
+In order to strengthen our base, we'll build on a number of initiatives already in the works.
+For example, earlier this month, we initiated service in Sioux City, Iowa in Northern Wisconsin expanding our addressable market.
+We will continue to build on the branding work we introduced last year, and we'll continue to evolve our plans and pricing but in a economically responsible manner.
+In terms of revenue growth, unlimited plans are still only 43% of our base.
+So we expect customers to continue to migrate to these plans.
+We also expect customers to purchase additional services like device protection and we still have 396,000 future phones on our network, which provides us the opportunity to migrate these customers to smartphones also.
+5G should help to address customers' growing demand for more data and faster speeds, as well as create opportunities for new services.
+I'm also optimistic about the opportunities in the B2B marketplace, what you call Smart City Internet of Things interest is growing, and fixed wireless broadband continues to be a complementary product for those customers who do not have access to adequate broadband service today.
+Customer expectations are always changing and we are rolling out new programs and new tools to ensure that we better understand and engage with our customers that are using data and analytics.
+We continue to utilize to life cycle management programs and we are embarking on a number of initiatives like personalization that can be both predictive and proactive.
+Continuous evaluation of the format and location of our retail stores is even more important as customers continue to change their shopping preferences.
+Turning to slide 15, in 2020, we will continue to foster associate engagement, especially since our associates who are US Cellular's competitive advantage.
+And lastly, we will continue to invest in the network to meet ever increasing data demand, finish the last of VoLTE launches, and start down the road to 5G.
+Doug will provide greater detail on our capital spending plans in just a minute or so.
+In closing, I'm very proud of this organization.
+We have built a great foundation.
+And we have the best associates in the industry.
+That team and the opportunities in front of us have me excited about 2020.
+Our guidance for 2020 is shown on slide 16.
+For comparison, we're also showing our 2019 actual results.
+First, I want to comment on the change in our revenue guidance approach.
+Rather than providing guidance on total operating revenues, which includes both service and equipment revenues, we are providing guidance on service revenues only.
+Variations in equipment revenues typically have a corresponding impact on cost of equipment sold and as a result are less impactful to our profitability measures and therefore we believe that service revenues are the more meaningful revenue measure for guidance purposes.
+For total service revenues, we expect a range of approximately $3.0 billion to $3.1 billion.
+This reflects our expectation of a continued highly competitive environment.
+We expect adjusted operating income to be within a range of $775 million to $900 million and adjusted EBITDA within a range of $950 million to $1.075 billion.
+This guidance reflects our estimates for low-single digit growth in revenue and the increased network costs related to our 5G deployment and ongoing network modernization programs, partially offset by the impact of cost savings initiatives.
+For capital expenditures, the estimate is in the range of $850 million to $950 million.
+This year in order to provide more transparency on actual 2019 and estimated 2020 capital expenditures, we have provided a breakdown by major category.
+There is a lot going on in the network space in 2020.
+We will be completing our organizational VoLTE rollout, continuing our low band 5G rollout and hopefully beginning our targeted millimeter wave 5G deployment.
+Admittedly, this is a large increase that we could be affected by potential constraints on the availability of network equipment and services.
+As a result, we may not be able to complete all of our plans this year.
+In that case, we would be at or even below the low end of our guidance.
+I am pleased to be able to share with you that our transformation is well under way and our future at TDS Telecom is bright.
+As Ken did, I want to spend a few minutes providing a little longer-term perspective on the progress we have made and how our investments are paving the way for the future.
+We are in a strong position today due to a number of growth focused initiatives that we have been executing on for over five years.
+These initiatives include our fiber strategy both in and out of our existing footprint and our acquisition strategy.
+Our investments in fiber-to-the-home are not new.
+In fact, we made a strategic shift away from upgrading copper in our most attractive ILEC markets to deploying fiber, augmented with superior products and hyper localized marketing and sales.
+The success we saw with this transformational change was the catalyst for us to develop, then test our out-of-territory fiber deployment strategy.
+During 2019, we scaled up and now our out-of-territory strategy, fiber strategy is in full swing.
+We now have approximately 230 fiber service addresses in the hopper.
+Vicki will go into further detail of where these are in the process.
+To address the broadband needs of our most rural markets, we advocated relentlessly and then secured over $1 billion in A-CAM funds over the program period.
+This is allowing us to bring higher broadband speeds to our most rural customers which helps drive fiber much deeper into our network.
+We also secured over $30 million in State Broadband Grants over the past five years.
+We bought our first cable company in 2013 and have continued to add to that part portfolio with smart cable acquisitions and tuck-ins.
+These acquisitions are a natural extension of our broadband strategy and we have been able to leverage expertise and resources across our business to drive strong financial results.
+Over the past five years, our cable segment generated $1 billion in revenue and $289 million in adjusted EBITDA, helping to drive growth and offset secular declines in our legacy business.
+During that period, we improved our cable adjusted EBITDA margin from 24% to 33%.
+These charts show our investment thesis in position is very different from our peers.
+Turning to the specifics for 2019 for our wireline segment, it was really all about fiber construction in launching new markets both within and outside of our current footprint.
+However, there was so much foundational work that was done that you cannot see in our reported results.
+Identifying additional markets and scaling up our organization to be able to execute on this program, today, and for years to come.
+We are successfully redeploying cost savings from our legacy businesses to investing in our broadband growth initiatives.
+Our cable segment continues to perform well, showcasing the success of our broadband strategy.
+We purchased cable properties in attractive markets, which continue to provide a nice tailwind to our growth and we are very pleased with our cable acquisitions.
+The latest one, Continuum closed on December 31 of last year.
+The Continuum markets located just north of Charlotte, North Carolina represent just the type of demographics and household formation growth we find attractive.
+Let me briefly highlight our financial results for the full year shown on slide 21.
+Revenues, cash expenses and adjusted EBITDA are relatively flat.
+However, as Jim mentioned, this result masks the significant transformations taking place across our business.
+Consolidated revenues increased slightly from the prior year, as revenues from our investments in both fiber expansions and cable have exceeded the declines we've had in our legacy business.
+Cash expenses increased 1%, as we redeployed spending from our legacy businesses to our growth initiatives.
+Adjusted EBITDA was effectively the same as last year at $313 million.
+On slide 22, for the fourth quarter, we see repetition of these trends.
+TDS Telecom grew consolidated revenues 1% due to $4 million of growth in cable revenues, which was partially offset by the decline in wireline revenues.
+Cash expenses increased 2%, mostly in the cable operations, which incurred closing costs related to the Continuum acquisition.
+As a result, adjusted EBITDA in the fourth quarter decreased 3% to $75 million from a year ago.
+Capital expenditures increased 35% to $124 million as we continued to invest in our fiber deployment.
+This quarter, we launched three new out-of-territory fiber markets.
+One, in our Southern Wisconsin cluster and two in our Coeur d'Alene, Idaho cluster.
+And so far, we are very pleased with how these markets are performing.
+More to come on our total fiber program in a minute.
+But for now, let's turn to our segments, beginning with wireline on slide 23.
+From a broadband perspective, residential connections grew 3%, driven by significant growth in our out-of-territory markets.
+We are offering up to 1 gig broadband speeds in our fiber market.
+Across our wireline residential base, 30% of all broadband customers are now taking 100 megabit speeds or greater compared to 24% a year ago, helping to drive a 4% increase in average residential revenue per connection in the quarter.
+Wireline residential video connections grew 8% compared to the prior year.
+Video is important to our customers.
+Approximately 40% of our broadband customers in our IPTV markets take video, which, for us, is a profitable product.
+We expect to see increasing trends in this metric as we are seeing higher results in our out-of-territory markets.
+TDS Telecom continues to grow its overall IPTV customer base by targeting markets and segments that find value in bundling services.
+Slide 24 summarizes the status of our multi-year fiber program.
+As a result of our fiber deployment strategy, over the last several years, 30% of our wireline service addresses are now served by fiber.
+This is driving revenue growth while expanding the total wireline footprint.
+Our current fiber plans include roughly 230,000 service addresses, of which about 50,000 were turned up in 2019.
+Plans for our current footprint are aimed at household growth and expansion in our current fiber market as well as overbuilding existing copper market.
+Plans for our out-of-territory markets currently include our Wisconsin and Idaho clusters, which we have recently expanded to include the Meridian, Idaho area.
+We are planning for additional markets in the Pacific Northwest and are evaluating expansion in our major clusters.
+Now looking at the wireline financial results on slide 25.
+Total revenues decreased 1% to $171 million.
+Residential revenues increased 3%, due to growth from video and broadband connections as well as growth from within the broadband product mix, partially offset by a 4% decrease in residential voice connections.
+Commercial revenues decreased 10%, primarily driven by lower CLEC connections, and wholesale revenues were flat compared to 2018.
+Wireline cash expenses were flat.
+We continue to see reduced cost of legacy services, partially offset by higher video programming fees.
+Employee expenses were held flat as we staffed up to launch new markets, which were offset by a continued focus on cost discipline.
+Maintenance expense increased as we incurred storm damage during the year.
+Wireline adjusted EBITDA decreased 6% to $54 million, due primarily to the reduction in commercial revenues.
+Now moving to cable on slide 26.
+Cable total revenues increased as customers continue to value our broadband services.
+As Jim mentioned, we acquired Continuum at December 31.
+So while we've included connections in our results, we did not have any income statement impact for 2019 other than closing cost.
+Total cable connections grew 10% to 371,000, which included 31,000 from the acquisition and a 6% organic increase in total broadband connections.
+Organic broadband penetration continued to increase, up 100 basis points to 44%.
+On slide 27, total cable revenues increased 7% to $64 million, driven primarily by growth in broadband connections for both residential and commercial customers.
+Our focus on broadband connection growth and fast reliable service has generated a 17% increase in total residential broadband revenue.
+Also driving this growth is an 8% increase in average residential revenue per connection, driven in part by customers rolling off promotions, higher product mix and price increases.
+Cash expenses increased 8%, due primarily to additional costs related to the acquisition and plant maintenance.
+As a result, cable adjusted EBITDA increased 4% to $21 million in the quarter.
+I think of our investment priorities in three buckets; network, products and people.
+Broadband is our primary product and our investments are focused on fiber deployments, strengthening our cable operations and meeting our first milestone of the A-CAM program.
+We also will continue to innovate what we sell and how we sell it.
+TDS TV+, our next-gen cloud-based TV service was launched this week in our first market, and we will roll it out throughout 2020 in our cable and wireline operations.
+TDS TV+ plus is a far superior product that makes it simple to find great programming with a recommendation engine and voice search that integrates traditional TV content with Netflix, YouTube and other over-the-top apps.
+This service is available on our new set-top box, along with Apple and Android phones and tablets.
+We are also helping our customers lower their bill, with a road map that will allow them to use the service on streaming devices in lieu of purchasing extra set-top boxes.
+Continuing on slide 29, a critical component of our success this year and into the future is our ability to identify markets where our formula wins.
+We have built a robust model, whereby we screen for criteria listed here and prioritize the most attractive market.
+Extensive analysis goes into this along with detailed financial modeling for each potential market.
+Our models are adjusted in real-time with actual results and key learnings.
+Finally, I want to call out a significant strength of our organization, and that is how lean we operate.
+While we have wonderful growth opportunities ahead of us, we can't lose sight of the need to continuously take cost out of the legacy business so we can redeploy those savings into our growth initiatives.
+This is a team that has demonstrated time and again, they can execute.
+2019 was an incredibly busy year, full of lots of successes as well as key learnings.
+Energy, confidence and enthusiasm everyone comes to work with each day has positioned TDS Telecom to achieve great things for many years to come.
+Back to you, Vicki.
+On Slide 30, we've provided our 2020 guidance.
+We are forecasting total telecom revenues of $950 million to $1 billion compared to $930 million in 2019.
+For wireline, new fiber market growth will be strongly additive to continued growth in residential broadband and video connections and revenues.
+Commercial revenues and residential voice revenues will continue to decrease as well, wholesale revenues.
+We expect organic cable revenue growth in the mid-single-digits, reflecting continued strong growth in broadband.
+Our recently completed acquisition will add an excess of $20 million to revenue.
+Adjusted EBITDA is forecast to be within a range of $290 million to $320 million compared to $313 million in 2019.
+Contributions from wireline broadband and video growth, combined with growth from Cable as well as cost reductions, will continue to help offset pressures in the legacy wireline business and expected its fiber expansion costs in our new markets.
+Capital expenditures are expected to be between $300 million and $350 million in 2020 compared to $316 million in 2019.
+Wireline capex guidance includes $150 million dedicated to in and out-of-territory fiber deployments, a 50% increase over 2019 spending as well as $60 million in success-based spending for both wireline and cable and approximately $30 million allocated to the A-CAM program.
+And just a quick update on OneNeck IT solutions.
+OneNeck IT solutions continues to make very good progress, driving revenues in strategic solutions, including multi-cloud hosting, managed services and professional services.
+The OneNeck team had a strong finish to the year, showing improvements in revenues while driving operational improvements in its cost structure.
+OneNeck is well positioned going into 2020 as they continue to leverage a multi-cloud strategy with plans to roll out their next-generation ReliaCloud platform and plans to expand upon their public cloud strategy by offering additional platform-based services via both ReliaCloud and Azure.
+Offering customers solutions architected around a highly secured framework will continue to be the cornerstone of OneNeck's offering.

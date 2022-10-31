@@ -1,0 +1,162 @@
+The non-GAAP financial measures provided should not be utilized in isolation or considered as a substitute for measures of financial performance prepared in accordance with GAAP.
+A reconciliation between GAAP and non-GAAP financial measures is provided in our first quarter Redwood review available on our website, redwoodtrust.com.
+Also note that the content of this conference call contains time-sensitive information that is accurate only as of today.
+The company does not intend and undertakes no obligation to update this information to reflect subsequent events or circumstances.
+As you probably assumed, we are pleased with Redwood's trajectory thus far in 2021.
+Morale within our ranks is strong, especially as we start to see conditions for a return to normality with many employees eager to rub elbows again in the office and resume business travel.
+We're not quite there yet across the board, but it's nice to see the sun shining on our people and our businesses, especially when I think about where things stood a year ago.
+Driven by strong operating income and continued improvement in portfolio valuations, our GAAP earnings were $0.72 per diluted share for the first quarter as compared to $0.42 per diluted share in the fourth quarter.
+Our GAAP book value per share increased almost 9% to $10.76 at March 31st as compared to $9.91 at December 31st.
+GAAP earnings finished well in excess of our $0.16 per share first quarter dividend.
+While the first quarter introduced the latest chapter of our strategic evolution through the launch of RWT Horizons, the focus of our business hasn't changed.
+Our mission is to make quality housing accessible to all American households, whether rented or owned.
+We target borrowers whose needs are not well served by government loan programs, including borrowers are simply not eligible for them.
+To us, our role in housing finance has never been more important as the second half of 2020 ushered in a dramatic new uptick in home price appreciation and even greater affordability challenges.
+Simply put, improving access to quality housing entails a combination of consumer loan and rental solutions.
+Through our leadership role in the private housing sector, we've turned much of our focus toward innovation to expedite the migration of more GSE eligible mortgages to our market.
+This doesn't just require low cost capital, which our industry seems to be a wash in these days, it requires the speed, automation and the ease of execution necessary to facilitate sustainably high volumes.
+These traits have not been commonplace in the less commoditized non-agency mortgage sector in part because it continues to be unsupported in Washington and even viewed as a threat to many established market participants who were unincented to change the status quo.
+Recent regulatory changes in Washington, however, highlight the need for a new way of thinking and present a big opportunity for the private sector.
+For example, the CFPB QM rules, which are still somewhat fluid, are likely to simplify many underwriting processes and meaningfully reduce the number of loans that require additional risk retention to securitize.
+Additionally, changes to the PSBA between the U.S. Department of Treasury and the GSEs now limits the acquisition of certain types of mortgages by Fannie and Freddie, including loans for non owner-occupied homes as well as loans with certain combinations of credit features, including higher LTVs and debt-to-income ratios and lower credit scores.
+For the GSEs to effectively manage compliance with these new limitations, the practical amount of these loans that GSEs can acquire will be well below their prescribed caps.
+This presents an opportunity for those who can acclimate to the more automated underwriting regimes are eventually needed to facilitate more of these loans moving to the private sector.
+Our focus is squarely on addressing this need.
+And we're working toward this goal in a number of innovative ways, including investments in homegrown technology and strategic partnerships.
+For example, we achieved several milestones and demonstrated significant progress in our technology road map in the first quarter, including through our newly launched venture investment strategy, RWT Horizons.
+We've now completed three Horizons investments, which Dash will talk about in more detail.
+During the first phase of investing, we are focused on seeding early to mid-stage companies that leverage automation, digitization and blockchain to reimagine how alone is evaluated by an originator, financed by a lender or securitized by an issuer.
+In the business purpose lending market, we see opportunities to fund product development in the software space that can streamline property management workflows.
+This will reduce costs and increase visibility into revenue streams.
+While these initial investments have not been material to our balance sheet, we believe we're embarking upon a path that can disrupt the mortgage finance landscape and significantly transform our business with innovative solutions that help all stakeholders most importantly, borrowers.
+With significant momentum on technology, an engaged and talented workforce, regulatory changes and strong competitive positioning, it's exciting to envision the role Redwood can play in the evolution of housing finance.
+We believe in the long-term durability of our earnings and our ability to deliver unique value to our shareholders.
+We also believe in the impact we have on our people and communities, such as our new housing Access benefits program that we just launched earlier today.
+As always, we balance the optimism against economic forces that affect our quarterly production volumes, including a recent dose of interest rate volatility in the past few months.
+We can't control many of the market forces that affect our business day-to-day, but we can equip our people with the tools necessary to lead Redwood toward its full potential.
+It was an active and successful quarter across our business lines, supported by continued tailwinds in housing and strengthening an overall housing credit.
+We believe the diversity in our business model remains responsive to the key trends in housing and supportive of the needs of owner occupants and investors alike.
+After a year of flexible work arrangements and at-home learning, the evolution in demand for housing continues, even as we gain momentum with vaccinations.
+The expectation, at least in the medium-term for hybrid work arrangements is keeping both prospective homebuyers and tenants looking for homes that combine added space, functionality and privacy.
+This is evident in the record velocity that we are seeing in both new and existing home sales and continued strength in single-family rents.
+Leading third-party data shows new single-family home sales in the first quarter were up approximately 37% year-over-year, with existing home sales up approximately 15% in the same period.
+The median home sales price rose 11% year-over-year and homes that require a nonconforming mortgage are showing similar trends, particularly in growing secondary metro areas.
+In a similar vein, demand for single-family homes for rent continues to deepen.
+Rising prices have further deferred the home buying decision for many consumers, while others still prefer to rent given the associated flexibility.
+Either way, quality rental homes are an attractive alternative for many demographics who are in search of more space in established neighborhoods.
+And in many parts of the country, this type of housing stock is in short supply.
+Occupancy rates also continue to be at record highs with a weighted average of 93% in the top 20 metros.
+Importantly, sources of equity capital continue to recognize this imbalance as an opportunity to contribute to the creation of quality affordable rental housing, creating a new sleeve of borrowers and allowing our existing ones to keep growing.
+The macro data, while encouraging also underscores an important reality about housing affordability and accessibility, sharpened by the pandemic.
+Housing finance needs more creative solutions, driven by technology and a common sense approach to underwriting.
+That the private markets are equipped to provide.
+Their durability and diversification of our business model puts us in pole position to continue affecting beneficial change.
+Turning to our results.
+Our team's crisp execution resulted in a combined after-tax net operating contribution of $51 million for residential and BPL mortgage banking.
+This was driven by record residential loan purchase commitments, continued momentum in business purpose lending and execution of three securitizations exceeding $1 billion in issuance across Redwood Residential and CoreVest.
+Turning to our residential business.
+Lock volumes in the first quarter rose 22% to $4.6 billion as mortgage rates rose during the quarter, but much less precipitously than benchmark interest rates.
+This led to a sustained uptick in refinance volumes, which represented 62% of our total locks for the quarter.
+Despite the interest rate volatility, margins well exceeded those in recent quarters.
+This was largely driven by strength in the securitization markets, particularly in the first half of the quarter, and the positioning of our pipeline as the curve steepen more than mortgage rates rose.
+The move-in rates during the quarter underscores a critical barrier to entry in the non-agency market, namely the importance of end-to-end coordination and efficiency across the operation.
+We were able to place one of our two securitizations during the quarter via reverse inquiry and settled $1.4 billion of whole loan sales.
+Key to this work is the speed with which we're able to buy loans from our sellers, which requires a well calibrated process internally and with our third-party vendors.
+Capacity constraints in the system have led to uneven outcomes across the industry and has been an area of outperformance for our team.
+As an example, the loans underlying our most recent securitization had an average age of approximately 45 days.
+Less than half of the loans brought to market by others during the same time period.
+We expect to engage with more reverse inquiry interest in our securitizations throughout the remainder of the year.
+Given the efficiency in connecting our bonds directly with where demand is most sizable and durable.
+The flexibility of our securitization program, coupled with whole loan distribution, facilitates added scale as collectively they allow us to be in the market consistently.
+Overall, the productivity level of our securitization program has never been higher, and the second quarter is already off to a strong start with the recent closing of our third transaction of 2021.
+This went back by $361 million in jumbo loans.
+The ability to enhance our processes over time will ensure that we maintain our competitive advantage.
+To that end, leveraging technology remains a major organizational emphasis.
+During the first quarter, we achieved several milestones on our technology road map, including the onboarding of the majority of our Sequoia securitizations on to DVO 1, a third-party solution for accessing, reporting and analyzing standardized loan-level data for our Sequoia securitizations.
+In keeping with our commitment to serve our sellers more quickly, we recently launched Rapid Funding Plus, which includes additional customized funding solutions.
+This was an important enhancement to our original Rapid funding program rolled out last year, which was successful in facilitating $274 million of purchases from an initial group of participating sellers.
+In addition, Redwood Live is now available for certain sellers through Apple's app store.
+Approved users can log in and access dashboards containing various metrics for the loan pipeline they have locked with Redwood.
+Rapid Funding and Redwood Live are cut from the same cloth, organic efforts to make doing business with Redwood even more efficient and user-friendly with real-time access to data that eases decision-making.
+As we roll these out further, we are excited about their potential to reduce customer acquisition costs and increase customer retention.
+To that end, elsewhere in our tech stack, we are exploring other applications with key partners to widen our competitive moat.
+Earlier this month, through Redwood Horizons, we completed an investment in liquid mortgage, an earlier stage firm focused on providing life of loan infrastructure to digitize, track documentation, facilitate payments and record additional information on blockchain.
+While there is much to do for the industry to co last around how blockchain can evolve our ecosystem.
+Our initial work is focused on solutions in the post close environment that we believe could have tangible benefits in the near to medium term.
+Strategic progress continued to pace during the first quarter as we completed work on an innovative securitization structure and made key advancements in product development.
+Overall, we originated $386 million of business purpose loans during the quarter, comprised of $253 million of single-family rental loans and $133 million of bridge loans.
+While SFR loan production was down from a seasonally strong fourth quarter, and bridge fundings rose 33%, driven by increased usage in lines of credit and initial fundings on several recently completed build-for-rent financings.
+Our origination mix for the first quarter reflected the strength of our multi-product strategy, which drives high rates of repeat borrowers, including those that utilize more than one of our loan products.
+In all, 71% of originations in the first quarter were from repeat customers.
+And the near to medium-term pipeline remains robust with a good mix of new loans and refinance opportunities.
+During the first quarter, we completed the ramp-up of Capital 2020-P1, a privately placed SFR securitization funded with a leading insurance company.
+We are pleased with the efficiency of the execution and expect to pursue others of its type to complement traditional broadly marketed securitizations.
+On the follow, we recently priced our first broadly syndicated securitization of 2021, expected to close later this week.
+The transaction was very well received by the marketplace.
+And on a blended basis, we achieved all-time tights on credit spreads.
+As competition ramps up across the BPL market, product development remains a key priority.
+Last week marked important progress on this front as we announced the strategic investment in Churchill Finance, a vertically integrated real estate finance company.
+Churchill focuses on the origination, aggregation and asset management of a variety of real estate credit products, including residential and multifamily loans.
+We expect the partnership to help grow and diversify CoreVest sourcing channels with a particular emphasis on smaller-balanced single-family rental and bridge loans.
+Partnerships like Churchill will deepen our market penetration and products we believe will remain in high demand by housing investors.
+Technology is central to CoreVest's competitive advantage, especially as we expand our product reach.
+There are several key initiatives well under way, including a revamped client portal, which will be rolled out later in 2021, enhancements to our data warehouse and additional automation with respect to capital markets processes to quicken our speed to market.
+CoreVest marketing position remains a core strength as we expand our leadership position with a combination of organic growth initiatives and strategic partnerships.
+We are uniquely positioned with a deep multiproduct offering, technology-driven processes and a best-in-class securitization platform and remain excited about the opportunities ahead.
+As Chris mentioned earlier, the first quarter also marked the formal arrival of Redwood Horizons, a venture investment strategy focused on early and mid-stage companies driving innovation in financial and real estate technology and digital infrastructure.
+We believe these technologies have the potential to significantly disrupt the mortgage industry in the near and medium term.
+We also believe the access to data provided by these platforms will help inform our strategy as we expand our leadership position in the market.
+The blockchain investment I mentioned earlier was preceded by two investments sourced through CoreVest borrower network, which we first announced in March.
+Rent room and rent butter are each focused on automating various processes from landlords, including tenant decisioning and rental collections.
+These investments reflect an opportunity to help grow these businesses through deepening their connection to landlords and for us to benefit in addition to the potential investment upside from their data access and growing network effect.
+Our overall investment portfolio continued to perform well in the first quarter as credit performance strengthened, spreads tightened and total book value grew.
+In a low-yield environment, where deploying capital in the broader markets remains challenging, the competitive advantage of having two best-in-class operating platforms, producing high-quality assets is of particular importance.
+We deployed $73 million net of financing into new investments during the quarter, primarily new issue CoreVest SFR securities and newly originated Bridgeland.
+Delinquencies in our portfolio have fallen continuously since last summer, and new forbearance requests are de minimis.
+Our asset management teams across the enterprise continue their sterling work.
+Combined 90-plus delinquencies across our Sequoia and CoreVest securitization platforms now stand below 2%, and 90-plus day bridge delinquencies are below 3.5%, significant outperformance versus the marketplace.
+Market value has also improved across the portfolio, most notably for certain reperforming loan and multifamily bonds as secondary market prices rose.
+Total portfolio returns rose slightly, driven by a combination of improved credit and faster prepayment speeds on securities, we hold at a discount to face value.
+Higher prepayment speeds led us to exercise our first series of Sequoia call options in several years.
+Since January, we have completed calls on three Sequoia transactions totaling $75 million in loans and plan to call several others throughout the remainder of the year.
+While the first quarter's results exceeded expectations, our focus remains on sustainably growing and diversifying our business.
+Benchmark interest rates have moderately fallen since quarter end.
+But as the economy proceeds in finding its footing and the prospects for additional federal spending come into clearer focus, we are prepared for the markets to respond accordingly.
+And while increased competition has returned, we remain confident that our agility, commitment to technology and deep relationships will buttress our leading market position.
+As Chris and Dash discussed, our first quarter earnings and book value benefited from strong results across our operating businesses and investment portfolio.
+Contributing to GAAP earnings of $0.72 per share for the quarter and generating a 10% economic return on book value for the quarter.
+After the payment of our $0.16 dividend, which we increased by 14% in the first quarter, our book value increased 9% during the quarter to $10.76 per share.
+A significant amount of our earnings this quarter were generated from our mortgage banking operations, which are conducted within our taxable subsidiary, giving us the flexibility to retain a portion of that income to continue to reinvest in our business and organically grow book value while maintaining an attractive dividend for shareholders.
+Focusing in on some of the operating results within the business, as Dash mentioned, our residential mortgage banking team achieved exceptionally strong returns on another quarter of record lock volumes, combined with a meaningful increase in margins.
+While Dash describes some of the unique factors contributing to the expansion in margins during the quarter.
+Moving forward, we generally expect margins to normalize back toward levels that still achieve a 20%-plus return on capital.
+At CoreVest, mortgage banking income normalized during the quarter while continuing to generate very strong operating returns on capital of nearly 30%, driven in part by marginal tightening on securitization execution.
+As a reminder, fourth quarter results benefited from significant spread tightening on a larger balance of loans held in inventory at the beginning of that quarter.
+In our investment portfolio, net interest income increased modestly in the quarter due to higher yield maintenance income associated with SFR securities and reduced leverage on our bridge loan portfolio.
+During the quarter, capital allocated to our investment portfolio increased as deployment into new investments and positive fair value changes were partially offset by sales and paydowns, which remained elevated.
+These higher prepay speeds, along with strengthening credit performance contributed to spread tightening across our portfolio, benefiting our subordinate securities that we hold at a discount and driving fair value increases.
+These same dynamics also created the opportunity for us to complete calls on three Sequoia transactions through the first four months of the year.
+As a reminder, we control the call rights for many of the securities in our investment portfolio, including for Redwood sponsored Sequoia securitizations, CoreVest sponsored SFR securitizations and certain Freddie Mac sponsored RPL securitizations.
+Most of these call rights are exercisable at par once underlying portfolios pay down to a predetermined size.
+And in addition to the discount embedded in these securities, at current market conditions, underlying loans generally can be sold or resecuritized above their part value, creating further upside to valuation returns.
+In relation to the three Sequoia deals we've called through April, we acquired $75 million of jumbo loans on to our balance sheet.
+Related to these calls, we expect to record GAAP realized gains of $7 million associated with the underlying securities, the majority of which will not flow through book value, and a net book value benefit of approximately $2 million versus our December 31st fair values, which is inclusive of estimated loan premium.
+Inclusive of these recent calls, we estimate over $600 million in loans underlying our securities could be callable in 2021.
+Shifting to the tax side, we had REIT taxable income of $0.09 per share in the first quarter and $0.47 per share of taxable income at our TRS, again driven by income from our mortgage banking operations.
+Turning to our balance sheet.
+We ended the first quarter with unrestricted cash of $426 million.
+After allocating additional working capital to our mortgage banking operations during the first quarter to support growing loan volumes, and net of other corporate and risk capital, we estimate we had approximately $225 million of capital available for investment at March 31st.
+During the quarter, our overall leverage increased as expected and was in line with increased inventory levels at our mortgage banking operations at the end of the first quarter.
+Our non-recourse leverage ratio increased to 1.9 times at March 31st from 1.3 times at the end of 2020, and total leverage in our investment portfolio remained consistent from the prior quarter at around 0.9 times.
+Looking forward, we expect to add a modest amount of incremental leverage to the investment portfolio as we refinance certain term facilities that have delevered and become repayable beginning in the second quarter and may also explore adding non-marginal leverage to some assets that are currently unencumbered, such as securities retained from recent CoreVest securitizations.
+We expect these refinancings to lower our borrowing costs given current market rates and new financings will generate incremental capital that can be redeployed into the business.
+Moving to our outlook.
+We remain broadly on track with the 2021 outlook we provided in our fourth quarter 2020 Redwood review.
+While returns from our operating businesses well exceeded 20% in the first quarter, we expect these returns to normalize during the remainder of the year, particularly for residential mortgage banking as our capital allocation now reflects a more steady state pipeline and levels of loan inventory on balance sheet.
+For our investment portfolio, returns for the quarter were in line with our outlook and strengthening credit across our portfolio generally provided for incremental improvements to our forward return expectations.
+Cash flow expectations generally improved across the portfolio, and inclusive of our previously reported 5% fair value increase in our securities portfolio during the quarter, we now estimate go forward returns relative to our March 31st GAAP basis to be between 10% and 11%, inclusive of potential upside from potential borrowing costs in the second half of the year.
+Given the strong performance in the first quarter, we saw operating expenses, including variable compensation expense increased in line with the growth in net income.
+Looking forward, general and administrative expenses will continue to trend in sync with overall business returns, and we continue to expect long-term unsecured debt to risk costs over 2021 to remain consistent.
+For the remainder of 2021, we will continue to focus on growth, technological efficiency and profitability in our operating businesses.
+Income retained from these businesses should drive further growth in our book value, while increased production will continue to create new and attractive investments for our portfolio, driving higher net interest income over time, supporting a stable and attractive dividend.
+Operator, please open the call for Q&A.

@@ -1,0 +1,129 @@
+These statements are based on currently available information and assumptions, and we undertake no duty to update this information, except as required by law.
+These statements are also subject to a number of risks and uncertainties, including the numerous risks related to the impact of the cyberattack on our business and a potential spin-off of our MSP business.
+Copies are available from the SEC or on our Investor Relations website.
+When we refer to financial measures, we will be referring to the non-GAAP financial measures.
+I hope you're doing well and staying safe.
+As you know, I joined the company earlier this year on January 4 and this is my first earnings call with the company.
+I have long been a student of SolarWinds' high velocity go-to-market model.
+Our broad portfolio of solutions, low customer concentration, strong revenue recurring base, strong balance sheet and the opportunity to apply my background to address an expanding market opportunity to support the needs of ITOps, DevOps and SecOps professionals made it easy for me to say, yes, when I got the opportunity to lead the company as president and CEO.
+In the seven weeks that I have been with the company, I've had the opportunity to spend a lot of my time with customers and partners.
+The vast majority of the customers that I have spoken to understand that the cyber incident that affected us and others could have happened to any vendor, and especially a broadly deployed vendor like SolarWinds.
+Equally, they're eager to see us address the issue and share our learnings, which we are doing.
+The other opportunity that keeps coming up in these discussions is our ability to provide guidance and input to protect the entire environment of our customers as opposed to just focusing on our products, making us a more strategic partner.
+The majority of our customers that downloaded a version of the affected code have upgraded to our latest version and continue to renew their contracts with us.
+While the first priority continues to be ensure the safety and security of our customers, our conversations with customers and partners have also given us the opportunity to discuss the strength of our entire portfolio and of our future plans.
+I have also spent a significant amount of time on the cyberattack on SolarWinds, both in managing the investigation, as well as working closely with our employees, customers and partners.
+I'll elaborate on our investigation, learnings and future plans, but first, I'll touch on a few financial and operational highlights in Q4 and 2020.
+Our teams did a solid job of executing throughout the year in the face of a global pandemic.
+We hit a significant milestone that many companies aspire to, achieving non-GAAP revenues of over $1 billion in 2020.
+We grew non-GAAP revenues by 9% year over year for the full-year 2020 and 6% year over year in Q4.
+We delivered an adjusted EBITDA margin of 48% for each of the full year and in Q4.
+Our non-GAAP subscription revenue grew by 22% for the full-year 2020, and our net retention rate was approximately 105% on a trailing 12-month basis.
+We sustained strong maintenance renewal rates north of 90% in 2020, and the fourth-quarter renewal rates held up well despite the cyberattacks on SolarWinds, which we announced on December 14.
+We completed the SentryOne acquisition in the fourth quarter.
+Between our database performance analyzer, database performance monitor via the acquisition of VividCortex and SentryOne, we now have a comprehensive analysis and monitoring portfolio, supporting a broad range of database platforms across on-premises, native cloud and hybrid IT environments.
+Revenue for our database management products continued to grow in the fourth quarter, consistent with recent trends.
+We expect SentryOne to help sustain that growth.
+The database solutions complement our already strong network, systems and application monitoring solutions, as well as our efforts to become a leader in hybrid IT monitoring.
+Our core IT management subscription growth continues to be fueled by service desk, which is our ITSM product and our cloud infrastructure and application management solutions.
+Additionally, our MSP business again delivered double-digit 15% growth in both the fourth quarter and the full year, surpassing $300 million in revenue in 2020.
+We ended the year with more than 25,000 MSP partners that service over 500,000 small, medium enterprise customers, reflecting our status as a leading provider of remote monitoring and management, security, data protection and business management solutions for MSPs around the world.
+In December, we announced the confidential submission of a Form 10 registration statement with the SEC for the potential spin-off of our MSP business.
+While the process is difficult to predict, we continue to target completing the transaction in the second quarter.
+As part of the preparation for the spin-off, the MSP business, formerly known as SolarWinds MSP also announced a new brand in December.
+Moving forward, the business will be known by a familiar name, Enable, extending the roots of the company.
+To reflect the performance, protection and partnership, our MSP partners need to power their clients and businesses forward.
+Now let me turn to the cyberattack.
+Since we learned of it in December, our top priority has been to ensure that our customers are safe and protected.
+And the entire company has been working tirelessly to provide remediation, support our customers, cooperate with government authorities and share our learnings publicly.
+As I came on board and learned more, it became clear that any company would be hard-pressed on its own to withstand this type of dedicated and sophisticated attack by a determined nation state.
+It also became clear that the scope of the attack was much broader than SolarWinds as news and public disclosures emerged about breaches and compromises of other companies unrelated to us.
+We believe our Orion platform was targeted in this campaign to create a backdoor into IT environments of select customers.
+The threat actor did this by adding malicious code known as SUNBURST to versions that we released between March and June of 2020.
+SUNBURST has since been removed and is not an ongoing threat in current versions of Orion.
+Additionally, after extensive investigation, we have not found SUNBURST in any of our more than 70 non-Orion products.
+One update that I believe is critical to share is that we previously disclosed that the number of customers that may have installed an affected version of the Orion software platform was fewer than 18,000.
+Based on our discussions with customers and our investigations into the nature of SUNBURST malicious code and the advanced trade craft of the threat actor, we believe the number of organizations actually exploited through SUNBURST is substantially fewer than the number of customers that may have installed an affected version of the Orion platform.
+This is consistent with statements by National Security Advisor for Cyber and Emerging Technology, Anne Neuberger, that as of February 17, nine federal agencies and about 100 private sector companies were compromised.
+While our attitude will always be that of one impacted customer is one too many, we currently believe the total number of customers potentially impacted is significantly lower than what was originally feared.
+We are applying our learnings from this event and sharing our work more broadly.
+Internally, we are referring to our work as secure by design.
+And it's premised on zero trust principles and developing a best-in-class secure software development model to ensure our customers can have the utmost confidence in our solutions.
+We see these investments as consistent with our goal of being a best-in-class provider of powerful, affordable and secure solutions.
+We have published details regarding our efforts, but in summary, they are focused on three primary areas: first, further securing our internal environment; second, enhancing our product development environment; and third, ensuring the security and integrity of the products we deliver.
+We've added a level of security and review through tools, processes, automation and where necessary, manual checks around our product development processes that we believe goes well beyond industry norms to ensure the integrity and security of all of our products.
+We firmly believe that the Orion software platform and related products, as well as all of our other products can be used by our customers without risk of the SUNBURST malicious code.
+We also formed a new technology and cybersecurity committee of our board.
+Two current sitting members of our board, who are CIOs with significant cybersecurity experience, and I form the three member committee.
+This committee has the responsibility to assist our board in overseeing our response to the cyber incident and provide advice to management and oversight of our improvement initiatives.
+Given our unique experience, we are committed not only to leading the way with respect to secure software development, but also to sharing our learnings with the industry.
+Our fourth-quarter financial results reflect solid execution while demonstrating the resiliency of our model in the face of the cyberattack.
+We finished near the high end of the range of our outlook for the fourth quarter for non-GAAP total revenue, ending the quarter with $265.5 million in revenue, representing year-over-year growth of approximately 6%.
+Non-GAAP maintenance revenue was $124.3 million in the fourth quarter, up 8% versus the prior year, driven by consistent maintenance renewal bookings and reflecting sequential acceleration in maintenance revenue growth since the second quarter, which was impacted the most by the pandemic.
+This growth was driven by solid customer retention as evidenced by maintenance renewal rates of over 90% in the fourth quarter.
+For the fourth quarter, non-GAAP license revenue was $34.5 million, which represents a decline of approximately 23% as compared to the fourth quarter of 2019.
+The decline in license revenue resulted from the continuing impact of the global COVID pandemic, the impact of the cyberattack and our continued evolution to subscription sales for our on-premises products.
+We continue to see quarter-over-quarter sequential growth in sales of subscriptions for our on-premises products in the fourth quarter.
+On-premises subscription sales resulted in an approximately 3-percentage-point headwind to our license revenue for the quarter.
+Total non-GAAP license and maintenance revenue was $158.8 million in the fourth quarter, down 1% versus the prior year.
+Looking ahead, we expect near-term headwinds on our business due to the cyberattack and the pandemic.
+That said, we continue to see demand from both new and existing customers for our products and continue to renew existing customers, although at lower rates.
+Total ARR reached approximately $960 million as of December 31, 2020, reflecting year-over-year growth of 14%, which includes approximately 2 percentage points of contribution from our SentryOne acquisition in the fourth quarter.
+Subscription ARR grew 17%, reaching $435 million at the end of the quarter.
+Subscription ARR growth was not materially impacted by our SentryOne acquisition.
+Moving to our subscription revenue.
+Fourth-quarter non-GAAP subscription revenue was $106.6 million, up 20% year over year, which was driven by 16% year-over-year growth in our MSP business, as well as solid performance in our core IT management subscription business.
+Our land, expand and retain model has successfully driven sustained growth in our customer relationships.
+Our subscription net retention rate for the year was 105%.
+Over the last year, we believe that pandemic has validated the importance of digital transformation to the small, medium-sized enterprises that depend on our MSP partners for IT management and security and has given us confidence in the strength of our business model.
+While we've seen some reduction in spending among some SMEs, we've also seen promising trends and uptake of our solutions, as well as consistency among our larger MSP partners, resulting in stable net retention rates in 2020.
+Total non-GAAP revenue for the year ended December 31, 2020, was $1.02 billion, which represents a major milestone as we broke the $1 billion mark in annual revenues threshold while delivering 9% growth over 2019 total revenue of $938.5 million.
+For the year ended December 31, 2020, non-GAAP subscription revenue was $399 million, which represents growth of 22% year over year.
+The growth was led in dollars by our MSP business and from a full-year revenue from our ITSM and VividCortex products that were acquired in April and December 2019, respectively.
+Non-GAAP license and maintenance revenue for the full year in 2020 increased 2% year over year to $622.7 million.
+Non-GAAP maintenance revenue grew at a rate of 7%, reaching over $478 million.
+This growth was driven by solid customer retention as evidenced by a maintenance renewal rate of 91.5% in 2020.
+License revenue for the full year was negatively impacted by a combination of the slowdown in on-premises purchasing as a result of the COVID pandemic, the cyberattack in the fourth quarter and the impact of offering previous perpetual license products on a subscription basis, which we expect to yield more revenue over the full duration of the typical customer lifetime.
+We finished 2020 with 1,057 customers that have spent more than $100,000 with us in the last 12 months, which is an 18% improvement over year-end 2019.
+We are continuing our efforts to build larger relationships with our enterprise customers.
+We also had a solid quarter of non-GAAP profitability in the fourth quarter.
+Fourth-quarter adjusted EBITDA was $127.1 million, representing an adjusted EBITDA margin of 48%, exceeding the high end of the outlook for the fourth quarter.
+And for the year ended December 31, 2020, adjusted EBITDA was $489.7 million representing an adjusted EBITDA margin of 48% for the full year as well.
+Unlevered free cash flow for the full year totaled $431 million, which reflects an adjusted EBITDA conversion rate of 88%.
+The conversion rate was positively impacted by lower interest payments on our debt and improved net working capital.
+Net leverage at December 31 was 3.2 times our trailing 12 months adjusted EBITDA, despite the use of $142 million of cash on the acquisition of SentryOne in the fourth quarter.
+For the full year in 2020, we reduced our net leverage ratio from 3.9 times to 3.2 times, reflecting the power of our model to complete an acquisition the size of SentryOne and still delever significantly over the course of the year.
+With $370.5 million in cash at December 31, we are well-positioned from a financial standpoint to continue to invest in the future growth of our business.
+I will now walk you through our first-quarter outlook before turning it over to Sudhakar for some final thoughts.
+As it relates to the full year, there is uncertainty around the impact of the cyberattack on top of the continuing impact from the global pandemic.
+We are encouraged by recent engagements with both prospective and existing customers, and we are cautiously optimistic about growth of our business in 2021.
+While ongoing customer renewals and pipeline growth are indicators of the health of our business, we feel it is still too early to predict the range of outcomes with the level of precision we have provided in the past.
+As such, we believe it is prudent to only provide first quarter of 2021 outlook for total revenue, adjusted EBITDA and earnings per share at this point.
+For the first quarter of 2021, we expect non -- total non-GAAP revenue to be in the range of $247 million to $252 million, representing year-over-year growth of negative 1% to positive 1%.
+Adjusted EBITDA for the first quarter is expected to be $98 million to $101 million, which implies an approximately 40% EBITDA margin.
+As a reminder, our adjusted EBITDA margin is typically at its lowest level in the first quarter of every year due to lower license revenue and an increase in expenses, particularly around social security and payroll taxes.
+That said, the year-over-year decline in adjusted EBITDA also reflects incremental spending related to the SentryOne acquisition.
+Investments in our MSP business in advance of the spin and the incremental expenses we are making in our security-related initiatives.
+As it relates to 2020 and 2021 adjusted EBITDA, we expect our investments in security-related initiatives to be approximately $20 million to $25 million.
+Non-GAAP fully diluted earnings per share is projected to be $0.19 to $0.20 per share, assuming an estimated 318 million fully diluted shares outstanding.
+Our outlook for the first quarter assumes a non-GAAP tax rate of 22%, and we expect to pay approximately $17.2 million in cash taxes during the first quarter of 2021.
+dollar exchange rate of 1.34.
+While we are not providing full-year outlook, I will say that we expect license revenue growth to improve as we move through the year in all regions and particularly in our EMEA and APJ regions.
+Based on what we've seen so far in the first quarter, maintenance renewal rates are expected to be in the low to mid-80s in 2021.
+And we are targeting to return to historical performance in 2022 as we work with our customers to ensure their success and as we continue to further enhance our product portfolio.
+Increasing the percentage of our recurring revenue has been a focus of ours over the past five years, and recurring revenue is now 86% of our total revenue.
+We will continue to expand the subscription offerings of our on-premises products in 2021 and make new subscription sales a priority with our sales teams.
+As we said previously, we continue to explore the previously announced potential spin-off of our MSP business, now known as Enable and continue to target having that transaction occur in the second quarter of this year.
+In my various executive assignments, I have sought to let humility, ownership, transparency, focused action and a bias toward customer success be my guiding principles.
+We are committed to practicing these principles actively at SolarWinds, and as we do, we will emerge stronger as a business.
+Over time, we see significant opportunities to increase our relevance to customers and to expand our market by leveraging our network, systems, application and database analysis and monitoring tools, along with our excellent IT service desk and tools portfolio.
+We intend to integrate our platforms and serve the evolving hybrid IT needs of our customers.
+We will enable it ops, DevOps and SecOps professionals to have integrated experiences across automation and configuration, monitoring, visibility, alerting and remediation.
+These moves will further accelerate our progress toward a greater mix of subscription and recurring revenues.
+As we look to the next several quarters and years, we believe that we have a growing market opportunity, and we intend to organize our activities and plans to achieve and, in some segments, exceed market growth rates over the long-term even as we deliver strong EBITDA margins, as a result of the operating leverage that we have created in our business.
+To achieve a balance between sustained growth and strong profitability, we expect to take the following key actions: expand our international go-to-market investments to capture additional growth and market opportunities; accelerate our evolution to our customer success model and further enhance our sales team's ability to land new customers and expand.
+We believe this critical evolution will lead to a better customer satisfaction and, over time, increase the lifetime value of our customers, continue to nourish our high velocity go-to-market models, while also expanding with the enterprise and global system integrated motions, we started in 2020.
+We are embarking on additional portfolio integration and packaging efforts to support enterprise customers.
+Accelerate our offering strategy to comprehensively address the needs of hybrid IT deployments with flexible deployments that is cloud, SaaS and on-premises with an associated evolution to a greater subscription mix.
+Selectively expand via inorganic investments that both round out our portfolio, as well as enhance our ability to capture market opportunity faster.
+Over 20-plus years, we have earned the trust of our customers by delivering powerful and affordable solutions, and I'm confident that going forward, we will be known for delivering powerful, affordable and secure solutions.

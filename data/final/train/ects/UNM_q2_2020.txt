@@ -1,0 +1,160 @@
+Our SEC filings can be found in the Investors section of our website at unum.com.
+Net income for the second quarter of 2020 included net after-tax realized investment gains of $25.4 million and an after-tax impairment loss of $10 million on the right-of-use asset related to one of our operating leases on an office building, we do not plan to continue to occupy.
+Net income in the second quarter of 2019 included a net after-tax realized investment loss of $5.7 million.
+As a reminder, net realized investment gains and losses include changes in the fair value of an embedded derivative in a modified coinsurance arrangement, which resulted in an after-tax realized gain of $33.1 million in the second quarter of 2020 and an after-tax realized investment loss of $600,000 in the year ago quarter.
+Therefore, the net after-tax realized investment loss from sales and credit losses totaled $7.7 million in the second quarter of 2020.
+So excluding these items, after-tax adjusted operating income in the second quarter of 2020 was $250.1 million or $1.23 per diluted common share compared to $286.9 million or $1.36 per diluted common share in the year ago quarter.
+Despite the many challenges brought on by the COVID-19 pandemic, the corresponding sharp economic downturn and the resulting upheaval and unemployment conditions and workplace environments, we produced solid financial results in the second quarter.
+The operating trends we experienced were generally consistent with the expectations we discussed in the first quarter.
+However, the magnitude of the pluses and minuses was different than expected, particularly with mortality trends.
+We'll outline these impacts as well as other COVID related impacts on the business in greater detail throughout our commentary today.
+Before I get into the discussion of the results, I want to express how proud I am of the hard work and dedication of our teams over these past several months through this difficult time.
+Our teams are feeling challenge and uncertainty in their own lives, but their efforts to support our customers, communities as well as each other through this time has been exceptional.
+We have remained true to our purpose of helping people thrive throughout life's moments.
+And what we are witnessing today has amplified the need for what we do.
+We are also focused on the disciplined execution of our business plans and adapting to our changing world.
+We are operating very well in a largely work-from-home setting with high customer satisfaction and solid productivity.
+In this environment, we continue to be well prepared to navigate through a variety of economic scenarios.
+The entire set of circumstances we face today reinforces the need for our core business of providing affordable and accessible financial protection products to individuals and their families through the work site.
+The fragility of many Americans' financial lives has never been more obvious than what we are experiencing today.
+Our focus on delivering great social value remains paramount.
+It ranges from supporting a family with a loss of a loved one to helping America's workers with short-term disability to many other needs created by this pandemic.
+It is why we are here.
+If we turn to the totality of our second quarter financial results, we were pleased with the overall performance this quarter in the wake of the stressful conditions in the business environment.
+Adjusted operating earnings per share were $1.23, which is down from the $1.36 of the year ago second quarter, but was solid overall given the headwinds of the market.
+We experienced more volatility within our segment results than usual, and we'll walk you through the details throughout our commentary.
+Starting with our top line.
+We continue to see growth in premiums, which were up 1.7%, while underlying business origination was more mixed.
+When we think of our business growth, we think first of customers that are staying with us because of the value of the protections we provide.
+This is even more true in the midst of the pandemic.
+Persistency levels are holding up well so far this year, with only modest impacts currently.
+It is reasonable to expect that persistency will be further pressured in the second half of the year as the effects of lower unemployment lower employment levels flow through our blocks, particularly in our voluntary benefits businesses.
+Sales trends showed varying levels of impacts depending on the distribution model, size of customer and product and services set.
+Unum US Total sales declined just under 3%.
+International sales increased just over 1%, while Colonial Life sales declined 43%, reflecting the challenges of face-to-face sales.
+These trends were consistent with our expectations as cases with large companies performed better than smaller businesses and group life performed better than the voluntary lines.
+We expect premium income for our core business segments to be flat to a slight increase for full year 2020 after increasing just over 2% in the first half.
+From a benefits perspective, clearly, mortality impacts are the biggest variable on people's minds.
+When the pandemic started, it was believed to impact older ages much more severely, which meant the belief was that group carriers, such as us, would see less claims as the working population skews younger.
+In fact, what we saw was that death rates were similar to our overall non-COVID age distribution, negatively affecting our U.S. group life block and our other life insurance blocks within our voluntary benefits businesses and the U.K. On the other hand, higher mortality drove significantly higher claim terminations in the long-term care block resulting in the interest adjusted loss ratio of 67%, which is well below historical trends.
+Steve will provide more detail in his comments, but our experience was generally consistent with the trends for mortality as published in national studies.
+Beyond these outsized mortality impacts experienced this quarter, we saw several other less severe anomalies in our benefits trends resulting from the pandemic, which touched every part of the company.
+In the U.K., disability results continue to be challenged by the limitations we are experiencing in accessing the healthcare system to get the information we need to adjudicate and settle claims and return claimants to work.
+Within Unum US, our growing leave management business experienced higher volumes, which drove higher expenses and dampened profitability in the group disability line.
+Our dental businesses, on the other hand, benefited from unusually low utilization rates, producing favorable operating income for Unum US supplemental and voluntary.
+And within the group disability line, newly submitted long-term disability claims were slightly higher, but with strong claim recoveries and favorable short-term disability trends, we experienced favorable risk performance in the Unum US group disability loss ratio.
+On our investment portfolio, we saw a very dramatic improvement in the credit markets in the second quarter as the Fed became heavily involved in bringing forms of stimulus to aid the economy and the purchase of debt securities.
+Combined with improved oil prices, we saw reduced credit losses, much lower ratings migration and a sharply improved net unrealized gain position in our fixed income portfolio relative to the first quarter.
+So far, we are tracking favorably to the credit scenario we laid out in the first quarter.
+On the other hand, Fed actions in a more difficult economy have pushed interest rates to low levels.
+So in the world of tightening credit spreads and low government rates, ongoing pressure to new money yield is creating a challenging environment to put money to work for our team.
+When we bring it all together, we saw excellent statutory earnings generated again this quarter, which has been true for the first half of the year.
+Our capital metrics remained solid with RBC at approximately 370% and holding company cash of $1.6 billion.
+The results this quarter demonstrate the resilience of the franchise and underscore the disciplined approach we take to operating the business, while bringing good value to our customers.
+Now I'll ask Steve to cover the details of the second quarter results.
+And while doing so, give you some insights into what impacts were seen from the current business environment and how they could play out in the third quarter.
+I'll also discuss what trends we're seeing in the investment portfolio and the impacts we see it having on our capital position.
+To reiterate Rick's comments, we are pleased with the overall results for the second quarter.
+There was more volatility than we normally see in our segment results but the fact that overall results remain solid and our statutory results were very good speaks to the balance of our business mix and the focus we have maintained on discipline in all aspects of managing the company.
+Looking at the quarter from a high-level perspective, I want to start with a summary of what we estimate the COVID-19 and related impacts were on our second quarter results.
+To be clear, these are our best estimates as we do not always know that a claim is directly tied to COVID, but this is intended to give you our best approximation of the impacts.
+I'll break the impacts into three categories, starting with impacts to claims experience.
+We estimate that COVID produced a net unfavorable impact to our claims experience of between $12 million and $16 million, with the biggest unfavorable impacts occurring within Unum US group life the overall Unum UK results and the Closed Disability Block.
+We did experience favorable financial impacts in the dental and long-term care blocks, as I'll describe in a moment.
+The second category covers impacts to net investment income and the investment portfolio, which we estimate in the range of $24 million to $28 million unfavorable.
+The larger items were the mark on our alternative asset investment portfolio and the valuation of hybrid securities, which I'll detail in the Closed Block discussion.
+The third category is expenses, which relates primarily to higher expenses in our leave services business, driven by higher utilization of those services.
+In all, these items produced an unfavorable impact in the high $40 million to $50 million range on a before-tax basis for the second quarter.
+Although there was an unfavorable impact to sales and persistency, it is more difficult to quantify the current quarter impact on earnings.
+With that said, I'll start my discussion with Unum US.
+Adjusted operating income declined 9% to $231.9 million, primarily reflecting adverse mortality impacts from COVID-19 on the group life business, along with higher expenses in our leave management operation.
+This offset favorable benefits experience in the group disability line and stronger earnings growth in the supplemental and voluntary lines of business.
+Premium growth for Unum US in the second quarter was 1.2% year-over-year, which is a slightly lower trend than we have seen in recent quarters.
+The current sales environment remains challenging, declining by 2.9% in total for the segment.
+As we expected, we saw better sales results in the large case market for group products with those sales advancing 9.5% compared to a decline of 3.6% for sales of core market group products using 2,000 lives as a dividing line.
+In the large case segment, we continue to experience success selling packaged products with HR Connect, which is a secure connection between Unum and select employer HCM systems that automates many time-consuming HR activities.
+Persistency in Unum US was generally lower year-over-year, though we did see a slight increase in voluntary benefits.
+Persistency levels and new sales activity will continue to be watch areas as we navigate the volatile employment trends in coming quarters.
+Claims trends for Unum US showed a wide range of results in the second quarter, but the benefit ratio for this segment was generally consistent year-over-year at 68.1% compared to 67.6% in the year ago quarter, reflecting our broad diversification within the employee benefits market.
+The group disability line continue to show strong performance producing an improved benefit ratio of 72.8% in the quarter compared to 74.7% last year, driven by strong claim recoveries.
+This was offset by higher submitted claim incidents, although the recent trend in paid claims has been more favorable.
+Within the supplemental and voluntary lines, both the individual disability and voluntary benefit lines showed consistent trends year-over-year.
+While the dental and vision line benefited from a sharp decline in utilization due to COVID-19.
+This pushed the benefit ratio significantly lower to 36% from 71.6% last year.
+We are already seeing a utilization already seen utilization return to more normal levels for dental and vision and expect the benefit ratio to increase, but remain volatile as the pandemic continues to play out.
+The leave management business, which is reported within the group disability line, experienced significantly higher volumes related to COVID-19, driving higher expenses for that line, which negatively impacted earnings.
+The group life and AD&D line had a sharp decline in adjusted operating income to $19.4 million in the quarter from $62.7 million a year ago as the benefit ratio increased significantly to 81.8% in the quarter from last year's 72.9%, predominantly driven by COVID-19-related mortality.
+We experienced an increase in the number of paid claims this quarter by approximately 12% or slightly over 900 excess claims, along with an increase in the average claim size by approximately 7%.
+In addition, at the end of the second quarter, we estimated an additional number of incurred but not reported COVID claims leading to an increase in the IBNR reserve balance for group life of $7 million.
+To put this into perspective, the total impact to the quarter was approximately 1,100 excess life claims above our quarterly average, which is slightly less than 1% of the approximately 120,000 COVID-19 deaths reported by Johns Hopkins in the second quarter.
+Our experience tracked national trends closely throughout the second quarter with higher claims reported from the New York and New Jersey Metro area early in the quarter and the later skewing more to the South and Midwest in the second half of the quarter.
+Overall, despite the volatility, it was a good quarter for Unum US.
+Looking ahead, third quarter claims trends will likely continue to be volatile as the pandemic continues, though likely less than what we experienced this quarter.
+Given the recent trend in COVID-related mortality, we expect group life claims to remain elevated in the third quarter and recommend that you follow the mortality data provided by Johns Hopkins to get a sense for how our claims experience may evolve.
+Finally, we are already seeing a return to more normal utilization in the dental block.
+The Colonial Life segment produced very good earnings this quarter with adjusted operating earnings of $90.9 million, an increase of 7.7% over the year ago quarter.
+Premium income increased 4.2% as persistency held up well, offsetting the decline we are seeing in new sales activity.
+This quarter, new sales declined by 43%, reflecting the challenges of selling and enrolling in what has traditionally been a face-to-face sales environment.
+The benefit ratio was slightly lower at 50.7% compared to 51.4% a year ago as improved results in accident, sickness and disability and cancer and critical illness offset the incrementally higher mortality we experienced in the business.
+Overall, it was a good earnings quarter for Colonial Life, but we're likely to see further pressure on top line growth from the pandemic until sales activity recovers.
+We anticipate some rebound in third quarter sales, though it will continue to remain pressured relative to the year ago quarter.
+We believe that the investments we've been making in digital capabilities to support growth and improved productivity will benefit us in this environment.
+We are excited to see increased utilization of these new tools by our agency force.
+In addition, we will likely see further pressure on persistency in the coming quarters given the volatility in employment conditions and pressure on small businesses.
+Results in our Unum International segment remained weak this quarter with adjusted operating income of $15.1 million compared to $30.7 million a year ago.
+We continue to have challenges in getting the necessary documentation and certifications for claim assessments and terminations, given the disruption in our customers' workplaces and the overburdened healthcare system in the U.K. from COVID-19.
+While we did see some improvement at the end of the second quarter, this trend continued to pressure results in the group disability line.
+Additionally, like our U.S. group life trends, we experienced higher mortality in the U.K. group life block, which represents a little less than 20% of the overall U.K. business.
+Premium income, however, did increase in both Unum UK, up 1.9%; and Unum Poland, up 11.1%, both in local currency.
+Financial results from our Poland operation were very good again this quarter with a strong year-over-year increase in adjusted operating income.
+Looking forward, economic conditions in the U.K. are expected to remain pressured by the COVID-19 pandemic, the ongoing Brexit negotiations and the low interest rate environment, creating significant headwinds for the U.K. business.
+Business trends in June were more favorable than April and May as we are beginning to see some improvement in the information flow necessary to produce claim recoveries.
+However, a full recovery may be slow and is not expected until there is increased confidence that the health aspects of the pandemic are under control and that the economy will rebound.
+The Closed Block segment produced a very good quarter with adjusted operating income increasing almost 9% to $36.7 million.
+I'll discuss the operating trends of the LTC and Closed Disability Blocks in just a minute, but first, let me walk through some of the factors impacting net investment income, which is an important driver of results in this segment.
+In total, net investment income for the Closed Block segment declined 8% in the second quarter to $326.3 million.
+As we have discussed with you in the past, we allocate most of our alternative investments to this segment as we feel that over time, these investments can generate higher returns, which are important in supporting the LTC line.
+Along with these higher potential returns over the long-term income volatility in quarterly investment income, that was evident this quarter with a negative market value adjustment on these investments of $31.3 million reflecting market values at March 31, which are reported on a lagged basis.
+To put this in perspective, in 2019, we reported average quarterly positive marks of approximately $8 million a quarter.
+So this was a significant negative variance from historical results.
+With the second quarter recovery in financial markets, we do expect the valuation for many of these investments has also improved and will be reflected in our third quarter reporting.
+We do not expect, however, a full recovery in the third quarter, but do expect them to fully recover over time and generate our assumed returns.
+The second item to note regarding investment income for the Closed Block are the marks on two perpetual preferred securities that are mark-to-market quarterly and reported through net investment income, not as a part of realized investment gains or losses.
+These are energy-related investments and both rebounded strongly in the second quarter with the recovery in oil prices.
+Therefore, there is a positive market value adjustment of $10 million in the second quarter compared to the $17 million negative adjustment in the first quarter.
+Aside from these impacts to net investment income, the long-term care line within the Closed Block had an exceptionally positive quarter.
+The second quarter interest adjusted loss ratio dropped to 67%, bringing the rolling four quarters ratio to 81.1%, well below the expected range of 85% to 90%.
+The favorable results were primarily driven by elevated claim mortality, which was approximately 30% higher than average this quarter.
+Higher mortality was not evident this quarter in the active lives block, but we continue to closely monitor that experience.
+New claim incidents for LTC was also favorable this quarter, driven in part, we believe, by the hesitancy of many to enter nursing homes or assisted living facilities or receive home care because of the pandemic.
+Given the uncertainty of the timing of future claim filings, as a result of the pandemic, we did increase the incurred but not recorded reserve for long-term care by an incremental $20 million in the quarter.
+In addition, we decreased our near-term mortality assumption in our best estimate claim reserve.
+We believe this will take into account potential acceleration of mortality in our claimant population.
+Looking out to the third quarter, we expect mortality in the claimant block to remain elevated, though not at second quarter levels.
+Also related to LTC, we made further progress this quarter with several new rate increase approvals on in-force business, and now we're at 65% of our $1.4 billion reserve assumption.
+The Closed Disability Block experienced an increase in the interest adjusted loss ratio to 89.5% in the quarter from 81.3% a year ago, driven primarily by higher submitted incidents.
+New claims submissions, which we attribute in part to COVID-19 and related to economic impacts, were heavy in the early part of the second quarter, but they did return to more normal levels later in the quarter.
+Mortality did not have a meaningful impact on Closed Disability results this quarter.
+I'd like to now turn to a discussion of the investment portfolio, which showed a dramatic recovery from the first quarter, given the recovery in the financial markets.
+A few points to highlight are: first, net after-tax realized investment losses from sales and credit losses declined to $7.7 million in the second quarter from $44.4 million in the first quarter of this year.
+Second, downgrades of investment-grade securities to high-yield totaled $193 million for the second quarter compared to $336 million in the first quarter.
+You'll recall, we previously referenced $119 million of downgrades that occurred in April.
+So the activity in May and June declined significantly.
+The increase in second quarter downgrades created a minimal $11 million increase to required capital, which impacted the second quarter RBC ratio by only one point.
+And then third, the net unrealized gain position on the fixed maturity securities portfolio improved to $7.4 billion in the second quarter from $4.3 billion at the end of the first quarter.
+Within that, the Energy Holdings, which do total 9.2% of our fixed maturity securities moved to a net unrealized gain position of $437 million from a net unrealized loss of $350 million, a significant improvement in values due to spread tightening, given the recovery in economic and oil prices.
+In the first quarter, we outlined an investment credit scenario for defaults and downgrades of investment-grade securities to high-yield for 2020, that assumed as a base case $85 million of defaults and $1.6 billion of downgrades.
+We are tracking favorably to this scenario and have refreshed our view of our portfolio on a credit-by-credit basis.
+Our capital forecast now includes $70 million of defaults and $1.3 billion of downgrades in 2020, including what we have already experienced.
+We will monitor our investment portfolio and realize there is continued uncertainty in the markets for the remainder of the year, but are optimistic that the portfolio will outperform these planning assumptions.
+Even with this scenario, we still expect to meet our capital metric targets for risk-based capital and holding company liquidity throughout 2020.
+Looking to our capital position.
+We finished the second quarter in very good shape with the risk-based capital ratio for our traditional U.S. insurance companies at approximately 370%, above the 350 targeted level and holding company cash at $1.6 billion.
+We target maintaining holding company cash at greater than 1 times our fixed obligations, which is approximately $400 million.
+During the second quarter, we issued $500 million of debt.
+And as a reminder, we have a $400 million debt maturity in September.
+Beyond this upcoming maturity, the next maturity is not until 2024.
+In addition, an important driver of our capital position is after-tax statutory operating earnings in our traditional and U.S. insurance companies, which were quite strong again in the second quarter, totaling $327 million compared to $278 million in the year ago quarter.
+I would reiterate that in a very tough environment that the team and the strength of the franchise have responded.
+We enter the second half of the year recognizing the challenges if the pandemic persists, but we have been adapting well and continue to stay focused on serving our customers well.
+So I'll ask Jonathan to begin the question-and-answer session.

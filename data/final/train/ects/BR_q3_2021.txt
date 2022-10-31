@@ -1,0 +1,188 @@
+Joining me on the call today are Tim Gokey, our Chief Executive Officer; and our Chief Financial Officer, Edmund Reese.
+A summary of these risks can be found on the second and third page of the slides and a more complete description on our annual report on Form 10-K.
+We will also be referring to several non-GAAP measures, which we believe provide investors with a more complete understanding of Broadridge's underlying operating results.
+I'll begin with an overview of our key messages and an update on our third quarter results, including our performance against our strategic objectives.
+It's an exciting time to be at Broadridge, and we have a lot to cover, so let's get started.
+I'm pleased to share that Broadridge delivered strong third quarter results.
+Recurring revenues and adjusted operating income both rose 8%.
+Our results in both ICS and GTO are being propelled by long-term trends, including increasing digitization, mutualization and the democratization of investing.
+These trends are driving strong new business growth, record growth in the number of shareholders and higher trading volumes.
+We're also executing well against our strategic growth plan across governance, capital markets and wealth and investment management.
+I'll highlight some of those initiatives in a few minutes.
+A combination of those strong results and continued execution against our growth plans is giving us the confidence to continue to invest in our business.
+We've continued to fund attractive investments in our products, platforms and people, including the pending acquisition of Itiviti.
+We're also substantially increasing our guidance for fiscal year 2021 on both the top and bottom line.
+We now expect recurring revenue growth of 8% to 10% and adjusted earnings per share growth of 11% to 13%.
+While the new guidance reflects the impact of Itiviti, the bulk of this raise is organic, as Edmund will discuss.
+The net result of all these points, our strong third quarter results, our continued internal and M&A investment and our outlook for fiscal 2021 is that Broadridge is executing well and is on track to deliver at the higher end of our 3-year financial objectives, including 8% to 12% adjusted earnings per share growth.
+We remain focused on delivering long-term growth driven by secular trends and consistent investment across our governance wealth and capital markets businesses and, in turn, generate consistent, sustainable top quartile shareholder returns.
+Broadridge's ability to generate those attractive returns is driven by executing on our clear long-term growth plan.
+So let me update you on some highlights of our recent progress on Slide five.
+I'll start with ICS.
+Recurring revenues rose 11% to $586 million driven by revenue from new sales and very strong equity record growth.
+The biggest driver of ICS' strong growth was revenue from new sales, and I'm pleased to see the impact of recent investments on our results.
+Let me share two examples of our focus on product investment and strong execution are translating directly into increased revenue growth.
+The first is the Shareholder Rights Directive II.
+Over the past two years, we've created a shareholder communications hub, linking millions of investors across the EU and with hundreds of wealth managers, winning almost 300 new clients along the way.
+Now as we enter proxy season, we're starting to see those efforts translate into new revenues helping to drive 80-plus percent growth in our international proxy business.
+Virtual shareholder meetings continue to be a great example of product investment translating into new revenues.
+Over the past year, we've upgraded our VSM capabilities to include the latest in virtual meeting capabilities, including state-of-the-art video and audio technology, improved Q&A functionality, one-click shareholder authentication and seamless proxy voting.
+Those upgrades have helped retain our existing clients and have driven additional growth.
+We are now on pace to serve almost 1,900 virtual shareholder meetings this proxy season, up from 1,400 last spring.
+The second factor driving ICS was very strong equity record growth, which was 20% for the quarter.
+It's clear, the move to reducing trading commissions has triggered a significant expansion in the number of market participants, which contributed to the increase in equity record growth.
+That strong growth has been broad-based across our broker clients but has been most pronounced at the online brokers.
+It has also been broad-based across issuers with 20% growth across both widely held stocks and those with more medium-sized shareholder bases.
+We did see large increases at a handful of names, including so-called meme stocks like GameStop.
+But those increases only contributed one point of the overall growth.
+Commission-free trading is the latest step in a long-term trend.
+It includes the rise of ETFs, lower trading costs across all participants and changes in investor interfaces that helps propel high single-digit equity and fund record growth over the past decade.
+Broadridge has invested to scale its capabilities to meet that rise in demand, increase the digitization of critical regulatory communications and ensure that both new and existing investors get the information they need to understand the risks and participate in the governance of their investments.
+Looking forward, we expect strong record growth to extend into the fourth quarter with our testing indicating 25% stock record growth for Q4.
+To close off on governance.
+Let me touch briefly on regulatory.
+I want to congratulate Commissioner Gensler on his confirmation as SEC Chairman.
+As we have with every chair and administration of both parties over the past 40 years, we look forward to assisting by investing in the next generation of technology, to help the SEC achieve its mandate to better inform and protect investors, all while reducing cost for registers and creating a fair return for our shareholders.
+Let's turn now to our capital markets franchise.
+Capital markets' recurring revenues slipped by 1% as steady international growth was offset as expected by lower license revenues.
+We anticipate this period of flattish revenue to continue through the fourth quarter before picking up again in fiscal '22 as we onboard our very healthy backlog.
+On the strategic front, our planned acquisition of activity represent a significant enhancement of our ability to drive value to our clients.
+For those who may have missed our call a few weeks ago, let me remind you why we think this transaction is such an exciting step forward for our global capital markets franchise.
+As a leading provider of order management and trade execution technology and connectivity solutions for financial institutions, Itiviti gives Broadridge a compelling opportunity to extend our capital market service offering.
+The combination of Itiviti's front-office trading solutions, with Broadridge's leading post-trade back-office capabilities, will allow us to serve our client's entire trade life cycle from order to settlement.
+With increasing high frequency and algorithm trading, it's increasingly important to serve clients across traditional boundaries.
+This combination will bring critical data from the back to the front office to improve trading decisions, and it will enable our clients to simplify and improve their front-to-back technology stack and operating model.
+The combination also strengthens our joint capabilities across equities, exchange-traded derivatives and fixed income, and it substantially extends our global reach, creating significant cross-selling opportunities and enhancing our relationships with blue chip clients.
+The acquisition virtually doubles our business in APAC and further expands our reach in Europe.
+That expanded footprint and scale positions us to take advantage of growing mutualization trends in both EMEA and Asia.
+Itiviti adds more than $6 billion to Broadridge's total addressable market and will drive stronger growth, margins and earnings, as Edmund will discuss in his remarks.
+Early feedback from our clients has been overwhelmingly positive, giving us added confidence that our front-to-back thesis and our near-term medium growth outlook are sound.
+Also of note in our capital markets franchise is the continued development of our LTX fixed income trading platform.
+LTX recently completed the first-ever multi-buyer digital block trading.
+Enabling a single seller to simultaneously access the aggregated liquidity for multiple buyers is a milestone for the fixed income market, and I hope one of the many steps toward creating a more liquid corporate bond market.
+To date, 10 dealers and over 40 asset managers have joined the LTX platform.
+And an additional 14 institutions are signed in the onboarding process, including one of the world's largest fixed income managers.
+Let's turn next to our wealth and investment management business, where revenues grew by 7%, driven by new client additions and higher equity trading volumes.
+A key part of our growth strategy is to expand our sales of component solutions.
+So it's terrific to see new client onboardings across a full range of our wealth and investment management products.
+We also continue to make progress on building our industry-leading wealth management platform, which will help clients with the digital transformation of their wealth business.
+We're already live with our average daily balance billing solution and industry milestone.
+We're currently in active testing of our phone office workstation with select advisors, setting the stage for a period of extensive testing of the broader platform before going live.
+Our sales and marketing efforts with several new clients to this platform are advancing well.
+Clients see that using the Broadridge wealth platform to drive digitization by seamlessly connecting the back office functions we already provide, with additional select front and middle office capabilities, will drive a stronger top and bottom line by bringing new capabilities to advisors and clients while digitizing financial advisor, branch and back office interactions.
+Another important part of our wealth strategy is developing a robust partner network to ensure that we can integrate cutting-edge capabilities from innovative partners.
+Recent partnerships include Fligoo for predictive analytics and Anchor Bank for securities-based lending; and, a wealth management fintech accelerator.
+These partnerships and others represent ongoing steps in building a network that will enable our clients to rapidly adopt new technologies.
+When I spoke to you at the close of our fiscal third quarter a year ago, the economic outlook was deeply uncertain and from the New York area and much of the world was locked down.
+My remarks at that time were focused on the steps we were taking to keep our associates safe and meet the needs of our clients in an unprecedented time.
+Today, after 12 long months, there remains significant challenges and thinking, in particular, of our more than 3,000 associates in India and of their families and friends.
+But the global outlook is unquestionably brighter, with increasing economic growth marching, hand-in-hand with rising vaccination rates.
+The pandemic has also accelerated many long-term trends, including digitization, mutualization and next-generation resiliency.
+And the lower cost and friction for investing is bringing in millions of new investors.
+These changes are clearly having a significant impact across wealth management, governance and capital markets.
+They're causing financial services leaders to rapidly adopt next-generation technologies.
+And Broadridge is building the suite of capabilities that will help them navigate and win this period of change.
+We do so from a position of strength.
+We started the fiscal year last July expecting 2% to 6% recurring revenue growth and 4% to 10% adjusted earnings per share growth.
+Our focus then was on driving enough expense savings to assure that we could continue to fund critical growth investments.
+Fast forward nine months, and we are poised to deliver 8% to 10% recurring revenue growth, driven by a combination of strong new sales and healthy financial markets.
+After achieving our expense targets, we're now investing heavily in new product capabilities, enhancing our global post-trade platform and building next-generation capabilities across digital communications, wealth management and fixed income trading, among other investments.
+We're also adding talent and investing in our people to make Broadridge the best place for the most talented associates in our industry.
+Last but not least, we're on the brink of closing our $2.5 billion acquisition of Itiviti, expanding our capital markets franchise and further strengthening our global footprint.
+And yet even after those investments and the near-term dilution from Itiviti, we're positioned to deliver 11% to 13% adjusted earnings per share growth.
+Broadridge is at its front foot and leaning into the opportunities we see ahead.
+It has been a remarkable year.
+Looking further ahead, we're on track to achieve the higher end of our 3-year growth objectives, driving strong recurring revenue and double-digit adjusted earnings per share growth.
+We see long-term trends continuing to drive demand for our services.
+And our investments are creating new avenues for growth long beyond our current 2-year objectives.
+The future of Broadridge is brighter than ever.
+We've asked a lot of our team over the past 12 months, and they're delivering.
+They stayed focused on clients, and through them are helping to build better financial lives for millions.
+As you can see from the Q3 financial summary on Slide seven, Broadridge delivered another strong quarter.
+Recurring revenue grew 8% to $900 million.
+Adjusted operating income also grew 8% to $284 million.
+Margins declined 60 basis points to 20.4% as we successfully made the investments that we discussed last quarter in our technology platforms, in our products, our people.
+Our operating income was partially offset by a higher tax rate in Q3 '21 as we grew over discrete tax benefits in Q3 '20.
+So our adjusted earnings per share grew to $1.76 in the quarter, up 5% over Q3 '20.
+Now let's turn the slide and get into the details of the quarter, starting with recurring revenue growth.
+As I said, recurring revenue grew 8% in the quarter, powered by 7% organic growth, and comfortably within our historic mid- to high single-digit growth performance.
+demonstrating the strength of our sustainable recurring revenue growth model.
+As a result of that strong organic growth and an increase in our outlook for the fourth quarter, we're raising our guidance for recurring revenue growth to 8% to 10% for the full year, up from our prior guidance of growth at the higher end of 3% to 6%.
+Now let's look at this quarter's recurring revenue growth by business on Slide nine.
+I'll start with our ICS segment, where revenues grew by 11% to $586 million.
+Regulatory revenues rose 20% to $290 million driven by the 20% equity record growth, higher mutual fund and ETF communications volumes and net new sales, including from our Shareholder Rights Directive II solution that Tim highlighted earlier.
+We expect strong regulatory revenue growth to continue in the fourth quarter with, our current testing indicating 25% equity record growth.
+After a strong 12 months, we now have significant penetration of our VSM solution across the S&P 500, and we expect issuer revenue growth to ease going forward as we start to lap the increase of VSM activity that began in Q4 '20.
+Fund solutions revenue was flat as double-digit growth in data and analytics was offset by lower interest income from custodied accounts in our funds processing business.
+Customer communications revenues were also flat with double-digit growth in our high-margin digital products, offset by lower print volumes due in part to the pandemic-depressed activity levels.
+We expect growth in both our data-driven solutions and customer communications business to pick up in the fourth quarter as these headwinds ease.
+Wealth and investment management revenues rose 7%, driven by the onboarding of new component sales and higher retail trading.
+Capital markets revenues fell 1% of strong growth from international sales, was offset by $6 million in lower license revenues, which declined as expected.
+As we said last quarter, this flat revenue growth will continue in the Q4 '21 before picking up in fiscal year '22.
+Let's turn to Page 10, where we show more detail on volume trends.
+Broadridge's recurring revenue growth benefits from underlying volume growth trends, including stock record growth.
+Over the past decade, record growth across equity, mutual funds and ETF has grown 6% to 8%.
+Recently, equity record growth has accelerated to 11% in Q4 '20 and continued to increase through the year to 20% in Q3 '21, surpassing the estimates from our January testing.
+As I said, we expect these growth trends to continue and reach 25% in Q4 '21.
+Mutual fund and ETF record growth picked up as well to 7%, more in line with our historical growth rates.
+We are modeling a return to more moderate mid-single-digit growth across both equity, mutual fund ETF records for fiscal year '22, with stronger growth in the seasonally smaller first half and more moderate growth in the second half.
+Touching briefly on trade volumes, which you'll see on the bottom of this slide.
+This is the fifth consecutive quarter of aggregate double-digit volume growth.
+This growth reflects the increase in volatility in retail investor engagement over the past year, which continued to be quite strong well into the third quarter.
+More recently, trading volatility subsided during the second half of March, and we expect tougher trading volume comps in Q4.
+Let's move to Slide 11 for a closer look at the drivers of our recurring revenue.
+Organic growth at a very healthy 7% continues to be the largest component of our recurring revenue growth, and new sales remains the biggest driver with strong growth contribution from both ICS and GTO.
+We also continued our long track record of revenue retention above 97%.
+Internal growth contributed another three points as growth in ICS regulatory volumes more than offset the decline in GTO license revenue.
+We've now fully lapped all of our fiscal year 2020 acquisitions.
+Looking ahead to the fourth quarter, we expect Itiviti to add three points to fourth quarter recurring revenue growth.
+Total revenue growth this quarter was stronger than usual, reaching 11%, with distribution revenue contributing three points due to the increased mailings that correspond with the high record growth and the increased event-driven activity this quarter.
+Moving forward, we continue to expect the low to no-margin distribution revenue to decline over time as we focus on increasing higher-margin digital revenue across our governance business.
+Event-driven communications remain an integral part of our client offering.
+Event-driven revenues have climbed over the past four quarters to be more in line with our historical norms of about $50 million a quarter and reached $74 million in the third quarter, well above last year's unusually low $39 million.
+Broadridge benefited from an increase in mutual fund proxy activity as well as a rebound in proxy contest volumes and capital markets transactions.
+We expect fiscal '21 event-driven revenue to be more in line with the average that we've seen over the past seven years.
+For modeling purposes, we're assuming $50 million to $60 million of event-driven revenues in the fourth quarter.
+Turning to Slide 13.
+Adjusted operating income grew by 8%.
+Our adjusted operating income margin declined by 60 basis points, reflecting the continued investments that we're making in our technology platforms and product capabilities that we highlighted on our last quarterly call.
+These investments, which support our long-term growth, have a short-term impact on margin expansion, but we remain on track to deliver approximately 50 basis points of margin expansion for the full year, right in line with our fiscal year '21 guidance and 3-year growth objectives.
+This formula, forgoing near-term margin expansion and consistently investing in our technology platforms and products to drive long-term sustainable recurring revenue growth, will continue to be an important part of how we manage our business.
+As a Chief Financial Officer focused on long-term growth, it's encouraging to see us making these types of investments across all of our product lines, giving us momentum toward future growth.
+Our $124 million closed sales year-to-date are in line with our performance over the same period last year.
+We continue to see strong demand for our ICS solutions, including regulatory and issuer communications and data solutions.
+We remain on track to achieve our full year guidance of $190 million to $235 million for closed sales, which implies a fourth quarter range of $66 million to $111 million.
+Historically, the closed sales performance in the last quarter of the year has been impacted by the timing of larger deals.
+A handful of larger signings could propel us to the top end of our guidance range, and conversely, delays could put us at the lower end.
+And I'll also note that we continue to feel good about our recurring revenue backlog, which was 12% of our fiscal '20 recurring revenues as of Q4 '20 and gives us great visibility into our top line growth.
+Moving to capital allocation on the following slide.
+We generated $136 million of free cash flow year-to-date, up $54 million over the first nine months of fiscal year '20 driven by higher earnings and strong working capital management.
+During the first nine months of the fiscal year, we invested $205 million in building out our industry platforms and another $71 million in capex and software spending.
+Our M&A investment through the first nine months of the year was 0, but that will change with our announced $2.5 billion acquisition of Itiviti, which I'll touch on in a moment.
+Even after completing the Itiviti acquisition, Broadridge will remain committed to a balanced capital allocation policy, which prioritizes internal investment, growing our dividend, M&A and returning excess capital to shareholders.
+Importantly, we are also committed to maintaining an investment-grade credit rating, which means we'll prioritize debt paydown over share repurchases and expect to limit ourselves to smaller tuck-in M&A opportunities over the next several quarters.
+Given our strong free cash flow, we believe that we can comfortably achieve our new 2.5 times leverage target by the end of fiscal year '23.
+Turning to capital returns on the right-hand side of the slide, our dividend has grown and remains in line with our historical 45% payout ratio.
+On Slide 16, we are on track to close the Itiviti acquisition in the coming weeks.
+So let me take a moment to give you some additional clarity about the expected impact that Itiviti will have on our financial performance.
+I'll start with fiscal year '21.
+We expect Itiviti to add $25 billion to $30 billion or one point to our full year recurring revenue growth, which equates to three points to our fourth quarter growth.
+And the acquisition is expected to be modestly dilutive to our adjusted earnings per share growth.
+In fiscal year '22, we expect Itiviti to add approximately $250 million or about eight points to our recurring revenue growth.
+And we expect the acquisition to be accretive by approximately two to three points or roughly $0.10 to $0.15 to adjusted earnings per share growth.
+Please note that Itiviti's results in both fiscal year '21 and fiscal year '22 will be negatively impacted by the accounting treatment of acquired revenue, which will reduce revenue recognition by approximately $30 million in total with 2/3 of that impact in fiscal '22.
+This revenue haircut is incorporated in the numbers that I just shared with you.
+Finally, I want to reiterate the commentary that I gave you when we announced the deal, about the impact on our 3-year growth objectives.
+We expect Itiviti to add 2.5 to three points to our 3-year recurring revenue growth CAGR and, after interest, more than two points to our 3-year adjusted earnings per share CAGR.
+Now turning to guidance on Slide 17.
+We are raising our outlook for fiscal '21 recurring revenue growth to 8% to 10% from the higher end of 3% to 6%, and that includes one point of growth from Itiviti.
+We are raising our guidance for total revenue growth to 8% to 10% from the higher end of 1% to 4%.
+We continue to expect our adjusted operating income margin to expand to approximately 18%, up from 17.5% in fiscal year '20 as we balance near-term returns with continued investments to sustain long-term growth.
+We expect adjusted earnings per share growth of 11% to 13%, up from the higher end of 6% to 10%, and that includes a 1-point drag from Itiviti.
+Finally, as I noted earlier, we continue to expect closed sales in the range of $190 million to $235 million.
+The Broadridge Financial model is working.
+We are on track to deliver strong 8% to 10% recurring revenue growth.
+That growth is fueling our ability to both invest and expand margins.
+At the same time, our strong free cash flow business model enables us to pursue balanced capital allocation, commit to a rising dividend, fund investments in our platform and products and step up and make a significant M&A investment to grow our capital markets franchise.
+The end result is that we're on track to deliver at the higher end of our 3-year financial objectives of 7% to 9% recurring revenue growth and 8% to 12% adjusted earnings per share growth.
+It's a great example of how we manage our business to drive sustainable revenue growth, steady and consistent adjusted earnings per share growth and historically top quartile TSR.

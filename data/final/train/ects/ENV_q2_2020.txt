@@ -1,0 +1,157 @@
+I'm joined today by our CEO, Bill Crager; and CFO, Pete D'Arrigo.
+Such comments are not guarantees of future performance, and therefore, you should not put undue reliance on them.
+We also will be discussing certain non-GAAP information.
+I know these continue to be challenging days with uncertainty all around us regarding our economy, our society, so many families concerned about the health of their loved ones and millions of families worried about their financial well-being.
+At Envestnet, we have been incredibly busy as our clients have depended on us more than ever to help them navigate this period of time.
+Somehow, after months of working in a new way, it feels like business as usual despite these very unusual circumstances, we've been able to deliver and adapt to the demands of this extraordinary time on behalf of our clients.
+We've also been able and been successful in securing new and expanded relationships, delivering solid financial performance and executing on our strategic roadmap.
+I'm incredibly proud of our team for their amazing resilience and commitment to our long-term vision.
+Envestnet vision is clear: to be the leading provider of financial wellness solutions and services in North America.
+Given the accelerated reliance on cloud-based solutions such as what we offer and the number of firms, advisors, partners and consumers that interact with our network today, the stage is set for where we have been headed.
+A new standard for personal financial advice is emerging, and we are driving it.
+Through our data initiative and platform modernization efforts, we are working to create a fully configurable platform that works effectively both in an end-to-end ecosystem and in smaller app sized pieces.
+By leveraging Envestnet's digital environment, deploying what we do will become increasingly friction-free and enable our clients to deliver essential advice in ways that they've traditionally engaged their clients and importantly, also an evolving digital model that meets the expanding expectations of consumers.
+And with the use of APIs, we can take advantage of emerging distribution opportunities through which they can deploy our digital solutions.
+Demand for these solutions is accelerating.
+What we are doing here is important.
+It will recreate how the infrastructure for financial wellness will be delivered in the future.
+The addressable market opportunity we see ahead of us is substantial, and we are investing to capitalize on it.
+We will build, partner and when it makes sense to, we will acquire as we integrate the best capabilities that enable our customers' success.
+Our second quarter financial results exceeded our expectations, and our outlook for the remainder of the year has improved.
+Pete will provide all the details on that in a little bit.
+But first, let me provide some examples of the progress we're making across our business as we execute against our roadmap.
+In our wealth solutions business, we continue to demonstrate the many levers we have for growth.
+With our land and expand strategy that has worked for the better part of 15 years, our focus has mainly been on the first part of that, adding advisors and accounts to the platform in ways they want to be served by us by investment.
+We've been very successful in doing that.
+Today, we have more than 103,000 financial use advisors using the Envestnet wealth technology.
+Those advisors oversee more than 12 million accounts with $3.8 trillion assets supported by our platform.
+But we're beginning to see how our expanded integrated solutions and services create more value for our existing relationships.
+Ultimately, data-driven digital engagement is the foundation of everything we do and everything we provide to our clients.
+Data informs the financial plan.
+A recommendation engine prescribes tangible next steps an advisor and their clients can take.
+These steps are all integrated with a variety of financial wellness solutions.
+This includes investments, insurance credit and other elements, which advisors and clients can act on immediately, all in one-scale and tested platform.
+Highlighting the value of advice is even more important in this virtual world.
+Our next to actions, data insights, elevate the advisor's value proposition by handing the advisor's relevant points of contact with their clients.
+This is how we expand the value we provide to our clients and deliver on our financial wellness vision.
+Our MoneyGuide financial planning business is an excellent example of how this is working.
+Financial planning is the cornerstone for financial wellness.
+MoneyGuide, which we acquired just last year, had its best quarter in its history.
+Revenue and profitability are at its highest levels yet.
+We continue to innovate, making financial planning more accessible and easier to leverage for millions of consumers through the tens of thousands of advisors that are using our planning software each and every day.
+We now have over 200 integrations, and we continue to see success in renewing, expanding and cross-selling existing enterprise relationships, while we're also establishing new ones.
+Recently, a client of ours, Citizens Bank, signed an additional schedule for unlimited retirement block use for approximately 4,000 personal bankers and on their public website for consumers to access directly.
+This is an example of how we are deploying these upsized planning components.
+We're also seeing a large uptick in the number of RIAs leveraging MoneyGuide solutions.
+Sales to independent advisors, those who are not associated with a large broker-dealer or enterprise, were up 23% in the second quarter over last year.
+We're implementing our app size MyBlocks to integrate tightly into our solutions.
+This changes the ballgame from the app to answers, to the ability to click and execute, these easy deploy blocks illustrate the powerful, disruptive advancement that integration drives for us.
+Related to this is how we are paving the way to unlock additional opportunities within our installed base.
+Both our insurance and credit exchanges continue to add product providers, shelf space at Envestnet clients and access to thousands of advisors.
+Both are integrated within the Envestnet platform and volume is beginning to ramp-up.
+In June, we officially launched the Advisor Services Exchange, which enables critical services, including access to capital to RIAs, which is incredibly timely given the backdrop of this current environment.
+Another area where data and technology has differentiated us is how we are growing high-value fiduciary solutions that are increasingly being adopted by our clients.
+A few data points to highlight.
+The number of advisors who are using our tax and impact overlay solutions grew 16% since just this past December, and overlay accounts grew 19%.
+And our impact portfolios are also growing as investors seek to align their social and moral priorities with their investments.
+Advisers using these solutions are up 12% and impact portfolio accounts are up 18% since the end of just last year.
+Quantitative portfolios, our first direct indexing solution, also experienced higher usage, with 23% more advisors using these solutions in 33% more accounts also since the end of 2019.
+We're also making progress selling managed account solutions to our Tamarac installed base of RIAs.
+Several large firms, including a top 20 RIA, according to Barron's, are transitioning a meaningful amount of their managed account assets to our platform as they seek an operationally efficient way to migrate to model-traded UMAs.
+In our Envestnet Yodlee business, revenue also outperformed in the second quarter.
+This period of time highlights why Yodlee is the industry-leading provider of high-quality, secure data aggregation and analytics solutions.
+While COVID has been disruptive for many industries, financial institutions, specifically retail banks and wealth management firms, are increasingly embracing digital solutions, which their depositors and investors are accessing more frequently check in on their financial information.
+We're also seeing an acceleration of data access agreements being executed between banks and our Yodlee business.
+To date, we've secured open banking agreements with half of the top 10 U.S. banks.
+We're actively engaged with 25 banks at the moment and expect to have 10 more agreements executed by the end of the year.
+Over the past year, we've also significantly enhanced our aggregation platform, modernizing our core architecture so that FinTech developers could easily utilize our comprehensive yet streamlined API platform.
+So far this year, Envestnet | Yodlee has more than doubled the FinTech signings compared to last year as some customers have moved from incumbent aggregators.
+The momentum here is definitely encouraging.
+As we have updated in prior quarters, our investment manager analytics offering continues to face challenges in the market due to the proliferation of alternative data sources and resulting pricing pressure for new and renewal business.
+But we're bullish on the value embedded within consumer spending trends that can be gleaned from the data coming into our aggregation platform.
+Just this week, we launched something called Insights Solutions.
+This is a hyper-personalization capability for financial institutions.
+Through APIs, the new solution enables financial service providers to provide experiences that engage customers proactively across their financial wellness and financial planning channels.
+They also empower firms to unlock the value of data to support more informed decision-making, accurate customer segmentation and actionable guidance that they're providing to their clients.
+Additionally, this quarter, the Federal Reserve Bank of Chicago is now a customer of Envestnet | Yodlee.
+They'll be leveraging our spending insights, along with data from other providers to inform their economic research and policymaking.
+Last quarter, I shared our thoughts on the future, key themes that are driving the industry as we get through this COVID period.
+The perspective guides us as we think about Envestnet's role in shaping the future and supporting our clients.
+A few weeks ago, we launched the advisor's playbook for leading clients forward, a guide in supporting website covering these key themes.
+We also launched our virtual Advisor Summit in place of our in-person annual client conference.
+Through both of these, thousands of advisors and home office participants engage with us in our content, and we've had great feedback.
+The feedback has been tremendous, setting our industry thought leadership and how valuable it is, particularly during these times.
+These are excellent resources to understand how we're helping lead the industry forward.
+Uncertainty presents the opportunity for innovation.
+And today, there is a future that is emerging.
+Envestnet is helping our clients and millions of households navigate the current environment as they seek answers to these critical emotional questions that they're asking.
+Like, what should I do?
+And will my family be OK?
+A role on answering these questions is to enable a new advice model for the industry that embraces the future, and we are well on our way.
+Everything we do is driven by our technology and data capabilities.
+They are the conduit to every service and every solution that we offer, our opportunity to expand relationships with our current customers, our installed base, if you will, has never been greater.
+We believe that opportunity will grow as we firmly establish this ecosystem for financial wellness.
+Today, I'm going to review the second quarter and update our outlook for the rest of the year.
+Our second quarter results were quite strong, meaningfully exceeding our expectations.
+Adjusted revenue for the quarter was $235 million, well above the guidance we provided.
+Asset-based revenue was better despite the impact of the market sell-off in March.
+Favorability was primarily driven by product mix, including the increased use of our overlay and direct indexing solutions that Bill mentioned earlier.
+We also saw modest favorability in subscription and professional services revenue across our business, again, relative to our expectations.
+Cost of revenue was modestly above our guidance, driven by the outperformance in asset-based revenue.
+However, most of the revenue favorability flowed through to adjusted net revenue as our overlay and direct indexing solutions, there are no direct cost of revenue.
+Our operating expenses overall were in line with expectations, which had assumed lower levels of activity such as reduced near-term hiring and travel expenses, as examples.
+As a result, our adjusted EBITDA of $55.8 million was up 29% compared to last year.
+This translated to similarly strong performance and adjusted earnings per share of $0.59, 28% above last year.
+So what does this mean for margins and our longer-term outlook?
+The current environment has created larger swings in our asset-based revenue than normal due to the sizable market fluctuations in the first half of the year.
+The effect of the market, while negative a quarter ago, was meaningfully positive during the second quarter, leading to an increased outlook for asset-based revenue in the back half of the year compared to our expectations set out in our last earnings call.
+However, the market at June 30 was still not back to beginning of the year levels, and our AUMA was down around $22 billion from the beginning of the year.
+Specifically, second quarter market action was a positive $60 billion in AUMA, offsetting a good portion of the negative $82 billion in the first quarter.
+Today's guidance assumes a market-neutral outlook based on market levels as of June 30.
+Additionally, with stay-at-home orders and travel restrictions in place in all states where we have offices and with all of our employees working remotely and not traveling, our operating expenses have been lower.
+We've assumed that pandemic-related circumstances will continue to impact our expenses in the near term, particularly in the third quarter.
+We're assuming a modest increase in business activity as we head into the fourth quarter.
+However, we recognize that normal will mean something new in the future.
+With these assumptions, we would see a sequential increase in some operating expenses between the third and fourth quarter.
+And our guidance reflects these increases, and this assumption is the primary reason behind the relatively flat adjusted EBITDA implicit between the third and fourth quarter in today's updated guidance.
+At some point in the future, business activity will start to pick up, and our expenses will return to some higher level, likely between where they are now and where they were pre-COVID.
+We are already considering how our business should be organized and how we will manage expenses in the future.
+Our goal is to further align the organization with our strategy, and we are taking short-term action while evaluating the longer-term organizational framework.
+For example, in the second quarter, we closed nine smaller offices across the U.S. with all of those employees permanently working remotely, and we are assessing our optimal geographic footprint for the long term.
+Having seen the effectiveness of remote working for certain groups, we are exploring how to operate more in a hub-like fashion.
+Over the next several years, we still expect to drive our adjusted EBITDA margin into the mid- or upper 20s, but in the current environment, the path to that will have some variability quarter-to-quarter.
+For the full year 2020, we are raising our top and bottom line expectations.
+This is driven primarily by the favorable market action during the second quarter, and this quarter's outperformance relative to our guidance.
+We now expect adjusted revenue for the year to be between $977 million and $980 million, up 7% to 8% year-over-year.
+Adjusted EBITDA to be between $221 million and $223 million, up 14% to 15% year-over-year.
+And adjusted earnings per share to be between $2.28 and $2.31.
+Turning to the balance sheet.
+We ended June with $92 million in cash and debt of $620 million.
+Our net leverage ratio at the end of June was 2.3 times EBITDA, down from 2.6 at the end of March.
+With $225 million available on our revolver and positive cash flow generation, we are comfortable that we have the liquidity and flexibility as we balance managing the business in the current environment with continuing to invest in growth opportunities, both organically and through strategic activities.
+And at this point, I will Bill for his closing remarks.
+Recently, I've been thinking a lot about progress.
+Last week, we celebrated the 10-year anniversary of our IPO.
+During the 10 years after our founding extraordinary people, many who still work in Envestnet today, transformed an idea into a business, into a company that ultimately was traded on the New York Stock Exchange.
+That's an incredible journey.
+We accomplished a lot in our first 10 years.
+But after we rang the bell, we did not stop.
+We had more to do.
+During these past 10 years, we've experienced tremendous growth, both organically and through acquisition as we established investment as an industry leader.
+Last week, as we reached that milestone, Jud Bergman was very much on my mind.
+He is every day, but especially last week.
+There's a great picture of him, Pete and myself as the first trade cross the wire.
+We traded up one step.
+And as you can tell by the photograph we've included in the material, it was a big one.
+I'm grateful for each step that we have the opportunity to take together.
+We covered amazing ground.
+But there's so much more for us to do, and that brings us to today.
+I mentioned earlier that despite these extraordinary and disruptive days, there is a future that is emerging.
+We are driving hard to push this future.
+As we outlined in our viewpoint for the industry, data and technology, the idea that all advisors need to become digital is essential and the comprehensive integrated advice that households will receive in the future will come from the experts, and that's the network of financial advisors and firms that we're incredibly fortunate to work with.
+But they will be more and more supported by technology that helps them provide insights that powers and engages consumers as they achieve their financial goals.
+This is where we live.
+We are on our way to establishing the ecosystem that can make financial wellness a reality for everyone.
+A cloud-based model where advisors and their clients can tackle the financial questions that are big and small, make the decision and execute it in the platform.
+We're fulfilling a vision that positively impacts millions and millions of families.
+We have work to do, but I am incredibly excited about what these next 10 years will bring for us.

@@ -1,0 +1,141 @@
+Joining me on the call today are Mike Hayford, president and CEO; Owen Sullivan, COO; and Tim Oliver, CFO.
+I will begin with some of my views on the business, including an update on our shift to NCR becoming a software and services-focused company with a higher level of recurring revenue.
+Tim will then review our financial performance and outlook into the second quarter.
+Let's begin on Slide 4 with some highlights from the first quarter.
+NCR delivered a solid performance that included accelerated recurring revenue growth, significant margin expansion, and strong cash flow production.
+Although there remains uncertainty regarding when businesses return to pre-pandemic levels in certain geographies, we are starting to experience green shoots across parts of our business.
+A year ago, we were facing unprecedented uncertainty over the depth and length of the pandemic.
+We were focused on taking care of our employees.
+We asked our team to stay focused on taking care of our customers.
+I believe that that relentless focus is starting to pay dividends in improved customer satisfaction and brand loyalty.
+Although we still haven't fully recovered from the crisis, we are in a much stronger position today than we were a year ago.
+We are building momentum in our NCR as-a-Service strategy and improving execution.
+First, we expanded the adjusted EBITDA margin to 16.7% in the first quarter, which represents an increase of 420-basis-points from the first quarter of 2020.
+Second, we delivered 9% recurring revenue growth in the quarter.
+That brings recurring revenue to 57% of total revenue.
+We continue to make steady progress increasing our recurring revenue, which is consistent with our 80/60/20 goals.
+Third, we delivered strong free cash flow.
+We generated $98 million of free cash flow in the quarter, which represents the first time in many years that NCR has generated positive free cash flow in the first quarter of the year.
+And finally, we are very excited about the opportunity combined with Cardtronics.
+The proposed transaction will accelerate the NCR as-a-Service strategy and further shift NCR's revenue mix to software, services, and recurring revenue.
+We have successfully completed the financing for the transaction and remain on track to close mid-year 2021, subject, of course, to regulatory and shareholder approval.
+Now moving to Slide 5.
+We have continued to progress executing our strategy and remain focused on our transition to drive NCR as-a-Service and achieve our 80/60/20 strategic goals.
+We have made significant progress against these goals, particularly as we accelerate margin expansion toward our 20% adjusted EBITDA margin target.
+In Banking, we continue to have positive momentum in our digital banking platform, with 11 new deals signed in the first quarter.
+We also had cross-sold success with existing clients with new products, including three business banking deals done in the quarter.
+Banking software continues with strong growth as we continue to shift the business to a recurring model.
+The first quarter saw strong growth in our end-to-end multi-vendor ATM solutions as well as continued momentum with our Digital First strategy, integrating our physical assets into our digital banking solutions.
+In addition, we are beginning to shift to multi-year professional service engagements that are aligned with our software projects.
+We are receiving increased interest in our ATM as-a-Service solution and in the first quarter, signed Arkea, one of the leading retail banks in France to a 10-year ATM as-a-Service agreement.
+In Retail, we are gaining traction with our NCR Emerald offering, which is our next-gen cloud-based retail point of sale solution.
+The acceleration in digital transformation is being driven by consumer demand, and retailers will need to respond.
+We believe this is starting to drive an upgrade cycle for retail POS software.
+We recently signed a new NCR Emerald deal with Brookshire Grocery, a Texas-based super-regional grocery with more than 180 stores across three states.
+We are also seeing increased adoption of our self-checkout solutions.
+We experienced demand across customers and geographies as consumer preferences accelerate.
+In Hospitality, the momentum of Aloha Essentials, which bundle software, services hardware, and payments continued in the first quarter.
+This model is proving itself in our ability to attract new customers and better service existing customers.
+During the first quarter, over 90% of all Aloha sites sold through our direct offices were sold as subscription bundles.
+The payment attaches rate is also strong at roughly 85% of sales into new sites.
+NCR and Steak 'n Shake recently entered into an agreement for NCR to support Steak 'n Shake for over 500 restaurants globally with the subscription-based point of sale software, hardware, and end-to-end IT services in support of their restaurants.
+As we focus on executing our NCR as-a-Service strategy and drive the transformation of our businesses, we will strive to become an even more efficient steward of our resources.
+We continue to focus on taking care of our customers, advancing our product capability with investments in our strategic growth platforms, and improving our productivity.
+With that, let me pass over to Tim.
+As Mike just described, the execution of a strategy that was launched a little over two years ago is starting to be evident in both our competitive and financial results.
+Turning to Slide 6, which presents the top of the overview of our first-quarter financial performance.
+Starting on the top left, consolidated revenue was $1.54 billion, up to $41 million or 3% versus the 2020 first quarter, driven by solid growth in our retail and hospitality segments.
+Revenue was down $87 million or 5% sequentially.
+Although there is still some seasonality in our business and the lumpiness that can result from major hardware orders, we are driving significantly improved linearity.
+This year's Q1 sequential decline in revenue compares to an average step down of over $300 million from Q4 to Q1 over the last four years.
+Importantly, our strategy to shift to recurring revenue streams again accelerated.
+Recurring revenue was up 9% and comprised 57% of our revenue in the quarter.
+In the top right, adjusted EBITDA increased $70 million or 37% year over year to $258 million.
+Adjusted EBITDA margin rate expanded 420-basis-points to 16.7%.
+This improvement is almost ratably attributable to three things: direct cost productivity in our operations; significant cost reduction in our indirect and overhead layers; and revenue growth in the right, more profitable places.
+On our last call, we detailed the more permanent productivity improvements that accumulated to more than $150 million in recurring annual cost savings.
+While we will judiciously add cost back to businesses with particularly high growth rates, we intend to preserve the productivity we have already generated and to identify further efficiencies both in our current operations and those synergistic from acquisitions.
+Similar to the discussion of revenue, we are driving improved linearity in adjusted EBITDA.
+The flat performance from the fourth quarter of 2020 compares to an average Q1 sequential decline of roughly $90 million in the first quarters of each of the last four years.
+In the bottom left, non-GAAP earnings per share was $0.51, up to $0.20 or over 65% from the prior year's first quarter.
+The tax rate of 28.2% was higher than the 2020 Q1 tax rate of 13.5% and our full-year guidance of 26%, up in both cases due to higher income and a decrease in discrete tax benefits.
+And finally, and maybe most importantly, we generated $98 million of free cash flow in the quarter.
+This compares to a use of cash of $20 million in the first quarter of 2020 and represents the first time in many years that NCR has generated positive free cash flow in our first quarter.
+The $60 million declines from the fourth quarter of 2020 compared to an average Q1 sequential decline of roughly $425 million in the first quarters of the prior four years.
+Moving to Slide 7, which describes our banking segment results.
+Banking revenue decreased by $7 million or 1% year over year, with more than all of that decline attributable to lower ATM hardware sales.
+Software and services revenues both increased despite the lower hardware pull-through and the shift to recurring revenue.
+This business extended its trend of replacing revenue that was traditionally recognized with the sale of ATM hardware with revenue streams and software and services that are more durable, predictable, and valuable.
+Our banking sales funnel has improved to above pre-COVID levels, with close rates also starting to trend more positively.
+Our sales funnel mix now has a much larger and richer recurring and subscription component.
+Q1 2021 total contract value signed was more than twice the value from a year ago.
+Banking adjusted EBITDA increased $14 million or 10% year-over-year despite the lower revenue.
+As a result, the adjusted EBITDA margin rate expanded by 210-basis-points to 20.4%.
+On a sequential basis, revenue was down 5%, while adjusted EBITDA increased 17%, and the adjusted EBITDA margin rate expanded 380-basis-points.
+The improved profitability both year over year and sequentially was driven by a favorable mix of revenue and lower expenses.
+The bottom of the slide shows our key metrics for the Banking segment.
+On the left, while the conversion of current quarter wins that Mike described will have a typical 9-month lag to conversion and eventual revenue generation, prior period wins at digital banking drove a 6% year-over-year growth rate in the first quarter.
+Digital banking registered users increased 13% compared to Q1 2020, and despite the decline in total banking revenue, we did grow in the right places.
+Recurring revenue in the Banking segment increased 8% year over year.
+Moving to Slide 8, shows our Retail segment results, which were uniformly strong.
+Retail revenue increased $60 million or 13% year over year, driven by strong self-checkout and services revenue.
+Retail adjusted EBITDA increased $36 million or 97% year over year, while adjusted EBITDA margin rate expanded by 590-basis-points to 13.7%.
+This first-quarter performance demonstrates the impact of double-digit revenue growth accompanied by cost discipline, with incremental EBITDA conversion of $0.60 on the dollar.
+Lower on the page, we depicted the three key metrics for retail.
+Self-checkout revenue increased 31% year over year, driven by broad-based demand both by the customer and by geography.
+Platform lanes increased 51% compared to the prior-year first quarter.
+We continue to see accelerating adoption and implementation rates of our next-generation retail POS software solutions.
+And importantly, recurring revenue in this business increased 14% versus the first quarter of 2020.
+Slide 9 shows our Hospitality segment results, which returned to year-over-year growth.
+Hospitality revenue increased by $10 million or 6% as we are beginning to see restaurants reopen, rework existing locations, and expand.
+Our signed total contract value more than doubled from the year-ago first quarter.
+Our sales pipeline is getting stronger, and we are adding resources to our selling effort to catalyze this improving trend.
+First-quarter adjusted EBITDA increased $18 million or more than tripled from the first quarter of 2020 due to higher revenue and lower operating expenses.
+Hospitality's key metrics include Aloha Essential sites and recurring revenue.
+Aloha Essentials sites, which bundle software, services, hardware, and payments into a single offering grew 61% when compared to the prior year's first quarter and grew 21% sequentially.
+Recurring revenue in the graph at the bottom right has stabilized as the attrition rate caused by restaurant closure has abated.
+Recurring revenue in this business was down 1% from last year and was flat sequentially.
+Turning to Slide 10.
+We provide our first-quarter results for 80/60/20 strategic targets that are now very familiar to you.
+We strive to generate 80% of our revenue from software and services or, described as the inverse, less than 20% of our revenue from discrete hardware sales.
+In the first quarter, software and services represented 72% of our revenue, which is an increase from 71% in the fourth quarter.
+The decline from 74% in the first quarter of 2020 was driven by higher SCO revenue this year.
+We aim for 60% of our revenue to be recurring, to drive more resilient, more predictable, and more valuable revenue.
+Recurring revenue represented 57% of total revenue, compared to 54% in the fourth quarter, and 53% in the first quarter of 2020.
+And we aspire to a 20% adjusted EBITDA margin rate.
+As I've already emphasized, we made significant progress in this metric with an adjusted EBITDA margin rate of 16.7%, compared to 12.5% in the first quarter of 2020, and 15.8% in the fourth quarter.
+On Slide 11, we present free cash flow, net debt, and adjusted EBITDA metrics to facilitate leverage calculations.
+As I described earlier, we extended the trend of strong, more linear free cash flow through the traditionally challenging first quarter of the year.
+Free cash flow of $98 million in this quarter, compared to free cash outflow in last year's same quarter of $20 million.
+Versus Q1 of 2020, all categories of inventory were down an aggregate of 17%, with days on hand down seven days operationally.
+Receivables were down 11%, with a 9-point improvement in those longer than 90 days, and days sales outstanding improved by nine full days.
+This slide also shows our net-debt-to-adjusted-EBITDA metric, with a leverage ratio of 3.2 times.
+We ended the first quarter with $319 million of cash and remain well within our debt covenants.
+We ended the first quarter with credit facility leverage of approximately 3.3 times, well under our debt covenant maximum of 4.6.
+In anticipation of the Cardtronics transaction, we have augmented our financial position with two important debt transactions.
+We amended and extended our senior secured credit facility which provided an incremental $1.3 billion of new Term Loan A, and issued new $1.2 billion in the 8-year senior notes.
+The weighted average interest of these transactions is about 3.7%, which is significantly lower than our original model.
+At the eventual close of the transaction, these funds will all become available, and our total leverage covenant will widen to 5.5 times to allow us to execute our plan to delever rapidly from a forecasted post-close level of 4.5 times.
+These borrowings are structured so that in the absence of a close, NCR would not be left with excess borrowing.
+We greatly appreciate the partnership and strong support from our lending group.
+And my last slide is Slide 12, which provides an outlook for Q2 of 2021 for NCR on a stand-alone basis.
+While the successful completion of our proposed Cardtronics transaction at midyear would complicate both year modeling efforts and our reported results, we intend to report the second quarter and our current format to facilitate that analysis.
+So for Q2, for NCR is currently comprised, and relative to 2020's results, we expect revenue growth of 9% to 10%.
+Strengthening demand signals from our end markets and improving competitive position will both support that growth.
+We expect particularly strong growth in our Retail and Hospitality businesses and a growth rate in our recurring revenue streams that is similar to Q1.
+On profitability, we expect the adjusted EBITDA margin rate to expand by 250-basis-points to 300-basis-points to more than 16%.
+And finally, we also expect free cash flow to be similar to Q1 of 2021 as we continue to drive improved cash generation linearity.
+I expect our second-quarter performance to be another proof point that NCR is emerging from the pandemic in a more productive, more competitive, and more valuable company.
+Now turning to Slide 13.
+I want to provide an update on the proposed transaction with Cardtronics.
+Cardtronics shareholders will vote on the transaction at their shareholder meeting scheduled for May 7.
+From a regulatory perspective, the Hart-Scott-Rodino waiting period expired on March 11, and the transaction is still under review in South Africa and the United Kingdom.
+We anticipate the transaction to close midyear, subject to shareholder and regulatory approval.
+We remain very excited about the transaction as the addition of Cardtronics will accelerate our NCR as-a-Service strategy and is expected to be accretive to non-GAAP earnings per share for the first year by 20% to 25%.
+It will enhance our scale and cash flow generation while advancing our 80/60/20 strategic targets by roughly two years.
+We believe the combination of NCR and Cardtronics will drive significant value for our customers and our shareholders.
+It is a unique opportunity that is both strategically consistent and financially accretive to NCR.
+Now turning to Slide 14.
+Looking forward, our key priorities are clear; First, we will continue to accelerate our NCR as-a-Service and 80/60/20 strategy.
+We have made notable progress and strive to build on the positive momentum; Second, we have momentum in the business and are well-positioned to drive accelerated growth while improving revenue and cash flow linearity as we shift more of our revenue to a recurring revenue stream; Third, we expect the combination of a lower cost structure along with positive operating leverage will continue to drive margin expansion; Fourth, we will continue to allocate capital to the highest growth and return opportunities with the goal of driving free cash flow and increasing returns for our shareholders; and finally, we are preparing to hit the ground running and executing on the opportunities that Cardtronics will bring us once the transaction closes.
+And operator, please open the line.

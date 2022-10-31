@@ -1,0 +1,162 @@
+These statements involve a number of risks and uncertainties, including the impacts from the COVID-19 pandemic and related governmental responses and their impact on the general economy as well as other risks and uncertainties that are described in our filings with the SEC, including our most recent Form 10-K and Form 10-Q.
+The impact of any pending or potential labor disputes restructuring costs and costs subsequent to the end of the third quarter.
+The impact of foreign exchange rate changes subsequent to the end of the third quarter, impacts from further spread of COVID-19 and environmental and litigation charges.
+With the COVID-19 pandemic remaining top of mind for our colleagues and stakeholders around the world, we hope that you and your families remain safe and healthy.
+We certainly accomplished a lot this quarter.
+Our teams remain focused on our commercial and strategic objectives.
+These are exciting times for our company.
+In addition to our third quarter results, we are excited to announce today that we reached an agreement to acquire NxEdge, which will significantly expand our solutions offerings in the semiconductor industry.
+We will cover that news in a few minutes, but first, I'd like to touch briefly on our third quarter highlights.
+We delivered another strong quarter in Q3 with sales increasing approximately 16% organically and adjusted EBITDA margin expanding 250 basis points.
+As Milt will describe in greater detail shortly, performance in the Sealing Technologies and Advanced Surface Technology segments were the primary drivers of these results.
+Heightened collaboration among our supply chain, manufacturing, and commercial teams over the past year has been foundational to our strong year over year earnings growth.
+We have held supply chain disruptions to a minimum and successfully managed supply shortages, material cost increases, and pricing initiatives.
+The global supply chain pressures will likely continue for some time, and we will remain vigilant in working with our suppliers and delivering on customer needs.
+Results for the quarter and year to date also reflect the positive effect of our portfolio reshaping and growth initiatives.
+During the quarter, we announced additional moves that enhance an overall our overall portfolio of businesses.
+On September 3, we announced the divestiture of our Polymer Components business, continuing our efforts to optimize the Sealing Technologies segment.
+Following quarter close, we announced an agreement to sell our Compressor Products International business, marking another meaningful step in our company's evolution, which will significantly reduce our exposure to the oil and gas market.
+And today, the announcement of the agreement to acquire NxEdge is yet another significant step in our transformational journey.
+I will hand the call over to Milt for other highlights on the quarter, following which we will come back to today's announced acquisition.
+As Eric mentioned, we had another strong quarter, positive momentum across most major end markets, as well as the addition of Alluxa contributed to top line results, partially offset by the reduction in sales due to last year's divestitures and weakness in power generation, oil and gas, and automotive markets.
+As reported, sales of $283.1 million in the third quarter increased 5.5% year over year.
+As Eric noted, organic sales for the quarter increased about 16% compared to the third quarter of 2020.
+Gross profit margin of 38.7% increased 350 basis points versus the prior-year period.
+The increase was driven primarily by strong organic sales growth, increased pricing, the benefit of divesting lower-margin businesses and the addition of Alluxa, partially offset by increased raw material costs.
+Adjusted EBITDA of $51.5 million increased 22.3% over the prior-year period as a result of operating leverage on organic sales growth.
+The benefit of reshaping actions completed in 2020, including the addition of Alluxa and pricing initiatives, partially offset by increased raw material costs.
+Adjusted EBITDA margin of 18.2% expanded approximately 250 basis points compared to the third quarter of 2020.
+Corporate expenses of $11.6 million in the third quarter were essentially flat from a year ago.
+Adjusted diluted earnings per share of $1.40 increased 39% compared to the prior-year period.
+Amortization of acquisition-related intangible assets in the third quarter was $11.2 million compared to $9 million in the prior year, reflecting the addition of Alluxa.
+As a reminder, our estimated normalized tax rate used in determining adjusted earnings per share is 30%.
+Moving to the discussion of segment performance.
+Sealing Technologies sales of $146.9 million decreased 6.9% due to the impact of divestitures in 2020.
+Excluding the impact of foreign exchange translation and divested businesses, sales increased 15.7%, driven by strong demand in the petrochemical, heavy-duty truck, food and pharma, and general industrial markets, partially offset by tepid aerospace and power generation markets.
+For the third quarter, adjusted segment EBITDA increased 7.8% to $34.5 million, and adjusted segment EBITDA margin expanded 320 basis points to 23.5%.
+The margin expansion was driven primarily by operating leverage on volume growth, portfolio reshaping, and select pricing initiatives, partially offset by increased material costs and SG&A expenses.
+Excluding the impact of favorable foreign exchange translation and divestitures, adjusted segment EBITDA increased 26.5% compared to the prior-year period.
+Turning now to our Advanced Surface Technology segment.
+Third quarter sales of $64.3 million increased 44.2%, driven by continued strong demand in the semiconductor market and the addition of Alluxa.
+Excluding the impact of the foreign exchange translation and the Alluxa acquisition, sales increased 23.6% versus the prior-year period.
+For the third quarter, adjusted segment EBITDA increased 44.8% to $19.4 million and adjusted segment EBITDA margin of 30.2% was relatively flat compared to a year ago.
+Excluding the impact of Alluxa and foreign exchange translation, adjusted segment EBITDA increased 8.2%, reflecting transactional foreign exchange headwinds and start-up costs of the new facility in Taiwan to support strong lean tech growth.
+Just as a reminder, LeanTeq acquired in the fourth quarter of 2019, is a leading provider of highly differentiated cleaning, coating, and related solutions, supporting the most advanced technology nodes within the semiconductor industry.
+Sequentially, adjusted EBITDA margins improved 380 basis points in the quarter.
+More broadly across the entire AST segment, we expect sustained organic revenue growth and strong profitability over the long term.
+In Engineered Materials, third quarter sales of $73.8 million increased 9% compared to the prior year, driven primarily by sales in general industrial markets, partially offset by sales in power generation, oil and gas and automotive markets.
+Excluding the impact of foreign exchange translation and last year's divestiture of GGB's Bushing Block business, sales for the quarter increased 11%.
+Third quarter adjusted segment EBITDA increased 11.4% over the prior-year period to $8.8 million and adjusted segment EBITDA margin was relatively flat year over year.
+The year over year increase in EBITDA was partially the result of operating losses incurred in the prior year related to the divested Bushing Block business.
+Excluding the impact of foreign exchange translation and the impact of the Bushing Block divestiture, adjusted EBITDA was relatively flat compared to the prior-year period, reflecting material cost headwinds and higher SG&A that offset the benefit of higher volumes and pricing initiatives.
+Now turning to the balance sheet and cash flow.
+We ended the quarter with cash of $330 million and full availability of our $400 million revolver, less $12 million in outstanding letters of credit.
+At the end of September, our net debt to adjusted EBITDA was approximately 0.8 times, a sequential decline from the 1.1 times reported at the end of the second quarter.
+We'll talk momentarily about the anticipated impact of today's announced acquisitional leverage.
+Free cash flow for the first nine months of 2021 was $84 million, up from $37 million in the prior year, driven primarily by higher operating profits, offset by working capital investments supporting higher sales.
+And during the third quarter, we paid a $0.27 per share quarterly dividend.
+For the first nine months of the year, dividend payments totaled $16.8 million, a 3.7% increase versus the prior year.
+Before moving to guidance, I'd like to mention a few additional items, including events subsequent to quarter end.
+First, we increased our environmental reserve for the Passaic River site by $4.5 million in response to estimated remedial costs and ongoing settlement negotiations with the United States EPA, bringing our total reserve for this legacy environmental liabilities of $5.4 million at the end of the third quarter.
+These negotiations bring us one step closer to resolving this legacy liability.
+Second, subsequent to quarter end, we received a tax refund from the Internal Revenue Service for $26 million in conjunction with several years of audits proceeding in the 2017 completion of the ACRP process.
+And finally, as previously noted, we signed an agreement to sell CPI for a price of $195 million with estimated after-tax proceeds of approximately $175 million in conjunction with the sale, which is expected to close by the end of the first quarter of next year.
+Moving on to Slide 11 and our 2021 guidance.
+In light of the divestiture of our Polymer Components business, we are adjusting our sales guidance to be in the range of $1.085 to $1.12 billion and our 2021 adjusted EBITDA range to $202 million to $208 million.
+The only changes to prior guidance are a tightening of the range on the low end and exclusion of earnings from polymer components on the high end of the guidance.
+That was the business that we sold in September.
+We expected adjusted -- or we expect adjusted diluted earnings per share from continuing operations to be in the range of $5.35 to $5.55, and up slightly at the midpoint from the range of $5.16 to $5.50 provided last quarter.
+Our guidance assumes depreciation and amortization expense, excluding amortization of acquisition, acquisition-related intangible assets in the range of $28 million to $30 million and net interest expense of $13 million to $15 million.
+Now, I'll hand the call back to Eric to discuss the acquisition of NxEdge.
+NxEdge is an advanced manufacturing, cleaning, coating, and refurbishment business focused on the semiconductor value chain.
+This is an exciting acquisition of a highly complementary business that we believe will be transformative to our AST segment and deliver compelling strategic and financial benefits for EnPro and the customers we serve.
+It also marks a significant next step in our ongoing portfolio reshaping strategy.
+Before getting into more specifics on NxEdge, I'd like to remind everyone of our strategy as outlined during our May Investor Day and in subsequent communications.
+Since 2018, we have been executing on a transformative strategy to reshape our portfolio.
+These actions have strengthened profitability and enhanced growth through a focus on high-margin technology-related businesses, which possess stronger and more consistent cash flow, operating in faster growth markets.
+We are executing the strategy through divestitures of noncore businesses and product lines as well as strategic acquisitions of high growth, high-margin businesses that meet our M&A criteria.
+You have seen evidence of this strategy in the acquisitions of Aseptic, LeanTeq, and Alluxa and through a number of divestitures completed over the past three years.
+Based in Boise, Idaho, NxEdge serves the semiconductor supply chain from six main facilities located in Idaho and California.
+The company is expected to generate sales and EBITDA in 2021 of approximately $190 million and $70 million, respectively.
+We've long admired NxEdge and its management team and are very familiar with their business.
+With vertically integrated capabilities across the semiconductor value chain, including a robust aftermarket business, NxEdge will broaden our solutions portfolio.
+In addition, NxEdge will bring ASP more opportunities to earn process of record qualifications with key customers.
+NxEdge is highly complementary with EnPro's existing semiconductor business, and upon closing, will become part of our ASP segment.
+The combined business will have enhanced capabilities across the semiconductor value chain with significantly expanded customer relationships and new high-margin revenue streams.
+Beyond the compatibility of our businesses, we've been drawn from the start to NxEdge's experienced leadership and their talented employee base.
+Jackson Chao has been a driving force in building NxEdge into the highly profitable, high-growth company there is today, and we're excited for him to continue leading NxEdge as part of EnPro.
+We believe NxEdge's culture aligns closely with ours, including a shared focus on values of safety, excellence, and respect, which we believe will support a smooth transition and integration.
+We're excited by the prospect of combining complementary products, technical capabilities, customer bases and teams, making the combined company stronger and better positioned for long-term profitable growth while offering customers differentiated products and solutions.
+Turning to Slide 15.
+As we outlined at our investor day, we have put in place and adhere to our rigorous set of criteria for screening acquisitions, including thoughtful strategic filters and financial criteria.
+We are focused on businesses with growing addressable markets that benefit from secular growth trends.
+We look for businesses with recurring revenue streams as it relates to the organizational profile.
+Talent is critical, and we look for experienced management teams and engaged employees just as we found at Alluxa and LeanTeq.
+Finally, we look for EBITDA margins and cash flow return on investment greater than 20%.
+At NxEdge, we found a business that checks all of these boxes.
+The combination is expected to significantly enhance the scale and breadth of EnPro's offerings across the semiconductor value chain, at a time when the entire industry is being driven by powerful secular trends, some of which I will review on the following slides.
+From a services standpoint, NxEdge brings to EnPro highly complementary and differentiated capabilities across the semiconductor value chain from an advanced manufacturing through cleaning, coating, refurbishment, replacements, and new components.
+I want to highlight coatings, in particular, which, together with related proprietary material science is a linchpin of our overall semiconductor strategy.
+Advanced coatings are increasingly critical to the semiconductor production process, increasing production yields, especially for the advanced nodes.
+We believe that NxEdge's high-performance proprietary coatings materials will be a key differentiator for EnPro as a supplier in the semiconductor industry.
+NxEdge has long-term strong relationships with top-tier global IDMs and OEMs that will provide meaningful customer engagement and geographic diversification, while driving higher-margin growth, including an expanded aftermarket mix.
+As shown on Slide 16, the NxEdge combination with EnPro will expand our geographic footprint.
+With facilities in Idaho and California, we expect to add significant value to our global IDM customers who are expanding capacity in the United States and developing new domestic supply chains, reducing lead times, and expanding our product and service portfolio in the U.S. is timely.
+NxEdge's high degree of aftermarket exposure will increase recurring revenue mix, which remains a core component of our strategy.
+The combination of NxEdge with the existing AST businesses would result in aftermarket recurring revenue increasing from 35% to 44% of 2020 pro forma ASD sales.
+Moreover, NxEdge is focused on full life cycle management, vertically integrated model, and superior surface coating technology provides revenue visibility over a long-term horizon.
+We expect this combination to deliver long-term revenue growth, expand capabilities within AST and strengthen customer relationships.
+Turning to Slide 17.
+We expect AST will benefit from NxEdge's integrated design, build, and vertical integration strategy, which is a major advantage of reducing lead times and improving quality controlled traceability.
+With its vertical integration and broad scope of solutions, NxEdge has a unique capability to provide customers with improved supply chain efficiency while providing compelling products, cleaning, coding, and refurbishment solutions all along the semiconductor value chain.
+Further, AST will benefit from NxEdge's differentiated coating capabilities.
+NxEdge is a leader in advanced plasma spray coatings, while Technetics, Semi, and Alluxa offer high-density physical vapor definition light coatings.
+Combining these differentiated capabilities will enable the combined entity to serve a wide range of leading-edge semiconductor applications.
+Together, NxEdge and EnPro will touch many steps of the part life cycle from the initial design and engineered to recoating and reconditioning.
+NxEdge is a vertical integration strategy.
+For next-generation products, we will create a greater installed base for our cleaning, coating, and refurbishment capabilities globally, increasing process of record, stickiness and resulting in growing aftermarket opportunities through the life cycle.
+As the install base of advanced manufacturing equipment grows, our service annuity escalates.
+Further, as semiconductor production becomes more advanced, particularly at the sub 14-nanometer nodes, chamber components require more frequent maintenance.
+Looking at Slides 20 and 21.
+As most of you know well, consumer trends and increased computing power in the semiconductor industry are creating powerful secular tailwinds, including growth in data management, 5G networks, Internet of Things, and machine learning as well as the expansion of the use of semiconductors from consumer and auto electronics into numerous business sectors.
+Most semiconductor devices are manufactured on silicon wafers and annual wafer starts are a good indicator for predicting the volume level at which semiconductor fabs are running and the corresponding aftermarket opportunities that are generated to support the fabs.
+As the chart on Slide 20 shows, for the last two decades, wafer starts have been steadily growing.
+The demand for refurbished and after market components is directly tied to growth in ongoing capacity utilization and semiconductor fabs, which is driven by the growing demand for integrated circuits.
+NxEdge's aftermarket business directly correlates to wafer starts and makes us less sensitive to capital equipment cycles.
+With NxEdge, we will be able to expand AST's participation to other areas of the processing chambers.
+These in-chamber products go through regular preventative maintenance cycles to ensure the fab yields meet expectations.
+NxEdge's capabilities provide new components, replacement parts, and refurbishment of warn parts' relative equipment life cycle.
+Once combined, NxEdge and EnPro will be well positioned in the regions where semiconductor capacity expansions and capital spending is expected to accelerate.
+Capacity expansions planned in coming years around the world as depicted in Slide 21, show a consistent capital spending environment, which will favor the complementary nature of the combination with NxEdge and EnPro.
+In addition to adding more products inside the chamber, our combined positioning in the Americas and Taiwan positions us in regions where spending is expected to accelerate.
+This not only helps our OEM business but drives longer-term recurring revenue opportunities for replacement parts in cleaning, coating, and refurbishment services.
+Advanced semiconductor manufacturing is returning to the U.S. and domestic fabs and IDMs will create incremental step change revenue opportunities for capital equipment and subsequently drive demand for U.S.-based component manufacturers and cleaning, coating, and refurbishment service providers.
+TSMC, Intel, and Samsung have all announced major expansions in the U.S.-focused on leading-edge chip nodes sub-14 nanometer.
+NxEdge's capabilities and domestic locations will position our AST segment to capitalize on ongoing IDM expansion in semiconductor supply chain development domestically.
+Under the terms of the agreement announced today, EnPro will acquire NxEdge from Tribe Capital for $850 million in cash, subject to limited closing adjustments, including working capital.
+We expect to fund the purchase with a combination of cash, borrowings from our revolving credit facility and additional term loan debt provided by our bank group.
+The transaction is expected to close by the end of the year following regulatory approvals.
+As Eric mentioned, NxEdge expects to generate sales and adjusted EBITDA in 2021 of approximately $190 million and $70 million, respectively.
+Based on global semiconductor benchmarks, the announced expansion of wafer production in the U.S. and the capabilities of NxEdge, combined with those of our AST business, we anticipate NxEdge's annual revenue growth over the next five years, on average, to be in the high single digit, low double-digit range.
+At current interest rates, we expect NxEdge to contribute approximately $1.70 in adjusted diluted earnings per share in 2022, which represents approximately 30% above the midpoint of our 2021 guidance range.
+As Eric noted, NxEdge will continue to be led by current CEO, Jackson Chao, and will become part of our Advanced Service Technologies segment.
+The addition of NxEdge continues the migration of EnPro's end market exposure toward faster-growing markets, including semiconductor.
+As you can see on Slide 25, on a pro forma basis, including the impact of the announced NxEdge acquisition and the CPI divestiture, semi sales would represent about one-third of our total sales with noticeable drops since 2018 in heavy-duty trucking and oil and gas.
+Slide 26 provides multiyear trends for sales, adjusted EBITDA and adjusted EBITDA margin, which reflects the results of our performance and portfolio reshaping.
+2019 and 2020 are as reported.
+2021 is based on the midpoint of current guidance and 2021 pro forma shows the midpoint of guidance adjusted to reflect NxEdge, CPI, and polymer components as if those transactions occurred at the beginning of the year.
+Of note, 2021 pro forma adjusted EBITDA margins are 700 basis points above 2019 margins.
+And with 240 basis points of that improvement attributable to the impact of this year's completed and announced transactions.
+Looking at the balance sheet.
+Upon completion of the NxEdge acquisition, we anticipate net leverage of approximately 3.7 times adjusted EBITDA.
+Proceeds from the sale of CPI will lower our leverage ratio to about 3.3 times.
+Over time, through operating cash flow and possible further portfolio optimization, we expect to bring our leverage ratio back to a target of around two times.
+Now, I'll pass the call back to Eric for closing comments.
+The sustained benefits of our ongoing portfolio reshaping actions, and our intention to continue investing in growth opportunities.
+We expect this momentum to continue as we focus on driving commercial and operational excellence throughout the company.
+Our team also helped put us in a position to announce this exciting transaction with NxEdge.
+We're focused on completing the transaction before the end of the year and beginning the integration planning process, so we can hit the ground running upon close.
+We're very excited about welcoming everyone at NxEdge to the EnPro team and look forward to realizing the value of this combination.
+This is the right deal at the right time, with the right company, with the right leadership for EnPro in a growing market that expects to exceed $1 trillion by 2030.
+We're really excited about the combination.
+And with that, we'll open it up to the operator.

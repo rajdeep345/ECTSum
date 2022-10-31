@@ -1,0 +1,127 @@
+Information required by SEC Regulation G relating to these non-GAAP financial measures are available on the Investors section of our website, www.
+fortive.com under the heading Investors, Quarterly Results.
+We completed the divestiture of the Automation and Specialty Business on October 1st, 2018 and accordingly have included the results of the A&S business as discontinued operations for historical periods.
+We completed the separation of our prior Industrial Technologies segment through the spin-off of Vontier Corporation on October 9, 2020 and have accordingly included the results of the Industrial Technologies segment as discontinued operations.
+All references to period-to-period increases or decreases and financial metrics are year-over-year on a continuing operations basis.
+Today, we are pleased to announce our fourth quarter 2020 results, which reflect a strong finish to the year.
+For the quarter, we delivered adjusted diluted net earnings per share of $0.70, an increase of 19% year-over-year as well as total revenue growth of 4.9%, which exceeded the high-end of our guidance and included a return to positive core growth.
+The quarter underlie the increased resilience of our portfolio and represented a continuation of the sequential improvement in top-line performance that we have seen since late in Q2.
+Despite the continued challenges associated with the COVID-19 pandemic, our disciplined application of the Fortive Business System help drive more than 100 basis points of core operating margin expansion and a 39% increase in free cash flow.
+The better topline performance in Q4 reflected a combination of durability across the recurring revenue portions of our portfolio and clear improvement at Fluke and Tektronix.
+The strength of our recurring revenue, which now accounts for approximately 39% of our total revenue provided an important source of stability throughout 2020.
+In Q4, this is most notable among our SaaS offerings, which generated low-teens growth.
+The application of FBS customer success tools also continue to deliver improvements in net revenue retention, which climbed greater than 101% for the full year.
+Our SaaS performance helped to offset the challenges the software businesses are having with customer site access for the provision of services as well as extended timelines for contract renewals.
+The fourth quarter also saw Fluke and Tektronix return to positive growth.
+Both have seen steady improvement since the middle of Q2 driven by better point of sale trends across major geographies and continued successful new product launches.
+On January 19th, we disposed-off our remaining 19.9% ownership stake in Vontier through a tax efficient Debt-for-Equity Exchange.
+This transaction represents the final step in the Vontier separation.
+With the combination of the Vontier spin proceeds, the Debt-for-Equity Exchange and our continued strong free cash flow, we have reduced our net debt by approximately $3 billion since the beginning of Q4 with a net leverage ratio currently at approximately 1.3 times, we have significant capacity to pursue key capital allocation priorities.
+With that, let's turn to the details of the quarter on slide four.
+Adjusted net earnings were $252.9 million, up 19.3% from the prior year and adjusted diluted net earnings per share was $0.70.
+Total sales increased 4.9% to $1.3 billion with core revenue up 0.7%, reflecting continued sequential improvement from the prior quarter.
+Acquisitions contributed 260 basis points of growth and favorable foreign exchange rates increased growth by 160 basis points.
+We are particularly pleased to deliver adjusted gross margins of 58.5%, representing a new high for Fortive, which highlights the significant portfolio transformation accomplished over the last few years.
+Gross margins also benefited from our ongoing investment in innovation, continued application of FBS growth tools and another quarter of strong pricing.
+Adjusted operating profit margin was 23.2% for the quarter.
+This reflected 130 basis points of core margin, operating margin expansion, including positive core OMX for each of the segments.
+This was the second consecutive quarter with greater than 100 basis points of core OMX.
+The Q4 margin performance also contributed to 50 basis points of positive core OMX for the full year 2020.
+During the fourth quarter, we generated $313 million of free cash flow, representing conversion of 124% of adjusted net earnings and an increase of 39% year-over-year.
+Including this fourth quarter contribution, our full-year 2020 free cash flow was $902 million, representing conversion of 120% of adjusted net earnings and an increase of 44% year-over-year.
+Our 2020 free cash flow performance in particular showed the resilience of our portfolio and the power of the Fortive Business System to drive consistent, strong increases in free cash flow.
+In Asia, core revenue increased by low single digits, highlighted by high single-digit growth in China and mid single-digit growth in India.
+Continued strength in China was broad-based, led by mid 20% growth at Sensing, mid-teens growth at Fluke, and high-teens growth at Advanced Sterilization Products.
+The strength in China and India was offset by declines in most of the rest of Asia.
+Western Europe core revenue increased by high single digits in the fourth quarter with high-teens growth at Fluke Health Solutions, high single-digit growth in Tektronix, and mid-single digit growth in ASP.
+North America core revenue was down slightly in the fourth quarter, as low teens growth at Tektronix and high-single digit growth at Censis was primarily offset by declines at ASP and Industrial Scientific.
+Fluke improved to flat core growth in North America, driven by strong performance at Fluke Calibration and a return to growth at Fluke Industrial.
+Turning to our segments.
+Intelligent Operating Solutions posted a total revenue increase of 3.2% despite a 0.3% decline in core revenue.
+Acquisitions increased growth by 170 basis points while favorable foreign exchange rates increased growth by 180 basis points.
+Core operating margin increased 280 basis points.
+This price realization, improved mix and higher volumes of Fluke resulted in segment level adjusted operating margin of 28.7%.
+Fluke's core revenue returned to positive growth in the fourth quarter, increasing by low single-digits.
+Fluke saw another quarter of strong growth in China, which increased by mid-teens in addition to seeing continued improvements in North America and Western Europe, which were flat and down low-single digits, respectively.
+Point of sale showed improvement with North America still negative, but better sequentially, western Europe turning positive and China continuing at positive high single-digit rate.
+Fluke saw a strong performance in Fluke Calibration and Fluke Digital as well as solid growth in Fluke Industrial.
+Fluke Digital was led by another strong quarter from eMaint, including low double digit SaaS growth.
+Fluke continued to see momentum from recent product launches including its ii900 Sonic Imager, which was launched in November.
+Industrial Scientific core revenue declined by mid single digits in the fourth quarter.
+iNet continued to see good growth, which is more than offset by continued oil and gas related pressure at ISC's instrumentation and rental businesses.
+Separately, Intelex continued to perform well with revenues increasing by low double digits.
+The fourth quarter also represented a record bookings quarter for Intelex, which has seen strong traction in its expansion into Western Europe.
+Intelex is benefiting from the implementation of FBS, which contributed to the successful rollout of enhanced sales funnel management and digital marketing lead generation tools.
+In November, Intelex also completed the acquisition of ehsAI, a leading provider of artificial intelligence and machine learning for the automation of permitting and regulatory compliance management.
+The addition of ehsAI significantly enhances Intelex ability to deliver applied intelligence and advanced analytics to a broad range of customers.
+At Accruent, we also saw significant sequential improvement, driven primarily by strong growth in its SaaS offerings.
+While Accruent declined by low single digits for the quarter, its SaaS business increased by mid-teens.
+Accruent also continued to apply FBS to drive improvement and churn in the quarter, bringing net retention for the year to greater than 100%.
+Despite some continued pressure from customer site access issues, Accruent has seen good bookings for its Meridian Engineering and Information Management offering, as we partner with customers on their digital transformations and highly regulated markets such as life science and pharma.
+We also continue to bring new offerings to market to address return to work requirements, including a recent win for Accruent's EMS space management software product for Cushman & Wakefield.
+Gordian declined by high single digits due to headwinds associated with budget challenges and uncertainty across state and local government and higher education customers as well as continued site access issues.
+Gordian's RSMeans business grew low single digits, driven by mid-teens growth for its SaaS offering, supported by the successful implementation of virtual platforms for training and onboarding.
+Gordian also saw signs of improvement in project activity in its job order contracting business toward the end of the quarter.
+Turning to our Precision Technologies segment, we posted a total revenue increase of 2.3% with a 0.17% increase in core revenue.
+Favorable foreign exchange rates increased growth by 160 basis points.
+Core operating margin increased 30 basis points, resulting in segment level adjusted operating margin of 22.2%.
+Tektronix delivered mid single-digit core growth in the quarter with low-teens growth in North America and high single-digit growth in Western Europe.
+Tektronix continued to benefit from better point of sale trends in both regions with significant improvement from Q3.
+China saw a low-single digit decline due primarily to the negative impact of the expansion of trade restrictions, partially offset by good year-over-year point of sale growth and momentum from small and medium enterprise customers.
+Looking across the product lines, the improved topline performance in Q4 was driven by low double-digit growth in both Keithley and the mainstream mixed signal oscilloscope platforms.
+Growth in mainstream oscilloscopes continues to be led by the 6 Series line of scopes, which has seen strong demand for the new 6 and 8-channel versions since they were introduced in Q3.
+Sensing Technologies declined low single digits in the fourth quarter.
+Sensing performed well in China with mid 20% growth, driven by gains and critical environment applications etc and increased OEM demand for Hengstler, Dynapar's factory automation offerings.
+North America revenue increased slightly while Western Europe declined low single digits with both regions showing clear sequential improvement.
+Sensing's improved topline performance was primarily due to continued strength in medical and semiconductor end markets.
+Setra has recently launched AIIR Watch Negative Pressure machine for isolation room applications has performed well, generating strong initial orders since its launch early in the quarter with orders from a range of customers across medical offices, long-term care facilities, and schools.
+PacSci EMC declined low single digits, as it continued to face COVID-19 related pressures across certain elements of its supply chain.
+The company did see sequential -- clear sequential topline improvement versus the third quarter as well as another quarter of strong bookings.
+EMC enter 2021 in a strong backlog position, as its leading technology and innovation capability continue to drive strong demand.
+Moving to Advanced Healthcare Solutions.
+Total revenue increased 12% with a 2.6% increase in core revenue.
+Acquisitions added 830 basis points to growth while favorable foreign exchange rates increased growth by 110 basis points.
+Core operating margin increased 50 basis points resulting in segment level adjusted operating margin of 24.1%, up significantly versus Q3 and driven by strong margin lift at ASP, as we continue to exit the transition service agreements.
+ASP declined mid single digits, as pandemic related pressure on elective procedure volumes remained a headwind.
+Elective procedure volumes averaged approximately 93% of pre-COVID levels across the company's major markets, but were lower than anticipated and did not see slowing -- and did see slowing toward the end of the quarter.
+ASP continued to perform well in Western Europe with mid single-digit growth in addition to high-teens growth in China.
+In the US, ASP declined low single digits, as growth in capital placements from improved sales execution and funnel management partially offset the weakness in consumables revenue.
+ASP service business continues to perform well with the ongoing deployment deployment of FBS tools helping to drive service sales and optimize service delivery processes.
+With additional day to closings in Q4 in early 2021, approximately 99% of ASP's global revenue is now fully under our control and off of transition service agreements.
+Censis grew by high single digits in the quarter.
+Site access at hospitals improved early in the quarter, only to then reverse as the quarter progressed.
+Censis' topline performance was led by its SaaS-based CensiTrac offering, which grew low double digits, driven by a combination of new customer acquisitions and successful upselling of its existing customers.
+This growth was partially offset by high single-digit decline in professional services revenue tied directly to the ongoing challenges with customer site access.
+Fluke Health Solutions generated mid single-digits growth in Q4.
+FHS grew slightly in North America against a challenging comparison.
+This growth was led by strong performance across both Fluke BioMed and the Landauer radiation monitoring business.
+FHS continues to see good initial momentum across the two software platforms introduced over the past 12 months.
+OneQA, which enhances workflow efficiency and test automation for biomedical customers and Optimize [Phonetic], which provides tracking and optimization of radiation dose management for Radiology Departments.
+Both platforms reflect FHS' focus on bringing forward software and AI enabled revenue models to build on its strong and existing recurring revenue base.
+Invetech had another strong quarter with greater than 50% growth.
+The company saw a significant sales and order momentum throughout the year, including a strong finish in December.
+This growth was led by Invetech's design and engineering offering, which more than doubled on a year-over-year basis in Q4.
+The company saw a strong growth in the diagnostics market, driven by near-term projects to develop rapid testing capabilities for COVID-19 as well as strong demand from the cell therapy market tied to the production for next generation therapeutics.
+On slide 11, we highlighted the progress made in 2020 with respect to our corporate social responsibility efforts, which is one of our key strategic initiatives.
+Throughout the year, we enhanced the rigor and integrity of our data collection by transitioning our EHS, sustainability and risk assessment processes to the Intelex platform.
+Our enhanced data analytics improve insights to accelerate our sustainability efforts and give greater transparency to key stakeholders.
+To support inclusion and diversity, our Employee and Friends Resource Groups focused on improving employee connections across the organization while utilizing FBS to enhance their impact.
+We also expanded our commitment to the CEO in Action Pledge by participating in the 2021 Racial Equity Fellowship, aimed at promoting corporate best practices to address systemic racism and social injustice.
+We are using FBS tools to develop standard work for greenhouse gas accounting and reporting and scaling energy kaizen efforts more broadly across the portfolio.
+This has resulted in making substantial progress toward our greenhouse gas reduction goals, which we expect to achieve ahead of schedule.
+Finally, Fortive employees around the world continue to support our local communities through our efforts in our annual Day of Caring with over 35,000 hours of service in 60 worldwide communities.
+We are living our values to achieve our CSR goals and we're excited to continue driving progress in the years ahead.
+Turning to guidance on slide 12.
+We're instituting formal earnings guidance for the full year and the first quarter of 2021.
+For the full year, we expect adjusted diluted net earnings per share to be $2.40 to $2.55, representing year-over-year growth of 15% to 22% on a continuing operations basis.
+The annual guidance assumes core revenue growth of 4% to 7% and an adjusted operating profit margin of 22% to 23% and an effective tax rate of approximately 14%.
+We also expect free cash conversion to be approximately 105% of adjusted net income.
+We are also initiating our first quarter adjusted diluted net earnings per share guidance of $0.56 to $0.60, representing year-over-year growth of 22% to 30%.
+This includes assumptions of 5% to 8% core revenue growth and adjusted operating profit margin of 21.5% to 22.5% and an effective tax rate of 14%.
+We also expect free cash conversion to be approximately 75% of adjusted net income.
+I'm tremendously proud of how our teams rose to meet the many challenges posed by the COVID-19 pandemic, with a focus on keeping our employees safe, helping frontline workers combat the virus and continuing to provide our customers with our essential technologies.
+Despite these challenges, we made substantial progress across a range of strategic imperatives over the course of the year.
+The focus and dedication of our team around the world enabled us to significantly transform the portfolio while transitioning to a work-from-home environment and ensuring continued execution across the portfolio to deliver strong margin performance and consistent free cash flow growth.
+As a result of that hard work and a significant progress it enabled, we're in a strong position as we turn our focus to 2021, while navigating some of the continued challenges in the near term.
+With a portfolio comprised of leading businesses that are well positioned in attractive markets, considerable opportunity to accelerate our growth through continued investments in organic innovation and acquisitions and the support of a strong culture rooted in the Fortive Business System, we're very excited about the road ahead.
+That concludes our formal comments.

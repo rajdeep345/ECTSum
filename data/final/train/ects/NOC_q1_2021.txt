@@ -1,0 +1,137 @@
+These risks and uncertainties may cause actual company results to differ materially.
+On the call today are Kathy Warden, our chairman, CEO, and president, and Dave Keffer, our CFO.
+I want to congratulate the Northrop Grumman team for a very strong start to 2021.
+One year after the onset of the pandemic, we have adjusted to a new way of working and we continue to support our employees, our customers, our suppliers and our communities, which has enabled us to deliver outstanding results to our shareholders.
+Our results demonstrate the strength of our team, our portfolio, our strategy and our operating performance.
+Our solid bookings and competitive wins, robust organic sales growth and excellent operational performance resulted in strong margin rates, earnings and cash in the quarter.
+We also closed the divestiture of our IT services business, and successfully transitioned those employees and programs to Peraton.
+Elaborating on financial highlights.
+We booked new awards of $8.9 billion, grew sales 6% and increased segment operating income, 13%.
+GAAP earnings per share of $13.43 reflects the IT services gain and transaction-adjusted earnings per share increased 28% in the quarter.
+First-quarter operating cash improved by more than $900 million year over year.
+Using cash on the balance sheet and divestiture proceeds, we executed a $2 billion accelerated share repurchase agreement that retired an initial 5.9 million shares.
+We also retired $2.2 billion in debt, including early redemptions of $1.5 billion.
+Even with share repurchases, dividends and deleveraging, all of which totaled more than $4.4 billion, we exceeded the first -- we ended the first quarter with $3.5 billion of cash on the balance sheet.
+As I outlined in January, this year's capital deployment plans continue to include robust investment to drive innovation and affordability and at least $1 billion of additional share repurchases.
+Based on what we see now over the next couple of years, we expect to return the majority of our free cash flow to our shareholders through share repurchases and dividends.
+With the strength of our first-quarter results, a solid outlook for the remainder of the year and confidence in our portfolio, we are raising our sales and earnings per share guidance.
+We now expect sales will increase to between $35.3 billion and $35.7 billion, a $200 million increase to the prior range.
+And we are raising transaction-adjusted earnings per share guidance by $0.85 to a range of $24 to $24.50.
+As we look forward, we believe our capabilities will remain well aligned with US national security priorities.
+In early policy guidance, such as its interim national security strategy, the Biden administration has signaled that it views competition with China as the most pressing long-term security challenge and will invest in the capabilities needed to maintain US national security advantages.
+In its recent budget framework for fiscal year 2022, the administration described several priority efforts that are closely aligned with our portfolio and technology leadership.
+These include space, modernizing the nuclear deterrent, advanced weapons and long-range fires capabilities and R&D for breakthrough technologies, such as artificial intelligence, advanced computing and cyber.
+Turning to operational highlights in the quarter.
+Our space business doubled its backlog in 2020 and achieved 30% revenue growth in each of the last two quarters.
+This performance confirms our competitive capabilities and our ability to capture market share as our nation ramps up investment in space.
+Three competitive awards in the first quarter are good examples: The Hypersonic and Ballistic Tracking Space Sensor, the Protected Tactical SATCOM, rapid prototype program, and the next-generation interceptor.
+On HBTSS, we received $155 million award to build a prototype sensor satellite capability capable of tracking hypersonic weapons from space.
+For Protected Tactical SATCOM, we were down selected for a follow-on award to proceed with our ongoing prototype development with a flight demonstration of our PTS payload expected in 2024.
+We also were awarded a $2.6 billion contract for the next phase of the Missile Defense Agency's next-generation interceptor, known as NGI, with a period of performance through 2026.
+This contract is for the rapid development and flight test of an interceptor designed to defend against the most complex long-range threats.
+Opportunities for Northrop Grumman space also extend to civil and commercial space.
+NASA's fiscal year 2022 discretionary requests is $24.7 billion, a 6.3% increase over the 2021 enacted level.
+Importantly, the request supports human exploration of the moon, Mars and beyond.
+Support for the NASA budget enables our efforts on space launch systems and HALO, the Habitation and Logistics Outpost program.
+And in commercial space, MEV-1 continues to provide life extension services to an Intelsat satellite and have received via Satellite Technology of the Year award.
+The award recognizes the technology breakthrough that reshapes the way the satellite industry works now and for years to come.
+I'm also pleased to report that earlier this month, MEV-2 successfully docked with another Intelsat satellite.
+MEV-2 will provide five years of service before undocking and moving on to provide services for a new mission.
+Northrop Grumman is a pioneer in this field and remains the only provider of flight-proven life extension services for satellites.
+As the US continues modernizing its strategic deterrent capabilities, we are proud to be the prime contractor for two legs of the TRIAD.
+The B-21 bomber and the Ground Based Strategic Deterrent, or GBSD, as well as a key supplier on the third leg.
+These modernization programs, which were initiated in the Obama administration, are expected to begin feeling at the end of this decade.
+Both GBSD and B-21 are benefiting from our use of innovative digital tools to reduce technical risk and cost.
+As the Air Force has noted, B-21 development has been unique and that the test aircraft are more mature than other systems have been at this point, allowing us to validate our production processes much sooner in the program life cycle.
+And our GBSD program successfully completed two major milestone reviews and remains on track to field an initial operating capability by 2029.
+We are working closely with the Air Force partner and industry teammates to use digital engineering and agile software development to reduce risk and shorten development timelines as we modernize this critical system.
+The GBSD program has earned the e-series designation from the US Air Force, affirming the program's cutting-edge approach to digital transformation.
+All four of our sectors are aligned to the high priority investment areas needed to maintain military superiority.
+In addition to developing new platforms and weapon systems, we are enabling the modernization of existing platforms to ensure our war fighters have the best technology that their platforms can be modularly upgraded to counter evolving threats.
+In the first quarter, we received orders totaling approximately $500 million for additional SABR radar systems for the F-16.
+With these additional orders, we're now under contract to produce approximately 900 systems in the support of F-16 upgrades and new jet procurements for eight FMS countries, as well as upgrades to our US Air Force, Guard and Reserve F-16 fleets.
+Also on the F-16 for the US Air Force, we were down selected as the sole offer for the EMD in production of a modern electronic warfare fleet to provide next-generation self-protection and ensure an upgrade path for advanced capabilities against highly agile future threats.
+And during the quarter, the US Army approved our Kirkham system, for full rate production following a successful six-month initial operational test and evaluation on its helicopters.
+We also continue to demonstrate how we can connect platforms and sensors to enable Joint All-Domain Command and Control or JADC2.
+Our fifth-generation connectivity solutions will be featured on multiple platforms in the upcoming Northern Edge 21 Exercise in May.
+We expect to participate in several other exercises over the next 12 months, including the Army's Project Convergence, where IBCS is expected to be featured.
+And we're responding to the ABMS digital infrastructure investment priority, requiring secure processing, connectivity and data management.
+And finally, we are maturing our advanced weaponry and long-range fires capabilities.
+We conducted a successful live fire demonstration of our integrated counter UAS solutions this quarter.
+The demonstration showcased our next-generation proximity ammunition and its capability to defeat class one, two and three unmanned aerial systems.
+In addition, AARGM-ER had two successful static motor tests of a rocket motor, marketing nine consecutive successful tests in preparation for the upcoming flight tests.
+All of these successes reflect the quality of our team and the benefits of our recent investment in new technology to support national security for the US and our allies.
+We are focused on competing and winning the programs that enable continued growth and affordably delivering the capability our customers need.
+This quarter was another demonstration of our commitment to maintain strong returns and cash flows while growing the business.
+My comments begin with Q1 sales growth on Slide 4, which provides a bridge between our first quarter of 2020 and first quarter of 2021.
+We reported Q1 sales growth of approximately 6%.
+And as you can see, the IT services divestiture was an approximately $400 million headwind to first-quarter sales.
+In addition, due to the timing of our accounting calendar convention, we had three more working days in the first quarter of 2021 than in the first quarter of 2020.
+We view this tailwind as purely timing as it normalizes in Q4 when we will have four fewer days than in the fourth quarter of 2020.
+The three additional days in Q1 2021 result in an approximately 5% benefit to sales across all of our segments for your modeling purposes.
+So at the consolidated level, the divestiture and extra working days are largely offsetting for Q1.
+Adjusting for these two items, revenue growth was 6.4%.
+As I review the sector results, I'll refer to organic sales growth, adjusting only for the IT services divestiture.
+Slide 5 provides a bridge of our earnings per share between first-quarter 2020 and first quarter 2021.
+GAAP earnings per share increased to $13.43, primarily due to the gain on sale.
+When we adjust for the divestiture-related items, transaction adjusted earnings per share are up 28% to $6.57.
+The increase reflects strong segment performance, which drove $0.75 of the year-over-year improvement.
+Recovery in the equity markets generated favorable earnings on our marketable securities, especially compared to the volatility we experienced in the equity markets last March.
+Corporate unallocated expense contributed $0.27, primarily due to lower state tax and lower amortization expense in the period.
+Referring to sector results on Slide 6.
+Aeronautics systems sales were up 5% for the quarter, reflecting higher Manned Aircraft sales due to stronger volume on restricted programs and E-2D, partially offset by lower sales in autonomous systems as certain Global Hawk production programs near completion.
+At defense systems, first-quarter sales decreased 17% or 2% on an organic basis.
+Lower organic sales reflect the closeout of our Lake City activities, which represented a headwind of roughly $140 million this quarter.
+Higher volume on GMLRS and AARGM helped to offset that impact.
+Turning to mission systems, we saw a third consecutive quarter of double-digit sales growth, with revenues up 10 or 15% on an organic basis.
+Organic sales were higher in all four MS business areas as its diversified portfolio continues its strong momentum from last year.
+In Airborne Multifunction Sensors, we had higher volume for the SABR and MESA radar programs and higher restricted sales.
+Maritime land systems and sensors increased primarily due to ramp up on the G/ATOR program, as well as higher volume on marine systems.
+Navigation, targeting and survivability sales increased principally due to higher volume on targeting programs, including LITENING.
+Networked Information Solutions sales were driven by higher volume on electronic warfare programs, including JCREW and restricted programs.
+Space systems continues to be our fastest-growing segment, with sales up 29% in the quarter, or 32% on an organic basis.
+Sales were higher in both business areas, with continued ramp-up on the GBSD program, driving revenue growth in launch and strategic missiles.
+Space programs were driven by higher volume on restricted programs, NASA's Artemis programs and the Next Gen OPIR program.
+Turning to operating income on Slide 7.
+Segment operating income includes a Q1 benefit of approximately $100 million from lower overhead rates, a reflection of our disciplined approach to cost and affordability.
+This quarter's benefit includes the reduction in projected CAS pension costs that we mentioned on last quarter's call.
+While lower CAS costs do present a modest revenue and cash flow headwind going forward, they improve our competitiveness by making our solutions more affordable, and that will be a key competitive differentiator in a flattening budget environment.
+At AS, operating income increased 17% and margin rate increased to 10.3% due to higher net favorable EAC adjustments driven by reduced overhead rates.
+Defense systems operating income decreased 11%, primarily due to the IT services divestiture, and operating margin rate increased 80 basis points to 11.3%.
+The increase in operating margin rate was largely driven by improved performance in battle management and missile systems programs.
+Operating income at mission systems rose 12%, and operating margin rate increased to 15.3%.
+Higher operating income reflects higher sales, as well as the benefit recognized from reduced overhead rates, partially offset by lower net favorable EAC adjustments at network information solutions.
+Space systems operating income increased 37%, primarily due to higher sales volume.
+Operating margin rate rose to 10.9% due to higher net favorable EAC adjustments, driven by the reduction in overhead rates.
+At the total company level, segment operating income increased 13% in Q1, and operating margin rate increased to 12%.
+Higher operating income was driven principally by favorable overhead rates, as well as operational performance at the sectors, which more than offset the lower business base due to the IT services divestiture.
+Turning to sector guidance on Slide 8.
+As a result of a continued robust growth in our space business and the recent win of the NGI program, we are increasing space sales guidance to approximately $10 billion.
+Sales guidance remains unchanged for AS, DS and MS, as does operating margin rate guidance at all four sectors.
+Moving to consolidated guidance.
+Slide 9 provides a bridge to our updated guidance, reflecting the improvement in operations, as well as the effects of the divestiture on our overall outlook.
+We are raising our 2021 sales and transaction adjusted earnings per share guidance to reflect the strength of first-quarter results.
+We now expect 2021 sales will range between 35.3 and $35.7 billion, a 200 million increase to prior guidance.
+Keep in mind that our fourth quarter year-over-year revenue comparison will include headwinds of fewer working days and the $444 million equipment sale at AS in addition to the divestiture.
+Our updated guidance on corporate unallocated expenses is driven by the net gain on the IT services transaction and also reflects favorable deferred state tax benefits and other lower unallocated costs.
+Our operating margin rate guidance includes both the lower corporate unallocated expense and the benefit from the divestiture.
+You can see the estimated tax rate reflects the impact from the divestiture, and our underlying effective tax rate is unchanged.
+Our year-end weighted average diluted shares count guidance has been reduced to reflect the ASR.
+Slide 10 provides a bridge between our January guidance and today's transaction adjusted guidance.
+We are increasing our transaction adjusted earnings per share to a range of $24 to $24.50 from our prior guidance range of $23.15 to $23.65.
+Our higher guidance reflects strong segment performance, as well as lower corporate unallocated expenses, favorable pension trends and lower weighted average shares outstanding.
+Lastly, I want to take a moment to talk about cash.
+We continue to pursue a balanced capital deployment strategy that includes investing in the business, returning cash to shareholders through dividends and share repurchases and managing the balance sheet.
+In the first quarter, we delevered our balance sheet, obtained improved ratings from two credit rating agencies and executed the ASR program to further reduce our share count.
+The recently passed American Rescue Plan Act is expected to begin affecting our CAS pension recoveries in 2022.
+Asset returns and other actuarial assumptions will continue to influence these numbers.
+But all else being equal, the legislation would further reduce our CAS recoveries.
+I'd also note that we had already lowered our projected CAS pension cost to a relatively low level in our January outlook, primarily due to outstanding asset performance in 2020.
+I'd reiterate that we expect minimal cash pension contributions over the next several years.
+As Kathy mentioned, first-quarter operating cash flow increased more than $900 million from Q1 2020.
+This improvement largely reflects timing of collections and disbursements, and we have not changed our transaction-adjusted free cash flow or capital expenditure guidance for the year.
+It's worth mentioning that while the divestiture of the IT services business closed in Q1, federal and state cash taxes of approximately $800 million will be paid over the remainder of the year.
+In closing, we are very pleased with our first-quarter results as we continue to deliver for our customers, employees and shareholders.
+Our portfolio's shaping and continued investment in the business put us in a strong position to sustain our momentum in value creation and robust cash generation.
+I think we're ready for Q&A.
+Mariama, please inform the analysts how to enter the queue and ask questions.

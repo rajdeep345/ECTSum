@@ -1,0 +1,179 @@
+This is Brady Connor, and I'm here with our Chairman and Chief Executive Officer, Hans Vestberg; and Matt Ellis, our Chief Financial Officer.
+Before we get started, I'd like to draw your attention to our Safe Harbor statement on Slide 2.
+Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our website.
+Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.
+As a reminder, we've entered the quiet period for the 3.45 gigahertz spectrum auction.
+So we will not be able to comment on our spectrum holdings or strategy.
+Now let's take a look at the consolidated earnings for the third quarter.
+In the third quarter, we reported earnings of $1.55 per share on a GAAP basis.
+Reported results include a net pre-tax gain on the sale of Verizon Media of $706 million and a net pre-tax charge of approximately $247 million, which includes a net charge of $144 million related to a mark-to-market adjustment for our pension liabilities and $103 million related to a severance charge for voluntary separations under our existing plans.
+Excluding the effect of these special items, adjusted earnings per share was $1.41 in the third quarter compared to $1.25 a year ago.
+Please note, our results include two months of Verizon Media as the sale to Apollo funds closed on September 1.
+We had a solid performance in the third quarter, growing total wireless service revenue by 3.9% year-over-year with earnings growth.
+This was supported by a strong net additions in wireless and broadband, which are both translated to bottom line growth.
+This definitely confirms our strategy to grow our business with high quality offerings.
+As I said throughout the year, we have all the assets we need to extend our number one position in the market.
+Our strategy remains unchanged, and we're delivering on everything we promised.
+And we're gaining momentum on all of five vectors of growth.
+We are more passive to grow than antibody else and we're confident with our growth targets for outer years based on our third quarter and continued momentum into the fourth quarter.
+As an evidence, we're updating financial guidance for the full year.
+We now expect total wireless service revenue growth of around 4%, which is on the high-end of our prior guidance.
+And adjusted earnings per share or $5.35 to $5.40, up from $5.25 to $5.35.
+We remain on track to achieve our targeted capex levels in 2021, assuming no further disruption into the supply chain.
+Our team is working diligently and doing a fantastic work with vendors and suppliers to ensure we have adequate equipment to meet our C-Band build and that we have devices that our customer wants.
+Our operational excellence and our partnership strategy is the best in industry, which I've been so impressed by since I joined Verizon.
+And in times like these, it matters.
+Let's talk about business.
+We continue to provide a best-in-class experience across the board.
+On the network front, third-parties continue to recognize us as the best network experience.
+This includes RootMetrics for the 16th consecutive time and JD Power for the 27th consecutive time.
+Our network team is doing a great job.
+On the commercial front, we've got great momentum in the 5G adoption with over 25% of our consumer phone base using a 5G capable device.
+This is tracking well ahead of the 4G adoption, as I've said before.
+For context, 12 months of the 4G launched, 10% of the devices were on 4G.
+Less than 12 months after 5G DSS launch, more than the double were on 5G devices, and it's growing at the rapid pace.
+This combined with our millimeter wave strategy is an important combination, and that is paying off.
+In the third quarter, the total millimeter wave usage more than double sequentially.
+We're doing more gigabit of usage in a month now than we did in all the first quarter.
+In some or more established build outs, we're seeing more than 20% of usage of millimeter wave.
+And we are on track to have 5% to 10% of all traffic in the urban millimeter wave polygons by year end.
+For Business segment, we continue to add wireless subscribers and take broadband share in our ILEC footprint with Fios.
+And finally, we delivered significant value creation and strategy refinement with the sale of the Verizon Media Group in September depending TracFone acquisition and also the issuance of our third green bonds, which is a vital step toward our net-zero goal in 2035.
+All this was accomplished in tandem with a strong quarter results.
+When it comes to the finances, we are on track to meet and exceed all our 2021 guidance.
+We expect to have a strong finish of the year as we approach the launch of C-Band.
+We continued to deliver excellent revenue performance in wireless service and within Fios.
+We have a diversified path to revenue growth with all five vectors contributing.
+EBITDA was up 3.3% year-over-year.
+And on an adjusted basis, earnings per share was up 12.8%.
+Our capital allocation stands firm.
+We invest in our business to create shareholder value.
+We continued to increase our dividend, which we did for the 15th consecutive year.
+And Matt and team are working diligently on our debt reduction.
+As we said last quarter, our guidance raise is broad-based and across all our five vectors of growth.
+Consumer segment EBITDA increased by 2% driven by positive trends in customer acquisition, premium plan adoption, products and services and content as well as prepaid and reseller growth.
+The service revenue momentum in the third quarter was driven by continued execution of our migration strategy to higher valued price plans as well as high quality net adds, but our growth is more than that.
+Much of our long-term growth is in fixed wireless access and Mobile Edge Compute.
+Our strategy is becoming a national broadband provider with the best access to detect for our customers includes Fios, fixed wireless access on 5G, 4G, millimeter wave and C-Band.
+When it comes to the Mobile Edge Compute, we are the Mobile Edge Compute leader, both in public and private.
+And we just announced a private Mobile Edge Compute partnership with Amazon that we're pleased with.
+And this just scratches the surface on how we'll continue to utilize our assets.
+We're confident in our growth opportunities as we move into the investment cycle with C-Band.
+Before I hand it over to Matt, I want to briefly touch on our broadband expansion.
+We are on track to meet our fixed wireless access household coverage targets with an expected 15 million homes passed by the end of the year between 4G and 5G.
+To date, 5G Home is in 57 markets and the 4G LTE Home in over 200 markets across all 50 states.
+In addition to fixed wireless access, we're pleased with the great performance of Fios and continue to grow the open for sales volumes within our footprint.
+We are on track on exceeding all the commitments for 2021 and on track for long-term growth expectations outlined in our Investor Day earlier this year.
+You can expect us to provide 2022 guidance during our Q4 '21 earnings call.
+And now, Matt, over to you.
+I'm pleased to be with you today to share our Q3 results, another quarter in which we delivered strong financial and operating performance.
+As we have said previously, our focus is not solely on volume growth as a goal in itself, but on a high value volume growth that will yield sustainable increases in revenue and profitability going forward.
+By delivering the best-in-class network experiences to customers with additional services and products like Disney+ that others can't provide, our strategy is focused on increasing the value we receive from every connection.
+As you can see from our results, our disciplined approach is driving profitability and strong earnings results.
+In the third quarter, consolidated total revenue was $32.9 billion, up 4.3% from prior year.
+Our results are inclusive of two months of Media revenue, which approximated $1.4 billion on a segment basis.
+Excluding Verizon Media, total revenue grew 5.5%.
+Our service and other revenue growth rate was 0.5% and 1.6% without Verizon Media.
+Equipment revenue growth was approximately 30% compared to the prior year, mainly due to the timing of iconic device launches and the continued pandemic recovery.
+Fios revenue was $3.2 billion, up 4.7% year-over-year, driven by continued growth in customers as well as our efforts to increase the value of each customer by encouraging them to step-up in speed test.
+Total wireless service revenue, which is the sum of consumer and business, was $17.1 billion, an increase of 3.9% over the prior year.
+The results were driven by higher access revenue, volume growth and products.
+We are creating more positive growth with connectivity and non-connectivity services.
+Adjusted EBITDA in the third quarter was $12.3 billion, up 3.3% from prior year.
+Top-line growth and a reduction in non-equipment-related expenses contributed to the year-over-year EBITDA growth.
+Our net EBITDA growth is helping us drive earnings per share growth.
+For the quarter, adjusted earnings per share was $1.41, up year-over-year by 12.8%.
+Now, let's take a look at our consolidated metrics.
+Throughout the quarter, we remain focused on bringing in high quality net adds, a key component in helping us continue to deliver strong quarter-over-quarter revenue growth.
+We are seeing strong demand for connectivity across our consumer and business units.
+Our Mix and Match value propositions, network quality and unique partnerships are resonating with both new and existing customers.
+For the quarter, we delivered 429,000 wireless retail postpaid phone net adds, up more than 50% from prior year and in line with 2019 levels.
+We're seeing growth in new accounts as well as high retention levels, allowing us to grow our base with high quality net adds.
+Phone churn for the quarter was 0.74%, well below pre-pandemic levels.
+Churn continues to benefit from a number of sustainable factors, including our best-in-class network with unmatched reliability and coverage and overall value propositions within our Consumer and Business unlimited plans.
+Additionally, consumer payment patterns continue to be better than pre-pandemic norms.
+Total broadband net adds, defined here as Fios, DSL and fixed wireless, were 129,000.
+Fios Internet net adds were 104,000 compared to 144,000 last year.
+As a reminder, last year's 3Q Fios results included a benefit from a higher backlog entering the quarter, as we had largely paused installs in Q2 2020 due to COVID.
+Fios has continued momentum driven by our best-in-class value proposition built on network quality and our Mix and Match pricing structure.
+This combination is helping us to take share and deliver historically low churn rates.
+For the first time, we are providing fixed wireless net adds, which include both Consumer and Business fixed wireless products.
+We are building momentum and our pre-C-Band success in Q3 demonstrates there is demand for the product from consumers and businesses.
+Both our 5G and LTE fixed wireless products are performing very well.
+We're pleased with what we're seeing around the install process as well as the quality and reliability of the product.
+Now, let's turn to our Consumer Group results.
+Our Consumer Group had another strong quarter, continuing the momentum that we've been seeing in wireless and FIos.
+Total revenue was $23.3 billion, up 7.3% year-over-year.
+Service and other revenue was $18.8 billion, an improvement of 2.5% versus prior year.
+These results include strong wireless revenue as well as growth in Fios.
+Fios revenue was $2.9 billion, up 4.3% year-over-year, mainly driven by growth in our Internet base of approximately 400,000 or 6.2% over the past year and migration to higher speeds.
+Our actions around Mix and Match, which include a broadband first approach, is helping us to grow Fios revenue and Consumer EBITDA.
+We're still seeing plenty of room for additional growth within Fios as we continue to increase our share Mix and Match penetration rates and our open for sale locations.
+Wireless service revenue was $14 billion, up 4% from the prior year.
+We have been driving access gains both in growing accounts and phone net adds as well as by continuing to execute on our migration strategy.
+As a result of migrations and step-ups, over 30% of our account base is now on premium unlimited plans.
+Our growth in access is being complemented by product revenue, which includes items such as protection plans, content and others.
+Our wide range of product offerings helps us to not only grow revenue, but provides differentiated experiences and more value to our customers.
+For the quarter, EBITDA was $10.5 billion, up 2% year-over-year or more than $200 million, driven by a high quality service and other revenue gains coming from multiple growth vectors.
+These results show the impact of our strategy to enhance the value of each connection, which we believe will drive continued growth into the future.
+The Mix and Match pricing structure for both wireless and Fios provides tremendous opportunity to migrate customers to higher value tiers and bringing customers in the higher value plans.
+We are very pleased with how this strategy is working to help us increase value from our base and from new customers.
+You can see the impact of this strategy throughout our results.
+Postpaid phone net adds were 267,000, above our Q3 performance in 2019 and 2020.
+The performance was consistent during the period as we were able to grow accounts and deliver sustainably low churn throughout the quarter.
+Most importantly, we continue to be very pleased with the quality of customers we're adding with approximately 66% of new accounts taking a premium unlimited plan.
+And Q3 was another quarter in which we saw a strong acceleration in our 5G penetration, exiting the quarter with over 25% of our phone base now equipped with a 5G capable device, which is great progress in advance of our launch of 5G service on C-Band spectrum in the coming months.
+Fios Internet net adds were 98,000 for the quarter, up slightly from the prior quarter.
+We continue to be pleased with the results we're seeing, especially on retention.
+Now let's move to Slide 11 to review the Business Group results.
+Our Business segment continues to see strong demand for wireless services across multiple verticals.
+We are continuing to focus on what we believe will be the highest growth portions of the Business segment; our small and medium business unit, private wireless and the MEC space or enterprise customers as well as building momentum for fixed wireless access to serve multiple customer groups.
+Total revenues for the Business segment was $7.7 billion.
+We continue to see growth in wireless revenue, being offset by ongoing legacy wireline declines.
+Wireless service revenue was $3.1 billion, up 3.6% year-over-year.
+We saw quarter-over-quarter expansion driven by small and medium business, which was partially offset by distance learning process in public sector.
+Wireline revenues continue to be pressured by secular trends, while also facing elevated year-over-year comps due to 2020 COVID spending.
+Consistent with our focus on driving high value business in the wholesale space, we continue to rationalize our international voice traffic, which is contributing to the revenue decline, as shown on the slide.
+Business segment EBITDA was $1.9 billion, down 2.4% from the same quarter last year, and Business segment EBITDA margin was 24.8% in the quarter.
+While secular trends within wireline will continue to put pressure on margins in the near-term, we're encouraged by the growth opportunities associated with our business transformation efforts as they start to gain traction.
+Our market leadership in wireless across all customer groups and our continued investment in primary growth areas for Verizon Business Group will position us to take advantage of the growth opportunities in the future.
+We are encouraged by the results we delivered for the highest value portions of the segment in 3Q.
+Phone gross add volumes were above pre-pandemic levels, up 11.4% year-over-year and up 3% versus the same quarter in 2019.
+Total postpaid net adds for the quarter were 276,000.
+To better highlight some of the trends, on this slide we've broken out the net adds by public sector and our higher growth commercial businesses, which includes small and medium business and enterprise.
+During 3Q 2020, the commercial space, primarily within small and medium business, was depressed, while public sector buoyed by distance learning programs saw elevated net adds.
+In 3Q '21, we've seen a rebound in the commercial space, while distance learning disconnects have driven public sector volumes to lower levels.
+We expect these trends to continue into the fourth quarter.
+A portion of distance learning disconnects also impacted our phone churn and net add performance.
+Despite this, we delivered postpaid phone net adds of 162,000.
+Now, let's move to our consolidated cash flow summary.
+The business continues to generate strong cash flow.
+Year-to-date cash flow from operating activities totaled $31.2 billion.
+The year-over-year change was primarily driven by lower cash taxes last year from a one-time benefit and higher working capital requirements this year due to greater volumes.
+Year-to-date capital spending totaled $13.9 billion as we continue to support traffic growth on our 4G LTE network, while expanding the reach and capacity of our 5G Ultra Wideband network.
+C-Band capex was more than $1 billion through the third quarter.
+And we have placed orders for approximately $2 billion of related equipment year-to-date, giving us confidence that we will be within the previously guided incremental capex range of $2 billion to $3 billion for the year as we accelerate our C-Band deployment.
+The net result of cash flow from operations and capital spending is $17.3 billion of free cash flow for the nine month period.
+Net unsecured debt at quarter end was $131.6 billion, a $5.2 billion decrease versus the prior quarter.
+In addition to our third green bond issuance, we extended over $4.6 billion of near-term debt into a new 2032 maturity as we continue to optimize borrowing costs and our debt profile.
+Our net unsecured debt to adjusted EBITDA ratio was approximately 2.7 times.
+Our cash balance at the end of the quarter was $9.9 billion, which included the proceeds associated with our sale of Verizon Media Group.
+We expect lower levels of cash on hand as we progress through the fourth quarter and approach to close of the TracFone acquisition, while continuing to execute on our business strategy within our capital allocation framework.
+Let's move on to Slide 14 for an update on guidance for the remainder of the year.
+We continued our strong first half performance momentum in the third quarter.
+Hans and I are very pleased with the hard work our team is putting forth, and we are excited about the opportunities that lie ahead as we prepare for the C-Band launch.
+Our strong year-to-date results and momentum heading into the fourth quarter are allowing us to update guidance on both wireless service revenue growth and EPS.
+Wireless service revenue growth is now expected to be around 4%, the high-end of the prior guidance.
+Adjusted earnings per share guidance is being increased to $5.35 to $5.40, up from the prior range of $5.25 to $5.35.
+Our guidance for the effective tax rate is unchanged.
+Capex guidance is also unchanged, though I'd note that our assumption for our BAU spend of $17.5 billion to $18.5 billion is dependent upon no material changes in the current state of our supply chain.
+Our team continues to execute on our strategy and deliver strong operational and financial results.
+We are attracting high quality customers that see value in our products and services, evidenced by growth in accounts, migrations and step-ups.
+I look forward to continued momentum as we wrap up the year and position our base to take full advantage of all the things 5G built ride has to offer.
+As you heard, we delivered solid third quarter results and we are on track to meet or exceed all our 2021 commitments to the investment community.
+Our strategy is working.
+And I'm confident in the strategy will help to deliver both strong results and premium experiences going forward.
+As we look ahead, we'll continue to focus on expanding our 5G leadership, capitalizing on wireless momentum and work toward our C-Band launch, deploying differentiating experiences for our customers and execute our Network-as-a-Service strategy delivering all five vectors of growth.
+I will look forward to delivering on all fronts and sharing our results in the coming months.
+With that I hand it back to Brady.
+Brad, we're ready to take questions.

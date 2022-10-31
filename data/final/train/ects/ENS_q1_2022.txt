@@ -1,0 +1,112 @@
+In addition, we will also be presenting certain non-GAAP financial measures.
+We delivered solid first quarter results due to robust demand for our products and services in each of our business segments.
+Orders over the last three weeks or 12 weeks, excuse me, are 25% higher than the same period F '20 pre COVID.
+We reported first quarter fiscal 2021 adjusted earnings of $1.25 per diluted share, a 36% increase over the first quarter of last year.
+Our Motive Power business generated strong revenue and earnings growth, while our Specialty business continued its positive momentum, fueled by accelerating demand for our transportation products.
+Despite challenges in the supply chain, Energy Systems began its rebound from a challenging fourth quarter, driven by growing demand and a variety of end markets, including mid spectrum 5G, broadband and utility markets.
+Similar to other industrial companies, we are facing some challenges in the wake of the world's steepest economic recovery as businesses reopen and competition for labor, materials and transportations remains fierce.
+While we are seeing unprecedented demand growth, we have experienced constraints in our ability to bring on new employees necessary to keep up with demand.
+Freight and tariffs continues to be a source of cost pressure, along with a variety of other components, including resins and semiconductor.
+Our team has responded well to these short-term challenges and we expect to see steady improvements in the supply chain as we work to mitigate its impact by identifying alternative sourcing methods and further leveraging our global footprint to align supply with demand.
+As these temporary issues unwind, we will benefit from the strong market momentum.
+I'd now like to provide a little more color on some of our key markets.
+Let's start with our largest segment, Energy Systems, which saw a modest improvement from the prior quarter, growing revenue by more than $22 million and generating a nearly $4 million gain in operating income versus Q4.
+Demand for our Energy Systems' products remains strong, with order intake from one of our larger telecom customers picking up after a slow Q4 that was driven by 5G radio availability, labor and permitting challenges.
+Broadband orders continue to improve and are expected to accelerate dramatically as the California Public Utilities Commission public safety grid shutdown extended network backward -- backup programs roll forward.
+While the market is displaying positive momentum, Energy Systems continues to experience drags in three primary areas.
+First, we have seen higher tariffs and freight costs as our efforts to move contract manufacturing out of China closer to home is slowed by COVID versus our plan.
+Also, container shipping rates are in an unprecedented fourfold from historical rates and expedited fees are common.
+Delayed sales due to supply chain challenges, including semiconductors, continue to constrain our top line and gross margins due to a lack of capacity for higher margin cable power supplies, DC power plants, and Thin Plate Pure Lead products.
+Second, we have incurred additional engineering costs to support our Touch-Safe collaboration with Corning as well advancing -- as well as advancing our lithium offerings and the other NPIs supporting 5G and renewables from which revenue will begin to accelerate in the second half of this fiscal year.
+Our investment in R&D will also accelerate during the calendar year to advance the DC fast charging initiative that will benefit our next fiscal year.
+These investments will position us to be a significant participant in these new mega market trends.
+Third, the ES group has been more heavily burdened with the ramp up of the integration inefficiencies of the NorthStar acquisition.
+As noted prior, this integration and expansion is roughly nine months behind schedule due to COVID.
+Despite the short-term cost pressures, we remain committed to TPPL expansion and cost improvements to handle the rapidly expanding TPPL demand in all lines of business.
+Driven by sound underlying demand, we expect the Energy Systems business to continue its upward trajectory with the full opportunity set to be unleashed as these COVID-related supply chain headwinds subside.
+Our Motive Power business was a bright spot during the quarter.
+Despite some lingering supply chain constraints, we returned to the historically higher end of our return on sales for this business.
+Our backlog is now at historic levels and our NexSys TPPL along with recently released lithium variance continues to gain market acceptance.
+We anticipate normal seasonality over the summer holiday months.
+While lift truck industry order statistics remain exceptionally high, we are being mindful of OEM supply limitations.
+We are confident they're -- we are well positioned to benefit from a steady recovery throughout the balance of the fiscal year.
+The restructuring of our Hagen, Germany facility remains ahead of schedule in regards to cost and timing, with most of the cost savings yet to be realized.
+We will further evaluate our global footprint to ensure we can meet strong current order patterns and continue to extract savings with further standardization of our legacy product offerings and other business transformation initiatives.
+Our Specialty business contributed another strong quarter to our overall results despite the NorthStar-related cost drag I mentioned earlier.
+As the high-speed line and other productivity capacity enhancements are installed in our TPPL factories, we will enjoy lower costs and increased capacity in our second half results.
+Demand in our transportation business remains exceptional, buoyed by significant incremental revenue that we are positioned to win as additional Springfield capacity comes online.
+US transportation grew rapidly from the year ago quarter and our backlog remains at record levels.
+We expect continued strong demand for the remainder of the calendar year from the US economic recovery.
+We delivered exceptional results in aerospace and defense, as all of our markets were strong including tactical vehicles and munitions.
+Munitions recorded several key wins based on our industry-leading technology that provides 40% extended life in thermal batteries.
+We will have doubled this business since the acquisition in just five years.
+Positive recent conversations with several large customers, combined with the US source lithium initiatives the Biden administration is highlighting in their infrastructure legislation, gives us great confidence in the future growth opportunities in many of our businesses.
+As you all know, we announced our battery energy storage system plus DC fast charge initiative in the fourth fiscal quarter, which remains on track regarding product development and performance all while this tremendous market opportunity continues to grow.
+Our goal is to deliver an EV charger that charges any electric passenger car as fast as the car can handle, reducing the process from hours to minutes.
+By using a large stationary battery to quickly charge the EVs, we can dramatically reduce system installation costs at many sites, including the size of the AC transformer and high voltage cabling from the utility interconnect, as well as the opportunity to provide optimized energy usage and emergency backup power.
+Feedback from our potential launch customer has been very positive, both on the speed of the development and level of software maturity, and we will continue to provide updates on this exciting initiative as we move forward.
+Although we expect to continue to face some supply chain disruptions in the near term, the fundamentals of our business are stronger than ever with global demand for our products and services growing by the day.
+The massive 5G build out is getting underway and will provide a strong multi-year tailwind for EnerSys.
+Thin Plate Pure Lead demand is growing rapidly in all lines of business, and the launch of best-in-class modular lithium systems in Motive Power and Energy Systems further enhances our market-leading positions.
+Lastly, a large bipartisan infrastructure bill is moving through Congress with additional bills being discussed, which could provide another catalyst for EnerSys in areas such as the electric grid, EV charging, and the rural build out of high-speed broadband.
+I'd like to close by recapping our strategic initiatives, which remain unchanged.
+One, to accelerate higher margin maintenance free Motive Power sales with NexSys iON and NexSys PURE.
+Two, to grow the portfolio of products in our Energy Systems business, particularly in telecom, with fully integrated DC power systems and small cell site powering solutions, which will accelerate our growth in 5G, as well as the addition of our battery energy storage system plus DC fast charging initiative.
+Three, to increase Thin Plate Pure Lead capacity, particularly for transportation market share in our Specialty business.
+And finally, four, to reduce waste through the continued rollout of our EnerSys operating system.
+We will continue to execute on each of these initiatives and look forward to providing you updates on our progress in the quarters ahead.
+With that, I'll now ask Mike to provide further information on our first quarter results and go forward guidance.
+I am starting with Slide 11.
+Our first quarter net sales increased 16% over the prior year to $815 million due to a 12% increase from volume and 4% from currency gains.
+On a line of business basis, our first quarter net sales in Energy Systems were up 5% to $371 million; Specialty was up 21% to $108 million; and Motive Power revenues were up 28% to $336 million.
+Motive Power's growth was mostly from 22% in organic volume and 5% in currency improvements.
+The prior year Motive Power first quarter revenues were impacted significantly by the pandemic, with a 24% decrease in revenue.
+Our Motive Power revenues for Q1 are now comparable to the first quarter of two years ago.
+Energy Systems at a 3% increase from volume and a 3% improvement from currency, net of a 1% decrease in pricing.
+Specialty at 18% in volume improvements along with 2% positive currency and 1% in pricing.
+We had no impact from acquisitions in the quarter.
+On a geographical basis, net sales for the Americas were up 13% year-over-year to $557 million with the 12% more volume and 1% in currency; EMEA was up 27% to $201 million from 18% volume, 10% improvement in currency, less 1% in pricing; Asia was up 3% at $57 million on 9% currency improvements, less 6% volume decline.
+On a sequential basis, first quarter net sales were flat to the fourth quarter.
+On a line of business basis, Specialty decreased 19% from a very strong Q4 due to resin shortages, which are largely behind us; Motive Power was up 1% as it rebounds from the pandemic; and Energy Systems was up 6% from organic volume.
+On a geographical basis, Americas and EMEA were relatively flat, while Asia was up 5%.
+Now a few comments about our adjusted consolidated earnings performance.
+As you know, we utilize certain non-GAAP measures in analyzing our Company's operating performance, specifically excluding highlighted items.
+Accordingly, my following comments concerning operating earnings and my later comments concerning diluted earnings per share exclude all highlighted items.
+On a year-over-year basis, adjusted consolidated operating earnings in the first quarter increased approximately $14 million to $75 million, with the operating margin up 50 basis points.
+On a sequential basis, our first quarter operating earnings dollars declined $3 million from $78 million, while the OE margin dropped 40 basis points to 9.2%, primarily due to Energy Systems results, which Dave has addressed.
+Operating expenses, when excluding highlighted items, were at 14.5% of sales for the first quarter compared to 16.1% in the prior year, as our revenue growth exceeded our spending.
+On a substantial -- excuse me, sequential basis, our operating expenses declined $1 million and 10 basis points.
+Excluded from operating expenses recorded on a GAAP basis in Q1, our pre-tax charges of $14 million, primarily related to $6 million in Alpha and NorthStar amortization of intangibles and $8 million in restructuring charges for the previously announced closure of our flooded Motive Power manufacturing site in Hagen, Germany.
+Excluding those charges, our Motive Power business generated operating earnings of 15.1% or 470 basis points higher than the 10.4% in the first quarter of last year due to easing of pandemic-related restrictions and demand, coupled with ongoing OpEx restraint.
+The OE dollars for Motive Power decreased over 20 -- excuse me, increased over $23 million from the prior year.
+On a sequential basis, Motive Power's first quarter OE decreased 50 basis points from the 15.6% margin posted in the fourth quarter due to higher lead and other input costs.
+Energy Systems operating performance percentage of 3.5% was down from last year's 8%, although it improved from last quarter's 2.6%.
+OE dollars decreased $15 million from the prior year, however, it increased $4 million from the prior quarter on higher volume.
+The cost of higher tariffs, freight, materials and manufacturing costs continues to create headwinds.
+Specialty operating earnings percentage of 10.6% was up from last year's 6.5% on higher volume, but down from last quarter's 13.2%.
+OE dollars increased $6 million from the prior year, but declined $6 million from a strong fourth quarter on lower revenue.
+Please move to Slide 14.
+As previously reflected on Slide 13, our first quarter adjusted consolidated operating earnings of $75 million was an increase of $14 million or 23% from the prior year.
+Our adjusted consolidated net earnings of $54.4 million was $15 million higher than the prior year.
+The improvement in adjusted net earnings reflects primarily the rise in operating earnings along with lower interest expense and a small currency gain.
+Our adjusted effective income tax rate of 18% for the first quarter was slightly lower than the prior year's rate of 21% and lower than the prior quarter's rate of 19%.
+Discrete tax items caused most of these variations.
+We have made no adjustments for any proposed changes in taxation announced recently.
+First quarter earnings per share increased 36% to $1.25, which was the top of our guidance range.
+We expect our weighted average shares for the first quarter -- excuse me, second quarter fiscal '22 to remain relatively constant with approximately 43.5 million outstanding.
+As a reminder, we now have over $55 million in share buybacks authorized, and we purchased nearly $32 million recently.
+This recent buyback reflects the return to our normal pattern of removing the dilutive impact of our stock comp program.
+Last week, we also announced our quarterly dividend, which remained unchanged from prior levels.
+Our balance sheet remains strong and positions us well to navigate the current economic environment.
+We have $406 million of cash on hand, and our credit agreement leverage ratio was 1.95 times levered, which allows over $600 million in additional borrowing capacity.
+Last month, we extended and amended our credit facility on favorable terms, which is now in place through 2026.
+We expect our leverage to remain near 2.0 times in fiscal 2022.
+We spent $26 million on our Hagen restructuring along with $46 million in inventory growth to support higher backlogs.
+And as a result, our cash flow from operations was negative $48 million in the first quarter as we expected.
+The balance bits [Phonetic] from the Hagen, Germany restructuring started in Q1 and we should exit the year with a $20 million annual run rate.
+Capital expenditures of $16 million were in line with our prior guidance.
+Our capex expectation for fiscal 2022 is $100 million and reflects major investment programs in lithium battery development and continued expansion of our TPPL capacity, including the NorthStar integration.
+We anticipate our gross profit rate to remain near 24% in Q2 of fiscal 2022.
+As Dave has described, we believe all three of our lines of business find their products in high demand.
+Near-term supply challenges are restricting our ability to execute fully on these opportunities.
+Our guidance range of $1.03 to $1.13 for our second fiscal quarter of FY '22 reflects the impact of these challenges along with the normal seasonality of Q2 and the added investments in product development and personnel.

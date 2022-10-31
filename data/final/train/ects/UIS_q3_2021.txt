@@ -1,0 +1,131 @@
+This is Courtney Holben, Vice President of Investor Relations.
+Before we begin, I'd like to cover a few details.
+Although appropriate under generally accepted accounting principles, the company's results reflect charges that the company believes are not indicative of its ongoing operations and that can make its profitability and liquidity results difficult to compare to prior periods, anticipated future periods or to its competitors' results.
+These items consist of post-retirement, debt exchange and extinguishment, and cost reduction and other expense.
+Management believes each of these items can distort the visibility of trends associated with the company's ongoing performance.
+The following measures are often provided and utilized by the company's management, analysts and investors to enhance comparability of year-over-year results as well as to compare results to other companies in our industry, non-GAAP operating profit, non-GAAP diluted earnings per share, free cash flow and adjusted free cash flow, EBITDA and adjusted EBITDA and constant currency.
+From time to time, Unisys may provide specific guidance or color regarding its expected future financial performance.
+Such information is effective only on the date given.
+Unisys generally will not update, reaffirm or otherwise comment on any such information, except as Unisys deems necessary and then only in a manner that complies with regulation FD.
+Copies of those SEC reports are available from the SEC and along with the other materials I mentioned earlier on the Unisys's investor website.
+During the third quarter, we made continued progress executing on our strategy for sustained revenue growth and margin improvement by expanding our solution portfolio and enhancing our go-to-market efforts while managing our workforce to successfully attract and retain talent in a competitive labor market.
+We also increased gross profit and free cash flow year-over-year.
+Mike will provide detail on our financial performance and accomplishments.
+But first, I will give some insight into the business.
+Starting with Digital Workplace Solutions, or DWS, our goal has been to transform to a higher growth and higher-margin business by enhancing and expanding our solution portfolio with a focus on proactive experience, leveraging our recognized leadership position in the market and our IntelliServ and Power Suite platforms.
+In the third quarter, we made progress toward these strategic goals, while exiting some contracts that weren't core to how we plan to grow this business.
+With respect to the build portion of our build partner buy strategy, we have developed our experienced model office solution, or XMO.
+This offering analyzes data from multiple sources, including device experience tools such as our Power Suite solution, our Cloud contact center platform and other satisfaction and sentiment tools to identify and remediate pain points and improve user experience.
+This will help clients achieve business goals such as maximizing productivity and improving employee engagement and will also streamline our support model by reducing reactive service needs.
+Additionally, we defined and began incorporating our second-generation experience level agreement or XLA framework into contracts, providing a more advanced persona-based way for clients to assess the impact our solutions are having on user experience.
+We believe we are leading the market in advancing to second-generation XLAs and our clients are responding positively.
+We also filled several key leadership and architect rules during the quarter.
+With respect to partnerships in DWS, we have broadened our relationships with some leading device experience management partners to become channel partners in addition to solution partners.
+And our integration of Unify Square is progressing as we continue to actively assess additional opportunities to enhance our solution portfolio through acquisitions.
+In the quarter, we signed a DWS contract with a global commercial real estate services firm to implement a case management system, which will help the client move to a centralized global model for this process and technology.
+Also in the quarter, Unify Square signed contracts with nearly 20 new logo clients, including consulting contracts and Power Suite software subscriptions focused on migrating to or managing Zoom and Microsoft Teams, UCaaS environments.
+Moving to Cloud and Infrastructure Solutions, or C&I.
+We continue to execute on our strategy of growing Cloud in our targeted markets by leveraging our established credentials, CloudForte and embedded security solutions to help clients transform their traditional ITO environments to effective hybrid and multi-Cloud solutions.
+Revenue growth continued during the third quarter in C&I with Cloud revenue specifically growing 26% year-over-year.
+As we noted on our last call, in July, we completed a new release of our CloudForte program.
+And since July, we have continued to enhance the artificial intelligence embedded in CloudForte with a specific focus on Cloud spend optimization.
+We're also utilizing predictive analytics to help clients avoid incidents and automated root cause analysis to remediate and prevent future issues.
+Additionally, increased migration automation in our solution allows us to move significantly more workloads to the Cloud more quickly at increased levels of reliability.
+We are on schedule for a new release of the CloudForte platform with additional functionality in the fourth quarter.
+We're also expanding our partnering with CloudForte, including enhanced integration with Google Cloud, increasing our ability to deliver outcome-based end-to-end Cloud services to clients using Google Cloud and to help them optimize their workforce environment.
+We have broadened our work with AWS and Microsoft Azure, increasing automation to enable a more seamless experience for clients with improved functionality, while also enhancing cost efficiency.
+We are assessing potential C&I acquisition candidates with a focus on enhancing specific capabilities and increasing geographic coverage.
+And during the quarter, we signed a contract with a leading Mexican insurance company to design a hybrid environment, integrating public and private Clouds and to perform related migration work.
+Turning to Enterprise Computing Solutions, or ECS.
+Our goal is to grow revenue through expanding the ECS ecosystem while maintaining license revenue to bill.
+We are enhancing our existing services and platforms and developing new solutions to help clients manage their ClearPath Forward environments.
+We are incorporating advanced AI and automation into our application life cycle management platforms and workflow-oriented design into our application development solutions.
+We're also expanding the interoperability of our ClearPath Forward systems, which are already able to be deployed in the public Cloud via ClearPath Forward for Azure to enable use in Hybrid and multi-Cloud environment.
+Our IP-led industry-focused solutions, such as AirCore and Elevate, represent an additional opportunity for growth in ECS.
+We're partnering with software and platform developers to modernize our application development and to enhance our life cycle management of these solutions, and we are working with channel partners to embed these industry applications into their solutions to increase our client reach.
+We are also evaluating opportunities to acquire smaller companies that support ClearPath Forward.
+We recently signed a contract with New Zealand's Waka Kotahi NZ Transport agency to extend our engagement to manage IT infrastructure on the ClearPath Forward platform that supports systems processing approximately 25 million driver's license and 60 million motor vehicle transactions per year.
+Turning to our broader go-to-market efforts.
+Our total company TCV was up 13% year-over-year in the third quarter, and total ACV was up 30% year-over-year.
+As we price contracts, we're aiming to offset our anticipated cost increases relating to the competitive market for labor.
+Total company pipeline was also up 5% sequentially, supported by growth in our proactive experienced DWS solutions and Cloud solutions pipelines, which increased sequentially, both on a dollar basis and as a percent of total pipeline.
+We are increasing awareness in our new DWS and Cloud capabilities, meeting frequently with industry analysts, such as Gartner, IDC, Everest, ISG, and HFS, and we have been recognized for our leadership in a number of areas.
+We were recently named a leader in advisory firm ISG's provider lens study on the future of work in both managed employee experienced services and managed digital workplace services in the U.S., the U.K. and Brazil, in addition to other regional leadership recognition.
+We were also named a leader in the next-gen private and Hybrid Cloud-managed services by ISG in the U.S., the U.K. and Brazil, and were recognized by IDC as a major player in worldwide managed multi-Cloud services.
+We have evolved significantly as a company.
+And we're launching a global advertising campaign to help ensure that the market knows who Unisys is today.
+We're undertaking a similar initiative aimed at attracting talent in key recruiting geographies.
+We're also expanding the depth and breadth of content on our website and implementing a cross-selling initiative to highlight our full portfolio of solutions across segments to clients.
+The mark of the talent remains highly competitive, but our workforce management efforts, including compensation retention adjustments and increased associate initiatives such as talent development, internal mobility and focus on work-life flexibility have helped us to continue to attract and retain key resources needed to execute on our strategy.
+Our last 12-month voluntary attrition was 15.3%, which is significantly below the pre-pandemic level of 17% for the third quarter of 2019.
+The demand for open roles filled internally as a percent of total, increased six points for the year-to-date versus 2020 to 36%, reflecting the effectiveness of our internal development, mobility programs and upskilling and referrals represent over 20% of total hiring on a year-to-year basis.
+Our commitment to DEI is a bedrock of our people strategy.
+With that, I'll turn over the call to Mike to discuss our financial results.
+In my discussion today, I'll refer to both GAAP and non-GAAP results.
+As a reminder, reconciliations of these metrics are available in our earnings material.
+As Peter highlighted, during the third quarter, we continue executing on our strategy for sustained revenue growth and margin improvement by expanding our solution portfolio and enhancing our go-to-market efforts while proactively managing the workforce and increasing gross profit and free cash flow year-over-year.
+Overall, our year-to-date performance is in line with our internal expectations, and we are reaffirming all full year 2021 guidance metrics as a result.
+During the third quarter, we grew revenue in two of our three segments with continued year-over-year revenue growth in both C&I and ECS.
+Our ongoing enhancements to our Cloud capabilities and efforts to increase awareness with industry analysts and clients continue to yield results with C&I revenue growth of 1.7% year-over-year to $118.9 million in the third quarter.
+This was supported by Cloud revenue growth within the segment of 26% year-over-year.
+One item to keep in mind going into the fourth quarter is that we expect our C&I revenue to be down year-over-year due to a timing issue associated with revenue recognition from a public sector client that benefited us in the fourth quarter of 2020 as well as some runoff of traditional infrastructure work that's not part of how we're planning to grow this business.
+We still expect C&I to be the fastest-growing segment overall for the full year 2021.
+The enhanced functionality associated with our ECS solutions, including ClearPath Forward for Azure and our focus on growing ECS services continues to provide benefits to the ECS segment.
+ECS revenue grew 1.8% year-over-year.
+This growth was helped by higher license revenue than expected in part due to a contract being renewed for a longer duration than initially anticipated.
+I think the fact that clients are signing eight year agreements for ClearPath Forward operating system is a testament to the strength of the solution and the modernization roadmap that supports this offering.
+ECS services revenue grew 1% year-over-year.
+As we've previously noted, we had expected the third quarter to be the lightest of the year in terms of license revenue, which we still expect to be split approximately 55% and 45% between the first and second half of the year.
+This software renewal cadence is as expected and actually de-risks the fourth quarter as ECS license revenue is more evenly distributed throughout the year, with a lot less reliance on fourth quarter signs.
+As a reminder, the prior year first half/second half split was 40% -- 60%, with 40% of the full year segment revenue coming in the fourth quarter.
+We expect overall 2021 ECS revenue to be roughly flat year-over-year.
+With respect to DWS, we're moving into the next phase of our transformation of this segment with a heavy emphasis on our go-to-market implementation, enabling us to bring our enhanced experienced solutions to new and existing clients.
+We have transitioned away from some heritage contracts that were not core to how we're planning to grow this business.
+We also saw some impacts related to supply chain shortages, and both of these items impacted revenue, which was down 4.7% year-over-year to $141.3 million.
+As a result of all of this, the total company revenue was down 1.5% year-over-year in the third quarter to $488 million.
+As I noted, though, this does not change our expectations for revenue for the full year as this quarterly cadence was anticipated and was embedded in our guidance, as was our expectation for year-over-year decline in the fourth quarter revenue due to the timing issues I mentioned, which is why we're reaffirming that guidance at 0% to 2% year-over-year revenue growth.
+The company backlog was impacted by the continued shift of our mix of business toward higher growth and higher-margin solutions and the exiting of some nonstrategic contracts.
+Additionally, during 2021, we have seen the duration of contracts and backlog shortening as it did in 2020 and 2019.
+As a result, total company backlog was $3 billion as of the end of the third quarter relative to $3.3 billion as of the end of the prior quarter.
+Type of solutions that we are shifting our mix toward are less capital-intensive and have a shorter implementation timeframe, which we expect will lead this backlog to convert to revenue more quickly than it has in the past.
+This is supported by year-over-year increase in ACV that Peter noted.
+Of the $3 billion in backlog, we expect approximately $380 million will convert into revenue in the fourth quarter.
+Third quarter total company gross profit was up year-over-year, and gross profit margin was up year-over-year as well.
+These results were supported by year-over-year improvements in C&I and ECS gross margins.
+C&I gross profit increased 116.3% year-over-year to $9.3 million, and gross margin improved 410 basis points to 7.8%, driven by the improvements to margin in both Cloud and traditional infrastructure work.
+ECS gross profit increased 28.8% year-over-year to $97 million, and gross margin improved 1,360 basis points to 65%, helped by the higher revenue I mentioned earlier.
+DWS gross profit was $16.8 million relative to $21.6 million in the prior year period, largely driven by the flow-through impact of lower revenue.
+DWS gross margin was 11.9% relative to 14.6% in the prior year period.
+As with revenue, our year-to-date non-GAAP operating profit margin results are roughly in line with internal expectations, and accordingly, we're reaffirming our full year 2021 guidance for this metric at 9% to 10%.
+SG&A expense increased year-over-year in the quarter, largely due to increased investments in our go-to-market efforts, primarily related to direct sales support and increases in noncash-based compensation.
+As a result, total company non-GAAP operating profit margin was 5.7% relative to 8.6% in the prior year period.
+We anticipated additional investments in our go-to-market efforts over the next few quarters to support our growth strategy, increased awareness of our enhanced solution portfolio and within the context of a highly competitive labor market across the IT services industry, increased compensation to retain and attract top talent, we need to maximize our growth strategy.
+Based on this, we expect to be toward the lower end of the non-GAAP operating profit margin guidance I just mentioned.
+Consistent with our discussions over the last couple of quarters, I'm pleased to report that we've concluded our cost optimization program, and it is now fully underpinned.
+The annualized savings associated with this program are at the high end of the targeted range we provided, which was $130 million to $160 million.
+As I mentioned already, the reinvestment of a portion of these savings has begun and will continue through the first half of 2022.
+Our net loss from continuing operations was $18.7 million or $0.28 per diluted share versus $13.3 million or $0.21 per diluted share in the prior year period.
+Non-GAAP net income was $6.9 million versus $36.8 million in the prior year period, and non-GAAP diluted earnings per share was $0.10 versus $0.51 in the prior year period.
+These GAAP and non-GAAP net income and earnings per share results are reflective of lower operating profit that I mentioned as well as higher taxes this year due to the geographies in which the income was earned.
+As with revenue and non-GAAP operating profit margin, our year-to-date adjusted EBITDA results are generally in line with our expectations, and so we are reaffirming full year 2021 guidance for this metric at 17.25% to 18.25%.
+Adjusted EBITDA in the quarter was $74.6 million relative to $82.3 million in the prior year period, and adjusted EBITDA margin in the quarter was 15.3% versus 16.6% in the prior year period based on similar drivers as non-GAAP operating profit and margin.
+Likewise, as with operating profit, we expect to be toward the lower end of the guidance range in light of these investments in our team to support growth in a competitive labor market.
+We continue our capital-light strategy and our focus on integrating best-in-class offerings to enhance our solutions and optimize our development costs.
+Our capital expenditures declined year-over-year again in the third quarter, down 18.4% to $26.1 million.
+We now expect capex to be between 100 and $110 million for the full year 2021, which is lower than our previous expectations.
+Free cash flow and adjusted free cash flow also continued to improve, with free cash flow up 14.9% year-over-year to $39.4 million and adjusted free cash flow up 36.3% to $69.9 million.
+These cash flow metrics were also up significantly on a sequential basis, and we continue to expect to be free cash flow positive for the full year 2021.
+In continuing our efforts to further derisk our balance sheet, we completed a transfer of additional gross pension liabilities in October through a $235 million annuity contract.
+We expect a onetime noncash pre-tax settlement charge in the fourth quarter associated with this liability transfer of approximately $130 million or $1.94 per share.
+Another positive balance sheet item to note is last week, Moody's has resolved the positive outlook associated with our debt by providing an upgrade of our corporate family rating to B1 with a stable outlook, and our senior secured notes were upgraded to B1 as well.
+To wrap up, our third quarter was consistent with our expectations and represent continued progress on our refresh strategy and the achievement of both our short and long-term financial goals, and we look forward to continuing this progress in the fourth quarter.
+Mike will be taking on the role of President and Chief Operating Officer, effective upon the hiring of a new CFO.
+As you know, Mike has played a central role in the significant financial transformation of the company since becoming CFO in 2019, including the substantial strengthening of the company's balance sheet.
+Mike has also played an important operational role in the company, and he currently oversees our corporate development efforts and our strategy function.
+Eric has been instrumental in improving the financial performance of the company over the last few years and in the implementation of our new strategy and operating model as well as other elements of the company's business during his tenure.
+Eric will be leaving his current role on November 30.
+We have begun a search for a new CFO, and Mike will continue to fill that role until we have appointed a new CFO.
+At that point, he will transition to President and Chief Operating Officer.
+I will assume Erik's responsibilities on an interim basis until the CFO transition is complete.
+As a reminder, I also served as President from January of 2015 until March of 2020.
+We wish Eric's success in his future endeavors and look forward to Mike's contributions in his new role.

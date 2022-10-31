@@ -1,0 +1,279 @@
+As we announced last September, Colleen Thompson will be taking over leadership of the IR function in May.
+We've been working together to ensure a smooth transition, but I'll certainly be involved for the next few months.
+I've spoken to a number of you in the past couple of months, but for those that I haven't met yet, I look forward to the opportunity.
+We provide guidance for both adjusted operating income before depreciation and amortization or done and adjusted earnings before interest, taxes, depreciation and amortization, or OIBDA, and adjusted earnings before interest, taxes, depreciation and amortization, or EBITDA, to highlight the contribution of UScellular's wireless partnerships.
+In terms of our upcoming IR schedule, on Slide 3, the team is dividing and conquering conquering and presenting at both the Raymond James and the Morgan Stanley conferences on March 7.
+And then on March 14th, we will be participating at the Deutsche Bank conference.
+And as always, our open-door policy can now be an open door, phone or video policy.
+So please reach out if you're interested in speaking with us.
+In December, we announced that I will be retiring in May, and Vicki Villacrez will be replacing me.
+Vicki has been CFO of TDS Telecom since 2012 and prior to that, led financial planning and strategic analysis for the enterprise, so this transition should be very seamless.
+Vicki has been an important driver of TDS Telecom's success over the past 10 years, and she will bring a wealth of experience to her new job.
+I congratulate her on this new challenge.
+On Slide 4, as we look to -- at 2022, I want to highlight all the positive trends impacting our businesses.
+Demand for broadband continues to grow.
+Connectivity, whether mobile or fixed, is a necessity to remote education, healthcare, and work.
+The markets we serve, primarily suburban and rural, are benefiting from people migrating to these areas out of major cities.
+Additionally, 5G offers high speed fixed wireless.
+And with fiber available to only 30% of households in the U.S., this represents a great opportunity for us.
+TDS was founded 50 years ago on a mission of bringing connectivity to unserved and underserved markets, so the introduction of the infrastructure bill brings opportunities for both of our businesses.
+And lastly, over that time, TDS has also held a multi-stakeholder approach to good corporate citizenship at the forefront of its values.
+As we expand our ESG program, we are essentially reinforcing the values that we have already had, caring about customers and associates, striving to enhance the lives of people in our communities, as well as serving as a good steward of the environment.
+As we discussed on our past calls, maintaining financial flexibility is one of the pillars of our corporate strategy.
+Our strong financial position and ready access to the debt capital markets enabled UScellular to purchase valuable mid-band spectrum while also enabling TDS Telecom to expand investments in our growing fiber program.
+This strong financial position and market access will be important as we continue to invest in our fiber program in the future, as Jim will discuss later in the call.
+Before the business units discuss their successes, I want to briefly talk about the transformation of our balance sheet as illustrated on Slide 5.
+First, we have worked to diversify our funding sources through a variety of different types of financings, including preferred stock and export credit term loan, a syndicated term loan, new 10-year co-bank term loans, and an increase in our equipment installment receivables securitization facility.
+In addition, we had a goal to lower the average cost of our financings.
+Since the beginning of 2020, we have raised three and a half billion in new capital, both debt and preferred equity at 4.8% while at the same time redeeming $1.8 billion in debt.
+That carried a weighted average cost of 6.9%, reducing our average cost from 6.7% to 5%, and resulting in $37 million in annual coupon savings.
+Importantly, going forward, we believe that this -- that we will continue to have access to the debt capital markets through a variety of instruments to continue to finance our future growth.
+Finally, I want to highlight that we have again increased our dividend rate.
+This represents the 48th consecutive year that we increased our dividend, quite an accomplishment.
+We continue to see positive momentum in several focus areas of the business, and that includes prepaid, business and government, and fixed wireless.
+We've developed tactical plans to reach our return on capital goals over the next three years.
+I'm going to let Doug cover the operational and financial highlights, as well as our guidance for 2022.
+I first want to provide a few thoughts on these strategic priorities.
+Last year, we launched a regional aviation strategy.
+That's something our competitors can't replicate.
+That lets us test and optimize a wide range of actions, and that includes pricing constructs, promotions, media mix.
+The renewed focus on prepaid led to some encouraging initial results and positive prepaid ads for the year, as well as laying the foundation for future growth with expanded distribution and a new approach to lifecycle management.
+Last year, we laid the foundational work to build the business and government side of the business.
+And that includes segmentation and specialization of our internal sales team, as well as the addition of new distribution, new partners, new channels.
+And this should position us to generate meaningful revenue growth.
+As I discussed in previous calls, we've strengthened our market position as a tower company, made numerous enhancements, which let the market know that we're open for business.
+You can see that in the results.
+I think we're just getting started here.
+Turning to the network, we continue to pursue our network modernization program in our multi-year 5G deployment.
+The majority of our traffic is now carried by sites that have 5G deployed.
+And equally important, we're getting 5G devices into our customers hands.
+So far, nearly 30% of our smart phone subscribers have 5G-capable devices.
+The biggest development on the network side in 2021 was our targeted acquisition of C-Band and DOD spectrum.
+We now have a really solid mid-band spectrum portfolio.
+Even though the auctions were quite expensive when you compare them historically, I'm really pleased that our outcome.
+And I'm going to ask Mike Irizarry to give you a bit more detail on this.
+Turning to Slide 8, we continue to advance our 5G spectrum strategy.
+And with the spectrum we acquired in the C-Band and DOD auctions, we will have mid-band spectrum and substantial majority of our operating footprint, covering 80% of our subscribers with 100 megahertz of mid-band.
+This is in addition to our strong, low band and millimeter wave spectrum positions.
+Mid-band serves as the bridge between our low band and our high band holdings.
+As a reminder, we have previously acquired millimeter wave spectrum with an agreeable spectrum depth of 530 megahertz across our footprint.
+This gives us strong positions in all three spectrum bands low, mid and high, and provides us plenty of capacity to continue to deliver outstanding mobile and fixed wireless services to our customers and support future 5G services and use cases.
+In total, including required incentive and relocation payments, we have invested slightly over $2 billion in mid-band spectrum and have done so at efficient prices as our average price per megahertz pop that we paid in both auctions, 107 and 110, was lower than the overall auction averages.
+As mentioned earlier, we were able to successfully raise the capital to finance these purchases while also reducing our cost of financing.
+We are preparing to deploy mid-band equipment on our network, optimizing power climbs, and radio requirements for both DOD and C-band, as well as leveraging efficiencies with our ongoing 5G modernization plan.
+These efforts will begin prior to our C-band spectrum being cleared, which will allow us to turn on our mid-band spectrum efficiently.
+Overall, our strong spectrum position and the network experience that it enables will be key to enabling our 2022 goals, which LT will discuss next.
+We turn to Page 9.
+Our strategic priorities for 2022 will look familiar to you, and they build on our progress in 2021.
+Our mission remains the same.
+Our company is dedicated to connecting our customers to the places and the people that matter most to them.
+As you know, executing that mission requires a lot of investment.
+I mentioned the investment we made in spectrum earlier.
+You're going to hear from Doug later that we plan to maintain a steady pace of capital investment.
+We modernize our network and roll out the mid-band spectrum that we purchased.
+Or to justify that investment, we have to expand our return on capital.
+And that's the key metric we use to set our long-term plans for the business.
+One key opportunity that we have in the next year or two that should help a lot with our return on capital goals is to take advantage of the funds being allocated through the recently passed Infrastructure Investment and Jobs Act, the IIJA.
+This is a potential game changer, not just for UScellular, but for finally connecting the un- and underserved, particularly in rural America.
+Put some context around it, you got $46 billion allocated to broadband.
+The specific allocations are still being worked out but you can think of about $20 billion likely flowing to the states that we operate in and at least $8 billion flowing to the areas where we operate network.
+A lot of that will go to fiber, it should.
+As I mentioned in our last call, I would encouraged the Department of Commerce had committed to avoiding symmetry requirements.
+That allow its fixed wireless to potentially play a big role as well.
+I talked in previous calls about how encouraged I am by the results from our millimeter wave fixed wireless trials.
+You see nearly one gig of speeds across seven kilometers with line of sight.
+We've commercially launched our millimeter wave product at 300 gigs.
+That's a massive improvement over existing solutions.
+But the challenges in the tower economics, in order provide comprehensive coverage, we need much denser towers.
+The IIJA can provide the funding necessary to make the economics work.
+It's a lot cheaper to build and run fiber to one tower, covers hundreds of homes and businesses, than it is to run fiber to each of those individual locations.
+And the exciting part is that the benefit doesn't stop with fixed wireless.
+We can use infrastructure funding to improve the economics for tower builds to focus on fixed wireless.
+You can also improve the coverage profile of 5G.
+That'll significantly improve our mobile network experience to our postpaid and prepaid base.
+This is an extra benefit to provide funding to wireless carriers for broadband deployment the fiber can't match.
+And just in case you forgot, and I know you didn't, we're also the only mobile operator that owns our towers.
+So we can market those new towers to other carriers, which also creates positive economics.
+It would take several years to execute this plan but I'm enthusiastic about the prospects to work with state and local governments to really improve the experience for underserved areas, helping to bridge the digital divide in the communities in which we invested, significantly advancing our network, and doing it all with positive economics for our stakeholders.
+And before I talk more about the growth levers for 2022, I do want to talk about one other key strategic area, and that's our talent.
+We manage the great resignation incredibly well thus far.
+Our attrition was relatively stable year over year in 2021.
+We recognized on Forbes list of America's best employers.
+We're number 141 in the country.
+That's up from number 413 last year, and we're ranked as the best employer in telecom.
+That's ahead of Cox at 180, ahead of Verizon at 244, ahead of T-Mobile at 336, and ahead of a lot of others that weren't even ranked.
+And in my view, that's due to the tremendous culture of this place but we're going to have to keep investing in it.
+And you can expect to see an even increased emphasis on diversity, equity, and inclusion to ensure that we remain a fantastic place to work.
+And if you'd like to witness our customer-focused culture firsthand, I encourage you to tune in to Undercover Boss on CBS on March 4th just to see how powerful our culture is, and you can also laugh at my outrageous mustache.
+A major strategic objective for us is growth, and I want to cover that objective in a bit more detail.
+We made a lot of investments in growth in 2021.
+We started to see the benefits in many areas of the business.
+Prepaid is a really good example.
+We pivoted the business to net add growth, and I expect even better momentum in 2022.
+The one area, and it's a big one, but I was not satisfied with last year, was our postpaid net additions and the lack of growth in our postpaid connections base.
+The environment remains as competitive as ever, particularly for upgrades, and that carries challenging economics for the entire industry.
+At the same time, customers are holding devices for longer than ever, and that somewhat dilutes the impact of aggressive device promotions.
+That's a really challenging dynamic, not just for UScellular.
+We've a variety of initiatives underway to stabilize our postpaid market share through improvements on value proposition, customer lifecycle management, and the digital experience.
+You can also expect to see us continue to leverage our regional approach, adjusting our go-to-market on a community-by-community basis, getting even closer to our customers.
+We talked briefly in the business and government sector.
+We laid the groundwork in the space in 2021 with new distribution.
+We're confident in our ability to expand revenues in this area in the long term, particularly in the IoT and the private networking space.
+As a regional operator, UScellular has always been a part of the communities we serve.
+We estimate there are over 3 million businesses in our operating footprint.
+That provides real opportunity to significantly expand our market share going forward.
+Finally, we expect continued growth from our tower portfolio.
+We made a number of operational changes in 2021, including substantially reducing cycle time.
+As a result of that work, we have really strong sales momentum heading into this year.
+Before I hand it to Doug, let me just share a few thoughts on our 2022 guidance.
+We expect to see expanded retail service revenue.
+We're going to continue to see headwinds from roaming and that affects overall service revenue.
+Additionally, our guidance assumes a continuation of aggressive, ongoing promotional activities, and that's on both upgrades and acquisitions.
+I'm bullish on growth over the long term, and we're making the necessary investments in distribution and in network to make it happen.
+Our long-term goal remains substantive expansion and return on capital.
+We'll be pulling every lever at our disposal to improve return over time.
+You can expect to see revenue growth, coupled with expense discipline, as well as capital optimization.
+That will hopefully be supported by meaningful participation in some of the government funding efforts that I mentioned earlier.
+With that, let me hand it to Doug to cover some of the details on subscribers and financials.
+Let's start with a review of customer results on Slide 11.
+Posted handset gross additions increased by 6,000 year over year, largely due to higher switching activity in combination with a strong promotional activity.
+Of course, this is against a backdrop of industrywide promotional aggressiveness on handsets.
+We saw our connected device gross additions to climb 12,000 year over year, driven by lower hotspot sales compared to the prior year, when we experienced an increase in demand due to the pandemic.
+Next, let's turn to the postpaid churn rate shown on Slide 12.
+Postpaid handset churn was 1.10%, up from 1.01% a year ago.
+This is driven primarily by voluntary churn, which continues to run at higher year over year -- these are higher year over year as a result of increased switching activity and aggressive industrywide competition.
+Involuntary churn also increased slightly in the quarter.
+Total postpaid churn combined in handsets and connected devices was 1.35% for the fourth quarter of 2021, higher than a year ago due to the higher handset churn and certain business and government customers disconnecting connected devices that were activated during the peak periods of the pandemic in 2020.
+Moving to Slide 13.
+Prepaid and continue to improve compared to the prior year, driven by enhancements to our prepaid offerings throughout the year.
+We saw prepaid gross additions increased by 7,000 year over year and saw an overall increase of 14,000 to our prepaid base compared to prior year end.
+Now let's turn to the financial results on Slide 14.
+Total operating revenues for the fourth quarter were $1.068 billion, essentially flat year over year.
+Retail service revenues increased by 2% to $696 million, primarily due to a higher average revenue per user, which I will discuss in a moment.
+Inbound roaming revenue was $24 million, decrease in 27% year over year due to lower data volume and rates.
+One of the factors contributing to this data volume decrease is the merger of Sprint and T-Mobile, and the continuing migration at Sprint roaming traffic through T-Mobile's network.
+Other service providers were $62 million, up 3% year over year.
+Finally, equipment sales revenues decreased by 4% year over year, in large part as a result of an increase in promotional activity.
+We continue to engage in aggressive promotional activity during the fourth quarter of 2021 to remain competitive with the industry.
+A portion of the resulting promotional cost reduces equipment sales revenue and increases loss on equipment.
+In addition, loss on equipment in the fourth quarter of 2020 was mitigated by the impacts of the pandemic.
+Specifically, lower switching activity and less aggressive promotional activity relative to 2021.
+And as a result of the combined impact of these factors, loss on equipment increased $24 million year over year.
+This change in loss on equipment, however, was offset by a reduction in other operating costs as profitability increased slightly compared to the prior year.
+We expect the aggressive promotional environment, including retention offers, to persist throughout 2022 and our guidance for 2022 reflects the corresponding financial impact.
+Now, a few more comments about postpaid revenue shown on Slide 15.
+Average revenue per user or connection was 48.62 for the fourth quarter, up 2% year over year.
+On per comp basis, average revenue per -- average revenue also grew 2% year over year.
+The increases were driven primarily by favorable plan and product offering mix and an increase in device protection revenue.
+These increases were partially offset by an increase in promotional costs.
+As you can see on Slide 16, we have seen steady growth in tower rental revenues.
+Fourth quarter tower rental revenues increased by 9%.
+We are seeing positive momentum in tower co-location applications and we'll continue to focus on growing revenues from these strategic assets.
+Moving to Slide 17, I want to comment on adjusted operating income before depreciation, amortization, and accretion in gains and losses.
+To keep things simple, I'll refer to this measure as adjusted operating income.
+As shown in the slide, adjusted operating income was $181 million, an increase of 1% year over year.
+As I commented earlier, total operating revenues were $1.068 billion, essentially flat.
+Total cash expenses were $887 million, a decrease of 1% year over year.
+Total system operations expense decreased 3%, largely driven by lower roaming expense resulting from lower data rates and lower voice usage, combined with lower cell site maintenance.
+Cost of equipment sold increased 4% due to an increase in units sold in a higher average cost per unit sold, driven by a higher mix of smartphone sales.
+Selling, general, and administrative expenses decreased 4%, driven primarily by decreases in advertising and legal expenses.
+Suggested EBITDA, which incorporates the earnings from our equity method investments along with interest and dividend income, was $225 million, an increase of 1% year over year.
+Total operating revenues are $4.1 billion, a 2% increase year over year.
+This is driven by an increase in retail service revenues due to higher average revenue per user and an increase in equipment sales.
+Also contributing to the increase were higher tower rental revenues and miscellaneous other service revenues.
+These increases were partially offset by a decrease in roaming revenues.
+Total cash expenses were $3.3 billion, an increase of 3%.
+This is due to -- this is due primarily to an increase in cost of equipment sold, partially offset by a decrease in selling, general, and administrative expenses.
+Excluding costs of equipment sold, cash expenses decreased 1%.
+Adjusted operating income and adjusted EBITDA declined 1% due primarily to an increase in loss on equipment, which increased $70 million from $41 million to $111 million, which is a result of the highly competitive and promotional environment that we experienced throughout 2021.
+Next, I want to cover our guidance for the full year 2022.
+Again, our guidance assumes the aggressive promotional environment that we experience in 2021 will persist throughout 2022.
+We expect ranges of approximate $3.1 billion to $3.2 billion in service revenues, $750 million to $900 million in adjusted operating income, and $925 million to $1.075 billion in adjusted EBITDA.
+This guidance reflects our estimates for low single digit growth in retail service revenue, continued decline of high margin roaming revenue, continued elevated levels of promotional costs, including loss on equipment, given the anticipated aggressive promotional environment, and modest growth in other cash expenses as we continue to invest in 5G and the growth areas of our business.
+For capital expenditures, the estimate is in a range of $700 million to $800 million.
+Our multi-year 5G and network modernization program remains on track.
+We will also continue our targeted millimeter wave buildout in 2022 and begin making investments to deploy the mid-band spectrum we acquired in auctions 107 and 110.
+We've also provided a breakdown of capital expenditures by major categories.
+I'm pleased to share that our transformation to become the preferred broadband provider in our markets is well underway.
+I've never been more optimistic about TDS Telecom's future.
+We're in a strong position today to do a number of growth initiatives we started executing on five years ago.
+In fact, we surpassed $1 billion in operating revenues and we exceeded 500,000 broadband connections for the first time in TDS Telecom's history.
+In 2021, we turned up 86,000 new fiber marketable service addresses, bringing total fiber addresses to nearly 400,000.
+It's critical to build these fiber networks and connect customers quickly to stay in front of potential competitors.
+We have an active pipeline of identified markets and continue to plant [Inaudible] in the most attractive new markets that will expand our footprint even further.
+We continued to address the broadband needs in our most rural markets by upgrading our copper networks with federal AKM funding and state broadband grant programs.
+We've continued to transform our workforce and adapt to the opportunities and challenges brought on by the pandemic and labor shortages.
+We moved to a hybrid work environment.
+In addition, we have placed extra emphasis on strategic strategies to promote diversity, equity, and inclusion objectives through our organization to keep us an attractive employer.
+Our associates are our most powerful resource.
+Moving to Slide 22, we have five strategic pillars enabling our robust transformation.
+First, we are growing our scale through fiber market expansions.
+Second, we are growing our revenue through increased revenue per connection, customer penetrations, and through continued fiber expansions.
+In our third pillar.
+We are continuously streamlining and automating our operations to reduce legacy costs and invest in new growth initiatives.
+Our first -- fourth pillar is keeping the customer at the center of everything we do, continuously investing in customer experience improvements.
+Finally, the foundation of our entire business is our highly engaged, resilient, and dedicated workforce.
+We invest in our people to make sure we attract and retain top talent.
+Moving to Slide 23, let me share some specific data points that demonstrate the transformation happening within our business.
+I have set bold goals for the team, which will require us to scale up more quickly, plant more [Inaudible] and build relationships with our vendor partners.
+As we execute our strategy over the next five years, we plan to reach approximately 2.2 million service addresses, with about 60% of those addresses being fiber and 80% capable of gig or faster speeds.
+As Pete mentioned earlier, we have several strong underlying trends as tailwinds to our broadband strategy.
+There's increased bipartisan support for providing high quality, affordable broadband services to rural America.
+With support from state and federal broadband programs, we intend to significantly reduce our expansion to ungraded copper, and we will continue to see opportunities to improve broadband products for our most rural customers.
+Our strategy is working.
+For the past several years, we have ramped up our broadband strategy, investing in our networks, and we are positioning the business for faster growth over the next five years.
+On Slide 24, I'll describe our fiber program in more detail.
+We plan to triple our total fiber service addresses over the next five years to 1.2 million with aspirations of increasing that target as we identify new opportunities.
+Our sense of urgency has increased given the attractiveness of this opportunity and the heightened level of participation by other overbuilders.
+Specifically in 2022, we expect service address delivery to outpace 2021 by one-and-a-half to two times.
+Along with the rest of the industry, we continue to face an actively managed broader economic, supply chain, labor challenges affecting our industry, including permitting complexities and contractor delays.
+For example, to increase our speed to market, we are accelerating our deployment schedules.
+We are adding more markets to increase our flexibility, and we are strengthening our relationships with our vendors and strategic partners.
+We have a rigorous process for selecting expansion markets.
+We focus on areas that have a favorable competitive environment, such as areas that do not have fiber competition, have potential for household growth, and have customers with the propensity to adopt high broadband speeds.
+We also look to partner with communities, who are eager to bring fiber into their cities and offer a welcoming regulatory environment.
+Finally, we work for the ability to create larger market clusters so we can leverage our network and fuel resources.
+For the markets we have selected, we expect to achieve broadband penetration rates between 40% and 50% in a steady state, making us the leader in our markets.
+Our experience today is supporting the business case penetration assumptions and we are pleased with our fiber expansion results so far and see even more opportunities for further expansion.
+As we announced earlier, Vicki will be replacing Pete Sereda as CFO of TDS.
+Vicki has been instrumental in driving the successful transformation at TDS Telecom, and we look forward to her contributions leading the finance teams across the TDS enterprise.
+Michelle's previous -- previously served as vice president of financial analysis and strategic planning at TDS, and I am confident she will excel in her new position.
+I am very proud to have served as TDS Telecom's CFO for the past 10 years, and I look forward to continued success in my new role at TDS.
+I've been working closely with Michelle over the last several years on TDS Telecom's strategy, and I'm looking forward to her continuing TDS Telecom transformation.
+With that said, let me begin by highlighting some of our operational accomplishments for the quarter.
+Moving to Slide 25, we grew our total service addresses 7% year over year, and are now offering one gig broadband speeds to 58% of our total footprint.
+Total residential connections increased 2% due to broadband growth in new and existing markets, partially offset by a decrease in voice and video connection.
+Despite the connection losses, video continues to remain important to our customers and a key part of our bundling strategy as it helps to increase our broadband penetration and reduce churn.
+Looking at the chart on the right, overall, higher value product mix and price increases drove a 4% increase in average residential revenue per connection.
+Moving on to Slide 26, you can see the broadband connection growth across all markets.
+Total telecom broadband residential connections grew 7% in the quarter as we continue to fortify our networks with fiber and expand into new markets.
+We are on track in our network construction under the AKM program, also helping to drive growth in our incumbent market.
+Our focus on fast, reliable service has generated a 12% increase in total residential broadband revenue.
+The one gig product, along with our two gig product in certain markets, are important tools to allow us defend and to win new customers.
+In areas where we offer one gig service, we are now seeing 20% of our new customers taking this superior product.
+On Slide 27, total revenues increased 2% year over year, driven by strong broadband growth.
+Residential revenues increased 6% across all markets.
+Commercial revenue decreased 7% in the quarter on lower [Inaudible] connections, partially offset by a 5% increase in broadband connection.
+Wholesale revenue decreased 2%.
+Let me sum up the combined financial results for the quarter and the year, as shown on Slide 28.
+Total revenues increased 2% in the quarter and 3% for the year.
+And growth from our fiber expansions and increases in broadband subscribers exceeded the declines we experienced in our legacy business.
+Cash expenses increased 2% in the quarter and 5% for the year due to both supporting our current growth, as well as spending related to future expansion into new markets, which is not yet reflected in our revenue.
+Future market costs include direct cost, such as sales, marketing, real estate and technicians, in addition to shared service costs necessary to support new market growth.
+Adjusted EBITDA increased 2% for the quarter to $75 million, but decreased 2% for the full year due to planned investment spending on new market.
+Capital expenditures increased 2% for the quarter and 12% for the year due to increased investment in fiber deployment.
+On Slide 29, we've provided guidance for 2022.
+Our guidance factors in the foundational investments we are making to support the fiber expansion program over the next several years.
+We are forecasting total telecom revenues of $1.01 billion to $1.04 billion.
+This reflects our goal of top-line growth, driven by continued improvements in residential revenue across all of our markets, offsetting declines in the legacy parts of our business.
+A key assumption in our guidance is how many marketable fiber service addresses we can deliver.
+Our plans include address delivery of approximately 160,000 fiber service services.
+Given our construction delays last year, our conservative approach to financial guidance factors in potential shortfalls in service address delivery should we experience similar challenges.
+A reminder that seasonality will impact the quarterly cadence of fiber service address delivery, starting slowly in the first quarter and steadily building throughout the year.
+Adjusted EBITDA is expected to be between $260 million $290 million in 2022, compared to $310 million in 2021.
+This increase in adjusted EBITDA is primarily due to our heightened market expansion plans that Jim just discussed.
+We expect increases in front-end loaded market expansion costs to outpace cost reductions made in other areas of the business.
+Capital expenditures are expected to be between $500 and $515 million in 2022, compared to $411 million in 2021.
+Nearly 90% of our capital spending is allocated to broadband growth, with more than 60% going directly into cyber investment.
+With that, I'd like to say it's been my pleasure to serve as TDS Telecom CFO and to drive our shift in strategy to be the preferred broadband provider.
+I look forward to updating you in my new role in the future.

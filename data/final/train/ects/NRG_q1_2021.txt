@@ -1,0 +1,159 @@
+Daphne, I believe you were referring to maybe a different earnings call.
+Actual results may differ materially.
+We undertake no obligation to update these statements as a result of future events, except as required by law.
+In addition, we will refer to both GAAP and non-GAAP financial measures.
+Over the past few months, we have discussed in detail the unprecedented nature of winter storm Uri.
+The impact it had on the entire energy system, the steps that we took to prepare our Texas platform and the support we provided to our customers and communities.
+Today, and with the benefit of additional information, we are providing more clarity on the financial impact to our company, the steps we're taking to mitigate this onetime event and reinstating 2021 financial guidance.
+We continue to work closely with legislators, regulators and all market participants to introduce comprehensive solutions across the entire energy system to address issues and shortcomings that were appearing during the storm.
+NRG remains committed to helping our customers and communities recover from the devastating winter storm and to bring solutions that ensure an event like this never happens again.
+We also want to provide you an update on the progress made in advancing our customer-centric strategy by reorganizing around the customer and strengthening our platform.
+I want to start on Slide four.
+We have now processed 100% of the information received from the mid-April 55-day resettlement and issued all expected invoices to our customers.
+The updated financial impact from winter Storm Uri, net of our mitigation efforts, is expected to be a net loss of $500 million to $700 million.
+In order to provide you with more transparency to better understand and make your own judgment on how our platform perform, I am going to break down the components of the gross financial impact into two categories: controllable and uncontrollable.
+On the controllable side, throughout the event, we maintained a balanced position while absorbing very high natural gas prices, operational issues at our plants and protecting our residential retail customers from high electricity prices.
+In total, our platform was positive $17 million with estimated bad debt, primarily from C&I customers accounting for $109 million.
+Moving to the three uncontrollable items.
+First, the recently acquired Direct Energy portfolio had a heat recall option with a counterparty that did not perform, resulting in a $393 million gross loss.
+Following the event, we reexamined the entire hedge book from Direct and determined that this was an isolated issue.
+We're currently engaging discussions with the counterparty and if satisfactory result is not reached, we plan to vigorously pursue recovery through all avenues.
+Next, we are recognizing a $95 million gross loss due to ERCOT default allocations.
+These losses comprised of a $83 million cash short pay, plus $12 million NPV of the remaining $102 million on to ERCOT over the next 96 years.
+As a reminder, ERCOT realized defaults of $3 billion, primarily from through regulated co-ops, Brazos and Rayburn.
+The state legislature appreciates the impact of the co-op defaults in the broader market and is considering securitization as a way to soften the impact to customers and other market participants.
+Finally, we are recognizing a $395 million loss due to ERCOT's management of the grid, particularly during the last 32 hours, when ERCOT kept the market clearing price at the cap, despite having more than 10 gigawatts in reserves.
+Our platform was balanced during this time, but nonetheless, we were uplifted these extraordinary charges.
+To help put this in context for you, over no time in history has this charge exceeded $5 million.
+The state legislature is considering also securitization for these charges, given they are the result of unforeseen and unhedgeable actions by ERCOT.
+We are focused on supporting the PUCT and ERCOT in the implementation of policies and procedures to ensure the market functions properly in the future.
+In total, we expect our estimated gross financial losses to be reduced by $275 million to $475 million through bad debt mitigation, recovery of Direct Energy hedged nonperformance, ERCOT default and uplift securitizations and onetime savings, resulting in a net loss of $500 million to $700 million.
+We have a high level of confidence in the net range and see manageable risks around the 180-day settlements and further bad debt escalations.
+Now I want to take some time and discuss the solutions we're focused on -- in Texas.
+We believe they will improve grid reliability, strengthen our market, and more importantly, avoid a systemic failure of the energy system in the future.
+Since the storm, we have actively engaged in discussions with legislative members and propose various changes to make Texas more resilient.
+While there are many proposals in the Texas legislator right now, including many of which we are working actively on.
+I want to focus here on three concepts that the legislature has made a priority, and I believe are critical to ensure what happened in February never happens again.
+Hardening of the system, improving communication and market design changes.
+Beginning with system hardening.
+Weatherization of assets is key to improve the overall reliability of the grid.
+NRG has a strong and comprehensive winterization program that begins with lessons learned from prior winter seasons and ends with our annual declaration of completion of the winter weatherization preparations to ERCOT and the PUCT by November 30.
+The implementation of formal winterization rules and force through penalties and audits is something we support.
+With that said, one of the biggest lessons learned from this storm is how interactive and interconnected the electric and natural gas sectors are, and our focus is not just on hardening the power generation side of the equation.
+Instead, we believe the entire system, including natural gas, needs to be hardened as they say from wellhead to lightbulb.
+Next, I want to talk about communications.
+During the storm, the lack of communication between all market participants and stakeholders was unacceptable.
+Formal coordination between the Public Utility Commission, ERCOT, the Railroad Commission and key stakeholders will greatly improve the amount of information available as well as informed decision-making during future events.
+In addition, improving the dialogue between TV used during load-shed events and retailers will greatly improve the amount of information available to customers.
+Improved communication coupled with a statewide emergency alert system will ensure all Texas can stay informed about the status of the grid during times of emergency.
+Finally, regarding market design changes, our focus is on improving reliability through competitive solutions in the energy and reserve markets, not through reregulated generation solutions with guaranteed profits or a one-size-fits-all capacity procurement.
+For residential customers, banning index wholesale products, as we already do as a company, is a solution that will protect residential customers from being exposed to the volatile swings in the market.
+Addressing these three key areas will significantly enhance grid stability, and we look forward to continuing to engage with the Texas legislature in the coming weeks.
+Now moving to our regular business highlights on Slide six.
+We have excluded the impact of winter storm Uri from all our numbers as we have done previously from onetime events.
+Our intention is to provide transparency to the investment community regarding the recurring earnings power of our business, particularly given this was the first quarter of our ownership of Direct Energy.
+And separating what we believe to be nonrecurring impacts of the combined business as a result of Uri.
+NRG delivered $567 million of adjusted EBITDA in the first quarter, excluding onetime financial impacts from the storm.
+This is a 62% increase from the same period last year, primarily driven by the acquisition of Direct Energy.
+Notably, the addition of Direct Energy's East electric and natural gas businesses helps flatten our quarterly earnings and free cash flow seasonality.
+As I mentioned before, we are reinstating our previous financial guidance of $2.4 billion to $2.6 billion for 2021, excluding Uri.
+Just to remind everyone, on March 17, we temporarily suspended the 2021 guidance to reflect the significant uncertainty of Uri.
+While some uncertainty remains, we believe we have received enough data to provide a range of outcomes.
+Beyond Uri, we continue to advance our Direct Energy integration plan.
+Following the close in early January, we immediately began the integration process, achieving $51 million of our 2021 synergy target.
+We remain very confident in our ability to achieve both the 2021 and full plan targets.
+As part of the Direct Energy integration, and to further simplify our business operations, today we're announcing the designation of Houston at the sole location of our corporate headquarters.
+Texas is already home to our largest customer and employee base.
+It's a great place to do business, and Houston continues to be at the forefront of energy and technology with one of the most diverse workforces in the country.
+We will continue to maintain regional offices in the markets that we serve, as we expand our business outside of Texas.
+We're also making good progress in executing our customer-centric strategy.
+In January, we closed on the Direct Energy transaction, forming the leading North American integrated energy and home services company, serving a network of six million customers.
+In March, we announced the agreement to sell a 4.8 gigawatt portfolio of noncore fossil assets which helps simplify and decarbonize our portfolio.
+And since the last earnings call, we increased our ERCOT renewable purchase power agreements by nearly 400 megawatts now totaling approximately 2.2 gigawatts.
+Last on our credit metrics.
+Despite the impact of winter storm Uri, we expect to be at 3 times leverage by the end of 2021 after paying down $385 million of debt from cash available for allocation.
+We're working with the credit agencies to review the impact of winter storm Uri on the timing of achieving investment-grade ratings.
+An extension in timeline could give us an opportunity to achieve our metrics either through debt reduction and/or EBITDA growth.
+I will be providing more details on capital allocation and our full strategic outlook during our Spring Investor Day.
+Now turning to Slide seven for our summer outlook.
+First, from a high level, we're expecting neutral-to-favorable summer weather and continued economic recovery to result in a year-on-year load growth.
+Despite this low growth, we're expecting reserve margins to be robust, resulting in stable-to-lower power prices.
+Just to remind everyone, high load, low price is good for our business.
+As you can see on the upper left-hand chart, NOAA is predicting a slightly harder than normal summer within the Eastern Texas markets.
+We expect this outlook to trend toward normal with a positive bias as we near summer.
+Moving to the bottom left-hand side of the slide.
+COVID-related electric demand continues to recover across markets with ERCOT demonstrating resilience.
+As a reminder, COVID stay-at-home impact on load is most pronounced during the shoulder season and less in the summer.
+From a market perspective, we see 2021 as a recovery year across all our markets.
+In ERCOT, we expect a return to normal 2% annual load growth with residential usage in ERCOT remaining slightly elevated as stay-at-home trends remain, while C&I usage improves throughout the year, returning to pre-pandemic levels by the end of the year.
+In the East, we see similar trends, although we believe C&I recovery to be pre-pandemic levels could take an additional 12 to 18 months given stronger stay-at-home trends.
+Now as it relates to NRG, we continue to see strong residential load across all markets, and we expect to be a relative winner given our multi-brand and multichannel platform.
+In ERCOT, we're seeing lower attrition rates, and incremental growth opportunities through our multichannel approach and flight to quality following Uri.
+In the East, we're also realizing lower attrition.
+But given the less favorable regulatory framework, we depend more on face-to-face sales to win customers.
+For planning purposes, we are assuming normal customer growth in ERCOT and a slight contraction in the East as it more closely tracks the economic reopenings.
+On retail supply cost, we see a little risk of sustained high prices this summer, given robust summer reserve margins across all our core markets.
+While it is still early, we're eager for the earlier evolution and implementation of the Biden infrastructure plan.
+As we believe it will amplify the electrification of the economy through smart technology and cleaner energy choices.
+So with this positive backdrop, we continue to make good progress in executing our customer-centric strategy, as you can see on Slide eight.
+On the Direct Energy integration, this transaction presented a step change for us as we move closer to the customer by significantly expanding our customer network and home services.
+During the first quarter, we achieved $51 million or 38% of our 2021 synergy target.
+We remain very confident in our ability to achieve both the 2021 and full plan targets, and we plan to update this scorecard quarterly in order to provide transparency and keep you informed of our progress.
+We are on track to close on the 4.8 gigawatt asset sale in the fourth quarter.
+This is a good transaction for us as it further streamlines our business and address terminal value and earnings concerns that otherwise would have masked our retail growth.
+Our portfolio repositioning and optimization is a continuous process.
+We are committed to our business model, and we'll continue to provide updates on our progress.
+Finally, we are preparing for our Investor Day.
+We continue to target late spring, and given the flexibility afforded by the virtual format, we will announce the event two or three weeks prior to best manage around the Texas resolution.
+So with that, I will pass it to Gaetan for the financial review.
+On the upper left side of the slide, we have shown our quarterly results and reinstated guidance after excluding the onetime impact of winter storm Uri, which we are showing separately on the right.
+As mentioned by Mauricio, we believe that this better reflects the recurring earnings power of our business following the acquisition of Direct Energy, and it is consistent with our established practice of excluding extraordinary events.
+For the quarter, NRG delivered $567 million in adjusted EBITDA or $218 million higher than the first quarter of last year, excluding $967 million impact from winter storm Uri.
+This increase is driven by the acquisition of Direct Energy, which generates approximately 2/3 of its EBITDA during the winter months, given the seasonal shape of East electric and natural gas load.
+This seasonality will help flatten NRG's future earnings profile throughout the year.
+Specific to Direct Energy, we are on track to realize $500 million of adjusted EBITDA in 2021.
+We are also on track to achieve $135 million of synergies for 2021 as well with $51 million realized in the first quarter, and a goal of at least $300 million annual run rate by 2023.
+Turning now your attention to the table on the right, the total anticipated growth impact from winter storm Uri is now $975 million.
+The increase since our last communication is primarily driven by the 55-day resettlement information from ERCOT, which affected our uplift cost and load estimates and added some incremental results for counterparty credit risk, all of which were partially offset by discounting the ERCOT default charges.
+We continue to pursue various offselling solution estimated to be in the range of $275 million to $475 million.
+This would reduce the economic impact to a net amount of $500 million to $700 million.
+From a cash standpoint, based on $150 million of estimated bill credits owed to large commercial and industrial customers in 2022, the total negative cash impact in 2021 is expected to be approximately $150 million lower at $350 million to $550 million, including the effect of the offsets previously mentioned.
+Finally, we are reinstating our 2021 guidance at the original ranges of $2.4 to $2.6 billion for our adjusted EBITDA and $144 billion to $164 billion for our free cash flow before growth.
+Changes on this slide from last quarter are indicated in blue.
+Starting from the left, on the third column, the net capital required for the Direct Energy acquisition was reduced by $38 million based on the latest estimate of the post-closing working capital adjustment.
+Moving on to the next column.
+The estimated winter storm Uri capital allocation impact is $825 million, net of anticipated customer bill credit outstanding at the end of the year, and would be at $450 million after deducting the midpoint of our estimated mitigation efforts of $375 million.
+This has reduced our original deleveraging plan in 2021.
+However, we remain committed to maintaining a strong balance sheet and improving our credit metrics over time.
+Absent any mitigation offset recoveries, which are shown in the far right of the chart, the company will still pay down debt by $385 million in 2021 and continue to delever over time to meet its credit profile goals.
+Importantly, this does not include any deleveraging associated with the sale of our East and West assets, which is still slated to close later this year.
+Moving on to Slide 12.
+I will start on the left with our 2021 credit metrics.
+After adjusting our corporate debt balance for the reduction from our 2021 capital allocation and minimum cash, our 2021 net debt balance will be approximately $7.8 billion.
+This, when based on the midpoint of our adjusted EBITDA, implies a ratio of just under 3 times to adjusted EBITDA at the end of the year.
+This notably excludes the onetime impact of winter Storm Uri, which we also expect to be excluded by the rating agencies.
+On the topic of raining, we continue to work with the agencies to review winter Storm Uri's impact on the time line and the requirements to achieve investment grade.
+We remain committed to strong credit metrics and continue to operate under the assumption that investment-grade ratings will be awarded shortly after achieving the targeted metrics.
+But we're not controlling this process.
+And we realized that given the circumstances, it could take the agencies much longer than previously anticipated to be comfortable granting us an IG rating.
+I would note that if the timeline is extended, it could also give us an opportunity to achieve our metrics either through debt reduction and/or EBITDA growth.
+Turning to the right side of the slide.
+We also wanted to update you on our latest liquidity position, which are -- which had $4.1 billion as of a few days ago, remains very strong and sufficient to continue supporting our business even during a period of stress.
+In conclusion, we are reinstating our EBITDA and free cash flow before growth to the original guidance provided in the last earnings call, excluding the impact of winter Storm Uri.
+While the storm has impacted our capital allocation plan, we have maintained a strong liquidity position before, during and after the event, what our core business continues to perform as otherwise expected.
+With this, I will hand it back to Mauricio.
+I want to provide a few closing thoughts on Slide 14.
+I recognize that winter Storm Uri has impacted investor confidence in ERCOT's market design and the durability of our cash flow.
+But I want to be clear.
+Given the steps being discussed in the Texas legislature and the actions by market participants, I don't believe an event like this can happen again.
+The systemic failure was the result of a lack of winter stress planning, which was then amplified by poor electric and natural gas coordination and protocols to orderly restore the energy system and communicate with customers.
+Energy is a key pillar to Texas outsized growth and all stakeholders are focused on addressing winter reliability swiftly and comprehensively.
+ERCOT's winter planning parameters will be enhanced.
+Grid coordination will be improved and protocols for a large-scale emergency will be established.
+Now finally, today, following our extensive CFO search, I am pleased to announce that Alberto Fornaro will join our team as Executive Vice President and Chief Financial Officer, effective June 1.
+Alberto is a seasoned finance expert who brings over 30 years of experience and a unique combination of consumer, technology, manufacturing and risk management experience.
+Alberto joins us from Coupang, the world's fifth largest e-commerce platform, where he served as Group Chief Financial Officer and Senior Advisor.
+Before that, he served as CFO for public and private companies, including International Game Technology, a leading gaming company; Doosan, compact and heavy construction equipment company; and Technogym, the world's second largest manufacturer of fitness equipment.
+I believe Alberto's expertise is the ideal fit to enhance our decisive move closer to the customer.
+I also want to take a moment to recognize Gaetan Frotte for stepping in as interim CFO and leading the finance organization during this challenging time.
+Gaetan is a very important and valuable member of our leadership team.

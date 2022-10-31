@@ -1,0 +1,142 @@
+On the call today, we have Dun & Bradstreet's CEO, Anthony Jabbour; and CFO, Bryan Hipsher.
+Our actual results may differ materially from our projections due to a number of risks and uncertainties.
+Today's remarks will also include references to non-GAAP financial measures.
+We are off to a strong start as we continue with our transformation and the execution of our near-term and long-term objectives.
+We finished the first quarter with solid financial results and made significant progress with the integration of Bisnode.
+Overall, we are pleased with the start of the year as adjusted revenues for the quarter increased 29% and adjusted EBITDA increased 37%.
+Organic constant-currency revenues increased 1.3% as strength in international was partially offset by the final quarter of COVID-19 headwinds and Data.com in North America.
+Total company revenue retention was 96.3% and we now have approximately 48% of our business under multiyear contracts.
+The enhancements we have made to data quality and our underlying technology are resulting in positive feedback and deeper customer relationships, allowing us to have more productive conversations about cross-sell and price opportunities of both existing and new products.
+As we reach the two-year anniversary of our cost savings program, we finished the quarter with $246 million of annualized run-rate cost savings.
+Despite COVID-19 delaying some of our planned cost savings initiatives, we exceeded our original target by 23%, which ultimately contributed to the expansion of adjusted EBITDA margins by over 800 basis points from when we took the company private.
+While this marks the completion of our formal cost savings program, we will continue to drive ongoing improvement in terms of operational efficiency through optimizing our geographic footprint, modernizing back-office technologies, and further integrating our solutions to reduce cost and complexity.
+It's important to note that the cost savings figure we just discussed is a net number, meaning that while we took a significant amount of cost out of the business, we also continue to invest a significant amount in the business, primarily by enhancing and expanding our data and technology assets.
+While much of the heavy lifting was completed in 2019 and 2020, our transformation is ongoing as we look to leverage the foundational enhancements we've made during that time to more rapidly and effectively deploy new and innovative solutions.
+Our key priorities for 2021 are to continue to grow our share of wallet with our strategic customers; approach and monetize the SMB space in new and innovative ways; launch new products domestically; localize new and existing products globally; and lastly, to integrate the Bisnode acquisition.
+We're pleased with the ongoing success we're having with our strategic clients as they renew near 100%, while continuing to expand their relationships with us.
+In North America, we signed an expanded multiyear renewal with the largest online retailer to support their third-party risk management strategy.
+As the client continues to expand and enhance their controls around their global supply chain, we are pleased to continue to support their growing needs.
+We also signed a multiyear renewal with one of the largest multinational retail corporations, expanding their use of data across their business.
+The client leverages our third-party risk and compliance solutions to mitigate risk throughout their extremely large and complex supply chain, and we are glad to extend and broaden this relationship with such a key customer.
+We renewed business with another strategic client, a global property and casualty insurance firm who needed access to timely, high-quality data on their current client base to ensure proper underwriting methodologies, ongoing monitoring, as well as access to data for new customer acquisition.
+The result was a multiyear deal for both core risk and marketing solutions.
+In our international business, there's been significant focus on rearchitecting our go-to-market efforts to better capture the large global opportunity.
+In the first quarter, we rolled out a Global 500 account program simultaneously with the close of Bisnode, prioritizing the most strategic accounts.
+I'm pleased with the early traction we are seeing from these efforts demonstrated by several wins in the first quarter.
+Our U.K. team is working with Generali, a Global 500 global insurance and asset management provider with a leading position in Europe and a growing presence in Asia and Latin America, to help them identify ways to improve consistency of screening across their global, corporate, and commercial businesses, as well as reduce risk.
+The result is a multiyear deal for the integration of D&B Data by Direct+ and our third-party risk solution into their CRM and underwriting system to provide a flexible end-to-end solution that was fully compliant with the global requirements.
+Another Global 500 company, Linde Region Europe North, member of Linde PLC, is a leading global industrial gas and engineering company that wanted to improve their credit checks and risk monitoring of B2B customers in a more data-driven way.
+We are pleased they chose D&B Finance and Risk solutions, bringing us both new business and a multiyear deal.
+We are pleased with the momentum we have with our growing roster of clients and expanding existing client relationships worldwide, particularly with our strategic clients.
+One segment that we continue to see immense opportunity in is the small and midsized business market.
+I'm excited to update you on the progress we have been making to enhance our SMB strategy through a mix of digital marketing and delivery efforts, as well as through innovative partnerships.
+After a difficult 2020, the SMB market is beginning to reemerge.
+As existing small businesses begin to recover from the effects of COVID-19, we are also seeing a significant rise in the formation of new businesses, especially gig economy start-ups that would benefit significantly from our self-service finance, risk, and sales and marketing solutions, along with software and services offered from our partners.
+This was the driving purpose behind the first-quarter launch of our improved digital platform.
+This includes personalized small business resources and offerings for each dnb.com user, driven by the utilization of our visitor intelligence solution, as well as the D&B marketplace, which makes it easier for small businesses to identify and purchase D&B solutions and those from our partners.
+The marketplace has two primary sections: a product section called D&B Product Marketplace and a dataset section called the D&B Data Marketplace.
+The D&B Product Marketplace includes a curated set of our solutions along with those of our partners that creates a combined set that allows a small business to operate in a much more sophisticated manner, much earlier in their stage of maturation.
+But we will continue to add new D&B solutions and partners in the coming quarters.
+We are mindful of keeping the number of partners limited as this is not a broad-based marketplace, but one that has preferred solutions that we believe will drive the best outcomes for our SMB customers.
+A few examples of solutions that are available in the marketplace today are funds manager integrated with Plaid, CreditSignal, Credit Monitor, Email IQ, Analytics Studio, Hoovers Essentials, and D&B Connect.
+We also have partner offerings such as KPMG Spark, SAP Ariba with D&B Direct+ integration, and Amazon business access with special rates.
+Within the D&B Data Marketplace, users can buy a broad range of data sets from alternative data providers to help them identify opportunities and mitigate risks.
+These data sets are already curated and matched to a DUNS number to make it easy to append to a client's existing D&B data.
+Today, we have 22 partner datasets, including healthcare reference data from IQVIA and commercial fleet data from IHS Markit, and we're adding more partners monthly.
+User feedback has been overwhelmingly positive around the power of the DUNS number and how it's the key to unlock the power of the data and it's something that meaningfully differentiates us competitively.
+The D&B customer portal, also launched in the first quarter, allows existing clients to log in and access their already purchased products through a single sign-on, unified digital experience.
+While inside the portal, we offer personalized offerings of our and our partner's solutions, which has already resulted in a 60% increase in cross-sells during the first quarter.
+And while we continue to grow our solution set within D&B, we're also expanding our reach outside of our core ecosystem.
+A great example of this is what we're doing with Bank of America.
+Bank of America became the first major financial institution to offer millions of small businesses the ability to get ongoing insights into their D&B business credit score directly through their Business Advantage 360 banking platform.
+This is exciting for D&B because it is driving net new paid subscriptions and increased engagement with our small business digital platform.
+We also partnered with Plaid to bring their network to our solutions.
+By integrating Plaid capabilities to our digital platform, small businesses can securely permission access to their bank account information for authentication purposes.
+This gives them instant access to update their D&B business credit profile.
+In addition, small businesses can share their bank transaction details, enabling us to explore new ways to establish business credit outside of traditional payment data, which many smaller businesses may lack.
+We're really excited as this is the first of its kind in the business credit space.
+In the first quarter, subscriptions to our freemium products were up 43% from the prior year.
+The investments into our small business and digital go-to-market strategy, products, and groundbreaking partnerships are clear evidence of our determination to make this segment a priority and deliver more innovative solutions to our small business clients.
+The third critical priority is launching new products and use cases.
+Yesterday, we announced D&B Rev.
+Up, a solution that simplifies and automates marketing and sales workflows by providing data, targeting, activation, and measurement in a single platform that easily integrates to a customer's existing martech or sales tech stacks through the use of open architecture integrations.
+Clients can purchase the full breadth of D&B Rev.
+Up capabilities or even start with a specific channel and build up from there.
+We have also collaborated with Bambora and Folloze to further extend the insights and capabilities of the D&B Rev.
+Up offerings by adding best-in-class intent and personalized omnichannel experiences to help increase demand generation.
+In addition, we've entered into an accelerate partnership with a leading data-driven martech company in support of this platform.
+This is a game-changer in how we approach account-based marketing through the integration of our solution sets along with complementary partnerships.
+We look forward to providing more updates on Rev.
+Up as it progresses, and it's just a great example of how we're thinking more holistically about serving clients through an integrated platform.
+This is the vision behind Rev.
+Up, as well as the late 2020 launches of D&B Finance Analytics, an integrated and powerful credit to cash platform; and D&B Risk Analytics, an integrated third-party risk, and compliance platform, both within our Finance and Risk business unit.
+In our international segment, we continue to focus on rolling out localized solutions across our growing territories.
+After 20 new product launches in 2020, we continued the momentum in the first quarter, introducing the Finance Analytics platform in the U.K., Data Vision in Greater China and India, and data blocks in three additional worldwide network partner markets.
+We're also launching multiple new products in D&B Europe, which is a newly created region that describes our recently acquired Bisnode markets.
+Leveraging our solutions in these markets is a key pillar of our playbook, which we're starting to execute.
+Regarding the Bisnode transformation, we're leveraging the same playbook that led to the successful transformation of D&B these past two years, and we're off to a great start coming together as one D&B.
+In Q1, we completed the first phase of synergy actions immediately following close, principally, senior leadership rationalization.
+Overall, we have actioned approximately $12 million of annualized run-rate savings and continue to see significant efficiencies through the combination of our two companies.
+We also established a new European operating model and expect this to be fully implemented during Q2, delivering a more streamlined and integrated business with corresponding operational synergies consistent with our business model.
+We developed a robust product plan for D&B Europe to accelerate sales of our modern global product solutions and support the sundown of legacy Bisnode products.
+Several product launches are slated for the second half, including Finance Analytics, Risk Analytics, D&B Hoovers, and data blocks, to name a few.
+The team is also accelerating rollouts of several solutions Bisnode had recently launched prior to the acquisition.
+Overall, we are really excited about the progress we are making and look to capitalize on the strong momentum we have built in our first quarter together.
+Overall, I'm pleased with our start to 2021, and I'm excited about the progress we continue to make in terms of increasing share of wallet with strategic clients, better serving SMBs in innovative ways, developing new products domestically, and localizing them internationally and integrating Bisnode.
+These, along with many other projects the teams are working on are laying the foundation for accelerated, sustainable growth throughout the remainder of 2021 and into 2022.
+Today, I will discuss our first-quarter 2021 results and our outlook for the remainder of the year.
+Turning to Slide 1.
+On a GAAP basis, first-quarter revenues were $505 million, an increase of 28% or 27% on a constant-currency basis compared to the prior-year quarter.
+This includes the net impact of a lower purchase accounting deferred revenue adjustment of $17 million.
+Net loss for the first quarter on a GAAP basis was $25 million or a diluted loss per share of $0.06, compared to a net income of $42 million for the prior-year quarter.
+This was primarily driven by a change in fair value of the make-whole derivative liability in connection with the Series A preferred stock in the prior-year quarter and a higher tax benefit recognized in the prior-year period due to the Cares Act.
+This was partially offset by lower interest expense, preferred dividends in the prior-year period, improvement in operating income, largely due to lower net deferred revenue purchase accounting adjustments and the net impact of the Bisnode acquisition, partially offset by higher costs related to ongoing regulatory matters.
+Turning to Slide 2.
+I'll now discuss our adjusted results for the first quarter.
+First-quarter adjusted revenues for the total company were $509 million, an increase of 28.6% or 27.7% on a constant-currency basis.
+This year-over-year increase includes 22 percentage points from the Bisnode acquisition and 4.4 percentage points from the net impact of lower deferred revenue purchase accounting adjustments.
+Revenues on an organic constant-currency basis were up 1.3%, driven by growth in our International segment, partially offset by the final quarter of headwinds in North America from COVID-19 and the Data.com wind down.
+Excluding these headwinds, the underlying business grew approximately 3%.
+First-quarter adjusted EBITDA for the total company was $186 million an increase of $50 million or 37%.
+This increase includes the net impact of lower deferred revenue purchase accounting adjustment, a 15-percentage-point impact on year-over-year growth.
+The remainder of the improvement is due to the net impact of the Bisnode acquisition, as well as increased revenues in international and lower net personnel expenses overall.
+First-quarter adjusted EBITDA margin was 36.5%.
+Excluding the impact of the deferred revenue adjustment and the net impact of Bisnode, EBITDA margin improved 220 basis points.
+First-quarter adjusted net income was $98 million or adjusted diluted earnings per share of $0.23, an increase from first quarter's 2020 adjusted net income of $50 million.
+Turning now to Slide 3.
+I'll now discuss the results for our two segments, north America and International.
+In North America, revenues for the first quarter were $339 million, an approximate 1% decrease from prior year.
+Excluding known headwinds, North America grew approximately 2%.
+In Finance and Risk, we continue to see strength in our government solutions and risk aversion as both private and public sector enterprises continue to need solutions to deal with a rapidly evolving global supplier landscape.
+The growth in these solutions was offset by approximately $3 million of lower revenues attributable to COVID-19 and $1 million of revenue elimination from the Bisnode transaction.
+For sales and marketing, we're excited to see double-digit growth in our digital solutions as customers continue to leverage more and more of our modern intent-enabled solutions.
+And while data sales also had another solid quarter, the overall growth in sales and marketing was partially offset by $5 million from the Data.com wind down.
+North America first-quarter adjusted EBITDA was $151 million, an increase of $7 million or 5% primarily due to lower operating costs resulting from ongoing cost management efforts.
+Adjusted EBITDA margin for North America was 44.5%, up 220 basis points versus prior year.
+Turning now to Slide 4.
+In our international segment, first-quarter revenues increased 137% to $179 or 131% on a constant-currency basis, primarily driven by the net impact from the acquisition of Bisnode and strong growth in our sales and marketing solutions.
+Excluding the impact from Bisnode, International revenues increased approximately 9%.
+Finance and Risk revenues were $107 million, an increase of 83% or an increase of 78% on a constant-currency basis primarily due to the Bisnode acquisition.
+Excluding the net impact of Bisnode, revenue grew 7% with growth across all markets, including higher worldwide network cross-border sales and higher revenues in Greater China from our risk and compliance solutions and newly introduced API offerings.
+Sales and marketing revenues were $63 million, an increase of 382% or an increase of 359% on a constant-currency basis, primarily attributable to the Bisnode acquisition.
+Excluding the net impact of Bisnode, revenue grew 18% due to new solution sales in our U.K. market and increased revenues from our worldwide network product loyalty.
+First-quarter international adjusted EBITDA of $52 million increased $28 million or 114% versus first-quarter 2020 primarily due to the net impact of Bisnode acquisition, as well as revenue growth across our international businesses, partially offset by higher net personnel costs.
+Adjusted EBITDA margin was 30.3% or 37.8%, excluding Bisnode, which is an increase of 430 basis points versus prior year.
+Turning now to Slide 5.
+I'll walk through our capital structure.
+At the end of March 31, 2021, we had cash and cash equivalents of $173 million, which when combined with full capacity of our $850 million revolving line of credit through 2025, represents total liquidity of approximately $1 billion.
+As of March 31, 2021, total debt principal was $3,674 million, and our leverage ratio was 4.8% on a gross basis and 4.6% on a net basis.
+The credit facility senior secured net leverage ratio was 3.6%.
+And finally, on March 30, we executed $1 billion floating to fixed swaps at an all-in rate of 46.7 bps.
+These are three-year slots and bring our fixed floating debt ratio to approximately 50-50.
+Turning now to Slide 6.
+I'll now walk through our outlook for full-year 2021.
+Adjusted revenues are expected to remain in the range of $2,145 million to $2,175 million, an increase of approximately 23.5% to 25% compared to full-year 2020 adjusted revenues of $1,739 million.
+Revenues on an organic constant-currency basis, excluding the net impact of the lower deferred revenues, are expected to increase between 3% to 4.5%.
+Adjusted EBITDA is expected to be in the range of $840 million to $855 million, an increase of 18% to 20%.
+And adjusted earnings per share is expected to be in the range of $1.02 to $1.06.
+Additional modeling details underlying our outlook are as follows: We expect interest expense to be $200 million to $210 million; depreciation and amortization expense of approximately $90 million, excluding incremental depreciation and amortization expense resulting from purchase accounting; an adjusted effective tax rate of approximately 24%; weighted average shares outstanding of approximately $430 million; and finally, capex, we anticipate, of around $160 million, including $7 million due to a small asset acquisition we completed in the first quarter.
+Overall, we continue to see the year shaping up as previously discussed, with revenue growth accelerating throughout the year as we transition from the middle of the range in Q2 to the high end of the range in the fourth quarter.
+And finally, as previously discussed, we continue to expect adjusted EBITDA for the second and third quarter to be below the low end of the range due to timing of certain expenses in the fourth quarter to be above the high end of the range of our guide.
+Overall, we are pleased with the start of 2021 and look forward to continuing the strong momentum in our building both North America and international.
+Operator, will you please open up the line for Q&A?

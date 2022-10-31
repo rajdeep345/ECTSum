@@ -1,0 +1,130 @@
+Earlier today, we released our third quarter 2021 earnings results and related financial information.
+When we say EBITDA, it means adjusted EBITDA.
+Unless specifically described otherwise, margin refers to value-add adjusted EBITDA margin.
+In the near term, we're looking forward to participating in the virtual Barclays Global Automotive Conference on November 17th and speaking with many of you there.
+Our agenda for today we'll start with CEO, Brian Kesseler, giving an overview of the third quarter and our COO, Kevin Baird will provide more details on our performance at the segment level.
+Our CFO, Matti Masanovich will discuss our balance sheet progress and provide an updated outlook for 2021.
+Brian will then wrap up our prepared comments before we move into the question-and-answer session.
+Please turn to Page 4 for a review of the key themes from our third quarter.
+As we're all aware, the operating conditions in the end-to-end supply chain environment are unprecedented from semiconductor shortages affecting our OE customer bill rates, the freight and labor availability to escalating raw material and component costs, we are managing through a unique operating landscape and are planning for more of the same through the end of 2021 and into 2022.
+More specifically, in the very near term, we are planning for Q4 global light vehicle production to be about the same as Q3.
+With that as a backdrop, it's important to note that our global scale and market mix and structural cost improvement actions helped us mitigate the impact of the challenging operating environment.
+On a year-over-year basis, our volume and mix was down only 5% compared to a 20% decline in global light vehicle unit production.
+On a constant currency basis, our light vehicle value-add revenues outperformed global light vehicle production and our position in various commercial truck, off-highway and industrial end markets and the aftermarket, help support our revenue performance.
+Material cost recovery actions with our customer base are on track and contributed to revenues in the quarter, but with no margin.
+Importantly, our Accelerate+ structural cost actions more than neutralized the effects of unanticipated manufacturing inefficiencies related to the light vehicle semiconductor shortages during the quarter.
+Planning ahead, we have initiated new structural cost actions that will add to the $35 million benefit from the Accelerate+ program that are expected to carry over in 2022.
+We are well positioned to benefit from the eventual recovery of light vehicle production volumes.
+Lastly, our core growth drivers, continue to build momentum.
+Motor Parts and the commercial truck off-highway and industrial space delivered revenue growth year-over-year.
+Our Performance Solutions segment is launching 34 BEV and hybrid programs expected to yield annualized revenues of $200 million.
+Kevin will add more color on the launches later in the call, but in addition, our advanced suspension technologies or AST business within Performance Solutions were supply advanced, passive and semi active suspension for light vehicle and specialty markets, received very positive reviews in the automotive press for our innovative suspension technologies equips on new BEVs from Rivian and Geely.
+Turning to Page 5.
+Let's take a look at an overview of our third quarter results.
+Revenue was $4.3 billion, up 2% year-over-year, driven by our diversified end market mix and includes $1 billion of pass-through substrate sales.
+As a reminder, substrate sales are only in our Clean Air segment and are passed through to the customer at cost plus the small handling fee.
+Excluding substrates, our value add revenue was $3.3 billion, down 2% year-over-year, excluding the impact of foreign currency exchange rates.
+As I highlighted on the previous page, this compares favorably to the industry light vehicle production decline of 20% and includes material cost recovery of $110 million.
+The scale and diversification in our regions and markets served are evident in the charts on the right.
+In the third quarter, just over 50% of our business was generated from aftermarket and commercial truck off-highway and industrial applications.
+Adding the light vehicle portion of our Performance Solutions business, which is agnostic to the vehicles powertrain, 65% of our value-add revenue is unrelated to OE light vehicle ICE technologies.
+We expect this mix to expand to 80% plus by the end of the decade.
+Adjusted EBITDA was $279 million and adjusted EBITDA margin was 8.5%.
+Despite the volatile production environment, we maintained strong liquidity and our third quarter net leverage ratio improved 1.1 times since the end of 2020.
+On Page 6, we show our enterprise performance.
+On the left side of the slide, light vehicle production declines due to the semiconductor and supply chain shortages negatively impacted our volume.
+We estimate the value-add revenue impact of the semiconductor shutdowns during the quarter was approximately $400 million and our most important geographies experienced the largest adjustment.
+In a normal operating environment, we would have expected to produce a low 20s incremental EBITDA margin on that revenue contribution.
+Also, our third quarter value-add revenues included $110 million of material cost recovery via price in the quarter, although no margin dollars came with that contribution.
+On the right side of the page, adjusted EBITDA was $279 million at a value-add margin rate of 8.5%, down 330 basis points with almost half of the year-over-year margin rate decline due to temporary cost actions put in place last year that were not expected to repeat this quarter.
+Material cost recovery lag also represented a significant margin headwind compared to Q3 2020.
+We remain on our plan to recover the higher commodity costs, but there is a lag.
+In each of our business segments, our recovery arrangements vary based on region and customer, which creates timing differences on a comparative basis.
+In the box on the right, you can see our Accelerate+ restructuring savings more than offset manufacturing inefficiencies associated with the supply chain shortages, which resulted in positive other operating performance of 60 basis points versus the prior year.
+Overall, solid performance by the operating teams in the quarter, we value their resilience and fortitude in a difficult operating environment.
+Let's turn to our motor parts business performance on Page 8.
+Aftermarket revenue was $769 million, up 4% year-over-year on a constant currency basis on continued strong demand and relative to the second quarter, it is in line with normal seasonality.
+We saw revenue growth in all three regions, including Americas, EMEA and Asia Pacific in spite of the lengthening supply chain lead times that are having an effect on our component and finished goods availability.
+Adjusted EBITDA for the quarter was $115 million, delivering a 15% EBITDA margin.
+Compared to the prior year, margin was impacted by non-recurring temporary cost actions taken in the third quarter of 2020, as well as higher commodity price recoveries in the quarter that dilute margins.
+Before I discuss the OE segments, you will hear some common themes across all three, including the impact of non-recurring temporary cost actions on margins in the state of our net material cost recovery.
+As Brian mentioned earlier, our commodity recovery agreements differ by product, region and customer.
+Steel is our most important raw material input and it's used by all three OE segments.
+Also Clean Air and Powertrain have differing commodity exposures, which I'll touch on shortly.
+In addition, the late notice on OE customer production schedule changes, trapped inventory of approximately $250 million as of quarter end.
+Let's turn to our Performance Solutions segment on Page 9.
+Third quarter revenue was $686 million, down slightly year-over-year in constant currency.
+Light vehicle applications, representing approximately two-thirds of the business, were down 10% excluding currency, outperforming industry production by 10 percentage points.
+Commercial truck off-highway and other applications were up 58% year-over-year and made up almost 20% of revenues.
+Adjusted EBITDA was $38 million in the third quarter for a margin of 5.5%.
+Year-over-year earnings comparisons were impacted by the flow-through of lower volumes, the impact from temporary cost actions taken in the prior year and net material price inflation due to the recovery lag.
+Earlier, Brian mentioned the positive market reviews on our advanced suspension technology on the Rivian Electric Pickup Truck program.
+In addition to our AST product line, we also supply that program with NVH and system protection products.
+As a reminder, the five product lines in this segment are agnostic to the powertrain technology in the vehicle.
+In the third quarter, we continued to win new business and are making inroads with China domestic OE manufacturers and their EV platforms.
+Earlier this week, we announced our CVSAe electronic suspension technology, will make its China debut on the new premium electric brand Zeekr from Geely.
+Lastly, approximately 80% of our alternative propulsion launches in 2021 are battery electric vehicles.
+On Page 10, we show Clean Air's results.
+Clean Air value-add revenues were $897 million and fell 8% year-over-year, excluding foreign currency effects.
+Light vehicle value-add revenues declined 22% year-over-year.
+However, commercial truck off-highway and industrial value-add revenues increased 48% year-over-year.
+Clean Air's China commercial truck revenues, as well as North America's and Europe's off highway revenues expanded nicely year-over-year, driving the bulk of the segments CTOHI growth.
+Commercial truck off-highway and industrial comprised 27% of the segment's value-add revenues in the third quarter, compared to 19% for all of 2020.
+Adjusted EBITDA was $137 million.
+Value-add adjusted EBITDA margin was 15.3% compared to 15.6% in the prior year period.
+Strong manufacturing performance and effective material cost management helped offset most of the negative impact from weaker volume and the non-recurrence of benefits from temporary cost actions realized in Q3 of 2020.
+In addition to base steel, Clean Air uses large amounts of stainless steel in its operations.
+Page 11 has a summary of Powertrain.
+In constant currency, revenues were about flat versus the year ago period.
+CTOHI and OE service revenues both expanded more than 20% year-over-year, which helped offset a 13% decrease in light vehicle revenues.
+Powertrain experienced broad strength in its CTOHI and OE service in Europe and benefited from the strong year-over-year volume in the North America on-road commercial truck market.
+Adjusted EBITDA was $74 million and adjusted EBITDA margin was 7.9%.
+The year-over-year margin decline was attributable to material cost inflation due to recovery lag and non-recurring temporary cost actions in the year ago period.
+Steel is Powertrains most important raw material input, but the business consume several other metals, including significant amounts of aluminum and copper.
+Accelerate+ restructuring savings more than offset inefficiencies related to the semiconductor volume losses.
+I'll begin my comments on Page 13.
+As of September 30th, our net leverage ratio was 3.2 times, which represented a 1.1 times improvement from our year-end ratio.
+With net debt approximately even with year-end, our free cash flow performance year-to-date has been neutral.
+As a reminder, the normal seasonality of our cash flow is weighted toward the fourth quarter.
+The leverage improvement is driven by higher LTM adjusted EBITDA.
+We are staying focused on cash conversion, while managing a volatile customer order schedule in this challenging supply chain environment.
+Our focus includes net working capital efficiency and reducing capital intensity.
+Our mid-term net leverage target range is 1.5 to 2 times.
+We ended the quarter with strong liquidity of $2.1 billion with our revolver undrawn and no significant near-term debt maturities.
+As we have in the past, we plan to stay opportunistic regarding our future refinancing needs.
+Page 14 shows our updated 2021 guidance.
+We have revised our fiscal year 2021 value-added revenue guidance to a range of $13.55 billion to $13.65 billion, which compares to our prior range of $13.8 billion $14.1 billion.
+The change largely stems from lower global light vehicle production relative to our last update.
+Our guidance assumes Q4 global light vehicle production volumes of approximately 16.5 million units, flat with the third quarter, which is more conservative than IHS's most recent Q4 update.
+Actual customer production schedules have deviated from their releases over the past several months and this has continued into the fourth quarter.
+Our guidance incorporates the sequential market volume decline in our key off-road markets and a sequential volume decline in our aftermarket business, consistent with normal seasonality.
+We expect our material cost recovery via price to continue to build, but will be dilutive to our margin rate comparisons.
+We have reduced our 2021 adjusted EBITDA range from $1.25 billion to $1.28 billion from a range of $1.36 billion to $1.44 billion.
+The primary driver of the change is a lower global light vehicle production due to the semiconductor shortages.
+The EBITDA decline associated with the loss revenues is slightly higher than normal because of the sudden nature of the shutdowns since mid-year.
+In some cases, we have received little notice from the customers that production was being canceled, creating inefficiencies and trapped costs.
+We continue to recover the higher material costs, but there is a lag and commodity inflation remains elevated.
+We believe that the lag for material cost inflation will continue into the first half of 2022 as our commodity recoveries timing gets caught up and assuming year-over-year inflation growth rates begin to stabilize.
+For the full year 2021, we continue to expect year-over-year savings of $110 million from our Accelerate+ Cost Reduction program.
+We expect our net debt to improve to approximately $4.3 billion at year-end.
+Seasonally, Q4 is our largest free cash flow quarter.
+Relative to our expectations, our inventory levels remained elevated in the third quarter due to the sudden and sharp light vehicle production reductions at several of our customers.
+As Kevin mentioned, we estimate the trapped inventory approximately $250 million in the third quarter.
+We are working diligently to reduce the inventory and expect to partially unwind and contribute to our free cash flow generation in the fourth quarter.
+We have reduced our estimate for full year capex spend by $50 million due to the softer operating environment and our cash taxes are estimated to be approximately $140 million, $10 million lower than prior expectation.
+The work our team has done since the beginning of 2020 in lowering our capital intensity and our focus on free cash flow conversion, has us in a strong liquidity position with significant cushion on covenants.
+The management team remains focused on improving our balance sheet.
+Turning to Page 15.
+I'll close with a summary of our major priorities to increase shareholder value.
+First, we have taken significant structural cost out of the business and we're not stopping with the Accelerate+ program.
+We have identified and initiated new projects that we expect will contribute meaningfully in 2022 on top of the $35 million of carryover savings from Accelerate+.
+I want to emphasize that this continued focus positions the company to materially improve its margin rate performance once supply chain constraints are relieved and production volumes begin returning closer to 2019 levels.
+Second, we have lowered the capital intensity of the business to enhance our free cash flow conversion.
+We remain disciplined with our capital spending levels and intend to continue to enhance our working capital returns.
+In the mid-to-long term, we target a free cash flow to EBITDA ratio in the neighborhood of 25% to 30%.
+We're investing in our businesses that have above-average growth characteristics and returns on capital.
+We believe the investments being made today in key businesses with our motor parts and Performance Solutions segments will enhance the company's organic growth over the long term.
+Further, we have significant opportunities to grow our CTOHI revenue base over the next several years as new regulations in our key geographies increase quote and content opportunities.
+On a go-forward basis, we believe the 65% of our revenue base, not associated with light vehicle IC applications, can outgrow the market and drive above market value-add revenue growth for the entire enterprise as the company transitions to a predominantly non-light vehicle IC revenue mix by the end of the decade.
+We're proud of the high level of service they deliver to our customers as they continue to improve our operating performance.
+Operator, we'll now answer any questions.

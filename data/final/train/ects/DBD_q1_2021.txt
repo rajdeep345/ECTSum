@@ -1,0 +1,99 @@
+Additional information on these factors can be found in the company's SEC filings.
+And, now, I will hand the communications to Gerrard.
+I'm pleased to join you today to discuss the transformation of our business model, our competitive differentiation and our solid start to 2021.
+I'll begin on Slide 3 by recapping our investment thesis and our key financial metrics for 2021, which we are reaffirming today.
+We are continuing to make solid progress in transforming our business model to generate strong returns on invested capital, significant free cash flow growth, and leverage our competitive differentiation to grow the top line.
+In the first quarter, we delivered 4% revenue growth underpinned by market share gains in ATMs and self-checkout solutions.
+I'll provide additional color about key market trends in just a minute, but I'll simply say that our growth in Q1 gives us the confidence to reiterate our 2021 revenue outlook of $4 billion to $4.1 billion.
+Our return on invested capital continues to improve.
+To date, the main contributor has been our DN Now work streams, which includes services modernization, G&A efficiencies from enhancing our digital and cloud-enabled capabilities and selling a higher mix of self-checkout devices and DN Series ATMs. The company is off to a good start in Q1, and we're tracking to our previously disclosed plan of $160 million of gross savings this year.
+Transformation restructuring payments are also tracking to plan and our prior comments on this topic and we'll conclude this year.
+The combination of enhanced profitability and lower restructuring payments is driving a strong increase in free cash flow.
+Our outlook for 2021 is a range of $140 million to $170 million or approximately 30% of our adjusted EBITDA.
+The company's operating rigor is driving our transformation and value creation.
+While we have been tested during the global pandemic, we continue to demonstrate tremendous result with our ability to execute during this challenging time and we will continue to leverage this operating rigor going forward.
+Slide 4 summarizes how our competitive differentiation is playing out in the marketplace and in our first quarter results.
+Our retail business is benefiting from accelerating self-checkout demand, as well as mild growth in our point of sale business.
+These trends drove retail revenue growth of 11% in the quarter, excluding the impact of divestitures and currency.
+We expect growth will continue as retailers improve the end-to-end experience and reduce operating costs.
+We're growing faster than the market, because customers value our high degree of modularity, increased availability and our open architecture.
+During the quarter, we secured a multi-year agreement with the French retail group, Les Mousquetaires, to transform the checkout experience at nearly 2,000 stores with next generation point-of-sale and self-checkout products, our AllConnect Data Engine and dynamic self-service software.
+In the United States, we booked our initial order for DN Series EASY self-checkout units with a high profile convenience store retailer, operating in airports and other tourist destinations.
+Beyond the value of winning new self-checkout hardware deals, we're also benefiting from higher services attach rates that increase our recurring revenue.
+Moving now over to the banking business.
+We're seeing growing evidence of market share gains due to the advanced features and functionality of our next generation DN Series ATMs. In the United States, we're seeing gains among larger financial institutions, including an initial order to deliver DN Series cash recycling ATMs and maintenance services at a top 10 U.S. financial institution, which previously bought hardware from others.
+With this wining [Phonetic], we received DN Series orders from five of the top 10 U.S. banks and we see opportunities to add to our success.
+In Latin America, we're seeing DN Series orders from customers in Mexico, Colombia, Peru and Honduras, including a contract with Banco Nacional de Mexico, or Banamex, to deliver approximately 1,200 DN Series ATMs, Vynamic software licenses and maintenance services.
+A number of customers have indicated that DN Series is not only a hardware upgrade, there is a critical element for automating, digitizing and enhancing the self-service channels.
+For example, DN Series is facilitating higher service levels due to strong engineering and the AllConnect Data Engine, which leverages Internet of Things and machine learning to enable a data-driven service model.
+For legacy ATMs, we're seeing service cost reductions of approximately 20%.
+For customers that upgrading from legacy ATMs to DN Series, the potential performance improvements from ACDE can be even more significant.
+We increased the number of machines connected to ACDE by 10% sequentially during the first quarter.
+As we connect more devices to AllConnect Data Engine, we expect the operational efficiencies will add to our service margins and contribute to our target range of 32% to 33%.
+Additionally, DN Series also supports advanced, self-service capabilities through enhancements we're making to our dynamic offering.
+Our Video-as-a-Service offering is seeing solid demand.
+Furthermore, our software team has created a single stack environment to facilitate quicker implementations and more frequent updates of new capabilities such as cardless transactions, cash recycling and video teller access.
+We see opportunities to continue to grow our software business.
+And, as previously disclosed, we're making investments in our dynamic payment suites and are seeing heightened interest from early adopters for our cloud native solution, although the sales cycle is expected to be longer than our typical software sale.
+We're also hearing from more customers about their efficiency agendas and we're responding with pre-configured managed services, which support advanced capabilities and drive higher service levels.
+The number of managed services opportunities has increased in the past quarter across retail and banking customers.
+Beyond our growing pipeline, our managed services success in the quarter included a five-year contract to be the sole source supplier for maintenance, monitoring and help desk services for more than 4,000 self-service terminals and in a top five bank in the United Kingdom.
+Secondly, an extended managed services contract with increased scope at the largest private sector bank in India.
+And, thirdly, a three-year managed services contract extension covering more than 3,500 self-service terminals with HSBC, the largest bank in Hong Kong.
+Our financial results represent a very solid start to 2021.
+Adjusted EBITDA of $100 million was the highest first quarter in the company's history and while Jeff will discuss the details, I'm especially pleased that our operating profit growth of 25% and adjusted EBITDA growth of 12% significantly outpaced our top line growth of 4%.
+This demonstrates strong operating leverage in our business model.
+Next on the call, Jeff Rutherford, who will take you through a more detailed discussion of our financials and our financial outlook for 2021.
+Our first quarter revenue growth and positive operating leverage demonstrates our transformed business model, which creating value for our stakeholders.
+Slide 5 contains the first quarter P&L metrics for the past two years, providing a useful perspective of our transformed business model.
+Total first quarter revenue of $944 million reflects foreign currency benefits of $34 million versus the prior-year period, partially offset by $23 million headwind from divested businesses.
+Adjusted for foreign currency and divestitures, revenue increased 2.4% led by product growth of 11%, software growth of 7%, and a services decline of 4%.
+We generated $273 million of non-GAAP gross profit in the quarter, an increase of $19 million or 7% versus the prior year period, reflecting higher revenue and improving margins from our DN Now achievements.
+Gross margin increased 110 basis points to 29%.
+We've expanded gross margins across all three segments, led by strong gains in software and services of approximately 590 basis points and 220 basis points, respectively.
+Product gross margins declined 200 basis points, due primarily to non-recurring benefits in the prior year period and a slightly less favorable customer mix.
+Operating profit increased $16 million or 25% versus the prior quarter, while operating margins gained 150 basis points to 8.4%.
+SG&A expense was flat versus the prior year quarter, allowing the gross profit from incremental revenue to flow through to operating profit.
+R&D expense was $3 million higher year-over-year, due to planned growth investment.
+We delivered adjusted EBITDA of $100 million in the quarter, which increased $11 million or 12% over the prior year.
+The next three slides contain financial highlights for our segment.
+On Slide 6, Eurasia Banking revenue of $328 million, increased 5% versus the prior year period excluding the foreign currency benefit of $21 million and a $20 million impact from divestitures.
+Growth was driven by higher product volumes as the team converted our backlog, which has been building for several quarters.
+Segment gross profit increased $7 million year-over-year with contributions from all three business lines.
+Foreign currency benefits of $8 million were partially offset by interim cost benefits from the prior year.
+Gross margin expanded 60 basis points year-over-year led by software and services improvements, while product margins declined due to a less favorable customer mix.
+Moving to Slide 7, Americas Banking revenue of $312 million declined 7% versus the prior year, excluding a $6 million foreign currency headwind and a $2 million divestiture headwind.
+We experienced lower product volumes and installation activities in U.S. regional accounts and in Mexico versus the prior year period, although we see order growth picking up.
+As Gerrard mentioned, our national account business is showing strength in both orders and revenue due to a customer acceptance of DN Series.
+The software business delivered strong double-digit growth in the quarter, due to the revenue recognition of a large contract.
+Segment gross profit of $97 million was down $7 million year-over-year due to lower volume and modest currency and divestiture headwinds.
+Gross margin expansion of 100 basis points to 31.3% was driven by benefits from DN Now initiatives.
+On Slide 8, retail revenue of $304 million increased 11% year-over-year after adjusting for $19 million foreign currency tailwind and the divestiture headwind of $1 million.
+During the quarter, we experienced continued strength from self-checkout solutions as well as mild growth from point-of-sale products.
+Software growth was driven by a large project in Europe.
+When compared to the prior year period, retail gross profit increased 32% and $79 million, due primarily to revenue growth.
+Gross margin expanded 260 basis points, demonstrating that our team is doing a great job delivering positive operating leverage, revenue growth, a more favorable mix of self-checkout solutions and continued execution of DN Now initiatives.
+On Slide 9, we summarize our free cash flow performance and update our leverage and debt maturity schedules.
+Free cash flow use of $70 million in the quarter was up slightly compared with the prior year quarter and was in line with our internal plan.
+Versus the prior year, free cash flow was impacted by higher interest payments related to the timing of our secured note payments and higher cash used for inventory.
+The combination of our growing product backlog coupled with longer lead times for electronic components and a weaker U.S. dollars resulting in higher cash requirements for inventory.
+We are working closely with our suppliers to manage these challenges, however, just like other technology companies, these dynamics will remain on our watchlist.
+Cash from receivables and payables improved slightly versus the prior year.
+On an unlevered basis, free cash flow use improved from $30 million to $10 million year-over-year due to higher profits and lower restructuring events.
+For modeling purposes, investors should expect our cash interest payments to be approximately $30 million in the second and fourth quarters and approximately $60 million in the third quarter of 2021.
+When compared with year-end, the company's cash balance reflects seasonal cash use for us approximately $30 million used to pay down a portion of the revolving credit facility.
+The company ended the quarter with $573 million of total liquidity, including $260 million of cash and short-term investments.
+At the end of the quarter, the company's leverage ratio of 4.4 times was unchanged versus year-end and down one-tenth of the term from the year ago period.
+On the right side of this slide, we update our gross debt levels as of March 31st.
+Note that we have no material debt maturities until November of 2023.
+We remain committed to strengthening our credit profile and we'll continue to evaluate opportunities to refinance that on more favorable terms.
+Slide 10 contains our 2021 outlook, which we are reaffirming today.
+We expect to generate revenue of $4 billion to $4.1 billion, which equates to 3% to 5% annual growth.
+Our adjusted EBITDA range is $480 million to $500 million for the year, or 6% to 10% growth as we benefit from topline growth and operating leverage.
+As most of you are aware, our second quarter results for 2020 included significant non-recurring benefits to our services' gross profit margins and operating expense.
+We do not expect these benefits to recur during the second quarter of 2021.
+Operating expense for the second quarter is expected to be in line with the first quarter or approximately $194 million, although it could be slightly higher if the euro continues its strength against the U.S. dollar.
+Based on these factors, we expect adjusted EBITDA for the second quarter to be similar to our first quarter results.
+Moving on to cash flow.
+We continue to expect $140 million to $170 million of positive cash flow for 2021, including up to $50 million for DN Now restructuring payments.
+Our outlook reflects a material improvement in the company's EBITDA, to free cash flow conversion rate from 12% in 2020 to approximately 30% in 2021.

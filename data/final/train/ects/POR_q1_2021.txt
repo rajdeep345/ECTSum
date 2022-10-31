@@ -1,0 +1,93 @@
+I'm pleased that you're able to join us today.
+The slides are available on our website at investors.
+We caution you that such statements involve inherent risks and uncertainties and actual results may differ materially from our expectations.
+Leading our discussion today are Maria Pope, President and CEO; and Jim Ajello, Senior Vice President of Finance, CFO and Treasurer.
+Our financial results this quarter were strong.
+We reported net income of $96 million or $1.07 per share compared to net income of $81 million or $0.91 per share in the first quarter of last year.
+In light of the strong quarter and positive outlook, we are reaffirming our 2021 earnings guidance of $2.55 to $2.70 per share, as well as our long-term earnings and dividend growth rates.
+Jim will cover first-quarter results in more detail, provide regulatory and capital updates, as well as discuss the outlook for the rest of the year.
+This quarter, again, presented significant weather-driven operational challenges.
+And I'm proud of how our teams came together, responding to the most severe, ice, wind and snowstorms in our history, improving our operations and achieving important customer-focused results.
+In February, we restored over 750,000 customer outages, as nearly half of our customers were without power, many of whom experienced multiple outages over a more -- more than 2.5-week period.
+I want to recognize the hard work of our coworkers, mutual aid crews and assistance from as far away as Southern California, Utah, Montana to Alberta, British Columbia, all of whom in the midst of a pandemic went above and beyond to restore power quickly and most importantly, safely.
+Even as we speak, crews continue to repair equipment and clear down trees, as damage is still extensive.
+As of March 31, the cost of the February storm were $87 million, which Jim will discuss in detail.
+The recent storms and wildfires last fall on top of the pandemic with so many people living, working and learning remotely underscore the importance of our ongoing system hardening and reinvestment programs, combined with the deployment of digital capabilities, AI and smart grid technologies.
+Today versus a year ago, customers are experiencing about 16% less planned outages.
+Average outage restoration times are about 7% faster and outage text notifications and digital payment options are making a difference in customer satisfaction.
+And equally important to note is what did not happen during the February weather events, our generation plants, as well as wind and hydro facilities operated seamlessly.
+And power was generated across the region throughout the harsh conditions.
+Turning to load growth and the economy.
+For the last couple of years, we've discussed the strength of our service territory.
+Overall, year-over-year, customer count increased more than 1%, and load growth was up 1.2% on a weather-adjusted basis and 2.3% after accounting for the harsh winter conditions.
+Residential usage was up 3% weather-adjusted, offsetting commercial declines of 5%.
+Industrial usage grew an impressive 8%, powered by the strength of the tech and digital sectors.
+Expansion within our region of several digital companies and the global semiconductor shortage are expected to continue and solidify our positive outlook.
+Overall, Oregon's economy is recovering, with nearly two-thirds of the state's pandemic-driven job loss recovered.
+Unemployment currently stands at 5.7% across our service territory.
+ESG, Portland General has long been an ESG leader.
+And this quarter, we join the Amazon Climate Pledge in keeping with our commitment to reduce carbon by 80% by 2030 over 2010 levels and our aspirational goal of net zero by 2040.
+We also know that to make real progress on climate, we need to partner in addressing the admissions from transportation and other sectors.
+Last week in partnership with Daimler Trucks North America, we celebrated the opening of the first of its kind heavy-duty electric truck charging site.
+This site aligns with the West Coast clean transit corridor initiative to electrify along the I-5 Corridor from the borders with British Columbia to Mexico.
+And finally, I'd like to address the ongoing social unrest and importance of our diversity, equity and inclusion work.
+In these tumultuous times, corporations have an opportunity for change.
+At Portland General, our DE&I priorities are focused on recruiting, retaining, training and promoting from our front lines to our Board of Directors.
+We are committed to transparency and have published for three years running our workforce and pay equity statistics.
+We've made good progress, but we know that there is still much work to do.
+As we look to the year ahead, we're excited to lead a clean energy transformation and humbled by the challenges as we work seamlessly to integrate ever-increasing amounts of renewable and distributed energy resources into a growing, reliant and resilient grid, meeting customers' needs for safe, affordable, clean energy.
+I too was impressed with the efforts of our teams across the company to restore power safely to customers during the February storms.
+As we turn to economic conditions, it's clear that we're beginning to see recovery take hold.
+Approximately 40% of Oregonians have had at least one vaccine shot and as of mid-April, K-12 public schools reopened for in-person education, either hybrid or full time.
+As of March 2021, the unemployment rate in PGE's service territory was 5.7% compared to a 14% peak in April 2020.
+In the first quarter, Oregon saw accelerated job growth and as of March, had recovered over half of the jobs lost last spring.
+Harder hit segments such as leisure and hospitality have posted a noteworthy gains after experiencing a second wave of job losses in late 2020.
+While there are greenshoots of recovery, we appreciate that many of our customers are still facing challenges, and we embrace our role as an essential service provider and partner to Oregon communities.
+Turning to slide 5, I'll cover our financial performance.
+As Maria said, we reported $1.07 per share compared to $0.91 per share in the first quarter of 2020.
+First, we saw a $0.06 increase in total revenue.
+This is composed of $0.04 due to higher loads, which increased 1.2% year-over-year weather-adjusted and a $0.02 positive impact from weather.
+Additionally, there was $0.02 from the earnings power associated with the Wheatridge Renewable Energy Facility, which was placed in service in the fourth quarter of 2020.
+Next, a $0.03 decrease in net variable power costs driven by lower hydro wind production in 2021.
+While our wind production exceeded our expectations, it was still less than the unusually high levels of production experienced in 2020.
+A $0.07 decrease was associated with higher operating and maintenance administrative expense, which consists of $0.05 of favorable fixed plant O&M primarily due to lower maintenance expense at our generation facilities.
+This was offset by $0.12 of unfavorable administrative expenses, which included $0.03 of higher employee benefit expenses, $0.03 of higher legal and professional expense and $0.03 from the timing of bad debt recognition under our COVID deferral, and $0.03 from other items.
+A $0.05 increase was associated with lower depreciation and amortization expense, largely as a result of asset retirements, which were partially offset by capital addition.
+There was a $0.04 increase in other income, primarily attributed to market returns on the non-qualified benefit trust.
+It was an $0.11 increase from lower tax expense, primarily driven by a one-time recognition of a benefit from a local flow through tax.
+Turning to the regulatory update, we are continuing to evaluate our cost structure to ensure that we're providing safe, reliable and affordable service to our customers, while making investments that leverage the use of technology and advance our strategy.
+We are still assessing our need and the appropriate timing to file a general rate case with the Oregon Public Service Utilities Commission for a 2022 test year.
+This last week, we requested a docket to be open to select an independent evaluator with stakeholders for our upcoming RFP.
+This is the first step toward the RFP, the process of which is expected to continue into 2022, before finalizing potential selections.
+The RFP will seek both renewable energy and dispatchable resource fits.
+PGE has identified a roughly 500-megawatt capacity need that will seek to fill as part of this 2021 all source RFP.
+We plan to file a benchmark resource into this competitive process.
+Additionally, as it relates to capacity, we are continuing to pursue cost competitive agreements for existing capacity in the region.
+If PGE is successful in these negotiations, it might reduce the size of the 2021 RFP, depending on the contracting dates for an existing capacity resource.
+Regarding the deferral related to our storm costs, detailed on Slide 6 through March 31, 2021, we've incurred an estimated $87 million in incremental cost due to the February storm, of which $33 million were capital expenditures and $54 million were operating expenditures associated with our transmission and distribution system.
+We have a storm deferral mechanism that collects $4 million annually from retail customers to cover incremental expenses related to storm damages, and we defer any amount not utilized in the current year.
+In response to the February storms, we exhausted our storm collection balance for 2021 of $9 million to offset operating expenses.
+This brings the cumulative incurred cost from the February storm to be estimated at $45 million net as of March 31, 2021.
+We have filed an application for authorization to defer emergency restoration costs for the February storms.
+We expect a decision from the PUC on this in 2022.
+We are confident these costs were incurred prudently in response to this unique and unprecedented storm, although there are comparable storms of similar size and duration in other regions at a similar expense, the OPUC has significant discretion in making the final determination of recovery and their conclusion of the overall prudence.
+Turning to Slide 7, which shows our updated capital forecast through 2025, we've increased our 2021 capital expenditures by $45 million this year, the majority of which relates to the capital expenditures from the recent storm restoration.
+Our capital plan remains on track, and we continue to invest primarily in projects that enhance the resiliency and reliability of our system for the benefit of customers, while maintaining affordability.
+Given our guidance today, we raised our O&M guidance by $20 million.
+This is in response to several factors.
+$12 million of this increase is associated with the February storm response expense, which is ultimately offsetting revenue and the remaining $8 million is associated with additional initiatives to address wildfire risk, improve our outage restoration estimation and outage response processes.
+On to Slide 8, we continue to maintain a solid balance sheet, including strong liquidity and investment-grade ratings, accompanied by a stable outlook.
+Based on our strong financial condition, we do not expect to issue additional equity in 2021.
+We expect to fund 2021 capital expenditures and long-term debt maturities with cash from operations during 2021, which is expected to range from $600 million to $650 million.
+We've also increased a long-term debt issuance later this year up to $350 million, which will refinance the short-term notes closed earlier this year and satisfy our 2022 requirements.
+Total liquidity of $780 million, all of which is available.
+Earlier this week, our Board approved a dividend increase of $0.09 per share on an annualized basis, which represents a 5.5% increase.
+This increase is consistent with our long-term dividend growth guidance of 5% to 7%, while observing a dividend payout ratio of 60% to 70%.
+Turning to our 2021 outlook, our first-quarter performance was strong.
+We are on track to achieve our guided range and finished within the long-term growth guidance of 46% from the 2019 base year.
+We expect continued impacts from the pandemic on the economy and regional power picture through the second quarter.
+We anticipate a similar load composition to the trends that we've experienced over the last two quarters.
+Our commercial customers face risks associated with economic impact of the pandemic in Oregon, but the strength of our residential and industrial energy deliveries has mitigated this decline.
+Right now, we are still under the cap of our decoupling mechanism.
+Residential customer usage on a weather-adjusted basis is above the established threshold and is expected to be refunded to customers.
+As I settle in, I can see excellent fundamentals of the business, load growth is strong, and we continue to see opportunities to drive efficiency in our operations, mostly through investment in technology and developing a smarter more resilient grid, all of which will result in better outcomes for our customers.

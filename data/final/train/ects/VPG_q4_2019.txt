@@ -1,0 +1,93 @@
+An audio recording of today's call will be available on the internet for a limited time and can also be accessed on the VPG website.
+Turning to Slide 2.
+Today's remarks are governed by the safe harbor provisions of the 1995 Private Securities Litigation Reform Act.
+For a discussion of the risks associated with VPG's operations, we encourage you to refer to our SEC filings and the Form 10-K for the year ended December 31, 2018, and our other recent SEC filings.
+On the call today are Ziv Shoshani, CEO and president; and Bill Clancy, CFO.
+I will begin with some commentary on VPG's consolidated results and our sales trends and operational highlights by segment.
+Bill will provide financial details and then our Q1 2020 outlook.
+Moving to Slide 3.
+The fourth quarter capped the second best year in VPG's history in terms of revenue and profitability.
+In spite of some macro headwinds after beginning the year in Q1 with one of our strongest quarters ever, business trends and our revenue slowed in the second half of the year reflecting a global economic slowdown that impacted many of our end markets.
+Despite the headwinds, we achieved solid results for fiscal 2019 with sales of $284 million and adjusted operating margin of 11.7% and adjusted earnings per share of $1.69 and $20.4 million of adjusted free cash flow.
+Moving to Slide 4.
+For the fourth quarter, sales of $69.1 million were at the high end of our expectations and grew 2.6% sequentially.
+Bookings were strong as total orders for the fourth quarter of $79.8 million grew 24% from the third quarter and reflected growth in all three segments.
+The result was an overall book-to-bill of 1.15 in the fourth quarter, an improvement from 0.96 in Q3.
+Looking at our fourth-quarter business trends by market.
+In test and measurement, demand for our precision resistors in semiconductor test applications rebounded.
+In the general industrial market, we saw continuous softness in oil and gas and in industrial process applications.
+In transportation, where we focus on track in one market orders for our VPG onboard weighing solutions were solid in both the avionics, military and space market or AMS and steel market trends continue to be directionally positive, but our orders reflected the project-driven nature of our products.
+In the industrial wing and other markets which includes precision, agriculture, construction and medical applications, we saw signs of bottoming as customers replenished their inventories.
+From an operation and financial perspective, our profits in the fourth quarter were impacted by a number of factors.
+First, our results include -- included $1.7 million of an acquisition-related charges and costs associated with the addition of Dynamic Systems, Inc. or DSI in November of 2019.
+Second, we recorded a restructuring charge of $1.7 million which primarily relates to the closing and downsizing of facilities as part of our ongoing strategic initiative to align and consolidate our manufacturing operations.
+Third, our margins were further affected by approximately $1.1 million related to inventory reductions as well as one-time inventory adjustments, mainly for manufacturing relocations and system implementations.
+The results of these factors was an operating income in the fourth quarter of $1.8 million or 2.5% of revenues, and adjusted operating income was $5.2 million or 7.5% of revenues.
+Fourth-quarter earnings per diluted share was $0.28.
+And adjusted net earnings per diluted share was $0.27.
+Moving to Slide 5.
+Looking at our reporting segments in detail.
+Sales of foil technology products of $29.6 million declined 7.7% sequentially and were 19.3% lower than the fourth quarter a year ago.
+The quarter-to-quarter decline was due to lower sales of precision resistors in the test and measurement market.
+However orders for these products grew robustly in the fourth quarter of 2019 for both test and measurements and AMS customers as they place their semi-annual and annual orders.
+The result was a book-to-bill ratio of 1.18 for foil technology products in the fourth quarter which was up significantly from 0.91 in the third quarter.
+Gross margin for foil technology products of 34.9% declined from 37.3% for the third quarter due to lower sales volume of $1.5 million, unfavorable product mix of $300,000 and the one-time inventory adjustment of $200,000 which was partially offset by a reduction in manufacturing costs of $700,000.
+Looking at the force sensors segment, sales in the fourth quarter of $15.1 million declined 7.1% sequentially and were down 11.4% from the fourth quarter of 2018.
+The sequential decline was primarily due to OEM destocking in the precision weighing and force measurement markets.
+Book-to-bill for force sensors was 1.11 which grew from 0.94 in the third quarter of 2019.
+Fourth-quarter gross profit margin for force sensors of 24.2% decreased from 30.4% in the third quarter of 2019.
+The lower sequential gross profit reflected lower volume of $600,000, approximately $400,000 related to inventory reductions and $200,000 of one-time inventory adjustments.
+For the Weighing and Control Systems segment, fourth-quarter sales of $24.4 million increased 28.1% from the third quarter and were 5.2% higher than the fourth quarter a year ago.
+The sequential growth in revenue was primarily attributable to the addition of two months of BSI sales and continued good performance in both our process weighing business in Europe and our legacy steel business.
+Book-to-bill for weighing and controls was 1.15 which compared to 1.04 in the third quarter of 2019.
+The fourth-quarter gross profit margin for WCS segment of 41.6% or 46.8% excluding the purchase accounting adjustments of $1.3 million for the DSI acquisition, was in line with prior quarter's profit margins.
+Moving to Slide 6.
+Before turning the call to Bill for some additional financial details for the quarter, I would like to provide an update on a few of our -- of the strategic initiatives that are key elements of value-creation strategy.
+Turning to Slide 6.
+First, I would like to elaborate on the progress we are making to realign our manufacturing footprint.
+I already referenced facility closure and downsizing in the fourth quarter of 2019 which relate to transition of manufacturing of force sensors to India and China.
+We expect these moves to yield approximately $1.6 million of cost savings in 2020 excluding normal inflation and wage increases.
+In addition, our consolidation project in Modi'in, Israel is on track and we expect to start the relocation in the third quarter of 2020 and to complete the transition as we enter 2021.
+As we have discussed before, this is a major initiative that not only gives us an additional capacity we need to support the future growth of our advanced sensor business, but also consolidate certain legacy operations which will provide manufacturing efficiencies as the facility ramps production in 2021.
+We expect to incur approximately $2 million of start-up costs in the second half of this year as we complete the transition.
+Second, we are pushing forward on a number of VPG-specific growth initiatives.
+We continue to have a good customer engagement with respect to our advanced sensors as we grew sales of these products, 20% in 2019 compared to 2018.
+As we have described before, the unique design capabilities and cost-effective manufacturing platform of the advanced sensor business are enabling us to pursue higher volume opportunities which we were not able to address before.
+Another key initiative relates to our TruckWeigh and VanWeigh overload protection technology which grew 30% in 2019 from the prior year.
+We expect demand for this product to be further driven by adoption of new regulations in the EU that will require all trucks and vans with load capacities of more than three and a half tons to have this capability.
+While the regulation are still being finalized, they are expected to go into effect in the first half of 2021.
+We believe we are in the leading position in terms of our products capability, reliability and robustness, and we are already working with all the large OEMs to develop solutions that meet the new regulations.
+Third, among the strategic highlights for the quarter was the acquisition of Dynamic Systems, Inc. which was accretive in the fourth quarter.
+DSI is a great example of a bolt-on M&A opportunity.
+We believe we'll create value for VPG shareholders.
+It is an established, highly profitable company with a great novel technology that complements our existing footprint in the steel industry.
+We believe we have a great platform and a solid balance sheet to support value creating M&A, and we hope to make additional acquisitions in 2020.
+On Slide 7 of the slide deck.
+In the fourth quarter of 2019, we achieved revenues of $69.1 million, operating income of $1.8 million or 2.5% of revenues and net earnings per diluted share of $0.28.
+On an adjusted basis which exclude $1.7 million of costs and purchase accounting adjustments related to the DSI acquisition and $1.7 million of restructuring costs, our adjusted operating margin was $5.2 million or 7.5% of sales and adjusted net earnings per diluted share was $0.27.
+Continuing on Slide 7.
+Our fourth-quarter 2019 revenue of $69.1 million increased by 2.6% as compared to $67.4 million in the third quarter, and we were down 10.2% as compared to $77.0 million in the fourth quarter a year ago.
+Foreign exchange negatively impacted revenues by $500,000 for the fourth quarter of 2019 as compared to a year ago and had no impact as compared to the third quarter of 2019.
+Our gross margin in the fourth quarter was 35%.
+Excluding $1.3 million related to purchase accounting adjustments for the DSI acquisition, our gross margin on adjusted basis was 36.8% which declined from 38.3% in the third quarter.
+Our operating margin was 2.5% for the fourth quarter of 2019.
+If we exclude the above-mentioned purchase accounting adjustments, acquisition cost of $400,000 and restructuring expense of $1.7 million related to the facility closures and downsizing, as Ziv mentioned, our fourth-quarter adjusted operating margin was 7.5% as comparted to 10% in the third quarter of 2019.
+The adjusted gross margin for the fourth quarter of 2019 included approximately $1.1 million of inventory reductions and inventory-related adjustments which are not expected to reoccur.
+Excluding these inventory-related factors, adjusted gross margin would have been 38.5%, above the 38.3% we reported in the third quarter of 2019.
+Selling, general and administrative expenses for the fourth quarter of 2019 were $20.2 million or 29.2% of revenues.
+This compared to $20.9 million or 27.2% for the fourth quarter last year and $19.1 million or 28.3% in the third quarter.
+The higher sequential SG&A in the fourth quarter reflected the inclusion of two months of SG&A expenses for DSI which were partially offset by a reduction in bonus accrual reserves.
+The adjusted net earnings for the fourth quarter of 2019 were $3.7 million or $0.27 per diluted share compared to $5.0 million or $0.37 per diluted share in the third quarter of 2019.
+While impact of foreign exchange rates for the fourth quarter was modest compared to the third quarter, they had a much bigger effect compared to the fourth quarter a year ago, impacting net earnings by $900,000 or $0.07 per diluted share.
+We generated adjusted free cash flow of $4.1 million for the fourth quarter of 2019 as compared to $4.8 million for the third quarter of 2019.
+We define free cash flow as cash generated from operations which was $6.3 million for the fourth quarter of 2019, less capital expenditures of $2.6 million and sales of fixed assets of $400,000.
+We recorded a tax benefit of $3.4 million in the fourth quarter of 2019 related to the acquisition of DSI, utilizing our deferred tax liabilities against deferred tax assets.
+We are assuming an operational tax rate in the range of 27% to 29% for our 2020 planning purposes.
+Reflecting the $40.5 million paid for DSI, we ended the fourth quarter with $86.9 million of cash and cash equivalents and total long-term debt of $44.5 million.
+With a net leverage ratio of about one time, we believe that our balance sheet remains very strong and we have ample liquidity to support our business requirements and to fund additional M&A opportunities.
+Turning to our outlook.
+While we see signs of bottoming in some of our industrial markets, there continues to be a number of uncertainties in the macroeconomic environment including the potential spread of the coronavirus.
+We currently expect net revenues in the range of $63 million to $70 million for the first fiscal quarter of 2020 which reflect the portions of our project-driven business and customers longer lead time orders that are expected to ship in the quarter and assumes constant fourth-quarter 2019 exchange rates.
+In summary, our sales for the fourth quarter were at the high end of our expectations, and we ended the quarter with a very strong book-to-bill.
+Our manufacturing consolidation projects are on track for on-schedule completion.
+And we believe we have the long-term growth and cost strategies in place to achieve our three-year financial targets.

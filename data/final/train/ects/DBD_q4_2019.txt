@@ -1,0 +1,203 @@
+This is the Diebold fourth-quarter earnings call for 2019.
+For your benefit, we posted slides which will accompany our discussion today.
+And our slides are available on the investor relations page of dieboldnixdorf.com.
+In the supplemental schedules of our slides, we have reconciled each non-GAAP metric to its most directly comparable GAAP metric.
+Additional information on these factors can be found in company's SEC filings.
+And now, I'll pass the mic to Gerrard.
+2019 was a good year for the company as we executed on our DN Now transformation initiatives and delivered financial results which were in line or better than our expectations.
+To set the stage a bit, I want to reflect for a moment on where we were one year ago.
+We were in the early stages of streamlining our operating model and simplifying our portfolio and we have clear goals for strengthening our balance sheet.
+Fast forward to today, after year 1 of DN Now and we have met or exceeded on every commitment we made and are on track for future targets.
+As shown on Slide 3, we reported total revenue of just over $4.4 billion which was within our initial range, and our results also included substantial currency headwinds of approximately $150 million.
+We delivered adjusted EBITDA of $401 million which was within our initial outlook from February of 2019, and which represents a 25% increase over 2018.
+And also included a foreign exchange impact of approximately $7 million.
+Most importantly, we exceeded our free cash flow target, generating $93 million versus our initial expectation of breakeven.
+In line with our focus, these results demonstrate meaningful improvements in profitability and cash flow.
+We increased our non-GAAP gross margin by 280 basis points to 25.2% with strong margin expansion in all three segments and business lines.
+Our progress enabled DN to boost its adjusted EBITDA margin by 210 basis points to 9.1%.
+Free cash flow increased by $256 million.
+And unlevered free cash flow jumped by $315 million reflecting our companywide focus on driving both operating and net working capital efficiencies while delivering these against the backdrop of significantly stronger customer satisfaction levels.
+Our progress reduced our leverage ratio by more than a full turn, ending 2019 at 4.4 times.
+With this progress, our core business has a stronger foundation yielding a more focused and efficient company.
+I'm extremely pleased with how the entire team at DN focused on our shared goals.
+It is because of our people that we are executing in line with our plan.
+On Slide 4, you'll see a list of operating achievements for 2019.
+For our banking customers, we enhanced our differentiation by launching our next-generation platform called DN Series, the most IoT-enabled platform on the market.
+We also introduced a new cloud-based analytics platform called the AllConnect data engine, through which we will further differentiate our services capabilities.
+During the fourth quarter, key wins included a multimillion dollar global agreement for dynamic software and DN Series ATMs with Citibank.
+In Belgium, we won a multiyear ATM-as-a-Service agreement to update and maintain approximately 1,560 ATMs with a joint venture called JoFiCo.
+Our end-to-end solution features our DN series units, a common DN dynamic software stack and cloud-based analytics from our AllConnect DataEngine.
+Banking product orders in Q4 declined year over year as we're up against a strong result from the fourth quarter of 2018 especially in Latin America.
+As we enter 2020, we expect some easing of demand from large North American banks as they complete their upgrade efforts.
+In the retail segment, we increased our retail self-checkout shipments by more than 50% in 2019.
+More recently, a leading market research firm in our space, retail Banking Research, recognized Diebold Nixdorf as the largest self-service kiosk provider in the world.
+In the fourth quarter, we won a new $6 million contract at the U.S. value retailer for kiosks and dynamic software.
+Continued growth in self-checkout orders and the easing of point-of-sale orders were in line with expectations in the quarter.
+As the market for point-of-sale solutions evolves, D&S responding with introduction of an all in one point-of-sale system that brings together the latest technology in the stylish space saving design.
+Important wins in the quarter included a $15 million contract with the Swiss gaming cooperative for 5,000 point-of-sale terminals, and a new 3-year $14 million agreement with a European do-it-yourself retailer to refresh the end-to-end customer checkout experience at several hundred stores spanning 12 countries.
+When I reflect on 2019, the greatest accomplishments are those which require coordination across large sections of the company.
+For example, we're very encouraged by the broad-based success of our services modernization plan which includes proactively upgrading hardware of software on more than 140,000 terminals and implementing standard practices globally.
+Similarly, we have substantially increased our product gross margins by streamlining our manufacturing footprint, improving product pricing strategies and optimizing the number of ATM models.
+In addition, we dramatically improved the efficiency of our inventory levels, collections and payables which added $110 million to our cash flow and our improving performance led to a successful extension of nearly $800 million of credit in August.
+With these accomplishments in the books, we enter the second year of our DNA transformation with momentum across our efforts and confidence in our strategic direction.
+Slide 5 summarizes our key DN Now initiatives which are positively impacting both the quality of revenue and the efficiency of operations.
+Our execution momentum gives us confidence to increase our targeted gross savings from $400 million to $440 million through 2021.
+I'll comment briefly on several initiatives that have been in place for several quarters.
+First, the transition to our new operating model is complete and about $100 million of savings have been realized in 2019.
+Next, we'll continue to simplify our product portfolio and further optimize our manufacturing footprint.
+Heading into 2020, our focus is squarely on realizing the benefits from our next-generation banking solution, the DN Series.
+Earlier in the call, I spoke about the actions and significant achievements of our services modernization plan.
+While we're pleased with our progress, we believe there is further room to improve service delivery and operating efficiency.
+In addition, we launched a new series of actions called software excellence aimed at improving our software operations and gross margins.
+We are enhancing professional services delivery by optimizing our resources and improved presales scoping.
+Within our software products, we're simplifying our offerings and placing a greater emphasis on software development effectiveness.
+Our efforts to reduce general and administrative expenses picked up steam in Q4, and are expected to deliver meaningful savings in 2020 as we build a fit-for-purpose support structure for our business.
+I've already mentioned our 2019 success on net working capital, and we are continuing to pursue efficiencies on this important metric.
+The final initiative on this slide is divesting non-core assets, enabling us to focus on businesses that meet our return hurdles, creating value for shareholders.
+In 2019, we divested or shut down a half a dozen businesses which generated about 2% of revenue.
+During Jeff's remarks, he will discuss our focus on revenue quality in greater detail, including two additional transactions which further simplify the company's business operations, enhance liquidity and reduce risk.
+On Slide 6, I'll discuss the progress we're making to simplify our product portfolio.
+We successfully reduced the number of ATM terminals by about 30% in 2019, and we have solidified plans to further reduce legacy terminals by about 45% in 2020.
+When coupled with changes to our manufacturing footprint and better rigor on contract bids, we expanded our non-GAAP product gross margin by 310 basis points in the quarter to 22% which is a multi-year high for the company.
+Going forward, we expect to build on our success with the rollout of DN Series.
+Early field performance results are confirming substantially higher performance levels than our already strong field performance from prior models.
+Customer reactions have remained very positive.
+And they see a compelling value proposition, including a more modular and upgradable design which includes our next-generation cash recycling technology, advanced sensor technology and connectivity to the DN AllConnect Data Engine which will increase uptime and offer a better customer experience, greater load capacity, improved reliability and industry-leading security features in a smaller footprint.
+And increased options for personalization and branding.
+We have initiated the certification process for DN Series with 240 customers across 35 countries.
+Our sales pipeline is growing nicely and we fully expect to ramp production as many certification processes are completed in the next few months.
+Slide 7 contains key performance metrics for our services modernization plan.
+Our service renewal rate continue to exceed 95% during the fourth quarter while our contract base of ATMs remained stable at 582,000.
+This chart shows our revised contract based figures which exclude about 35,000 units in China, following our reduction in ownership, the strategic alliance as part of our non-core asset divestiture actions.
+As minority owners, services revenues from these units will be deconsolidated going forward.
+The recent trend in contract base units reflects our focus on making the business more profitable.
+We have completed much of this important work.
+And as a result, we expect the services contract base to expand modestly to 590,000 by year-end 2020.
+In addition, evolving customer demands have created a growing opportunity for managed services, and we're excited about the potential for securing these contracts.
+Our gross services margin increased 330 basis points versus the prior year to 28.2% in the fourth quarter.
+Once again, both retail and banking contributed to these gains.
+This is the sixth quarter since we launched the program, and we have consistently delivered strong year-on-year gross margin expansion.
+Our momentum underpins our confidence in achieving full-year gross margins of 28% to 29% by 2021.
+Looking forward to 2020, our service priorities include continuing our modernization program across both banking and retail, growing our services contract base of ATMs and self-checkout terminals and leveraging our AllConnect Data Engine across more of our estate.
+On Slide 8, I'll cover our initiatives to further reduce general and administrative expenses.
+This is a key opportunity for DN in 2020 to further improve our effectiveness and efficiency.
+Within the finance organization, we are executing on centralizing our accounting processes, making greater use of shared services and increasing automation.
+In Q4, we built meaningful momentum.
+And Jeff will provide more details about our plans to realize substantial savings from these actions over the next few quarters.
+During 2019, we reduced our IT spend by consolidating data centers, ramping down spend on legacy platforms and by proactively improving the resiliency and utility of our systems.
+In 2020, we are shifting our focus to digitally enabling more capabilities across the company.
+So while we continue to rationalize our legacy systems, our greater focus.
+We are implementing new tools to support our digital transformation.
+We also continue with our procurement rigor and are proactively managing external spend.
+Looking forward, we see incremental benefits to be realized.
+With respect to our real estate footprint, we reduced our office square footage by about 10% by closing or rightsizing more than 40 locations.
+For 2020, our goal is to reduce office space by another 10%, while also implementing more agile workforce practices.
+In the fourth quarter, we were pleased to drive non-GAAP SG&A expense to $169 million, our low point for the year.
+Looking forward, we expect our initiatives will harvest further efficiencies from functional G&A costs in 2020.
+Before I hand over to Jeff, I want to address what we're seeing with respect to the coronavirus situation.
+Our first priority focuses on the safety of our employees, customers and suppliers, and we're closely monitoring all developments.
+We are also playing close attention to the impact that this developing situation may have on our supply chain, production and logistics.
+As you're aware, many Chinese companies resumed production only yesterday, and with partial capacity and the situation, therefore, remains fluid.
+Our current view is that we may incur higher freight costs and could experience potential delays from our suppliers as they work to return to normalcy in a way that ensures worker safety.
+We're being proactive in developing alternative supplier strategies and have initiated efforts with other technology providers in exploring potential broader solutions to mitigate any supply chain disruptions.
+At this stage, the situation remains dynamic, and any near-term impact should not change our long-term trajectory.
+Now, over to Jeff for a discussion of our financial performance before I rejoin with a few concluding remarks.
+2019 was a very strong year as we took major steps forward in our journey to value creation and are looking forward to building on that success in 2020.
+Slide 9 contains our fourth-quarter financial highlights which are squarely in line with the company's outlook.
+Excluding the impact from foreign currency headwinds and our divestitures, revenue declined 8.1% to $1.15 billion for the quarter.
+Many of you should recall that we reported exceptional strength in our product revenue in the fourth quarter of 2018 which was approximately $50 million more than we would typically expect, resulting in an unfavorable comparison.
+In the fourth quarter and throughout 2019, we have focused on higher-quality revenue.
+And that have been proactively reducing our exposure to lower-margin business which had a fourth-quarter revenue impact of approximately $40 million.
+As a result, the year-over-year comps for the fourth quarter are not indicative of our 2020 revenue expectations.
+These efforts, coupled with our DN Now progress, are producing tangible and sustainable gains to gross profit, operating margin and adjusted EBITDA margin.
+We increased gross margins by 300 basis points to 26.3% which translates to higher gross profit of $3 million.
+Higher gross profit, coupled with lower operating expenses, enabled the company to boost operating profit by 20% from $83 million to $100 million.
+Correspondingly, our operating margin increased by 230 basis points to 8.7%, while the adjusted EBITDA margin improved 180 basis points to 11.4%.
+Return on invested capital was approximately 10% in 2019, much better than our mid-single-digit result in 2018.
+Going forward, we will continue to be selective about how we go-to-market and build on this momentum which you will see reflected in our 2020 outlook.
+We believe this will set us up nicely to execute on our growth initiatives for 2021 and beyond.
+Slides 10 through 12 contain segment financials for the fourth quarter and full year.
+On Slide 10, we disclose highlights for Eurasia Banking which were in line with our expectations.
+Excluding currency and divestiture, revenue declined 8.8%.
+The year-on-year variance was primarily due to our proactive efforts to address low margin business.
+These actions include our service contract renewal discussions, higher margin thresholds on new deals as well as decline in certain non-core businesses which are in the process of being divested.
+Operating profit through Eurasia Banking was impacted by revenue volume as well as a higher mix of professional services which has a lower software gross margin.
+On the plus side, we continue to drive higher gross service margins for this segment from our DN Now initiatives.
+For the full year, revenue declined 2.4% adjusted for currency, divestitures and other actions.
+This decline was primarily due to our actions to harvest low margin business.
+Partially offsetting these trends, we delivered product revenue growth from customers in EMEA.
+Operating profit increased by $19 million or 13% to $169 million, and includes foreign currency headwinds of approximately $10 million.
+Our operating profit gains reflect DN Now's success in driving higher service and product gross margins as well as lower operating expenses.
+Slide 11 provides financial highlights for Americas Banking.
+Fourth-quarter revenue declined 1.5% after adjusting for currency headwinds and divestitures.
+During the quarter, we experienced lower product volume in Latin America, partially offset by product and software growth in North America.
+Operating profit nearly tripled in the quarter from $14 million to $40 million when compared with the prior-year period.
+Again, execution of our DN Now initiatives resulted in a 630 basis point expansion of the profit margin to 9.5%.
+For the full year, revenue increased 7% excluding the impact of currency divestitures and related actions.
+ATM upgrades, the adoption of cash recyclers and increased software activity fueled these revenue gains.
+In our services businesses, we exited certain contracts which did not align with our gross margin hurdle rates.
+Operating profit increased by more than $100 million to $120 million primarily due to our DN Now initiatives and revenue growth.
+This is, by far, the best performance in Americas Banking's operating profit and margins since the combination.
+Moving to Slide 12.
+retail results were in line with expectations.
+Revenue decreased 15% after factoring in currency headwinds and divestitures due primarily to a challenging comparison.
+Our fourth-quarter 2018 retail revenue was approximately $50 million or 15% above our quarterly average as we delivered on a number of large POS refresh contracts.
+Within this segment, we continue to grow self-checkout product revenue as we experienced lower POS sales versus the prior year.
+Another factor is our strategic decision to reduce our exposure to low-margin business such as shuttering our consulting business and discontinuing the reselling of certain low margin hardware from third-party suppliers.
+Higher quality revenue and better cost structure from the DN Now initiatives, increased operating profit by 62% to $21 million.
+For the full year, retail revenue decreased 2.5%, again, excluding the impact of currency divestitures and related actions.
+Operating profit increased by 23% to $58 million as we benefited from a more favorable mix of self-checkout products, higher services gross margins attributable to our services modernization plans and lower operating expenses.
+Referencing Slide 13, I am pleased with our team's ability to generate $93 million of free cash flow for the full year of 2019.
+On a year-on-year improvement of $256 million demonstrates the broad-based commitment to financial discipline across the company.
+The DN Now initiatives were the key to our success as we increase adjusted EBITDA to $401 million and harvested $110 million of net working capital.
+To put a finer point on our improvements, the company reduced net working capital as a percentage of revenue by 440 basis points from 18.3% to 13.9%.
+Our free cash flow progress is even more impressive, considering that we offset $60 million of incremental interest payments.
+Unlevered free cash flow was $275 million, an improvement of $315 million.
+For the fourth quarter, the company generated free cash flow of $116 million and unlevered free cash flow of $168 million.
+While these metrics are squarely in line with our expectation, they do represent a quarter-over-quarter decline as we have focused on working capital management throughout the year versus the fourth-quarter push in 2018.
+A summary of our liquidity, leverage and capital structure can be found on Slide 14.
+The company has sufficient liquidity to meet its seasonal cash flow needs, invest in R&D and fund our DN Now transformation program.
+Total liquidity of approximately $770 million includes nearly $388 million of cash plus available credit.
+Company ended the year with gross debt of $2.1 billion and net debt of $1.76 billion.
+Our leverage ratio continues to improve declining to approximately 4.4 times at year-end.
+Over the next few weeks, for our credit agreements, we will use approximately $50 million of our free cash flow to pay down secured debt reducing 2020 interest cost.
+To the right side of this slide, we provide our debt maturity schedule.
+While there are no meaningful maturities in 2020 and 2021, we continue to develop strategies to reduce our weighted average cost of capital through the optimization of our capital structure, reduction of interest rates and extension of maturities.
+Today, we launched a process to obtain an amendment with our secured lenders which will allow us to -- greater flexibility to issue additional sources of long-term secured or unsecured debt.
+On Slide 15, we outlined our finance transformation actions and savings targets.
+Our finance and accounting transformation is a good example of the opportunities to harvest efficiencies from our G&A functions.
+We are replacing our legacy structure, enforcing standard processes and leveraging new tools to automate tasks.
+At a high level, DN will follow in the footsteps of many other global companies in centralizing back office resources and regionalizing compliance activities.
+Our workforce streamlined finance, personnel and processes which should lead to incremental G&A savings of $30 million in 2020 and another $20 million in 2021.
+Subsequent to the quarter, the company made significant progress in divesting non-core businesses.
+First, the company finalized the transaction to consolidate its joint venture operations in China with the Inspur Group.
+As a result, DN will repatriate approximately $25 million of cash and become a minority shareholder in the combined operations.
+Moving from approximately 55% ownership to approximately 48% ownership.
+Due to our minority ownership status in the consolidated JV, we will report pro rata profit or loss on the P&L as equity and earnings of unconsolidated subsidiaries, deconsolidating approximately $50 million of future revenue.
+We believe this transaction is important step in strengthening our partnership with Inspur while reducing our risk and exposure to challenging ATM market conditions in China.
+In a separate transaction, the company signed a definitive agreement to sell its 68% ownership stake in Portalis to Data Group.
+This non-core business provides application management and IT infrastructure, outsourcing solutions to certain financial institutions in Germany.
+The transaction is expected to close by the end of the first quarter of 2020, and is subject to customary closing conditions.
+DN will harvest approximately $10 million in cash for 68% interest and will receive relief from future liabilities, including capital and pension obligations while maintaining good relationships with common customers.
+During 2019, this business generated revenue of approximately $60 million.
+On Slide 16, we discuss our 2020 outlook.
+We are expecting revenue will be relatively flat excluding approximately $110 million impact from our recent divestitures and reflecting expected currency fluctuations.
+Adjusted EBITDA is expected to be in the range of $430 million to $470 million reflecting approximately $130 million of DN Now savings, plus $25 million for growth initiatives, $10 million of nonrecurring profit from our divestitures, and typical inflation headwinds and other items.
+When compared with 2019, we expect 2020 results will be slightly more weighted to the second half of the year.
+Specifically, we expect to generate approximately 45% of our annual revenue and approximately one-third of adjusted EBITDA during the first half of the year.
+This reflects the timing of our product backlog, our DN Now initiatives and the priorities of our services business.
+Additionally, as Gerrard mentioned, we are working with 240 customers and certifying our DN Series, so it follows the production activity or ramp in the second half of the year.
+From a free cash flow perspective, we expect to generate between $100 million and $130 million for 2020, including the following components, an EBITDA midpoint of $450 million and net working capital benefits of approximately $30 million.
+Net interest payments of approximately $170 million.
+Restructuring cash outflows of approximately $80 million.
+Capital expenditure is approximately $70 million which includes certain investments in our internal systems supporting our digital transformation.
+And cash taxes and other payments of approximately $45 million.
+And now, I will hand the call back to Gerrard for closing remarks.
+In closing, following a successful year of execution in 2019, we entered the new year in a stronger financial position with solid execution momentum and a more efficient core operation.
+We will advance our strategy as we expand our differentiation with DN Series, the AllConnect Data Engine, more sophisticated self-checkout solutions and the strength of our services organization.
+Secondly, by laying the groundwork for future revenue growth opportunities by making targeted investments in services and software.
+And thirdly, by continuing to streamline the business, embrace standard processes and operate as efficiently as possible.
+And fourthly, by continually strengthening our balance sheet.
+This is our path forward toward long-term sustainable value creation.
+To learn more about Diebold Nixdorf and our plans for value creation, I'd like to invite investors to join the management team for a discussion of our strategy, market opportunities and financials on Thursday, May 21st in New York.
+Please mark your calendars and be on the lookout for registration information from Steve Virostek.

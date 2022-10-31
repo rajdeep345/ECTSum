@@ -1,0 +1,120 @@
+First, I'd like for Brian to give the safe harbor statement.
+Next, I'll have some comments on our quarter and then Brian will review the details of our results.
+I'll end with some additional comments, and then we'll take questions.
+We would refer you to our Form 10-K and other SEC filings for more information on those risks.
+Please note that all growth comparisons we make on the call today will relate to the corresponding period of last year unless we specify otherwise.
+Our third quarter results were exceptionally strong, building on the momentum we established in the first half of the year.
+This was our first full quarter including NIC's results, and it was our best quarter ever by most financial measures.
+We achieved new quarterly highs in revenues, non-GAAP EPS, free cash flow, adjusted EBITDA, bookings and backlog.
+Total revenues grew 60.9% with organic growth of 7.6%.
+As a result of the surge in the Delta variant, NIC's COVID-19-related revenues from TourHealth and pandemic unemployment initiatives were significantly above plan at $43.3 million.
+We had expected those revenues, which have relatively low margins to wind down in the second half of the year, but we now expect they will continue into the first half of 2022.
+NIC's core revenues grew 5% in the quarter.
+Recurring revenues comprised over 80% of our quarterly revenues for the first time and were led by 183% growth in subscription revenues.
+Excluding NIC revenues, subscription revenue growth was robust at 23.9%, reflecting our accelerating shift to the cloud.
+We have now achieved greater than 20% subscription revenue growth in 55 of the last 63 quarters.
+Software licenses and services revenues grew 13.9% or 2% excluding NIC.
+As expected, our margins compressed compared to last year's third quarter.
+Some expenses like trade shows and employee health claims as well as lower margin revenues like billable travel that declined in 2020 due to COVID pandemic have begun to return this year.
+Margins were also impacted by the inclusion of NIC and particularly, by the continuation of their lower-margin COVID initiative revenue.
+As a result, our non-GAAP operating margin declined 330 basis points to 25.3%.
+Excluding NIC's COVID initiative revenues and related costs, our non-GAAP operating margin was 26.8%.
+Bookings reached a record high in the third quarter at approximately $601 million, more than double last year's third quarter.
+Excluding NIC, bookings grew 51.9%, with the biggest contributor being the $63 million renewal of our fixed fee e-filing arrangement with the state of Illinois.
+We're very pleased to report early success this quarter with joint sales efforts between NIC and Tyler Solutions teams.
+We signed agreements with the Virginia Department of Housing and Community Development valued at approximately $24 million to provide a digital and call center solution for tenant, landlord and third-party filing of rent relief program claims.
+We'll also provide administrative dashboards from our Socrata Data & Insight solutions as well as payment processing capabilities.
+Our largest software deal in the quarter also came from NIC with $6.1 million SaaS contract with the West Virginia Division of Motor Vehicles for digital titling.
+This new digital vehicle titling and registration management system will go beyond modernization and revolutionize how the DMV manages vehicles and interacts with businesses and citizens.
+In addition to the streamlining of nearly every vehicle-related process in place today, many legacy paper processes will be fully replaced with secure digital solutions.
+The solution utilizes technology to govern and secure the vehicle ownership process, adding security, reducing fraud and providing the flexibility that other state DMV's operations are lacking.
+The arrangement, which leverages our state master agreement has an initial term of five years.
+In addition to the SaaS fees, the agreement will generate estimated transaction revenue of more than $3 million per year.
+I'd like to also highlight a few more significant deals signed this quarter.
+We signed appraisal services contracts with the Delaware Counties in New Castle and Kent.
+In addition, New Castle County selected our iasWorld appraisal solution under a SaaS arrangement.
+The deals have a combined value of approximately $19 million.
+Coupled with the appraisal services contract signed last quarter was Sussex County, Tyler will now be performing a property reassessment for the entire state.
+Also for our iasWorld Property Tax and Appraisal solution, we signed SaaS arrangements with the regional municipality of Wood Buffalo in Alberta, Canada, valued at approximately $3.1 million.
+Franklin County, Ohio, valued at approximately $3.5 million and Summit County, Ohio, which also includes our Data & Insights Solutions, valued at approximately $2.9 million.
+Other major SaaS deals included a $4.5 million contract with Arlington Heights, Illinois for our ERP civic services and payment solutions and a $3.4 million contract with Bayer County, Texas for our Odyssey, SoftCode and Supervision Justice solutions.
+Our largest perpetual license contract for the quarter was a $5.4 million contract to provide our MicroPact and entellitrak solution to manage COVID vaccination at stations for the U.S. Department of Justice.
+We also signed a $2.5 million on-premises license contract with the Commonwealth of the Northern Mariana islands for our Munis ERP and Enterprise Asset Management, ExecuTime and Socrata solutions.
+We also signed several significant contract renewals with existing clients, including extensions of NIC's state enterprise agreements with the states of Utah and Oklahoma, and a five year renewal of our e-filing arrangement with the state of Illinois, which was expanded to include applications from our Socrata Data and Insights platform.
+On last quarter's call, we reported that NIC had been selected as one of two vendors to provide the Internal Revenue Service with a digital payment processing solution that would allow taxpayers to securely pay their federal taxes, and that revenue under that contract was expected to begin in January of 2022.
+Following the award, three entities filed protest with the GAO.
+Prior to any ruling on the protest by the GAO, the IRS notified the GAO that it was canceling the two awards, including the award to NIC.
+While the IRS has not formally terminated NIC's contract, it has issued a stop work order under the contract.
+The IRS indicated that it will either amend the current solicitation, allowing all bidders to modify their previous submissions and then reevaluate the proposals or terminate the existing solicitation and start the process over with a new procurement in the coming months.
+The IRS has not yet stated which of these options it will select and we have no information regarding the potential timing of either option.
+Given these recent developments, we do not expect to recognize any revenue under the IRS award in 2022.
+While the specific concerns raised in the protests have not been made public and are not known by Tyler, the decision to cancel the award to NIC was not related to NIC's performance under the contract, its ability to successfully perform under the contract or any allegations of misconduct or improper behavior by NIC.
+On the M&A front, we completed the acquisitions of VendEngine and Arx during the third quarter.
+VendEngine is one of the fastest-growing technology companies in North America, operating in more than 230 counties and 32 states.
+Its leading cloud-based platform provides a comprehensive suite of applications focused on the corrections market, including deposit technologies for commissary, ordering and warehouse management and various informational electronic communications, security, accounting and financial trust management components.
+Arx is a cloud-based software platform, which creates accessible technology to enable a modern day police force that is fully transparent, accountable and a trusted resource to the community it serves.
+The acquisition of Arx allows Tyler to offer a full suite of public safety solutions, including Arx Alert and Arx Community, designed to maximize efficiency and safety for law enforcement officers while increasing transparency and trust building with communities.
+VendEngine and Arx have combined ARR of approximately $17.5 million and their additions further strengthen Tyler's Justice and Public Safety suites.
+Now I'd like for Brian to provide more details on the results of the quarter.
+Yesterday, Tyler Technologies reported its results for the third quarter ended September 30, 2021.
+GAAP revenues for the quarter were $459.9 million, up 60.9%.
+Non-GAAP revenues were $460.6 million, up 61.1%.
+On an organic basis, GAAP and non-GAAP revenues grew 7.6% and 7.5%, respectively.
+Software license revenues rose 13.7%.
+Subscription revenues rose 183.3%.
+Excluding the contribution from NIC, subscription revenues were still very strong, growing 23.9%.
+We added 144 new subscription-based arrangements and converted 67 existing on-premises clients, representing approximately $84 million in total contract value.
+In Q3 of last year, we added 114 new subscription-based arrangements and had 46 on-premises conversions, representing approximately $56 million in total contract value.
+Subscription contract value comprised approximately 74% of total new software contract value signed this quarter compared to 47% in Q3 of last year, reflecting our ongoing shift to a cloud-first approach to sales.
+The value weighted average term of new SaaS contracts this quarter was 3.4 years compared to 4.3 years last year.
+Transaction-based revenues, which include NIC portal, payment processing and e-filing revenues and are included in subscriptions, were $171.2 million, up more than sixfold from last year.
+E-filing revenues reached a new high of $17.4 million, up 15%.
+Excluding NIC, Tyler's transaction-based revenues grew 24.3%.
+For the third quarter, our annualized non-GAAP total recurring revenue, or ARR, was approximately $1.5 billion, up 79.2%.
+Non-GAAP ARR for SaaS software arrangements for Q3 was approximately $330 million, up 24.7%.
+Transaction-based ARR was approximately $685 million, up 639%.
+And non-GAAP maintenance ARR was flat at approximately $471 million.
+Our backlog at the end of the quarter was $1.77 billion, up 14.3%.
+Because the vast majority of NIC's revenues are transaction-based, their backlog at quarter end was only $27 million.
+Excluding the addition of NIC, Tyler's backlog grew 12.6%.
+As Lynn noted, our bookings in the quarter were very robust at $601 million, up 105.7% and includes the transaction-based revenues of NIC.
+On an organic basis, bookings were strong at approximately $444 million, up 51.9% fueled by the renewal of the State of Illinois fixed e-filling filing arrangement of approximately $63 million and the addition of the two Delaware appraisal deals totaling $19 million.
+For the trailing 12 months, bookings were approximately $1.6 billion, up 31.3%.
+And on an organic basis, were approximately $1.4 billion, up 10.8%.
+Our software subscription bookings in the third quarter added $19 million in new annual recurring revenue.
+Cash from operations and free cash flow were both record highs for the third quarter at $205.4 million and $192.8 million, respectively.
+Our balance sheet remains very strong.
+During the quarter, we repaid the outstanding balance of $65 million on our revolver and paid down $57.5 million on our term loans for a total debt reduction of $122.5 million.
+We ended the quarter with total outstanding debt of $1.428 billion and cash and investments of $348.4 million, and net leverage of approximately 2.3 times trailing pro forma EBITDA.
+We expect the net leverage to be approximately two times by year-end.
+We have raised our revenue and earnings per share guidance for the full year 2021 to reflect our strong year-to-date performance and our expectations for the fourth quarter.
+We expect 2021 total GAAP revenues will be between $1.577 billion and $1.597 billion, and non-GAAP total revenues will be between $1.580 billion and $1.6 billion.
+We expect total revenues will include approximately $72 million of COVID-related revenues from NIC's TourHealth and pandemic unemployment services that are expected to wind down in the first half of 2022.
+We expect 2021 GAAP diluted earnings per share will be between $3.55 and $3.63 and may vary significantly due to the impact of stock incentive awards on the GAAP effective tax rate.
+We expect 2021 non-GAAP diluted earnings per share will be between $6.94 and $7.02.
+I'm extremely pleased with our third quarter results, both from Tyler's core operations and from NIC in its first full quarter as part of Tyler.
+When we spoke to investors in June, we discussed four priorities around the NIC acquisition for 2021.
+First, don't mess up the business; second, achieve our 2021 plans for both businesses; third, retain NIC staff and establish a long-term leadership team; and fourth, identify and launch joint strategic initiatives and get our sales teams aligned.
+I'm happy to say we are executing on all of those objectives.
+Both businesses are executing at a high level and are exceeding our 2021 plans.
+The NIC team under the leadership of Elizabeth Proudfit is enthusiastic about the combination and the opportunities ahead with Tyler.
+And we've hit the ground running, with teams actively working on integration and go-to-market strategies.
+We're showcasing Tyler products to NIC's entire state general manager team, and NIC's general managers are providing detailed reviews of the NIC State Enterprise contracts and relationships for Tyler's team.
+We've also established a payments technology integration plan and are in the process of finalizing the joint Tyler NIC payments organization.
+We've already had some early success in joint opportunities, such as our contract with the Colorado Department of Regulatory Agencies that includes NIC payment processing, Tyler's entellitrak regulatory solutions and our Socrata Data & Insights platform, as well as the recent NIC contract with Virginia for a solution for the rent relief program, which also includes Tyler Socrata applications.
+We have a current pipeline of more than 40 qualified sell-through opportunities with NIC's state enterprise market across multiple Tyler solutions and have identified Tyler sales opportunities leveraging NIC State Enterprise contracts, to speed up the time from award to contract.
+We're also beginning to build our combined payments pipeline with early sales in Florida and Louisiana.
+We continue to see positive trends in public sector market activity.
+Indicators such as proposals, sales demonstrations and pipelines are all up significantly from 2020 and are generally at or, in some cases, above pre-COVID levels.
+Our competitiveness remains strong as reflected by high win rates across our major applications.
+While not yet a significant factor, we're starting to see purchasing activity that is identified as being funded through the federal stimulus under the CARES Act and American Rescue Plan.
+We expect that the $350 billion of aid to state and local governments and $167 billion of aid to schools under the American Rescue Plan Act will provide a significant measure of relief to budget pressures faced by many of our clients and prospects and potentially provide a tailwind over the next two to three years.
+A survey by the National Association of CIOs indicated that most state CIOs expect that remote work will continue and the need for digital services will increase.
+CIOs said they plan to modernize legacy systems in the next two years with human services and public welfare, labor and employment and health services noted as priorities.
+Tyler is well positioned to help public sector leaders address those needs.
+We also remain on track with our R&D projects around our cloud initiative and with our progress toward hosting new SaaS implementations and on-premises conversions in AWS.
+Our cloud operations team is engaged in 2022 planning with a focus on continued product optimization, data center migration and operations maturity.
+Kevin is a seasoned IT leader with experience managing technology infrastructures for corporations, statewide judicial courts, statewide executive government agencies and U.S. military organizations, most recently serving as CIO for the Idaho Judicial branch.
+Kevin will work closely with our former CIO, Matt Bieri, until Matt's retirement early next year.
+I'd also like to express our deep appreciation to Matt for his tremendous leadership of our IT and hosting organization over the last 11 years and wish him the best in his retirement.
+With that, we'd like to open up the line for Q&A.

@@ -1,0 +1,148 @@
+In particular, the extent of the continued impact of COVID-19 on our business remains uncertain at this time.
+During today's call, we will discuss GAAP and non-GAAP financial measures.
+As for the content of today's call, Kevin will start with a discussion of the business.
+And Lewis will follow with a recap of Dolby's financial results and provide our fourth quarter, second half and fiscal 2021 outlook.
+Q3 was another strong quarter for Dolby.
+Our revenue and earnings for the quarter were solid, and we are on track to deliver annual revenue growth of over 10% and year-over-year earnings growth at an even higher rate.
+At the same time, Dolby experiences are accessible to a growing number of people around the world, highlighted by the launch of Dolby Atmos on Apple Music and the Tokyo Olympics broadcasted in Dolby Vision and Dolby Atmos.
+Before Lewis takes you through the numbers, I wanted to highlight the recent progress we have made in enabling Dolby experiences across a much broader range of content, which creates opportunities for continued revenue and earnings growth.
+The inclusion of Dolby Atmos on Apple Music marks a significant step forward in bringing Dolby Atmos Music to a much larger audience and establishing it as the best way to create and listen to music.
+The Dolby Atmos music experience has been prominently featured by Apple and has been met with positive and enthusiastic reactions from artists, industry partners and consumers.
+Apple Music subscribers around the world can easily access albums and playlists of Dolby Atmos songs and can enjoy their music across Apple's wide range of products that support the combined Dolby experience.
+And recently, Dolby Atmos-enabled Android devices can also enjoy Dolby Atmos on Apple Music.
+Beyond Apple Music, Naver Vibe, a music streaming service in South Korea, launched support for Dolby Atmos this quarter.
+And additionally, our partners like TIDAL, Amazon Music, Hungama and Anghami continue to grow the number of songs available in Dolby Atmos on their streaming services.
+As the ways in which consumers can enjoy Dolby Atmos music expands, we are also focused on growing the library of music through our engagement with artists and music distributors.
+DistroKid, a leading distributor of independent music, announced that they will be delivering songs in Dolby Atmos on both Apple Music and TIDAL.
+We see enthusiastic engagement from popular artists, including Ariana Grande, BTS, Billie Eilish and Glass Animals, who are among the many artists highlighting the availability of their music in Dolby.
+As we expand the availability of Dolby Atmos music to consumers, we add to the reasons to adopt Dolby Atmos in mobile, PC and automotive.
+We also had some exciting wins in live broadcast this quarter.
+Comcast is currently delivering NBC's Live Tokyo Olympics coverage in both Dolby Vision and Dolby Atmos to their X1 customers.
+This marks the first time that the Olympics can now be enjoyed in the combined experience.
+Also this quarter, Euro 2020 broadcasted in Dolby Atmos across multiple broadcasters in Poland, Malaysia, across the Middle East and North Africa.
+And the Eurovision Song Contest was broadcast in Dolby Atmos live to viewers in the Netherlands.
+By enabling a growing number of live broadcast events, we build upon our strong presence in movie and TV content and add to the value proposition for deeper adoption of Dolby in TVs, set-top boxes, DMAs and mobile applications.
+The momentum of Dolby Vision and Dolby Atmos content across streaming services continues to be strong as our partners bring new titles in Dolby Vision and Dolby Atmos.
+Paramount+ added support for Dolby Atmos when they recently released A Quiet Place II in the combined Dolby experience.
+We have also seen our partners expand the amount of original local content that is enabled in Dolby.
+iQIYI recently announced they will be making Dolby Vision and Dolby Atmos content available on their international app that is available in over 190 countries and will be enabling Dolby experiences in new original local content on their platform.
+Apple TV+ is enabling new local episodic content in Dolby Vision and Dolby Atmos in Korea.
+Netflix released their first original film for Thailand in Dolby Vision this quarter, and Disney+ Hotstar is enabling new local content for India in Dolby.
+Stan, a leading OTT service in Australia, now supports the combined Dolby experience on their platform.
+Enabling relevant local content in Dolby is another important factor in driving more adoption across the global markets that our OEM partners serve.
+This quarter, Xiaomi and Skyworth released new TV models highlighting both Dolby Vision and Dolby Atmos.
+In Japan, Regza launched their first TV with Dolby Vision IQ, adding to a growing list of partners that includes LG, Panasonic, TCL, Xiaomi and Hisense.
+Sagemcom recently launched their all-in-one video soundbox, which combines set-top box and sound bar functionality with support for Dolby Atmos.
+And LG announced the rollout of updates coming to their OLED TVs that optimize for the best gaming experience in Dolby Vision.
+Gaming is another area we are focused on growing the number of experiences in Dolby, and we have begun to see momentum with mobile games becoming available in Dolby Atmos.
+With gaming and music, we are enabling more of the relevant content for mobile phones and PCs to now be Dolby experiences, adding to the reasons for adoption on these devices.
+This quarter, we saw Dolby Atmos highlighted across several mobile phone launches in India, including Oppo and their Realme branded phones and Xiaomi's Redmi gaming smartphone.
+Within PC, Samsung recently launched a new Galaxy book lineup featuring Dolby Atmos.
+We continue to build our momentum of Dolby Vision and Dolby Atmos across content, services and devices.
+And at the same time, we still see significant opportunity to increase adoption as we grow the amount of content experiences available in Dolby.
+Let me shift to Cinema.
+We now have about 95% of our Dolby Cinemas open globally, and our partners remain deeply engaged.
+In recent months, more content has returned to the big screen, and we have seen positive signs in box office performance.
+This was highlighted in the U.S. with strong opening weekends from titles like Black Widow and F9: The Fast Saga that were both available in Dolby Cinema.
+We continue to see moviegoers seeking to enjoy these movies in the best way possible with box office skewing more towards Dolby Cinema and premium experiences compared to pre-pandemic levels.
+And we are now bringing Dolby expertise and innovations that create the best way to enjoy content to a much broader range of experiences and real-time interactions through Dolby.io.
+Marie brings strong leadership experience and a track record of leading engagement with developer communities, including most recently at DocuSign, where she established the company's first-class developer experience.
+During our first year with Dolby.io in market, our focus has been on building our engagement with the developer community, learning from these interactions and continually evolving our offerings to best meet the needs of developers.
+Since launch, we have seen strong demand for higher-quality, real-time experiences.
+We have now begun to roll out a significant update that will enable larger scale interactions with more participants.
+We have positive feedback from current customers who are now live with this release, and we are actively engaging a significant pipeline of potential customers that these increased capabilities can directly address.
+We see engagement across a variety of use cases, including podcasting, remote collaboration tools, virtual meetings and online education.
+We are excited by the many ways developers are engaging with our APIs, and we are just at the beginning of what Dolby.io can enable in creating higher-quality, everyday audiovisual experiences.
+So to wrap up, Dolby is available to a much larger audience across a wider range of content today than ever before.
+As we build upon our presence in movie and TV content with more Dolby experiences in music, gaming and live events, we increase the reasons for deeper adoption of Dolby across devices.
+And with Dolby.io, we are building the momentum to bring the Dolby magic to a wide range of use cases and experiences.
+All of this gives us confidence in our ability to drive revenue and earnings growth into the future.
+And with that, I'd like to hand it over to Lewis to take us through the financials.
+And as Kevin said in his opening comments, we did have another solid quarter.
+So let me go through the Q3 numbers, and then I'll walk you through the outlook for Q4.
+So starting off with revenue.
+Revenue in the third quarter was $287 million, which was at the higher end of our guidance range and included a true-up of about $14 million for Q2 shipments reported that were above the original estimates, and that item is not uncommon.
+On a year-over-year basis, third quarter revenue was about $40 million above last year's Q3 as we benefited from higher market TAMs, along with greater adoption of our Dolby technologies.
+And then on a sequential basis, revenue was down from Q2, mainly due to timing of revenues from contracts and from patent licensing programs, and both of these topics were anticipated when we gave guidance.
+So Q3 revenue was comprised of $272 million in licensing and $15 million in products and services.
+So let's discuss the trends in licensing revenue by end market, starting with broadcast.
+Broadcast represented about 46% of total licensing in the third quarter.
+Broadcast revenues increased by about 40% year-over-year, and that was driven by higher market volume, higher recoveries and higher adoption of our Dolby technologies.
+And then on a sequential basis, broadcast increased by about 18%, and that was due mostly to higher recoveries.
+In the mobile space, mobile represented about 18% of total licensing in Q3.
+Mobile declined by about 36% year-over-year, mainly due to lower recoveries, and that was offset partially by higher market volume.
+And then on a sequential basis, mobile was down by about 24%, due mostly to timing of revenue under contracts, and we did anticipate that.
+Consumer electronics represented about 14% of total licensing in Q3.
+And on a year-over-year basis, CE licensing increased by about 86%, driven by higher market volume, higher adoption of Dolby and higher recoveries.
+On a sequential basis, CE went down by about 22%, and that was due mainly to timing of revenue under contracts.
+PC represented about 9% of total licensing in the third quarter.
+PC was higher than last year by about 6%, due to higher market volume, along with increased adoption of Dolby Vision and Dolby Atmos, offset partially by lower recoveries.
+And sequentially, PC was down by about 51%, due mostly to timing of revenue, and that lines up with some of the comments I made last quarter about its increase that quarter because of timing.
+Other markets represented about 13% of total licensing in the third quarter.
+They were up about 42% year-over-year, and that was driven by higher revenue from Dolby Cinema, via admin fees and gaming.
+And on a sequential basis, other markets increased by about 4% due mostly to Dolby Cinema and to gaming.
+So if I go beyond licensing, our products and services revenue was about $15.2 million in Q3 compared to $16 million in Q2 and $11.8 million in last year of Q3.
+The year-over-year increase reflects just modestly higher demand in the cinema industry.
+So now I'd like to discuss Q3 margins and our operating expenses.
+Total gross margin in the third quarter was 89% on a GAAP basis and 89.7% on a non-GAAP basis.
+Products and services gross margin on a GAAP basis was minus $3.9 million in Q3 compared to minus $345,000 in the second quarter, and products and services gross margin on a non-GAAP basis was minus $2.6 million in Q3 compared to a positive $1.1 million in the second quarter.
+Both GAAP and non-GAAP product gross margins were lower than what I had guided, and that was due to write-downs we took during the third quarter for conferencing hardware.
+Operating expenses in the third quarter on a GAAP basis were $199.1 million compared to $204 million in Q2, and our operating expenses in the third quarter on a non-GAAP basis were $173.6 million compared to $178.4 million in the second quarter.
+Now operating expenses were below guidance in Q3, and that was mainly due to some of our marketing programs that shifted in timing from Q3 into Q4.
+And you will see that sort of mirrored back and reflected in our Q4 expense guidance, where the delta from Q3 to Q4 will be driven mostly by our marketing programs.
+And then our operating income in the third quarter was $56.1 million on a GAAP basis or 19.6% of revenue compared to $34.1 million or 13.8% of revenue in Q3 of last year.
+Operating income in the third quarter on a non-GAAP basis was $83.6 million or 29.1% of revenue compared to $60.5 million or 24.5% of revenue in Q3 of last year.
+Income tax in Q3 was 7.7% on a GAAP basis and 13.7% on a non-GAAP basis.
+Net income on a GAAP basis in the third quarter was $54.6 million or $0.52 per diluted share compared to $67.3 million or $0.66 per diluted share in last year's Q3.
+Now I'd like to point out as a reminder, last year's Q3 net income, and that's both GAAP and non-GAAP, included $36 million of discrete tax benefits, which does affect the year-over-year comparisons.
+So our net income on a non-GAAP basis in the third quarter was $74.8 million or $0.71 per diluted share compared to $87.5 million or $0.86 per diluted share in Q3 of last year.
+And again, that benefits -- the last year number benefits from that onetime tax credit.
+For both GAAP and non-GAAP, net income in the third quarter was above guidance due to revenue landing at the higher end of our range and expenses coming in below the range.
+During the third quarter, we generated $172 million in cash from operations compared to $134 million generated in last year's third quarter.
+We ended the third quarter with about $1.3 billion in cash and investments.
+During the third quarter, we bought back about 400,000 shares of our common stock and ended the quarter with about $37 million of stock repurchase authorization available.
+Today, we announced that the Board of Directors has approved an additional $350 million of stock repurchase authorization.
+So if I combine that new approval with the remaining balance that was at the end of June, means that as of today, we have $387 million of stock repurchase authorization available going forward.
+We also announced today a cash dividend of $0.22 per share.
+The dividend will be payable on August 19, 2021, to shareholders of record on August 11, 2021.
+So now let's discuss the forward outlook.
+Last quarter, when I discussed guidance for Q3, I laid out a scenario that said our second half revenue could range from $560 million to $600 million.
+Now with Q3 under our belt and having landed in the range, we are updating the second half revenue range to $570 million to $600 million, in other words, bumping up the lower end by $10 million, which means we are anticipating Q4 revenue to range from $280 million to $310 million.
+Within that, licensing could range from $265 million to $290 million, while products and services could range from $15 million to $20 million.
+With respect to market conditions and industry analyst reports that look out over the horizon, there's still a fair amount of uncertainty out there, and so we are maintaining similar assumptions as what we talked about last quarter, namely that PC TAMs in the second half could be higher on a year-over-year basis, while TAMs for TVs and other consumer devices could be down in the second half.
+We also continue to anticipate that we'll see organic growth on a year-over-year basis from broader adoption of Dolby technologies across various markets.
+And we also anticipate some higher revenue from Dolby Cinema as that industry looks to improve, which we have seen some signs of in recent times, and Kevin made a couple of comments about that with some of the titles that came out.
+So let me move on to the rest of the P&L outlook for Q4.
+Q4 gross margin on a GAAP basis is estimated to range from 88% to 89%, and the non-GAAP gross margin is estimated to range from 89% to 90%.
+Within that, products and services gross margin is estimated to range from about breakeven to $1 million on a GAAP basis and from about $1 million to $2 million on a non-GAAP basis.
+Operating expenses in Q4 on a GAAP basis are estimated to range from $216 million to $226 million, and operating expenses in Q4 on a non-GAAP basis are estimated to range from $190 million to $200 million.
+As I mentioned earlier, the increase from Q3 to Q4 would be driven primarily by specific marketing programs, some of which shifted in timing from Q3 into Q4.
+But in total, Q3 plus Q4 marketing is expected to land at a similar amount as we were thinking last quarter.
+And to repeat a comment I made last quarter, marketing expenses for the full year FY '21 would be similar to what they were last year or maybe a bit lower depending on how Q4 turns out.
+So let's finish up the Q4 guidance.
+Other income is projected to range from $1 million to $2 million for the fourth quarter, and our effective tax rate for Q4 is projected to range from 19% to 20% on both a GAAP and non-GAAP basis.
+Based on a combination of the factors I just covered, we estimate that Q4 diluted earnings per share could range from $0.25 to $0.40 on a GAAP basis and from $0.47 to $0.62 on a non-GAAP basis.
+And now that we've provided guidance for Q4, here's a full year outlook that would correspond to that.
+FY '21 revenue is anticipated to range from $1.28 billion to $1.31 billion, with gross margin ranging from 89% to 90% on a GAAP basis and 90% to 91% on a non-GAAP basis.
+Total operating expenses for the year are estimated to range from $810 million to $820 million on a GAAP basis and from $710 million to $720 million on a non-GAAP basis.
+And full year diluted earnings per share are estimated to range from $2.79 to $2.94 on a GAAP basis and from $3.57 to $3.72 on a non-GAAP basis.
+So operator, hopefully, my phone is working okay now.
+Can you queue up the first question?
+Yes, Mr. Chew, your line is open.
+Let's move on to the rest of the P&L outlook for Q4.
+I wasn't quite sure where I dropped off.
+Q4 gross margin on a GAAP basis is estimated to range from 88% to 89%, and the non-GAAP gross margin is estimated to range from 89% to 90%.
+Within that, products and services gross margin is estimated to range from about breakeven to $1 million on a GAAP basis and from about $1 million to $2 million on a non-GAAP basis.
+Operating expenses in Q4 on a GAAP basis are estimated to range from $216 million to $226 million, and operating expenses in Q4 on a non-GAAP basis are estimated to range from $190 million to $200 million.
+As I mentioned earlier, the increase from Q3 to Q4 would be driven primarily by specific marketing programs, some of which shifted in timing from Q3 into Q4.
+But in total, Q3 plus Q4 marketing is expected to land at a similar amount as we were thinking last quarter.
+And to repeat a comment I made last quarter, marketing expenses for the full year FY '21 would be similar to what they were last year or maybe a bit lower depending on how Q4 turns out.
+So let's finish up the Q4 guidance.
+Other income is projected to range from $1 million to $2 million for the fourth quarter, and our effective tax rate for Q4 is projected to range from 19% to 20% on both a GAAP and non-GAAP basis.
+Based on a combination of the factors I just covered, we estimate that Q4 diluted earnings per share could range from $0.25 to $0.40 on a GAAP basis and from $0.47 to $0.62 on a non-GAAP basis.
+And now that we've provided guidance for Q4, here's a full year outlook that would correspond to that.
+FY '21 revenue is anticipated to range from $1.28 billion to $1.31 billion, with gross margin ranging from 89% to 90% on a GAAP basis and 90% to 91% on a non-GAAP basis.
+Total operating expenses for the year are estimated to range from $810 million to $820 million on a GAAP basis and from $710 million to $720 million on a non-GAAP basis.
+And full year diluted earnings per share are estimated to range from $2.79 to $2.94 on a GAAP basis and from $3.57 to $3.72 on a non-GAAP basis.
+So operator, hopefully, my phone is working okay now.
+Can you queue up the first question?

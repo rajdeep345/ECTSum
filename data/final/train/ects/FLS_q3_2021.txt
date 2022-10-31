@@ -1,0 +1,164 @@
+We appreciate you participating in our conference call today to discuss Flowserve's third quarter 2021 financial results.
+These statements are based upon forecasts, expectations and other information available to management as of October 28, 2021, and they involve risks and uncertainties, many of which are beyond the company's control.
+There are two key messages that we want to cover today.
+First, we are confident that Flowserve is on the path to growth after a dramatic pandemic-driven downturn.
+We are optimistic about the future, the positive inflection we are seeing in the cycle and our opportunities through energy transition.
+Second, we experienced a number of challenges in the third quarter with our supply chain, logistics and labor availability.
+These problems had an impact on our revenue and profitability in the quarter, but we believe that we will work through the issues and restore our revenue to a more normal conversion rate in the quarters to come.
+As I just indicated, the third quarter presented a number of challenges, which we continue to navigate, including supply chain, logistics and labor availability.
+These issues were truly global in nature and have had an impact on Flowserve and other global industrials in the quarter.
+Flowserve had been largely successful in mitigating these issues in the first half of the year, but the confluence of events and the combined impact of the challenges had an adverse effect on our third quarter results.
+It is important to note that we remain encouraged by the healthy underlying demand that we see across many of our end markets and by the fact that many of the headwinds we experienced in the third quarter are primarily timing related.
+We expect that our business will return to growth and that the Flowserve team will work diligently to resolve the issues that we faced in the quarter.
+Let me now turn to our results.
+Third quarter reported and adjusted earnings per share were $0.38 and $0.29, respectively.
+The combination of supply chain, logistics and labor availability shifted approximately $60 million of expected revenue out of the quarter.
+Our backlog remains secure, and we are confident in our ability to recognize the backlog at a more normal revenue conversion rate in the coming quarters.
+Our third quarter bookings of $912 million represented a 13% increase over prior year, continuing this year's trend of strong year-over-year quarterly growth.
+Aftermarket and MRO bookings during the quarter were consistent with first half levels, while larger award activity continues to remain below pre-pandemic levels.
+Aftermarket orders of $495 million increased 16% and are at pre-COVID levels.
+The aftermarket business is benefiting from the increased utilization rates of our customers' assets being driven by improved mobility and increasing GDP levels around the globe.
+Original equipment bookings increased 9% year-over-year to $417 million.
+Our project or original equipment business continues to lag in the recovery with less than a handful of larger projects awarded in the quarter with only two project orders in the $10 million to $20 million range.
+Some of the same macro issues around logistics and supply chain are also impacting the progress of these global projects moving toward award.
+We remain confident in our pipeline of opportunities, and we expect project work to increase from this point forward.
+Each of our core end markets delivered year-over-year growth in the third quarter, with oil and gas up 33%, while chemical and power were both up 17%.
+Water bookings were also particularly strong, up 46% and included a $10 million desalination award.
+From a regional perspective, bookings growth was driven primarily from North America and the Middle East and Africa.
+Some of these markets were up over 30%.
+COVID continues to negatively impact Flowserve's and our customers' operations in Asia Pacific, which was the only region not returning to growth thus far in 2021.
+We do expect our overall bookings to recover more toward our first half 2021 quarterly run rate of approximately $950 million in the fourth quarter.
+We saw bookings growth in each of the three months during the third quarter, and we believe that September's exit rate can restore our bookings levels to those in the first half of the year.
+Project timing will be the key variable for fourth quarter bookings levels.
+We believe full year bookings will grow year-over-year in the 10% range.
+This level of bookings growth positions Flowserve well for revenue growth and solid financial performance in 2022.
+I would now like to return to the operational challenges that we faced in the third quarter.
+Approximately $60 million of revenue and $20 million in gross profit that we had previously expected to recognize in the period was deferred from the third quarter due to supply chain issues, global logistics and labor availability.
+We were largely successful in mitigating these types of items during the first half of the year, but as the quarter progressed, we faced significant issues on all three fronts.
+Historically, challenges like these might affect a few locations in any given period, but in the third quarter, we saw a very large number of our global manufacturing facilities and QRCs impacted by the logistics supply chain labor issues.
+On the supply chain front, we are facing disruption and inflation across the entire value chain.
+We have done a good job managing our critical vendors for procured items such as castings, forgings, machining and large motors.
+And we are seeing the benefits from the supplier consolidation and the quality work that was completed in the Flowserve 2.0 transformation.
+However, the broad issues and extension of lead times across the central components like base materials, coatings, small motors, consumables and electronics have impacted our ability to deliver product to our customers.
+We have now identified and are mitigating these extended lead times, but there is no immediate fix, and we expect further disruption in the coming quarters.
+To address the accelerating inflation that we saw during the third quarter, we have now announced our fourth price increase of the year, which will go into effect at the end of this year to continue our efforts to offset the increased costs on purchase items and logistics in the marketplace.
+We are in a difficult environment with inflation and cost pressures, but I feel that we have done a nice job balancing enhanced pricing and our pursuit of growth.
+With logistics, we are getting impacted in three different ways.
+First, our supply chain is predominantly out of Asia, and the ability to ship product from that region to Europe and the Americas is now more costly and less predictable than ever before.
+Second, it is also difficult to reliably coordinate and schedule product shipments from our factories to our customers.
+And third, in some cases, our customers are unwilling or unable to schedule pickup or delivery of our products, which impacts the timing of revenue recognition.
+While we believe the situation with our customers is getting better, we are the most impacted in the latter weeks of the third quarter.
+Finally, it is hard to maintain staffing and productivity levels in certain parts of the world in the current environment.
+For example, in China, we're having to hire a significant number of new associates to keep up with demand and to satisfy the emerging local laws.
+In Europe, labor is especially tight in certain areas.
+While in the Americas, we saw a large COVID quarantine rate during Delta's rise, and it is also a very tight labor market.
+We are pleased that the heightened COVID cases and related quarantines we saw in the third quarter across our business have consistently declined through October, and we are encouraged by this continuing downward trend.
+We will, of course, continue to focus on the safety of our associates as we have been since the start of the pandemic.
+We are actively working through each of these disruptions, and we expect it will take a few quarters for us to adjust to extended supplier lead times, the disruption in logistics and the issues with labor availability before we return to the more normal operating model.
+Additionally, we have not seen, nor do we expect an increase in cancellations from our backlog.
+So our revenues are there for us to deliver in the coming quarters.
+Following our third quarter results and with the assumption that these issues will impact Flowserve in the fourth quarter and likely into 2022, we adjusted our 2021 full year guidance metrics yesterday.
+Looking at Flowserve's third quarter financial results in greater detail.
+Our reported earnings per share of $0.38 exceeded our adjusted earnings per share of $0.29 due to a $16.6 million discrete tax adjustment from the reversal of certain deferred tax liabilities.
+Partially offsetting the $0.13 gain on taxes, our adjusted earnings per share also excludes $0.04 of items, including realignment expenses, below-the-line FX impact and certain costs incurred in our debt refinancing.
+During the third quarter, we took advantage of the favorable debt markets to solidify our liquidity and financial flexibility for years ahead by prefunding upcoming debt maturities.
+We amended and restated Flowserve's senior credit facility by extending the maturity of our revolving credit facility by two years and enhancing the financial flexibility we have under it as well as lowering the ongoing commitment fees and including sustainability-linked options to enable further cost reductions as we progress our ESG objectives.
+In addition to the revolver, we also obtained a $300 million fully drawn term loan, which included participation from a minority-owned depository institution in addition to most of the syndicate banks in the revolver.
+We sincerely appreciate the support of our historic and new banking partners in both facilities and look forward to working closely with them in the years ahead.
+In September, we also accessed the debt capital markets and issued $500 million in new 2.8% 10-year senior notes.
+We value the confidence of investors in this offering as well.
+In October, we used all the proceeds from the term loan and senior notes in addition to some excess cash, together totaling $842 million, to fully redeem our senior notes with maturities in 2022 and 2023.
+Now I'd like to return to our third quarter financial results.
+As Scott mentioned, the third quarter was impacted by supply chain, logistics and labor headwinds that delayed roughly $60 million of expected revenue out of the quarter.
+These issues primarily occurred late in the third quarter.
+Revenue decreased 6.3% to $866 million, largely due to the deferred revenue I just mentioned.
+All in, we had an 11% decline in original equipment, or OE, sales, driven by FPD's 20% decrease, but partially offset by FCD's 2% increase.
+Beyond the challenges in the third quarter, FPD continues to be impacted by its 2021 beginning OE backlog, which was down roughly 25% versus the start of 2020.
+Aftermarket sales remained relatively resilient in total, down roughly 1%, where FCD's 12% increase was offset by FPD's 3% decline.
+Our third quarter adjusted gross margin decreased 190 basis points to 29.6%, primarily due to the OE sales decline and the related under-absorption particularly at our engineer-to-order sites in both segments, the other previously mentioned disruptive impacts as well as higher logistics costs, which increased 25% year-over-year.
+These headwinds were partially offset by a 3% mix shift toward higher-margin aftermarket sales.
+On a reported basis, the gross margin decreased 160 basis points to 29.3% was driven by the factors previously mentioned and were partially mitigated by the $3 million decrease in realignment charges versus prior year.
+Third quarter adjusted SG&A increased $7.4 million to $200 million versus prior year, primarily due to a $3 million increase in expense related to our incurred but not reported potential reserves, increased R&D spending and the return from travel costs which were a temporary benefit in 2020 as well as headwinds from foreign exchange.
+Reported SG&A was flat to the prior period, and these increases were offset by a $7 million decrease in adjusted items and disciplined cost control offset the return of some of last year's temporary cost benefits.
+Third quarter adjusted operating margins of 7% decreased 390 basis points year-over-year as did FPD's adjusted operating margin, primarily due to increased under-absorption related to a 20% OE revenue decline.
+FPD's adjusted operating margin decreased 170 basis points year-over-year to 10.5% due to sales mix and slightly higher SG&A as a percent of sales.
+We expect that sales volume normalize, that margins will improve.
+And to that point, had Flowserve not experienced the $60 million revenue deferral, our adjusted operating margins would have been flat to modestly up on a sequential basis.
+Third quarter reported operating margin decreased 280 basis points year-over-year to 6.6%, where the previously discussed challenges more than offset the $10 million reduction of adjusted items.
+Our third quarter adjusted tax rate of 15.2% was driven by our income mix globally and favorable resolution of certain foreign audits in the quarter.
+The full year adjusted tax rate is expected to normalize in the 20% range.
+Turning to cash and liquidity.
+Our third quarter cash balance of $1.5 billion reflected the debt refinancing discussed earlier as well as solid cash flow performance in the quarter.
+Our net debt position of $652 million at the end of the third quarter has declined by over $300 million in the last three years.
+We believe a bright spot in our third quarter financial results is our continued progress on cash flow.
+On a year-to-date basis through the third quarter, operating cash flow of $151 million is up nearly $37 million versus the prior year, while free cash flow of $117 million has increased 73% or $49 million over the prior year.
+In the third quarter, we delivered $78 million or approximately 67% of our year-to-date free cash flow total.
+This third quarter performance is up versus the comparable period in 2020 despite voluntary funding of a $20 million pension contribution during the quarter compared to no funding a year ago.
+We are pleased with our improved cash flow performance year-to-date.
+And with our typically seasonally strong fourth quarter ahead, we are confident in our ability to stay on pace to deliver a free cash flow conversion of over 100% of our adjusted net income once again in 2021.
+Working capital was a cash source of $56 million in the third quarter and a $47 million increase versus last year.
+Accrued liabilities, prepaid expense and continued improvements in our accounts receivable process were the major contributors this quarter.
+As a percentage of sales, primary working capital saw a modest 40 basis point sequential increase to 29.8% due primarily to the market disruptions in the quarter.
+Both DSO and inventory turns were roughly flat sequentially.
+I would also like to highlight our disciplined inventory management.
+For the third consecutive quarter, our combined balance of inventory and contract assets and liabilities decreased while backlog continued to increase and despite holding elevated work in process and finished goods inventory at quarter end due to the logistics challenges.
+Since year-end 2020, backlog has increased $115 million, while inventory and contract assets and liabilities have declined $16 million.
+Major uses in the third quarter include dividends and capex of $26 million and $11 million, respectively.
+As I just mentioned, we also contributed $20 million to our U.S. cash balance pension plan to keep it largely fully funded.
+In the fourth quarter, major uses expected include the completed retirement of the 2022 and 2023 senior notes, the $26 million October dividend and a higher level of capex spend.
+Turning now to our outlook for the remainder of 2021.
+Based on the supply chain and logistics challenges that arose and accelerated late in the quarter, its impact on our third quarter earnings and the expectations that these conditions will persist, Flowserve revised our full year 2021 revenue and earnings per share guidance ranges.
+We now expect a full year revenue decline of 3.5% to 4.5% and reported an adjusted full year earnings per share of $1.05 to $1.10 and $1.40 to $1.45, respectively.
+To briefly cover our thought process, we expect the revenues and income that were deferred out of the third quarter to be largely realized in the fourth quarter.
+However, we expect the challenges of the third quarter to continue industrywide for the next few quarters.
+So we are assuming the fourth quarter has a similar deferred revenue impact to what we just experienced.
+This, coupled with the impact of the strengthening dollar on our non-U.S. denominated sales, particularly the euro, resulted in us lowering our expectations for full year 2021 revenue.
+We do expect that the fourth quarter will have the traditional Flowserve fourth quarter seasonality with strong revenue conversion.
+However, we do not expect that revenue and the associated profit will be fully caught up at year-end.
+Our adjusted earnings per share range continues to exclude expected realignment expenses as well as below-the-line foreign currency effects and the impact of other potential discrete items which may occur during the year, such as the premium and fees incurred to retire the notes.
+In terms of other guidance metrics, our net interest expense remains unchanged at $55 million to $60 million and we modestly lowered our full year adjusted tax rate guidance to approximately 20%.
+From a bookings standpoint, we now expect full year 2021 bookings to increase in the 10% range year-over-year.
+Additionally, we continue to expect the majority of this increase will come from our aftermarket and shorter-cycle MRO original equipment products.
+The major categories of our full year cash usages include the October debt retirement, dividends and share repurchases of roughly $120 million, capital expenditures in the $65 million range, the third quarter's pension contribution and the funding of our now modest realignment programs.
+In conclusion, while our third quarter was impacted by supply chain, logistics and labor headwinds, we view these primarily as transitory.
+The backdrop for our traditional markets looks positive.
+There is an increasing interest in our energy transition offerings, and we continue to build momentum in our operational and cash flow progress.
+With a solid and growing backlog and expected progress by the broader industry in managing the supply chain and logistics headwinds, we believe that Flowserve is well positioned to deliver earnings growth in 2022.
+Before addressing our outlook for the remainder of the year and some early thoughts on 2022, let me first provide an update on our strategic initiatives.
+While current conditions are increasingly favorable for our traditional energy markets, we are taking steps to best position the company for the energy transition that is already underway and which presents a significant long-term opportunity for Flowserve, our shareholders and all stakeholders around the world.
+To support our efforts, we have increased our strategic focus on three major themes: decarbonization, digitization and diversification to accelerate our growth in 2022 and beyond.
+We continue to identify significant energy transition opportunities in applications where we have been supporting our customers for decades.
+As we focus on lower carbon energy production, we are investing in technology to advance our customers' aspirations, including additional capabilities within carbon capture, hydrogen and energy storage.
+We are still in the early innings of tapping into this growing market, and our third quarter bookings included over $25 million of energy transition work, including biodiesel conversions, solar power projects and energy efficiency upgrades.
+Our project funnel for energy transition continues to grow, demonstrating we have the flow control products and expertise to support our customers today and through their energy transition journey.
+I'd like to highlight a few examples of our third quarter bookings success stories.
+Flowserve was selected to provide pumps and seals for a sustainable aviation fuel project in the Netherlands.
+The facility will produce sustainable aviation fuel that when compared to fossil jet fuel has the potential to cut life cycle emissions from aviation by up to 80%.
+Additionally, we will remain active on the facility for years to come, ensuring the lowest total cost of ownership with the inclusion of Flowserve's LifeCycle Advantage aftermarket solutions.
+Our pumps and seals were also chosen recently for a biodiesel conversion project in the United States.
+Flowserve helped compress the engineering and approval time from a normal 12-week -- 12-month cycle to seven months, supporting an earlier plant start-up and delivering a faster payback.
+The project is expected to reduce CO2 emissions from diesel production by up to 600,000 tons per year.
+In addition, our vacuum pump technology was selected to support a leading provider of thin-film technology for the production of solar power panels.
+Flowserve will provide equipment for new facilities in the U.S. and in India, reducing the overall power consumption, maintenance downtime and the floor space required.
+Finally, let me update you on the progress of RedRaven, our IoT offering launched earlier this year, which instruments pumps, valves and fuel systems to provide the capability to assist our customers with a data-driven approach on how to improve their operations, increase asset uptime and reduce associated energy emissions.
+We continue to expand the RedRaven instrumentation across product portfolio in the quarter and further increased access for our customers while developing the distribution channel.
+We are currently working with over 40 customers and have connected nearly 5,000 assets.
+While we are still relatively early in the rollout, customer interest continues to increase.
+Turning now to our outlook for the remainder of the year and our positioning as we think about 2022.
+With bookings continued to improve in October, we are confident in the market outlook as we close out the fourth quarter and plan for 2022.
+As I indicated earlier, we expect fourth quarter bookings to be roughly $950 million, depending on the level of project activity.
+By achieving this level, our 2021 bookings would deliver a 10% year-over-year growth rate.
+Based on current market conditions, we also expect year-over-year bookings growth to continue in 2022 based on our discussions with our customers, EPC backlogs and our project funnel.
+We believe that the lessening impact of the pandemic, combined with increased energy demand, growing decarbonization and energy transition opportunities and global economic growth, create a compelling view of our markets.
+Additionally, with increased utilization, coupled with energy prices that are well above pre-pandemic levels, we expect that our customers will continue their aftermarket and MRO spending as well as return to their capacity expansion plans across our served markets.
+Our project funnel remains well above prior year levels, providing confidence that while the timing of the return of these larger projects remains uncertain, we expect that many will ultimately move forward in 2022.
+All of this gives us increased confidence in the flow control markets, driving bookings growth throughout 2022.
+Additionally, we believe that our added focus on decarbonization, digitization and diversification will only enhance our growth outlook.
+Looking both near and longer term, energy transition investment will provide strong opportunities for Flowserve.
+While we continue to support our customers' traditional applications, we believe we are well positioned to support our customers' energy transition initiatives.
+Operationally, I'm confident that we have the team and the tools to work through the third quarter challenges.
+Flowserve 2.0 has provided the visibility and business processes to address these issues, and our teams are currently working to resolve and mitigate the issues that arose in the third quarter.
+Longer term, we expect the opportunities from our served end markets, combined with our improved operational execution and an embedded continuous improvement culture, will enable Flowserve to deliver on the longer-term targets we introduced during our last Analyst Day.
+In closing, we believe that with the expected return to growth and continued execution improvements, Flowserve will be well positioned to deliver stronger incremental margins and overall financial results.
+We believe in the company's long-term ability to achieve our original targets, including operating margins in the 15% to 17% range, ROIC of 15% to 20% and to continue free cash flow conversion in excess of 100%, which we've already demonstrated.
+Our focus remains on supporting our customers, execution and capitalizing on improved markets to drive long-term value for our shareholders and our stakeholders.

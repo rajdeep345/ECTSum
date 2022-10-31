@@ -1,0 +1,211 @@
+Today, we will follow our customary format with Tony Petrello, our chairman, president, and chief executive officer; and William Restrepo, our chief financial officer, providing their perspectives on the quarter's results along with insights into our markets and how we expect Nabors to perform in these markets.
+Since much of our commentary today will include our forward expectations, they may constitute forward looking statements within the meaning of the Securities Act of 1933 and the Securities Exchange Act of 1934.
+Also, during the call, we may discuss certain non-GAAP financial measures, such as net debt, adjusted operating income, adjusted EBITDA and free cash flow.
+We have posted to the investor relations section of our website a reconciliation of these non-GAAP financial measures to the most recently comparable to GAAP measures.
+Then I will follow with the discussion of the markets and highlights from the quarter.
+William will discuss our financial results.
+Our performance in the first quarter exceeded the expectations which we laid out on our last conference call.
+We made further progress on our twin priorities of generating free cash flow and reducing net debt.
+Our free cash flow was especially noteworthy.
+In the first quarter, we generated $60 million.
+We accomplished this after funding semi-annual cash interest payments on the outstanding notes.
+We generated adjusted EBITDA of $108 million.
+All our major segments performed well.
+Highlighting the earnings power of Nabors portfolio.
+We believe this accomplishment will rank favorably compared to the market.
+I am pleased with this start to 2021.
+I'm looking forward to reporting further progress as the year unfolds.
+Now, I would like to spend a few moments on the macro environment.
+The quarter began with WTI in the high 40s.
+By early March, WTI exceeded $66.
+The price held back has been in the tight range around $60 since.
+Global oil supply demand continued to rebalance in the first quarter.
+The EIA reports global inventories of approximately 185 million barrels during the quarter.
+These trends to commodity prices and inventory are supportive of generally increasing oilfield activity across markets.
+Comparing the first quarter and fourth quarter averages, the Baker Hughes Lower 48 land rig count increased by 28%.
+According to Inverness, from the beginning of the first quarter through the end, the Lower 48 rig count increased by 116 or approximately 30%.
+The growth rate among smaller clients outpaced the growth of the larger operators at 39% versus 13%.
+Among the larger clients, approximately two thirds only modestly increased their operating rig counts or held them flat.
+In comparison, with our focus on larger midsized companies, our own average working rig count increased by 21%.
+Our total recount increased by three rigs as we add our rigs with multiple customers, while the number of rigs stacked on rate declined by six.
+Once again, we surveyed the largest Lower 48 clients.
+This group accounts for approximately 40% of the working rig count.
+Our review of these clients shows flattish activity plans for the balance of 2021.
+Smaller and medium sized operators are responding faster to the recent trends in commodity prices.
+In our international markets, we saw the expected demand increase in selected geographies as measured by the number of active rigs.
+This trend extends across major markets in Latin America and in Saudi Arabia.
+In summary, global oil supply and demand continues to approach equilibrium as inventories rationalized.
+Commodity prices seem to have stabilized at levels which generate acceptable operator economics.
+In response, drilling activity is increasing.
+Having said that, virtually every day there is a report of a major outbreak of COVID in some geography, the most recent example is India.
+The possibility of a resurgence of COVID remains a drag on confidence in the recovery.
+Overall, assuming global economics continue to improve the oilfield market environment is poised to support higher levels of activity.
+Now, I will comment on our first-quarter results.
+Total adjusted EBITDA was 108 million in the quarter.
+These results reflect operating performance that was somewhat better than anticipated.
+With this performance, we generated approximately $60 million in free cash flow.
+Our global rig count for the first quarter increased by eight rigs.
+We saw growth across all our drilling segments.
+In our Lower 48 business, reported daily big margin of 8,466 was in line with our guidance.
+For the international segment, adjusted EBITDA for the quarter met our expectations.
+Daily margin at 12,917 was near the upper end of our guidance range driven by expert performance in the field.
+Once again, we had outstanding operational execution at our high spec rig fleet.
+Strong operations are leading safety performance, continued cost control and capex discipline all drove the quarter's results.
+Next, I would like to mention some specific highlights.
+During the first quarter, we completed additional debt exchange transactions.
+Between these in our free cash flow, we lost another quarter of balance sheet improvement.
+Adjusted EBITDA in our drilling solution segment again increased sequentially.
+We saw continued growth in the penetration of our SmartDRILL app.
+SmartDRILL is Nabors' proprietary rig activity sequencer that digitizes workflows and optimizes rig processes.
+Our installations on Nabors' Lower 48 rigs increased by nearly 25% versus the fourth quarter.
+Overall, NDS penetration of five or more services, our Nabors' Lower 48 rigs increased versus the prior quarter.
+It now stands at more than 70%.
+A year ago, this penetration rate was 60%.
+As we are adding rigs, clients increasingly realized the value in NDS services.
+We see this reflected in NDS's results.
+Also, in NDS client use of our RigCLOUD platform for digital operations increased.
+In the first quarter, clients utilized RigCLOUD on nearly all of our working rigs in Lower 48.
+Our third-party installations also grew sequentially.
+We continue to roll out our differentiated rigs our Analytics platform.
+This innovative platform aggregates a wide spectrum of drilling and well data, including KPIs and wellbore placement statistics.
+Clients receive this information with customizable dashboards that enable real time decision making and drive optimal results.
+We successfully completed the restart of eight idle rigs in Saudi Arabia.
+This is notable considering the logistical and staffing challenges of starting up a large number of rigs in a compressed timeframe.
+The local team in the kingdom collaborated closely with our customer to plan the idling process.
+This arrangement yielded significant cost benefits while the rigs were idle, and as they were restarted.
+We recently published our updated ESG report for 2020.
+I think you will be impressed with our progress in this area.
+On a related note, we now have two rigs running advanced battery-based hybrid energy management solutions in the Lower 48.
+We believe Nabors has the first successful installation on a natural gas fueled rig in the industry.
+This system has yielded significant fuel savings, as well as an improved emissions profile.
+A third Lower 48 system is expected to deploy in the near future.
+We are in early discussions with multiple operators or systems in our international markets as well.
+In addition to these highlights, I would like to discuss RigCLOUD Analytics in more detail.
+As a reminder, the RigCLOUD value chain combined our Edge, Analytics and digital workflow capabilities.
+These create a unique and compelling value proposition during the well construction process.
+RigCLOUD Analytics is powered by high-end edge computing at the rig site.
+This infrastructure enables us to deliver real time analytics that drive database decisions across multiple wells and rigs.
+In addition, RigCLOUD Analytics offers key differentiators brands Yes digital and automated solutions, such as our Smart Suite.
+With RigCLOUD Analytics, clients can explicitly determine the value generated by our apps and drilling services.
+In turn, these features to support a faster pace of technology adoption and mutually beneficial performance-based contracts.
+The initial focus of our RigCLOUD Analytics is the prediction of future outcomes, answering the questions, what is likely to happen and when.
+Our roadmap should lead us beyond this functionality, and ultimately facilitate through automation of the drilling process.
+I would also make some comments on the energy transition and our initiatives to position Nabors as a leader as our industry evolves.
+I mentioned earlier, increased deployment of the power management system for rigs.
+We are also examining several alternatives to improve Nabors own carbon footprint, including technologies aimed at carbon capture, emissions, minimization and power management.
+We look forward to leveraging our expertise, global footprint and proven record of innovation to develop and deploy impactful clean energy Solutions.
+We expect to make tangible progress in the near future and are excited with the potential of the strategic initiatives.
+Before turning the call over to William, I will discuss our view of the market in more detail.
+The Lower 48 industry has added 197 rigs, or 87% since its low in August.
+Based on the commodity price backdrop, and our conversations with clients, we expect Nabors rig count to increase each quarter through the balance of 2021.
+Along with this activity outlook, and the resulting increases in utilization, we see pricing traction in the second half of the year.
+In our international markets, we continue to see steady increases in activity across our major markets.
+There are two specific developments which I would like to draw your attention to.
+First, the standard joint venture in Saudi Arabia has now received four awards for new buildings from Saudi Aramco.
+We expect the first of these to deploy in early 2020.
+These new deployments are the first step to scale the operation to a new level, backed by the support of our key customer.
+We are excited at the beginning of this phase of relationship with our partner, and the future growth opportunity presents.
+In Latin America, we are seeing the customer base broaden in both Argentina and Colombia.
+We have rigs working for three customers in Colombia, and five in Argentina, where we hold 38% of the market.
+We think this diversification is healthy for Nabors.
+It indicates the wide appeal of our value proposition across the customer base.
+The net loss from continuing operations of $141 million in the first quarter represented a loss of $20.16 per share.
+First-quarter results compared to a loss of $112 million, or $16.46 per share in the fourth quarter of 2020.
+The fourth quarter included $162 million of pre-tax gains from debt exchanges and repurchases partially offset by charges of $71 million, mainly from asset impairments for a net after tax gain of $52 million or $7.40 per share.
+Excluding this unusual item, the net loss improved by 23 million, primarily reflecting lower depreciation and interest expense.
+Revenue from operations for the first quarter was $461 million, a sequential gain of 4%.
+Revenue improved in most of our segments, driven by increased drilling activity in the markets we serve.
+In the Lower 48, drilling revenue of $110 million increased by 6.2 million, or 6%, as a rig count improved by 5%.
+Despite some deterioration in the average pricing for a fleet, revenue per day increased by $700, reflecting a significant reduction in the number of rigs stacked on rate.
+Generally, stacked on rate rigs return to work as day rates increase substantially.
+Lower 48 average rig count at 56.2 was up sequentially by 2.6 rigs in line with our expectations.
+International drilling revenue at $247 million increased by 1.7 million or 1%.
+Despite the absence of 4 million in early termination revenue from the prior quarter.
+Average rig count of 64.8 increased by 2.2 rigs or 3.5% matching our expectations for the quarter.
+As anticipated, eight rigs were reactivated in Saudi Arabia progressively during the first quarter.
+However, average rig count in the eastern hemisphere fell, reflecting mostly the contract terminations we experienced in the fourth quarter.
+Canada drilling revenue was $21 million, an increase of $6.2 million or 42%.
+Rig count increased by four rigs on the seasonal ramp up in activity.
+Daily revenue increased by nearly $400.
+Nabors drilling solutions revenue was $35.7 million, up 3.7 million or 12%, primarily driven by improved performance software and manage pressure drilling.
+Notably, there was continued growth of rocket with third parties and further adoption of SmartDRILL by new clients.
+Rig technologies revenue of $25.7 million increased by $1.6 million or 6% due to lower capital equipment sales and fewer rentals.
+Although assets certification and repair activity were favorable, federal clients deferred deliveries of new equipment.
+Total adjusted EBITDA for the quarter was $108 million in line with the fourth quarter, and somewhat ahead of our expectations.
+Sequentially, improved results in Canada and NDS offset reductions in our other segments.
+US rolling adjusted EBITDA of $58.8 million was down by 3.4 million or 5.4%.
+Lower 48 performance was in line with our expectations.
+As we expected daily rig margin came in at $8,466, a $1,000-impact compared to the fourth quarter.
+Quarter on quarter, although rig count increased, the additional volume was more than offset by a reduction in the number of rigs working at pre pandemic rates and of rigs stacked on rate.
+I would like to point out that margins for the stacked-on rate rigs are generally higher than the fleet average.
+For the second quarter, we expect daily rig margins are between $7,000 and $7,500 drew mainly by the signing of renewals or new contracts with current day rates, which are lower than the average for a fleet.
+We forecast as six to seven rig increase for the second quarter, or an 11 to 12% sequential improvement.
+Our rig count in the Lower 48 currently stands at 64 rigs or about 7.8 rigs higher than the average for the first quarter.
+Our other markets within the US drilling segment are expected to improve somewhat as compared to the first quarter, reflecting incremental recount.
+International adjusted EBITDA decreased by $1.9 million to $62.6 million in the first quarter, or 2.9% sequentially.
+The improvement in rig count was more than offset by the absence of early termination revenue that occurred in the fourth quarter.
+Daily gross margin for the quarter was $12,917, a $600 reduction as compared to the prior quarter.
+The fourth quarter included approximately $700 per day in early termination revenue.
+Turning to the second quarter, we expect an international rig count increase of three to four rigs, or 5 to 6% driven by units that return to work in Latin America and Saudi Arabia over the course of the prior quarter.
+We expect gross margin per day of approximately 12,500 reflecting a long rig move in Mexico and general strikes in Argentina.
+These strikes could result in a period on standby rates for some of the rigs.
+Current rig count in the international segment is 69 rigs, which translate into a 6.5% increase over the average of the first quarter.
+We believe that activity in international markets where we operate, already reflected in the fourth quarter of last year.
+Canada adjusted EBITDA of $9.7 million increased by $6.2 million.
+Rig counts at 13.7 rigs was four higher sequentially.
+Gross margin per day of 8160 also increased due to the higher activity level and the receipt of $3.5 million in governmental wage subsidies.
+In the second quarter, we expect the effects of the seasonal spring breakup to impact results, with average rig count around six rigs and daily margins between $5,500 and $6,000.
+We currently have six rigs operating in Canada Drilling solutions adjusted EBITDA of $11.5 million was up $1.2 million in the first quarter, or 12%.
+On the strong performance drilling and manage pressure drilling revenue.
+We expect adjusted EBITDA in the second quarter to be in line with the first quarter.
+Rig technologies reported negative adjusted EBITDA of $500,000 in the first quarter, a decrease of roughly $1 million.
+For the second quarter, the segment should once again deliver positive EBITDA and improved capital equipment sales.
+Now, before I turn to liquidity and cash generation, let me remind you that the mandatory convertible preferred shares will be converting next Monday May 3, approximately 668,000 common shares will be issued and a final dividend will be paid on the conversion.
+In the first quarter, free cash flow totaled $60 million.
+This compares to free cash flow of approximately $66 million in the fourth quarter.
+I would like to point out that in the first quarter of 2020, we delivered $8 million in free cash flow.
+Our EBITDA in that quarter was almost twice the EBITDA of the first quarter of 2021.
+This improvement in cash flow conversion as compared to a year ago reflects the stain efforts and costs and capital discipline that will continue over the years to come.
+As in the past, the first quarter was marked by the semi-annual interest payments and a senior note of over $70 million and by approximately $25 million in several annual payments that we incur at the beginning of the year.
+These payments which will not recur during the remainder of the year include property and other taxes, as well as employee incentive bonuses.
+These outflows were offset by strong customer collections in the first quarter, including some catch up from last year end as well as by lower capex and higher asset sales.
+Our capital expenditures of $40 million in the first quarter included $7.5 million in payments related to SANAD newbuilds.
+To date, we have been awarded four rigs by Saudi Aramco.
+During the second quarter, we expect to incur $80 million in capex, of which 30 million will be paid by SANAD for the new bill program.
+Our target remains at 200 million for the full year 2021 excluding in Kingdom newbuilds for SANAD.
+For this year the total payments by SANAD for the newbuilds will depend on the achievement of construction milestones by the local manufacturer.
+Although the local rig program has been delayed by multiple years, Saudi Aramco has now demonstrated its commitment to SANADs rig building program.
+Given the recent awards, and additional rig purchase orders by SANAD, we now expect SANAD's total payments for these new rigs to approach $100 million for this year assuming milestones are met.
+In January, SANAD distributed a combined 100 million of the excess cash it had accumulated to its partners.
+Half of that amount was paid to a Nabors subsidiary, and the other half to Saudi Aramco.
+On a consolidated basis, the payment to Saudi Aramco partially offset the free cash flow generation.
+As a result, the net debt reduction for the quarter was limited to $6 million.
+Nonetheless, with a standard distribution to Nabors and other cash regenerated, we continue to reduce our total debt.
+During the quarter, we retired approximately 40 million in senior notes, including convertibles, which resulted in a 30-meter reduction in our total debt as reported.
+We also reduce the amount of standing on a revolving credit facility by an additional $40 million.
+Our total debt reduction for the quarter was $70 million.
+At the end of the first quarter, the amount drawn in our credit facility was $633 million and our cash balances stood at $418 million.
+For the second quarter, we are targeting approximately $50 million in free cash flow.
+Although our interest payments will decrease sharply in Q2.
+We anticipate a reduction in customer collections, higher capex and lower asset sales as compared to the prior quarter.
+We will continue to focus on delivering industry leading drilling performance to our customers and sustained growth and market penetration in our drilling solutions business.
+We're continuing to push for cost and capital discipline We believe that successful implementation of these goals will support our exceptional free cash flow generation.
+We will continue to allocate our future cash flow to debt reduction until we reach our leverage targets.
+As we review the first-quarter results, I cannot lose sight of the fact that it was just a year ago that we began to understand the full impact of the COVID-19 virus, the effects of a global pandemic were far reaching.
+I think it is fair to say that virtually every aspect of our lives was impacted.
+The same is true for our company.
+As we adapted to the demands of the pandemic environment, we were forced to reexamine all of our business processes, policies and procedures.
+The beginning of the second year of this pandemic era reinforces our concentration on several priorities.
+First, we maintain a laser focus on safety.
+Over the past year, we continue to improve our work processes and procedures.
+What has become more evident is a palpable change in our underlying safety culture for the better.
+For this reason, I now believe that mission zero, our goal of zero safety incidents is closer to reality than any time since we introduced it.
+Second, our commitment to operational excellence continues, client's value and compensate for performance.
+Our industry-leading rig level economic results stems from a multiyear company wide effort at extending Nabors position as the global performance pillar of choice.
+And we're not finished yet, which brings me to the third priority.
+Nabors remains dedicated to extending its position as the drilling industry's technology leader.
+Nabors has been an innovation engine for decades; it has become clear that our industry must now transform itself.
+Looking ahead, our Advanced Solutions will enhance performance and efficiency, as well as sustainability.
+We believe our investments in robotics and automation technology will catapult us to a new level of performance.
+I hope you sense my enthusiasm and genuine excitement for our future.
+I look forward to reporting on our progress.

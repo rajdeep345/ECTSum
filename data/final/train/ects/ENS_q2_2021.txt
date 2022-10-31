@@ -1,0 +1,153 @@
+In addition, we will also be presenting certain non-GAAP financial measures.
+Then I will take a step back and provide an update on how we're tracking against the strategic initiatives we laid out at our 2019 Investor Day a little more than a year ago.
+As we entered our second quarter, the COVID-19 pandemic continued to disrupt economic activity unevenly in markets around the world.
+However, we began to see a rebound from the viruses impact on our business throughout the period and actually exited the quarter with [Technical Issues] very close to pre-pandemic levels.
+The US and Chinese motive power markets have recovered much faster than Western Europe, while Energy Systems and Specialty were less impacted by COVID.
+We continue to build on the cost reductions we instituted early in the first quarter, while always staying ready to flex operations backup in response to demand recovery.
+As you may recall, our model allows us to quickly adjust our capex and opex without impacting our revenue growth objectives or our quality of service.
+Many of the opex initiatives we have put in place will enable us to maintain an improved level of operational efficiency with our new global line of business alignment even as the demand ramps up.
+All of our major facilities remain open and we continue to prioritize the safety of our employees as COVID cases rise around the world.
+Despite the ongoing headwinds caused by COVID-19, the diversified nature of our business was evident during the quarter as we reported solid second quarter fiscal 2021 adjusted earnings of $1 per diluted share.
+Our Specialty segment was particularly strong, especially in the transportation portion of our business.
+Energy Systems turned in a solid quarter with the beginnings of 5G uptick becoming apparent.
+And while our Motive Power business still lagged Q2 prior year overall, our maintenance free TPPL NexSys PURE products have continued to outperform.
+It appears that the COVID market disruption is accelerating our customers' interest in our new dual chemistry NexSys products.
+This conversion to maintenance free combined with the lingering impact of COVID in Europe and our overall productivity improvements drove our decision to close our legacy flooded Motive Power factory in hog in Hagen, Germany.
+Due to improving business conditions and our streamlined cost structure, we generated exceptionally strong cash flow during the quarter, enabling an incremental $86 million in net debt reduction to achieve debt leverage of just under 2.1 times.
+We did this while still investing in the business.
+I'd now like to provide a little more color on some of our key markets.
+Our largest segment, Energy Systems performed well during the quarter, despite the impact of the pandemic.
+In the Americas, we saw growing momentum throughout the second quarter with improved order rates for broadband and continued robust demand for battery systems, particularly on the telecom front.
+Combined EMEA and APAC delivered double-digit year-over-year revenue growth.
+Global telecom carriers remain committed to investing in their networks to increase capacity and reliability.
+In the Americas, the completion of the T-Mobile merger has led to large purchases for our cabinets, batteries and electronics, as a complete system for their 5G ramp up.
+In addition to the direct benefits of the merger the mandated DISH spin off presents a significant opportunity for EnerSys in the quarters ahead as this fourth quarter nationwide provider looks to build their own 5G network.
+The broadband business continues to be a story of short-term pain that will inevitably lead to exciting long-term growth for EnerSys.
+The COVID induced work and school from home policies have stressed all broadband networks and resulted in the MSOs focusing near-term network capex on capacity augmentation over longer term network hardening programs.
+There is no denying that the reallocation of budgets has negatively impacted our business over this period.
+However, there is a clear light at the end of the tunnel as two of our largest broadband customers have recently begun allocating increased capex to network powering and we have seen improved order rates in Power Project approvals, driving an upcoming recovery for our broadband segment.
+Factoring in this positive trend along with the industries clear need for long-term network power infrastructure to support increased 5G power consumption.
+We expect the broadband business to transition from a headwind to a tailwind in the near future.
+As noted earlier, our new maintenance free NexSys products are being well received in the market.
+I am pleased to say we have started the launch of our NexSys iON lithium motive power batteries and are in the early stages of testing and validation globally with key forklift OEMs. We have also initiated pre-launch end-user site demonstrations globally with very positive results in several large accounts.
+Our sales team is focusing the NexSys iON products on the portions of the market with the most demanding duty cycles.
+For example, we trialed NexSys iON at a Carpet Mill that runs their fork trucks nearly 24/7, where there is very little time to recharge the batteries.
+The increased capacity and excellent charge acceptance of NexSys iON allowed the customer to keep running while charging only during breaks.
+The new third-generation TPPL motive power pack is also progressing on schedule, with respect to the high-speed line commissioning.
+And we've -- as we've discussed previously, this new product family will be using large format carbon enhanced TPPL batteries coupled with a match battery management system.
+The carbon additive when controlled correctly will provide the user with a significant increase in energy throughput resulting in longer life.
+Further, the addition of a battery management system integrated with the vehicles and the chargers will allow the same experience as our lithium family of products.
+The third segment of our business Specialty, had another outstanding quarter particularly in light of the ongoing impact of COVID.
+Our results in this segment are being driven by our success in transportation where our backlog remains strong and over the road new truck demand is improving.
+The automotive aftermarket business was very strong in the quarter following several recent contract wins, along with continued success and retail channels with distributors such as NAPA.
+We have continued to increase EnerSys's market share in the transportation sector by leveraging our technology platform with TPPL.
+Our defense business improved sequentially in the second quarter as our thermal products continue to win more awards.
+Our ongoing expansion of these thermal products used in munitions also continues to progress.
+The majority of these programs have capitalized on our industry-leading cobalt disulfide battery technology that provides lighter weight and extended operating times for applications in air and missile defense, air to ground weapons, and hypersonics.
+Our satellite business continues to shine as well.
+Now that I've given you a brief overview of our second quarter results and the prevailing trends in each of our business segments.
+I wanted to take a look back at the strategic initiatives we outlined in our October 2019 Investor Day, which very much remain our core areas of focus today and we are seeing excellent progress in each of these.
+As a reminder, they include the following global initiatives.
+One, growing the portfolio of products in our Energy Systems business, particularly in telecom with fully integrated DC power systems and small cell side powering solutions, which will accelerate our revenue growth from 5G.
+Two, accelerating higher margin maintenance free Motive Power sales with NexSys iON and PURE.
+Three, increasing transportation market share in our specialty business; and fourth, reducing waste through continued rollout of our EnerSys Operating System.
+Our acquisition of the Alpha Technologies Group two years ago created the only fully integrated AC and DC power supply and energy storage provider for broadband telecom in energy storage systems.
+It positioned EnerSys to provide a single source solution for fiber connectivity enclosures, small cell power, power conversion, power distribution, and energy storage back up with a nationwide engineer furnish and install organization to turnkey and maintain the project.
+The opportunity we initially saw in office coming to fruition as large customers expanded their spending patterns from just batteries to EnerSys's complete systems offering.
+We expect this trend to continue in the quarters ahead.
+AT&T opportunities are improving for us as they deploy 5G infrastructure for macro and RAN sites, while our strategic collaboration with Corning to speed 5G deployment through a next generation touch safe line powering system for small cells is advancing.
+This collaboration will leverage Corning's industry leading fiber, cable and connectivity expertise and EnerSys's Technology leadership in their remote powering solutions.
+It has been endorsed by one of our largest telecom customers.
+We are excited by this opportunity in all of the actions we are seeing on the 5G front, to help you better understand the impact it is already having on our business.
+It is worth noting that we have already seen $50 million of 5G-related revenue lift during this year, which we believe is only the tip of the iceberg for this long-term growth driver.
+Unfortunately, the 5G benefit was masked by the reallocated capex spending from our larger broadband customers during the quarter as discussed earlier.
+We remain more excited and bullish than ever about the longer term impact 5G will have on our business, especially with the new technologies we are deploying to assist our customers in this mega trend.
+As a result, we are projecting steady 6% plus CAGAR of Energy Systems sales over the next five years.
+Our next strategic initiative maintenance free Motive Power is well on track to our five-year plan.
+In the quarter for example, while Americas flooded lead acid battery sales were down 25% year-on-year; Americas Motive Power TPPL NexSys sales were up 25% in the same period.
+As this trend continues and demand resumes, maintenance free will comprise a larger portion of our Motive Power revenue and the higher gross profit margins will have an even more dramatic impact on our profitability.
+We are now estimating that our maintenance free NexSys offerings will grow to be the majority of our battery business by fiscal year '25.
+We are pleased to say that the next generation initiatives growing transportation market share in the Specialty segment has been a resounding success over the past 12 months.
+The transportation business in the America's continues to improve as we see signs -- as we sign up new customers for ODYSSEY TPPL products in the premium automotive and trucking spaces.
+While still impacted by shutdowns from COVID, we grew our Transportation business by 64% this quarter with the integration of NorthStar and are currently limited only by TPPL capacity that will increase dramatically when the high speed line is fully operational.
+We are well positioned to capitalize on the strong backlog and ongoing demand for our long-term -- and our -- as our long-term transportation sales outlook matches our planned capacity over the next five years.
+At this point the integration of NorthStar is nearly complete, ODYSSEY branded automotive products are now being produced in NorthStar factories and our new high-speed line is proceeding through its commissioning in the newest plant with commercial revenue expected before the end of this calendar year.
+NorthStar factors report to a TPPL global leadership team to more effectively share best business practices with our three other TPPL factories.
+Managing TPPL under one global team has been critical to our ability to integrate NorthStar and increase production capacity in such a short period of time.
+Despite completing the integration, however, we've been hampered by under absorption at our factories due to COVID, as well as the inefficiencies inherent in all start-ups.
+These inefficiencies include the time necessary to hire new people and train them on new products and systems.
+This was more challenging in a period when many government incentives paid them to stay unemployed.
+These short-term manufacturing inefficiencies have masked other areas of operational improvement, which will contribute to shareholder value in years to come.
+While we are clearly on the right track and beginning to see the benefits of each of these initiatives, we estimate COVID-19 has delayed our progress against our Investor Day model by three to four quarters.
+With that in mind, during his portion of the call, Mike will provide an update on the plan we laid out during Investor Day.
+I'd like to conclude by saying that despite the challenges we've continued to confront with the pandemic, I am very proud of how our team has operated in this new environment.
+Looking ahead, we are extremely excited by the accelerated 5G build out and the significant opportunity for our industry-leading TPPL product provide us customers continue to seek a maintenance free solution to their critical power needs.
+With that, I'll now ask Mike to provide further information on our second quarter results and go forward guidance.
+However, I am starting with Slide nine.
+Our second quarter net sales decreased 7% over the prior year to $708 million, due to an 11% decrease from volume, a 1% decrease in pricing, net of 1% increase from currency and a 4% increase from acquisitions.
+On a line of business basis, our second quarter net sales in Motive Power were down 21% to $264 million and Energy System net sales were down 1% at $341 million, while Specialty increased 24% in the second quarter to $104 million.
+Motive Power suffered a 21% decline in volume, due to the pandemic and a 1% decline in price, net of a 1% increase in FX.
+Energy Systems had a 4% increase from the NorthStar acquisition and a 1% improvement from currency offset by decreases of 1% and 5% in pricing and volume respectively.
+Specialty had 17% from the NorthStar acquisition less 9% in volume improvements and 1% increase from FX, net of a 3% decline in price and mix.
+On a geographical basis, net sales for the Americas were down 8% year-over-year to $481 million with an 11% volume drop and a 1% price decline, net of a 4% increase from acquisitions, offset by 1% decrease from currency.
+EMEA had a 6% -- was down 6% to $172 million on 13% volume and 2% price declines with 5% improvements in currency and 4% from acquisitions, while Asia was up 3% to $56 million, due primarily to currency.
+Please now refer to Slide 10.
+On a sequential basis, second quarter net sales, were up slightly, compared to the first quarter driven by translation improvements.
+On a line of business basis, specialty increased 17% with NorthStar starting to contribute its capacity for transportation sales, while Motive Power was flat and Energy Systems was down 4% on soft broadband revenues.
+On a geographic basis, Americas were down 2%, EMEA was up 8%, while Asia was up 1%.
+Now few comments about our adjusted consolidated operating earnings performance.
+As you know, we utilize certain non-GAAP measures in analyzing our company's operating performance, specifically excluding highlighted items.
+Accordingly my following comments concerning operating earnings and my later comments concerning diluted earnings per share excluded all highlighted items.
+On a year-over-year basis, adjusted consolidated operating earnings in the second quarter decreased approximately $9 million to $66 million with the operating margin down 50 basis points.
+Lower commodity cost and operating expenses were not enough to offset the volume declines and higher manufacturing costs.
+However, on a sequential basis, our second quarter operating earnings improved 70 basis points to 9.35%.
+Operating expenses when excluding highlighted items were at 15.7% of sales for the second quarter, compared to 16.1% in the prior year as we reduced our spending by $11 million year-over-year and nearly $3 million sequentially.
+Excluded from operating expenses recorded on a GAAP basis in Q2, our pre-tax charges of $11 million, primarily related to $6 million in Alpha and NorthStar amortization and $3 million in restructuring charges.
+Excluding those charges, our Motive Power business segment achieved an operating earnings percentage of 9.2%, which was 120 basis points lower than the 10.4% in the second quarter of last year, due to the 21% lower volume mentioned earlier in driving a $11 million drop in operating earnings.
+On a sequential basis Motive Power's second quarter OE also dropped to 120 basis points from the 10.4% margin posted in the first quarter, due primarily to the reduction of $2.3 million in recovery on business interruption proceeds from the $3.8 million in Q1, down to $1.5 million.
+The recovery on our business interruption claim from the Richmond fire has nearly concluded as has most of the reconstruction of the facility.
+We received $5 million in April, which was reflected in last fiscal year's fourth quarter results.
+We received another $4 million in May, which was recorded in the first quarter of fiscal '21 and we received over $1 million in July, which are reflected in Q2's results.
+We expect to collect another $2 million on the matter, bringing the total recovered to nearly $13 million.
+Overall, the claim including property loss and cleanup along with the business recovery, totaled approximately $45 million.
+Energy Systems operating earnings percentage of 8.8% was up from last year's 8.6% and up from last quarter's 8%.
+OE dollars decreased $0.5 million from the prior year primarily from lower operating expenses and increased $2 million from the prior quarter on lower commodity costs and operating expenses.
+Specialty operating earnings percentage of 11.4% was down from last year's 12.3%, but up from last quarter's 6.5%.
+OE dollars decreased nearly $2 million from the prior year on higher volume -- excuse me, they increased nearly $2 million from the prior year on higher volume and increased $6 million from the prior quarter on higher volume and lower manufacturing variances.
+Please move to Slide 12.
+As previously reflected on Slide 11, our second quarter adjusted consolidated operating earnings of $66 million was a decrease in $9 million or 12% from the prior year.
+Our adjusted consolidated net earnings of $43 million was nearly $10 million lower than the prior year.
+The decline in adjusted net earnings reflect the decline in operating earnings, as well as a $4 million foreign currency loss, primarily on unfavorable exchange rates for intercompany balances.
+Our adjusted effective income tax rate of 17% for the second quarter was lower than the prior year's rate of 18% and lower than the prior quarter's rate of 21%.
+Discrete tax items caused most of these variations.
+Fiscal 2019s full-year tax rate was 17%, while our fiscal 2020 tax rate was just below 18%, which is consistent with our expectations for fiscal 2021.
+EPS decreased 19% to $1 on lower net earnings.
+We expect our third fiscal quarter of 2021 to remain near the $43.1 million of weighted average shares outstanding in the second quarter.
+As a reminder, we still have nearly $50 million of share buybacks authorized, but have no immediate plans to execute any repurchases with perhaps the exception of the modest annual repurchase made to offset employee stock dilution.
+Our recently announced dividend remains unchanged.
+We have included our year-to-date results on Slides 13 and 14 for your information, but I do not intend to cover these in detail.
+Our balance sheet remains strong and well positioned for us to navigate the current economic environment.
+We now have nearly $414 million of cash on hand and our credit agreement leverage ratio is now 2.1 times, which allows over $600 million in additional borrowing capacity.
+We expect our leverage to remain below 2.5 times in fiscal 2021.
+We generated over $87 million in free cash flow in the second fiscal quarter of 2021.
+Our first half free cash flow generation was very strong at $177 million.
+Our receivable collections also remained very good with our DSO matching its historical low.
+Capital expenditures of $40 million were at our expectations for the first half of the fiscal year.
+Our capex expectation for fiscal '21 of approximately $65 million to $70 million has expanded slightly as the economic outlook has improved.
+Our major investment programs, those being lithium battery development continued expansion of our TPPL capacity, including the NorthStar integration.
+The installation of our high-speed line and the transition of NorthStar products for the European market to our French factory are all progressing as planned.
+Our high-speed line is being commissioned this month and should soon commence operations.
+Even with these investments, we've had retained the agility to flex our manufacturing footprint as needed.
+Our decision announced last night to close our Hagen, Germany facility after nearly 25-years of group ownership reflects our assessment that; one, the transition of maintenance free solutions for forklifts; two, the collective oversupply of flooded batteries for forklifts in EMEA along with; three, the continued slump in demand from the pandemic and other market conditions.
+It was the decision we struggled with given the strength of the workforce and our lengthy ownership of that facility.
+It will cost in excess of $80 million with 75% being cash charges for severance, decommissioning, cleaning and closing open contracts with vendors, but it should payback in under four years and we can handle all expected demand from our other existing factories.
+We anticipate our gross profit rate to remain near 25% in Q3 of fiscal '21, as the lower utilization in some of our factories over the July to September months will not hit our P&L until this third fiscal period, which we are now in.
+We expect expanding margins thereafter.
+As we had previously mentioned, we recently took the time to refresh our outlook from that provided on our Investor Day last fall.
+As Dave mentioned, we still feel the core of our expectations remain intact beyond the nine to 12 month delay due to the pandemic in reaching our previously provided target for an additional $300 million in incremental adjusted net earnings.
+We believe the most profound updates are that; number one, the conversion to maintenance free solutions for Motive Power is progressing faster than initially expected, thus precipitating the closure of our Motive Power factory in Hagen, Germany.
+Number two, our increased confidence in our solutions for the 5G build out.
+Number three, stronger-than-expected demand in the automotive aftermarket.
+Number four, our planned TPPL capacity expansions will still satisfy our projected needs; and five, our performance in this recession has been as we predicted on Investor Day, if a recession were to occur.
+As Dave described, we believe Motive Power markets are recovering, while our Energy Systems and Specialty markets continue to have bright prospects.
+With some of the uncertainty from our elections in the pandemic behind us, we currently feel we have enough visibility to provide a guidance range of $1.17 to $1.21 in our third fiscal quarter.

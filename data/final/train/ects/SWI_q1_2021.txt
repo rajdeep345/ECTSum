@@ -1,0 +1,140 @@
+These statements are based on currently available information and assumptions, and we undertake no duty to update this information, except as required by law.
+These statements are also subject to a number of risks and uncertainties, including the numerous risks related to the cyber incident and the potential spinoff of our N-able business.
+Copies are available from the SEC or on our Investor Relations website.
+When we refer to financial measures, we will be referring to the non-GAAP financial measures.
+I hope you're doing well and staying safe.
+I've completed my first full quarter at SolarWinds, and I'm energized and inspired as I witnessed firsthand the tremendous dedication that our employees have to customer success, the competence, commitment and attitude displayed to execute on our Secure by Design initiative and to deliver demonstrable results, the commitment and trust our customers and partners place in us, something we deeply cherish and do not take for granted as we accelerate our journey to help them transform faster in an increasingly hybrid IT world.
+I continue to spend a lot of my time with our employees, customers and partners, whereas the conversations earlier in the quarter were largely about the cyber incident itself and what happened.
+Increasingly, the conversations are much more focused on what have we learned and how can we apply what we have learned to ensure the safety of our environment and those of our customers.
+In this regard, our Secure by Design initiatives are enabling us to have broader conversations with customers, thereby, bolstering our relevance to them even further.
+I'll expand on this in a minute.
+With respect to the cyber incident, we are also coming to the end of our investigation and will continue to provide updates as we conclude them.
+I will now touch on a few financial and operational highlights in Q1.
+Our teams did an excellent job of maintaining focus on delivering customer success.
+Our partners played a pivotal role as we executed the Orion Assistance Program in support of our customers.
+For the first quarter, we delivered revenues well above the high end of the range of our outlook with a total non-GAAP revenue ending the quarter at $257 million, representing year-over-year growth of 33%.
+First-quarter adjusted EBITDA was $106.5 million, representing an adjusted EBITDA margin of 41%, exceeding the high end of our outlook for the first quarter.
+Our Q1 core IT management maintenance renewal rate of 87% is higher than the low- to mid-80% renewal rates we noted we expected in 2021 when we discussed our full-year results in February.
+We continue to focus on customer retention as a key priority and hope to grow back to our historical and best-in-class renewal rates of over 90%.
+Our largest customer renewed with us while also increasing their license count.
+We have also seen other customers, including those in the federal sector, expand their investments with SolarWinds in the first quarter.
+We see these wins as validation of our team's proactive and sustained efforts to deliver industry-leading solutions that are not only powerful and affordable but also secure.
+Our N-able business, again, delivered double digit, 13% revenue growth in Q1, and we continue to expand our portfolio in support of our MSP partners and SME customers.
+We are accelerating our momentum in the database monitoring segment with the formation of a dedicated core team to help us capture what we believe is a large and growing market opportunity of over $6 billion.
+We were recognized by Gartner in the Magic Quadrant for application performance monitoring, another pillar of future growth potential for us alongside our database monitoring business.
+We expanded our offerings in Q1 as we continue to evolve to a full stack observability company that helps accelerate the digital transformation needs of our customers via an integrated platform with automation, monitoring, alerting and remediation capabilities, leveraging AI/ML techniques on a unified cloud platform to support hybrid IT deployments.
+We expanded our management team with the appointment of Andrea Webb as our chief customer officer; Tim Brown as our chief information and security officer; and Rohini Kasturi as our chief product officer.
+Additionally, Jason Bliss assumed the role of chief administrative officer, integrating the corporate functions of HR, corporate development, legal and IT.
+In addition, we added key management members to the N-able business, including a chief technology and product officer, a general counsel, chief customer officer and chief people officer, as N-able prepares to operate on a stand-alone basis.
+Now let me turn to an update on our Secure by Design initiatives.
+The recent cyber incident against SolarWinds, our widely used technology providers and our and their customers is a concerning new reality for the software industry.
+This represents the increasingly novel and sophisticated actions used by [Inaudible] space on the supply chain and infrastructure on which we all rely and illustrate the need for the industry and public sector to work together to share real-time information.
+SolarWinds is committed to sharing our learnings about this attack broadly given the common development practices in the industry and our belief that transparency and cooperation are our industry's best tools to help prevent and protect against future attacks.
+And we see an opportunity to help the industry -- to help lead an industrywide effort that we believe will position SolarWinds as a model for secure software environment, development processes and products.
+In fact, this is increasingly the topic of discussion as I engage more closely with our customers and partners.
+Over the past three months, our IT, product and development teams have been committed to implementing a series of actions that are designed to further enhance the security of our environment and system against attacks, including adopting least privilege access mechanisms and addressing further potential risks associated with third-party application access.
+We also recognize that our security posture and procedures are dependent on the people at SolarWinds.
+So we are investing in additional rigorous security training for our employees.
+Our initiatives continue to resonate well with customers and partners, and it is my goal to proliferate them as [Inaudible] as possible.
+We see these initiatives and investments as being consistent with our goal of being a best-in-class provider of powerful, affordable and secure solution.
+I'll spend the next five minutes giving an update on the N-able business and first-quarter performance.
+I'm excited to announce that in Q1, we completed the rebrand of N-able across our platform solutions, new website and partner community sites.
+Also, on April 14, we hosted an Analyst Day for equity analysts.
+First, the market opportunity for N-able starts with a small and medium enterprise IT spending, which is over $1 trillion globally and growing.
+SMEs [Inaudible] as much IT complexity as larger enterprises, but IT management and security are not the core competencies of most SMEs.
+As a result, SMEs have increasingly turned to MSPs to be their trusted partner through their digital evolution.
+And in turn, MSP is the technology that can be effectively -- can effectively address SME customer needs.
+Using our purpose-built software platform, MSPs are able to not just build successful service offerings but also play an increasingly important role in shaping SME IT spending decisions.
+We believe the market opportunity for our software solutions is approximately $23 billion and expected to nearly double by 2025.
+Second, why do we win?
+We win because we're architected for the MSP to enable them to effectively scale their businesses and are purpose-built across three pillars.
+The first is our monitoring breadth and depth, which has always been a strength of both N-able and SolarWinds.
+Our MSP partners that live in our platform day in and day out rely on the centralized view and alerts we provide on hundreds of thousands of different end customer environments and devices.
+In Q1, we expanded our monitoring depth.
+We went GA with our Microsoft Intune integration, allowing MSP partners to perform Intune device management functions directly with the N-able platform.
+We also extended our iOS device coverage to map workstations, adding remote access capabilities into additional types of network devices.
+Our second area of strength is our data protection and security solutions, which are fully cloud-based and seamlessly delivered via our RMM platform and give our MSP partners a truly layered approach to protecting their customers.
+In addition, because our platform gives our partners access into end customer environments, the security of our platform is extremely important.
+In light of the Secure by Design initiatives that Sudhakar has discussed in detail, we have and continue to implement end product security enhancements to our enabled products, such as multifactor authentication, single sign-on and SSH for network devices.
+Third, we offer what we believe our best-in-class partner success resources that train our partners on how to improve technician efficiency, build stronger books of business and become better business operators.
+This helps drive retention and expansion on our platform.
+We look forward to hosting our global Empower event later this quarter, and the discussions we'll have with our partners on industry trends and how to solve the challenges they face.
+As we strive to become a stand-alone Rule of 50 company with a heavier lean toward growth from the potential spin-off transaction, I want to highlight the unique aspect of our growth model called partner enabled expansion.
+We grow when we add new MSP partners and help our MSP partners grow.
+That's the fuel that propelled the model.
+[Inaudible] partner, we grow when the partner adds new technicians that use our sell-through solutions.
+More significantly, we grow when the partners add new SME customers and when those SMEs add employees and devices under management.
+We grow again when our MSPs deliver additional solutions powered by our platform.
+This is the power of our sell-through model and also the biggest driver of our net retention rate.
+Through this partner-enabled activity, our partners essentially act as an extension of our sales force.
+Turning to N-able's Q1 performance.
+We delivered a solid 13% total revenue growth and 15% subscription revenue growth, especially considering a couple of headwinds worth noting.
+First, after the cyber incident at the end of December, we slowed our demand generation and sales activity, which impacted new partner additions and expansions in January and February before returning to more normalized levels in March.
+Second, the continuing impact of COVID, which we began to experience during Q2 of last year, remains a modest year-over-year headwind, although the impact on our subscription revenue growth rates has continued to improve since the initial deceleration in Q2 of last year.
+Looking ahead, we're cautiously optimistic about improving conditions for the balance of 2021.
+We are making investments for growth in R&D, international go-to-market and partner success that we believe will position us for growth acceleration as we exit 2021.
+We remain excited about the planned spin of N-able, which we're still targeting to complete over the coming months.
+Our first-quarter financial results reflect solid execution while demonstrating the resiliency and sustainability of our model.
+We had a much better quarter than anticipated and finished well above the high end of the range of our outlook for the first quarter with total non-GAAP revenue ending the quarter at $257 million, representing year-over-year growth of over 3%.
+Total N-able revenue was $83 million, representing growth of 13%.
+John just talked about what is driving that piece of our business.
+And total -- or core IT management revenue was $174 million.
+Total license and maintenance revenue was $147.9 million in the first quarter, down 3.5% versus the prior year.
+Maintenance revenue was $123 million in the first quarter, up 6% versus the prior year.
+We typically disclose the maintenance renewal rate for our perpetual license products on a trailing 12-month basis.
+Our Q1 trailing 12-month rate was 91%.
+However, given the heightened focus on smaller windows of performance since the cyber incident, we want to provide the in-quarter renewal rate for Q1, which was approximately 87%.
+This exceeded our expectations for renewal rates in the low- to mid-80% range throughout 2021, which we provided on our last earnings call.
+In addition, we expect this renewal rate of 87% to increase by a few percentage points based on historical trends after factoring in renewals that expire bookings that occur post quarter end.
+For the first quarter, license revenue was $24.9 million, which represents a decline of approximately 33% as compared to the first quarter of 2020.
+The decline in license revenue is a result of the combination of the impact of the cyber incident, the continuing impact of the COVID-19 pandemic and our continued evolution to subscription sales for our on-premises products.
+Our on-premises subscription sales resulted in approximately 2-percentage-point headwind to our license revenue for the quarter.
+That said, we believe that the first quarter should be the most negatively impacted as it relates to the year-over-year growth.
+We substantially halted our demand gen activities from December through the early parts of the first quarter as we focused our efforts on assisting customers.
+We believe this negatively impacted our new license bookings in the first quarter and in the early portion of the quarter in particular.
+We saw acceleration in our business as we move throughout the -- through the first quarter, and we are working to continue that trend as we move through the rest of the year.
+Looking ahead, we expect to continue to have near-term headwinds on our business.
+Total ARR reached approximately $961 million as of March 31, reflecting year-over-year growth of 12%.
+Subscription ARR grew 13%, reaching $438 million at the end of the quarter.
+Moving to our subscription revenue.
+First-quarter non-GAAP subscription revenue was $109.1 million, up 15% year over year, which was driven by N-able's 15% year-over-year subscription revenue growth, as well as solid performance in core IT management subscription revenue.
+Our land, expand and retain model has successfully driven sustained growth in our customer relationships.
+We finished the quarter -- we finished the first quarter of 2021 with 1,074 customers that have spent more than $100,000 with us in the last 12 months, which is a 16% improvement over the previous year and 17% more since year-end.
+We are continuing our efforts to build larger relationships with our enterprise customers.
+We also had a solid quarter of non-GAAP profitability in the first quarter.
+First-quarter adjusted EBITDA was $106.5 million, representing an adjusted EBITDA margin of 41%, exceeding the high end of the outlook for the first quarter.
+Unlevered free cash flow for the first quarter totaled $51 million.
+Excluded from EBITDA and unlevered cash flow -- unlevered free cash flow are one-time costs of approximately $20 million, including $10 million of spin-off-related costs and $10 million of cyber-related remediation, containment, investigation and professional fees, net of insurance proceeds.
+I do want to clarify that these cyber-related costs, not included in adjusted EBITDA, are one-time and nonrecurring.
+They are separate and distinct from the $20 million to $25 million of Secure by Design initiatives, which are aimed at enhancing our IT security and supply chain process.
+These costs will be part of our recurring cost structure on a go-forward basis.
+We expect one-time cyber-related costs to fluctuate in future quarters but to be less in future periods than the amount incurred in the first quarter.
+These one-time cyber costs are, however, difficult to predict.
+They not only include the significant costs of the forensic investigation efforts that we are expecting to conclude in the near future, but also costs associated with our ongoing litigation, government investigations and potential judgments or fines and related professional fees.
+We expect our insurance coverage to offset a portion of these expenses.
+We expect our one-time spend-related costs to subside following the completion of the spin-off, which we are targeting to complete in the coming months.
+Net leverage at March 31 was 3.2 times our trailing 12-month adjusted EBITDA.
+With $374.4 million in cash at March 31, we believe we are well-positioned from a financial standpoint to continue to invest in the future growth of our business.
+I will now walk you through our outlook before turning it over to Sudhakar for some final thoughts.
+While ongoing customer renewals and pipeline growth are indicators of the health of our business, there is still enough uncertainty around the impact of the cyber incident on top of the continuing impact from the global pandemic that we feel is still too early predict a range of outcomes with the level of precision that we have provided in the past.
+As such, we believe it is prudent to only provide second quarter of 2021 outlook for total revenue, adjusted EBITDA and earnings per share.
+For the second quarter of 2021, we expect total non-GAAP revenue to be in the range of $254 million to $258 million, representing year-over-year growth of 3% to 5%.
+Adjusted EBITDA for the second quarter is expected to be $102 million to $104 million, which implies an approximately 40% adjusted EBITDA margin.
+As a reminder, our adjusted EBITDA margin is being impacted by the incremental spending associated with the Secure by Design initiative that we began implementing in the first quarter, as well as the growth initiatives that John and the N-able team were executing in anticipation of the potential spin-off.
+Non-GAAP fully diluted earnings per share is projected to be $0.21 per share, assuming an estimated 319.6 million fully diluted shares outstanding.
+And last, our outlook for the second quarter assumes a non-GAAP tax rate of 22%, and we expect to pay approximately $22 million in cash taxes during the second quarter of 2021.
+While we are not providing consolidated full-year outlook, I will say that we continue to expect license performance to improve versus Q1 as we move through the year in all regions.
+Based on what we've seen so far in the first quarter, we expect that maintenance renewal rates will be in the mid-80s for the rest of 2021, and we are targeting to return to historical performance in 2022 as we work with our customers to ensure their security and success and as we continue to further enhance our product portfolio.
+Increasing the percentage of our recurring revenue has been a focus over the past five years, and recurring revenue is down 90% of our total revenue.
+We intend to continue to expand these subscription offerings of our on-premises products in 2021 and make that new subscription sales a priority with our sales team.
+And finally, with respect to our conversion of adjusted EBITDA to free cash flow.
+Our rate for the first quarter was well below our historical trends.
+The conversion rate was negatively impacted by lower license and maintenance renewal bookings.
+The ongoing revenue mix shift to more subscription, as well as annual bonus payments, which are seasonally higher in the first quarter.
+We expect our conversion rate for the full year to be above 70% and grow to the low 80% range in 2022.
+Our team's competence, commitment and attitude was evident as we delivered a strong Q1 performance and delivered results exceeding our outlook in both revenue and EBITDA.
+I'm confident that our continued focus on customer success will make us even more relevant as we evolve our platforms and serve the evolving hybrid IT needs of our customers.
+We expect to enable ITOps, DevOps and SecOps professionals to have integrated experiences across automation and configuration, monitoring, visibility, alerting and remediation.
+These moves will further accelerate our progress toward a greater mix of subscription and recurring revenues.
+For the remainder of 2021, our focus will continue to be on executing on the initiatives that I outlined during our Q4 earnings call, focusing on customer retention and demonstrating ongoing progress in subscription, license and maintenance growth across all geographies and sectors.
+We hope to continue to demonstrate progress in customer retention, license and maintenance growth and accelerating our progress along with strategic and portfolio dimensions to support the growing needs of our customers.

@@ -1,0 +1,186 @@
+With me on the call are Dr. Jeffrey Graves, our President and Chief Executive Officer; Jagtar Narula, Chief Financial Officer; Andrew Johnson, Executive Vice President and Chief Legal Officer; and John Nypaver, Vice President and Treasurer.
+Actual results may differ materially.
+Before we begin, let me wish all of you a healthy and happy New Year ahead.
+2020 was an unprecedented year for everyone dealing with the COVID virus, but I'm happy to see improvements around the world as the new vaccines are being distributed in increasing numbers.
+I trust that 2021 will be a much better environment as we emerge from this crisis period.
+Before discussing our progress in 2020, let me comment on the postponement of our 10-K filing.
+As you know, one of our key actions last year was to begin divesting assets that were not core to our Additive Manufacturing business.
+We quickly prioritized the sale of our two software businesses GibbsCAM and Cimatron.
+They were focused on subtractive or machining technology.
+This divestiture, while complex to execute, went very well, and we closed at the end of the year, which allowed us to eliminate our debt and have cash on the balance sheet for future investment.
+Our auditors have asked for a little more time to bring their work to a close, and we therefore filed for an extension of our 10-K.
+With that said, we were very pleased to be able to release our Q4 and full year operational results last evening, which we have labeled as 'Unaudited' for clarity, and to discuss them with you today.
+With that, let me now recap the progress we've made in our business and our view of the future.
+For 3D Systems, 2020 presented both significant challenges and, along with them, clear opportunities for us to focus our company on what we believe will be an accelerating need for Additive Manufacturing across many industries moving forward.
+Many of you may recall that one of my first actions upon joining the company last May was to clearly define our purpose statement, that is to be the leader in enabling additive manufacturing solutions for applications in growing markets that demand high reliability products.
+Using this as our guidepost, we then developed a four-stage plan to deliver increased value to both our customers and our shareholders.
+Our four-part plan was simple: reorganize into two business units, Healthcare and Industrial solutions; restructure our operations to gain efficiencies; divest non-core assets; and invest for accelerated profitable organic growth.
+We set aggressive measurable goals and timelines and focused intensely on execution.
+These efforts began bearing fruit quickly with a return to growth in Q3, and rapidly building momentum on both our top and bottom line in Q4.
+From a topline perspective, the results really speak for themselves.
+Both our Healthcare and Industrial businesses delivered exceptional double-digit revenue growth on a consecutive quarter basis with our Healthcare business even surpassing last year's pre-COVID performance by a significant margin.
+From a bottom-line perspective, the combination of volume growth and the increasing benefit from our restructuring efforts, improved operating margin significantly, returning the company to profitability and positive operating cash performance.
+This was our first quarter of year-over-year revenue growth since 2018, and we delivered it while still battling the worst global pandemic in modern history and while executing a massive top to bottom reorganization and restructuring of the company.
+I could not be prouder of our leadership team and our tremendous employees worldwide who never took their eye off meeting our customer commitments through all of this change.
+This success has left us in a terrific position moving forward as the virus subsides and the world begins recovering in earnest later this year.
+With that quick summary, let me share a few highlights from each phase of our plan.
+Let's begin with reorganization.
+As a reminder, our company is focused on application-specific solutions for our core vertical markets, Healthcare and Industrial.
+Over the second half of 2020, we reorganized our sales and marketing activities, combining our hardware, material, software, and services resources into a unified application-oriented customer-focused organization, rather than having multiple independent teams as in the past.
+This reorganization not only improved our sales efficiencies, it also allowed us to work much more effectively with our customers on specific application solutions, which is a cornerstone of our strategy moving forward.
+Within each of our two business units, we have market-specific vertical leaders focused on key growth markets, such as dentistry, personalized health services, and medical devices within our Healthcare business, and aerospace, automotive, electronics, and consumer products for our Industrial business units.
+These business and market leaders determine both our go-to-market strategies and our development priorities for new products and services, ensuring the specific customer application needs are kept at the forefront of our resource allocation process.
+In addition to these changes in our sales structure, we also created a new group we call our customer success team.
+This group ensures that our customer needs continue to be met after their initial purchase over the life of the system.
+It includes servicing and upgrades of the equipment, providing our customers immediate access to our rapidly expanding materials portfolio, and delivering software upgrades that drive improved efficiencies in their manufacturing environment.
+These benefits ensure that the value our customers receive from their 3D Systems solution grow substantially over the life of their ownership, which can often exceed 15 years from the initial purchase.
+A testament to our success in delivering this value is seen in our customers' operations around the world each day.
+The 3D Systems technology provides over a 0.5 million production parts every 24 hours, 365 days a year, which is more than the rest of the industry combined.
+And with the breadth of our additive technologies now spanning an enormous range of plastic and metal application solutions, we're well positioned to build upon this foundation at an even faster pace moving forward.
+So with an understanding of how we're organized, let me comment briefly on our sales performance in the fourth quarter and the current market dynamics.
+For Healthcare business, we delivered exceptional growth in Q4 and notably this growth was seen broadly in both dental and medical applications, the latter of which includes medical devices, personalized healthcare, simulation systems and -- moving forward -- regenerative medicine or bioprinting for short.
+I'll comment further on this new area of the business in a few moments.
+But for now, suffice to say that our Healthcare business exited the year firing on all cylinders and we're very excited about the short and long-term outlook for this business.
+For our Industrial business, while we are still in a recovery phase from the extreme softness we experienced in the middle of 2020, in Q4 we were pleased to build upon the positive momentum we had established in Q3.
+Our Industrial business growth reflected increased demand in markets like aerospace, automotive and consumer applications as the industrial economy continued to slowly recover.
+We expect this momentum to continue in 2021.
+However, the risks of COVID headwind still linger until the vaccines are more widely distributed later this year.
+Once these pressures fully subside, we're very bullish on the outlook for this business.
+Next, I'll spend a few minutes summarizing our restructuring efforts.
+Last summer, we announced a restructuring program that was designed to ultimately yield a $100 million of run rate cost savings with $60 million to be achieved by the end of 2020.
+I'm pleased to say that we achieved our $60 million savings target by year-end and that our efforts are continuing unabated.
+Looking ahead, we have detailed plans within our core additive business to deliver an additional $20 million in savings this year, with the balance of $100 million linked to our analysis of future divestitures.
+As these efficiencies are realized, we will make prudent investment decisions to support the increasing opportunities for growth and profitability that we see ahead for our company and for the additive manufacturing industry in total.
+Jagtar will talk more about this in a few minutes.
+Moving next to our divestiture efforts.
+Having defined our company's focus last summer, we progressively evaluated all of our assets using this lens.
+It quickly became clear last year that certain of our businesses, while good performers in their own right, clearly did not feel well within our focus on additive manufacturing.
+As such, we began discussions with interested parties in several areas and successfully completed the sale of Cimatron and GibbsCAM at the year-end.
+These two businesses were focused on digital machining technologies and, as such, were outside of our core.
+Completion of the sale brought us increased organizational focus while enabling us to eliminate our debt and add cash to our balance sheet for future investment.
+We will continue to evaluate assets for divestment, consistent with our core strategy in the quarters ahead.
+The fourth phase of our transformation process corresponds to investment for growth.
+As we move into 2021, we see two significant drivers of accelerated demand.
+One is the technical maturity of additive solutions on an industrial scale, which is now become increasingly clear to OEMs worldwide.
+The second is an accelerating cultural change in our customer base associated with the rise of a new generation of engineering design leadership that was exposed from a young age to additive manufacturing.
+These engineers, which began entering the workforce in large numbers over the last decade, are embracing the benefits and design paradigms associated with additive manufacturing, which essentially decouples component complexity for manufacturing costs.
+This allows our customers to design products that have greatly enhanced performance and reliability, while avoiding cost penalties that would occur using traditional machining, molding, or casting methods.
+When combined with the new materials that are now available for printing, the result is a dramatic increase in demand for Additive Manufacturing solutions.
+To be a leader in this exciting market, we believe that a company must have expertise in hardware and software, with a strong portfolio of advanced materials to enable application solutions that are critical to our customers' product performance and cost objectives.
+Solving for specific applications often requires a unique combination of these elements which we bring together through our application engineering experts.
+Moreover, many customers have a strong need for both polymer and metal solutions, which is why we continue to invest systematically in both technology areas and leverage them as required to meet these rapidly evolving needs.
+Looking ahead, we see significant growth opportunities in each of our core markets.
+Within Healthcare, this includes dental applications as well as a rapidly growing range of medical device applications and the emerging field of personalized health services.
+These services encompass both surgical aids that are custom-created, to match a patient's specific procedure as well as implanted devices that aids in the patient's recovery or quality of life.
+We anticipate all of these applications for which performance and quality are of paramount importance to be both the near-term and long-term drivers of the business.
+Adding additional exciting momentum to our Healthcare business over the long-term, meaning 2022 and beyond, will be our newest area of development, regenerative medicine.
+As we announced in mid-January, over the last three years, our Chief Technology Officer and the Inventor of the entire Additive Manufacturing industry, Chuck Hull and his team, have been working very closely with our partner, United Therapeutics, to demonstrate the capability to actually print human organs in order to address the enormous need of transplant patients.
+The first application selected for development was a fully functioning biocompatible human lung.
+In December, we created a -- we reached a critical milestone in these efforts.
+In short, we demonstrated the capability to reproducibly print extremely complex, ultra-thin walled structures using collagen-based and other biocompatible materials.
+These structures which have the required balance of properties needed for organ application, enable vascularization to support blood flow, and thus the ability to sustain human life.
+The printed structures are perfused with human cells, which can thrive and multiply, which is why the team has named the process Print to Perfusion.
+While there is more work to do, including completion of the required regulatory approvals, the printing technology that has now been demonstrated for the lung application can be taken in many additional directions.
+Near term applications are numerous, such as the creation of customized soft tissue implants for trauma patients or for use in breast reconstruction following mastectomy.
+In the laboratory, the creation of test modules termed tissue-on-a-chip could be used to better simulate human response to new drug therapies, shortening the development time and reducing or even eliminating the need for animal testing.
+All of these applications and a host of others are now within reach, which is why we've made the decision to increase our internal investments and to expand our application partnerships in regenerative medicine in 2021.
+So in short, looking ahead for Healthcare business, we see an exciting year ahead.
+This momentum continues to build with expanding applications and an even more exciting long-term outlook as regenerative medicine opens entirely new and potentially significant markets for the company.
+Turning to our Industrial business, we see a continuation of recovery as the impact of COVID on the global industrial economies recedes.
+We are particularly excited about our near-term efforts in space systems, where additive manufacturing of large, complex, metal components for rocket propulsion is helping build a foundation of experience for our newest generation of metal printers, which are particularly well suited to high temperature, lightweight materials.
+Automotive and semiconductor equipment applications are also offering near-term growth potential, as is electrical componentry applications where customization is beneficial to performance.
+Based upon our development pipeline, we also expect 2021 to be an exciting year for expansion of our materials portfolio, which is central to the benefits that our customers derive from the use of additive manufacturing.
+The availability of these new materials in concert with our customer success team, organizational change, is intended to maximize the benefits we bring to our customers over the lifetime of their investment in our printing technology.
+To end on an exciting note, with regard to our Industrial business, we were very pleased to announce last week a brand new industrial product platform for 3D Systems, which we refer to as High Speed Fusion or our HSF technology.
+This filament fusion process developed in conjunction with Jabil is specifically targeted at aerospace and automotive applications.
+Growing out of a project, we referred to as Roadrunner, the printer itself is three times faster and more precise than competing systems in the market today.
+It also has a significantly larger working volume and very high temperature printing capability that is essential to next generation polymer systems for the demanding aerospace and automotive applications with size, speed and precision that exceeds any of the current market offerings.
+Equally important, we will be offering a broad range of materials for this new platform, which should further accelerate its adoption in the market.
+Based upon our initial analysis, these new markets that Roadrunner will open for us are in excess of $400 million and we'll expand from there as the full capabilities of the new platform are adopted.
+This development effort has been under way for over a year, and we expect the platform to be fully available to the market in 2022.
+This adds one more exciting dimension to our Industrial business.
+So let me conclude my introductory comments by saying simply that we're very pleased with our progress over the last six months.
+We look forward to building upon this momentum with a strong focus on growth and gross profit margin expansion in our core Additive Manufacturing business moving forward.
+With a strong balance sheet, improving margins and exciting growth opportunities opening ahead of us, we look forward to a terrific future for all of our stakeholders.
+Let me begin my commentary by reminding everyone that the financial data that we are discussing remain subject to final audit by our independent registered public accounting firm.
+As a result, our actual results may differ from the anticipated results discussed.
+As Jeff discussed earlier, in the fourth quarter, we achieved a development milestone in our regenerative medicine efforts.
+This triggered a cash payment from one of our development partners related to this achievement.
+That payment and our growing initiative in regenerative medicine prompted us to reevaluate our accounting methodology for this contract.
+However, it is important to note that this recasting has only a minor impact on the numbers and does not have any impact at all on our bottom line reported results.
+In addition, to be extremely clear, when viewed in the context of our overall revenue growth in the fourth quarter, the impact of this payment was immaterial to our results.
+Even if the payment would have been entirely excluded, we would still have seen year-over-year growth in the fourth quarter.
+Now moving on to the numbers, starting with a look at the full year 2020.
+2020 revenue of $557.2 million decreased 12.4% compared to the prior year, primarily due to the impacts of COVID-19, the effects of which occurred most severely at the onset of the pandemic, with a strong rebound in activity in the second half of the year.
+As we discuss our results in the future, it will be important to compare our growth to a baseline that excludes revenue from divestiture activities, such as the divestitures that closed just after the new year.
+This revenue will no longer be part of our operating model, and we want to provide a clear baseline revenue for 2020 on which we intend to grow organically in 2021.
+As such, excluding $44.4 million of revenue from businesses that were divested last year or at the beginning of this year, baseline 2020 revenue would have been approximately $512.8 million.
+Our growth from this baseline provides a way to measure performance of our Additive Manufacturing business in 2021.
+Gross profit margin on a GAAP basis for the full year 2020 was 40.1% compared to 44.1% in the prior year.
+Non-GAAP gross profit margin was 42.6% compared to 44.8% in the prior year.
+Gross profit margin decreased primarily due to the under-absorption of supply chain overhead resulting from lower production and end-of-life inventory changes of $12.4 million and mix.
+Operating expenses for the full year 2020 on a GAAP basis increased 1.4% to $342.3 million compared to the prior year.
+On a non-GAAP basis, operating expenses were $236.9 million, a 16.2% decrease from the prior year.
+The lower non-GAAP operating expenses reflected savings achieved from cost-restructuring activities as well as reduced hiring and lower travel expenses resulting from the coronavirus pandemic.
+Moving on to the specifics of the fourth quarter.
+For the fourth quarter, we expect revenue of $172.7 million, an increase of 2.6% compared to the fourth quarter of 2019 and an increase of 26.8% compared to the third quarter of 2020, driven by growth in both Healthcare and Industrial.
+We were quite pleased with this organic revenue growth, which we delivered while still facing headwinds from the pandemic that impacted our operations and those of our customers.
+We expect a GAAP loss of $0.16 per share in the fourth quarter of 2020 compared to a GAAP loss of $0.04 in the fourth quarter of 2019.
+Turning to non-GAAP results.
+We expect non-GAAP income of $0.09 per share in the fourth quarter of 2020 compared to non-GAAP income of $0.05 per share in the fourth quarter of 2019.
+Consistent with our new strategic focus announced late last year, we are now discussing revenue by market, Healthcare and Industrial.
+Revenue from Healthcare increased 48% year-over-year and 42.4% quarter-over-quarter to $86.6 million, driven by all parts of the Healthcare business: dental, medical devices, simulators and regenerative medicine.
+Excluding dental applications, revenue in the balance of the Healthcare business, which we refer to broadly as medical applications, increased 27.7% year-over-year.
+In short, we were very pleased with both the magnitude and the breadth of the revenue growth in our Healthcare business in the fourth quarter.
+Industrial sales decreased 21.6% year-over-year to $86 million as demand has not fully rebounded to pre-pandemic levels.
+On a sequential quarter-over-quarter basis, we saw broad-based revenue improvement of approximately 14.2% in our Industrial business, with no single customer or segment responsible for the improvement.
+Now we turn to gross profit margin.
+We expect gross profit margin of 42% in the fourth quarter of 2020 compared to 44.1% in the fourth quarter of 2019.
+Non-GAAP gross profit margin was 42.9%, compared to 44.3% in the same period last year.
+Gross profit declined year-over-year, primarily as a result of timing and the reallocation of costs from opex to cost of goods sold.
+Looking forward, and as mentioned previously, our gross profit will be impacted by the sale of our Cimatron and GibbsCAM software business.
+While revenue in these two businesses were expected to decline, their divestiture is expected to negatively impact gross margins going forward by about 300 to 400 basis points, while our restructuring and transformation activities will benefit gross margins.
+Net, going forward in 2021, we expect non-GAAP gross margins in a range of 40% to 44%.
+Operating expenses for the fourth quarter were $71.7 million on a GAAP basis, a decrease of 9.2% compared to the fourth quarter of 2019, including an 11.2% decrease in SG&A expenses and a 3.1% decrease in R&D expenses.
+Importantly, our non-GAAP operating expenses in the fourth quarter were $58 million, a 15.8% decrease from the fourth quarter of the prior year as we saw the benefits from our restructuring efforts.
+The primary differences between GAAP and non-GAAP operating expenses are $6.1 million in restructuring charges as well as $4 million in amortization of intangibles and stock-based compensation and $3.7 million in legal and divestiture-related charges, consistent with our historical GAAP to non-GAAP adjustments.
+Next, I would like to briefly touch on our cost-reduction activities.
+Recall that in 2020 we announced a restructuring to reduce operating costs by $100 million per year, with $60 million of annualized cost reduction by the end of 2020.
+As Jeff mentioned, we were pleased that we delivered on our objective of $60 million cost reduction in 2020.
+In addition, we have plans for an additional $20 million of cost reductions in 2021.
+Additional cost reductions beyond what is currently planned for 2021 require us to streamline and integrate parts of our business that we may instead choose to divest.
+Therefore, the plans to achieve the remaining $20 million toward our $100 million cost-reduction plan will be achieved by divestitures or through further cost reductions that we will implement once we have finalized our divestiture analysis.
+As we look forward in 2021, our operating expenses will be impacted by the sale of our Cimatron and GibbsCAM business, our cost-transformation activities and our investment decisions that are expected to drive future growth.
+We are excited about the opportunities in our markets and will continue to make investments in 2021 to position the company well for future growth.
+This quarter, we are introducing adjusted EBITDA as a metric that we find useful in measuring the health of the business.
+We focus on adjusted EBITDA as evidence of the results of our strategy and restructuring actions, and we believe it is a helpful metric to use to compare to prior results.
+Adjusted EBITDA, defined as non-GAAP operating profit plus depreciation, was $28.7 million or 5.2% of revenue in 2020, compared to $31.2 million in 2019 or 4.9% of revenue.
+For the fourth quarter of 2020, adjusted EBITDA improved materially to $22.9 million or 13.2% of revenue, compared to $12.9 million or 7.7% of revenue in the fourth quarter of 2019.
+The improvement is the result of the business growth in the quarter as well as the results from our restructuring efforts.
+We were pleased that we could grow adjusted EBITDA in Q4 despite the challenging economic environment.
+Now let's turn to the balance sheet.
+We ended the quarter with $84.7 million of cash on hand, including restricted cash and cash and assets held for sale.
+Cash on hand decreased $50 million since the beginning of 2020.
+Importantly, our cash on hand increased $8.4 million from Q3 2020 to Q4 2020.
+We did not issue any shares under our at-the-market equity program called the ATM program during the quarter.
+Therefore, the increase in cash on hand reflects the improved operating performance of the company and the flow-through of cost actions that we have taken.
+Our term loan at the end of the year was $21 million.
+We have a $100 million revolver that was undrawn as of December 31, 2020, and has approximately $62 million of availability based on terms of the agreement.
+Following the sale of our Cimatron and GibbsCAM business, which officially closed at the beginning of January, we used part of the proceeds to pay off the term loan, making us debt-free and in net cash position as we moved into the new year.
+Additionally, as previously discussed, we terminated the ATM program.
+As we look forward into 2021, we have greatly improved the operating efficiencies of our business and are continuing to do so.
+We are focused heavily on reinvesting for growth based on the increasing opportunities we see for our core additive manufacturing business, and we are continuing the evaluation of our portfolio with an eye toward the potential for divestitures and subsequent reinvestment of proceeds into our core business efforts.
+We believe that our market opportunity has considerable growth potential.
+We have made tremendous progress in cost reduction and operational efficiency and have chosen to reinvest portions of the savings back into the business to drive future growth.
+In 2020, we completed the reorganization and restructuring of our company to drive growth in our core businesses, successfully achieving our targeted cost savings while focusing on delivering application solutions for our customers.
+As a result, we're now a company with a strong focus on two key markets, Healthcare and Industrial Solutions, and one that has a much more streamlined and efficient cost structure.
+We started 2021 by completing the sale of our Cimatron and GibbsCAM software businesses, and we'll continue to see cost savings from our restructuring efforts throughout the year.
+We'll continue to explore divesting noncore assets and look to grow our customer relationships through focusing on application solutions in our most exciting growth markets.
+We believe revenue in our core business centered around a solutions-based approach to Additive Manufacturing will grow rapidly moving forward.
+And we'll selectively invest for growth opportunities like regenerative medicine, materials development and ongoing improvement in our product lines.
+Many may ask what rapidly means in terms of growth rates.
+All we can say today is that uncertainty remains around the pace at which COVID impact will receive and the global economies rebound.
+We're hopeful that the momentum continues to accelerate.
+And with that, we'll be able to deliver double-digit growth rates in our core additive business in the year ahead, but these next few months will ultimately determine this outcome.
+What I can say with certainty is that our continued focus on operational execution.
+We are very excited about the trajectory we're on and the future value we expect to bring to all of the stakeholders in our company.

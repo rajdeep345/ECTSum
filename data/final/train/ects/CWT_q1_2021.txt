@@ -1,0 +1,125 @@
+As a reminder, before we begin, the Company has a slide deck to accompany the earnings call this quarter.
+Because these statements deal with future events, they are subject to various risk and uncertainties and actual results could differ materially from the Company's current expectations.
+I'm going to pass it over to Tom to begin.
+I'm going to tie my comments to the slide deck and I'm going to start on Slide five, which is the results table and comparative 2020 through -- to 2021.
+Our operating revenue for the quarter was up to a $147.7 million from $125.6 million in the first quarter of 2020 and we'll talk about the reasons for that in a moment.
+And our net loss decreased from $20.3 million to $3 million, as well as our earnings per share, loss per share rather went from $0.42 loss to a $0.06 loss for the quarter.
+Capital investments, I'll point out on this slide, were up very slightly and according to our plan.
+And then switching to Slide six, our financial highlights.
+So as we mentioned -- as I mentioned a moment ago, the net loss decreased by $17.3 million and that was primarily the result of the adoption of the California General Rate Case late last year.
+So we had a couple of different factors associated with that.
+The first was obviously, the rate increases associated with that, that added $4 million of revenue.
+In addition to that, if you'll recall back in the 2020 first quarter, we did not recognize our balancing mechanisms that's WRAM and the MCBA coupling mechanisms, as well as our pension and healthcare balancing accounts.
+And by recognizing them here in the first quarter of 2021 as they were continued and adopted in the rate case.
+We're adding $7.6 million of revenue associated with that.
+We did have as you'd expect increases in our other operations, depreciation and associated costs and that offset somewhat the revenue increases from the rate case as well as the recognition of the mechanisms.
+As we have mentioned at year-end, our AFUDC equity that's the funds used during construction -- the equity funds used during construction is lower and as a result of a lower amount of construction work in progress during 2020, we had a significant capital project associated with the Palos Verdes Peninsula Water Reliability Project and that was adding to our AFUDC equity all year.
+So we're expecting to see lower AFUDC equity here in the quarter, it was down about $1 million.
+I mentioned is up slightly.
+We believe we're on target for capital for the year.
+And then two other items that are outside of our general control, but I did want to mention because they are fairly significant in the quarter.
+The market value of certain of our retirement plan assets was in -- so the market value increased $0.3 million as compared to a loss of $4.7 million in the first quarter of 2020.
+So kind of a return to normal for that -- for that item [Technical Issues] now first quarter of 2020.
+And then our unbilled revenue very similar, we had a $1,000 loss on unbilled revenue, very small and probably more typical as compared to a negative $3.7 million in 2020 which was a sort of an atypical drop in that unbilled revenue accruals.
+And so those two items I'd say are a little bit more normal compared to the abnormal amounts that were in the last year.
+Flipping to Slide seven, I won't talk in detail about this, but this is our waterfall earnings per share bridge chart that covers those same topics.
+Next on Slide eight, I'll just make a brief comment about the tax rate, I know some of the analysts look at the effective tax rate of the company.
+Just wanted to remind everyone that during 2021 we are refunding to customers in rates, $19 million of excess deferreds associated with the change in tax rate for the Tax Cuts and Jobs Act.
+And that drives down the effective income tax rate to 6%.
+So there is a -- the revenue is down and the tax rate is down and so we aren't making any money on that, but just when you see the headline tax rate it's very low.
+The second thing, there was a big benefit at the end of 2020 related to our mains and services repairs investments and the state tax deduction that we're allowed to take there.
+And just to update you on the estimates, in 2020 we had $160 million of deductible mains and services repairs investments, and our current estimate for 2021 is that we will have $60 million that qualifies for that tax treatment, and so that's going to be a factor that's going to be a little bit lower for the year 2021.
+Capital spending is still anticipated to be between $270 million to $300 million.
+That hasn't changed, but it's just the timing of the close of certain projects that is going to change that tax qualification.
+So the first one is our cost of capital filing.
+The cost of capital, if you will remember is filed once every three years.
+Our last one was in 2017, because we had a one-year extension.
+We will be filing that cost of capital application on Monday, May 3rd, and in our application that we will be filing with the Commission we're requesting a return on equity of 10.35%, that is up from the currently approved 9.2% cost of equity.
+We also will be taken advantage of refinancings, and new debt issuances.
+So that our embedded cost of debt is going down a 128 basis points from the previously authorized 5.51% cost of debt, to a new cost of debt of 4.23%.
+Coupling those two together the increase in cost of equity and the decreased cost of debt means that our rate of return -- authorized rate of return that we are requesting would go up just slightly from 7.48% to 7.5%, and what that really means from a customer perspective is that the median bill increase should be about $0.34 a month.
+So, really not a big change on the customer's bill at all.
+Now we do recall that though -- the cost of capital filing will be reviewed by the Commission, and would be approved for -- to be effective in January 2022.
+I might also point out that our capital structure, which is about 53% equity and 47% debt will remain unchanged in this particular application.
+Not only are we refinancing existing debt with new lower-cost debt, but because we've been investing so much capital, and have been obtaining new debt at a lower cost, that is really what's helping drive our overall cost of debt down, which is a benefit to our customers.
+The second item I'll talk about just briefly is our our three-year General Rate Case filing that will be filed in -- on July 1st, actually July 3rd, because the 1st is a weekend.
+We are working on that right now, and we will provide more information to you all when we get to our next quarterly conference call.
+I want to provide a quick update on our continued efforts in responding to the COVID-19 pandemic.
+First and foremost, let me start off by saying we have continued to see the incremental benefits of people being vaccinated in all four states that we operate in.
+Currently over one-third of our employees have been vaccinated, which is great news.
+The vaccine rollout was a little bumpy at first, but we've seen those bumps kind of smooth out, and we continue to see daily increases in a number of employees that we've seen vaccinated, as well as we have seen a steep decline in the number of cases of COVID found within the Cal Water family or from our employees.
+We only had a -- five cases in the first quarter that we've seen where employees have become sick, and then recovered.
+To date we've had no -- we've sustained no loss of the life with Cal Water employees for which we're very grateful for.
+In terms of supporting our customers, we have maintained a suspension of all collection activities in all four states.
+You're starting to see that lifted in different states around the U.S., in the four states that we operate in our suspension of collection activities is still in full force.
+We have seen and continue to see an increase in customer account aging from suspension of collection activities, that bills currently over 90 are about $11.6 million, and we have adjusted our bad debt reserve, an additional $0.5 million from $5.2 million to $5.7 million, and I'll talk more about some creative things we're doing working with the Commission a little bit later on collection activities.
+The incremental expenses associated with our COVID response was approximately $300,000.
+That gets recorded in a memo account for a potential recovery at later dates in Hawaii and California.
+Interesting to note that water sales have been a 105% of adopted, really driven by the fact the residential demand has been higher and that's been offset by lower business and industrial use.
+And so as we start to see business use just kind of pick back up, and things get back to normal, we'll expect to see that the business and industrial sales pick up.
+Our liquidity has remained strong.
+We had $84.4 million of cash, and additional capacity of about $115 million on the lines of credit, subject to some borrowing conditions.
+So I think we weathered the worst of the COVID storm, and we're starting to come out of it.
+California, which is the largest entity that we operate in, is scheduled to be fully opened back up for business here on June 15th.
+Going on to the next slide, I want to just take a moment to talk about our recently published ESG report.
+Our report was published a few weeks ago, that aligns with SASB and referencing GRI is now available.
+There is a link in the deck that will take you to the report.
+Additionally, for those of you that get the hard copy of the Annual Report and proxy, there is a summary ESG report that's included in our annual report.
+A lot of hard work went into producing our first ESG report.
+We're very, very proud of it, and we're very proud of the work we're doing on the ESG frontier.
+And I look forward to reporting more on this as we work on our ESG-related projects throughout 2021.
+I'm going to hand it back over to Paul to give you a quick update on acquisitions.
+The business development effort at Cal Water has been very active, and very successful.
+You will recall that last year we closed upon two deals.
+That was the Rainier View Water System in Washington and the Kahao system -- I'm sorry, the Kalaeloa system in Hawaii or you can see on Slide 12, we have six other announced acquisitions that we are working on.
+The first one, the Kapalua Water and Wastewater System, we actually expect to close that here within the next few days.
+It's very exciting to be adding another system to the Cal Water, or in this case the Hawaii Water family.
+And the other items listed on this list The Preserve at Millerton, Animas Valley, Keahou, Skylonda, Strohs, you can see we have activity in all of our operating states, and we are working to get all of those closed as well.
+So they are announced -- a number of announced systems.
+A number of other systems still in the pipeline.
+It is an exciting time for acquisitions with our company.
+And with that, Marty, I will give it back to you.
+Actually it will go over to Tom.
+Yup, I am going to grab it.
+Tom will take it to the next slide.
+So we're on Slide 13, and this is our traditional graph of capital investment.
+Last quarter, we added a line for depreciation.
+So you can see the relationship between the capex that we're making and the depreciation that occurs every year in our systems.
+And the point there being that we've been averaging about three times our depreciation accrual every year for the last five years.
+And so this chart, and projection only goes through system there are of $285 million is the midpoint between our window of $270 million to $300 million of capex during the year, and we --- when we have our second quarter call, and we release the details of our General Rate Case in California, I'll be updating this slide.
+So you'll see the years 2022 through 2024 on here as well.
+Flipping to Slide 14.
+This is our rate base slide and similar comment here, which is that we will project rate base out from 2023 through 2025 on the basis of the rate case filing, and you'll see that in the second quarter slide decks.
+So not too much new on the rate base estimate on Slide 14 right now.
+Just a couple of things ticked as we close out our call and get ready for Q&A.
+First and foremost, Q1's our slowest quarter.
+It's always nice to get it done.
+Administratively, it's a very heavy quarter because we have our year-end audit, get the annual report done, and then this year, we got the ESG report done.
+That takes us us into a very, very busy Q2 administratively with the filing of our cost of capital proceeding that Paul talked about, where we're requesting a slight increase as well as filing our 2021 General Rate Case.
+And our 2021 General Rate Case is voluminous, there's tens of thousands of pages that gets filed here with the commission this quarter, and a lot of effort go into pull in that rate case off.
+So we look forward to getting that on file and moving forward and as Tom said we'll update everyone during our second quarter earnings call on where our request came in at for the 2021 General Rate Case.
+Additionally, and this is more kind of late breaking news, some of you may have seen in the press, the last 24 hours to 48 hours, a few parts of the state of California have declared drought emergencies.
+In particular Governor Gavin Newsom in the state of California declared a drought emergency for Sonoma and Mendocino counties, in Northern California.
+Given that the very mild winter season that we had this year coupled with the fact that our snow pack as of earlier this week was only 25% of normal, we fully expect to see more drought declarations at the local level happen throughout 2021.
+For those of you that know we spend a -- remember, we spend a lot of time on our emergency preparedness and emergency planning, likewise as part of the rate case process, we are updating our water supply master plans, which also include drought contingency master plans.
+What does that mean at a 25,000 foot level, the reservoirs in California, currently, they're in decent shape, I wouldn't say they're in great shape.
+But they're in decent shape going into the summer months.
+The real issue from a drought perspective is what is winter going to look like this year and if it's a light winter again what happens in 2022?
+So that'll be something to watch as we move into what is potentially a more disruptive fire season and a more disruptive public safety power shut down season given the fact it's been such a dry winter for us.
+As we think about fire season and PSPS season as we point out in our ESG report despite the many challenges of operating in a COVID environment over 97% of our employees have completed their emergency response training this year and our efforts are well under way to be prepared for early fire season and the various PSPS events that could happen throughout the state.
+As you may recall, last year despite a number of PSPS events throughout the state that went on, in some cases for two, three, four days, none of our customers went without water due to successful planing by the company -- contingency planning and the ability to move resources up and down the state to make sure we kept our systems pressurized and our pumps running.
+As we get into kind of hopefully what will be the final throes here of COVID-19 and we are seeing things improve.
+And as I mentioned earlier, June 15th is the official date declared by the California Governor that the state will officially reopen back to some amount of normal, then that's to be defined.
+We continue to work with the commission on creative solutions for our customers that have been impacted by COVID.
+In particular, as part of the low income OIR Phase-II we did propose a program for wage management.
+Similar to what the electric utilities got approved recently and as part of our proposal, we propose that people who have past-due balances due to COVID as long as they keep paying their water bill that we would give them a credit equal to one-twelfth of the outstanding balance, provided if they keep making their payments until they are paid in full and current.
+And then that credit that gets issued every month would go into a balancing account for recovery at a later date.
+This program for the water industry has not been approved yet, but it has been approved for the electric industry.
+So we're waiting to see what the commission does with that.
+Obviously, we'd like to see those past-due balances get paid down as we get back to a more normal operating environment.
+Having said all that, it is very nice to get Q1 done.
+It's very nice to see the light, hopefully, at the end of the tunnel with COVID and seen employees get vaccinated and it's starting to get back to what is a normal environment.
+We do not have our of employees back in the office yet, 90% of our employees have been at work every day, because they are field employees.
+Our corporate employees are the ones at our corporate offices have been the ones that have been working more remotely and we are in the process of finalizing our back-to-work plans and we'll continue to monitor the local jurisdictional requirements to bring people back to work.
+So that can vary kind of county by county in the state of California.
+But our plans are developed and we're ready to roll, once we get the green light to bring people back to work.

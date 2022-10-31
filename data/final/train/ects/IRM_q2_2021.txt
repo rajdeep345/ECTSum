@@ -1,0 +1,151 @@
+We are joined here today by Bill Meaney, president and CEO; and Barry Hytinen, our EVP and CFO.
+Today, we plan to share a number of key messages to help you better understand our performance, including our Q2 outperformance, the increased momentum in the business, our updated outlook for 2021 financial guidance, the continued growth in our data center business, and the strong performance in our growth areas.
+In addition, we use several non-GAAP measures when presenting our financial results.
+We have included the reconciliations to these measures in our supplemental financial information.
+I hope you and your families are safe and well.
+This strong performance in both Q2 and the first half of the year reflects the breadth and depth of our products and solutions and the strength of our deep customer relationships.
+Our second-quarter results especially reflect increased demand for our services across our key markets and is based upon these strong results and the increased momentum in the business that has caused us to increase the midpoint of our financial guidance, as well has increased the expected bookings in our data center business.
+As we celebrate and honor Iron Mountain's 70th anniversary this month, I am extremely proud of what our team has accomplished in growing our relationships with our large and diverse customer base in spite of the continued challenges due to COVID.
+Our Mountaineers across the globe have conquered every obstacle with tenacity in an innovative mindset, all with a focus on accelerating growth in services to assist our customers.
+Before we dive into our record results and the positive momentum in our business, I want to take a moment to reflect on the current situation with the pandemic and new variants still wreaking havoc in many parts of the world.
+In addition to operational complexities, we're also dealing with the realities of the workplace and a world changed forever by the COVID-19 pandemic.
+In Iron Mountain, we're thinking how we can move forward instead of getting back to normal, all while remaining diligent to ensure the physical and mental health, as well as the overall safety of our teams, their families and our customers.
+As I mentioned earlier, this year, we celebrate 70 years of Iron Mountain.
+It's a legacy with a rich inspired past, which continues inspiring the future.
+Since that day on 24 August 1951, we have built, evolved and expanded our trusted relationship with our customers to include not just the leading storage platform of physical assets but now includes a rapidly increasing range of business services.
+These new services are centered around data center colocation, information security, data insights, IT asset disposition and business process management.
+And today, with this broadened portfolio of services and storage capabilities, we have become an innovative and global leader in our field with more than 225,000 customers, including more than 95% of the Fortune 1000, a global footprint of more than 1,450 facilities with a presence in 58 countries and 24,000 dedicated Mountaineers across the globe.
+And doing all this with -- in an energy sustainable way with 100% of our data centers powered by renewable energy.
+Many of the things about us have changed in 70 years.
+What hasn't changed is our core values and commitment to building and delivering on the trust our customers have come to count on.
+Over the last two quarters, we shared with you that we now have an expanded total addressable market, or TAM, of more than $80 billion.
+And against that expanded TAM, we've identified the building blocks for growth that will enable future growth and success.
+And in fact, you can already see evidence of this expansion through our year-on-year digital service revenue growth, together with secure IT asset disposition or ITAD.
+In this quarter versus a year ago, these business lines have grown over 37%, resulting in $25 million of incremental growth.
+I want to highlight a few examples which illustrate our progress in helping our customers through utilizing new technologically enabled approaches and products to not only protect, but unlock value from what matters most to them.
+The first win I want to highlight is in Singapore with a multinational banking and financial services corporation.
+We won a $750,000 annual recurring revenue digital mailroom contract over their current service provider.
+At first, the bank didn't believe that Iron Mountain could solve this need for them as they had only known us to support their storage and scanning requirements.
+However, the account team pursued the opportunity and highlighted Iron Mountain's strength utilizing a new technologically based approach, which allows us to assist in managing the very start of much of the information entering the bank while securely facilitating a hybrid office and home working model.
+As we are already this customer's partner for business process outsourcing and processing much of the bank's critical information, the mailroom is a key additional service, which will yield further security and simplicity for the bank.
+Turning to another area representing part of our expanded TAM, I want to touch briefly on Secure ITAD.
+Think of this as an area where we apply our highly secure chain of custody with a service that allows our customers to dispose securely in an environmentally responsible way their IT assets, which are at end of life.
+We have continued to see good momentum in our Secure ITAD solution following a number of big wins last quarter.
+We won a deal with one of the world's largest banks to recycle corporate laptops, monitors, and outdated IT equipment across over 400 corporate offices, 4,000 conference rooms and 5,000 retail offices, which we expect to generate annual run-rate revenues greater than $5 million.
+This is a valuable offering given our expertise in chain of custody and compliance, helping customers securely dispose of their IT equipment.
+Turning to our data center business.
+We want to share not only our continued growth in top and bottom line, but some recent exciting developments in the last month which has led us to increase our guidance for expected 2021 leasing from 25 to 30 megawatts to over 30 megawatts, not including additional leasing expected from the recent acquisitions in Frankfurt and India.
+Our increased guidance around leasing activity is based upon the momentum we have seen in the business in the first half of the year, as well as the pipeline.
+Today, we announced not only the 3.6 megawatts of new leases we signed in the second quarter, but also a six-megawatt lease with a new logo to our platform that was signed post Q2 in Northern Virginia.
+Taken together, along with our strong results in Q1, we have recorded a total of 19 megawatts of new and expansion leases in the first seven months of the year.
+This is a great launching off point for the remainder of the year, and we feel confident we will achieve leasing activity above the top end of our original guidance.
+Turning back to Q2, it should be noted, of the 3.6 megawatts we leased in the quarter, the majority was in the retail and enterprise segments.
+This resulted in attractive pricing for the quarter which increased 14% sequentially.
+Our strongest markets in terms of new and expansion leasing were Phoenix, Singapore and Northern Virginia.
+We have a new 27-megawatt greenfield build in London, adjacent to our existing London-1 facility, as well as the pending acquisition of a multi-tenant colocation data center in Frankfurt.
+Taken together, this will increase our total potential capacity in Europe to more than 88 megawatts and will provide access to important interconnection markets for new and existing customers looking for a reliable, flexible and secure data center location.
+As always, sustainability continues to be a top priority.
+And as part of our commitments, we will power our new buildings in London and Frankfurt with 100% renewable energy.
+Before I hand the call over, I also wish to touch upon some new product areas which are leading to more growth in our traditional storage areas.
+One of these newer product offerings is Clean Start, which is a service that helps customers navigate today's changing workplace requirements from reconfiguring the office for social distancing to office closures or moving to a more digital way of working.
+Since its inception, the Clean Start product has generated over $19 million in revenue and has uncovered 1.1 million net new cube over a three-year period.
+In 2020, we decided to expand Clean Start globally with all regions engaged in growing the program.
+Since taking the business globally, we have seen an acceleration in bookings.
+Specifically, in the first half of 2021, Clean Start has delivered $5 million of new revenue or some 25% of the total revenue from this program since its inception three years ago.
+A specific customer example in this quarter includes a $1.8 million deal with a leading global hotel chain over the next five years.
+Due to challenges from the pandemic, the customer needed solutions to help with compliance and storage of materials.
+This customer has been with Iron Mountain for years at an individual hotel level and its corporate team saw the value in our scale, breadth of offerings, compliance expertise in risk reduction solutions.
+This prompted their decision to deploy our services across 103 hotels, plus an additional 15 one-off sites as required.
+We were able to manage much more than just their record storage, also meeting the destruction needs and providing image-on-demand services, all of this being done companywide at a scale unmatched by any other provider.
+Another example which showcases our innovative new products which drive record volume and services growth is Smart Sort.
+Our customers want to reduce cost and risk by defensively destroying records as they meet retention requirements, which is difficult to do if records are not stored by the destruction eligibility date.
+For example, many healthcare accounts store records by patient number or last date of visit and not by retention requirement.
+With Smart Sort, we organize the records by destruction date so the customer knows what they can destroy and when.
+Our team understood a pervasive customer problem, took a customer-centric approach and proactively came up with a solution to solve it with Smart Sort.
+Just in the last year, we've had 10 healthcare vertical wins for Smart Sort with our most recent win with Johns Hopkins Medical Center.
+The agreement is a five-year term which includes a $1.2 million Smart Sort move project, bringing an additional 160,000 cubic feet of inventory, representing over 4 million individual patient records.
+Reflecting some of these successes, total global volume grew to a record 733 million cubic feet this quarter.
+In spite of organic volume being down 10 basis points in the second quarter versus the first quarter, total global organic volume was up 1.6 million cubic feet in the first half of the year, and we continue to expect organic volume to be flat to slightly up for the full year.
+This expected organic volume, together with continued strong price increases, sets us up well for continued strength in organic storage revenue growth from our physical business areas.
+I'm extremely proud of their relentless dedication to each other and our customers.
+With a resilient business model, ongoing market share growth and strategic investments to transform the company, we are excited about the significant opportunities ahead of us, which continue to exceed even our ambitious targets.
+The second quarter exceeded our expectations across each of our key financial metrics.
+Continuing the trend we have seen over the last few quarters, revenue continued to strengthen with a strong recovery in service revenue and activity levels.
+Our core physical storage business performed well, and we are seeing great progress in our growth areas.
+Reflecting that progress and the outperformance in the first half, we increased the midpoint of our financial guidance.
+Turning to our results for the quarter.
+On a reported basis, revenue of $1.1 billion grew 14%.
+Total organic revenue increased 10%.
+Organic service revenue increased $81 million or 26%, and was ahead of our expectations.
+Our team drove strong growth in both our Global Digital Solutions business and Secure IT Asset Disposition.
+Total organic storage rental revenue grew 2.5% with continued benefit from pricing, together with positive trends in volume.
+Adjusted EBITDA was $406 million.
+We exceeded the projections we shared on our last call as the team delivered better-than-expected Project Summit savings, together with the revenue beat.
+AFFO was $246 million or $0.85 on a per-share basis.
+If you recall, last year's AFFO benefited from a $23 million tax refund.
+Adjusting for this, AFFO would have increased 8% year over year.
+As we mentioned on our prior earnings call, AFFO also reflects an increase in recurring capex as we catch up on some projects that were deferred during the pandemic.
+Our full-year recurring capex guidance is unchanged.
+Turning to segment performance.
+In the second quarter, our Global RIM business delivered revenue of $993 million, an increase of $116 million from last year.
+On an organic basis, revenue increased 9.1%.
+The team performed well with constant-currency storage rental revenue growth of 1.9% or 1.6% on an organic basis.
+Growth was driven primarily by pricing and volume.
+We added about 4.5 million cubic feet from our acquisition in Indonesia, which closed during the quarter.
+Our traditional services business continued to recover from the pandemic with revenue growing 24% year over year and 4% from the first quarter.
+Our Global Digital Solutions business continued to display strong momentum, growing 24% year over year.
+Global RIM adjusted EBITDA was $430 million, an increase of $47 million year on year.
+Adjusted EBITDA margin declined 50 basis points year over year as a result of mix given the strong service revenue growth.
+Sequentially, EBITDA margin increased 110 basis points due to Project Summit benefits and the contribution from pricing.
+Turning to our global data center business, where the team continues to perform exceptionally well.
+We booked 3.6 megawatts in the quarter, and through the first half, we have booked 12.6 megawatts.
+Subsequent to the end of the quarter, we signed a six-megawatt lease in Northern Virginia.
+Based on the year-to-date performance and the strength of our pipeline, we increased our full-year leasing target to more than 30 megawatts, which would represent a 23% increase in bookings.
+In terms of revenue, as we projected, growth accelerated sharply to 15% year over year.
+We continue to plan for full-year revenue growth in the range of low double digits to approaching mid teens.
+The combination of our strong prior-year bookings and the team's leasing performance year to date provides high visibility.
+Adjusted EBITDA margin of 43.4% increased 60 basis points from the first quarter and was ahead of our expectations.
+As compared to our prior outlook, the improvement was driven primarily by timing related to the Frankfurt build-out we discussed last quarter, which has been modestly delayed.
+As a result, we now expect more of the work associated with that project to occur in the second half, which will result in a temporary impact on segment margins on the order of three points relative to the second-quarter level.
+Turning to Project Summit, this quarter, the team delivered $42 million of incremental year-on-year adjusted EBITDA benefit.
+With the strength of the team's performance year to date, we now expect year-on-year benefits from Summit to approach $160 million, with another $50 million of year-on-year benefit in 2022.
+Total capital expenditures were $136 million, of which $100 million was growth and $36 million was recurring.
+Turning to capital recycling.
+As we have said before, we view the market for industrial assets as highly attractive as a means to supplement our growth capital.
+With that backdrop, in the second quarter, we upsized our recycling program and generated approximately $203 million of proceeds.
+Year to date, we have generated $215 million in proceeds, compared to our previous guidance of $125 million.
+With our strong data center development pipeline, we are now expecting to generate full-year proceeds of approximately $250 million.
+Turning to the balance sheet.
+At quarter end, we had approximately $2.1 billion of liquidity.
+We ended the quarter with net lease-adjusted leverage of 5.3 times, slightly better than our projection and down from both last year and last quarter.
+This marks our lowest leverage level since year-end 2017.
+As we have said before, we are committed to our long-term leverage range of four and a half to five and a half times.
+For 2021, we expect to end the year within our target range and estimate we will exit the year at levels similar to the second quarter.
+With our strong financial position, our board of directors declared our quarterly dividend of $0.62 per share to be paid in early October.
+Turning to our outlook.
+Today, we are pleased to increase the midpoint of our 2021 financial guidance.
+There are three factors driving the improved projections.
+First, operational performance in the second quarter was better than expected, and we have good momentum in our key growth areas.
+Second, we have identified additional benefits from Project Summit, primarily related to opportunities that our commercial team has been able to uncover.
+And third, we have acquired a small records management business in Morocco that will add about $5 million in revenue.
+Conversely, as compared to our prior guidance, there are two headwinds I would call out.
+First, we divested our Intellectual Property Management business in early June.
+Compared to our prior guidance, this represents a reduction of approximately $20 million of revenue and $15 million of EBITDA.
+dollar is more of a headwind by nearly $20 million for revenue and $7 million for EBITDA.
+For the full-year 2021, we now expect revenue of $4.415 billion to $4.515 billion.
+We now expect adjusted EBITDA to be in a range of $1.6 billion to $1.635 billion.
+At the midpoint, this guidance represents growth of 8% and EBITDA growth of 10%.
+We now expect AFFO to be in the range of $970 million to $1.005 billion.
+And AFFO per share of $3.33 to $3.45.
+At the midpoint, this represents 11% and 10% growth, respectively.
+Our guidance assumes global organic physical volume will be flat to slightly positive versus last year.
+And with continued benefit from pricing, we anticipate low single-digit growth in total organic storage revenue.
+For services, we expect to maintain positive revenue growth through the remainder of the year.
+With the ongoing pandemic, we believe it is helpful to share our short-term expectations.
+For the third quarter, we expect revenue and EBITDA to both increase approximately $10 million sequentially from the second-quarter levels.
+We expect AFFO to be slightly in excess of $250 million in the third quarter.
+In summary, our team is executing well.
+We have seen positive trends in the macro environment, and our pipeline continues to build.
+The momentum we had entering the year has strengthened, our addressable market continues to expand, and we feel confident in our ability to drive growth.
+We feel well-positioned and look forward to updating you on our progress during -- following the third quarter.
+And with that, operator, please open the line for Q&A.

@@ -1,0 +1,111 @@
+I'll begin by sharing a few thoughts on our Company and our business performance.
+As we mentioned on our last earnings call, we expected the second quarter to be our most challenging quarter this year due to the impact of COVID-19.
+Operationally, all of our plants are running, though, we continue to experience challenges at our Mexico locations.
+The return to the appropriate production staffing levels has been impacted by state and local regulations.
+Our leadership in global teams are prioritizing the safety of our employees and adapting quickly to serve our customers' needs.
+Sales were $84 million, down 30% from the second quarter of 2019.
+As expected, we saw significant challenges in the transportation end market, sales in the rest of our business were stable.
+Second quarter gross margins were 31.6% compared to 34.1% in the same period in 2019.
+We delivered an adjusted EBITDA margin of 16.7% despite a 30% drop in sales.
+Second quarter adjusted earnings per share were $0.16.
+We had a promising new sensor win in transportation for application in hybrid electric vehicles, and continue to make progress with RF product wins in defense.
+We added 13 new customers in the quarter.
+We ended the quarter with $146 million in cash, and $141 million in debt.
+We expect a prolonged recovery from the COVID-19 impact.
+As a result, we are implementing a restructuring plan to realign our cost structure to the new demand environment.
+This plan will be completed over the next 24 months.
+Ashish Agrawal, our CFO is with me for today's call and will take us through the safe harbor statement.
+To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investors section of the CTS website.
+I will now turn the discussion back over to our CEO, Kieran O'Sullivan.
+The challenges of the COVID-19 pandemic have been unprecedented.
+I want to express our appreciation to all our employees, customers and partners for their support as we work to get our factories online this past quarter.
+Our people demonstrated remarkable flexibility in our operations and supply chain.
+Our first focus is the safety of our employees and compliance with state and local regulations while doing everything we can to meet our customers' requirements.
+The temporary expense reduction measures we discussed in our last earnings call are still in effect.
+As I mentioned in my opening comments, we are announcing a restructuring plan which we expect to be completed over two year timeframe.
+This plan is necessary to realign our operating cost structure to the new demand environment as we transition through the prolonged impact of COVID-19.
+More details of the plan will be shared in the quarters ahead.
+At a macro level, it will involve site consolidations and streamlining other operating costs to leverage economies of scale across the Company.
+The plan is expected to deliver an annualized earnings per share improvement of $0.22 to $0.26 by the second half of 2022.
+We remain focused on our strategic growth investments.
+Growing our business and expanding our range of sensing, connectivity, and motion products is the priority.
+New business awards were $105 million for the quarter, a solid performance given several OEMs continue to push out business decisions due to the COVID-19 and the resulting wide scale shutdowns in Europe and in North America in the quarter.
+As I said, we added 13 new customers in the quarter, six in industrial, three in medical, three in defense and one in telecom.
+In Transportation, we had an exciting win for a new high load current sensor for a premium European OEM.
+This is a new hybrid vehicle application.
+Since it is a customized design, we're still evaluating broader market potential.
+We also secured several wins for passive safety sensors with existing customers and with a new customer, a large chassis ride height sensor award with a North American OEM, as well as accelerated module brands with several OEMs across all the regions.
+In defense, we were awarded two RF programs with existing customers.
+We have multiple wins for military underwater applications, secured a contract with an European OEM, and we received our first order for textured ceramic material.
+Textured ceramic provides enhanced piezoelectric electric performance at a lower cost point.
+Over time, we expect this new material formulations to expand our available market.
+It has the potential to grow at higher single digit levels.
+With temperature sensing, we secured wins in industrial, defense and medical applications and added new customers.
+Our precision frequency product was selected for a design win in a 5G small cell application.
+We also had design wins in pro-audio and in medical applications for encoder products.
+We continue to advance product innovations.
+Our focus in the transportation market is to develop sensor solutions that are agnostic to the underlying propulsion technology.
+Thereby strengthening our growth in the next decade as hybrid and electric vehicle penetration grows.
+We are researching new material formulations as we target growth in defense, industrial, and medical markets.
+We are also developing custom ASIC solutions to strengthen our frequency product portfolio.
+We made more progress in our ceramic foundry operation this past quarter, and we expect further improvements this year.
+We are also using our expertise in ceramic formulations to improve yields and margins in our temperature sensing acquisition.
+In our focus 2025 initiatives, we are concentrating on four areas: Number one, driving profitable growth; number two, building stronger customer relationships; number three, improving operating systems and; four, strengthening talent and culture globally.
+As part of our emphasis on profitable growth, we are evaluating the product portfolio for longer-term growth and margin expansion.
+Our focus on M&A is to strengthen our pipeline as we seek to expand our range of technologies, products, customers and geographic reach.
+We are sharpening our go-to-market strategy by adapting our sales and application engineering setup to build stronger customer relationships.
+Working more closely with our customers on next generation products and applications is more important than ever as we emerge from the COVID-19 pandemic.
+To advance CTS operating systems, we have added a senior resource to lead this initiative.
+We aim to build capability and drive continuous improvements.
+Our goal is to eliminate waste and enhance profitability, and this will be a multi-year initiative.
+Strengthening our talent pipeline and leadership bench while aligning our culture globally will enable us to achieve our vision of being a leading supplier of sensing and motion devices and connectivity components, and they bring in intelligence and seamless work.
+We remained cautious on the broader economic environment in the second half of 2020.
+From a light vehicle view, it is still too early to close the book on the pandemic.
+Premium brands are expected to rebound faster than volume brands.
+In the US, sales of used cars increased while the SAAR for 2020 is closer to 13 million, down 23% from last year.
+On-hand days of supply are at 54 days, down 20% from the five-year average, which should help short-term demand.
+We expect an improving sales trend in the third quarter, providing operations run normally.
+European sales are forecasted to decline 26% from last year.
+The China market continues to recover with volumes predicted to be down 14% in the $21 million to $22 million range for the year.
+We continue to see growth in medical and defense markets.
+We suspended guidance for 2020 earlier this year due to continued market uncertainty.
+Our liquidity remains solid with a positive net cash position.
+We aim to emerge from this crisis as a stronger Company.
+Now, Ashish will walk us through the financial performance in more detail.
+Our second quarter sales were $84.2 million, down 30% compared to the prior year.
+Sales to transportation customers decreased by 53%, and sales to other end markets increased by 14%.
+Our temperature sensing acquisition added $5.4 million and organic sales to non-transportation customers were up 1%.
+We continue to get traction in the aerospace and defense, as well as medical end markets and saw a robust double-digit sales growth rates to customers in these markets.
+Our gross margin was 31.6% for the second quarter, impacted substantially by lower sales.
+We are making progress on various actions to improve our tax rate.
+As a result, we expect to be closer to the lower end of our previously communicated range of 23% to 25% excluding discrete items.
+As we complete our work on this effort, we expect some further improvements in the tax rate in 2021.
+Our second quarter 2020 earnings were $0.15 per diluted share, adjusted earnings per diluted share were $0.16.
+As we communicated back in April, due to lower volume expectations, we implemented measures to reduce cost through temporary payroll reduction, suspension of 401 k contributions, furloughs, plant shutdown, reduced Board compensation and control over all discretionary spending.
+Revenue in the second quarter was significantly lower and conditions remain uncertain.
+We will regularly evaluate market conditions to determine the extent and duration of these temporary measures.
+As Kieran mentioned, we have started implementing a restructuring plan due to the prolonged impact of COVID-19.
+We expect restructuring costs to be in the range of $10 million to $12 million over the next two years.
+Anticipated annualized savings are in the range of $0.22 per share to $0.26 per share by the end of 2022.
+Savings from the restructuring, once fully implemented will help offset the impact of the temporary cost reduction measures as those costs return.
+Timing for some aspects of the restructuring project is being finalized, and we will communicate more on the timing of savings and cost in the coming quarters.
+In terms of cash, we were net cash positive by approximately $5 million, which is an improvement from zero net cash at the end of first quarter.
+We have access to an additional $157 million through our revolving credit facility.
+In March, we borrowed $50 million from our credit facility.
+We are continuing to maintain this position to ensure adequate liquidity for the next several quarters at all our sites globally.
+Including this debt, we remain well within our debt covenants.
+And at this time, it is our expectation that we will remain compliant.
+Our controllable working capital as a percent of sales was 21.2% at the end of the second quarter.
+The increase was driven primarily due to the sharp reduction in revenue in the second quarter.
+In dollar terms, controllable working capital increased slightly from Q1 to Q2, and our focus remains on improvements in the coming quarters.
+Our teams are maintaining emphasis on reducing inventory levels across our operations, and on receivables collection.
+We generated $11.8 million in operating cash flow in the second quarter.
+Capex was $2.7 million.
+For the full year, we are expecting capital expenditures to be approximately 4% of sales.
+We are committed to investing in programs that help us progress our strategic growth objectives.
+We are continuing to implement SAP, and went live successfully at another large manufacturing location at the beginning of July.
+This go-live was accomplished despite most of the implementation team working remotely due to COVID-19 related travel constraints.
+This is a significant accomplishment by our team in Matamoros as well as the SAP implementation team.
+With the go-live in Matamoros, we have completed the rollout to plants that provide approximately 80% of the Company's revenue.
+We are on track to complete the SAP implementation around the middle of 2021.
+This concludes our prepared comments.

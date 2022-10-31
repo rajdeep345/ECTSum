@@ -1,0 +1,143 @@
+My name is Kevin Maczka, I'm Belden's vice president of investor relations and treasurer.
+Roel will provide a strategic overview of our business and then Jeremy will provide a detailed review of our financial and operating results, followed by Q&A.
+Additionally, during today's call, management will reference adjusted or non-GAAP financial information.
+As a reminder, I'll be referring to adjusted results today.
+Demand trends continue to improve in the first quarter and I am pleased to report total revenues and earnings per share that exceeded the high-end of our guidance ranges.
+We are benefiting from the ongoing recovery in the global economy and our leadership position and secular growth markets.
+Solid execution by our global teams resulted in meaningful growth and margin expansion.
+First quarter revenues increased 16% year-over-year to $536 million compared to our guidance range of $490 million to $505 million.
+Organic growth is a key priority and revenues increased 8% year-over-year on an organic basis.
+The upside relative to our expectations was broad-based, with contributions from both the Industrial Solutions and Enterprise Solutions segments.
+As a reminder, in January, we completed the Bolton acquisition of OTN Systems, a leading provider of proprietary networking solutions tailored for specific applications in harsh mission critical environments.
+This was our first Industrial Automation acquisition in years, and it's proven, switching devices and network management software are complementary to Belden's leading industrial networking offering.
+We are very pleased with the integration and the performance of the business to date.
+Incoming order rates were solid during the quarter, increasing 24% year-over-year and 11% sequentially.
+This resulted in a healthy book-to-bill ratio of 1.3 times.
+EBITDA increased 32% year-over-year to $80 million.
+EBITDA margins expanded 180 basis points from 13.1% in the year ago period to 14.9%.
+EPS increased 40% year-over-year to $0.94 compared to our guidance range of $0.60 to $0.70.
+We are off to a great start in 2021, and we are increasing our full year guidance to reflect the better-than-expected performance in the first quarter and an improved outlook for the remainder of the year.
+For the full year 2021, we are increasing the high-end of our revenue and earnings per share guidance ranges by $130 million and $0.50 respectively, largely due to strength in the Industrial Automation and broadband and 5G markets.
+Belden's senior leadership team and I are laser-focused on driving solid and sustainable organic growth.
+To that end, we are pursuing a number of compelling strategic initiatives to capitalize on the opportunities in our markets and accelerate growth.
+I would like to briefly highlight a few of them for you now.
+First, we are significantly improving our portfolio and aligning around the favorable secular trends in our key strategic markets, including Industrial Automation, Cybersecurity, Broadband and 5G and Smart Buildings.
+We think these markets are secular growers and we are uniquely positioned to win in each of them.
+In our largest market, Industrial Automation, we are extremely bullish and we continue to see a number of compelling demand drivers.
+The U.S. manufacturing PMI reading hit the highest levels in nearly four decades in March.
+So market conditions are clearly improving.
+Longer-term, all roads lead to more automation whether it is the increasing cost of labor, increasing capacity requirements or the needs to pandemic-proof operations with social distancing protocols.
+Belden is extremely well positioned and highly differentiated in the marketplace and we expect to deliver solid growth in this market going forward.
+In Broadband and 5G, we think the secular trends are undeniable.
+Broadband networks will need to be upgraded continuously to support high-definition video consumption, streaming, virtual reality, work from home, virtual learning, etc.
+Demand is only accelerating and there is clear momentum behind providing high-speed broadband access to every household.
+There is no doubt that we have sustainable competitive advantages in this market and we are ideally suited to support both MSO and telco customers as they upgrade and expand their networks.
+As part of our improving end market alignment, we have been taking significant steps to reduce challenged businesses -- to remove the challenged businesses from the portfolio and exit less attractive markets, and we are not done.
+As you know, we initiated a process last year to divest approximately $200 million in revenues associated with certain undifferentiated copper cable product lines.
+These are primarily stand-alone product lines that are low growth and low-margin, and we do not believe they can meet our growth or margin goals in the future.
+We believe that exiting these product lines will further improve our end-market exposure.
+In this case, we are essentially exiting the oil and gas markets and reducing our exposure to certain less attractive Smart Buildings markets.
+We expect to complete multiple transactions in 2021 associated with these product line exits.
+We remain on track and we look forward to updating you as we close these transactions.
+Next, we are committed to supporting our customers by driving innovation.
+As a result, we are making targeted investments to strengthen our product roadmap.
+We are particularly focused on driving innovation in our end-to-end industrial networking solutions and accelerating development of our best-in-class cybersecurity cloud platform.
+We are also improving the software content of our offerings, including embedded software within various hardware products and developing fiber connectivity solutions to be used across a number of industrial and enterprise applications.
+These innovations are important to our customers and our shareholders as they will further strengthen our product offering and enhance our competitive advantage.
+We are also sharpening our commercial excellence in a number of important areas, such as solution selling, customer innovation centers, and digital transformation.
+Beyond individual product sales, Belden is uniquely positioned to offer differentiated solutions to our customers, including cable, connectivity, networking and software products and services.
+Through our solution selling and strategic accounts programs, we are increasingly capitalizing on these opportunities by engaging with customers as one Belden, rather than separate businesses.
+One of the ways we are doing that is through customer innovation centers or CIC's.
+CICs are newer initiative designed to improve customer intimacy and support solution selling.
+This will allow us to not only support our customers but co-innovate with them, create solutions that solve their complex networking problems and deliver superior service and support.
+The CIC model is unique to Belden and reflects our commitment to leading in our key markets.
+We are very excited about the potential here.
+In April, we announced the opening of a state-of-the-art CIC in Stuttgart, Germany.
+We have plans to open other CICs around the world over the next 12 months to 18 months.
+We are hosting a virtual grand opening of the Stuttgart facility on May the 12th, and I invite each of you the register for this event on our website to participate in a virtual-guided tour which will highlight our new capabilities.
+Finally, digital transformation is another important and ongoing initiative for many companies including Belden.
+We want to improve the customer experience and make working with Belden as easy as possible, and we know that certain customers want to interact with us exclusively through digital and mobile means.
+We are upgrading our capabilities in these areas and our teams have made significant progress.
+To summarize, we are committed to driving improved organic growth rate, and I'm excited about the numerous opportunities we have to do that.
+I will now ask Jeremy to provide additional insight into our first quarter financial performance.
+I will start my comments with results for the quarter followed by a review of our segment results and a discussion of the balance sheet and cash flow performance.
+As a reminder, I will be referencing adjusted results today.
+Revenues were $536 million in the quarter, increasing $73 million or 16% from $464 million in the first quarter of 2020.
+Revenues were favorably impacted by $33 million from currency translation and higher copper prices and $4 million from acquisitions.
+After adjusting for these factors, revenues increased 8% organically from the prior year period.
+Incoming order rates were solid during the quarter, increasing 24% year-over-year and 11% sequentially and accelerating as the quarter progressed.
+This resulted in a healthy book-to-bill ratio of 1.3 times, with particular strength in Industrial Automation and Broadband and 5G.
+Gross profit margins in the quarter were 36%, decreasing 90 basis points compared to 36.9% in the year ago period.
+As a reminder, as copper costs increase, we raise selling prices, resulting in higher revenue with minimal impact to gross profit dollars, as a result, gross profit margins decreased.
+In the first quarter, the pass-through of higher copper prices had an unfavorable impact of approximately 180 basis points.
+Excluding this impact, gross profit margins would have increased 90 basis points year-over-year that.
+This exceeded our expectations for the quarter and we are especially pleased with the performance given the current inflationary environment.
+We expect that inflationary pressures will likely persist throughout the year and we are proactively addressing through additional price recovery and productivity measures to support gross profit margins.
+EBITDA was $80 million, increasing $19 million or 32% compared to $61 million in the prior year period.
+EBITDA margins were 14.9% compared to 13.1% in the prior year period, an improvement of 180 basis points year-over-year.
+The pass-through of higher copper prices had an unfavorable impact of approximately 70 basis points in the quarter.
+Excluding this impact, EBITDA margins would have increased 250 basis points year-over-year, demonstrating solid operating leverage on higher volumes.
+Net interest expense increased $2 million year-over-year to $16 million as the result of foreign currency translation.
+At current foreign exchange rates, we expect interest expense to be approximately $61 million in 2021.
+Our effective tax rate was 19.9% in the first quarter, consistent with our expectations.
+For financial modeling purposes, we recommend using an effective tax rate of 20% throughout 2021.
+Net income in the quarter was $42 million compared to $31 million in the prior year period.
+And earnings per share was $0.94, increasing 40% compared to $0.67 in the first quarter of 2020.
+I will begin with our Industrial Solutions segment.
+As a reminder, our Industrial Solutions allow customers to transmit and secure audio, video and data in harsh industrial environments.
+Our key markets include discrete manufacturing, process facilities, energy and mass-transit.
+The Industrial Solutions segment generated revenues of $310 million in the quarter, increasing 23% from $251 million in the first quarter of 2020.
+Currency translation and higher copper prices had a favorable impact of $20 million year-over-year.
+And acquisitions had a favorable impact of $4 million.
+After adjusting for these factors, revenues increased 14% organically.
+Within this segment, Industrial Automation revenues also increased 14% year-over-year on an organic basis, with growth in each of our primary market verticals.
+Cybersecurity revenues increased 8% year-over-year in the first quarter, with nonrenewal bookings our best leading indicator of revenues increasing 74%.
+We continue to secure large strategic orders with new industrial and enterprise customers and significantly expand our engagements with existing customers.
+Industrial Solutions segment EBITDA margins were 16.6% in the quarter, increasing 250 basis points compared to 14.1% in the year ago period.
+The year-over-year increase primarily reflects operating leverage on higher volumes.
+Turning now to our Enterprise segment.
+Our Enterprise Solutions allow customers to transmit and secure audio, video and data across complex enterprise networks.
+Our key markets include Broadband, 5G and Smart Buildings.
+The Enterprise Solutions segment generated revenues of $226 million during the quarter, increasing 7% from $212 million in the first quarter of 2020.
+Currency translation and higher copper prices had a favorable impact of $13 million year-over-year.
+After adjusting for these factors, revenues increased 1% organically.
+Revenues in Broadband and 5G increased 9% year-over-year on an organic basis.
+The ever increasing demand for more bandwidth and faster speeds is driving increasing investments in network infrastructure by our customers.
+This supports continued robust growth in our fiberoptic products, which increased 23% organically in the first quarter.
+Revenues in the Smart Buildings market declined 6% year-over-year on an organic basis consistent with our expectation.
+Enterprise Solutions segment's EBITDA margins were 12.4% in the quarter, increasing 80 basis points compared to 11.6% in the prior year period.
+Our cash and cash equivalents balance at the end of the first quarter was $371 million compared to $502 million in the prior quarter and $251 million in the prior year period.
+We are very comfortable with our current liquidity position.
+Working capital turns were 6.7 compared to 10.3 in the prior quarter and 5.6 in the prior year period.
+Days sales outstanding of 54 days compared to 50 in the prior quarter and 57 in the prior year period.
+Inventory turns were 5.0 compared to 5.2 in the prior quarter and 4.6 in the prior year.
+Our debt principal at the end of the first quarter was $1.53 billion compared to $1.59 billion in the prior quarter.
+The sequential decrease reflects current foreign exchange rate.
+Net leverage was 4 times net debt to EBITDA at the end of the quarter.
+This is temporarily above our targeted range of 2 to 3 times, and we expect to trend back to the targeted range as conditions normalize.
+Turning now to Slide 8, I will discuss our debt maturities and covenants.
+As a reminder, our debt is entirely fixed at an attractive average interest rate of 3.5%, with no maturities until 2025 to 2028, and we have no maintenance covenants on this debt.
+As I mentioned previously, we are comfortable with our liquidity position and the quality of our balance sheet.
+Cash flow from operations in the first quarter was a use of $42 million compared to a use of $52 million in the prior year period.
+Net capital expenditures were $11 million for the quarter compared to $19 million in the prior year period.
+And finally, free cash flow in the quarter with a use of $53 million compared to a use of $71 million in the prior year period.
+End market conditions are improving, and I am encouraged by a robust recent order rates and solid execution.
+We are increasing our full year 2021 guidance to reflect better-than-expected performance in the first quarter and an improved outlook for the remainder of the year, while considering the continued uncertainty related to the global pandemic.
+We anticipate second quarter 2021 revenues of $535 million to $550 million and earnings per share of $0.88 to $0.98.
+For the full year 2021, we now expect revenues of $2.13 billion to $2.18 billion compared to prior guidance of $1.99 billion to $2.05 billion.
+We now expect full year 2021 earnings per share to be $3.50 to $3.80 compared to prior guidance of $2.90 to $3.30.
+We expect interest expense of approximately $61 million for 2021 and an effective tax rate of 20% for each quarter and the full year.
+This guidance continues to include the contribution of the copper cable product lines that we are in the process of divesting, which contributed approximately $200 million in revenue and $0.20 in earnings per share in 2020.
+We will update our guidance accordingly as we complete these divestitures.
+Again, demand trends are improving, and our recent order rates are encouraging.
+As a result, we are increasing our volume outlook for the year by $90 million.
+Our revised full year guidance implies consolidated organic growth in the range of 6% to 9% compared to our prior expectation of approximately 1% to 4%.
+Relative to our prior guidance, we expect higher copper prices and current foreign exchange rate to have a favorable impact on revenues of approximately $40 million in 2021, but a negligible impact on earnings.
+For the full year 2021, the high-end of our guidance implies total revenue and earnings per share growth of 17% and 38%, respectively.
+Before we conclude, I would like to reiterate our investment thesis.
+We view Belden as a compelling investment opportunity.
+We are taking bold actions to drive substantially improved business performance and you are seeing that in our better-than-expected first quarter performance and increased full year outlook.
+We are positioning the company for accelerating organic growth and robust margin expansion.
+We are also committed to delevering, enabled by strong free cash flow generation, and we intend to return to our targeted leverage range as soon as possible.
+I'm confident that we have the management team, strategy and business system to successfully execute our strategic plans and drive strong returns for our shareholders.
+Stephanie, please open the call to questions.

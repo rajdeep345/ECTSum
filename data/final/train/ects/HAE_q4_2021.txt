@@ -1,0 +1,161 @@
+I'm joined today by Chris Simon, our CEO; and Bill Burke, our CFO.
+Additionally, we provided a complete P&L, balance sheet, summary statement of cash flows, as well as reconciliations of our GAAP to non-GAAP financial results and guidance.
+Please note that these measures exclude certain charges and income items.
+Before I get into our results, I want to review the news we announced a few weeks ago.
+In April, CSL Plasma notified us that they do not intend to renew their US supply agreement for the use of our PCS2 plasma collection system equipment and the purchase of plasma disposables that expires in June of 2022.
+We were informed that CSL's decision was not based on the level of service or quality of our products, but rather reflects the change in internal strategy that was made some time ago, presumably before they had experience with NexSys and Persona.
+We are disappointed by CSL's decision, but it does not change our commitment to the plasma market and our technology to improve collections.
+The NexSys and Persona value propositions are strong, supported by real-world data and real-time customer feedback.
+And we are excited about what this platform means for our customers.
+We are taking a comprehensive approach to address the impact the CSL transition will have in fiscal '23.
+We are acting with urgency, but we are being thoughtful and balanced in our planning.
+Our ability to respond is enhanced by the steps we have taken these past few years to strengthen our financial health, improve productivity, drive innovation, reshape our portfolio and build a collaborative performance-driven culture.
+We are well positioned to navigate this change.
+We are focused on driving value for customers and shareholders, and our decision making is guided by a through-cycle mindset.
+We will continue to pursue growth strategies to maintain our market leadership, including developing innovation in partnership with our customers.
+We also remain committed to productivity and being good stewards of the Company's resources.
+We will provide more details on the path forward as our plans take shape.
+With that, let me turn to our results for the quarter and the fiscal year.
+Today, we reported organic revenue decline of 14% in the fourth quarter and 13% for fiscal '21; and adjusted earnings per share of $0.46, down 33% in the quarter, and down 29% to $2.35 for the year.
+Fiscal 2021 was a difficult year for Haemonetics as the pandemic had varying effects across our businesses and their respective customers.
+Despite the challenges, we made progress to build a stronger Haemonetics.
+We divested non-performing assets like the Fajardo blood filter manufacturing operations, Blood Center donor management software in the US and Inlog SAS blood bank and hospital software in Europe.
+We made organic and inorganic investments in attractive and growing markets, including the launch of Persona and the Donor360 app, and the acquisitions of ClotPro and Cardiva Medical.
+We modified our capital structure for financial flexibility and remain diligent with cost containment, while continuing to fund growth.
+We made significant changes to the way we source and make our products as part of our Operational Excellence Program.
+While we cannot control the pandemic's impact on our customers' businesses, we met every challenge, keeping our employees safe and our plants operational with high levels of service and customer support.
+Early fiscal '22 will continue to be challenging, but we expect the pace of recovery to accelerate over the year.
+The end market demand for our products remain strong, and we do not see structural or other changes from the pandemic that would impact the need for lifesaving plasma-based medicines or hospital devices for critical areas of medicine like trauma, interventional cardiology and electrophysiology.
+We have healthy and viable businesses, delivering exceptional value adding technology.
+We have proven our resilience and our ability to drive growth and productivity, and we will do so again as our markets recover from the pandemic.
+Turning now to our business units.
+Plasma revenues declined 28% in the fourth quarter and 26% in fiscal '21, as the pandemic continued to have a pronounced effect on the US-sourced plasma donor pool.
+We saw lingering effects beyond fourth quarter into April.
+North America disposables declined by 31% in the fourth quarter, primarily driven by declines in volume and a negative impact from the expiration of pricing on a historical technology enhancement with one of our customers.
+Sequentially, plasma collection volumes declined by 13% compared with historical average seasonal declines of about 7%, as additional economic stimulus hindered recovery.
+Fiscal '21 was an especially difficult year for plasma collections, given the interplay of different factors affecting donor behavior.
+Our customers have taken extensive measures to ensure the health and safety of donors and to launch a myriad of promotional campaigns to encourage plasma donations.
+Our teams have remained focused on ensuring no disruptions to our supply, service and support.
+Despite the environment, we advanced our innovation agenda with the FDA clearance of Persona, which safely yields an additional 9% to 12% of plasma on average per collection.
+We extended the reach of our customers to donors via a Donor360 app, which allows donors to engage with centers before in-person visits, decreasing door-to-door time and improving the overall donor experience.
+Given the pandemic's negative effect on collections, increased yield is more important than ever and feedback from NexSys customers operating with YES technology or Persona continues to be positive.
+We believe they were able to offset some of the headwinds from the pandemic because they benefited from safe, higher plasma yield per donor, bidirectional paperless connectivity and increased donor satisfaction.
+NexLynk DMS rollouts continue on pace, and the software continues to be a key enabler and differentiator for NexSys.
+All of our major customers have agreed to adopt NexSys somewhere in their collection network, and we anticipate that by mid-fiscal '23, the majority of our customers, excluding CSL, will be on NexSys in the US or globally.
+As we emerge from the pandemic and see future sustained increases in available donors, the operational efficiency benefits of NexSys, integrated with NexLynk DMS, will be an increasingly valuable tool to support greater donor traffic.
+We anticipate initial Persona rollouts this fiscal year, as we strive to move in sync with our customers and pace our technology implementations to meet their individual needs.
+We are committed to advancing our innovation agenda across devices, disposables and software to develop products that create long-term sustainable value for our customers.
+We continue to do everything we can to support our customers, and we remain cautiously optimistic about the timing and pace of recovery.
+The demand for plasma-derived medicines remains strong, and our customers are doing what they can to recruit and retain donors.
+Unfortunately, donor economics play a critical role in plasma collections, and we expect collections will be muted until government stimulus wanes.
+Beyond stimulus, we expect a return to the long-term 8% to 10% growth of the US-sourced plasma collections market, and we see potential to grow in excess of that as customers strive to replenish depleted plasma inventories.
+Hospital revenue increased 12% in the fourth quarter and 4% in fiscal '21.
+Our Hospital business experienced continued sequential improvement over the first nine months of the fiscal year.
+Fourth quarter recovery was uneven, as we saw another spike in COVID cases early in the quarter, followed by a material improvement in February and March, coupled with the anniversary of the previous year impact of COVID-19 in China and other geographies that were affected earliest by the pandemic.
+Hemostasis Management revenue was up 19% in the fourth quarter and 9% in fiscal '21.
+North America, our largest market, showed sequential growth throughout the first nine months of the year.
+And despite a spike in COVID cases early in the fourth quarter, the business exited in a strong position, including additional penetration into new accounts.
+China, our second largest market, benefited from a lower comparator in the prior year fourth quarter due to the early onset of COVID-19.
+Strong capital sales in North America and EMEA have also contributed favorably to our fourth quarter and fiscal '21 results.
+We continue to drive our go-to-market strategies for viscoelastic testing to meet the unique needs of our regional markets.
+We are executing on the Chinese market introduction of our locally designed and manufactured viscoelastic testing technology that expands our product offering to meet the needs of that geography.
+Transfusion Management was up 9% in the fourth quarter and fiscal '21, primarily driven by strong growth in BloodTrack through new accounts and geographic expansion of SafeTrace Tx.
+Our teams have used remote tools to advance installations and utilization in customer environments where access continues to be restricted.
+Cell Salvage revenue grew 2% in the fourth quarter and declined 8% in fiscal '21.
+Our Cell Salvage results in the quarter benefited from the easy comparison with the prior year quarter in China and 80% growth in capital sales as we continue to upgrade our customers to the latest technology.
+Partially offsetting these benefits in the fourth quarter was overall lower procedure volume due to COVID-19.
+The integration of Cardiva Medical is going well, and the performance of the business is exceeding expectations.
+The VASCADE proprietary vascular closure technology strengthens our hospital portfolio in the attractive interventional cardiology and electrophysiology markets, and the team is focused on driving the strategy underlying this acquisition.
+Although excluded from our organic revenue results, Cardiva added close to $8 million of revenue in March, as our teams continue to drive penetration in the top hospital accounts for interventional procedures in the US.
+Additionally, as US procedure volume continues to improve, we've seen increasing benefit from product utilization among existing accounts.
+Our long-term outlook for this business is strong, as our combined product development and regulatory teams work closely together on OUS registrations and driving additional product innovation.
+Overall, the pandemic has validated the essential role of our technologies in hospital.
+We have demonstrated our ability to safely and effectively sell, including to new and existing accounts, install and service our equipment despite limited access to hospitals.
+Blood Center revenue declined 10% in the fourth quarter and 4% in fiscal '21.
+Apheresis revenue declined 3% in the fourth quarter and grew nearly 1% in fiscal '21.
+Fourth quarter apheresis results were impacted by unfavorable distributor order timing in EMEA and a competitive loss, partially offset by strong capital sales.
+Order timing was overall a benefit to our full year fiscal '21 results, as distributors made large stocking orders in response to the pandemic, particularly in Europe and the Middle East.
+We also benefited from strong capital sales as we continue to support our customers in the collection of convalescent plasma.
+These benefits were partially offset by the previously disclosed competitive loss that had a $17 million impact on our full year results.
+Excluding this loss, overall Blood Center revenue actually grew in fiscal '21.
+Whole blood revenue declined 24% in the fourth quarter and 14% in fiscal '21, driven by lower collection volumes due to COVID-19 and discontinued customer contracts in North America.
+We remain committed to supporting enhanced product quality and services for our blood center customers, while preserving cash generation and exploring portfolio rationalization as appropriate.
+I will begin by discussing our fiscal '21 actual results, followed by our fiscal '22 guidance.
+Chris has already discussed revenue, so I will start with adjusted gross margin, which was 50% in the fourth quarter, a decline of 30 basis points compared with the fourth quarter of the prior year.
+Adjusted gross margin year-to-date was 50.3%, a decline of 130 basis points compared with the prior year.
+On the positive side, we continue to benefit from productivity savings realized from our Operational Excellence Program and lower depreciation expense related to our PCS2 devices, which were mostly depreciated by the end of the prior fiscal year.
+We also saw benefits from the recent acquisition of Cardiva Medical.
+The primary drivers of the adjusted gross margin decline were unfavorable pricing and product mix, mainly due to the impact of COVID-19, higher inventory-related charges and the impact of recent divestitures.
+These inventory-related charges, which relate to CSL's intent not to renew the US plasma disposables supply agreement, had about 220 basis points impact on our fourth quarter and about 60 basis points impact on our fiscal '21 results.
+The combination of our recent divestitures and our strategic decision to exit the liquid solution business resulted in a net negative impact of 70 basis points on our fourth quarter and about neutral impact on our fiscal '21 adjusted gross margin.
+Adjusted operating expenses in the fourth quarter were $81.9 million, an increase of $9.2 million or 13% compared with the fourth quarter of the prior year.
+Adjusted operating expenses for fiscal '21 were $283 million, a decrease of $9.8 million or 3% compared with the prior year.
+Adjusted operating expenses, both in the fourth quarter and fiscal '21, were impacted by higher variable compensation, the acquisition of Cardiva Medical and the impact from the 53rd week.
+Contributions from our productivity savings and cost containment efforts that we put in place earlier in the pandemic helped to offset some of the impacts and allowed us to make additional growth investments into our business.
+As a result of the performance in adjusted gross margin and adjusted operating expenses, fourth quarter adjusted operating income was $30.5 million, a decrease of $16.8 million or 35%, and adjusted operating income for fiscal '21 was $154.6 million, a decrease of $63.4 million or 29% compared with the prior year.
+Adjusted operating margin was 13.5% in the fourth quarter and 17.8% in fiscal '21, down 630 basis points and 420 basis points respectively compared with the same periods in fiscal '20.
+For both periods, the lost leverage from revenue, coupled with the inventory-related charges, higher variable compensation and impacts from portfolio changes, outpaced the impact of cost mitigation efforts and productivity savings.
+These inventory-related charges and higher variable compensation put downward pressure on operating margins by approximately 500 basis points in the fourth quarter and approximately 100 basis points in fiscal '21.
+The variable compensation incentives we established during the pandemic and the one-time inventory-related charge due to the recent customer announcement are not expected to affect future operating margins.
+The adjusted income tax rate was 12% in the fourth quarter and 14% in fiscal '21 compared with 18% and 15% respectively for the same periods of the prior year.
+Fourth quarter adjusted net income was $23.9 million, down $11.5 million or 33%, and adjusted earnings per diluted share was $0.46, down 33% when compared with the fourth quarter of fiscal '20.
+Adjusted net income for fiscal '21 was $120.7 million, down $50.6 million or 30%, and adjusted earnings per diluted share was $2.35, down 29% when compared with the prior year.
+The inventory-related charges and higher variable compensation had a downward impact on adjusted earnings per diluted share of $0.18 in the fourth quarter and $0.12 in fiscal '21.
+Our Operational Excellence Program continued to deliver positive results and drive improvements in adjusted gross and adjusted operating margins.
+This program has also enabled us to offset some of the challenges resulting from the pandemic.
+During fiscal years '20 and '21, the program-to-date gross savings are approximately $34 million, with the majority of those savings dropping through to adjusted operating income.
+Cash on hand at the end of the fourth quarter was $192 million, an increase of $55 million since the beginning of the fiscal year.
+Free cash flow before restructuring and turnaround costs was $99 million in fiscal '21 compared with $139 million in the prior year.
+Fiscal '21 included a $54.3 million payment for a compensation-related liability as part of the Cardiva Medical acquisition.
+The total purchase price paid for Cardiva Medical was reduced by the amount of this liability.
+Lower increases in inventory, lower capital expenditures and improvement in accounts receivable compared -- when compared with the prior year have benefited fiscal '21.
+Although the free cash outflow for inventory is lower than in the prior year, the impact from lower sales volume in Plasma has resulted in a higher disposables inventory balance.
+We will continue to monitor our inventory levels and expect inventory fluctuations to continue as we adjust our production to support customer demand and our Operational Excellence Program initiatives.
+In addition to free cash flow, the fourth quarter ending cash balance benefited from the completion of a $500 million convertible debt offering, which resulted in a net cash inflow of $439 million.
+Offsetting the cash inflow during fiscal '21 was $390 million of net cash spent on recent portfolio moves and $82 million of debt repayments, including a $60 million repayment of the revolving credit line that was outstanding at the end of fiscal '20.
+Our current debt structure includes a $700 million credit facility that does not mature until the first quarter of fiscal '24 with the majority of the principal payments weighted toward the end of the term.
+At the end of the fourth quarter, total debt outstanding under the facility was $302 million.
+There were no borrowings outstanding under the $350 million revolving credit line at the end of fiscal '21.
+During the fourth quarter, we completed a $500 million convertible debt offering.
+Our EBITDA leverage ratio, as calculated in accordance with the terms set forth in the Company's existing credit agreement, is 3.4 at the end of fiscal '21.
+The existing $500 million share repurchase authorization will expire at the end of May 2021 with $325 million remaining on the authorization.
+We will update our capital allocation priorities in the next few quarters as we continue to develop our long-range plan.
+Now, I will turn to our fiscal '22 guidance.
+Our business continues to be impacted by the pandemic.
+Therefore, our fiscal '22 guidance includes wider than usual ranges that reflect the uncertainty of the pace of the continuing recovery.
+We will narrow or update our guidance as necessary throughout the year.
+Our fiscal '22 organic revenue growth is expected to be in the range of 8% to 12%.
+We remain confident in the continued market growth underlying the commercial plasma business and anticipate Plasma revenue growth of 15% to 25% in fiscal '22.
+At the low end of our guidance range, we assume that the second and third rounds of economic stimulus will continue to impact plasma collections through the first half of fiscal '22 with stronger collection volumes in the second half of fiscal '22.
+At the higher end of our guidance range, we assume that recovery will begin mid-second quarter with additional acceleration toward the end of the fiscal year as customers begin to replenish safety stock levels.
+In both cases, we expect the run rate for plasma collections to be at or above fiscal '20 levels at the end of the fiscal year.
+Disposable revenue related to CSL collection volume is included in the guidance for 12 months.
+In fiscal '21, we recognized disposable revenue in the US from CSL of approximately $89 million.
+This Plasma revenue guidance also includes the net impact of initial rollouts of Persona and NexSys adoption for customers with whom we have agreements, with the majority of the benefit toward the end of the fiscal year.
+These benefits are partially offset by price adjustments, including the expiration of fixed term pricing on a historical PCS2 technology enhancement and a one-time safety stock order in fiscal '21.
+We expect 15% to 20% organic revenue growth in our Hospital business in fiscal '22.
+This growth rate assumes the recovery of hospital procedures will continue to improve throughout the year and will be close to fully recovered across all geographies by the end of our fiscal '22.
+Our Hospital revenue guidance includes Hemostasis Management revenue growth in the mid-20s.
+The Cardiva Medical acquisition is anticipated to deliver $65 million to $75 million of revenue and is excluded from organic revenue growth until the anniversary of the acquisition date.
+Our fiscal '22 guidance for Blood Center revenue is a year-over-year decline of 6% to 8%.
+The anticipated revenue decline in Blood Center reflects the annualization of business exits, primarily within North America whole blood, the non-repeating revenue related to convalescent plasma in fiscal '21 and the effects of order timing, which favorably impacted fiscal '21.
+We expect fiscal '22 adjusted operating margins in the range of 19% to 20% and adjusted earnings per diluted share in the range of $2.60 to $3.00.
+Our adjusted earnings per diluted share guidance includes an adjusted income tax rate of approximately 21%.
+In fiscal '22, we expect our Operational Excellence Program to deliver gross savings of approximately $22 million with less than half benefiting adjusted operating income due to inflationary pressures and investments in manufacturing.
+The program began in fiscal '20.
+And by the end of fiscal '22, we anticipate achieving approximately $56 million of gross savings, with about 60% of those savings benefiting adjusted operating income.
+The remaining year of the Operational Excellence Program is being updated as part of our comprehensive effort to address the impacts from the anticipated customer loss in early fiscal '23.
+We intend to communicate the updated Operational Excellence Program as part of our longer range plan.
+We also expect our free cash flow before restructuring and turnaround expenses in fiscal '22 to be $135 million to $155 million.
+Before we open the call up for Q&A, I want to reiterate the key points that we hope you take away from today's call.
+First, while the pandemic continued to impact our business, we don't believe it has caused any structural changes to the end market demand for our products.
+By the end of our fiscal '22, we expect full recovery across all of our businesses, but the exact pace of the recovery is the biggest variable included within our guidance.
+Second, we believe our product portfolio strongly positions us to capitalize on the market recovery ahead.
+Despite the challenges put in front of us, our teams remain focused on rationalizing our product portfolio to emphasize the products and markets that meet our strategic goals, prioritizing investment and allocating capital to strengthen the core capabilities and technology that make us distinctive.
+Third, our Operational Excellence Program continues to drive transformation, primarily in our manufacturing and supply chain, as we become more agile and flexible.
+We made significant progress to date, which has allowed us to offset some of the headwinds due to the pandemic, and we expect to have close to 60% to 70% of the program completed by the end of our fiscal '22 with the majority of those savings benefiting our adjusted operating income.
+And finally, we have a proven dedicated team, committed to driving value for our customers and our shareholders.
+We are proud of the way our teams have risen to meet the challenges over the past year.
+We recognize more challenges are ahead, including difficult donor economics and the eventual loss of CSL in Plasma.
+We are committed to taking action, managing costs and mitigating the impact without compromising future growth of our business.
+And while we have a lot of work to do in the coming quarters, we're confident that our teams' experience, resilience and agility will ensure that Haemonetics has a bright future.

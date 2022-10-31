@@ -1,0 +1,120 @@
+I'm Cynthia Hiponia, Vice President, Investor Relations.
+On the call today we have Aaron Levie, our CEO; and Dylan Smith, our CFO.
+However supplemental slides are now available for download from our website.
+We also posted the highlights of today's call on Twitter at the handle, @boxincir.
+The timing and market adoption of and [Phonetic] benefits from our new products, pricing and partnerships.
+The impact of our acquisitions on future Box product offerings, the impact of the COVID-19 pandemic on our business and operating results.
+The KKR-led investment in Box and any potential repurchase of our common stock.
+These statements reflect our best judgment based on factors currently known to us and actual events or results may differ materially.
+In addition, during today's call, we will discuss non-GAAP financial measures.
+These non-GAAP financial measures should be considered and in addition to, not as a substitute for or in isolation from our GAAP results.
+Unless otherwise indicated, all references to financial measures are on a non-GAAP basis.
+Lastly, while we recognize, there has been news around our upcoming Annual Meeting on September 9.
+The purpose of today's call is to discuss our financial results.
+With that now let me hand the call over to Aaron.
+We achieved strong second quarter results across all metrics, marking our fifth consecutive quarter of achieving both revenue and non-GAAP earnings per share above our guidance.
+We delivered second quarter revenue growth of 12% year-over-year, a second consecutive quarter of accelerating revenue growth, billings growth of 13% and RPO growth of 27%.
+From our business performance and building momentum, it's clear that enterprises are increasingly making strategic, long-term decisions on how to support a remote workforce and digital processes while still maintaining a high level of security and compliance policies.
+As a result, more customers are turning to the Box Content Cloud to deliver secure content management and collaboration built for this new way of working.
+Our strong momentum is best illustrated by our customer deal metrics in the second quarter.
+Our net retention rate was 106%, up from 103% in the prior quarter.
+We had 74 new deals over $100,000, up 16% year-over-year.
+And we had a 73% attach rate of Suites on deals over $100,000 in the quarter, up from 49% in the prior quarter and up from 31% in Q2 fiscal '21.
+We view these strong customer metrics is evident that we are executing on the right product strategy, one that is well aligned with the three major changes happening around the future of work and the enterprise.
+First, hybrid work is going to be a necessity going forward; second, digital transformation is driving significant change across all industries; and third, cyber security and privacy threats are increasing at a growing rate as we've seen with recent ransomware attacks.
+These trends have major implications for how companies work with their content.
+Today enterprises have to purchase and integrate a mix of solutions from disparate vendors to solve the entire content management lifecycle.
+This leads to broken processes for users, security risk due to the gaps between tools, fragmented data and increased cost for enterprise customers.
+Our vision for the Box Content Cloud is to integrate, empower the complete content lifecycle from the moment content is created through the entire content workflow.
+By leveraging our product leadership and content management, our Content Cloud will continue to extend in the key elements of this lifecycle including e-signature, content publishing, deeper content workflows, new collaboration experiences, analytics, data privacy and advanced security.
+Critical to our success is our ability to execute on our product roadmap which expands our total addressable market and adds value to our core platform with new product innovation.
+This is why we were pleased to deliver on our product road map with the launch of Box Sign to select customers in late July, capitalizing on the trend of more transactions moving from paper-based manual workflows to the cloud, while also addressing an incremental multi-billion dollar market.
+Box Sign was developed through the acquisition of SignRequest, a leading cloud-based electronic signature company and a good example of our disciplined approach to M&A.
+Our decision to acquire this particular technology versus developing internally was driven by time-to-market with e-signature being the number 1 requested feature from customers last year.
+Initial response from customers has been very positive and we are rolling our Box Sign to all business and enterprise customers throughout this fall with a significant roadmap of innovation ahead.
+Also over the quarter, we made meaningful updates to our governance functionality to help support customers' legal hold and document retention needs as well as new features within Box Shield to protect the flow of content with advanced machine learning based security features.
+Our security, compliance, data governance and privacy capabilities remain one of the most critical reasons customers choose the Box Content Cloud and our innovation here is only accelerating.
+In addition to these and many other product updates in the quarter, we continue to integrate deeply across the SaaS landscape, a key part of our content product value proposition, interoperability and strong partnerships with leading technology companies.
+This is critical to our success at scale, building on the great work we've done with so many amazing partners, including Slack and Microsoft.
+In the second quarter, we announced a new integration with ServiceNow legal service delivery application to modernize legal operations which benefit customers by bringing together ServiceNow's advanced workflow expertise to minimize manual processing while ensuring confidential legal content is secured on Box's Content Cloud.
+And we also announced new and deepened integrations with Box for Cisco Webex and make it easier for customers to work securely and effectively in the cloud.
+And we're just getting started to address our $50 billion plus market opportunity, we are building the end-to-end platform for managing the lifecycle of content and continue to be regarded by customers and analysts as the leading independent vendor for Cloud Content Management.
+Of course, evolving our product strategy to meet today's enterprise, remote and hybrid workforce needs and strengthening our partnerships with leading technology companies are only part of our strategy to drive growth.
+We have also been methodically enhancing our land and expand go-to market model to deliver our full platform to our customers.
+To accelerate growth, over the past couple of years, we've been actively implementing a number of strategic go-to-market initiatives including optimizing pricing and packaging, improving sales segmentation and territory planning, driving efficient marketing programs and pipeline generation, increasing sales enablement and doubling down our focus on key verticals such as life sciences and financial services in the federal government and the success of our go-to-market initiatives and the growing demand for our more advanced capabilities drove our strong Suites adoption in the second quarter.
+This is why we've been working aggressively to sell the full Box platform through our Suites' offering to bring all the Box has to offer to our customers.
+We know that when a customer adopts our multi-product offerings, we see greater total account value, higher net retention, higher gross margin and a more efficient sales process.
+Building on the success of Suites, in late July, we also announced a new simplified product addition for our enterprise customers called Enterprise Plus which includes Shield, Governance, Relay, Platform, Box Sign, the ability for large file uploads and enhanced important consulting credits.
+You can see the success of our go-to-market efforts most clearly when looking at our Q2 customer expansion.
+For instance, one of the largest banks in the world purchased a seven figure deal with multiple products including KeySafe, Governance, Relay, Shield and Platform to support new use cases for Box including claims processing and loan origination in a more secure virtual environment.
+The bank has also standardized on Box for internal and external collaboration.
+An innovative biopharmaceutical company did a six figure expansion with Box to support its growing workforce following multiple acquisition to help power its mission to transform the way the drugs are manufactured in the US.
+With Box, the company's workforce is able to improve collaboration, security and GST compliance providing with them with a scalable and secure foundation that allows them to work faster.
+And finally, a global leader in energy services that has been a Box customer since 2017 expanded its use of Box with a six figure ELA and the purchase of Enterprise Plus.
+This will enable them to have a proactive approach to internal threat detection on content, be more prescriptive with security controls around content and automate more than a dozen critical business workflows.
+These deals showcase the simplicity and power of our business model.
+We are focused on expanding our customers through additional seed growth by going wider within organizations, as well as adding more value through additional feature enhancements and new products that drive up customer value and retention.
+Over the past year, we have been executing on our strategy to reaccelerate growth while also driving continued operating margin improvements and our results in the second quarter demonstrate that our strategy is working.
+As a result, we have raised our guidance for the full fiscal year 2022 and are reiterating our long-term target for the 12% to 16% revenue growth and 23% to 27% non-GAAP operating margin in FY '24.
+Our strong second quarter results and our confidence in our outlook for this fiscal year and beyond are the direct result of the leadership of our board and the hard work and execution we've been driving as a company.
+I could not be prouder of the team at Box and while we still have so much we want to accomplish, I am confident that we have the right team and leadership to execute on our strategy and targets going forward as well as a world-class Board of Directors that is focused on and committed to driving enhanced value for shareholders.
+As Aaron mentioned, we are proud to have delivered strong top and bottom line results in Q2.
+We drove an acceleration across key metrics, revenue growth, net retention and operating profit, clearly demonstrating strong business momentum as we build on our Content Cloud vision.
+Revenue of $214 million was up 12% year-over-year, an acceleration from our Q1 revenue growth of 11% and above the high end of our guidance.
+Our Content Cloud offerings are increasingly resonating with our customers as shown by the strong Suites traction and net retention rate we achieved in Q2.
+As our customers are increasingly adopting products with more advanced capabilities, 61% of our revenue is now attributable to customers who have purchased at least one additional product, up from 56% a year ago.
+In Q2, we closed 74 deals worth more than $100,000, up 16% year-over-year, a record 73% of the six-figure deals were sold as a Suite, up from 49% in Q1 and from 31% in the year-ago period.
+Suites have enabled us to streamline our sales process and drive greater adoption of multi-product solutions, resulting in customers who are larger, stickier and have a greater propensity to expand over time.
+We couldn't be more encouraged by our traction here.
+We ended Q2 with remaining performance obligations or RPO of $922 million, up 27% year-over-year, an acceleration from the prior quarter's RPO growth rate of 20% and exceeding our revenue growth by 1,500 basis points.
+Q2's RPO growth is comprised of 16% deferred revenue growth and 37% backlog growth demonstrating Box's stickiness as we continue to sign longer term agreements to support our customers' content strategies.
+We expect to recognize more than 60% of our RPO over the next 12 month.
+Q2 billings of $213 million were up 13% year-over-year and well ahead of our previous expectations to deliver a growth rate in the mid-single-digit range.
+This billings result reflects the strong sales execution that we saw in the enterprise and SMB with both teams generating double-digit year-over-year sales productivity improvement.
+Our net retention rate at the end of Q2 was 106%, up 300 basis points from 103% in Q1.
+This result was driven by strength in customer expansion and a stable annualized full churn rate of 5% based on the strong momentum we're seeing in customer expansion and retention, we expect to deliver additional improvement in our net retention rate over the course of this fiscal year.
+Gross margin came in at 74.5%, up 100 basis points from 73.5% a year ago.
+Q2 gross profit of $160 million was up 13% year-over-year, exceeding our revenue growth rate.
+We continue to benefit from both our ongoing shift to cloud data centers and the hardware and software efficiencies we're generating in the infrastructure we manage.
+Our gross margin expectations for the full year of FY '22 continue to be approximately 74%.
+Our ongoing efforts to improve profitability are paying off as we continue to unlock leverage in our operating model.
+Q2 operating income increased 47% year-over-year to $44 million which in turn drove a 500 basis point improvement in Q2 operating margin to 20.6%.
+We continue to deliver profitable growth and disciplined expense management.
+This year, we've made significant progress in building out our Engineering Center of Excellence in Poland, which will help us drive additional operating leverage and efficiencies over time as we transition certain engineering functions away from higher cost California locations.
+This resulted and are delivering $0.21 of diluted non-GAAP earnings per share in Q2 above the high end of our guidance and up from $0.18 a year ago.
+I'll now turn to our cash flow and balance sheet.
+In Q2, we delivered cash flow from operations of $45 million, up 39% from the year-ago period.
+We also generated free cash flow of $30 million, a year-over-year improvement of 124%.
+Capital lease payments, which we include in our free cash flow calculation were $13 million down from $14 million in Q2 of last year.
+For the full year of FY '22, we continue to expect capex and capital lease payments combined to be roughly 7% of revenue.
+As a result, we ended the quarter with $779 million in cash, cash equivalents and restricted cash.
+We completed our modified Dutch Auction Tender Offer at the end of June for an aggregate cost of approximately $238 million and our Board subsequently authorized a $260 million share repurchase program.
+As of August 24, 2021, we had repurchased 2.9 million shares of Class A common stock at a weighted average price of $23.89 for a total of $70 million.
+Combined with the modified Dutch Auction tender, we have repurchased a total of 12.2 million shares for a total of $308 million.
+With that, I would like to turn to our guidance for Q3 and fiscal 2022.
+As we announced a few weeks ago, based on our strong Q2 results and our continued business momentum, we raised our full year revenue, operating margin and earnings per share guidance.
+Note that our share count and earnings per share expectations factor in only the shares that we have already repurchased to date.
+While we expect to opportunistically purchase additional shares through the remainder of the year under our ongoing share repurchase program, the amount could vary significantly based on market conditions and other factors.
+Therefore, we're taking a prudent approach and not assuming any future repurchases in our Q3 or FY '22 outlook.
+For the third quarter of fiscal 2022, we anticipate revenue of $218 million to $219 million, representing 12% year-over-year growth and a third consecutive quarter of revenue growth acceleration at the high end of this range.
+We expect our non-GAAP operating margin to be approximately 20%, representing a 200 basis point improvement year-over-year.
+We expect our non-GAAP earnings per share to be in the range of $0.20 to $0.21 and GAAP earnings per share to be in the range of negative $0.09 to $0.08 on approximately 162 million and 154 million shares respectively.
+We expect our Q3 billings growth rate to be roughly in line with our revenue growth for the full fiscal year ending January 31, 2022, we have raised our full year revenue guidance and we expect FY '22 revenue to be in the range of $856 million to $860 million, up 11% year-over-year.
+This is an increase from last quarter's guidance of $845 million to $853 million and represents an acceleration from last year's revenue growth.
+We expect our non-GAAP operating margin to be approximately 19.5%, representing a 410 basis point improvement from last year's result of 15.4% and a sizable increase over our previous guidance of 18% to 18.5%.
+Due to our strong top and bottom line momentum, we now expect our FY '22 non-GAAP earnings per share to be in the range of $0.79 to $0.81 on approximately 166 million diluted shares.
+Our GAAP earnings per share is expected to be in the range of negative $0.34 to $0.32 on approximately 158 million shares.
+We continue to expect our billings growth rate to be above our revenue growth rate for the full year of FY '22 and for RPO growth to outpace both revenue and billings growth for the full year of FY '22.
+We will provide further details into our Q4 expectations on our Q3 earnings call.
+Finally, our FY '22 revenue growth rate combined with FY '22 free cash flow margin is now expected to be at least 32%, an increase over our previous guidance of at least 30%.
+Box today is not the Box of 2019.
+Our strong Q2 performance is the result of the business transformation we began two years ago.
+This year, we're delivering both revenue acceleration and increased operating leverage for our shareholders, proving that our Content Cloud platform is resonating with customers.
+We are well on our way to delivering against our previously stated target of 12% to 16% revenue growth and 23% to 27% operating margin in FY '24, two years from now.
+In FY '24, we're also committed to delivering revenue growth plus free cash flow margin of 40%.
+Before we conclude, I'll hand it back to Aaron for a few closing remarks.
+Before we open it up to questions, we wanted to share that on October 6, we will be hosting 10s of thousands of attendees at BoxWorks which will be an all digital event for the second year in a row.
+This year will be another incredible event where we'll share more on our vision for the Content Cloud and we'll showcase major product advancements.
+Attendees will also be hearing from an outstanding slate of speakers including the CEOs of Okta, Slack and Zoom as well as IT [Phonetic] leaders from enterprises like Lionsgate, State Street, USAA and World Fuel Services among many others.
+Q2 was a strong quarter, not only in terms of achieving quarterly revenue and non-GAAP operating results that were above our original guidance, but also in our metrics that show the power of our Content Cloud platform.
+Net retention rate, billings and RPO growth are all leading indicators that show the success of our strategy, not only retaining customers, but expand our solutions, within our existing customer base to drive revenue growth and operating margin improvements and ultimately shareholder value.

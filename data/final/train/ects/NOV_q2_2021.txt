@@ -1,0 +1,172 @@
+They involve risks and uncertainty, and actual results may differ materially.
+Our comments also include non-GAAP measures.
+On a U.S. GAAP basis for the second quarter of 2021, NOV reported revenues of $1.42 billion and a net loss of $26 million.
+Later in the call, we will host a question-and-answer session.
+During the second quarter of 2021, NOV's consolidated revenue increased 8% sequentially, and EBITDA improved to $47 million, excluding the benefit arising from the cancellation of certain offshore rig projects.
+Operating leverage was strong at 50%, owing to cost reductions in prior periods, while price increases in certain product lines helped offset the inflation we are seeing in most product lines.
+Coming out of a pandemic, which bankrupted many of our customers and eviscerated our backlog, our financial results improved but remained below acceptable levels.
+Nevertheless, NOV's execution strengthened through a quarter of continuing supply chain challenges and COVID disruptions.
+We are pleased to see orders for both our Rig Technologies and Completion & Production Solutions segments rise significantly.
+Rig Technologies posted book-to-bill of 138% and on strength in orders for renewables.
+And Completion & Production Solutions book-to-bill ran 167% in the second quarter.
+Barring another round of COVID lockdowns, we expect the market to continue to strengthen, underpinned by broad economic growth, higher commodity prices and the continuing worldwide build-out of an offshore wind power tool kit.
+The company's portfolio of technologies developed over the past several years positioned extraordinarily well to capitalize both on the oilfield recovery underway as well as the enormous energy transition.
+The next five years look very, very interesting for us.
+Like global manufacturers across all industries, NOV experienced supply chain disruptions throughout the second quarter, and we expect these challenges to persist into 2022.
+Many steel mills that supply NOV bespoke metallurgies, along with petrochemical facilities and plants that supply NOV epoxy resins, thermoplastics and elastomers, are not fully up and running due to a combination of COVID, the February Texas freeze and in some cases, disruptions in their own supply chains.
+Furthermore, transportation bottlenecks around the world, port congestion and port closures and freight costs that have quadrupled are adversely impacting suppliers two and three levels down from us, driving up input costs and lengthening delivery times on everything from steel to computer chips.
+In certain instances, we've been placed on allocations.
+So we think we are better positioned than our smaller competitors.
+Our size and scale generally give us access to a broader range of suppliers and our teams are managing through these challenges better than our competitors.
+The U.S. market is also seeing a tightening labor pool, adding pressure to cost and efficiency.
+Our customers tell us that attracting hands back to their oilfield service operations is very challenging.
+Interestingly, this is prompting greater customer interest in some of the new automation products we are now introducing to the market, which reduce the need for field labor.
+But as we get back to growth in our factories, we are finding it challenging to attract workers as well.
+NOV is trying to stay ahead of the inflation threat brought on by labor and raw material constraints by passing along these costs as price increases.
+Our success has varied, depending largely on the level of excess lower-cost inventories remaining in our competitors' hands within these markets.
+Day by day, however, we know excess capacity within many categories of oilfield equipment and consumables, think bits, drilling motors, fluid ends, is approaching depletion, offering the first opportunities in many quarters to heal pricing and profitability as the North American marketplace continues to get more active and offshore and international markets start to recover.
+The marginal cost of returning idled oilfield equipment, much of which has been cannibalized and stripped of consumables during the downturn, grows rig by rig, frac spread by frac spread as the industry steadily goes back to work.
+COVID measures continue to impact operations around the world.
+Two of our large composite pipe plants in the Far East were shut down in late second quarter and remained closed until late last week.
+Operations in India, the Middle East, parts of Europe and Canada all experienced COVID disruptions of greater or lesser degrees.
+And generally, NOV did a better job of anticipating and managing through these obstacles in the second quarter.
+Our second quarter results are an instructive reminder of the cyclical behavior of our segments.
+Wellbore Technologies is most closely tied to drilling and is an early cycle beneficiary of rebounding drilling activity, having bottomed in the third quarter of last year.
+Its last two quarters have seen it put up double-digit top line growth at greater than 50% EBITDA leverage, benefiting from the outstanding execution of cost reductions through the downturn as well as selected price increases where possible.
+Our other segments are driven more by capital equipment purchases and are, therefore, later cycle and lag Wellbore Technologies by two to three quarters.
+We believe both Completion & Production Solutions and Rig Technologies bottomed in the first quarter of 2021, and both posted double-digit top line growth in the second quarter.
+Book-to-bill's above 100% for both in the second quarter also support our outlook.
+All three segments see more or less the same macro environment.
+North American activity continuing its measured recovery driven by stronger commodity pricing while governed by extreme capital discipline on the part of operators; two, national oil companies returning to work in fits and starts around the world with tenders being let for, hopefully, a broader resumption of activity in 2022, barring additional COVID drama; and three, cautious optimism in offshore markets with some limited project approvals flowing in the Gulf of Mexico, Brazil and Guyana, but many projects facing continuing delays and moving to the right.
+Overall, excluding the rig cancellation, NOV's consolidated North American revenues increased 22% in the second quarter, and international revenues increased 1%.
+Consolidated offshore revenues declined 5% sequentially in the quarter.
+Within Completion & Production Solutions, six of eight businesses posted sequential revenue growth.
+Every business unit, with the exception of our Intervention & Stimulation Equipment business, posted book-to-bill ratios above 100%.
+In addition to navigating supply chain issues, the segment made good progress on technical developments within its ideal e-frac offerings and its renewables portfolio, particularly in the carbon capture space.
+A little more than half of Rig Technologies' second quarter orders came from the offshore wind space, and the outlook for this area points to continued growth.
+Additionally, the tone from offshore drilling contractor customers is improving as they emerge from bankruptcy with stronger balance sheets.
+The 11% sequential improvement in spare parts bookings during the quarter, more inquiries around rig reactivations and more engineering work we are being asked to do around upgrading BOPs, automating pipe handling and adding Crown Mounted compensators gives us confidence that we are seeing more offshore drilling activity on the horizon.
+In the land rig space, our rig manufacturing JV facility in Saudi Arabia is nearing completion and work is currently underway on the first rigs.
+The NOV team continues its development of high-value solutions that support the energy transition, and I wanted to share a couple of updates.
+During the quarter, we advanced conversations with one of the largest solar EPC providers to develop a solar panel tracking system and the accompanying supply chain.
+We are also in advanced talks to sell our proprietary mobile tower crane that will enable the construction of significantly taller, more efficient onshore wind farms, which we hope will result in a purchase order soon.
+This crane underpins a clever new installation method that will facilitate the adoption of taller, lower-cost land towers that we are working with Keystone Tower Systems to manufacture at our facility in Pampa, Texas that we have described on previous calls.
+We successfully tested our new in-line chain tensioner that will be used to facilitate the offloading of floating wind turbines and entered into an agreement with Cerulean Winds to serve as the exclusive provider of floating and mooring systems for floating wind farms that will decarbonize oil and gas assets in the U.K. sector of the North Sea.
+Our NOV GustoMSC team has been working with a customer to design and deliver a proprietary system that automatically tilts and orients a sailing mast, improving efficiencies of sails on large vessels.
+The initial application of this system is for a large cruise ship, but can also be used on large cargo vessels.
+The wind propulsion technology will supplement conventional propulsion systems and is expected to reduce the ship's carbon footprint by 40% to 50%.
+There's also a lot happening in the geothermal market.
+Our ReedHycalog PDC cutter technology continues to drive improvements in economic returns for the geothermal industry.
+And Tuboscope's TK liner product line is becoming an indispensable piece of large geothermal projects internationally as evidenced by a contract award this quarter for approximately 60,000 feet of large diameter product.
+In fact, we are introducing several new products across many business units that are specifically designed for the geothermal market, which is now seeing strong surge in demand globally now.
+Our Process and Flow Technologies team has developed a concept design for a full-scale carbon capture module, utilizing our expertise in gas processing and treatment built over the last 40-plus years.
+And we are in discussions with two potential customers for FEED studies utilizing this technology in Europe now.
+The application of NOV's engineering and manufacturing expertise to the energy transition continues to unearth compelling paths to future growth.
+Turning back to our traditional oilfield markets, despite all the downsizing we've executed over the past several years, our sustained investments in R&D now provide NOV an outstanding portfolio of new products and technologies that position us well as we move into a recovering oil field market.
+Our NOVOS operating system is at work today on 74 drilling rigs with another 84 in backlog, enabling these land and offshore rigs to access 10 different optimization applications written by NOV and third parties.
+These include optimization apps that utilize high-speed data from the bottom of the hole, transmitted through NOV's IntelliServ wired drill pipe network, currently providing higher levels of efficiency and safety to several critical North Sea rigs and a rig in Saudi Arabia.
+NOVOS also provides the digital foundation for our new automated drilling and tripping robots that we are introducing later this year.
+Several customers came out to see our cost-effective industrial robots Dope and Trip over 25 stands per hour without any human hands touching the pipe or the controls.
+Offshore, we are seeing continued interest in reducing carbon emissions through our PowerBlade and Eco Boost products and subscribers to NOV's RIGSENTRY predictive analytics product, the oilfields first commercial product introduced back in 2016, continued to grow.
+We're continuing to develop our edge computing solutions through our Max platform, working closely with a handful of E&Ps to scope and develop the beta version.
+We're also bringing new directional drilling tools like our proprietary Agitator friction reduction tools, our SelectShift downhole adjustable bent sub, our Vector series of rotary steerable tools and market-leading drilling motors and MWD tools.
+NOV ReedHycalog leads the industry in bit and cutter technology, having lifted its market share materially through superior bit performance over the past several quarters.
+FlexConnect frac hoses and the digital enhancements we are developing around monitoring, controls and predictive analytics in this space.
+After several years of cost cutting, restructuring, pivoting and innovating, NOV has reset and transformed its business, utilizing new developments in everything from digital to composite materials, we've developed new high-value ways to lift the efficiency and safety of our customers' traditional oil and gas operations.
+We've developed ways to reduce their carbon impact, and we are winning over new customers who are building out new forms of low carbon energy.
+As the world continues to heal from the COVID-19 pandemic and the global economy tries to recapture some sense of normalcy, NOV is poised to benefit in both our traditional oil and gas businesses and our newer ventures in the renewables space.
+I'm enormously proud of NOV's dedicated, creative service-minded employees whose hard work through this downturn has enabled the bright future that lies ahead.
+While our global operational reach, our integrated network of manufacturing assets and our strong balance sheet and financial resources are all required to cultivate these opportunities, it's our fantastic team of employees who will make them hum.
+For the second quarter of 2021, NOV's consolidated revenue rose 13% sequentially to $1.42 billion, and EBITDA was $104 million or 7.3% of sales.
+Second quarter revenue included $74 million related to the final cash settlement and cost reimbursement from the cancellation of offshore project -- offshore rig projects.
+Excluding the settlement, revenue rose 8% sequentially to $1.34 billion and EBITDA was $47 million or 3.5% of sales.
+Consolidated U.S. revenue increased 27% sequentially, significantly outpacing the growth in U.S. drilling activity.
+International revenues, excluding the settlement, improved only 1% but we began to see international growth accelerate late in the second quarter.
+50% incremental margins were the result of better absorption across our manufacturing base, better management of supply chain disruptions price improvements in certain areas and cost savings initiatives, which have nearly achieved our target for the year.
+Efforts to improve capital efficiencies across the organization helped drive $177 million in cash flow from operations.
+Capital expenditures totaled $49 million, resulting in $128 million of free cash flow.
+During the second quarter, we redeemed the remaining $183 million of our senior notes due in December 2022, and we ended the quarter with $1.6 billion of cash, $1.7 billion of gross debt and only $114 million of net debt.
+We expect working capital will continue to be a source of cash through the second half of the year.
+Moving on to segment results.
+Our Wellbore Technologies segment generated $463 million in revenue during the second quarter, an increase of $50 million or 12% sequentially.
+Revenue improved 14% in North America and 10% in international markets as the early stages of a global recovery began to expand beyond the Western Hemisphere.
+An improved cost structure, higher volumes and pricing improvements more than offset inflationary costs and drove 58% incremental margins, resulting in a $29 million increase in revenue to $63 million or 13.6% of sales.
+Our ReedHycalog drill bit business posted solid top line growth, led by a 25% sequential improvement in U.S. revenue, resulting from improving activity and market share gains.
+Outside North America, sales improved 10% sequentially with our NOC customers, signaling an intent to continue increasing activity over the next several quarters.
+Our downhole tools business reported a 13% sequential improvement in revenue, with most major regions realizing double-digit percentage growth.
+Improving adoption of our proprietary drilling tools that reduce trips, maximize hydraulic flow and reduce friction such as our SelectShift and our Agitator product lines continued in Q2.
+Notably, the unit also realized a sharp increase in demand for fishing tools and service equipment in many regions, indicative of what we believe is customers beginning to restock depleted and worn out equipment after years of underinvestment.
+Higher volumes, improved operational efficiencies and price improvements more than offset inflationary forces, allowing the business to deliver strong incremental margins during the quarter.
+Our Wellsite Services unit saw revenue growth in the mid-single digits as our solids control business benefited from widespread activity growth, partially offset by continued COVID-related disruptions.
+The disruptions included the suspension of a large project in Mozambique and the COVID-related shutdown of one of our well site manufacturing facilities in Malaysia, requiring us to incur additional charges to airfreight goods from our Conroe facility back to the Eastern Hemisphere.
+Wellsite Services will benefit from improving global drilling activity, but unlike pure service operations, we also expect the business to benefit from an inflection in capital equipment sales as customers put rigs back to work and need to replace cannibalized shale shakers and centrifuges or equipment that has been sitting in idle salt water environments.
+Demand for capital equipment began to show signs of life in the second quarter, with bookings improving 1.7 times off the very low mark realized in the first quarter of 2021.
+Our MD Totco business realized a double-digit sequential improvement in revenue with strong incremental margins.
+Revenue from surface sensor and data acquisition sales and rentals improved 20% due to higher drilling activity and market share gains.
+The business units evolve digital drilling optimization service, which utilizes our high-speed telemetry wired drill pipe posted a modest sequential decline in revenue due to the timing of crews and equipment transitioning to new projects after completing jobs as well as supply chain challenges affecting our ability to source certain high-speed data networking components.
+Demand for this service remains robust and the business was recently awarded a new three year optimization project for a major operator in the North Sea.
+Our Tuboscope pipe coating and inspection business posted an 11% sequential increase in revenue with strong incremental margins during the quarter, driven by a sharp increase in demand for our tubular coating services across all major market.
+We realized a disproportionate improvement in demand for our large-diameter TK liner products, which are high-performance glass-reinforced epoxy liners that provide corrosion protection for tubular goods.
+In addition to the demand from geothermal markets that Clay mentioned, we're also starting to see U.S. customers resume investments in large-scale production infrastructure.
+We received an order for 121,000 feet of 12-inch line pipe for a saltwater disposal system in the Haynesville as well as an order for 14,000 feet of 16-inch line pipe for a system in the Permian.
+Tuboscope's tubular inspection operations grew at a more modest rate than its coating business, but realized solid demand from steel mills and outside pipe processors as they ramp up operations.
+Our Grant Prideco drill pipe business posted revenue growth of 11% on higher sales of drill pipe and the delivery of the industry's first three million-pound 20,000 psi-rated landing string.
+Higher absorption and intense focus on cost controls and an improved sales mix drove very strong incremental margins.
+Demand from North America continued to outpace international and offshore markets in the second quarter, but we expect to see international tendering activity increase during the second half of the year.
+While we're encouraged by the improving outlook, stretched supply chains and lead times will limit the ability for new orders to improve revenue beyond the orders we currently have in our backlog.
+Additionally, we believe the significant increase in steel costs could slow tender awards, while customers acclimate to a new pricing environment.
+While the stage is being set for a strong recovery in 2022, we expect limited revenue growth for our drill pipe business in the second half of 2021.
+For our Wellbore Technologies segment, we expect accelerating activity in the Eastern Hemisphere and modest improvements in the Western Hemisphere to result in 6% to 10% sequential growth in the third quarter.
+We anticipate improved absorption rates and higher pricing will be partially offset by inflationary pressures, ongoing raw material shortages and a less favorable product mix in our drill pipe business, limiting incremental margins to the mid-20% range during the third quarter.
+Price increases in certain products, together with disciplined cost management, provide confidence in the segment's ability to achieve a mid-teen EBITDA margin by year-end.
+Our Completion & Production Solutions segment generated $497 million in revenue during the second quarter, an increase of $58 million or 13% sequentially.
+Lower margin sales, inflationary pressures and operational disruptions limited incremental margins to 14%, resulting in EBITDA of $4 million or 0.8% of sales.
+Orders improved 37% sequentially, totaling $462 million for a book-to-bill of 167%.
+All but one business unit achieved a book-to-bill of above 100% and the step change in order intake resulted in the segment achieving its highest booking quarter since 2019.
+Backlog for the segment at the end of the quarter was just north of $1 billion.
+Our Intervention & Stimulation Equipment business posted solid improvements in capital equipment and aftermarket sales, modest demand growth for pressure pumping equipment in the U.S. and improved deliveries of coiled tubing units into international markets boosted capital equipment sales.
+We're providing higher levels of coating activity for pressure pumpers who need to replace or upgrade existing fleets.
+The pickup in inquiries is reflective of tightening supplies, but competition remains fierce with the most difficult competition coming from idle equipment.
+While idle equipment limits sales and pricing, it also creates opportunities for our aftermarket business.
+During the second quarter, we achieved a notable sequential improvement in aftermarket sales as more customers look to put equipment back to work.
+In addition to a higher number of jobs, we're also seeing an increase in the average sales ticket.
+The amount of effort required to get equipment in working order along with the amount of cannibalization that is taking place tends to be strongly correlated to the amount of time equipment has sat against the fence line.
+We're encouraged by improving supply and demand dynamics as well as the growing opportunity to help customers improve operational efficiencies with our new technologically advanced product offerings, such as our ideal e-frac system QuickLatch, frac hose and our digital services.
+Field trials for our e-frac system have validated its ability to significantly reduce maintenance costs and increase pump volume nearly 4 times compared to conventional equipment while significantly reducing emissions.
+The system has successfully demonstrated its capabilities for several large independent operators and is currently in route to a job for a major IOC where it will utilize line power from the grid.
+Our Process and Flow Technologies business experienced a high single-digit decrease in revenue during the second quarter.
+A significant pickup in sales from the unit's production and midstream offerings, driven by North American customers restarting investments and production-related infrastructure, was more than offset by operational challenges in several large projects.
+Security issues in Mozambique led to an indefinite suspension of a large gas treatment project and delays in cost overruns due in part to COVID-related challenges adversely impacted two other projects.
+While some of these issues were outside of management's control, we're confident this business will deliver improved results in the back half of the year on better execution and a meaningfully improved backlog.
+Orders increased 2.6 times over the first quarter, and our pipeline of opportunities remains strong.
+Our subsea flexible pipe business posted a double-digit sequential increase in revenue, with strong incremental margins as the operation partially recovered from manufacturing challenges associated with a new product that we described in Q1.
+Delays in final customer acceptance slowed production during the quarter, but order intake grew 85% sequentially, both of which should allow the unit to post better results in the third quarter.
+Our Fiberglass business unit reported a 13% sequential increase in revenue with solid EBITDA flow-through despite a continuation of global supply chain and COVID-related difficulties.
+Supplies of epoxy resin and glass remained limited, and a spike in COVID cases in Malaysia led to the government-mandated shutdown of our manufacturing facility in the region.
+Through NOV's scale and nimble supply chain, we've been able to secure raw materials and shift manufacturing to plants in regions that are less affected by COVID outbreaks in order to meet customer needs.
+Supply chain challenges have also resulted in higher costs.
+We've seen certain raw material prices increase upwards of 40% and shipping costs increased fourfold compared to 24 months ago.
+To date, we've been successful in passing cost on to our customers, but the rapid rate of change is causing some customers to delay projects.
+We're also seeing deferrals of existing orders from our marine and offshore customers who are very reluctant to park their vessels for upgrades when they can capitalize on extraordinarily high shipping rates.
+Despite the difficult operating environment, our fiberglass business achieved its highest level of backlog in the last five quarters and we're finally beginning to see a pickup in demand for midstream customers in the U.S. For the third quarter of 2021, we anticipate revenue from our Completion & Production Solutions segment will improve between 5% to 10% sequentially, with incremental margins in the low 30% range.
+Our Rig Technologies segment generated revenues of $487 million in the second quarter, an increase of $56 million or 13% sequentially.
+Second quarter revenues included $74 million related to the final settlement from the cancellation of certain offshore rig projects.
+Excluding the impact of the settlement, revenues declined $18 million sequentially to $413 million as improving aftermarket sales and progress on land rig projects were more than offset by lower offshore rig equipment sales.
+Adjusted EBITDA, excluding $57 million from the settlement, improved $5 million to $18 million or 4.4% of sales due to a higher margin mix and improved operational efficiencies.
+Capital equipment orders for the segment more than doubled to $232 million, yielding a book-to-bill of 138%.
+As Clay mentioned, more than 50% of our Q2 orders related to wind installation vessel equipment where NOV's engineering designs and equipment continue to be the market standards.
+Orders received in Q2 position us well to achieve our stated target of a $200 million annual revenue run rate in our wind business by year-end.
+While awards have been robust during the past 12 months, we expect this momentum to continue and see the potential for our wind-related revenues to achieve a run rate of between $350 million and $400 million by the end of 2022.
+Encouragingly, capital equipment orders also improved sequentially and reflected three drivers at work in the drilling space.
+One is the desire to reduce environmental impact, which is driving sales of products such as our Eco Boost and our PowerBlade energy recovery systems.
+Two is the need to improve operational efficiencies via digital technologies and automation, which is driving demand for products such as our NOVOS automation and control systems.
+And three is the need to replace or upgrade capital equipment that has been stacked or inadequately maintained.
+Rigs that were stacked during the downturn will need to be reactivated, recertified, and in many cases, upgraded to meet customer demands for the latest and most efficient technologies.
+Typically, the first rigs to be reactivated to require the least amount of work, and the capital intensity of projects grows significantly as customers work deeper into their stacks.
+While land rigs do not suffer from the same rate of corrosion as offshore rigs, they do tend to suffer a great deal from cannibalization, which is becoming more apparent as our customers ask us to reinitiate maintenance refurbishment and reactivation services.
+A growing sense of optimism around improving activity, international land tenders and the potential need for incremental rigs in Brazil, Guyana, the North Sea and even West Africa is catalyzing discussions around reactivations and upgrades while improving balance sheets and cash flows will enable the investments.
+During the second quarter, our aftermarket sales improved 3% sequentially with spare part bookings growing 11%.
+While spare part orders remain lumpy, we anticipate aftermarket spending will move higher during the second half of the year as the industry continues its nascent recovery.
+Better orders and market sentiment give us greater confidence and an improving outlook for our Rig Technologies segment in 2022 and beyond.
+For the third quarter, we expect revenues for our Rig Technologies segment to remain in line with the second quarter, excluding the impact of the settlement with margins that are flat to down 200 basis points.
+And with that, we'll now open the call up to questions.

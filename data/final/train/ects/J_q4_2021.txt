@@ -1,0 +1,189 @@
+See Slide 2 for more information on the calculation of these pro forma metrics.
+For pro forma comparisons, current and prior periods include the results of recent acquisitions and the PA Consulting investment.
+We are also providing pro forma net revenue comparisons adjusted to exclude the impact of the extra week in Q4 fiscal 2020.
+Turning to the agenda on Slide 3.
+Steve will begin by updating the progress we are making against our strategy and the future ESG at Jacobs.
+Bob will then review our performance by line of business.
+And Kevin will provide a more in-depth discussion of our financial results, followed by an update on our Focus 2023 and M&A initiatives as well as a review of our balance sheet and cash flow.
+With that, I'll now pass it over to Steve Demetriou, Chair and CEO.
+Turning to Slide 4.
+Before I review our results, I'd like to share that we're in the final stages of completing our new strategy.
+We will be hosting an investor event, the week of March 7 for a deep dive of the next phase of our Jacobs transformation.
+Three key initiatives have emerged.
+First, we're putting in place a purpose-driven roadmap, rooted in our values and strong culture to maximize our next stage of growth.
+Secondly, we identified and have aligned investment resources to capture three multi-decade growth opportunities; global infrastructure modernization, climate response and the digitization of industry.
+And third, we're taking a transformational approach to executing against these opportunities as we are unlocking the innovation engine at Jacobs, expanding our technology ecosystem, while accelerating our trajectory of profitable growth and durable cash flow generation.
+We look forward to eliminating this strategy at our upcoming investor event.
+Now turning to our financial results.
+I'm pleased with our strong fourth quarter and fiscal year performance with net revenue increasing 7% year-over-year.
+Adjusted EBITDA grew 12% during the quarter and 18% for the full year.
+Backlog ended the fourth quarter up 12% year-over-year and up 7% on a pro forma basis.
+PA Consulting continued to post exceptional performance with 41% revenue growth.
+More importantly, PA delivered this growth while maintaining adjusted operating profit margins of 24%.
+For the full year, PA revenues surpassed $1 billion, far exceeding our deal investment model.
+As we look at overall Jacobs growth going forward, we now have certainty surrounding the unprecedented U.S. Infrastructure funding with the passage of the $1.2 trillion Infrastructure and Jobs Act last week.
+And more broadly, global infrastructure modernization and national security needs are accelerating as our government and commercial clients address the challenges of climate change, advancement of the digitization strategies and increasing cyber threats.
+On top of that, our advanced facilities business is expected to show significant growth, driven by the need for additional semiconductor manufacturing capacity and post-pandemic life Sciences priorities.
+Given these strong growth dynamics, we're introducing fiscal 2022 guidance for double-digit adjusted EBITDA growth.
+Looking beyond 2022, we expect our strong organic growth to result in approximately $10 per share of adjusted earnings per share in fiscal year 2025.
+Turning to Slide 5.
+As we reflect on climate change, it is globally accepted that humanity is at a critical juncture in our efforts to limit global warming.
+Jacobs and PA participated at the recent UN Climate Change Conference of the Parties COP26 in Glasgow to demonstrate our commitment to reinvent tomorrow with immediate and sustained action in the transition to a net zero economy.
+We stood alongside other business financial and government leaders as well as activists and students to make sure our voice was heard.
+We engaged in activities to accelerate solutions to ensure the world stays on track to meet the critical 1.5 degree celsius trajectory, while preparing to adapt to the changes already locked in from climate change.
+As we move to Slide 6, given the nature of our business, it's clear that Jacobs' greatest opportunity to positively address climate change comes from a sustainable and resilient solutions that we co-create and deliver in partnership with our clients.
+To spearhead this effort, we have established a new office of global climate response in ESG to ensure that sustainability is woven into all of our solutions across markets and geographies.
+We are accelerating our established partnerships with the public and private sector to advance net zero carbon outcomes, climate resilience, natural and social capital as well as ESG business transformation in alignment with the United Nations Sustainable Development Goals.
+Annually, we generate approximately $5 billion of ESG-related revenue and expect to grow significantly over the next several years driven by strong capability and energy transition, decarbonization, climate adaptation and natural resource stewardship.
+Our culture is a competitive differentiator.
+Our people have the knowledge, curiosity and the trust of our clients to achieve our purpose to create a more connected sustainable world.
+Moving on to Slide 7 to review Critical Mission Solutions.
+During the fourth quarter, our CMS business continued its strong performance.
+Total CMS backlog increased 16% year-over-year, 7% on a pro forma basis to $10.6 billion driven by a strategic new wins in cyber and intel and nuclear and remediation.
+Our CMS strategy is focused on creating recurring revenue growth and margin expansion by offering technology-enabled solutions aligned to critical national priorities.
+Three market trends that we see offering continued strong growth include, cyber, commercial space and 5G technology for national security.
+Beginning with cyber and intelligence, we are seeing several major emerging threats to national security.
+First, cyber attacks on mission critical infrastructure, which are even more stealth and as disruptive as a traditional attack.
+Second, the speed and complexity of near-peer threats, which requires real-time coordination between space and other domains as a severity of nation state sponsored attacks continues to increase.
+And third, the adoption of a data-intensive AI-based applications are dramatically increasing the need for real-time data security and integrity.
+The funding for addressing these threats are partially reflected in the unclassified federal government spending on cyber in FY '22, which is expected to be over $20 billion, up 10% from prior year.
+Additionally, we expect to spending within classified budgets to be up higher.
+During the quarter, we are awarded a $300 million, seven year contract with the National Geospatial-Intelligence Agency to modernize the NGA's ability to rapidly gain and share insights from cross domain inventory, including top secret data classification.
+And within the classified budget, we were awarded $170 million five year new contract to develop highly secure and hardened software application that are leveraging the latest advances in AI and machine learning.
+We recently closed the BlackLynx acquisition, which provides software-enabled solutions for automating the collection of data at the edge and quickly gaining insights into extremely large volumes of structured and unstructured data.
+Our strong presence across the DoD and intelligence community as well as our digital enablement center will provide the escape velocity for BlackLynx to commercialize and scale their solutions resulting in highly profitable recurring revenue.
+We also recently announced a strategic investment and distribution agreement with HawkEye 360, which will enhance our digital intelligence suite of technologies with their RF, spectrum analytics and collection automation offering.
+Moving on to space.
+With a significant amount of capital being infused into the commercial space companies, the affordability of space tourism is becoming a reality as well as other emerging opportunities such as acceleration of satellite-based technologies and the need to understand the impact of space debris.
+Today we support commercial space companies with manufacturing process optimization, system and subsystem prototype work and test facility studies and projects.
+As commercial space matures, we are positioning our solutions for these emerging opportunities.
+During the quarter, we were notified of a significant increase to the ceiling of our contract in Marshall Space Flight Center that also supports Artemis and SLS.
+The U.S. Space Force selected Jacobs for a five year contract to provide software and system support for its Patriot Excalibur system, which coordinates to scheduling, training and status of U.S. Space Force aircraft.
+Finally, our telecom business had a strong quarter.
+And we see the rollout of 5G investment from clients like AT&T, Verizon, DIRECTV, T-Mobile and Dish Network accelerating in 2022 and beyond.
+In addition, the new Bipartisan Infrastructure Bill includes $2.5 billion for 5G rollout at U.S. military bases, and the DoD is investing heavily in 5G technology in support of national priorities.
+In summary, we continue to see strong demand for our solutions in 2022.
+The CMS sales pipeline remains robust with the next 18 month qualified new business opportunities remaining above $30 billion, which includes $10 billion in source selection with an increasing margin profile.
+Now on to Slide 8, I'll discuss our People & Places Solutions business.
+We finished the year with strong financial performance with the year-over-year backlog growth of 7% and annual net revenue growth.
+I'll discuss our results across the major themes of climate response, pandemic solutions, infrastructure modernization and digitization.
+Starting with climate response.
+As the top-ranked global environmental consulting firm, Jacobs is leading the efforts to mitigate the impacts of climate emergency, advanced transition to a clean energy net zero economy and rapidly respond to natural disasters.
+This quarter, Jacobs is awarded a multi-year contract by the U.S. Army's Engineer Research and Development Center to integrate nature-based solutions that grow climate resilience across defense department facilities.
+Jacobs has recently been selected to reimagine New York's Rikers Island, taking the site through a full community revitalization with an equitable resilient multi-use approach incorporating our innovative social value analysis.
+As the first phase in a 20-year program across the entire city, Jacobs' plan will consolidate four aging wastewater facilities into a state of the art 1 billion gallon per day water resource recovery facility that includes the renewable energy hub.
+In the transportation market, our specialists have pioneered advanced charging technology that enables clients to transition to decarbonized operation, a key focus of economic stimulus packages.
+Our transit team continues to win contracts that support clients with assets, operational and technology shifts toward green fleets.
+For example, we recently won and commenced a hydrogen rail facility study with Caltrans.
+And our long-term work with Brisbane Metro continues to showcase cutting-edge green transit solution.
+With exponential growth forecasted in the electric vehicle market, Jacobs has become the go-to-firm to support leading EV battery and vehicle manufacturing companies globally.
+We've doubled our EV book of business in the past year and are forecasting continued growth.
+We also announced a strategic partnership and investment in Microgrid Labs, a provider of commercial fleet electrification and infrastructure solutions, including their proprietary SaaS platform.
+The green economy transition is driving increased investments in hydrogen and renewables.
+And our team is delivering diverse solutions for a range of clients from our participation in the Bacton Energy Hub Consortium in the U.K. to energy transmission plans for a potential offshore wind development in the U.S. and additional contracts with Iberdrola's Renewables Avonlie Solar Farm and the Swanbank waste to energy facility in Australia.
+Moving on to the theme of pandemic response.
+With ongoing impact to the supply chain, health systems and semiconductor chip shortage, Jacobs is gaining momentum with multi-year backlog across sectors with new wins in biopharma such as the next phase of a new $2 billion biotechnology facility.
+Jacobs has successfully won several health opportunities in the U.S., Europe and Australia as they rethink pandemic response operations.
+The most significant aspect of the global supply chain disruption involves semiconductor shortages.
+As the world's leading technical services provider to the semiconductor industry, we are poised for significant growth in the electronic sector this year and expect our electronics business to further accelerate over the next several years.
+In fact, Jacobs is engineering several major investments for large chip manufacturers.
+Projects like Intel's New Arizona Fab, which Jacobs is designing, are scheduled to be fully operational in 2024.
+The new fab will manufacture Intel's most advanced process technology and represents the largest private investment in Arizona's history.
+Interconnected with climate response, pandemic solutions, infrastructure modernization and digital transformation are leading to long-term transformative growth with significant wins across all markets.
+Globally, we are continuing to win pioneering transportation projects across all sectors and modes.
+In highways, we were recently selected for transport for New South Wales along with consortium partners to undertake the $1.2 billion Warringah Freeway upgrade project to accommodate a third road crossing Sydney Harbour.
+In Ports and Maritime, we won the sustainable ports design and program management for King Abdul Aziz Port in Dammam, Saudi Arabia.
+And in air transportation, we were selected as the integrated program manager for the Solidarity Transport Hub in Poland, a greenfield airport in multimodal, including a high-speed rail network with an initial planned capacity of 45 million passengers.
+The program is of national significance.
+It will become the benchmark for zero carbon delivery and be a sustainable transportation platform for Eastern Europe's future travel demand.
+Our long-standing relationships and existing framework agreements supported major wins with U.S. State Department of Transportation and Transport for London, emphasizing our market leading position for solving our clients' most complex transportation challenges.
+In summary, we see continued investment across the P&PS client sectors.
+We are already experiencing exciting global wins in the first quarter of our new fiscal year, indicating that we are well positioned to develop and deliver unmatched value and capability to our clients as investment momentum builds from the U.S. Infrastructure Act and other economic stimulus.
+Turning to PA Consulting on Slide 9.
+As Steve mentioned, PA continues to exceed expectations, supported by an extension of consultative service to U.K.'s National Health Service, PA's efforts have extended into longer term vaccine deployment, testing trace and future pandemic preparedness planning.
+Additionally, PA growth is being accentuated by recent digital solution wins for confidential U.S. biopharmaceutical clients in the areas of cell and gene therapy and next generation patient care model.
+We continue to progress our synergy growth and long-term collaboration.
+The Jacobs' PA team were recently awarded a biotechnology manufacturing plant expansion to provide an end-to-end lifecycle solution incorporating critical digitize clinical trial information into the process design and facility layout.
+Additionally, we continue to receive Joint Strategic Consultancy award in the transportation sector globally.
+I look forward to our continued success with collaborative and integrated offerings to our customers.
+At COP26, PA displayed its deep ESG expertise and successfully unveiled its innovative EV battery charging technology, ChargePoint.
+Further, PA gained -- PA received industry recognition for their jointly developed COVID-19 awareness and situational intelligence tool with Unilever.
+The business exceeded current expectation -- current expansion targets for the year and is well positioned for continued out-year growth.
+Turning to Slide 10 for a financial overview of fourth quarter results followed by our fiscal year review.
+As we have previously communicated, our fiscal fourth quarter 2020 had 14 weeks compared to our normal 13-week quarters, which impacted our quarter year-over-year growth rate by 7% and our full year growth rate by 2%.
+Fourth quarter gross revenue increased 2% year-over-year and net revenue was up 7%.
+Including the pro forma impact from all acquisitions and adjusting for the year ago extra week, net revenue was up 6% for the quarter.
+Adjusted gross margin in the quarter as a percentage of net revenue was 27.2%, up 370 basis points year-over-year.
+Consistent with last year, the year-over-year increase in gross margin was driven by a favorable revenue mix in both People & Places, CMS as well as the benefit from PA Consulting, which has a strong accretive gross margin profile of nearly 50%.
+We will continue to focus on increasing gross margins as we bring to market higher value solutions for our clients.
+Adjusted G&A as a percentage of net revenue was up year-over-year to 17%.
+Within G&A, during the quarter, we incurred an approximate $20 million or $0.12 per share charge to a legal settlement cost, which burdened both GAAP and our adjusted results.
+This charge was related to a CH2M legacy matter, surrounding a previously completed product advisory arrangement.
+GAAP operating profit was $252 million and was mainly impacted by $46 million of amortization from acquired intangibles.
+Adjusted operating profit was $303 million, up 17%.
+Our adjusted operating profit to net revenue was 10%, up 85 basis points year-over-year on a reported basis.
+GAAP earnings per share from continuing operations rounded to $0.34 per share and included $0.45 primarily related to the U.K. statutory tax rate changes and other tax-related items, $0.40 related to the final mark-to-market of the Worley stock and related FX impact, $0.23 of net impact related to amortization of acquired intangibles, $0.10 of transaction and other related costs and $0.06 from Focus 2023 and other restructuring costs.
+Excluding these items, fourth quarter adjusted earnings per share was $1.58, including the $0.12 burden from the previously discussed legal matter.
+During the quarter, PA's continued strong performance contributed $0.23 of accretion net of incremental interest.
+Q4 adjusted EBITDA was $310 million and was up 12% year-over-year, representing 10% of net revenue.
+Finally, turning to our bookings.
+During the quarter, our revenue book-to-bill ratio was 1.3 times for Q4, positioning us well for the developing growth momentum we expect over the course of fiscal year '22.
+Now turning to a recap of our full year fiscal year 2021 on Slide 11.
+Gross revenue increased 4% and net revenue was up 7%.
+Including the pro forma impact of all acquisitions and adjusting for the extra week in the year ago period, net revenue was up 3% for the full year.
+We continue to enhance our portfolio to higher value solutions, which is evident as gross margin as a percentage of net revenue was 26% for the year, up 235 basis points year-over-year.
+We expect mid-single-digit reported revenue growth in the first quarter of fiscal 2022 with an acceleration in the second half of our fiscal year driven by U.S. infrastructure spending and the ramp up of new awards in our CMS business.
+GAAP operating profit was $688 million and was mainly impacted by the $261 million of purchase price consideration for the PA Consulting investment and a $150 million of amortization of acquired intangibles.
+Adjusted operating profit was $1.188 billion, up 23% and represented 10% of net revenue.
+Adjusted EBITDA of $1.244 billion was up 18% year-over-year to 10.6% of net revenue and just above the midpoint of our increased fiscal 2021 outlook.
+GAAP earnings per share was $3.12 and was impacted by $1.96 from the PA Consulting purchase price consideration and valuation allocation, $0.77 of amortization of acquired intangibles, $0.57 related to the U.K. statutory rate change and other U.K. related tax items, $0.35 of net charges related to Focus 2023, deal costs and restructuring and all of this being partially offset by a net positive $0.48 from the final sale of Worley and C3.
+Excluding all of these items, adjusted earnings per share was $6.29, also above the midpoint of our previously increased outlook.
+Of the $6.29, PA Consulting contributed $0.48 to that figure.
+Before turning to LOB performance, I would like to highlight that we are currently working on a further optimization of our real estate footprint.
+As a result, while we are still reviewing key components of the plan, we expect the potential non-cash impairment charge ranging from $60 million to $70 million in the first half of fiscal '22.
+Our new footprint will facilitate virtual work options that leverage new technology and more collaborative workspaces in our offices.
+Starting with CMS, Q4 2021 revenue was down 5% year-over-year, but when adjusting for the extra week in Q4 2020 was relatively flat on a pro forma basis.
+Let me remind you of the transitional dynamic impacting CMS revenue growth related to the transitioning off of two lower margin contracts.
+This represented $175 million year-over-year revenue impact during the quarter.
+When excluding the contract roll-off and adjusting for the extra week a year ago, pro forma CMS revenue was up double-digits year-over-year.
+In 2022 Q1, we expect to -- we continue to expect an approximate $210 million year-over-year impact from these two contract roll-offs, and this will phase out in Q2.
+As a result, we expected report -- we expect reported revenue in the first quarter 2022 to be down slightly on a year-over-year basis with underlying growth being much stronger.
+We expect the CMS growth trajectory to improve over the year, resulting in a reported mid-to-high single-digit full year 2022 growth rate.
+Q4 CMS operating profit was $115 million, up 7%.
+Operating profit margin was strong, up 100 basis points year-over-year to 9.1%.
+For the full year, CMS operating profit was $447 million, up 20% with 8.8% operating profit margin.
+The improvement for the quarter and the year in operating margin was driven by our strategy to focus on higher margin opportunities across the business.
+We expect operating profit margin to remain in the mid-8% range through fiscal 2022.
+Moving to People & Places.
+Q4 net revenue was flat year-over-year.
+When factoring in the impact from the extra week, P&PS grew net revenue approximately 8% year-over-year for Q4 and was up 2% for the fiscal year 2021.
+In Q4, total P&PS operating profit was down year-over-year driven by the $20 million legal settlement cost I described earlier.
+Adding back down legal settlement costs, operating profit growth would have been up 8% in Q4.
+For the fiscal year, operating profit was up 5% or 8% excluding the legal settlement.
+In terms of PA's performance, PA contributed $273 million in revenue and $66 million in operating profit for the quarter.
+Q4 revenue grew 41% and 32% year-over-year in sterling.
+Q4 adjusted operating profit margin was 24% in line with our expectations.
+On a full year basis, PA Consulting grew revenue 33%, 24% in sterling with adjusted operating profit margin up 23%.
+Our non-allocated corporate costs were $55 million for the quarter and $190 million for the full year.
+These costs were up year-over-year and in line with our expectation.
+This -- the increase, excuse me, was driven primarily by the expected increases in medical costs and IT investments related to our new ways of working.
+In fiscal 2022, we expect non-allocated corporate costs to be in the range of $200 million to $250 million given continued increases in medical costs and other investments.
+These corporate costs as well as Focus 2023, CMS, P&PS investments will precede our expected acceleration in revenue growth and profit later in 2022.
+In summary, these increased investments ahead of our growth will likely result in our Q1 profitability and earnings per share being relatively flat versus our Q4 results with Q2 then showing improvement and further acceleration occurring in the second half of the year.
+Turning to Slide 13 to discuss our cash flow and balance sheet.
+During the fourth quarter, we generated $176 million in reported free cash flow as DSO again showed strong improvement.
+The quarter's cash flow included $22 million of cash related to restructuring, and other items was $16 million related to a real estate lease termination as we take advantage of virtual working.
+For the year, free cash flow was $633 million, which was mainly impacted by the $261 million of PA purchase price consideration treated as post-closing compensation that we discussed last quarter.
+Regardless, our reported free cash flow represented 133% conversion against our reported net income.
+For the full year 2022, we will again target an adjusted free cash flow conversion of at or above one-times.
+As a result of our strong cash flow, we ended the quarter with cash of $1 billion and a gross debt of $2.9 billion, resulting in $1.9 billion of net debt.
+Our pro forma net debt to adjusted expected 2022 EBITDA is approximately 1.3 times, a clear indication of the strength of our balance sheet.
+During the quarter, we monetized our Worley stock for $370 million and executed a $250 million accelerated share repurchase program.
+We will continue to monitor for any material dislocation in our share price given the strong long-term secular growth opportunities for our company.
+And finally, given our strong balance sheet and free cash flow, we remain committed to our quarterly dividend, which was increased 11% earlier this year to $0.21 per share.
+We are introducing our fiscal 2022 outlook for adjusted EBITDA to be in a range of $1.37 billion to $1.45 billion, which at the midpoint represents double-digit growth.
+Our adjusted earnings per share outlook for fiscal 2022 is in the range of $6.85 to $7.45.
+We expect a multi-year benefit from the U.S. Infrastructure Investment and Jobs Act to support our growth in the second half of fiscal 2022.
+As we look beyond this year, we see substantial opportunities for sustained organic growth driven by infrastructure monetization, climate response and digital transformation.
+We anticipate approximately $10 of adjusted earnings per share through fiscal 2025.
+At our in-person investor event in March, we'll further expand on our long-term strategy and financial model.

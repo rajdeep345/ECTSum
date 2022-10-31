@@ -1,0 +1,100 @@
+On the call, we have Raghu Raghuram, Chief Executive Officer; and Zane Rowe, Executive Vice President and Chief Financial Officer.
+Actual results may differ materially as a result of various risk factors described in the 10-Ks, 10-Qs and 8-Ks VMware files with the SEC.
+In addition, during today's call, we will discuss certain non-GAAP financial measures.
+These non-GAAP financial measures, which are used as measures of VMware's performance, should be considered in addition to, not as a substitute for or in isolation from GAAP measures.
+Our non-GAAP measures exclude the effect on our GAAP results of stock-based compensation, employer payroll tax and employee stock transactions, amortization of acquired intangible assets, realignment charges, acquisition, disposition, certain litigation matters and other items, as well as discrete items impacting our GAAP tax rate.
+Our fourth quarter fiscal 2022 quiet period begins at the close of business, Thursday, January 13, 2022.
+I am pleased with the continued strong performance in Q3 fiscal year 2022 with revenue of $3.2 billion and non-GAAP earnings of $1.72 per diluted share.
+Earlier this month, we successfully completed our spin-off from Dell Technologies.
+As a stand-alone Company, we have more strategic and financial flexibility to deliver on our multi-cloud strategy.
+We are also able to partner even more deeply with all the cloud and on-premise infrastructure companies to create a better foundation that drives results for our customers.
+Customers continue to choose VMware as their trusted digital foundation to accelerate their innovation, and we continue to expand and advance our portfolio to meet their needs in these three ways: one, deliver a cloud-native app platform for building modern applications in a public cloud-first world; two, migrate enterprise applications to a cloud-agnostic infrastructure; and three, build out the secure edge to optimize across our workspace and edge-native applications.
+These three focus areas are built on a horizontal set of offerings across networking, security and management.
+It's clear that multi-cloud will be the model for digital business for the next 20 years and in this vibrant dynamic marketplace, the pace of innovation is relentless.
+VMware is at the center of it.
+In the modern app space, we recently provided the Department of Education for one of America's largest cities with application resiliency as part of their business continuity project.
+Leveraging VMware Tanzu, the customer now has improved ability to respond to ever-changing needs of students, their families and faculty while protecting student information and creating an environment to accelerate their innovation and automation.
+One of our new beta offerings in the space is the Tanzu Application Platform, which will make it easier and simpler for developers to drive productivity and velocity in a more secure fashion on any cloud.
+Our Tanzu portfolio is now one of the most comprehensive in the industry for both Kubernetes operations and developer experience.
+We also recently unveiled Tanzu Community Edition, a freely available, easy-to-manage Kubernetes platform for learners and users, and Tanzu Mission Control Starter, a multi-cloud, multi-cluster Kubernetes management solution available as a SaaS service.
+We are pleased to share some customer stories in support of our VMware Cloud services across the hyperscalers.
+PennyMac, a leading financial services firm is leveraging VMware Horizon on VMware Cloud on AWS to provide loan officers and call center agents a more secure work-from-anywhere virtual desktop in a fully automated and scalable cloud environment.
+We also worked with the University of Miami, who looked to the Azure VMware solution to support their VMware workloads on their preferred public cloud provider.
+Recently, we announced new advancements for VMware Cloud, the industry's first and only cloud-agnostic computing infrastructure.
+Newly unveiled Project Arctic will bring the power of cloud to customers running VMware vSphere on-premises.
+It will enable cloud-based management for hundreds of thousands of vSphere customers and vSphere deployments around the world.
+Customers will be able to benefit from life cycle management, cloud disaster recovery and cloud burst capabilities as an extension of their vSphere deployments.
+We will bring Project Arctic to market next year as the next step in making our portfolio available in a subscription and SaaS form factor.
+We also announced VMware Sovereign Cloud initiative, where we are partnering across our VMware Cloud providers to deliver cloud services on a sovereign digital infrastructure to customers in regulated industries.
+Lastly, we introduced a tech preview of an exciting new management technology, Project Ensemble.
+It is designed to manage apps across multiple public clouds, bringing together a comprehensive set of costs, security, automation and performance capabilities for the public cloud environment.
+VMware was once again ranked number one in the September 2021 IDC report titled Worldwide Cloud System and Service Management Software Market Shares, 2020: Growth Continues for the Top Vendors.
+In the area of Edge, we recently helped an international wholesaler with 800 stores across 30 countries to refresh its decade-old in-store platform.
+The VMware Edge Compute Stack is now serving as a single platform for both the customers existing and modern applications, offering a right-sized resilient solution that is providing ROI for their business.
+As a continued commitment to helping our customers at the Edge, we recently introduced VMware Edge, a product portfolio that will enable organizations to run, manage and better secure edge-native applications across multiple clouds anywhere.
+Together, VMware Cloud, Tanzu, VMware Edge and Anywhere Workspace offer our customers a solution for all of their applications across their multi-cloud environment.
+In the security space, VMware is delivering solutions built specifically for threats customers face today.
+We use the power of software, combined with a scaled-out distributed architecture, zero trust design principles and a cloud delivery model for better security that's easier to use.
+We are excited about our continuing innovation in SASE, Secure Access Services Edge, especially as many businesses are now working as a distributed workforce.
+We also announced the industry's first elastic application security edge, which enables the networking and security infrastructure at the data center or cloud edge to flex and adjust as app traffic changes.
+In the third quarter, VMware was positioned as a leader in The Forrester New Wave: Zero Trust Network Access Q3 2021.
+On the telco front, Vodafone recently selected VMware to deliver a single platform to automate and orchestrate all workloads running on its core networks across Europe, starting with 5G stand-alone.
+This recent work builds on Vodafone's previous selection of VMware Telco Cloud Infrastructure as its network functions virtualization platform.
+In the third quarter, VMware received additional recognition from leading industry analyst firms, once again being named as a leader in the August 2021 Gartner Magic Quadrant for Unified Endpoint Management Tools.
+Additionally, VMware was once again named a leader in the September 2021 Gartner Magic Quadrant for WAN Edge Infrastructure.
+Our innovation engine is thriving as we bought many of these new offerings, features, beta programs and partnerships to the forefront during VMworld 2021, which attracted approximately 116,000 registrants.
+We look forward to hosting VMworld China and VMworld Japan in the coming weeks.
+Our environmental, social and governance agenda continues to be very important to us and core to our culture.
+VMware received recognition for our ESG leadership by being included in the Dow Jones Sustainability Indices, one of the world's leading ESG benchmarks for the second consecutive year.
+In summary, we strive to serve our customers in three unique ways: by being the trusted foundation for their most critical business operations; by offering a best-of-breed, innovative portfolio of best-in-class solutions to fulfill their multi-cloud vision; and by having a broad set of strategic partnerships required to unlock the full potential of multi-cloud.
+We are pleased with our Q3 financial performance, which exceeded our initial expectations and is a continuation of the good performance we've seen all year.
+We saw solid demand in the quarter and continued to execute on our multi-cloud strategy.
+Total revenue for Q3 was $3.2 billion.
+Combined subscription and SaaS and license revenue grew 16% year-over-year totaling $1.5 billion, ahead of our guidance.
+Subscription and SaaS revenue of $820 million was up 21% year-over-year, in line with our expectations, representing 26% of total revenue for the quarter.
+Subscription and SaaS ARR was $3.3 billion, up 25% year-over-year in Q3.
+Our largest contributors to subscription and SaaS were VCPP, Tanzu, EUC, Carbon Black and VMware Cloud on AWS, which saw strong double-digit year-over-year growth in revenue and ARR.
+License revenue in Q3 grew 11% year-over-year to $710 million.
+The strength we saw was due to good execution in the quarter and our broad installed base of customers that see us as the trusted ally for their mission-critical workloads.
+Our strategy is resonating with our customers who are confident that their investments can be leveraged over the longer-term in multi-cloud environments.
+Our non-GAAP operating income for the quarter of $935 million was driven by our revenue performance and lower-than-expected growth in expenses.
+Non-GAAP operating margin for the quarter was 29.3% with non-GAAP earnings per share of $1.72 on a share count of 422 million diluted shares.
+We ended the quarter with $10.2 billion in unearned revenue and $12.5 billion in cash, cash equivalents and short-term investments, which includes proceeds from our $6 billion bond issuance.
+The bond issuance proceeds together with $4 billion of additional borrowings from term loan commitments, as well as other available cash on hand was used to fund a special dividend of $11.5 billion.
+The special dividend was paid on November 1 to all stockholders of record on October 29 in conjunction with our spin-off from Dell Technologies.
+Q3 cash flow from operations was $1,090 million and free cash flow was $984 million.
+RPO was $11.1 billion, up 9% year-over-year, and current RPO was $6.2 billion, up 11% year-over-year.
+Total backlog was $124 million, substantially all of which consisted of orders received on the last three days of the quarter that were not shipped and orders held due to our export control process.
+License backlog at quarter end was $34 million.
+We are pleased with the overall bookings performance in Q3 as we continue to scale our subscription and SaaS offerings.
+We saw strong year-over-year product bookings growth in major product categories.
+Core SDDC product bookings increased over 20% year-over-year.
+Compute was up low-double digits, and Cloud Management was up strong double digits year-over-year.
+Both of these were helped by our multi-cloud subscription and SaaS offerings.
+We saw momentum in VMware Cloud, which includes hyperscalers such as Amazon, Microsoft, Google and Oracle.
+We also continue to drive innovation in new product offerings across our Carbon Black Cloud and Tanzu platforms.
+NSX increased in the low double digits versus Q3 last year, and vSAN grew in the high-teens year-over-year.
+EUC product bookings, as well as sub and SaaS ACV bookings were up in the strong double digits year-over-year.
+In Q3, we repurchased approximately 1 million shares in the open market at an average price of $150 per share.
+In early October, our Board of Directors authorized up to $2 billion of stock repurchases through FY'24, which replaced the relatively small balance remaining on our prior authorization.
+As a part of our capital allocation framework, we plan to use our cash generation and balance sheet to invest in growing our business both organically and inorganically, paying down debt and returning excess capital to shareholders through share repurchases.
+In addition, we are committed to maintaining an investment-grade credit profile and rating.
+Turning to guidance for fiscal 2022.
+We're increasing our expectation for total revenue to $12,830 million, a growth rate of approximately 9% year-over-year.
+We expect the combination of subscription and SaaS and license revenue to total $6,305 million, an increase of approximately 12% year-over-year.
+Approximately 50.5% of this amount is expected to be subscription and SaaS.
+We are increasing guidance for non-GAAP operating margin for the full-year to 30% and non-GAAP earnings per share to $7.19 on a diluted share count of 422 million shares.
+We're also increasing our cash flow from operations guidance to $4.1 billion and increasing free cash flow expectations to $3.7 billion.
+This reflects our performance in Q3 combined with our outlook for FY'22.
+For Q4, we expect total revenue of $3,510 million or a growth rate of approximately 7% year-over-year.
+We expect $1,875 million from subscription and SaaS and license revenue in Q4 or an increase of nearly 9% year-over-year with approximately $860 million from subscription and SaaS, reflecting the current pace of adoption of our subscription and SaaS offerings.
+We expect non-GAAP operating margin to be 30.4% for Q4 with non-GAAP earnings per share of $1.96 on a diluted share count of 422 million shares.
+We typically provide some color on our upcoming fiscal year at this time.
+We are driving innovation across the portfolio, scaling our subscription and SaaS offerings and progressively making our products available as subscription and SaaS.
+Consistent with the outlook framework we presented at the Financial Analyst Meeting last month, we currently expect total FY'23 revenue to grow in the high-single digits while we continue to build out our subscription and SaaS portfolio.
+We are planning on growing our sub and SaaS revenue to nearly 30% of total revenue with our FY'23 exiting ARR growth rate exceeding FY'22's.
+We expect non-GAAP operating margin of approximately 28%, which is similar to our initial outlook for FY'22, reflecting continued investments in subscription and SaaS and the resumption of more normalized level of T&E as we support our customers.
+In closing, we are pleased with the progress we are making on our multi-cloud strategy as reflected in our performance this quarter and in our outlook for FY'22 and FY'23.
+As a stand-alone Company, we are well positioned to enable our customers' multi-cloud journey and become the multi-cloud leader.
+Before we begin the Q&A, I'll ask you to limit yourselves to one question consisting of one part so we can get to as many people as possible.
+Operator, let's get started.

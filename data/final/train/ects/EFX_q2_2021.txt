@@ -1,0 +1,320 @@
+I am Dorian Hare.
+Today's call is being recorded.
+An archive of the recording will be available later today on the IR Calendar Section of the News & Events tab at our IR website www.
+These materials are labeled Q2 2021 earnings conference call.
+Certain risk factors that may impact our business are set forth in our filings with the SEC including our 2020 Form 10-K and subsequent filings.
+Also, we will be referring to certain non-GAAP financial measures, including adjusted earnings per share attributable to Equifax and adjusted EBITDA, which will be adjusted for certain items that affect the comparability of our underlying operational performance.
+Before I address Equifax's strong second quarter results, I want to recognize our 11,000 associates around the globe for their continued hard work and dedication in these challenging times.
+Our team members are our most important asset and they play a vital role in helping millions of consumers around the world to get access to credit.
+On July one, we opened all of our U.S. offices fully, and rolled out our new Equifax Flex program, a hybrid working environment that gives our team the opportunity to work-from-home one day per week.
+Our full one program recognizes our learnings from the past year around remote work during COVID, but maintains the core of our Equifax culture of collaboration and teamwork that is optimized by an in-person work environment.
+We've also resumed in-person meetings with our customers, and I've been energized with the conversations that have taken place so far.
+It's great to be moving back to a new normal.
+We had a very strong second quarter and first half, which built off our strong outperformance in 2020.
+Our team has executed extremely well against the critical priorities of our new Equifax 2023 strategy, which has shown on Slide 4.
+We are accelerating new product introductions, beginning to leverage our expanding Equifax Cloud capabilities and our highly differentiated data assets.
+We continue to expand our differentiated data assets, both organically and through acquisitions and partnerships.
+While still in the early days, our new Equifax Cloud Data and Technology capabilities are providing competitive advantages and capabilities that only Equifax can provide.
+And our Customer First initiatives are deepening our relationships with customers and delivering new products and solutions along with above-market Equifax growth.
+And as always, we remain focused on extending our leadership in security.
+Our EFX2023 growth strategy is our compass for the future and drives all of our growth initiatives as we move through the second half and into '22 and beyond.
+We expect this focus to drive our top-line and bottom-line in the future.
+Turning now to Slide 5.
+Equifax's financial performance in the second quarter was very strong and outperformed our underlying markets.
+Revenue at $1.235 billion was the highest quarterly revenue in our history, breaking the record from last quarter.
+Local currency revenue growth of 23% and organic local currency growth of 20% were both very strong in some of the highest growth rates in our history.
+Our U.S. B2B businesses, our Workforce Solutions and USIS, which together represent over 70% of our revenue, again drove our overall growth delivering very strong 25% total and 22% organic revenue growth despite the headwinds from the mortgage market that declined about 5%.
+The 5% decline in the mortgage market was about 500 basis points more than our flat expectation we shared with you in April.
+U.S. B2B organic non-mortgage growth of 20% accelerated sequentially from the 16% we delivered in the first quarter.
+The 20% organic growth is also a record and reflects the underlying strength of Workforce Solutions and USIS has returned to a competitive position.
+I'll cover the business performance rather performance in detail in a moment.
+But at a high level, Workforce Solutions again led Equifax growth with revenue up a strong 40%.
+And as a reminder, this is off growth of 53% in second quarter last year and the mortgage market that declined 5% in the quarter.
+USIS delivered another strong quarter with revenue up 11%, driven by non-mortgage total revenue growth of over 20% and strong organic revenue growth of 14%.
+International delivered a very strong quarter of COVID recovery with revenue growth of 25% in local currency and importantly all regions internationally delivered growth about 20%.
+Slightly better than expected GCS revenue was down 3% in local currency.
+However, our consumer-direct revenue delivered 11% growth in the quarter, its second consecutive quarter in double-digits.
+Second quarter Equifax adjusted EBITDA totaled $431 million, up 20% with margins of 34.9%.
+Margins were down a 160 basis points versus last year due to the inclusion of the cloud technology transformation costs in our adjusted results in 2021, which were excluded last year.
+This negatively impacted second quarter adjusted EBITDA margins by 310 basis points.
+Adjusting for cloud transformation costs of $38 million in the quarter, our margins would have been up a strong 150 basis points.
+We are getting strong leverage out of our above market revenue growth.
+Adjusted earnings per share of $1.98 per share was up a strong 21% from last year.
+Again, adjusting for the cloud transformation costs, adjusted earnings per share would have been up a very strong 36%, reflecting the strong performance in operating leverage of Equifax.
+During the quarter, we continue to make significant progress with the Equifax Cloud Data and Technology transformation, including an additional 7,700 customer migrations to the Cloud in the United States and more than 900 migrations internationally.
+We remain on track with our Cloud transformation and are confident in our plan.
+We continue to expect the North American transformation to be principally complete in early 2022 with the remaining customer migrations completed by the end of next year.
+International transformation will follow North America being principally completed by the end of 2023.
+And as you know, last year, we started to ramp-up our focus and resources on new products, leveraging the new Equifax Cloud Data and Capabilities.
+In the second quarter, we released 46 new products, which is up almost 2x from the 24 products we released a year ago in the quarter.
+These new products are increasingly leveraging the new Equifax Cloud to deliver better data and decisioning for our customers.
+Driving NPIs leveraging the new Equifax Cloud is central to our EFX2023 growth strategy.
+And we continue to expect our vitality index defined as revenue from new products introduced in the last three years to exceed 8%, a big step-up from the 5% last year and a reflection of the strong product focus across EFX.
+Our first half performance exceeded our expectations and we are clearly seeing continued strong momentum as we move into the second half.
+Based on our strong first half results and confidence in the future, we increased our full year revenue guidance by a $155 million to a midpoint of $4.78 billion, which is up 400 basis points to 16% growth.
+We also increased our full year adjusted earnings per share guidance by $0.45 per share to a midpoint of $7.35 per share which adjusting for the technology transformation costs is up 700 basis points to 19% growth.
+This includes our expectation that the U.S. mortgage market as measured by credit inquiries will decline approximately 8% in the year, which is consistent with the guidance we provided in April.
+In the second quarter, Equifax core revenue growth, the green section of the bars on Slide 6 accelerated to 29%.
+This is up significantly from the 20% core revenue contribution we delivered in the first quarter and 11% in the fourth quarter and well above our historical core growth rates.
+While our outperformance in the mortgage market continues to drive significant core growth, the contribution from U.S. non-mortgage in International increased significantly in the quarter, reflecting approximately 50% of core revenue growth in the quarter, excluding acquisitions and FX favorability.
+Turning now to Slide 7.
+Our strong second quarter results were broad-based and reflect better than expected performance for all four Equifax business units.
+Workforce Solutions, our largest business had another exceptional quarter, delivering 40% revenue growth and 58% adjusted EBITDA margins.
+Again as a reminder, the 40% revenue growth is on top of 53% growth last year in the second quarter.
+EWS is cementing itself is our largest and most valuable business and is powering our results, representing 40% of total Equifax revenue in the quarter.
+EWS Verification Services revenue of $395 million was up a strong 57%.
+Verification Services mortgage revenue grew 52% in the quarter, despite the 5% decline in the mortgage market from increased records, penetration and new products.
+Importantly, Verification Services non-mortgage revenue was up over 60% in the quarter and up over 15% sequentially from the first quarter.
+Our government vertical, which provide solutions to federal and state governments in support of assistance programs including food and rental support grew over 10% in the quarter.
+Government remains one of our largest non-mortgage segments, representing about a third of non-mortgage verification revenue.
+We continue to expand our products and solutions in the government vertical and expect our new Social Security Administration contract to go live this quarter with revenue ramping to a $40 million to $50 million run-rate in 2022.
+Talent Solutions, which arise income and employment verifications as well as other information for the hiring and on-boarding process through our EWS Data Hub had another outstanding quarter from customer expansion and NPIs, growing over 200%.
+Talent Solutions now represents almost 30% of non-mortgage verification revenue.
+Building out the EWS Data Hub that leverages the work history in our TWN database with other unique data elements used in the hiring process is a priority for us.
+Over 75 million people changed jobs in the U.S. annually, with the vast majority having some level of screening as a part of that hiring process.
+Our non-mortgage consumer business, principally in Banking and Auto showed strong growth of about 50% in the quarter as well, though from deepening penetration with lenders and some recovery in these markets.
+Debt management also returned to growth in the quarter.
+Employer Services revenue of a $101 million was about flat in the quarter as expected.
+Combined, our unemployment claims and employee retention credit businesses had revenue of about $64 million, down over 15% from last year.
+Substantial declines in UC revenue in the second quarter were partially offset by new ERC revenue that began in the quarter as we support businesses and obtaining federal employee retention credit payments.
+Employer Services non-UC and ERC businesses had revenue up over 50% in the quarter.
+Our I-9 business driven by our new I-9 Anywhere product, continue to show very strong growth, up over 50%.
+Our I-9 business is now almost half of Employer Services non-UC and ERC revenue.
+Reflecting on the growth in I-9 and the return to growth of workforce analytics, we expect Employer Services non-UC and ERC businesses to deliver organic growth of over 20% for the year.
+Reflecting the power and uniqueness of between dataset, strong verified revenue growth and operating leverage resulted in adjusted EWS EBITDA margins of 58%, a 160 basis point expansion from last year.
+Excluding Technology Transformation expenses, EWS margins would have been up over 240 basis points.
+Rudy Ploder and EWS team delivered another outstanding quarter and are position to deliver a very strong 2021.
+Workforce Solutions is our most powerful and unique business and is powering Equifax results would grow substantially above the rest of the company.
+Turning now to USIS.
+They had another strong quarter with revenue up 11%, driven by strong performance across the business.
+Total USIS mortgage revenue of a $160 million was down about 2% in the quarter, while mortgage inquiries were down 5%, a little bit flat expectation we shared in April.
+John will cover our updated view of the mortgage market shortly.
+USIS mortgage revenue outgrew the market by over 300 basis points, driven by growth in marketing and debt monitoring products.
+Importantly, non-mortgage revenue performance was up 21% with strong organic growth of 14%.
+This performance reflects the commercial focus of Sid Singh and his team and their competitive position in the marketplace.
+Importantly, organic non-mortgage revenue also delivered strong sequential growth, acceleration of 250 basis points from the first quarter's 11%, an important indicator of the continued strengthening of the USIS business.
+Banking and Insurance both grew over 20% in the quarter.
+Auto and Direct-to-Consumer were both up over 10% and Telecom and Commercial were just about flat in the quarter.
+Financial Marketing Services revenue, which is broadly speaking, our offline or batch business was $59 million in the quarter and up about 14%.
+The strong performance was driven by marketing related revenue, which was up over 20% and ID and fraud revenue growth of over 15% as consumer marketing and originations ramped up coming out of COVID.
+In 2021, marketing related revenue is expected to represent about 40% of FMS revenue, identity and fraud about 20% and risk decisioning about 35%.
+This strong growth across our non-mortgage business is encouraging as we move into the third quarter and the rest of 2021.
+The USIS new deal pipeline remains very strong and comparable to the strong levels we've seen so far in 2021.
+We have seen the highest growth in auto, financial services and mortgage.
+USIS adjusted EBITDA margins were 40.3% in the quarter, the decline of 380 basis points from second quarter last year was principally due to the costs related with Cloud transformation.
+Both the cost of redundant systems and the inclusion in our adjusted results of the technology transformation costs, which were being excluded in 2020.
+Sales and marketing expenses also increased in the quarter and sequentially to leverage both the stronger U.S. markets and increased NPI rollouts to drive growth.
+Shifting now to International.
+Their revenue was up a strong 25% on a local currency basis, which is a third consecutive quarter of growth in our global markets.
+Revenue growth was up over 20% in all of our markets in Canada, Asia Pacific, Latin America and Europe.
+Asia-Pacific, which is principally our Australia business had a very strong quarter with revenue up $91 million or up about 21% in local currency.
+Australia consumer revenue turned positive and was up 23% versus last year and up about 2% sequentially.
+Our Commercial business combined online and offline, revenue was up a very strong 26% in the quarter and almost 18%, up almost 18% sequentially.
+Fraud and identity was up 30% in the quarter, following 15% growth in the first quarter.
+European revenues of $68 million were up 27% in local currency in the quarter.
+Our European credit reporting business was up about 20% with strong growth in both the UK and Spain.
+In UK, which is our largest European market, we saw growth of over 25% in consumer, data analytics and scores and over 40% growth in commercial.
+Our European debt management business revenue increased about 30% in local currency off the lows we saw in the second quarter last year during the COVID recession.
+Canada delivered record setting revenue of $47 million in the quarter, up about 26% in local currency.
+Consumer online was up about 26% in the quarter, an improvement of 12 percentage points from the first quarter.
+Double-digit growth in commercial, analytical and decision solutions and ID and fraud also drove growth in the Canadian revenue in the quarter.
+Latin American revenues of $44 million, grew 30% in the quarter in local currency, which was the second consecutive quarter of growth coming out of COVID.
+We continue to see the benefits in Latin America of the strong new product introductions, the team has rolled out over the past three years.
+International adjusted EBITDA margins of 27.3% were up 540 basis points from last year, driven by leverage on revenue growth and continued very good cost control by the international team.
+Excluding the impact of the inclusion of the technology transformation costs in adjusted EBITDA, margins were up over 750 basis points.
+Global Consumer Solutions revenue was down 2% on a reported basis and 3% on a local currency basis in the quarter and slightly above our expectations.
+We again saw strong double-digit growth in our global consumer direct business, which sells direct-to-consumers through equifax.com and which represents a little over half of GCS revenue.
+Direct-to-Consumer revenue was up a strong 11% in the quarter, their fourth consecutive quarter of growth.
+The decline in overall GCS revenue in the second quarter was again driven by our U.S. lead generation partner business.
+We expect the GCS partner business and GCS business overall to return to growth in the fourth quarter.
+GCS adjusted EBITDA margins of 22.5% were up just about a 170 basis points, which was better than our expectations.
+Turning now to Slide 8.
+Workforce Solutions continues to power Equifax and is clearly our strongest fastest growing and most valuable business.
+Workforce Solutions revenue grew a very strong 40% in the quarter, with core revenue growth of 46%.
+And again the 40% growth in the quarter was on top of 53% growth in the second quarter last year.
+This above market performance is driven by the uniqueness of the TWN income and employment data, the scale of the TWN database and the consistent execution by Rudy and his team.
+At the end of the second quarter, TWN reached a 119 million active records, an increase of 13% or 14 million records from a year ago and included 91 million unique records.
+At 91 million unique, we now have over 60% of non-farm payrolls, which makes our TWN dataset we're valuable to our customers by delivering higher hit rates.
+Beyond focusing on adding the over 50 million non-farm payroll records not in the TWN database yet, we're also focused on adding data records from the 40 million to 50 million gig workers and around 30 million pension recipients in the United States marketplace to further broaden the TWN database.
+We have plenty of room to grow.
+We are now receiving contributions from 1.2 million companies across the U.S., up from 27,000 employers a short two plus years ago.
+And as a reminder, over 60% of our records are contributed directly by employers that EWS provides comprehensive employer services to like unemployment claims, W-2 management, I-9, WOTC, Employee Retention Credit, HSA and other HR in compliance-related solutions.
+These relationships have been built up over the past decade by the Workforce Solutions team.
+The remaining 35% are contributed through partnerships with payroll providers in HR software companies, most of which are exclusive.
+The exclusive arrangement with a major payroll processor that we announced on our February call is still on track to become active later this year.
+We have a dedicated team with an active pipeline of record additions to continue to expand our TWN database in the future.
+And as you know, as we add records to the dataset, they're monetized almost instantly with our customer system-to-system integrations interacting with our TWN database.
+Workforce Solutions continues to grow, penetration in key existing markets while expanding into new markets.
+We continue to increase our penetration in the mortgage market.
+As of the most recent data available at the end of 2020, Workforce Solutions received an inquiry in almost 60% of completed U.S. mortgages, which is up from 55% in 2019.
+This 500 basis point increase shows a continuation of growth in TWN mortgage penetration as well as the substantial opportunity for continued growth at existed mortgage with only 60% of mortgages using TWN data today.
+We're also seeing substantial growth in TWN in the non-credit markets of government and Talent Solutions as well as increased TWN usage within the card and auto verticals.
+As we discussed in the past, growing system-to-system integrations is a key lever in driving both increased penetration and the increased number of polls per transaction for Workforce Solutions.
+During the quarter, about 75% of TWN mortgage transactions were fulfilled system-to-system, which was up 2x from the 32% in 2019.
+The Workforce Solutions new product pipeline is also rapidly expanding, as our teams leveraged the power of our new Equifax Cloud infrastructure.
+We plan to roll-out new products in mortgage Talent Solutions government and I-9 in the second half of the year.
+New product revenue will increase in '21 and '22 as we begin to reap the benefits of our new products introduced in the market by Workforce Solutions in the past 18 months.
+Rudy in the Workforce Solutions team had multiple levers for growth in '21, '22 and beyond.
+Workforce is clearly our largest and most valuable business and will continue to power our results in the future.
+Workforce Solutions growth rates and margins are highly accretive to Equifax now and in the future.
+Slide 9 provides perspective on the tremendous growth Workforce has delivered since 2017 and the increasing impact of the business has on Equifax with its highly accretive revenue growth rates and margins.
+In 2017, Workforce Solutions revenue and EBITDA made up 23% of Equifax revenue and 27% of business unit EBITDA.
+For the first half of '21, Workforce Solutions revenue and EBITDA have increased to 40% of Equifax revenue and over half of Equifax business unit EBITDA.
+In a short four years, Workforce Solutions has more than doubled in size and is now almost 50% in the first half versus the same period last year.
+It is up almost 50% in the first half versus same period last year.
+Our unique TWN employment in income assets and the continued expansion of employment-related assets within the Equifax Data Hub provides opportunities for both ongoing outsized growth in Equifax's traditional financial markets of mortgage, banking, auto as well as a substantial growth in new verticals in government talent solution others to come.
+We expect that Workforce Solutions will continue to be an increasingly large part of Equifax and power our top and bottom-line with the above-market growth in margins.
+Turning to Slide 10.
+This provides a perspective on the return to growth USIS delivered since 2018.
+USIS has delivered strong double-digit revenue growth over the past six quarters.
+The strong mortgage market has advantage USIS as shown in the bottom left of the slide, USIS has driven consistent sequential improvement in non-mortgage growth in second quarter last year, with the overall growth in USIS being driven by 18% non-mortgage growth in the first half of 2021.
+USIS team is also increasingly leveraging the Equifax Cloud to design and implement new NPIs for customers.
+The Equifax Cloud new products in our unique data assets are making USIS teams more competitive in the marketplace.
+And the USIS team is focused on integrating count in the new Equifax Cloud, we're seeing increased used cases in opportunities with our ID and fraud vertical from the count acquisition.
+We expect ID and fraud to play a large role in USIS growth in 2021 and beyond.
+Turning to Slide 11.
+This highlights the core growth performance in our mortgage for our U.S. B2B businesses, Workforce Solutions and USIS.
+Our U.S. B2B businesses delivered a combined 25% revenue growth in mortgage in the second quarter, which was 30 point stronger than the 5% mortgage decline we saw in overall mortgage market.
+The strong outperformance was again primarily driven by Workforce Solutions with core mortgage growth of 57%.
+Consistent with past quarters, EWS's outperformance was driven by new records, increased market penetration, larger fulfillment rates and new products.
+Proof that lenders are increasingly becoming reliant on the unique TWN income and employment data on making credit decisions in the mortgage space.
+USIS delivered 4% core mortgage revenue growth in the second quarter, driven primarily by new debt monitoring solutions and further support from marketing.
+Our ability to substantially outgrow underlying markets is core to our business model and core to our future growth.
+As Mark discussed, our Q2 results were very much stronger than we discussed with you in April, with revenue about $85 million higher than the midpoint of the expectations we shared.
+For perspective, all we used performed well relative to the expectations we shared.
+Performance in non-mortgage in our U.S. businesses Workforce and USIS was very strong in absolute terms, and relative to the expectations we shared.
+Our unemployment claims and employee retention credit businesses in Workforce Solutions declined in the quarter, but much less than expected.
+International revenue performance was also very strong, again both in absolute terms, and relative to our expectations.
+And although the mortgage market was down 5% versus our expectation of flat, our mortgage revenue principally in Workforce was not impacted to the same degree.
+This strong revenue drove the upside in adjusted earnings per share relative to the expectations we shared.
+Now, turning to mortgage.
+As shown on Slide 12, U.S. mortgage market credit increase declined 5% in 2Q'21, weaker than the about flat we had included in our guidance.
+Our financial guidance for 2021 assumes that the trend in mortgage credit increase we saw in late June and July continues in 3Q'21 resulting in a decline of mortgage market credit increase of about 23% in 3Q'21 versus 3Q'20.
+Although our second half '21 market credit inquiry assumptions are down significantly from the second half of '20, they remained above the average as we saw prior to 2020.
+As shown in the left side of Slide 13, mortgage market indicators remain above the peak seen in previous mortgage cycles.
+Despite the substantial refinance activity that has occurred over the past year, the number of U.S. mortgages that could benefit from a refinancing remains at a relatively strong level of about $12 million.
+Refinance activity continues to benefit from low and recently declining mortgage rates and a substantial appreciation in home prices over the past year.
+Based upon our most recent data from January, mortgage refinancings continue to run just under 1 million per month.
+As shown on the right side of Slide 13, the pace of existing home purchases continues at historically very high levels.
+The strong new purchase market is expected to continue throughout 2021 and into 2022.
+Slide 14 provides our guidance for 3Q'21.
+We expect revenue in the range of $1.160 billion to $1.180 billion, reflecting revenue growth of about 9% to 11%, including a 1% benefit from FX.
+Acquisitions are positively impacting revenue by 1.8%.
+We're expecting adjusted earnings per share in 3Q'21 to be $1.62 to $1.72 per share compared to 3Q'20 adjusted earnings per share of $1.91 per share.
+In 3Q'21, technology transformation costs are expected to be around $40 million or $0.25 a share.
+Excluding these costs, which were excluded from 3Q'20 adjusted EPS, 3Q'21 adjusted earnings per share would be $1.87 to $1.97 per share.
+This performance is being delivered in the context of the U.S. mortgage market, which is expected to be down 23% versus 3Q' 20.
+Comparing the midpoint of our 3Q'21 guidance sequentially to our very strong 2Q'21 performance, revenue is down about $65 million.
+The drivers of this decline are two main factors.
+The largest factor is a decline in mortgage revenue driven by the impact of the expectation we shared regarding the decline in the U.S. mortgage market.
+The other significant factor is our expectation that we'll see a significant sequential decline in unemployment claims revenue.
+Our guidance for adjusted earnings per share declines about $0.30 per share sequentially.
+The bulk of this decline is driven by lower gross profit and the revenue expectation I just discussed.
+In addition, we are increasing investment sequentially in sales and marketing, particularly in the U.S. as well as increasing investment in product and technology.
+Slide 15 provides the specifics on our 2021 full-year guidance.
+We are increasing guidance substantially, reflecting our very strong 2Q'21 performance.
+In the second half of 2021, we expect strong growth in our U.S. non-mortgage business and international and a return to growth in GCS.
+We also expect our U.S. mortgage business to grow about 15% in 2021 over 20 points faster than we expected approximately 8% decline in the U.S. mortgage market.
+2021 revenue of between $4.76 billion and $4.8 billion reflects revenue growth of about 15% to 16% versus 2020, including the 1.5% benefit from FX.
+Acquisitions are positively impacting revenue by 1.9%.
+EWS is expected to deliver about 30% revenue growth with continued very strong growth in Verification Services.
+USIS revenue is expected to be up mid to high single-digits, driven by growth in non-mortgage.
+International revenue is expected to deliver constant currency growth of about 10% and GCS revenue is expected to be down mid single-digits in 2021.
+3Q'21 revenue is also expected to be down mid single-digits, with 4Q'21 revenue returning to growth.
+As a reminder, in 2021, Equifax is including all technology transformation costs in adjusted operating income, adjusted EBITDA and adjusted EPS.
+These one-time costs were excluded from adjusted operating income, adjusted EBITDA and adjusted earnings per share in 2017 through 2020.
+In 2021, Equifax expects to incur one-time Cloud technology transformation costs of approximately a $155 million, a reduction of over 55% from the $358 million incurred in 2020.
+The inclusion in 2021 of this about a $155 million and one-time costs would reduce adjusted earnings per share by about $0.97 per share.
+This estimate of one-time technology transformation costs is up $10 million from a $145 million we guided in April.
+Given our very strong performance in 2021, we are investing to accelerate our tech transformation globally.
+2021 adjusted earnings per share of $7.25 to $7.45 per share which includes these tech transformation costs is up 4% to 7% from 2020.
+Excluding the impact of the tech transformation cost of $0.97 per share, adjusted earnings per share in 2021 which show growth of about 18% to 21% versus 2020.
+2021 is also negatively impacted by the redundant system costs of $79 million related to 2020.
+These redundant system costs are expected to negatively impact adjusted earnings per share by about $0.49 per share and negatively impact adjusted earnings per share growth by about 7 percentage points.
+Slide 16 provides a view of Equifax total and core revenue growth that is included in our current guidance.
+Core revenue growth excludes the impact of movements in the mortgage market and Equifax revenue as well as the impact of changes in our UC claims and employee retention credit businesses within our Employer Services business.
+Employee retention credits are specific U.S. government incentives for companies to retain their employees in response to COVID-19 and the associated revenue is not expected to continue into 2022.
+The data shown for 3Q'21 and full year 2021 reflects the midpoint of the guidance ranges we provided.
+In 1Q'21 and 2Q'21, we delivered very strong core revenue growth of 20% and 29% respectively.
+We continue to deliver strong core revenue growth in 3Q'21 of 17% and 19% for all of 2021 in our expectations.
+As Mark mentioned earlier, the composition of our core revenue growth is becoming more balanced, reflecting substantially increasing contributions from U.S. non-mortgage, international and as we enter 4Q'21 GCS.
+And we continue to expect our mortgage business to grow at that rates faster than the overall mortgage market.
+This very strong performance we believe positions us well entering 2022 and beyond.
+And now, I'd like to hand it back to Mark.
+Turning now to Slide 17.
+As I referenced earlier, pricing in our technology teams continue to make very strong progress on our new Equifax Cloud Data and Technology Transformation, with the North American technology transformation expected to be principally complete in early '22 and the remainder of North America transformation and customer migrations completing by the end of next year.
+And our international transformation following North America being principally complete by the end of 2023.
+Equifax's transformation to a Cloud native environment delivers a host of capabilities that only Equifax can provide as the only cloud native data and technology company.
+The Equifax Cloud will deliver always on stability, accelerate response time and built in industry-leading security.
+It will provide our customers with real-time access to data and insights that they can rely on to make decisions.
+The Equifax Cloud through our Ignite analytics platform, where our customers and Equifax data scientists to work together utilizing EFX unique data assets and customer proprietary assets to define attributes and models to improve customer outcomes.
+And we will continue to accelerate the time from analytics to production to bring new products and solutions to market faster and more efficiently enhancing customer benefits and Equifax revenue.
+Already the Equifax Cloud is enabled us to produce new products designed and delivered on our Cloud infrastructure four times faster in the past.
+We began to leverage these cloud benefits in 2020, as we more effectively developed new products and delivered them to market leveraging the new EFX cloud, growing new product introductions by 44% last year, in 2020.
+These new improvements have been further accelerated in 2021 as we are delivering the highest number of new products in our history and we are realizing higher revenue from new product introductions.
+Slide 18 provides an update on NPIs, a key driver of our current and future revenue growth.
+As we just discussed, the new cloud transformation is significantly strengthened our NPI capabilities, allowing us to increase both the number of NPIs and the revenue generated from new products.
+We continue to expand our product resources and focus on transforming Equifax into a product led organization, leveraging our best-in-class Equifax cloud native data and technology to fuel top-line growth.
+As I discussed earlier in the second quarter, we delivered 46 new products, which is up about almost 2x from the 24 we delivered last year.
+Year-to-date, we've rolled out 85 new products, which is up 44% from the 59 that we delivered in the first half last year.
+We're energized as we continue to grow off an NPI record-setting 2020.
+We want to highlight some of these products rolled out during the quarter, which we expect to drive revenue growth over the second half and the next few years.
+Our new payment Insights products launched by USIS in April was delivered in partnership with Urjanet and uses consumer permission utility in telco data to improve use of customers, consumers' financial picture and help credit invisibles.
+The cloud-based solution promotes greater financial inclusion regardless of the consumers' traditional credit score by empowering consumers to show utility in telco payment history with banks or lenders when applying for loans or other services.
+The product also allows lenders to seamlessly integrate data into review processes while meeting industry leading standards for protection of consumer data security, confidentiality and integrity.
+Workforce Solution launched a new mortgage 36 product in May.
+This solution addresses income verification needs by enabling mortgage lenders to pull an extended set of both active and inactive income in employment data for a more complex income mortgage applicants were additional history may be needed in the underwriting process.
+EWS also launched a new talent report employment staffing product in April.
+This solution provides flexibility on the number of past employers pulled to meet the employment verification needs of the employer.
+Staffing agencies leveraged VOE as a reference check was often looking to verify only to employers, which this product helps deliver.
+In the United Kingdom, we launched the credit vitality view app.
+This Ignite-based app visualizes key credit data trends across the UK versus a company's own performance.
+It uses a range of macroeconomic measures and includes filtering capability, so our customers can focus on the performance of their own portfolio and product lines such as mortgages or credit cards.
+The app also can illustrate these company and market trends over multiple years.
+Lastly, we introduced the Equifax Affordability Solutions in Australia New Zealand.
+These solutions deliver automated categorized income and expense verification in a way that delivers meaningful and actionable insights for our customers.
+Our customers can easily digest and act on these insights through the delivery of comprehensive consumer affordability reports, which are now required from a regulatory standpoint in these markets.
+This new solution will reduce loan application processing timing cost, improve conversion rates and maximize efficiency while fulfilling responsible lending regulatory requirements, delivering overall improvements to the consumer experience.
+These are just some examples of the new solutions we launched during the quarter.
+We're focused on leveraging our new cloud capabilities to increase NPI rollouts and new product revenue in 2021 and beyond.
+Growing NPIs is central to our EFX2023 growth strategy.
+And as a reminder, our vitality index is defined as the percentage of revenue delivered by NPIs launched during the past three years.
+In April, we increased our vitality index outlook for 2021 from 7% to 8% and we remain confident in this framework for 2021.
+As you can see from the left of the slide, our 8% vitality outlook for 2021 is a big step forward from the 5% vitality we delivered last year.
+NPIs are a big priority for me and the team as we leverage the Equifax Cloud for innovation new products and growth.
+Slide 19 showcases the capabilities we've been building over the past three years that only Equifax can bring to the marketplace.
+We have unique market-leading differentiated data at scale that includes our 228 million ACRO credit records, 119 million TWN income and employment records and additional data at scale that comes from our alternative datasets, including Kount and CTUE, PayNet, IXI and others.
+Our advanced analytics allow us to build and test attributes faster, leverage artificial intelligence and machine learning, and developing models in days and weeks where used to take months.
+Our team of 320 data scientists located around the world are leveraging our advanced analytics in Equifax Cloud native infrastructure to define and deploy cloud native products and solutions.
+And our cloud native data fabric is allowing us to key EnLink our unique data asset in ways that we could never do before.
+Our data fabric scratches across the globe and we are in the early innings of leveraging its global capabilities.
+Only Equifax can provide these capabilities, and we are on offense as we deploy these into the marketplace.
+Wrapping up on Slide 20.
+Equifax delivered a record-setting second quarter.
+We have strong momentum as we move into the second half.
+Our 26% overall and 29% core revenue growth in the quarter reflects the strength and breadth of our business model and early benefits from our Equifax Cloud investments and of course it's enhanced focus on new products.
+We delivered six consecutive quarters of strong above market double-digit growth.
+Our strong performance reflects the execution against our EFX2023 strategic priorities Equifax's on offense.
+As we discussed earlier, we're confident in our outlook for 2021 and we raised our full year midpoint revenue guidance to $4.78 billion, increasing our 2021 growth rate by over 370 basis points, almost 16%.
+We also raised our midpoint earnings per share guidance to $7.35, increasing the growth rate by over 640 basis points.
+As we discussed earlier, Workforce Solutions had another outstanding quarter, delivering 40% revenue growth and 58% EBITDA margins.
+EWS is our largest fastest growing and most valuable business.
+During the quarter, Workforce Solutions delivered 40% of Equifax revenue and we expect EWS to continue to drive Equifax's operating performance throughout 2021 and beyond, as consumers recognize the value of our growing TWN database.
+Rudy and his team remain focused on driving outsized growth by focusing on their key growth drivers of adding new records, rolling out new products, driving penetration, driving their new Talent Solutions Data Hub, expansion in new verticals and leveraging their new EFX cloud capabilities.
+USIS also delivered another strong quarter of 11% growth, driven by their 14% non-mortgage organic growth.
+We expect USIS non-mortgage growth to continue to be strong due to the economic recovery, the commercial focus of the team, new products and our unique alternative data assets.
+Sydney USIS teams are competitive and winning in the marketplace and will continue to deliver in '21 and beyond.
+International grew for the third consecutive quarter, accelerating to 25% in local currency in the second quarter as economies reopened and business activity resumes.
+Our new international leader Lisa Nelson has high expectations for our team and we expect continued strong growth through the rest of 2021.
+We are beginning to realize the benefits of our EFX Cloud Data and Technology transformation as we accelerate new product innovation with products designed and built off of our new EFX Cloud infrastructure.
+We spent the last three years building the Equifax Cloud and we're now starting to leverage our new cloud capabilities.
+As we move through the rest of the year and into 2022, we'll be increasingly realize the topline, cost and cash benefits from these new cloud capabilities.
+Accelerate new products, leveraging our differentiated data and the new EFX cloud capabilities is central to our EFX2023 growth strategy.
+We're beginning to see the benefits of our new product focus and resources leveraging the EFX cloud with the 85 NPIs completed in the first half, pacing well ahead of the record 134 we delivered last year.
+As we discussed in the past, bolt-on acquisitions that expand our differentiated data assets, strengthening Workforce Solutions and broadening our ID and fraud capabilities are integral to our future growth framework.
+We have reinvested our strong cash flow in five bolt-on acquisitions so far this year, that will add a 170 basis points to our revenue in the second half.
+We will continue to focus on accretive bolt-on acquisitions that strengthen Workforce Solutions.
+I'm more energized now than when I joined Equifax three years ago.
+What the future holds as we move from building the cloud through our next chapter of growth, leveraging the new Equifax cloud for innovation, growth and new products.
+We have strong momentum across our business as we move into the second half and we're beginning to deliver on the benefits of the significant Cloud Data and Technology investments we made over the past three years.
+Equifax's on offense in position to bring new and unique solutions for our customers, then only Equifax can deliver, leveraging our new EFX cloud capabilities.

@@ -1,0 +1,97 @@
+Today, we will discuss our operational and financial results for the three and 12 months period ended December 31, 2020.
+Also I'll discuss the impact of Winter Storm Uri that struck Texas in February, the volatility in Japan's wholesale markets as well as our operational and strategic responses to those of events.
+Avi Goldin, our Chief Financial Officer, will follow with a deeper dive into the quarter's and full year's financial results.
+We capped an outstanding 2020 with solid fourth quarter results.
+Let's start by looking at the most fundamental of our KPIs, our customer base.
+Despite the challenges of the global pandemic, we were able to increase our global customer base by 66,000 RCEs during the year to reach 440,000 RCEs at year-end, a 17% increase and a record for our Company.
+In the fourth quarter, historically our slowest sales quarter, RCEs decreased slightly from 442,000.
+Here in the U.S., GRE's customer acquisition program, specifically face-to-face sales channels, has been constrained since last spring by COVID-19-related restrictions on in-person solicitation.
+On the flip side, churn has also been lower because the COVID-related sales restrictions apply equally to our competitors.
+Nevertheless, we added 28,000 domestic RCEs during the year to end the year with 337,000 RCEs despite a fourth quarter decline from 350,000 RCEs.
+At GRE International, we increased our RCEs served by 58% during 2020 and a 12% during the fourth quarter to reach 103,000 RCEs at year-end.
+Our Scandinavian operation was the largest contributor to RCE growth year-over-year and sequentially.
+Given the challenges of COVID-19, our team did an outstanding job in 2020 to continue building our customer base.
+We are well positioned to build upon that success in 2021.
+Now, I'd address the weather and related challenges in Texas and Japan.
+As you know, Texas was hit by an extremely powerful series of winter storms in mid-February.
+The storms caused an unprecedented surge in electricity demand and at the same time, knocked some sources of supply offline.
+That imbalance led the PUC to manipulate spot market prices, moving them from the usual sub-$50 per megawatt hour to $9,000 per megawatt hour, where they were artificially maintained by ERCOT, a Texas grid manager, for five full days around the clock.
+Just to give you an idea of how completely unprecedented this was, in the previous 10 years, energy prices only hit $9,000 without government interference for a total of 16 hours.
+On top of these absurd prices for supply, Genie and other retail suppliers are being saddled with exorbitant load shedding and ancillary charges.
+For reference, in the week before the storm, ancillary charges amounted to approximately $2 per megawatt hour, while during the storm the prices spiked to over $20,000 per megawatt hour.
+While we were fully hedged for colder-than-normal seasonal weather having bought power well in excess of what our customers demand on a normal winter day, the unprecedented increase in ancillary charges, the artificially sustained period of $9,000 per megawatt hour supply pricing and the extraordinarily high usage led to significant losses.
+Since the storm, our meter data has been updated numerous times and our bills have been reissued and resettled multiple times.
+At this moment, the information we received to date from our supplier BP indicates that our costs as a result of the storm stand at approximately $12.8 million.
+We believe that we are close to receiving the final information about our total losses.
+And when we have a complete accounting, we will provide it to you.
+We are hopeful that new information and resettlements that have already been ordered by the PUC but not yet passed due to our bills will bring relief rather than add to the pain.
+We will know soon enough.
+Let's not forget that what happened in Texas as a result of this natural disaster caused very real suffering to many people throughout the region.
+Our hearts go out to them.
+But much of the suffering could have been prevented.
+The mistakes of ERCOT, the PUC and the generators compounded the storm's damage and I commend Governor Abbott, Lieutenant Governor Patrick, and the many members of the legislature who have come out the call for the PUC to take immediate corrective actions.
+We join them in asking the PUC to remove the financial repercussions for the decisions that culminated in epic market failure away from the REP industry and to be fairly distributed to the relevant market participants.
+However, to date, the PUC had allowed retailers who are protecting customers from the price increases that the PUC itself instituted to take the financial fall.
+The injustice is grave and we intend to fight it using [Indecipherable] necessary to protect our shareholders, and we intend to come out of this stronger than ever.
+Unfortunately, Texas is not the only market where we faced unprecedented wholesale price spikes in the first quarter.
+Energy suppliers in Japan, including at our subsidiary Genie Japan, were squeezed when generators were unable to meet a spike in demand caused by a recent cold snap.
+Prices on the Japan Electric Power Exchange surged to $2,390 per megawatt hour, becoming, for a while, the most expensive market in the world.
+With only four of its 33 nuclear power plants operating, the country is heavily relying on LNG to meet short-term burst in demand.
+But with less than two weeks of LNG supply and reserve, the country was unable to meet its needs after Korea and China snapped up the available supply.
+Once again as a result of the generators' and regulators' mistakes, the retail suppliers are bearing the cost even though many, including Genie, were well hedged going into the season.
+We have better information on the cost in Japan and our RCE base is smaller than in Texas, so we can say with some confidence that the hit in Japan will be approximately $2.5 million.
+As a result of these two events, our operating results and balance sheet position will take a meaningful hit in the first quarter.
+Our management team and Genie's Board have adopted a plan to replenish our cash war chest, prudently grow our core business in the U.S., while maximizing cash generation, take operational steps to lower our risk profile and to reevaluate underperforming assets and reform or shed higher risk longer-term opportunities.
+In light of this, we are pausing the dividend on our common stock to maximize our ability to grow the businesses that are generating rather than consuming cash.
+We are also using this opportunity to progress our other growth businesses such as the demand for renewables, which leverage our existing strengths and strategic assets to align more fully with the prevalent changes under way as energy market shift to renewables and other cleaner supply sources.
+We have already made some material strides in this regard.
+We hope to share good accretive news about this in future quarters.
+While I'm disappointed in the Texas and Japan results, you can be sure that we will do everything in our power to recoup those losses.
+I'm confident that our tightened focus on Genie's best performing assets will yield good results for shareholders.
+My remarks today cover our financial results for the three and 12 months ended December 31, 2020.
+Throughout my remarks, I will compare fourth quarter 2020 results to the fourth quarter of 2019, and full year 2020 results to full year 2019.
+Focusing on the year-over-year and quarterly comparison rather than sequential comparisons removes some consideration of the seasonal factors that are characteristic of our retail energy business.
+During the fourth quarter, we acquired the outstanding interest in Orbit Energy, our REP business in the U.K., and began consolidating its results on October 8.
+Because we have concluded our exploration activities [Indecipherable], we no longer report Genie Oil as a separate segment.
+This costs primarily related to the fourth quarter well test and the shutdown of operations [Indecipherable] are reported within our corporate results.
+Turning now to the fourth quarter and full year results.
+Genie's fourth quarter was comparable to the year ago quarter and capped off a very strong 2020, highlighted by record levels of consolidated revenue and income from operations, which drove significant top and bottom line improvements over 2019.
+Fourth quarter 2020 consolidated revenue increased by $21 million to $103 million, primarily reflecting the consolidation of Orbit Energy in the fourth quarter of this year.
+Quarterly revenue at Genie Retail Energy, or GRE, our domestic REP segment, decreased $4 million to $70 million, primarily on decreased gas sales.
+Both revenue per therm sold and meters served decreased compared to the year ago quarter, the latter because we have focused our efforts on acquiring more profitable electric meters in recent years.
+Electricity sales were relatively flat as increased consumption per meter was offset by decreased revenue per kilowatt hour sold.
+At GRE International, the segment that comprises our REP operations outside of the U.S., revenue in the fourth quarter increased by $26 million to $32 million, reflecting the inclusion of Orbit results, following its consolidation and increases in meters served at Lumo Energia, our Scandinavian REP.
+Genie Energy Services fourth quarter revenue decreased from $1.2 million to $876,000 as revenue realized in the year ago quarter pursuant to Prism Solar's contract for solar panels with JPMorgan Chase was not repeated.
+Prism fulfilled that contract earlier this year.
+Full year 2020 consolidated revenue increased $64 million to $379 million, a record for our Company.
+GRE contributed $19 million of the consolidated revenue increase, posting revenue of $305 million as the COVID-driven shift to work-from-home drove higher per meter electricity consumption.
+The increase in kilowatt hours sold more than compensated for decrease in revenue per kilowatt hour sold.
+GRE International revenue increased $33 million to $50 million in 2020, primarily reflecting the consolidation of Orbit results in the fourth quarter.
+Genie Energy Services revenue increased $12 million to $24 million in 2020, almost exclusively because of the JPMorgan contract revenues that were recognized in the first half of 2020.
+Consolidated gross profit in the fourth quarter, predominantly generated by GRE, was $22 million, unchanged from the year ago quarter.
+Gross profit at GRE decreased by $4.3 million to $17.7 million as gross profit per kilowatt hour sold decreased and was only partially offset by increases in per meter electricity consumption.
+GRE International contributed $4.4 million in gross profit compared to negative gross profit of $288,000 in the year ago quarter.
+The increase was primarily result of the inclusion of Orbit Energy's margin contribution for most of the fourth quarter as well as improved economics at Lumo Energia.
+Full year consolidated gross profit increased $14.8 million to $97.7 million.
+Gross profit increased $7.6 million at GRE on the strength of increased per meter consumption post-COVID, which was offset by a decrease in gross profit per kilowatt hour.
+GRE International's growth and the consolidation of Orbit drove a $6.8 million increase in the segment's full-year margin contribution to $7.2 million.
+SG&A spend in the fourth quarter of 2020 increased $3.4 million to $22.7 million and full year 2020 SG&A increased $4.3 million to $77 million.
+Both increases resulted primarily from the consolidation of Orbit Energy as well as increases in bad debt expense incurred as a result of our expanded presence in markets without POR programs.
+Our fourth quarter consolidated loss from operations was $1.1 million, compared to income from operations of $2.3 million in the year ago quarter, primarily as a result of the decrease in margin per kilowatt hour sold at GRE.
+GRE generated income from operations of $5.1 million, a decrease from $8.2 million in the year ago quarter, reflecting the decrease in margin per kilowatt hour sold as well as decreased gas sales.
+We continue to invest in building our book overseas.
+GRE International's loss from operations was $2.9 million compared to $3.2 million in the year ago quarter.
+Full year 2020 income from operations increased $9.5 million and $19.3 million.
+The improvement was primarily generated at GRE, where income from operations increased $9.2 million to $36.4 million on increased consumption, partially offset by narrowed margin per kilowatt hour sold.
+GRE's loss from operations narrowed to $7.6 million from $8.1 million.
+Consolidated adjusted EBITDA in the fourth quarter was $693,000 compared to $815,000 in year ago quarter.
+For the full year, the increase in residential electricity consumption in GRE drove an increase in GRE's full-year adjusted EBITDA to $37.3 million, which in turn [Indecipherable] consolidated adjusted EBITDA by $13.9 million to $24 million.
+Genie Energy's earnings per diluted share increased to $0.01 from nil in the year ago quarter and for the full year 2020 increased to $0.44 from $0.10 in 2019.
+In light of the situation in Texas that Michael highlighted, I'm particularly pleased by continued strength of our balance sheet.
+At December 31, we had cash, cash equivalents, restricted cash and short-term investments totaling $48.3 million.
+Working capital totaled $38.2 million.
+We again have no debt at quarter end and non-current [Phonetic] liabilities totaled just $3.8 million.
+To wrap up, results this quarter were generally consistent with year ago while the full year 2020 results were very strong with robust top and bottom line results.
+Our domestic business generated record levels of income from operations this year and again demonstrated its cash generation potential.
+That concludes my discussion of our financial results.
+Now, operator, back to you for Q&A.

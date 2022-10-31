@@ -1,0 +1,225 @@
+We will also discuss non-GAAP financial measures regarding our performance.
+Unless otherwise specified, all comparisons will be on a year-over-year basis versus the relevant period.
+When we refer to the base revenues, were referring to our total revenues less our COVID diagnostic testing revenues, which include COVID-related revenues from Veritor, BD MAX and swabs.
+When we refer to base margins, we are adjusting for estimated COVID diagnostic testing profitability and the related profit we have reinvested back into our business.
+When we refer to any given period referring to fiscal period, it must be noted as a calendar period.
+Finally, when we refer to NewCo during todays call, were referring to the planned spinout of our Diabetes Care business into an independently public traded company following the effective trade date of the spin, which was announced on the second quarter earnings call.
+RemainCo refers to BD post separation.
+As a reminder, this transaction is subject to market, regulatory and other conditions, including final approval by BDs Board of Directors and the effectiveness of a Form 10 registration statement that will be filed with the SEC.
+On todays call, I will provide highlights of the quarter and discuss the continued strong progress we have made on our BD 2025 strategy.
+On behalf of the Board of Directors, the leadership team and the company, I want to express my gratitude to Chris for his leadership and service to BD.
+Im confident the CFO transition ahead will be seamless, and his leadership and experience will make him an excellent director for NewCos Board.
+Now lets jump into our results.
+We were very pleased with our third quarter performance, powered by strong growth and momentum in our base business across all three segments.
+Revenues totaled $4.9 billion, and our adjusted earnings per share was $2.74, both ahead of our expectations.
+Total revenues were up 26.9% on a reported basis and up 22% on a currency-neutral basis.
+Results included COVID diagnostic testing revenues of $300 million, which contributed 4.8% to growth.
+Excluding COVID testing revenues, our base business revenues were up 17.6%, better than we expected across most business units.
+The strong growth reflected the anniversary of the initial COVID wave and the temporary halting of elective procedures and its impact on medical device utilization in the year ago quarter.
+But Q3s result also reflects the continued momentum driven by the successful execution of our BD 2025 strategy.
+Excluding COVID diagnostic revenues, base business revenues in Q3 fiscal 21 increased 3.9% relative to our pre-pandemic third quarter fiscal 2019 on a currency-neutral basis, which includes the impact of the Alaris ship hold.
+If you exclude the U.S. infusion systems business, our total revenues would have increased 6.6% relative to our prepandemic third quarter fiscal 2019.
+Our Pharmaceutical Systems and Urology and Critical Care franchises continue to be standout performers, where revenues are up 17% and 11%, respectively, over 2019 levels.
+Bioscience revenues were up 9%.
+Surgery and Peripheral Intervention revenues are both up 8%.
+Elsewhere, we see opportunities for improvement ahead in fiscal 22 and beyond.
+For example, our MDS revenues are up about 2% versus 2019 levels, reflecting the continued impact of COVID as well as the impact of China volume-based purchasing.
+As hospital utilization improves, we should see further improvements here.
+Also, as I mentioned, Medication Management Solutions revenues are impacted by the Alaris ship hold, and we expect our revenues to improve once we receive our 510(k) clearance for our BD Alaris system.
+While Im pleased with how we are accelerating our revenue performance and profile, Im equally pleased with the process were making in improving our working capital and cash flows.
+Cash flow performance has been a key focus for us since I became CEO, and that is evident in our working capital metrics.
+Year-to-date, cash flows from operations totaled $3.7 billion, an increase of 80% from the prior year period.
+This improvement in our cash flows allowed us to advance our more balanced capital allocation strategy this quarter, which included the repurchase of $1 billion in BD stock at an average price of approximately $242.
+This marks the first time we have repurchased shares since 2017 and the largest amount we have repurchased since 2012.
+Even with this repurchase activity, we ended the third quarter with nearly $3.2 billion in cash and an adjusted net leverage ratio of 2.4 times.
+Overall, Im really pleased with our performance in the quarter, particularly with the continued positive momentum in our base business.
+This gives us the confidence to raise our base revenue assumption.
+We now expect our base business to grow approximately 7.5% to 8% on an FX-neutral basis.
+This is higher than our previous expectation of mid-single-digit growth.
+We continue to expect COVID diagnostic testing revenues of $1.8 billion to $1.9 billion, with more revenues coming from international markets than we previously anticipated.
+We now expect currency-neutral revenue growth overall of approximately 14%.
+Our positive base business momentum and a lower tax rate allows us to raise our adjusted earnings per share guidance by $0.10 while continuing to reinvest in our business and overcome lower COVID testing profits, including a provision for excess and obsolete COVID testing inventory.
+We now expect our full year adjusted earnings per share range to be $12.85 to $12.95.
+Chris will provide you further details on our financial outlook later in the call.
+Next, I want to provide an update on our BD Alaris pump remediation, which remains my number one priority.
+Last week, we announced to our customers a positive step in our remediation efforts.
+Working with the FDA, we are now initiating remediation of existing Alaris system devices in the field by updating the software to version 12.1.
+2 following submission of the 510(k), which includes this software version.
+This new software version is intended to remediate the issues identified in the February 4, 2020, recall notice and provide programming, operational and cybersecurity updates to affected devices.
+However, the software update has not been reviewed or cleared by the FDA.
+To address the question on Alaris clearance timing, we remain confident in our submission and the process we are undertaking, including working closely with the FDA.
+As Chris will later discuss, we believe it is responsible to not definitively predict the FDA clearance in our FY 22 outlook.
+We believe this is a prudent approach given the inherent difficulty in predicting FDA clearance time lines.
+Next, I want to update you on our BD 2025 strategy of grow, simplify and empower.
+First, Id like to focus on our growth pillar.
+We continue to strengthen our market leadership positions in our durable core business while purposely investing in new innovations that help accelerate and shape irreversible trends that we see transforming global health now and in the decade ahead.
+Ive spoken about these three innovation and growth focuses before.
+And weve been purposely shifting more of our R&D and tuck-in M&A investments into these spaces, which are growing over 6%.
+Through this, we aim to lift our weighted average market growth rate and performance over time.
+And this year, weve launched several innovative products and solutions across the continuum of care, across our business units and across the globe.
+And after completing our strategic portfolio review last month, I can share with you that our pipeline is very deep and wide across our businesses.
+Its been further enhanced by our acquisitions over the past 18 months.
+And youll hear much more about our innovation pipeline at our Investor Day on November 12.
+But let me highlight a few of our organic innovations that were advancing in the near term.
+In our Life Sciences business, Im pleased that we will start shipping our BD MAX and BD Veritor combination flu COVID assays this month, in time for the upcoming respiratory season.
+Our BD Veritor combination test can detect and distinguish between COVID, flu A and flu B in a single rapid test with a digital readout.
+We see the combination test becoming the standard of care moving forward, advancing our strategy to enable better outcomes in nonacute settings.
+Another innovation area Id like to highlight is our Biosciences business.
+Biosciences has been a strong performer this year, and we expect the unit to deliver high single-digit growth for the full year.
+In June, we launched our new e-commerce site, bdbiosciences.com, which is an entirely new and innovative digital marketplace designed to provide a best-in-class online purchasing experience for our flow cytometry customers.
+Early feedback has been outstanding, and were already seeing excellent traction and early adoption.
+We also have an exciting wave of new product introductions this summer, with the launch of our FACSymphony A5 SE, which is our first BD spectral analyzer, and provides an even higher cellular parameter analysis.
+Weve launched our FACSymphony A1 as well, which offers high-end technology and a cost-effective bench top design.
+In addition to these launches, we have a healthy innovation pipeline of modular, scalable new instruments and next-generation dyes that will allow our customers to fully leverage our complete and integrated solution suite of instruments, reagents, informatics, single-cell multiomics and scientific support services.
+Our products and solutions are being used to uncover new insights on the immune system and develop treatments for many related chronic diseases.
+You can hear more about our Life Sciences strategy from Dave Hickey, our Executive Vice President of BD Life Sciences; and Puneet Sarin, our Worldwide President of BD Biosciences, at the upcoming UBS Genomics 2.0 and MedTech Innovation Summit on Wednesday, August 11.
+Next, lets turn to our inorganic innovations that weve added to our portfolio.
+As you know, we continue to be focused on tuck-in M&A as a means of adding innovative products and solutions that leverage our core market leadership positions and advance us into higher-growth adjacencies.
+Year-to-date, weve completed seven tuck-in acquisitions.
+While at the same -- at the time of the acquisitions, these individual deals were not meaningful from a revenue perspective.
+As we integrate these transactions into our portfolio, we expect them to strengthen our growth profile.
+Our three most recent transactions, Velano Vascular, Tepha, Inc. and ZebraSci are good examples of our M&A strategy.
+Let me begin with Velano Vascular, which is being added to our MDS business.
+Velano has an innovative needle-free technology that enables high-quality blood draws from existing peripheral IV catheter lines, eliminating the need for multiple needle sticks.
+This technology will help customers transform the patient experience through the vision of a 1-stick hospital stay.
+Velanos PIVO device will be integrated into our sales teams bag of broader catheter solutions initially in the U.S.
+This is a great example of how were expanding and strengthening our base business.
+The second transaction is Tepha, Inc., a leading manufacturer of a proprietary resorbable biopolymer technology.
+Over the past several years, through our long-standing relationship, weve been commercializing this platform via our Phasix resorbable hernia mesh platform.
+The acquisition benefits are twofold.
+First, it provides us with a vertical integration strategy for our current Phasix platform.
+But more importantly, it provides us with exciting new opportunities to expand our horizon into new high-growth areas of tissue repair, reconstruction and regeneration.
+Lastly, we acquired ZebraSci, a pharmaceutical services company.
+This acquisition provides the opportunity to expand our Pharmaceutical Systems business beyond injectable device design and manufacturing to include best-in-class testing for drug device combination products.
+ZebraSci allows us to further engage and collaborate with biopharmaceutical companies and particularly smaller companies, where a large amount of the pipeline is, to support the transition of their molecules into prefilled combination devices.
+Next, I want to update you on our Simplify initiatives, which are advancing well.
+Through Project Recode, we are optimizing our portfolio, optimizing our plant network and simplifying our business processes.
+Project Recode remains on track to achieve $300 million of cumulative savings by the end of FY 24.
+We are also continuing the rollout of our BD production system, which is a standardized BD approach to driving the next level of lean processes and continuous improvements across our plants.
+The BD production system is already helping to drive improvements in quality and reductions in our inventory days.
+We also continue to advance Inspire Quality, our quality, regulatory and risk mitigation program.
+The last pillar of our BD 2025 strategy is empower, which represents the changes in our culture and capabilities that were driving to empower our strategy.
+In Q3, we completed our Voice of Associates survey with over 86% participation.
+And what stood out was that our associates said were making strong progress with improvements in 95% of the metrics since our last survey in 2018.
+And most notable were improvements in our focus areas of growth mindset, strong teams, quality and excitement about the future of BD.
+Were also advancing our 2030 sustainability strategy, which addresses a range of challenges in our industry while helping to make a difference on relevant issues that affect society and the planet.
+Our strategy will ensure we remain focused on shared value creation, meaning how we address unmet societal needs through business models and initiatives that also contribute to the commercial success of BD.
+Next, I want to provide a brief update on the progress of our proposed diabetes spin-off, which remains on track for the first half of calendar 2022.
+We are making steady progress with our separation activities.
+We recently announced that two directors from BDs Board will be appointed as future directors of the Diabetes NewCo.
+Retired Lieutenant General David Melcher will serve as the Non-Executive Chairman of the Board.
+And Dr. Claire Pomeroy will serve as a director.
+Their appointments will be effective upon the completion of the spin, at which point they will transition from the BD Board to the Board of NewCo.
+Lieutenant General Melcher brings extensive experience in spin-offs, having served as the CEO of Exelis following its spin-off from ITT.
+And under his leadership, Exelis spun off its mission systems business as a separate public company.
+Dr. Pomeroy brings broad experience in healthcare delivery, administration, medical research and public health.
+Im confident their combined experience, along with future planned board members, will help to set NewCo well on its path to becoming a successful independent publicly traded company focused on growth.
+While continuing to evaluate additional Board members, we are also continuing to build a new Diabetes Care leadership team through a combination of current BD leaders and new hires, including Dev Kurdikar, who will be NewCos CEO; Jake Elguicze, who will be CFO, and most recently, Jeff Mann.
+Jeff Mann joined our Diabetes Care organization and will be General Counsel and Head of Corporate Development for NewCo.
+Jeff brings more than two decades of experience in M&A and transactions, securities law and corporate governance.
+Most recently, he served as General Counsel and Secretary of Cantel Medical group.
+We are also progressing with the Form 10, which will have the carve-out financials, and we expect it to be publicly available around the end of the calendar year.
+Before turning it over to Chris, I will leave you with some key thoughts.
+First, our base business momentum and our recovery from COVID continues, and it is broad-based.
+We expect that momentum to carry into fiscal 22 and beyond.
+As Chris will share with you, todays results underscore our confidence in strong mid-single-digit top line growth for our base business next year.
+Second, we are executing well against our innovation-driven growth strategy, which includes our internal R&D as well as advancing our tuck-in M&A strategy.
+And third, Im proud of the substantial progress in advancing our BD 2025 strategy and how that will unleash our growth potential in the years to come.
+Well deliver innovations for our customers, empower our associates and create value for you, our shareholders.
+Ive been with BD for 20 years, and Ive never been more excited.
+We just completed our annual strategic review process, as I said, and the road ahead is looking more exciting than it did a year ago.
+We look forward to sharing our BD 2025 strategy in greater detail at our November 12 Investor Day.
+We hope you can join us.
+Im also very pleased with our overall performance in the quarter, particularly with the base business, which showed continued strong momentum.
+Third quarter revenues of $4.9 billion increased 26.9% on a reported basis and 22% on a currency-neutral basis and were ahead of our expectations.
+Our current quarter results also include $300 million in COVID diagnostic testing revenues, compared to $98 million in the prior year period.
+Excluding COVID diagnostic revenues in both periods, our base business revenues increased 17.6%.
+Our base business reflects continued strong performance as the market continues to recover from the COVID pandemic, the impact from which was most acute in Q3 of last year.
+The BD Medical segment revenues totaled $2.4 billion and were up 7.7% versus the prior year.
+MDS revenues increased 24%, reflecting a strong recovery in the U.S., led by strong growth in catheters and vascular care devices.
+Additionally, worldwide revenues included $18 million from COVID vaccination devices.
+In MMS, the double-digit increase in our dispensing revenues was more than offset by the expected declines in our infusion solutions.
+As you may recall, when the pandemic started, we saw a higher level of demand for infusion pumps and sets globally.
+Diabetes Care benefited from an easy comparison to the prior year, the timing of sales and slightly better-than-expected market demand.
+Pharm Systems continued to deliver strong growth with revenues up 12%, driven by demand for our prefilled devices.
+BD Life Sciences revenues totaled $1.4 billion and were up 43%.
+This included the $300 million in COVID diagnostic testing revenues, $212 million related to our BD Veritor system, with the remaining $88 million from BD MAX collection, transport and swabs.
+Year-to-date, COVID diagnostic testing revenues were over $1.6 billion.
+Despite lower average selling prices, driven in part by geographic mix, we are still on track to deliver on our target of total worldwide revenues of $1.8 billion to $1.9 billion for the fiscal year.
+Excluding COVID diagnostic testing revenues, our Life Sciences segment grew revenues 27%, driven by strong performances in both Integrated Diagnostic Solutions and Biosciences.
+IDS revenues increased 49%.
+Excluding COVID diagnostic testing, IDS revenues increased 27%, driven by strong double-digit performance across specimen management and microbiology.
+Biosciences increased 27%, driven by both research and clinical solutions.
+We continue to see strong demand for research reagents and instruments as lab activity is returning to normal levels.
+We also continue to see steady demand for research reagents globally, fueled by COVID research activities related to vaccines and variants, especially from academic research and biopharma companies.
+BD Interventional sales totaled nearly $1.1 billion and were up nearly 35%, reflecting the COVID anniversary impact on elective procedures.
+Surgery revenues increased 68%, and Peripheral Intervention increased 32%.
+Both businesses saw the greatest recovery in the U.S. and Western Europe, which experienced the greatest impact on elective procedure volumes in the prior year quarter.
+We saw sequential improvement in both surgery and peripheral intervention.
+However, in the last several weeks, we are seeing some impact from the COVID delta variant on elective surgeries in certain U.S. states.
+Urology and Critical Care revenues were up approximately 14%, driven by continued growth in our PureWick and Targeted Temperature Management franchises.
+Now turning to our P&L.
+As we expected and have communicated, our gross margins this year are being negatively impacted by COVID-related expenses, manufacturing variances and FX headwinds, which are more acute in the second half of the year.
+Also, as expected, our gross margin declined sequentially.
+Our gross margin was 51.5%.
+However, this included a net negative 90 basis point impact from COVID testing and reinvestments.
+The 90 basis point impact includes a negative 140 basis point impact from an inventory provision related to COVID testing.
+Adjusting for the net impact of COVID testing and reinvestments, our underlying base business gross margin was 52.4%.
+On a sequential basis, our base business gross margin declined from our second quarter rate of 53.7% due to three factors: 70 basis points of incremental FX headwinds; 40 basis points from inflationary pressures, including higher raw material costs and inbound freight as these costs roll through our inventory; and 20 basis points of other expenses, including Alaris quality remediation.
+Now turning to SSG&A.
+Our total SSG&A spending increased 21% on a currency-neutral basis to $1.2 billion or 25.2% of revenues.
+As a reminder, in the third quarter of fiscal 2020, we implemented several cost-containment measures in response to the COVID pandemic.
+In addition, we are continuing to see higher shipping costs.
+This quarter also included higher expenses related to our COVID profit reinvestment initiatives.
+As a reminder, the COVID testing reinvestments we made in FY 21 will not reoccur.
+Our R&D spending totaled $321 million, an increase of 31.1% on a currency-neutral basis.
+The higher R&D reflects the timing of project spending, including a higher spending related to the BD Innovation and Growth Fund.
+Our R&D spending was 6.6% of revenues, which is higher than our long-term target of 6%.
+On a currency-neutral basis, our operating income increased 26.5% as compared to our revenue growth of 22%.
+Our operating margin of 19.8% was slightly below our guidance of below 20%.
+The inventory provision related to COVID testing I referenced earlier negatively impacted operating margins by approximately 150 basis points.
+Interest and other expenses were essentially flat year-over-year at $98 million.
+The adjusted tax rate was 5.8%, lower than we previously expected due to discrete tax items that occurred this quarter.
+The lower tax rate essentially offsets the impact from the COVID diagnostic inventory provision in the quarter.
+The average diluted share count used to calculate our earnings per share in the quarter was 291.9 million.
+We repurchased a total of 4.1 million shares for a total of $1 billion at an average price of approximately $242.
+Our adjusted earnings per share increased 24.5% over the prior year to $2.74 on a reported basis and were up 25.9% on a currency-neutral basis.
+Now Id like to turn to guidance for the balance of the fiscal year.
+Our guidance continues to assume no major widespread hospital restrictions on elective procedures related to the COVID pandemic.
+However, we did start to see some impact on elective procedures from the COVID delta variant in the last one to two weeks in certain U.S. states and have assumed some continuation of this in our guidance.
+That said, given the continued positive momentum of the base business, we are pleased to be able to cover this and still raise our currency-neutral revenue growth to about 14%, up from our previous range of 10% to 12%.
+Our revised revenue range would incorporate a base business currency-neutral growth assumption of 7.5% to 8%.
+Further, we reaffirm our previously communicated COVID diagnostic test revenue range of $1.8 billion to $1.9 billion.
+We now expect a favorable 250 to 300 basis point impact from currency.
+This brings our total reported revenue growth to approximately 16.5% to 17.5%.
+For the full year, we now expect our fiscal 2021 adjusted earnings per share to be in the range of $12.85 to $12.95.
+This higher guidance reflects the positive base business momentum and a lower tax rate.
+These benefits allow us to continue to invest while offsetting the COVID testing inventory provision and lower COVID selling prices.
+Next, I want to share with you our expectations for gross operating margins for full year fiscal 21 and provide you with an estimate of the net impact of COVID testing and the related reinvestments of profits on our margins.
+We expect our full year adjusted gross margins to be in the range of 53.5% to 54%, and this range includes a net neutral to slight positive impact from COVID testing reinvestments.
+We expect our full year adjusted operating margin to be in the range of 23.5% to 24%.
+This range includes a 200 basis point contribution from the net impact of COVID testing and reinvestments.
+Finally, Id like to address FY 22.
+We plan to provide our specific fiscal 2022 guidance on our November earnings call, but we wanted to provide some directional color today.
+To give you a sense as to what a floor could look like in fiscal 22, we have taken the following approach: As you know, there is a great deal of uncertainty around the level of COVID testing.
+Therefore, we have not modeled any testing revenue beyond the typical flu season.
+With the continued momentum we are seeing, we have increased confidence in our ability to deliver strong mid-single-digit revenue growth in fiscal 22 over our fiscal 21 base revenues, which, as a reminder, adjusts for COVID diagnostic testing revenues.
+With respect to Alaris, our filing is comprehensive and more complex than most submissions.
+As we have previously stated, it is possible that the review could be in line with past pump time lines.
+However, as we have also mentioned, it was more likely to take longer for the FDA to review and ultimately grant clearance.
+It is inherently difficult to predict clearance timing.
+We are not assuming Alaris 510(k) clearance.
+It is difficult to predict how things will play out as shipments are only being made under the medical necessity process.
+At this time, we have incorporated the assumption that revenues associated with Alaris will be approximately similar to FY 21.
+We believe it is prudent and responsible not to definitively predict FDA clearance time lines.
+That said, we remain confident in our submission and the process we are undertaking, including working closely with the FDA to obtain comprehensive 510(k) clearance.
+We expect to drive base business gross and operating margin expansion.
+We expect the operating margins for our base business to expand more than our traditional annual target of at least 50 basis points and translate into double-digit operating income growth.
+For reference, we expect our base business operating margins to be between 21.5% to 22% in fiscal 2021.
+With these assumptions, we expect an adjusted earnings per share floor of at least $12.
+This represents approximately low teens growth over our expected base business earnings in fiscal 2021.
+Now before opening it up for Q&A, I want to take a moment to comment on todays announcement of my upcoming retirement.
+With our strong base business momentum, our strengthened balance sheet and improved cash flows, which is evident by the increased number of tuck-in acquisitions that weve been doing and the restart of our share buyback program for the first time since 2017, I feel that now is the right time for the transition as the company is well positioned to continue to drive shareholder value and impact the lives of patients around the world.
+I look forward to helping to ensure a seamless transition to the new CFO.
+And Im very excited about the value-creating opportunities ahead for NewCo and helping to ensure this success as a member of their Board.
+And Kristen, I think its -- we should open up the -- operator, open up the line to Q&A.

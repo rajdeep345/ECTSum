@@ -1,0 +1,95 @@
+On the call, we have Raghu Raghuram, Chief Executive Officer; and Zane Rowe, Executive Vice President and Chief Financial Officer.
+Actual results may differ materially as a result of various risk factors described in 10-Ks, 10-Qs and 8-Ks VMware files with the SEC.
+In addition, during today's call, we will discuss certain non-GAAP financial measures.
+These non-GAAP financial measures, which are used as measures of VMware's performance should be considered in addition to, not as a substitute for or in isolation from GAAP measures.
+Our non-GAAP measures exclude the effect on our GAAP results of stock-based compensation, amortization of acquired intangible assets, employer payroll tax and employee stock transactions, acquisition, disposition, certain litigation matters and other items as well as discrete items impacting our GAAP tax rate.
+Our third quarter fiscal '22 quiet period begins at the close of business, Thursday, October 14, 2021.
+I'm pleased with our Q2 fiscal 2022 performance with revenue of $3.1 billion and non-GAAP earnings of $1.75 per share.
+I'm even more excited and energized today as I approach my 100th day as VMware's CEO.
+I've been spending a lot of concentrated time talking with customers and partners about the opportunities and challenges in the industry today and how we can help them navigate and innovate for the future.
+Over the last few years and especially during the pandemic, enterprises have accelerated their adoption of the cloud.
+Customers are evolving their strategy from a cloud-first to a cloud smart philosophy where they are picking the right clouds and cloud services for the right workload, including private cloud and even on the edge.
+And that means most of our customers are using not just one cloud today, but multiple clouds.
+Multi-cloud is emerging as the customers default strategy for these primary reasons.
+First, they need to deliver the best digital app experiences by choosing the location of their services based on the technical capabilities and performance.
+Second, they need to achieve business flexibility, lower cost and better control, and as a result, avoid being locked into a single cloud.
+Third, they need sovereignty, which is about the ability to control where their data resides.
+These customer needs are addressed with our multi-cloud portfolio.
+Number one is application modernization and cloud management.
+This is where Tanzu and our Cloud Management portfolio are critical as customers build, run and manage cloud-native workloads across public clouds.
+Number two is cloud-agnostic hybrid infrastructure with VMware Cloud, which provides a comprehensive platform for running enterprise workloads in private clouds and migrating them to any of the major public clouds.
+Number three are solutions that enable our customers to innovate at the edge and empower a more secure distributed workforce with Workspace ONE.
+And across all of these multi-cloud services, we have built our software defined networking and Carbon Black Cloud offering, which is a key component to provide zero trust security, flexibility and agility across all clouds.
+Customers are using our Tanzu platform to drive a consistent developer and cloud operations experience across all of their clouds, including data centers.
+As an example, one of the world's largest tire manufacturers adopted the Tanzu portfolio to manage a large container run time across their datacenter, Azure cloud and a number of manufacturing locations at the edge.
+We are also continuing to see customers who are building their application platform across hybrid clouds, adopting our complete stack for their private cloud environment that can extend to public cloud as needed.
+This full stack provides cost effectiveness and agility to run enterprise applications and build modern applications with our integrated Tanzu portfolio.
+For example, a Japanese automaker is building a next-generation open scalable private cloud platform to modernize their business using VMware Cloud Foundation as their infrastructure stack and Tanzu for modernizing their applications.
+Customers are also seeing the value of VMware Cloud Universal as it provides them flexibility to move to the cloud at their own pace and gives them freedom to move applications based on business conditions.
+We continue to see momentum with our cloud partners, providing more choice and flexibility for our customers.
+In Q2, VMware Cloud on AWS customers continued to expand their usage as we delivered key engineering capabilities and footprint expansion, including a new AWS Milan region.
+We continued to strengthen our go-to-market relationship with AWS, including the ability to offer additional products such as vRealize Cloud via the AWS resale channel.
+In April, we unveiled VMware SASE, a cloud-native scalable solution that serves as the one-stop shop for security and network services at the edge.
+VMware SASE provides customers a unified edge and cloud service model with a single place to manage business policy, configuration and monitoring.
+It is also a key component of the VMware Anywhere Workspace Solution which also includes VMware Workspace ONE and VMware Carbon Black Cloud and is designed to help companies deliver better and more secure experiences to their employees, no matter where they are in the world.
+We continued to work with Zoom Video communications during the quarter to drive interoperability between VMware Anywhere Workspace and the Zoom platform, enabling a better and more secure collaboration experience for hybrid work environments.
+We also added new innovations to VMware Horizon with new capabilities to make it easier for IT to manage deployments wherever they may be, on-premises or in the cloud.
+Over the past few months, VMware garnered recognition from industry-leading analysts.
+VMware has been recognized as a leader in the August 2021 Gartner Magic Quadrant for unified endpoint management tools for the fourth consecutive year.
+Additionally, VMware is positioned as a leader in the Forrester Wave Endpoint Security Software as a Service Q2 2021.
+And IDC ranked VMware Number 1 in worldwide IT automation and configuration management 2020 market share, as well as ranking VMware Number 1 in software-defined compute for 2020 market share.
+In Q2, we received recognition in support of our ESG efforts including ranking in the top 1% in emissions intensity versus industry peers on the ISS Climate Scorecard for the fiscal year 2020.
+VMware was also named to the Forbes 2021 List of Best Employers for Women and was recognized as the Best Place to Work for Disability Inclusion in 2021.
+As we head into fall, SpringOne and VMworld are both on the horizon.
+These events are the epicenter of industry conversations and breakthrough technological innovations.
+SpringOne takes place September 1 and 2, and is optimized for developers, DevOps pros and software leaders looking to build scalable apps and learn more about the Spring framework, Kubernetes, app modernization and more.
+VMworld, which takes place October 4 through 7, will again be a virtual event where attendees will hear more about our multi-cloud strategy and offerings, while also engaging in over 600 educational and technical content sessions while networking and connecting with peers.
+I look forward to seeing you online at the these two events.
+We remain on track to spin-off from Dell in early November of this year.
+As a stand-alone company, we will have increased strategic, operational and financial flexibility to drive VMware's growth strategy while also strengthening our long-standing strategic relationship with Dell, a partnership we expect will continue to benefit our customers and partners as well as both the Dell and VMware.
+We're pleased with our Q2 and first half of fiscal '22 financial performance.
+Total revenue for Q2 was $3.1 billion, with combined subscription and SaaS and license revenue growth of 12% year-over-year to $1.5 billion, which was above our expectations for the quarter.
+Subscription and SaaS revenue grew 23% year-over-year, with ARR up 26% to $3.2 billion.
+License revenue exceeded our expectations in Q2 with growth of nearly 3% year-over-year to $738 million.
+We continue to focus on developing and accelerating our subscription and SaaS portfolio and made good progress in Q2 toward that goal.
+Our largest contributors to sub and SaaS were VCPP, modern applications, EUC, Carbon Black and VMware Cloud on AWS, which grew revenue nearly 80% year-over-year.
+We continue to prioritize flexibility and choice for customers as they adopt our offerings.
+And in Q2, we saw customers take a slightly larger-than-expected mix of perpetual licenses as well as term licenses in certain product areas such as EUC.
+We're also driving continued momentum with our VMware Cloud solutions and hyperscaler-led agreements are becoming an important channel for scaling our cloud offerings.
+With this route to market, the length of time from bookings to revenue can be slightly longer as compared with VMware Direct sales.
+Our non-GAAP operating income for the quarter of $924 million was stronger than expected, driven by higher revenue and lower-than-expected expenses.
+Non-GAAP operating margin for the quarter was 29.4%, with non-GAAP earnings per share of $1.75 on a share count of 423 million diluted shares.
+We ended the quarter with $10.3 billion in unearned revenue and $5.9 billion in cash, cash equivalents and short-term investments.
+Q2 cash flow from operations was $864 million, and free cash flow was $777 million.
+RPO was $11.2 billion, up 8% year-over-year, and current RPO was $6.2 billion, up 11% year-over-year.
+Total backlog was $66 million, substantially all of which consisted of orders received on the last day of the quarter that were not shipped and orders held due to our export control process.
+License backlog at quarter-end was $19 million.
+We're pleased with the overall bookings performance in Q2 as we continue to grow our subscription and SaaS offerings.
+We saw year-over-year product bookings growth in major product categories, including our multi-cloud and modern applications businesses as well as EUC.
+Core SDDC product bookings increased over 20% year-over-year, with Compute also increasing over 20% and Cloud Management up over 30%.
+Growth in our Cloud Management business was driven by vRealize Cloud Universal, a service that enables customers to manage their entire multi-cloud environment, including on-prem, edge and public clouds.
+Adoption of vRealize Cloud Universal is a great validation of our multi-cloud strategy, with more customers now embracing a unified cloud-based approach for managing their hybrid and multi-cloud environments.
+EUC and NSX product bookings were both up in the strong double digits versus Q2 last year and vSAN product bookings grew in the low single digits year-over-year.
+Carbon Black Cloud and our Modern Applications business also had continued strong growth in the quarter.
+Subscription and SaaS ACV bookings for EUC grew in the strong double digits year-over-year, driven by both Horizon and Workspace ONE.
+As employees continued working in hybrid environments, customers are leveraging VMware's Workspace offerings to support employees anywhere they work from knowledge workers back in the office or at home to essential employees and frontline workers.
+In Q2, we repurchased 2.2 million shares in the open market at an average price of $160 per share.
+Through the end of Q2, we have utilized $2.2 billion from our current repurchase authorization of $2.5 billion.
+We successfully completed a $6 billion bond offering in preparation for a special dividend payout to all stockholders associated with our planned spin-off from Dell Technologies in early November of this year.
+Our Q2 cash balance does not reflect the proceeds from this bond offering.
+We will continue to invest in growing our business, both organically and inorganically and return excess capital to shareholders through share repurchases.
+We also remain committed to an investment-grade profile and credit rating and we expect to use free cash flow primarily to delever following our planned spin-off from Dell.
+Turning to guidance for fiscal '22.
+We are reiterating our expectation for total revenue of $12.80 billion, a growth rate of approximately 9% year-over-year.
+We expect to generate $6.27 billion from the combination of subscription and SaaS and license revenue or an increase of approximately 11.5%, with approximately 51.5% of this amount from subscription and SaaS.
+We're increasing guidance for non-GAAP operating margin for the full year to 29% and non-GAAP earnings per share to $6.90 on a diluted share count of 423 million shares.
+We're maintaining our cash flow from operations guidance of $3.9 billion, which now includes nearly $100 million in debt issuance costs and estimated costs associated with the planned spin-off.
+And we're also maintaining free cash flow guidance of $3.52 billion.
+For Q3, we expect total revenue of $3.12 billion or a growth rate of approximately 9% year-over-year.
+We expect $1.47 billion from subscription and SaaS and license revenue in Q3 and or an increase of nearly 12% year-over-year, with approximately 56% of this amount from subscription and SaaS.
+We expect non-GAAP operating margin to be 27% for Q3, with non-GAAP earnings per share of $1.53 on a diluted share count of 422 million shares.
+As we head into our second half and the spin-off later this year, we're energized by the opportunities we see to help customers leverage our trusted software foundation for their multi-cloud environments.
+And we look forward to seeing many of you at our Analyst Meeting to be held in conjunction with Virtual VMworld in early October.
+We'll notify you of the day and time in the coming weeks.
+Before we begin the Q&A, I will ask you to limit yourselves to one question consisting of one part, so we can get to as many people as possible.
+Operator, let's get started.

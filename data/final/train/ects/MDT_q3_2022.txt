@@ -1,0 +1,151 @@
+We felt the short-term impacts of omicron in January, particularly in the U.S., causing our Q3 revenue to fall short of our expectations.
+The COVID resurgence affected not only procedure volumes but also created acute periods of worker absenteeism with our customers, suppliers, and in our own operations and field teams.
+Now that said, COVID infections in the U.S. are declining.
+Available hospital ICU capacity is increasing and procedure volumes are picking up.
+While some of the impacts from the pandemic, like inflation, supply chain issues, and healthcare worker shortages will linger, we do expect that our markets, our customers, and our industry are on the path to recovery.
+Over the last 18 months, we've made significant changes to our operating model, moving to 20 focused operating units as well as making major enhancements to our culture and incentives.
+These changes have improved our pace of innovation and our competitiveness, as evidenced by recent product filings and approvals that came faster than expected.
+And we're not finished driving change.
+We're accelerating improvements to our global supply chain and operations, leveraging our scale to further improve quality, increase product availability, and reduce costs.
+In addition, we've enhanced our portfolio management and capital allocation processes.
+Our new operating model is giving us line of sight into what is required to compete and win over the long term in each of our businesses.
+As a result, we're looking at our portfolio with a more critical eye, with a focus on growth, and creating shareholder value.
+I'd be surprised if there weren't changes over the coming fiscal year, but I don't know yet if they will be smaller or more significant.
+Now let's look at our third quarter results, starting with our market share performance.
+Now market share is an important metric and a reflection of the culture and incentive changes that we're making in the company.
+About 60% of our businesses held or won share in the last calendar quarter.
+While that's down slightly from last quarter due to some supply constraints and where certain businesses are in their product cycles, it is a significant improvement from where Medtronic was just 18 months ago.
+So starting with our cardiovascular portfolio.
+In cardiac rhythm management, one of our largest businesses, we continue to build on our category leadership, adding over 1.5 points of share.
+We're winning share in both high and low power devices.
+And we recently launched our Micra AV leadless pacemaker in Japan and Micra VR in China, resulting in international Micra growth of over 50% in Q3.
+In Peripheral Vascular Health, we won about a point of share with strong growth in our Abre deep venous stents and venous seal closure system.
+And in Cardiac Surgery, we gained over a point of share on the strength of our extracorporeal life support products.
+In our medical surgical portfolio, we estimate we gained share in GI, driven by momentum from the recently launched Emprint HP Generator and our Beacon endoscopic ultrasound franchise.
+In Respiratory Interventions, despite the year-over-year headwind as ventilator sales continue to return to pre-pandemic levels, we estimate we gained about 400 basis points of share.
+We won share in premium ventilation with our Puritan Bennett 980, in video laryngoscopes with our McGRATH MAC, and in core airways with our Taperguard endotracheal tubes.
+In our neuroscience portfolio, we increased our market share in Cranial, Spinal technologies.
+We're launching new spine implants that enhance the overall value of our ecosystem of preoperative planning software, imaging, navigation, and robotic systems as well as powered surgical instruments, all of which are transforming care in spine surgery.
+In Neuromodulation, we have great momentum from new products in both Pain Stim and Brain Modulation.
+In Pain Stim, despite the headwinds from omicron, we estimate we gained over a point of share, driven by both our Intellis with DTM technology and Vanta recharge-free systems.
+And in Brain Modulation, while we continue to face headwinds from replacement devices, our business grew 15% on strong adoption of our Percept Neurostimulator with BrainSense technology, paired with our SenSight directional lead.
+Medtronic is the only company with sensing capabilities on our deep brain stimulators, which drove about 10 points of new implant share and over a point of overall DBS share in Q3, and we expect this momentum to continue.
+Another business with momentum is our Neurovascular business, where we are back to winning share, picking up about two points this quarter.
+We're seeing strength from our pipeline family of flow diverters for treating intracranial aneurysms.
+Our flow diversion launches in Japan, CE Mark countries, and the United States, coupled with broader portfolio growth in China, propelled neurovascular to 12% growth this quarter.
+Now while the majority of our businesses are winning share, we have some businesses that lost share in Q3 where we are focused on improving our performance.
+In cardiac diagnostics, despite year-over-year share loss, we gained share sequentially for the first time in many quarters.
+We've made good progress increasing our manufacturing capacity for our LINQ II insertable cardiac monitor, and we began our rollout of our Accurythm artificial intelligence algorithms, which were just enabled for all LINQ II patients in the U.S.
+We expect ongoing supply improvement and additional AI detection algorithms along with new indications to expand the market and drive growth.
+In our structural heart and aortic business, we lost share in Aortic due to supply constraints and continued pressure from our Valiant Navion recall and competitive launches.
+At the same time, though, we maintained our TAVR share in Q3, growing in the mid-teens.
+In our surgical innovations business, we lost a little over 0.5 points of share overall due to acute resin shortage that impacted our flagship LigaSure vessel sealing portfolio.
+This was partially offset by increased share in advanced stapling given strong market adoption of our Tri-Staple reinforced reloads as well as share gains in hernia and sutures.
+The good news here is that our teams have improved our resin supply, and we expect to be able to meet demand in Q4.
+Inpatient monitoring, we estimate we lost a few points of share due to a difficult comparison from the strength we had last year in pulse oximetry and capnography monitor sales.
+However, our share has been relatively consistent for the past four quarters.
+In pelvic health, procedures slowed this past quarter and we lost some share.
+We expect this market to recover, and we are well-positioned to compete.
+In ENT, we lost share for the first time in a long time, given some temporary supply chain disruptions that we expect to have resolved going forward.
+And in diabetes, we continue to lose share, predominantly in the U.S. Look, we're extremely focused on resolving our warning letter and bringing new products to the U.S. market although timing is difficult to predict.
+In December, CMS expanded coverage for our CGM sensors, including those integrated with our insulin pumps, and we're pleased that this will take effect for Medicare patients at the end of this month.
+In the international markets, we launched the 770G in Japan last month, making it the first hybrid closed loop system available in that country.
+And in Europe, we continue to see success and strong adoption of our 780G with the Guardian 4 sensor.
+Next, let's turn to our product pipeline.
+We've launched over 200 products in the U.S., Western Europe, Japan, and China in the last 12 months, and these are having an impact across our businesses.
+At the same time, we continue to advance new technologies that are in development with increased investments in R&D.
+We're expecting these investments to create new markets, disrupt existing ones, and accelerate the growth profile of Medtronic.
+Now starting with our cardiovascular portfolio.
+We continue to make progress in cardiac rhythm Management on disrupting the ICD market with our Aurora extravascular ICD.
+Our U.S. pivotal study is fully enrolled.
+We continue to expect CE Mark approval later this calendar year and U.S. approval next calendar year.
+Our EV ICD can both pace and shock without any leads inside the heart and veins.
+And it does this in a single device that is the same size as a traditional ICD.
+We believe Aurora will accelerate adoption of EV ICDs and make this a $1 billion market by 2030.
+In cardiac ablation solutions, we're advancing a number of technologies to become a leader in the $8 billion EP ablation market.
+We're rolling out our DiamondTempt RF ablation system as well as our exclusive first-line paroxysmal AF treatment indication using our cryoablation system.
+We also continue to make progress with our Anatomical PulseSelect PFA system, which has breakthrough device designation from the FDA.
+Our global pivotal trial completed enrollment back in November, and we're very excited about how our PFA system could disrupt the EP ablation market.
+Last month, we announced our intent to acquire Affera.
+Affera has several development programs underway, including a differentiated mapping and navigation system that closes a competitive gap in our product portfolio and a focal PFA system that is a separate and complementary platform to our anatomical PFA system.
+We're looking forward to welcoming the Affera team into Medtronic.
+Moving to our Symplicity renal denervation procedure for hypertension.
+We continue to enroll our ON MED study and expect to complete the six-month follow-up in the second half of this calendar year.
+We'll then submit the data to the FDA as ON MED is the final piece of our submission to seek approval for Symplicity.
+Adding to our body of evidence, three-year data from our ON MED pilot study will be presented at the ACC scientific sessions in April.
+In structural heart, we now expect to begin the limited U.S. market release of our Evolut FX valve in Q1, followed by a full market release later in fiscal '23.
+Evolut FX enhances ease-of-use improvements in deliverability, implant visibility, and deployment stability.
+In China, we expect to launch our Evolut PRO valve this quarter, our first entry into this large and underpenetrated TAVR market.
+We also continue to advance our transcatheter mitral and tricuspid development programs.
+In our APOLLO pivotal trial for TMVR, we just had the first implant using our transfemoral delivery system, and we expect this new system to meaningfully accelerate patient enrollment.
+Moving to our medical surgical portfolio and our surgical robotics program, we've made progress improving our supply chain and manufacturing and remain focused on scaling production.
+At the same time, we continue to add regulatory approvals and expand our limited market release, most recently in Canada, Australia, and Israel.
+And we intend to start our U.S. urology clinical trial soon.
+In addition to uro and GYN cases, surgeons in Panama, Chile, and India are now performing general surgery procedures with Hugo, including advanced cases like colorectal and lower anterior resection surgeries.
+And we announced earlier this month the first Hugo procedures in Europe.
+In diabetes, our MiniMed 780G insulin pump, combined with our Guardian 4 sensor, continue to be under active review with the FDA, with approval subject to our warning letter.
+When approved and launched in the U.S., we expect this system to be highly differentiated and accelerate growth in our diabetes business.
+We continue to expect submission of our next-generation sensor Simplera to the FDA this quarter.
+Simplera is fully disposable, easy to apply and half the size of Guardian 4.
+Finally, we're making progress on multiple next-gen sensor and pump programs, including patch pumps, although we haven't disclosed details for competitive reasons.
+While it will take time, we expect the technology pipeline investments we're making will result in our diabetes business being accretive to total company growth and eventually grow with this important market.
+Now turning to our neuroscience portfolio.
+We were pleased to receive FDA approval for our diabetic peripheral neuropathy indication for our Intellis and Vanta spinal cord stimulators last month.
+This came following the FDA's rigorous review of our clinical submission and years earlier than we had previously communicated.
+The approval represents the beginning of a multiyear market development process which we are uniquely suited to execute given our presence in both the pain stim and the diabetes markets.
+We believe that DPN market opportunity will reach $300 million by FY '26, and with an annual TAM of up to $1.8 billion, making DPN for SCS one of the biggest market opportunities in med tech.
+In addition to DPN, we also continue to make progress on expanding indications for SCS and to nonsurgical refractory back pain and upper limb and neck chronic pain.
+If that was not enough for Pain Stim, we're also excited about our inceptive ECAPs closed-loop spinal cord stimulator which we submitted to the FDA late last year.
+We expect inceptives closed-loop therapy that optimizes pain relief for patients to revolutionize the SCS market.
+Finally, in pelvic health, we're expecting FDA approval for our next-gen InterStim recharge-free device in the first half of this calendar year.
+With its designed best-in-class battery, constant current, and full-body MRI compatibility at both 1.5 and 3 Tesla, we expect this device will extend our category leadership in sacral neuromodulation.
+Our third quarter organic revenue increased 2%.
+While we were tracking to our quarterly guidance in early January, the impacts from this latest wave of COVID affected our revenue in the last month of the quarter.
+Despite the challenging revenue, we controlled expenses and delivered adjusted earnings per share in line with our guidance and $0.01 ahead of consensus.
+From a geographic perspective, our U.S. revenue was flat, and non-U.S. developed markets grew 1%, given the impacts of omicron.
+Our emerging markets were relatively stronger, growing 7%, with strength in South Asia, Latin America and the Middle East, and Africa.
+Converting our earnings into strong free cash flow is a priority.
+Our year-to-date free cash flow was $4.3 billion, up 23% from last year, and we continue to target a full year conversion of 80% or greater.
+And we remain focused on allocating our capital to generate strong future growth and shareholder returns.
+We are increasing our organic R&D investments broadly across the company to fuel the pipeline that Geoff walked through earlier, and we are supplementing this with attractive tuck-in acquisitions.
+Since the beginning of last fiscal year, we've announced eight acquisitions totaling over $3.2 billion in total consideration, including last month's acquisition of Affera in our cardiac ablation business.
+At the same time, we're increasing our minority investments in companies that could become future acquisitions, as was the case with Affera.
+We have a commitment to return more than 50% of our free cash flow to our shareholders, primarily through our attractive and growing dividend.
+We are an S&P dividend aristocrat.
+And fiscal year to date, we paid over $2.5 billion in dividends to our shareholders.
+And finally, particularly in periods where we see share price dislocation, we look to execute opportunistic share repurchases, as was the case this quarter.
+Fiscal year to date, we've repurchased over $1.1 billion of our stock.
+While procedure volumes are still impacted from omicron in the first few weeks of February, we are beginning to see improvement.
+Our outlook assumes continued procedure volume recovery through March and April.
+And we expect to be back to pre-COVID levels in most of our markets before the end of the fourth quarter.
+Assuming that holds, for the fourth quarter, we're comfortable with current Street consensus for our organic revenue growth of approximately 5.5%.
+At recent foreign exchange rates, currency would be a headwind on fourth quarter revenue of approximately $185 million.
+By segment, we would model cardiovascular at 7% to 8% growth, neuroscience at 2.5% to 3.5% growth, medical surgical at 7.5% to 8.5% growth, and diabetes down 6% to 7%, all on an organic basis.
+On the bottom line, we expect fourth quarter non-GAAP diluted earnings per share in the range of $1.56 to $1.58, in line with current consensus.
+And at recent rates, we expect currency to have a flat to slightly positive impact on the bottom line.
+I am truly grateful for the perseverance that both healthcare workers and our employees have demonstrated to ensure patients receive our life-changing therapies around the world.
+Back to you, Geoff.
+For the last few quarters, I've been closing by commenting on the progress the company is making in various areas of ESG, or environmental, social, and governance impacts.
+Today, I want to highlight that we recently released our global inclusion, diversity, and equity 2021 annual report entitled Zero Barriers.
+The report shares how we are accelerating our efforts to remove barriers to opportunities by creating an inclusive work environment, doubling down or removing bias, and amplifying our impact in our local communities.
+Our commitments to ID&E and the UN sustainable development goals compel us to solve health and equities faster.
+Systemic socioeconomic, racial, geographic, and even generational factors all contribute to a person's ability or inability to achieve good health and reach their full potential as a contributing member of society.
+We're committed to urgently addressing barriers to education, diagnosis, and treatment, as the global crisis of health and equity can be solved by accelerating access to healthcare technologies.
+One such inequity is mortality from colorectal cancer.
+While colorectal is one of the most preventable cancers, low screening rates make it one of the deadliest, with mortality rates 40% higher for the black population in the United States.
+In addition, Hispanic and Latino adults are more likely to be diagnosed in later stages of the disease when it's more difficult to treat.
+Today, I'm pleased to announce that Medtronic is collaborating with Amazon Web Services and the American Society for Gastrointestinal Endoscopy to place GI Genius modules at facilities that support low-income and underserved populations across the United States.
+Our GI Genius system improves the quality of colonoscopies using AI to assist physicians in detecting both precancerous and cancerous growth.
+Increasing access to technology that can improve clinical outcomes through earlier and more accurate detection can provide a significant positive impact for communities most vulnerable to colorectal cancer.
+We continue to look for creative solutions like this one to address health inequities.
+Now let me close on this note.
+While the pandemic and its associated impacts have affected our revenue in the past couple of quarters more than we expected, we haven't lost sight of the big picture.
+We've made significant changes in the company, and we're strengthening our operations, supply chain, and global quality systems.
+We're also laser-focused on capital deployment and portfolio management processes, with a deep commitment to creating shareholder value.
+And we have several exciting growth catalysts in our pipeline.
+We expect to benefit as market procedures reaccelerate post omicron and as we lead in high-growth MedTech markets.
+While it's been a bumpier ride than I would have liked and we still have challenges to work through.
+I'm confident in our organization's ability to accelerate and sustain our growth profile over the long term to grow at or above our markets and, as we do so, create value for our stakeholders.
+As a result of your efforts, we can fulfill the Medtronic mission: alleviating pain, restoring health, and extending life for millions of people around the world.
+Now let's move to Q&A.
+[Operator instructions] With that, Win, can you please give the instructions for asking a question.

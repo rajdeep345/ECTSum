@@ -1,0 +1,91 @@
+Today's call will also include non-GAAP financial measures.
+Non-GAAP financial measures should be viewed in addition to and not as an alternative for our reported results prepared in accordance with GAAP.
+The team and I are pleased with the quarter and we're enjoying playing some offense in our consumer lending businesses.
+Over the last several years, we've made significant investments in our digital capacity, our regional business model to spur growth, our fee businesses and a stronger consumer lending platform.
+The fruits of these investments are apparent in our third quarter results.
+With several recent efforts like Project Thrive, we have made these investments while maintaining positive operating leverage and improving our efficiency.
+Third quarter core earnings per share of $0.24 was consistent with last quarter, even as we further increased loan loss reserves.
+The core efficiency ratio improved to a record low of 54.45% and the core pre-tax pre-provision ROAA strengthened to 1.74%.
+Core pre-tax pre-provision net income was $41.1 million, up some 14% over the second quarter.
+The Company achieved record quarterly fee income of $26.7 million, an increase of $4.9 million from the previous quarter.
+This more than offset a $4.4 million increase in provision expense to $11.2 million.
+Several important themes continue to unfold, namely, first in the third quarter, credit was solid and we continue to build loan loss reserves to recognize the impact of the pandemic.
+Excluding PPP balances, the allowance for loan losses as a percentage of total loans increased 10 basis points to 1.38%.
+Including previously disclosed day one CECL adjustment, the coverage ratio excluding PPP loans would increase to 1.59%, as seen on Page 10 of the earnings supplement.
+The reserve build was driven by several qualitative factors in our incurred loss model, which Brian will cover during his remarks.
+Our non-performing loans fell from $56 million at the end of the second quarter to $49.7 million at the end of the third quarter.
+On Page 13 of the earnings supplement, COVID-19 deferrals totaled 2.68%, as of July 24th.
+Those deferrals fell to 17 basis points as of October 23rd or last Friday.
+Similarly, on Page 12 of the earnings supplement, deferrals on the commercial portfolios most impacted by COVID declined again from 3.4% on July 24th to 14 basis points as of last Friday.
+I believe we are well positioned at this stage of the pandemic with a strong balance sheet that can weather uncertainty.
+Next, third quarter fee income as a percentage of revenue was 28.8%.
+We are particularly proud of this number as it reflects years of focus and investment, as we've diversified our revenue stream.
+Our third quarter fee income was driven by strength across multiple business lines.
+First, interchange income was $6.4 million, up roughly $500,000 over the second quarter.
+The team's retention of households and execution through its five smaller acquisitions has really borne through here.
+Mortgage gain on sale income was $6.4 million with a record quarter of $240 million in production.
+As an aside, 40% of these loans were not sold and remain on our balance sheet.
+Again, we de novo-ed our way into this business, just over five years ago.
+Despite a lackluster industrywide small business demand, SBA gain on sale income was $1.4 million, which also contributed to fee income.
+Despite our smaller size in some of our larger metropolitan markets in which we compete, our 2020 SBA origination performance now ranks us number two in Western Pennsylvania and number four in Northern Ohio.
+Also on the fee income front, trust revenue totaled a record $2.6 million as well.
+The third theme is loans.
+Loans grew $33 million or 2% on a linked-quarter basis, as the consumer lending business led the way.
+In commercial lending, however, utilization of lines credit fell some $55 million from 38% at the end of June to 34% at the end of September, as business' investment and working capital utilization has stalled.
+Our mortgage branch based consumer and indirect lending businesses had been robust, even as underwriting standards have been tightened.
+Fourth, the net interest margin contracted about 18 basis points to 3.11% in the third quarter, despite respectable loan growth and resilient loan spreads, particularly on the consumer side.
+Net interest income, however, was virtually unchanged, falling only $300,000 to $66.7 million.
+Excess liquidity and negative replacement yields on loans were the primary drivers of the decrease in NIM.
+Jim will provide more color here.
+Fifth, core non-interest expenses were down $63,000 for the quarter to $52.3 million even -- $52.3 million, even as we continue to invest in our digital platform and tools for our client.
+Importantly, the team launched a new digital platform in mid-September called Banno, which replaced both our online banking and mobile banking platforms.
+The team also completed the conversion of our larger business customers to our new Treasury Management System.
+We also added the person-to-person payment option of Zelle.
+These launches impacted well over 200,000 consumers and small businesses and by all accounts went smoothly.
+This is a very solid quarter for us.
+Core earnings per share matched last quarter's results even with $6.9 million of reserve build.
+And we hit consensus estimates even without any PPP forgiveness.
+This is a significant point that's easy to overlook.
+While our provision expense of $11.2 million came remarkably close to the consensus expectation of $11.1 million, our spread income came in roughly $3.5 million lower than consensus expectations and yet we still hit consensus.
+To be completely fair, this differential in spread income is likely the result of our own previous guidance that PPP forgiveness would take place in the third and fourth quarter of this year, and as such, it would have been perfectly reasonable to expect third quarter net interest income to benefit from the acceleration of PPP premium amortization.
+In reality, we had no such PPP forgiveness income in the third quarter.
+Instead, strong fee income made up for the lack of PPP forgiveness income.
+At this point, we do not expect any significant PPP forgiveness until the first and second quarter of next year.
+Our core earnings figures excluded two non-recurring expense items from our results; $3.3 million of expense associated with a voluntary early retirement program and $2.5 million of expense associated with the branch consolidation effort, both of which have been previously disclosed.
+These efforts combined with other expense initiatives are expected to help keep non-interest expense flat in 2021, not only by allowing us to continue the reduction in total salary expense that we have benefited from in 2020, due to our hiring freeze, but also by absorbing increases in other expenses as we return to a more normal operating environment.
+Brian will provide commentary in a moment on credit, but I'd like to provide a little more color on a few things before turning it over to Brian.
+First, our stated NIM was 3.11%, but was affected by negative replacement yields; a shift in mix toward consumer loans; and most importantly, an average excess cash position during the quarter of approximately $343.3 million or about 4% of average earning assets.
+Consistent with prior disclosure, we calculate a core NIM, excluding the impact of PPP loans and excess liquidity of 3.28% in Q3.
+The NIM should benefit in the near term from time deposit and other deposit repricing as well as some balance sheet management efforts designed to move excess customer funds off balance sheet, thereby reducing excess cash.
+These efforts are expected to help offset negative replacement yields and keep the core NIM relatively stable in the near-term.
+Over the course of next year, however, we currently expect the core NIM, ex-PPP to continue a path of modest contraction in the 3.20% to 3.30% range.
+Second, Mike mentioned that our fee income of $26.9 million was very strong in Q3, up by nearly $5 million from last quarter.
+Because much of this was driven by mortgage, fee income is expected to seasonally adjust to approximately $24 million to $25 million in the fourth quarter.
+And finally, I know Mike already mentioned this, but if you look at Page 10 of the supplement, you will see graphically what we have verbally explained in prior quarters, that even though we delayed the adoption of CECL, the addition of our day one CECL number to our current incurred ALLL results in a reserve of $101.2 million and a reserve coverage ratio of 1.59%.
+I can add that reserve figure is not materially different from our internal parallel CECL runs as of September 30th.
+So even though facts and circumstances may change before we adopt CECL next quarter, not the least of which is the economic forecast, our cumulative reserve building in 2020 under the incurred model has left us in a very good position ahead of CECL adoption next quarter.
+It's good to be with you again.
+As outlined in our investor deck, credit quality was solid for the third quarter in spite of the uncertain economic environment.
+As expected, delinquencies ticked up modestly due to the run-off of stimulus and the reduction in payment release.
+We are cautiously optimistic by the improvement in unemployment and the reopening of the economies in Western Pennsylvania and Ohio.
+We continue to be watchful of our deferral roll off reports to evaluate our borrowers as they resume full payment status.
+Net charge-offs for Q3 were $4.3 million, which includes approximately $1.2 million in consumer charge-offs.
+Net charge-offs annualized were 0.27%.
+Our NPLs improved approximately $6.3 million to $49.7 million, improving to 0.78% from 0.88% of total loans excluding PPP loans.
+This is the second consecutive quarter for us to report an improvement in NPLs.
+Reserve coverage of NPLs rose to 177% from 145%, again excluding PPP loans.
+Similarly, our NPAs improved $6.7 million to 0.80% of total loan assets from 0.91%.
+We've conducted yet another loan-by-loan review of the higher risk portfolios and adjusted risk ratings as appropriate.
+Our proactive approach to risk ratings resulted in criticized loans increasing approximately $60 million, while classified loans increased modestly.
+These trends form the backdrop of our approach for loan loss reserve in the third quarter.
+As shown in the slide deck, the provision for the quarter totaled $11.2 million, which resulted in a reserve build of $6.9 million under our incurred loss model.
+The allowance for loan loss as of September 30th totaled $88.3 million as compared to $81.4 million at June 30th.
+The reserve balance grew to 1.38% excluding PPP loans from 1.28%.
+Let me offer some color related to the reserve build for the quarter.
+Net charge-offs were $4.3 million.
+We have a slight increase in specific reserves of approximately $500,000.
+Our standard qualitative reserves increased approximately $900,000 quarter-over-quarter, reflecting a mix of economic conditions.
+Our COVID qualitative overlying reserve increased by $4.7 million for Q3 to $14.6 million.
+We released approximately $1.9 million in consumer reserves due to improving deferral experience as well as improved economic conditions.
+We increased our high-risk portfolio reserves by approximately $6.6 million, largely due to increases in the overlay reserves for our hospitality and retail portfolios.
+And operator, we'll now take questions.

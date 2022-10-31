@@ -1,0 +1,167 @@
+During today's call, we will discuss some non-GAAP measures.
+We believe these statements are based on reasonable assumptions.
+However, our actual results may differ.
+On this, our first call for calendar year 2021, we are happy to see the steady growth of production, distribution, and availability of vaccines around the world.
+Clearly, we all want to see faster production and wider distribution so that people can be safe from COVID-19 and free to open up their communities, and free to get back to their lives.
+We continue our work here at ResMed to support frontline respiratory therapists and pulmonary physicians, critical care physicians, as well as providers, patients, and ResMedians around the 140-plus countries that we operate in.
+In our core markets, the patient diagnosis trends in sleep apnea, COPD, and asthma are steadily increasing, modestly improving on the trends we saw in the September 2020 quarter.
+We're seeing this improvement of patient flow even as second and third waves come through Northern Winter Hemisphere nations because physicians and providers are adopting digital health, which enables patient engagement, even when people cannot or do not want to meet live and in person.
+In my remarks today, I will provide a high-level overview of our December Q2 FY '21 business results and then hand the call over to Brett for further detail on the financials.
+I will also review progress toward our ResMed 2025 strategic goals, including execution highlights against our quarterly and annual operating priorities.
+Today, we have published and reported solid high single-digit growth in top-line revenue and strong double-digit growth in both net operating profit, as well as earnings per share.
+These results once again speak to our ResMed team's ability to work innovatively and deliver results even when facing lower patient activity and little to no incremental benefit from ventilator sales.
+During the second quarter of fiscal-year 2021, we generated over $170 million of cash, allowing us to return over $57 million in dividends to shareholders.
+We have also grown research and development investments in digital health technology, as well as hardware, software, and clinical research.
+We forecast increasing digital health demand from patients, from physicians, from providers, and from healthcare systems as they embrace remote patient monitoring, and they adopt data-driven population health management systems.
+We have an exciting pipeline of innovative solutions that will generate both medium and long-term value for our customers, with an industry-leading IP portfolio, including over the 6,000 patents and designs.
+Our digital health ecosystem is an important competitive advantage for ResMed that offers integrated care to drive superior clinical outcomes, to drive better patient experiences, and to drive lower healthcare system costs.
+We now have over 8 billion nights of respiratory medical data in our cloud-based Air Solutions Platform.
+We have sold over 13.5 million 100% cloud connectable medical devices into the market from ResMed, and we have over 15 million patients enrolled in our AirView Solutions in the cloud.
+With these data liberated to the cloud, we can unlock value for all of our customer groups.
+We can unlock value for patients through myAir, we can unlock value for physicians through AirView and we can unlock value for IDNs, payer providers, as well as private and government insurers for data-driven population health management.
+That's the future of healthcare.
+The goals we share with all of our customers are these three: one, to improve patient outcomes, patient quality of life, patient chronic disease outcomes; two, to lower overall healthcare system costs; and three, to bend the curve of chronic disease progression.
+To be clear, the spectrum of chronic diseases that we look out here at ResMed are, of course, including our core focus areas of sleep apnea, COPD, and asthma, but it also includes biological systems interaction with cardiovascular disease, with cancer, with type 2 diabetes, with neuromuscular disease, Alzheimer's and beyond.
+During our last earnings call, I discussed how COVID has continued to accelerate the rapid adoption of digital health technology around the world.
+We are seeing the recognition of the value of remote patient screening, virtual diagnosis, remote patient management, and a rapid evolution of digital reimbursement models in many of the nations that we serve patients.
+As an example of just one of these, Germany, during the quarter, approved reimbursement for mandibular repositioning device, including our digital 3D printed dental sleep apnea, product called Narval.
+This is the first time Germany has approved such a product type to treat sleep apnea.
+In addition, several German states are looking at and experimenting with digital health reimbursement models.
+These are exciting developments, and we expect this will benefit our German business over time.
+We have also seen other national governments, including France, Japan, and the United States where they've adopted models and taken action to accelerate digital health adoption.
+Remote healthcare is of incredible importance during this COVID-19 pandemic, but digital health is also valuable well beyond the impact of COVID because it provides better availability of healthcare, it provides excellent quality care for patients, and it provides significantly lower costs for healthcare systems worldwide.
+These trends are key to ResMed's 2025 strategy.
+We believe the accelerated adoption of digital health solutions represents a significant and permanent shift of the adoption curve for ResMed's market-leading digital health solutions.
+Let me now briefly update you on our top three strategic priorities.
+These three priorities are, one, to grow and differentiate our core sleep apnea, COPD, and asthma businesses; two, to design, develop and deliver world-leading medical devices, as well as globally scalable digital health solutions; and three, to innovate and grow the world's best software solutions for care delivered outside the hospital and especially in the home.
+In our core market of sleep apnea, we continue to see sequential improvement in new patient diagnosis trends, as well as very strong resupply activity, both of which have supported another quarter of solid revenue growth that you can see in the numbers we just released.
+We're seeing 70% to 90% of the pre-COVID patient flow coming through our biggest market in the United States, and to take an example of a European country, in Germany, we're already back to 85% to 90-plus percent in some states of Germany of pre-COVID patient flow.
+Even in countries like China, in our large Asia region, where we saw the sharpest declines at the start of this crisis with very severe lockdowns in Asia and particularly in China, we're now back to already seeing around 70-plus percent, 70% to 75% of pre-COVID patient flow coming through the mainly hospital clinics in our China market.
+Obviously, the recovery rates of new patients starting sleep apnea therapy may be impacted by the typical seasonality we see in our largest market here in the United States in the March quarter as a result of insurance deductibles resetting at the start of the calendar year.
+This is as per normal.
+This seasonal impact affects devices more than it affects mask systems given the relative price points of the two categories and the fact that the vast majority of mask revenue is returning customers on resupply programs.
+The resiliency of our mask and accessory resupply has been strong throughout the COVID-19 pandemic, and we see it as remaining strong through the rotary and strong in a post-COVID peak world.
+We continue to produce clinical research showing that diagnosing and treating sleep apnea saves money and improves quality of life for patients.
+This quarter, we are now showing data that treating sleep apnea is actually a life and death decision.
+The latest data from the European Respiratory Journal, which published during the quarter results from a 30-year study.
+The high-level summary of these results were that treating sleep apnea increases patient quality of life and extends quantity of life.
+It also showed the converse side in that not treating sleep apnea leads to a significantly higher incidence of heart attack, type 2 diabetes, and ischemic heart disease, leading to significantly higher healthcare costs treating those diseases and ultimately leading to earlier death.
+Let me now turn from sleep apnea to a discussion of our respiratory care business, focusing on our strategy to better serve COPD and asthma patients worldwide.
+Our goal is to reach more patients in our core respiratory care markets, including non-invasive ventilation, as well as life support ventilation, as well as newer areas, including pharmaceutical drug delivery and high flow therapy.
+We make the smallest, quietest, and most comfortable devices on the market and they are all 100% cloud connectable.
+We continue to see rapid adoption of the AirView for ventilation software solution that we launched in Europe in the midst of the peak of the COVID-19 crisis there about nine months ago.
+We accelerated the time-to-market to meet the needs of physicians and patients during the COVID peak and it's proved to be very useful during the peak and beyond the peak.
+The value being provided through this platform has helped healthcare systems in the markets they're operating in.
+In short, we are making digital health part of the standard of care for respiratory care, not just in Europe but worldwide.
+During the quarter, we decided to exit the portable oxygen market and shut down our concentrator business in that category.
+We entered the POC market in 2016 as a way to engage with Stage 2 and Stage 3 COPD patients.
+Since then, in these last five years, we have acquired Propeller, giving us access to COPD patients even earlier in their COPD disease progression, including Stage 1 and Stage 2 COPD patients.
+Additionally and especially during COVID, we've seen more rapid adoption of high flow therapy that can support some COPD patients.
+And of course, we have our core noninvasive ventilation and life support ventilation solutions for more severe COPD patients in markets globally already.
+In short, we don't need POCs to help in our end-to-end digital health pathway for COPD.
+government and the economics of our customer acquisition cost versus lifetime value, the POC market itself is not as attractive as it was five years ago.
+The bottom line is this.
+We have pharmaceutical drug delivery management through Propeller to support COPD patients in Stage 1 and Stage 2 COPD, we have the emergence of high flow therapy for Stage 2 and Stage 3 COPD and we have growing use of noninvasive ventilation and life support ventilation to support patients in Stage 3 and Stage 4 COPD.
+So in summary, we are very well-positioned to help patients, physicians, providers, and payers with an end-to-end digital health management pathway for COPD.
+Let me now review our Software as a Service business.
+During the quarter, our SaaS business grew in the mid-single digits year on year, driven by a continued strong uptake of our Brightree HME resupply solutions.
+The impact of COVID on surgical procedures and other in-hospital and out-of-hospital visits has impacted discharge rates that particularly affect the census at skilled nursing facilities and hospice.
+On the other hand, the flow of patients in home medical equipment and home health has been recovering well, even stronger.
+So as we look across our portfolio of out-of-hospital care settings, including home medical equipment, skilled nursing facilities, home health and hospice, life plan communities, private duty home care, and senior living, we expect that the weighted average market growth rate of these verticals will be in the low to mid-single-digit range for fiscal 2021.
+We expect this weighted average market growth rate portfolio to return to mid-single digits and then to high single digits as hospital discharge and ambulatory surgery center discharge rates return.
+Our offerings are very well received in each of the verticals that we serve.
+So we will not just accept these market growth rates, we will look to meet and beat that group market growth rate as we did this quarter, getting a return from our significant investments in R&D within Brightree and MatrixCare.
+And through expansion of our partnerships with hospital-based electronic health record providers.
+Brightree continues to innovate to drive resupply growth.
+Of particular note, the integration and scaling of the Snap technology is going very well.
+This has allowed our home medical equipment customers to expand their resupply programs and support more patients with better engagement at a time during the COVID pandemic when they desperately need new innovation, both the providers and the patients.
+MatrixCare has also introduced new technology.
+We introduced new voice to text technology at the point of care, which helps address caregiver shortages, which are right during COVID by enabling better and more efficient workflows for the customer, while also delivering a better experience for the ultimate customer who's the patient.
+Our expanded relationship with Cerner is progressing very well.
+We are now Cerner's preferred solution across home health and hospice, as well as home medical equipment and their pharmacy and infusion businesses.
+Our increasingly important relationship with Cerner is leading to better interoperability for providers, our mutual customers, and an improved experience for patients.
+We anticipate opportunities to deepen and expand this collaboration to sleep apnea and COPD disease management with these partners over time.
+Clearly, 2020 was an unprecedented year for companies across every industry, and there was much suffering around the world.
+However, we see some blessings during all that suffering.
+Importantly, we here at ResMed, we were able to be there during the emergency.
+We were able to pivot our whole team and our HOT business to provide over 150,000 ventilators during the peak needs of the pandemic and get them to where they needed based upon a humanitarian epidemiology model.
+Additionally, COVID has highlighted the importance of respiratory health.
+COVID generally kills people through acute respiratory distress syndrome.
+And it's awful, but that has raised the awareness of respiratory hygiene, respiratory health, and the field of respiratory medicine.
+The crisis also showed us the importance of digital health and has accelerated the awareness and adoption of technologies that can be used for remote patient screening, remote patient diagnosis, remote patients set up, as well as remote patient monitoring and management.
+We have seen this crisis drive the importance of healthcare delivered outside the hospital.
+And that's where ResMed competes for more than 90% of our business.
+And it's where we add value to customers and where we win.
+We have seen an ability to bring digital technology that we've been inventing and developing for over a decade, digital screening, digital diagnostics, digital therapeutics, and digital health management of patients.
+With over 1.5 billion people worldwide suffering from sleep apnea, COPD, and asthma combined, we see incredible opportunities for greater and greater adoption of these scalable technologies.
+We are poised to continue relentless innovation and development, as well as to provide the global scale that's needed to drive this technology to the 140 countries that we operate in and beyond.
+Before I hand the call over to Brett for his remarks, and then we get to the Q&A, I want to once again express my sincere genuine gratitude to the more than 7,500 ResMedians, whose perseverance, hard work, and dedication during the incredibly challenging circumstances of 2020 allowed our partners in healthcare to save the lives of many hundreds of thousands of people around the world with emergency need for ventilation, literally given the gift of breath and the gift of life to many during COVID.
+With that, I will hand the call over to Brett in Sydney, and then we'll move to Q&A.
+My remarks today, I will provide an overview of our results for the second quarter of fiscal-year 2021 and some remarks on our FY '21 second-half outlook.
+Unless noted, all comparisons are to the prior-year quarter.
+As Mick noted, we had a strong quarter.
+Group revenue for the December quarter was $800 million, an increase of 9% over the prior-year quarter.
+In constant-currency terms, revenue increased by 7%.
+Consistent with our prediction during the Q1 earnings call, we derived minimal incremental revenue from COVID-19 related demand in the December quarter.
+Taking a closer look at our geographic distribution and excluding revenue from our Software as a Service business, our sales in U.S., Canada, and Latin America countries were $427 million, an increase of 5%.
+Sales in Europe, Asia, and other markets totaled $281 million, an increase of 17%, growing constant-currency terms an increase of 10%.
+By product segment, U.S., Canada, and Latin America device sales were $205 million, an increase of 1%.
+Masks and other sales were $222 million, an increase of 8%.
+In Europe, Asia, and other markets, device sales totaled $188 million, an increase of 16% or in constant-currency terms, a 10% increase.
+Masks and other sales in Europe, Asia, and other markets were $93 million, an increase of 18% or in constant-currency terms, an increase of 12%.
+Globally, in constant-currency terms, device sales increased by 5%, while masks and other sales increased by 9%.
+Software as a Service revenue for the second quarter was $92 million, an increase of 6%.
+On a non-GAAP basis, SaaS revenue increased by 5%.
+During my commentary today, I will be referring to non-GAAP numbers.
+The non-GAAP measures adjust for the impact of amortization of acquired intangibles, restructuring expenses, the purchase accounting fair value adjustment to MatrixCare deferred revenue, litigation settlement expenses, and the fair value adjustment of equity investments.
+Our non-GAAP gross margin improved by 20 basis points to 59.9% in the December quarter compared to 59.7% in the same quarter last year.
+The increase is predominantly attributable to manufacturing efficiencies, favorable product mix changes, and foreign exchange rates, partially offset by declines in average selling prices.
+Moving on to operating expenses.
+Our SG&A expenses for the second quarter were $169 million, a decrease of 1% or in constant-currency terms, SG&A expenses decreased by 3%.
+SG&A expenses as a percentage of revenue improved to 21.2% compared to the 23.3% we reported in the prior-year quarter.
+Benefiting from cost management and reduced travel as a result of COVID-19 restrictions.
+Looking forward, we expect SG&A expenses in the second half of FY '21 to increase in the low single digits relative to the prior-year period.
+R&D expenses for the quarter were $55 million, an increase of 10% or on a constant-currency basis, an increase of 7%.
+R&D expenses as a percentage of revenue was 6.9% compared to 6.8% in the prior year.
+We continue to prioritize our investments in innovation because we believe our long-term commitment to technology, product, and solution development will deliver sustained competitive advantage.
+Looking forward, we expect R&D expenses to continue to grow year over year in the high single digits, reflecting this commitment to innovation.
+Total amortization of acquired intangibles was $19 million for the quarter and stock-based compensation expense for the quarter was $15 million.
+Non-GAAP operating profit for the quarter was $254 million, an increase of 16%, reflecting strong top-line growth, expansion of gross margins, and well-contained operating expenses.
+On a GAAP basis, our effective tax rate for the December quarter was 14.8%, while on a non-GAAP basis, our effective tax rate for the quarter was 15.2%.
+We continue to expect our effective tax rate for the full fiscal-year 2021 will be in the range of 17% to 19%.
+Non-GAAP net income for the quarter was $206 million, an increase of 17%.
+Non-GAAP diluted earnings per share for the quarter were $1.41, also a 17% increase.
+Our GAAP diluted earnings per share for the quarter were $1.23.
+During the December quarter, we closed our portable oxygen concentrator business.
+We recognized that restructuring expenses of $13.9 million associated with the closure.
+Going forward, the cessation of our POC business will have an immaterial impact on both group revenue and earnings per share.
+We do not expect to incur additional expenses in connection with this activity in the future, and we have adjusted for this one-time expense within our non-GAAP results for the quarter.
+Cash flow from operations for the quarter was $170 million, reflecting robust underlying earnings, partially offset by increases in working capital.
+Capital expenditure for the quarter was $35 million.
+Depreciation and amortization for the December quarter totaled $41 million.
+During the quarter, we paid dividend of $57 million.
+We recorded equity losses of $2.6 million in our income statement in the December quarter associated with the Verily joint venture.
+We expect to record equity losses of approximately $5 million per quarter in the second half of FY '21 associated with the joint venture operations.
+We ended the second quarter with a cash balance of $256 million.
+At December 31, we had $826 million in gross debt and $570 million in net debt.
+Our debt levels remain modest.
+At December 31, we had a further $1.4 billion available for drawdown under our existing revolver facility.
+Our board of directors today declared a quarterly dividend of $0.39 per share, reflecting the board's confidence in our strong liquidity position and operating performance.
+Our solid cash flow and liquidity provide flexibility in how we allocate capital.
+We have focused on paying down debt, as well as ensuring we have cash reserves to support the company through the uncertainty caused by the ongoing pandemic.
+Going forward, we plan to continue to reinvest for growth through R&D.
+We will also likely deploy capital for tuck-in acquisitions, such as Snap, which was completed during the third quarter of fiscal-year 2020.
+We intend to continue returning cash to shareholders through our dividend program, and we may also resume our share buyback program sometime during the calendar year.
+This program having been on par since our acquisitions of MatrixCare and Propeller Health in fiscal-year 2019.
+Turning now to our FY '21 outlook.
+At a high level, we are seeing negligible COVID-19 generated demand for our ventilators and do not expect any incremental benefit in the second half of FY '21.
+Note, as a reminder, we recorded $35 million in COVID-generated ventilator revenue in our March quarter last year and $125 million in COVID-generated ventilator revenue in our June quarter last year.
+Mask and accessories have continued to demonstrate resilience and growth over the past three months, reflecting the insulating value of the large patient installed base and the success of our resupply service offerings.
+We expect to see continued year-on-year growth of our mask sales in the second half of FY '21.
+Notwithstanding continued COVID-19 challenges, we continue to expect a sequential increase in new sleep patients, which should support our device sales as we move through the second half of FY '21.
+However, we typically experience a small seasonal sequential decline in revenue from Q2 to Q3, largely attributable to the reset of deductibles in health insurance plans in our U.S. market.
+We expect this trend will also be apparent in FY '21.
+Of course, like many other companies, we continue to experience significant uncertainty in the current environment, including the potential disruptive impacts of ongoing restrictions imposed in many of the countries we operate in.
+As a result, our forecast and possible future revenue outcomes remain dynamic.
+And with that, I will hand the call back to Amy.
+Chantel, let's now go ahead and turn to the Q&A portion of the call.

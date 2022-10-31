@@ -1,0 +1,135 @@
+Today, we will review the fourth quarter and full year results of 2020.
+With me on the phone today are Norman Schwartz, our Chief Executive Officer; Ilan Daskal, Executive Vice President and Chief Financial Officer; Andy Last, Executive Vice President and Chief Operating Officer; Annette Tumolo, President of the Life Science group; and Dara Wright, President of the Clinical Diagnostics group.
+Our actual results may differ materially from these plans and expectations and the impact and duration of the COVID-19 pandemic is unknown.
+We cannot be certain that Bio-Rad's responses to the pandemic will be successful, that the demand for Bio-Rad's COVID-19 related products is sustainable or that Bio-Rad will be able to meet this demand.
+Our remarks today will also include references to non-GAAP net income and non-GAAP diluted income per share, which are financial measures that are not defined under generally accepted accounting principles.
+Now before I begin the detailed fourth quarter and full year discussion, I would like to ask Andy Last, our Chief Operating Officer, to provide an update on Bio-Rad's operations in light of the current pandemic-related environment that we are experiencing globally.
+I'd just like to take a few minutes to review our current state of operations around the world.
+As an opening comment, I would like to recognize the tremendous contributions and flexibility of our employees around the world during 2020.
+Their response to the shifting needs of operating in a pandemic have been truly exemplary.
+So at the onset of the pandemic, we set ourselves three key areas of focus to manage through this challenging period, which we continue with into 2021.
+As a quick reminder, these are; the ongoing safety of our employees, continuing manufacturing operations to ensure product supply and support of our customers, and making sure we continue to make progress on our cost strategies.
+As we close out 2020 and entered into 2021, we've now achieved a steady state for operating in the pandemic reflecting employee safety, work from home and adoption of company and local policy and practices.
+Overall, we have experienced minimal internal transmission of COVID across the company and where we have suspected cases, have found the internal testing of employees in the U.S., using our droplet digital PCR platform, to be very valuable in maximizing productivity.
+As we enter 2021, we are well positioned to meet market and customer demands driven by the pandemic and our manufacturing sites, and R&D is operating effectively.
+In addition, our commercial organization has deployed digital tools where appropriate to minimize onsite visits to only the essentials required to keep customers up and running on our platforms.
+So with that brief overview, I will pass it back to Ilan.
+And now would like to review the fourth quarter and full year results for 2020.
+Net sales for the fourth quarter of 2020 were $789.8 million, which is a 26.5% increase on a reported basis, versus $624.4 million in Q4 of 2019.
+On a currency neutral basis, sales increased 24.4%.
+The fourth quarter sales included $32 million of damages award related to intellectual property litigation with 10x Genomics, covering the period between 2015 and 2018.
+Excluding the $32 million, the fourth quarter year-over-year currency neutral revenue growth was 19.4%.
+The fourth quarter year-over-year revenue growth also benefited from an easy compare of about $10 million revenue carryover to Q1 of 2020, related to the December 2019 cyberattack.
+On a geographic basis, we experienced currency neutral growth across all three regions.
+We saw strong demand for products associated with COVID-19 testing and related research.
+Generally, we are seeing most academic and diagnostic labs now running between 70% and 90% capacity, which is similar to what we saw in Q3.
+We estimate that COVID-19 related sales were about $132 million in the quarter.
+Sales of Life Science group in the fourth quarter of 2020 were $428.5 million, compared to $242 million in Q4 of 2019, which is a 77.1% increase on a reported basis and a 73.9% increase on a currency neutral basis, and it was driven by our PCR product lines, as well as strong performance in the biopharma segment.
+The fourth quarter revenue also included a $32 million damages award related to intellectual property litigation.
+Excluding that $32 million damages award, the currency neutral revenue growth was 60.9%.
+The year-over-year growth in the fourth quarter was across all of the Life Science key product areas.
+Process media which can fluctuate on a quarterly basis so strong double-digit year-over-year growth in the quarter, over the same quarter last year.
+Excluding process media sales and the $32 million damages award, the underlying Life Science business grew 64.6% on a currency neutral basis versus Q4 of 2019.
+Growth in the overall Life Science segment was offset by continued softness in academic research demand, as these labs around the globe are still operating below capacity.
+However, we believe that some of the demand was associated with larger than normal end of year budget release.
+On a geographic basis, Life Science currency neutral year-over-year sales grew across all regions.
+Last month, the FDA granted an EUA for our COVID qPCR assay kit, which runs on Bio-Rad's existing CFX PCR platforms, as well as qPCR systems from other providers.
+The assay kit is a multiplex test that targets two separate regions in the viral genome, to ensure greater sensitivity and tolerance to potential mutations.
+In addition, earlier today, we received an EUA approval from the FDA for COVID FluA and FluB qPCR syndromic multiplex test.
+These tests, which allows discrimination between each of these three different viruses, also runs on Bio-Rad's CFX PCR platforms, as well as qPCR systems from other providers.
+Sales of Clinical Diagnostics products in the fourth quarter were $359.6 million compared to $379 million in Q4 of 2019, which is a 5.1% decline on a reported basis and a 6.6% decline on a currency neutral basis.
+During the fourth quarter strength in our quality controls products was offset by weakness across the rest of the diagnostics portfolio.
+Resurgence of COVID cases during the fourth quarter, the impact of the recovery of routine testing trends and the elective surgeries.
+On a geographic basis, the Diagnostics group was relatively flat in the Americas, but posted declines in the other regions.
+The reported gross margin for the fourth quarter of 2020 was 58.3% on a GAAP basis and compares to 52.9% in Q4 of 2019.
+The current quarter gross margin benefited mainly from better product mix, lower service costs, higher manufacturing utilization, as well as $23 million [Phonetic] gross margin benefit, associated with the 10X Genomics damages award.
+Amortization related to prior acquisitions, recorded in cost of goods sold was $4.6 million compared to $4.5 million in Q4 of 2019.
+SG&A expenses for Q4 of 2020 were $219.1 million or 27.7% of sales compared to $214.2 million, or 34.3% in Q4 of 2019.
+The year-over-year SG&A expenses benefited from ongoing cost savings initiatives and lower discretionary expenses, and was offset somewhat by higher employee-related expenses.
+Total amortization expense related to acquisitions recorded in SG&A for the quarter was $2.4 million versus $2.1 million in Q4 of 2019.
+Research and Development expense in Q4 was $65.8 million or 8.3% of sales compared to $57.1 million, or 9.1% of sales in Q4 of 2019.
+Q4 operating income was $175.2 million or 22.2% of sales, compared to $59.2 million or 9.5% of sales in Q4 of 2019.
+Looking below the operating line, the change in fair market value of equity securities holdings added $904 million of income to the reported results and this is substantially related to holdings of the shares of Sartorius AG.
+During the quarter, interest in other income resulted in a net expense of $1 million compared to $5.8 million of expense last year.
+Our GAAP effective tax rate for the fourth quarter of 2020 was 22.2% compared to 20.9% for the same period in 2019.
+Our GAAP tax rate in 2020 and 2019 were affected by the large unrealized gains in equity securities.
+In addition, the 2019 tax rate included a discrete benefit, which allowed us to apply higher foreign tax credits.
+Reported net income for the fourth quarter was $839.1 million, and diluted earnings per share were $27.81.
+This is an increase from last year and is again substantially related to changes in the valuation of the Sartorius Holdings.
+Moving on to the fourth quarter non-GAAP results.
+Looking at the results on a non-GAAP basis, we have excluded certain atypical and unique items that impacted both the gross and operating margins, as well as other income.
+Looking at the non-GAAP results for the fourth quarter.
+In sales, we have excluded the $32 million damages award.
+In cost of goods sold, we have excluded $8.7 million IP-license costs associated with the damages award.
+$4.6 million of amortization of purchased intangibles, and a small restructuring benefit.
+These exclusions moved the gross margin for the fourth quarter of 2020 to a non-GAAP gross margin of 58.2% versus 54.1% in Q4 of 2019.
+Non-GAAP SG&A in the fourth quarter of 2020 was 28.2% versus 31.7% in Q4 of 2019.
+In SG&A on a non-GAAP basis, we have excluded amortization of purchase intangibles of $2.4 million, legal related expenses of $6.3 million and restructuring and acquisition-related benefits of $3.1 million.
+Non-GAAP R&D expense in the fourth quarter of 2020 was 8.7% versus 8.2% in Q4 of 2019.
+In R&D, on an non-GAAP basis, we have excluded a small restructuring benefits.
+The cumulative sum of these non-GAAP adjustments result in moving the quarterly operating margin from 22.2% on a GAAP basis to 21.4% on a non-GAAP basis.
+These non-GAAP operating margin compares to a non-GAAP operating margin in Q4 of 2019 of 14.3%.
+We have also excluded certain items below the operating line, which are the increase in value of the Sartorius equity holdings of $904.3 million, $2.1 million associated with venture investments and $3 million of interest income, associated with the 10X damages award.
+Our non-GAAP effective tax rate for the fourth quarter of 2020 was 24.3% compared to 17.7% in 2019.
+The non-GAAP tax rate for the fourth quarter of 2019 was lower compared to 2020, due to a discrete benefit, which enabled us to apply higher foreign tax credits.
+And finally, non-GAAP net income for the fourth quarter of 2020 was $121 million or $4.01 diluted earnings per share, compared to $70 million and $2.32 per share in Q4 of 2019.
+Moving on to the full year results, net sales for the full year of 2020 were $2.546 billion on a reported basis, excluding the 10X damages award of $32 million, sales were $2.514 billion which is 8.9% growth on a currency neutral basis.
+We estimate that COVID-19 related sales were about $313 million.
+Sales of Life Science group for 2020 were $1.23108 billion.
+Excluding the 10X damages award of $32 million, the year-over-year growth was 35% on a currency neutral basis.
+The majority of the year-over-year growth was driven by our four PCR products, droplet digital PCR and process media.
+On a geographic basis, Life Science currency neutral full year-over-year sales grew across all three regions.
+Sales of Clinical Diagnostics products for 2020 were $1.305 billion which is down 7.1% on a currency neutral basis.
+On a full year basis, clinical labs have seen a significant negative impact of the pandemic, which was slightly offset by growth within quality controls.
+On a geographic basis Clinical Diagnostics full year-over-year sales, saw declines across all regions.
+The full year non-GAAP gross margin was 56.9% compared to 55% in 2019.
+The year-over-year margin increase was driven mainly by product mix and manufacturing efficiencies, which was somewhat offset by higher logistics costs.
+Full year non-GAAP SG&A was 30.9% compared to 34.4% in 2019.
+The lower SG&A was driven by our ongoing cost savings initiatives and lower discretionary expenses, offset somewhat by higher employee related expenses.
+Full year non-GAAP R&D was 9.1% versus 8.5% in 2019 and full year non-GAAP operating income was 17% compared to 12% in 2019.
+Lastly, the non-GAAP effective tax rate for the full year of 2020 was 24%, compared to 24.1% in 2019.
+The non-GAAP effective tax rate for 2020 was consistent with our guidance of 24%.
+Moving on to the balance sheet; total cash and short-term investments at the end of 2020 was $997 million, compared to $1.120 billion at the end of 2019 and $1.160 billion at the end of the third quarter of 2020.
+In December, we repaid the $425 million of outstanding senior notes.
+Year-end inventory decreased by about $18 million from the third quarter of 2020.
+The decrease in inventory was driven by higher demand for COVID-19 related products.
+During the fourth quarter, we did not purchase any shares of our stock.
+We have a total of $273 million available for potential share buybacks.
+Full year share buybacks was about 292,000 shares for $100 million.
+In 2019, we purchased about 88,000 shares of our stock for $28 million.
+For the fourth quarter of 2020, net cash generated from operating activities was $284.7 million, which compares to $159.8 million in Q4 of 2019.
+For the full year of 2020, net cash generated from operations was $575.3 million versus $457.9 million in 2019.
+The adjusted EBITDA for the fourth quarter of 2020 was 25.2% of sales.
+The adjusted EBITDA in Q4 of 2019 was 18.7%.
+Full year adjusted EBITDA, included the Sartorius dividend, was $546.4 million or about 21.7% compared to 17.5% in 2019.
+Net capital expenditures for the fourth quarter of 2020 were $39.2 million and full year capex spend was $98.9 million.
+Depreciation and amortization for the fourth quarter was $36.2 million and $138.1 million for the full year.
+In December, we communicated our long range plan.
+We project revenues to grow to an overall range of $2.75 billion and $2.85 billion by the end of 2023.
+This growth will be driven by droplet digital PCR, single cell applications, Clinical Diagnostics, bio production and increasing growth in biopharma customers.
+We expect non-GAAP gross margin in 2023 to land in a range of 57% to 57.5%.
+We expect this positive increase to come from footprint optimization and better capacity utilization.
+Adjusted EBITDA margin should be in the range of 23% and 24%, based on top-line growth, productivity improvements, and SG&A leverage.
+Last week, we initiated a strategy driven restructuring plan, to improve operating performance as part of our 2023 goals.
+The restructuring plan primarily impacts our operations in Europe, and includes the elimination of certain positions, the consolidation of certain functions, and the relocation of certain manufacturing operations from Europe to Asia.
+The restructuring plan is expected to eliminate a total of approximately 530 positions, approximately 200 positions in manufacturing, and 330 positions across our SG&A and R&D functions.
+And subsequently creation of a total of about 325 new positions, approximately 100 new positions in manufacturing and 225 new positions across SG&A and R&D functions.
+The restructuring plan will be implemented in phases over the next two years.
+As a result of this restructuring plan, we expect to incur between approximately $125 million and $130 million in total costs, which we anticipate will consist of approximately $86 million cash expenditures, in the form of one-time termination benefits to the affected employees.
+Approximately $19 million in capital expenses associated with the restructuring plan, and about $20 million to $25 million in one-time transaction cost.
+We anticipate about $80 million to $90 million of restructuring charges related to this restructuring plan will be recorded in the first quarter of 2021, with the balance recorded by the end of 2022.
+Moving on to the non-GAAP guidance for 2021.
+While we are pleased with the overall performance in 2020, we continue to be uncertain about the duration and impact of the COVID-19 pandemic, although we assume a gradual return to pre-pandemic activity levels and normalized business mix.
+We are guiding a currency neutral revenue growth in 2021 to be between 4.5% and 5%.
+We estimate about 10% to 11% revenue growth for the Diagnostics group.
+The Life Science group year-over-year revenue is expected to be about flat, as we projected COVID-related sales in 2021 to be about half versus 2020.
+We continue to assume that we will experience quarterly revenue fluctuations for process media, although we estimate an overall double-digit growth for the full year.
+Full year non-GAAP gross margin is projected between 56.2% and 56.5%, and full year non-GAAP operating margin to be between 16% and 16.5%.
+We estimate the non-GAAP full year tax rate to be between 24% and 25%.
+Capex is projected between $120 million and $130 million and full year adjusted EBITDA margin of about 21%.
+I don't really have a lot to add.
+I do think companies would say that that 2020 is certainly one for the history books.
+As I think back on the year and I think as Andy alluded to in the beginning, it was certainly an all-out effort this last year, to manage a myriad of challenges and not to lose sight of where we're headed in the longer term.
+I think as well -- as Ilan, pointed out, the COVID-related revenues are expected to moderate in 2021.
+But I do feel that there is still a big question of when the pandemic will come under control.
+So in the meantime, we'll continue to work on our core initiatives to allow us to make progress over the next few years and certainly we appreciate your continued interest in Bio-Rad.
