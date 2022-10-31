@@ -1,0 +1,194 @@
+We caution you that such statements reflect our best judgment based on factors currently known to us and that the actual events or results could differ materially.
+These non-GAAP financial measures were not prepared in accordance with generally accepted accounting principles.
+These non-GAAP measures are not intended to be a substitute for our GAAP results.
+This was another excellent quarter, and I'm extremely proud of the entire SentinelOne team.
+Our ARR growth accelerated to 131% year over year in the third quarter, our third consecutive quarter of triple-digit growth.
+We continue to scale our business on the back of leading endpoint protection, machine speed DDR, XDR innovation, and our powerful partner-supported go-to-market strategy.
+The demand environment remains incredibly strong.
+Before digging deeper into the details of our quarterly performance and results, I'd like to share some perspectives on the cybersecurity landscape.
+I'd encourage you all to also look at our shareholder letter we have on our Investor Relations website, which provides a lot more detail.
+We're still early in the generational shift in cybersecurity led by the ongoing digital transformation of the enterprise.
+There are millions of cyberattacks inflicting trillions of dollars in damages every year.
+This is unacceptable and a growing risk to enterprises across the world.
+The increasing number of attacks and sophistication clearly shows that enterprises must deploy best-of-breed solutions that enable them to stay one step ahead of attackers.
+Take the current state of ransomware.
+Attackers have shifted from simply holding operations hostage to actual data compromise and infiltration, infiltrating both legacy and unprotected devices.
+That's where SentinelOne comes in.
+We pioneered the world's first purpose-built, AI-powered XDR platform to make cybersecurity defense truly autonomous from the endpoint and beyond.
+We believe it's essential to protect all parts of the enterprise estate, such as unknown devices, cloud workloads, and the data itself.
+We focus on data to provide enhanced visibility and advanced analytics.
+We protect our customers in real-time at machine speed, empowering human operators with the speed, scale, and precision of technology.
+Our approach is resonating with our customers.
+We received the highest overall rating in the 2021 Gartner Voice of the Customer Report for endpoint protection platforms where 97% of reviewers would recommend the SentinelOne Singularity XDR platform.
+I'm very proud of the work we all do to keep our customers secure, engaged, and delighted.
+We focus on putting our customers first.
+Let's turn the discussion to how we're executing.
+During our IPO earlier this year, we outlined five key aspects to our growth strategy.
+Our third quarter results demonstrate success and progress against each of these.
+First, we continue to innovate and enhance our cybersecurity and data platform.
+Automation is a top priority for SentinelOne.
+Machine speed automation can help counter instantaneous cyberattacks and enable under-resourced IT teams.
+Last quarter, we introduced Storyline Active Response, or STAR, for customized dynamic detection and response rules.
+This quarter, we began offering Remote Script Orchestration, or RSO, to instantly investigate and triage threats on multiple endpoints across entire organizations remotely.
+Together, these two capabilities deliver increased level of automation, as well as help enterprises, consolidate legacy workflows in tooling with the Singularity XDR platform.
+I want to dig more deeply into RSO.
+We designed RSO to transform endpoint management for incidence response providers and enterprises.
+We're offering complete remote control and orchestration across endpoints.
+It's a scalable way for security providers to not only detect and respond with existing endpoints but also manage and control the entire deployed footprint.
+It's like having a security analyst on every single endpoint at all times.
+Our customers and partners are already realizing the benefits of the advanced capabilities of RSO.
+One of our incident response partners said RSO helps eliminate time-consuming efforts to collect and consolidate forensics data in rapidly contained attacks, enabling us to minimize adversary impact.
+On the customer side, a Fortune 500 wholesale company added RSO to help ultimate threat hunting capabilities, making SentinelOne more powerful and integral to their security posture.
+In addition to automation, we believe a true XDR platform must be a comprehensive and open platform that provides visibility, protection, and response across the entire enterprise landscape.
+Customers have been asking us to provide mobile protection to complement our leading protection capabilities.
+And just this week, we announced Singularity Mobile.
+SentinelOne customers can now manage mobile device security alongside endpoint, cloud workloads, and IoT devices.
+Singularity Mobile brings behavioral AI-driven machine speed protection, detection and responds directly to iOS, Android, and Chrome OS devices.
+Putting this all together, we were recently recognized as a strong performer in the Forrester New Wave Extended Detection and Response Providers report.
+Forrester highlighted that SentinelOne Singularity XDR platform is the best fit for companies that want customizability and to grow into XDR. We were also named Best Innovator in SE Labs' Annual Report.
+The second part of our strategy is to protect more enterprises every day.
+In Q3, our ARR grew by 131% year over year, and our revenue was up 128%.
+Our business is performing exceptionally well.
+We added over 600 new customers sequentially.
+We grew our total customer count by over 75% to over 6,000 compared to a year ago.
+Customers with ARR over $100,000 grew 140%, and we continue to see a growing mix of large enterprises within our business.
+In addition to expanding our global presence through direct sales teams, our channel remains a source of scalable growth and differentiation.
+With our partner-friendly approach, we're succeeding by further expanding our scale with incidence response in managed security service provider partners.
+Nick will touch on this in more detail later on.
+Third, we're unlocking further product adoption within our existing customer base.
+In the fiscal third quarter, our net retention rate reached 130%, a new record for our company.
+This growth was driven by strong license expansion, platform upgrades, and customer adoption of our new capabilities.
+We're early in our module strategy, but we're seeing great customer interest and adoption.
+Our emerging products such as Ranger IoT, cloud workload protection, and data capabilities are all growing at impressive triple-digit rates.
+In particular, our cloud workload protection product delivered the highest growth during the quarter, a testament to the demand for our real-time run-time protection for cloud workloads and containerized environments.
+In one case, a leading book publisher selected SentinelOne for cloud workload protection because of its ease of use, simplicity of deployment, and having a true EDR in one console to manage their cloud-native Windows, Linux, and Kubernetes environments.
+The fourth element of our growth strategy is to further expand our global footprint.
+Revenue from international markets grew 159% year over year.
+International markets now represent 33% of our total revenue, up from 29% a year ago.
+As an example, in Q3, we secured a European conglomerate by replacing over 20 different antivirus products.
+This shows how our platform can help with vendor consolidation while also delivering leading performance.
+We're growing our sales coverage and channel presence in international markets.
+Last quarter, we talked about opening a new R&D center in the Czech Republic, and I'm excited that we're hiring great talent in this region.
+These initiatives will continue to strengthen our international presence.
+Fifth and last, we're well-positioned to expand our total addressable market through both acquisitions and strategic investments.
+We further strengthened our leadership team with the appointment of Rob Salvagno to lead Corporate Development.
+As we consider acquisitions, we evaluate prospects that align with our product, customer, and strategic market opportunities.
+Over time, we intend to use these opportunities to extend the reach of our XDR platform into adjacencies that complement our offerings.
+Our strategy also involves making minority investments.
+We recently made two strategic investments in early funding rounds for Laminar and Torq, companies that align with our approach to automation and APIs.
+Investments in emerging technologies will allow us to constantly enhance the SentinelOne platform in areas that may be of future interest to us.
+These investments reflect our long-term commitment to innovation, automation, and securing data wherever it resides with a front-row seat into cutting-edge cybersecurity technologies.
+Finally, as part of our XDR road map, Scalyr is performing extremely well and has continued to grow year over year and quarter over quarter.
+At the same time, we're onboarding all new customers on our revamped back end seamlessly.
+We've begun migrating select existing customers.
+By using Scalyr, our customers are enjoying faster performance and advanced analytics capabilities.
+Our true competitive advantage comes from the employees of SentinelOne.
+We've invested in talent across sales, marketing, engineering, and corporate functions while cultivating an inclusive and diverse workplace.
+We've grown rapidly in the past year, and our number of employees has gone from 600 to about 1,100.
+This has been no small feat, and we're continuing to grow and expanding the team.
+We work very hard to foster a productive and inclusive culture, and our efforts are showing up in results.
+As part of the 2021 Great Places to Work certification, 96% of responses from employees said SentinelOne is a great place to work.
+We received several other awards during the quarter that recognize our workplace culture.
+With the combination of our differentiated technology and dedicated team, we're helping our customers stay ahead of adversaries, prevent breaches, and autonomously respond to innovation.
+We're helping our customers reimagine cybersecurity.
+I'm excited about what we can do from here.
+Our go-to-market flywheel of sales and marketing, channel, and technology partners resulted in another outstanding quarterly performance across the board.
+Strong demand for our Singularity XDR platform is evident by our third quarter results.
+Our customers are clearly choosing SentinelOne as a partner and technology of choice.
+In Q3, we reported an impressive ARR growth of 131%, reaching $237 million compared to last year.
+This growth was driven by a healthy combination of new customer additions, existing customer renewals, and upsells.
+Today, we are protecting over 6,000 customers through our Singularity XDR platform.
+That's total customer growth of more than 75% or almost 2,500 more customers compared to last year.
+Our focus on automation, speed, and accuracy is critical to any enterprise, in fact, all enterprises.
+I want to be clear.
+This is a competitive market.
+The environment has not changed, yet we've maintained incredibly strong win rates in all competitive situations against legacy and next-gen vendors.
+With every new quarter, we're protecting more and more mission-critical businesses around the world.
+In Q3, we added a leading global financial exchange in a seven-figure multiyear agreement.
+This was a true platform win.
+They selected SentinelOne for endpoints, cloud workload protection, remote script orchestration, and data applications.
+It's telling that we're getting so much attention by our competitors, which speaks to the traction we're having in the market.
+We're winning more and more customers, and our growth rates speak for themselves.
+What enterprises need is automated security, not repackaged legacy AV and crowd-powered protection.
+Our mission is to elevate security for our customers through a relentless focus on innovation.
+And our customers are happy with 97% gross retention rate and the highest score in Gartner's Voice of the Customer survey.
+That's hundreds of customer reviews, and that speaks volumes compared to any single customer example.
+Let me take a step back and share some details around our customer and business mix.
+We grew customers with ARR over $100,000 by 140% versus last year.
+Our business mix from customers with ARR over $100,000 continues to grow driven by our success with larger enterprises, strategic channel partners, and increasing module adoption.
+In addition to protecting new larger customers, we're seeing strong retention and expansion within our existing customer base.
+Gross retention rates remained consistent with prior quarters.
+Our net retention rate was 130% this quarter, a new record for our company.
+This record NRR was driven by license expansion, platform tier upsells, and adoption of emerging capabilities.
+In Q3, two of our Fortune 10 customers renewed with multiyear deals, and both expanded their use of the Singularity platform, adding modules such as Ranger and Remote Script Orchestration.
+I'd like to talk more about our channel partners.
+Our partner ecosystem helps magnify our market access and significantly extends our reach and efficiency.
+We do not compete with our partners.
+Instead, we equip them with industry-leading capabilities like multi-tenancy and open APIs.
+In fact, we're expanding our partner ecosystem, and this is driving significant growth for us.
+Let me double click on our managed security service provider partnerships as an example.
+MSSPs provide outsourced monitoring and management of security devices and systems.
+Our growing and highly scalable partnerships with MSSPs give us robust mid-market and large enterprise coverage.
+Together, we have fueled significant new customer and business growth over the past several quarters.
+We're proud to partner with companies like N-able, AT&T, Pax8, Continuum, Kroll, and many others.
+To demonstrate the momentum we're seeing, in our third fiscal quarter, ARR from our MSSP channel increased by 300% year over year.
+In addition to MSSPs, our incident response partners leverage the SentinelOne platform for their breach response services, making us an integral part of their capabilities.
+Last quarter, we talked about our commitment to support even more IR partners through our Singularity platform.
+In Q3, we built upon that progress and further expanded our network of IR partners.
+We added KPMG as a global go-to-market partner for incident response and proactive cybersecurity services.
+Our growing network of IR partners continues to help secure businesses.
+As an example, during the quarter, we won a large airline customer in Asia through one of our IR partners.
+Finally, I'd like to share how we're putting our customers and partners first.
+We recently hosted our first-ever customer conference called OneUP.
+Participation and response has been incredibly positive.
+We've also hosted partner conferences throughout the Americas and EMEA.
+Our goal is to educate on our latest innovations and continue to build on our momentum.
+Over the last few quarters, we've also received great feedback on our accreditation programs.
+We added continuing education courses to complement our accreditation programs.
+These courses keep our partners up to date on new capabilities and modules, which in turn support our growing scale and platform reach.
+We had around 2,000 accreditations in June 2021.
+We've made amazing progress since then and now have surpassed over 6,000 accreditations across our sales and presales courses through the end of November.
+This tremendous improvement illustrates the growing attention we're seeing in the channel.
+I'm proud to work with our global team of relentless Sentinels every day.
+I'm excited about our future.
+We will continue to deliver on our vision with focus on execution and listening to our customers.
+I'll touch on the financial highlights from the quarter and then provide additional context around our guidance for Q4 and fiscal year 2022.
+Our third quarter results exceeded expectations across the board.
+Our revenue and ARR growth both accelerated in the quarter.
+Our performance strength was broad-based, coming from a healthy mix of new customers and existing customer expansion.
+It also balanced across geographies and customer sizes.
+We achieved revenue of $56 million, increasing 128% year over year, and delivered ARR of $237 million with growth accelerating to 131% over the same period.
+Turning to our costs and margins.
+Our non-GAAP gross margin in Q3 was 67%.
+This was up 9% year over year and up 5% quarter over quarter.
+The biggest benefits are coming from our increasing scale and business expansion, including modest benefits from module and platform upsell.
+Costs associated with the migration of existing customers to our Scalyr back end were minimal in Q3.
+This contributed to the gross margin upside relative to our prior expectations.
+I want to provide more detail here.
+Scalyr is a critical part of our XDR road map and future innovation, giving us enhanced data storage and ingestion capabilities.
+We are balancing our product road map with our migration of existing customers.
+We will follow the optimal cadence for our customers and our business.
+In Q3, we took a more measured approach to migrations, which had less of an impact to margin.
+We anticipate migrating more customers in Q4 and the first half of next year.
+That said, when I look at our Q3 gross margin of 67% and how far we've come in just the past few quarters, I see glimpse of scale and efficiency in our model.
+Looking at the rest of our P&L.
+We're investing for growth and achieved triple-digit growth rates in ARR and revenue again this quarter.
+Our non-GAAP operating margin was negative 69%.
+We're continuing to make strategic investments that enhance our product and scale our go-to-market.
+Even still, this is a significant improvement from negative 102% in the year-ago quarter and also from negative 98% last quarter, showcasing the potential for leverage throughout our business model.
+We remain in investment mode in the near term, which is the right strategy given the vast opportunity in front of us.
+Now for our outlook for Q4 and the full fiscal year.
+In Q4, we expect revenue of $60 million to $61 million, reflecting growth of between 101% to 104% year over year.
+We're raising our full-year revenue guidance from $199 million to $200 million.
+This implies full-year growth of 115% at the midpoint.
+The structural tailwinds of digital transformation, hybrid work environment, and an evolving yet persistent threat environment are here to stay.
+We're executing extremely well.
+Our product innovation, increased brand awareness and scale, and go-to-market are giving us favorable opportunities to engage with existing and prospective customers.
+We expect Q4 non-GAAP gross margin to be between 62% to 63% and full-year non-GAAP gross margin to be between 61% to 62%.
+Our Q4 guidance implies a minimum of 8% non-GAAP gross margin expansion year over year as we're benefiting from increasing scale, improved cloud hosting agreements, and processing efficiency gains.
+Our guidance also reflects the migration of existing customers to Scalyr, which we expect will continue into the first half of next year.
+Finally, for non-GAAP operating margin, we expect negative 83% to 80% in Q4 and negative 91% to 90% for the full year.
+We see tremendous opportunity for growth and the investments we're making today will put us in a position to succeed for the long term.
+Additionally, as a reminder, our IPO lockup expires, and vested options and outstanding shares can be traded starting December 9, 2021.
+This is a continuation of late September's 15% lockup expiration.
+In closing, Q3 was another excellent quarter with strong execution companywide, and we're expecting that momentum to continue into the end of our fiscal year.

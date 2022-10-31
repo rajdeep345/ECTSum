@@ -1,0 +1,97 @@
+Information required by SEC Regulation G relating to these non-GAAP financial measures are available on the Investors section of our website, www.
+fortive.com, under the heading Financial Information.
+We completed the divestiture of the automation and specialty business on October 1, 2018, and accordingly have included the results of the A&S business as discontinued operations for historical periods.
+All references to period-to-period increases or decreases and financial metrics are year-over-year on a continuing operations basis.
+We are pleased with our third quarter results as strong execution across the portfolio delivered a top line performance that was significantly better than our initial guidance as well as a return to year-over-year growth in adjusted operating profit and adjusted earnings per share.
+For the quarter, we reported adjusted diluted net earnings per share of $0.94, an 8% increase year-over-year.
+While the operating environment remained challenging in Q3, we continued to successfully navigate the near-term headwinds by leveraging the Fortive Business System.
+We increased core operating margins by 160 basis points and generated another quarter of strong free cash flow while prioritizing growth investments across our portfolio to drive continued share gains.
+On October 9, we completed the successful spin-off of Vontier Corporation, a global industrial technology company focused on mobility infrastructure.
+I'm extremely proud of the effort and the focus shown by our team throughout the year leading up to the separation, and I am very excited about the future opportunities that lie ahead for both companies.
+The ability to maintain our readiness and execute this complex transaction despite the obvious challenges presented by the COVID-19 pandemic is a testament to the resilience and adaptability of our people and the power of FBS.
+As separate companies, Fortive and Vontier are both well positioned to execute against their strategic priorities to generate increasing value for all our stakeholders.
+With the spin-off of Vontier complete, Fortive is well positioned as a provider of essential technologies for connected workflow solutions across a range of attractive end markets.
+We have strong established positions with leading brands that benefit from long-term secular growth drivers and have opportunities to increase recurring revenue.
+We have a long track record of disciplined capital allocation, significant balance sheet capacity and free cash flow and substantial opportunities for both organic investment and strategic M&A across the portfolio.
+Most importantly, we have the Fortive Business System, the cornerstone of our culture, and an enduring source of competitive advantage that underpins our commitment to continuous improvement.
+Since Vontier was part of Fortive throughout the third quarter, the financial results that we will discuss today include the Vontier businesses.
+Also, the guidance that we provide today will be for Fortive's continuing operations only.
+With that, let's turn to the details of the quarter.
+Adjusted net earnings were $338.5 million, up 8.8% from the prior year, and adjusted diluted net earnings per share were $0.94.
+Total sales increased 2.3% to $1.9 billion, with core revenue essentially flat, reflecting significant sequential improvement from the prior quarter.
+Acquisitions contributed 220 basis points of growth, and favorable foreign currency exchange rates increased growth by 20 basis points.
+Adjusted gross margins were 51.8% in the third quarter, increasing 50 basis points year-over-year.
+Gross margins benefited from 50 basis points of price, the growing contribution of our higher-margin software businesses and disciplined supply chain execution.
+We also generated 160 basis points of core operating margin expansion, resulting in an adjusted operating profit margin of 22.7% for the quarter.
+Our ability to drive strong core OMX, despite the significant ongoing challenges posed by the pandemic reflected the solid execution of our teams and the disciplined application of FBS.
+We continue to effectively manage the business through this uncertain environment, flexing cost actions as needed while also investing in our strategic product development and innovation priorities to position us well for the future.
+During the third quarter, we generated $455 million of free cash flow, representing conversion of 134% of adjusted net earnings and an increase of 31% year-over-year.
+This performance took our year-to-date free cash flow up to approximately $1.1 billion, representing a year-over-year increase of approximately 48%.
+Despite a challenging environment over the past few quarters, our operating companies continue to use FBS to manage their working capital effectively in the short term, increasing inventory turns and limiting the headwinds from the sequentially improving top line.
+Turning to our segments.
+Professional Instrumentation posted a total revenue increase of 0.9% despite a 3.5% decline in core revenue.
+Acquisitions contributed 370 basis points, while favorable foreign exchange rates increased growth by 70 basis points.
+Core operating margin increased 90 basis points, resulting in segment-level adjusted operating margin of 22.8%.
+Industrial Technologies performed well in Q3 driven in particular by the North American businesses of both Gilbarco Veeder-Root and Matco.
+Total revenue increased 4.5%, including a 5.5% increase in core revenue.
+Core operating margin increased 290 basis points, resulting in segment-level adjusted operating margin of 25.9%.
+Note that the growth rates shown on the slide reflect consolidated Fortive Q3 growth, which includes the results of the Vontier businesses.
+That said, we will focus our operating company color primarily on the businesses that remain with Fortive.
+In Asia, core revenue declined low single digits despite mid-single-digit growth in China.
+Strength in China was broad based, highlighted by mid-teens year-over-year growth at Fluke, double-digit growth at Advanced Sterilization Products and greater than 20% growth in Sensing.
+Western Europe core revenue declined mid-single digits in Q3, highlighted by low double-digit growth at ASP.
+ASP has reported year-over-year growth in each quarter of 2020 thus far, driven by solid sales execution.
+Accruent also delivered a strong quarter in Western Europe led by Meridian, its engineering information management solution, reflecting the momentum the company has built in the region.
+While point-of-sale remained negative for both Fluke and Tektronix, the point-of-sale trend improved throughout the quarter, and revenue at these businesses increased mid-teens versus the prior quarter.
+North America core revenue grew low single digits in Q3, showing broad-based sequential improvement versus Q2.
+Growth in North America was led by a strong quarter for the Vontier businesses.
+At new Fortive, a number of the software businesses continue to perform well with growth across Intelex, eMaint and Censis; Industrial Scientific's iNet business; and Qualitrol also performed well.
+As in Western Europe, Fluke and Tektronix saw improving point-of-sale trends, though still negative as we turn the corner into Q4.
+In recent quarters, we have laid out a framework for analyzing our portfolio with businesses organized into groups based on the relative sensitivity to pandemic-driven disruption and resulting deterioration in end market demand.
+As shown on Slide 11, the relative performance of these groups largely played out as expected in the quarter.
+Group I, which represented approximately 20% of new Fortive revenue in Q3, continued to show significant resilience, posting low single-digit growth.
+The group's performance again reflected a solid contribution from the software businesses, highlighted by high single-digit growth at Intelex, which is seeing continued robust growth in North America and is benefiting from the successful execution of the company's expansion into Western Europe.
+Elsewhere, Censis posted low-single-digit growth, underpinned by the momentum of its SaaS offerings.
+Accruent also benefited from the resilience of its SaaS business, which increased slightly in the quarter with continued growth in annual recurring revenue based on improving churn and increased net retention.
+Fluke Industrial Imaging had another strong quarter, although its growth moderated as some of the initial COVID-related demand began to level off.
+Gordian saw slowing in project work among state and local governments and higher education customers, leading to a low single-digit decline for the quarter.
+Meanwhile, despite continued strong order flow, EMC registered a mid-teens decline due to certain COVID-related supply chain issues and some customer delays.
+Group II, which represented approximately 32% of new Fortive revenue in Q3, recorded a low single-digit decline.
+ISC's iNet subscription business posted a high single-digit growth, while Fluke Health Solutions showed mid-single-digit growth driven by ventilator tester tailwinds and support from Landauer's high recurring revenue business model.
+ASP reported a mid-single-digit decline due to a mid-single-digit decline in North America and pressure in Japan, which saw a resurgence of COVID cases and an associated reduction in elective procedures.
+However, we are very pleased to see this partially offset by strong growth in both China and Western Europe in the quarter.
+We now estimate that elective procedures in the U.S. are back to approximately 90% of pre-COVID levels and are back to approximately 95% in both China and Europe.
+Group III, which represented approximately 12% of new Fortive in Q3, saw a high single-digit decline in the quarter.
+While the Sensing portfolio declined by mid-single digits, this represented sequential improvement versus the second quarter.
+Semiconductors and electronics continue to be a bright spot for Sensing, which also benefited from COVID-related tailwinds in medical end markets.
+Elsewhere in Group III, Accruent's professional services and licenses business lines saw an ongoing negative impact from continued delays in accessing customer sites.
+Group IV, which represented approximately 36% of new Fortive Q3 revenue, declined by high single digits in the quarter but saw a meaningful sequential improvement and performed ahead of our forecast.
+Both Fluke Industrial and the Tektronix Instruments business saw broad-based sequential improvement.
+Fluke Industrial decreased by low single digits, paced by Fluke Calibration, which registered mid-single-digit growth.
+The performance of the Tek Instruments business was highlighted by Keithley, which recorded mid-single-digit year-over-year growth.
+The business also saw improved order activity as the quarter progressed, including initial orders for the new six and eight-channel versions of the six Series oscilloscope.
+While we are encouraged by what we saw at both Fluke Industrial and the Tektronix Instruments business in the third quarter, we remain watchful of key macro trends as we continue to work our way toward a return to year-over-year growth in both businesses.
+Since the end of the second quarter, we have continued to reduce our net debt with our strong free cash flow and the proceeds received from the Vontier separation.
+Including the recent proceeds from Vontier, our net debt is now approximately $2.8 billion, down from over $5.1 billion at the end of 2019.
+As we look ahead, we expect to continue to generate solid free cash flow, which will enable us to reduce our net debt further.
+We also expect to monetize our remaining 19.9% stake in Vontier in a tax-efficient manner, with timing subject to market conditions.
+While Q3 saw a continuation of the better operating performance that started as the economic lockdowns lifted back in the spring, we remain watchful of macro conditions in light of the continued fight against the COVID-19 pandemic.
+In Q4, we expect the total revenue will increase zero to 3% on a year-over-year basis.
+We also expect to deliver incremental margins of approximately 35%.
+Finally, we are planning to execute approximately $30 million of strategic productivity initiatives before the end of the year, in line with our prior expectation that some of the temporary actions we executed early in the year would be made permanent as we turn the corner into 2021.
+The resegmentation highlights the strong position we have assembled to provide essential technologies for connected workflow solutions across a range of attractive end markets.
+This view also helps to frame how we think about our portfolio from the perspective of both organic and inorganic opportunities.
+Details on the segments are as follows.
+The Intelligent Operating Solutions segment includes Fluke, Industrial Scientific, Intelex, Accruent and Gordian and represents approximately 40% of new Fortive total revenue.
+This segment provides solutions to accelerate field and facility safety, reliability and productivity as well as operating intelligence to a range of end users and addresses a total available market of greater than $15 billion.
+Precision Technologies segment includes Tektronix, Pacific Scientific EMC and the Sensing businesses, which will now also include Qualitrol and represent approximately 35% of new Fortive total revenue.
+This segment provides mission-critical technologies that enable our customers to accelerate the development of innovative products and solutions and addresses a total available market of greater than $10 billion.
+The Advanced Health Care Solutions segment includes Advanced Sterilization Products, Fluke Health Solutions, Censis and Invetech and represents approximately 25% of new Fortive total revenue.
+This segment provides solutions that enhance patient safety, prevent hospital infections, deliver operating efficiencies and accelerate healthcare system innovation and addresses a total available market of greater than $5 billion.
+Importantly, we will report on this basis from the fourth quarter onward and plan to issue supplemental financial information in the coming weeks that aligns with this resegmented view of the portfolio so that you can rebase your models.
+Before we wrap up, I want to quickly express my appreciation to the Fortive and Vontier teams for their continued effort and strong execution in 2020.
+This has undoubtedly been an extremely difficult year, but our performance in the third quarter highlighted once again how our continued -- our team continues to rise and meet the challenge.
+With the strong support of FBS, we managed to complete our final preparations for the spin-off of Vontier while also navigating the challenging macro environment to deliver improved top line performance and another quarter of strong free cash flow.
+While we face an uncertain environment in the near term, we will continue to benefit from the increasingly resilient portfolio that we have established through our efforts to continue to transform the portfolio over the last four years.
+With our consistent free cash flow, strong M&A pipeline and an expanding set of organic innovation capabilities, we are well positioned to capitalize on the many opportunities ahead of us.
+That concludes our formal comments.

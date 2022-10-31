@@ -1,0 +1,161 @@
+I'm Ryan Weispfenning, Vice President and Head of Medtronic Investor Relations.
+Joining me are Geoff Martha, Medtronic's, Chairman and Chief Executive Officer; and Karen Parkhill, Medtronic's Chief Financial Officer.
+Geoff and Karen will provide comments on the results of our second quarter, which ended on October 29th, 2021, and our outlook for the remainder of the fiscal year.
+Today's event should last about an hour.
+Unless we say otherwise, all comparisons are on a year-over-year basis and revenue comparisons are made on an organic basis.
+Second quarter organic revenue comparisons adjust only for foreign currency, as there were no acquisitions or divestitures made in the last four quarters that had a significant impact on total Company or individual segment quarterly revenue growth.
+References to sequential revenue changes compared to the first quarter of fiscal '22 and are made on an as reported basis.
+And all references to share gains or losses refer to revenue share in the third calendar quarter of 2021 compared to the third calendar quarter of 2020 unless otherwise stated.
+And finally, our earnings per share guidance does not include any charges or gains that would be reported as non-GAAP adjustments to earnings during the fiscal year.
+With that, let's head into the studio and get started.
+Obviously, our end markets were impacted by the COVID-19 resurgence and the healthcare system staffing shortages, particularly in the US, which affected our quarterly revenue growth.
+Procedure volumes were lighter than expected in markets, where our technology is used in more deferrable procedures like our spine business or those that require ICU bed capacity like TAVR.
+Yet in markets, where procedures are less deferrable like pacing, we experienced stronger growth.
+While the US market was a headwind, many of our international markets were much stronger.
+We delivered 6% revenue growth outside the US, including mid teens growth in emerging markets.
+And our emerging market growth is up 9% versus pre-pandemic levels in Q2 fiscal '20.
+In the midst of these market headwinds, we focused on managing what was in our control and executed to advance our pipeline, launched new products and win share.
+And when you look at our sequential revenue performance, our 2% decline was slightly better than most of our large cap medtech competitors.
+While the pace of the recovery from pandemic headwinds is hard to predict, our markets will recover, and as that happens, Medtronic is one of the best-positioned companies in healthcare.
+The underlying health of our business is strong,and it's getting stronger.
+We have an expansive pipeline of leading technology, a robust balance sheet and an expanding roster of proven top talent.
+Coupled with our revitalized operating model and new competitive mindset, we remain poised to accelerate and sustain growth.
+As I've done in prior quarters, let's start with a look at our market share performance.
+Year-over-year market share is an important metric that our teams are evaluated against in their annual incentive plans, along with revenue growth, profit and free cash flow.
+And right now, the majority of our businesses are winning share, driven by our innovation and increased competitiveness.
+And this is exactly the sort of market share performance that gives us confidence in the deep strength of our businesses.
+And to avoid any confusion about how we're performing when we talk about our share dynamics, we'll refer to revenue share in the third calendar quarter to keep it directly comparable to our competition.
+Share momentum in our three largest businesses continued.
+In the Cardiac Rhythm Management business, we extended category leadership, adding over a point of share year-over-year, driven by our differentiated Micra family of pacemakers, Cobalt and Crome high power devices and our TYRX antibacterial envelopes.
+In surgical innovations, we outperform competition with strong performances in endo stapling and sutures, and our Signia powered stapling system, and Tri-Staple technology continues to see great market adoption.
+In Cranial & Spinal Technologies, we're winning share and launching new spine implants that enhance the overall value of our ecosystem of preoperative planning software, imaging, navigation and robotic systems, and powered surgical instruments, which is transforming care in spine surgery.
+Our new implants also go directly at the competition.
+Starting this past quarter with our Catalyft expandable interbodies to specifically attract Globus users.
+In addition to our three largest, a broad array of our other businesses have increased their competitiveness, are launching new products and winning share in their end markets.
+So for example in patient monitoring, we're winning share with our Nellcor pulse oximetry sensors and our monitors.
+In respiratory interventions, we picked up four points of share in premium ventilation, due to our ability to respond quickly to spikes in demand from COVID resurgence.
+And in neuromodulation, we won share across our product lines, including pain stim and DBS, as we continue to launch new products.
+In pain stim despite the sequential slowdown in the market, we're gaining share with our Intellis with DTM technology and our Vanta recharge-free system.
+In DBS, we had a very strong quarter, winning over six points of share.
+We're executing on the launch of our Percept neurostimulator with brain sense technology paired with our SenSight Directional Lead, and we continue to be the only company with sensing capabilities.
+Since launching SenSight in the US earlier this fiscal year, we surged ahead of the competition in new implant share.
+Sensing has redefined what it takes to compete in DBS.
+Our competitors don't have it, and as a result, we're expecting a long runway of share gains, as we build upon our category leadership.
+Now, while the majority of our businesses are winning share, we do have a few businesses that are flat or losing share, and we're focusing our efforts and our investments to grow above the market.
+In cardiac diagnostics, we're focused on improving supply to reverse share declines, and we're investing in new indications and novel AI detection algorithms to expand the market and drive growth.
+In cardiac ablation solutions, we expect to win share, as we expand the rollout of our DiamondTemp RF Ablation System and drive awareness and adoption of our Arctic Front Advance Pro cryoablation, as a first line treatment for paroxysmal AF.
+In diabetes, while we lost share again this quarter, we remain pleased with the momentum we're building outside the US, not only with the 780G insulin pumps, but also with the positive customers' feedback we've heard on our extended infusion set and fingerstick free Guardian Sensor 4.
+And we expect our US results to turnaround, as we launch these new products.
+Next, let's turn to our product pipeline.
+I've already talked about the impact, our strong flow of new products is having in the market.
+We've launched over 180 products in the US, Western Europe, Japan, and China in the last 12 months.
+At the same time, we continue to advance new technologies that are in development.
+We're heavily investing in this pipeline with a targeted R&D spend of over $2.7 billion this fiscal year, which is an increase of over 10%, the largest dollar increase in our history.
+We're expecting these investments to create new markets, disrupt existing ones and accelerate the growth profile of Medtronic.
+Let's start with our Symplicity Renal Denervation procedure for hypertension.
+While we weren't able to end our ON MED study early, we remain confident in our program, in our ability to serve the millions of patients, who make up this multi-billion dollar opportunity.
+As a reminder, our previous three sham-controlled simplicity studies, all reached statistical significance, including the pivotal OFF MED study.
+And the ON MED study remains powered to detect a statistically significant and clinically relevant benefit at the final analysis.
+We expect that ON MED follow-up will complete in the second half of next calendar year, and then, we'll submit the PMA to the US FDA for approval.
+When we think about renal denervation, let's start with the patients, who have indicated that they want options like the simplicity blood pressure-lowering procedure to treat their hypertension, as confirmed by our patient preference study presented earlier this month at TCT.
+We believe demand will be high and we continue to expect this to be a massive opportunity that we will lead.
+Another opportunity for Medtronic is surgical robotics, where we are entering the soft tissue robotics market, as a second meaningful player.
+We achieved a major milestone when we received CE Mark for Hugo last month, and we also completed our first procedures with Hugo in our Asia-Pacific region at Apollo Hospitals in India.
+The first surgeons to use Hugo in the clinical setting have told us they believe Hugo addresses the cost and utilization barriers that have held back the growth of robotic surgery.
+Look, demand is high, and we're building a long list of hospitals that want to join our partners and possibility program and be among the first in the world to use Hugo and participate in our global registry, which will collect clinical data to support regulatory submissions around the world.
+Our robotic program is making progress toward a broader launch, and we remain well-positioned in this critical field relative to every other potential new entrant.
+As we prepare for this broader launch, we're working hard to ensure an outstanding customer experience.
+We're also focused on optimizing our supply chain, manufacturing and logistics to prepare for scaling this business.
+We're making steady progress on these activities, but not at the pace that we had originally planned.
+And as a result sales this fiscal year are likely to come in below our $50 million to $100 million target.
+Now, that said, we still expect double digit millions in sales this fiscal year, and we continue to expect a strong ramp in FY '23.
+We're off schedule, but we're not off track.
+And while we're disappointed in the revenue push out for this important program, we're confident that we have line of sight to the solutions we need to be successful and to optimize the customer experience.
+Demand remains high, surgeons continue to do cases, our order pipeline continues to build, and we're looking forward to starting our US IDE soon.
+We remain confident in the success of this program, and we believe that we're poised to meaningfully expand the soft tissue robotic market and drive growth for years to come.
+In Cardiac Rhythm, we just launched our Micra AV leadless pacemaker in Japan earlier this month.
+We also completed the US pivotal study enrollment for our EV ICD, which follows our CE Mark submission in Q1.
+Just as we disrupted the pacing market with Micra, we intend to do the same in the implantable defibrillator space with our EV ICD.
+Our device can both pace and shock without any leads inside the heart and veins, and it does this in a single device that is the same size, as a traditional ICD.
+In structural heart, we're starting the limited US launch of our next-gen TAVR system, the Evolut FX this month with a full market launch planned for fiscal Q4.
+Evolut FX enhances ease of use with improvements and deliverability, implant visibility and deployment stability.
+We're also making progress on our transcatheter mitral program.
+At TCT earlier this month, we presented very encouraging early data of our transfemoral delivery system for our intrepid mitral valve, and we will be rolling that system into our APOLLO pivotal trial.
+In diabetes, our MiniMed 780G insulin pump combined with our Guardian 4 sensor continue to be under active review with the FDA.
+When approved and launched in the US, we expect the 780G system to drive growth, as it will be highly differentiated and further address the burden of daily diabetes management.
+And for the first time ever, is helping hard to manage pediatric and adolescent patients achieve outcomes mirroring well-controlled adults.
+The user experience has also improved markedly, and these outstanding results were achieved with our 780G paired with our Guardian 3 sensor.
+So we expect the experience will be even stronger with Guardian 4.
+And the value of our offering will be further enhanced when we bring our Synergy sensor, which is now called Simplera [Phonetic] to market.
+It's easier to apply and half the size of Guardian 4, and we expect to submit it to FDA later this fiscal year.
+In pelvic health, we're awaiting FDA approval for our next-gen InterStim recharge-free device, which we expect in the first half of next calendar year.
+With its best-in-class battery, constant current, and full-body MRI compatibility at both 1.5 and 3 Tesla, we expect this device will extend our category leadership in this space.
+In neuromodulation, we recently submitted our ECAPs closed-loop spinal cord stimulator to the FDA.
+We're calling this device Inceptiv SCS, and we expect it to revolutionize SCS with closed-loop therapy to optimize pain relief for patients.
+We also continue to make progress on expanding indications for SCS into non-surgical refractory back pain, painful diabetic neuropathy and upper limb and neck chronic pain.
+Finally in DBS, we continue to enroll patients in our ADAPT-PD trial studying our closed-loop adaptive DBS therapy in patients with Parkinson's.
+We're expecting enrollment in the trial to complete later this fiscal year.
+Medtronic is advancing a pipeline of meaningful innovation that we believe will not only enhance our competitiveness, but will accelerate our total Company growth going forward.
+Our second quarter organic revenue increased 2%, reflecting the market impact of COVID and health system staffing shortages on procedure volumes, primarily in the United States.
+Despite the softer end markets, our team executed to deliver strong margin improvement and earnings growth.
+In fact, our adjusted earnings per share increased 29% significant growth, reflecting the pandemic impact last year, and our adjusted earnings per share was $0.03 better than consensus with $0.02 from stronger operating profit and a penny [Phonetic] from a lower than expected tax rate.
+Our second quarter revenue growth came in lower than we were expecting back in August.
+We did see improving trends in our average daily sales each month of the quarter, as COVID hospitalizations declined.
+That said, the bounce back in the US wasn't as fast as we had expected or had seen in prior waves.
+We've recognized many of our customers are dealing with staffing shortages on top of increased COVID patients, and we believe that had an increasing effect on procedure volume.
+Looking down our P&L, we had strong year-over-year improvement in our margins, 360 basis points on gross margin, as we continue to recover from the significant impacts from COVID last year and 470 basis points on operating margin, given savings from our simplification program tied to our operating model.
+Converting our earnings into strong free cash flow continues to be a priority.
+Our year-to-date free cash flow was $2.4 billion, up 58% from last year, and we continue to target a full year conversion of 80% or greater.
+Turning to capital allocation, we continue to allocate significant capital to organic R&D, and we continue to seek attractive tuck-in acquisitions to enhance our businesses.
+For example, Intersect ENT, we announced our intent to acquire back in August.
+Intersect's assets complement our own and are accretive to our WAMGR, plus, we believe we can accelerate their growth around the globe.
+We're also returning capital back to our shareholders with a commitment to return greater than 50% of our free cash flow, primarily through our dividend.
+Year-to-date, we paid $1.7 billion in dividends.
+And as a dividend aristocrat, our attractive and growing dividend is an important component of our total shareholder return.
+Looking ahead, although, the environment remains fluid, we are seeing some improvement in procedures and our average daily sales in the first few weeks of November.
+So we're encouraged that the negative impact of the pandemic and healthcare system staffing shortages on our markets could be moderating.
+And while our operations team has done a terrific job managing our supply chain to-date like other companies, we are dealing with an elevated risk of raw material supply shortages.
+As a result of these potential headwinds and given we're only mid way through our fiscal year, we believe it is prudent to update our fiscal '22 organic revenue growth guidance to 7% to 8% from the prior 9%.
+If recent exchange rates hold, foreign currency would have a positive impact on full year revenue of $0 million to $50 million, down from the prior $100 million to $200 million I gave last quarter.
+By segment, we expect Neurosciences to now grow 9% to 10%, Cardiovascular and Medical Surgical to grow 7.5% to 8.5%, and Diabetes to be down low single digits, all on an organic basis.
+Despite the headwinds, we face on revenue, we will manage well what we can control, which includes expenses not directly tied to our future growth.
+We will continue to invest heavily in R&D and market development.
+And on the bottom line, we reiterate our non-GAAP diluted earnings per share guidance range of $5.65 to $5.75.
+This continues to include a currency benefit of $0.05 to $0.10 at recent rates.
+For the third quarter, we're expecting organic revenue growth of 3% to 4% year-over-year.
+This assumes no real pickup in organic comp adjusted growth versus pre-pandemic levels from what we saw in the second quarter despite the improving trends we saw in September and October.
+While we are encouraged by those trends and by what we're seeing in November, we wanted to err on the side of caution with near term guidance given the dynamic macro environment.
+At recent rates, we're expecting a currency headwind on third quarter revenue of $80 million to $120 million.
+By segment, we expect Cardiovascular to grow 5% to 6%, Neuroscience 4% to 5%, Medical Surgical 2% to 3%, and Diabetes to be down mid single digits, all on an organic basis.
+We expect earnings per share between $1.37 and $1.39, with a currency tailwind of $0.02 to $0.04 at recent rates.
+While we expect our markets will continue to be affected by the pandemic in the back half of our fiscal year, we remain focused on delivering solid revenue growth, strong earnings growth, and investing in our pipeline to fuel our future.
+We also remain confident about the underlying strength and competitiveness of our business and our ability to accelerate revenue growth ahead.
+I also want to recognize a new member of our team, who many of you know.
+We couldn't be more excited to have Bob Hopkins, the top rated medtech analyst over the past three years join our team, as Head of Strategy.
+And we look forward to a strong contribution and influence in the years ahead.
+Back to you, Geoff.
+And yes, it is great to have Bob here at Medtronic.
+For the last few quarters, I've been closing by commenting on the progress the Company is making in various areas of ESG, our environmental social and governance impacts.
+Part of the S in ESG is our focus on inclusion, diversity and equity and high employee engagement, which I discussed last quarter, and this makes Medtronic, an attractive destination for top talent.
+In the release we issued last week, you read about how Bob Hopkins and other highly sought-after world-class leaders chose to join Medtronic and drive our transformation to become the undisputed global leader in healthcare technology.
+It's very important for our culture that we're bringing in new ideas and diverse perspectives to add to those of our talented leadership and employees across the Company.
+On the E front of ESG, as you know, we set an aggressive goal last year to be carbon-neutral in our operations by the end of the decade.
+And two weeks ago, we upped our game announcing our ambition to achieve net-zero carbon emissions by FY '45 across our value chain.
+This ambition outlined in our FY '45 decarbonization roadmap will focus on operational carbon neutrality, supply chain greenhouse gas emissions reductions and ongoing logistics improvements.
+To support our progress, as well as progress across our entire industry, we joined the International Leadership Committee for a net-zero NHS in the UK, and we're taking a leadership role with the US National Academy of Medicine action collaborative to decarbonize the US healthcare sector.
+Our ESG efforts are gaining recognition, as last week, Medtronic was elevated from being a constituent of the Dow Jones Sustainability North America Index to joining a select group of companies in the Dow Jones Sustainability World Index.
+Look, we are really proud of this achievement.
+In addition, I hope, many of you were able to watch our inaugural ESG Investor Briefing last month, and if you haven't, I encourage that you watch the replay on our Investor Relations website.
+Now, let me close on this note, the lingering effects of the pandemic combined with healthcare system staffing shortages impacted our Q2 revenue more than we originally anticipated.
+We have both puts and takes on the timing of our pipeline and the supply chain dynamics pose near term challenges, but our challenges will be manageable.
+Our pipeline is delivering, and we're poised to deliver more innovation over the coming quarters and the next several years.
+We have to show you that we can deliver, but robotics is coming, RDN is coming, closed-loop SCS is coming and our diabetes turnaround is coming and Evolut FX and mitral and EV ICD, and the pending acquisition of Intersect ENT, these are all coming.
+We're ready to execute and capitalize on these opportunities.
+We're in good markets, and we're focused on innovating, winning share and maintaining and/or achieving true category leadership across our businesses.
+I know we have more to prove, but I'm confident that our organization, our talented and dedicated 90,000 plus global employees are up for the challenge.
+We're focused, we're hungry and ultimately we're going to deliver on these opportunities to accelerate our growth.
+And as always, we remain deeply committed to creating value for you, our shareholders.
+And with that, let's now move to Q&A.
+Now, we're going to try to get as many analysts as possible, so we ask that you limit yourself to just one question.
+And if you have additional questions, you can reach out to Ryan and the Investor Relations team after the call.
+With that, Wynne, [Phonetic], can you please give the instructions for asking a question.

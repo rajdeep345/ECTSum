@@ -1,0 +1,135 @@
+It was great to see many of you in person at our Analyst and Investor Conference in November.
+And as you will recall, we shared our expectations that we would meet or exceed our three-year Vision '22 targets.
+We also laid out our plans to make 2022 yet another inflection point in our growth trajectory and further accelerate the company's growth rate in the next three phase -- three-year phase of our journey to 2025.
+The team highlighted the power of connected intelligence, which brings together IQVIA differentiated capabilities and drive our leadership position in the clinical and commercial markets.
+This underpins our new 20 by '25 strategy, which alludes to our plans to achieve at least $20 billion of revenue by 2025.
+We're excited about this next phase of growth for IQVIA, and we are busy refining our strategies and action plans, and you will hear more about it as the year progresses.
+Two years -- two weeks ago, IQVIA was named to Fortune's list of the World's Most Admired Companies for the fifth consecutive year.
+Importantly, we earned a first-place ranking within the healthcare, pharmacy, and other services category for the first time.
+1 in the categories of innovation, capital deployment, global competitiveness, quality of product and services, and long-term investment value.
+Turning now to our results.
+We ended 2021 on a high note despite COVID-19's continued impact on many parts of the world.
+We delivered robust top and bottom-line growth in the quarter, which, as you know, was against a much tougher year-over-year comparison than earlier in the year.
+These results reinforce our confidence that we will achieve our 2022 guidance.
+And of course, it sets us up well to meet our ambitious 20 by '25 targets.
+Let's review the fourth quarter.
+Revenue for the fourth quarter grew 10.2% on a reported basis and 11.6% at constant currency.
+The $62 million beat above the midpoint of our guidance range was driven by stronger operational performance across all three segments, as well as higher pass-throughs partially offset by FX headwinds.
+Compared to prior year and excluding COVID-related work, our core businesses, meaning R&DS and TAS, grew mid-teens at constant currency on an organic basis.
+Ron will provide a lot more detail in his remarks, including additional COVID-adjusted numbers for each segment.
+Fourth-quarter adjusted EBITDA grew 12.7%, reflecting our revenue growth, as well as ongoing productivity initiatives.
+The $27 million beat above the midpoint of our guidance range was entirely due to our operational performance.
+Fourth-quarter adjusted diluted earnings per share of $2.55 grew 20.9%.
+That was $0.13 above the midpoint of our guidance, with the majority of the beat coming from the adjusted EBITDA drop-through.
+Let me now provide an update on the business.
+On the commercial side of the business, it was a strong year for new molecules and launches as the industry continued its recovery from the COVID-19 pandemic disruption.
+This year, 50 new molecules were approved by the FDA and 72 new commercial launches took place.
+IQVIA supported nearly 80% of launches by top 20 pharma and approximately 60% of all launches.
+This highlights our scale globally and across all customer segments in applying advanced technology and analytics capabilities to enhance launch planning, engagement, and measurement.
+Overall, we've seen significant momentum and continued demand for our technology solutions.
+There are now over 3,000 clients who have adopted one or more of our technology platforms, including human data science cloud, orchestrated analytics, E360, Omnichannel Navigator, Engage, and of course, Orchestrated Customer Engagement, or OCE.
+In fact, the footprint of our OCE platform itself has continued to grow, with over 350 clients having adopted one or more modules on the platform since launch.
+Early in 2021, we launched IQVIA Next Best Action, which is an AI-driven omni-channel customer engagement decision engine.
+Two top 20 pharma clients have successfully rolled out this intelligence engine to orchestrate customer engagements in over 30 countries and across more than 40 brands each.
+Two other top 20 pharmas are currently in the implementation phase.
+Another highlight in our TAS business has been the success of DMD Marketing Solutions, a leading provider of data and digital marketing solutions that help brands deliver personalized digital content to healthcare professionals.
+In the quarter, we entered into an enterprise agreement with a top 10 pharma clients to utilize DMD's advanced analytic capabilities to power omnichannel engagement across all eight of their brand franchises.
+To date, 18 of the top 20 have adopted at least one of DMD solutions.
+We're very excited for the future growth of this business within IQVIA.
+Real-world evidence and other highlights of the year, IQVIA continues to play a leading role in the use of second rig data to answer key questions for life science customers.
+In the fourth quarter, we won two large post-authorization safety studies in an autoimmune area with a top 10 pharma.
+These studies use existing healthcare data to observe patients over a period of 10 years to better understand long-term effects of the treatment.
+We were also recently awarded a disease registry project for an upcoming novel gene therapy.
+Here, we will recruit a broad population of patients with a specific disease to understand how they are currently managing clinical practice.
+This information is vital to our life science sponsors to inform the design of subsequent clinical trials, so they can target patient groups with the highest unmet need.
+Moving to clinical technology.
+We saw increased adoption of our Orchestrated Clinical Trials, OCT platform, which supports trial planning, site management, patient engagement, trial management, and clinical data analytics.
+During the year, we added 90 new OCT clients, bringing the total to over 350 clients who have adopted one or more modules within our clinical technology suite since launch, including all of the top 10 and 18 of the top one.
+Within OCT's digital patient suite this year, we secured three preferred provider partnerships with top 30 pharmaceutical clients to provide our interactive response technology, IRT capabilities, to support site operations across their entire clinical trial portfolios.
+This technology facilitates patient randomization to ensure protocol adherence and streamline site supply chain management to reduce drug wastage and to drive significant cost reductions.
+Our solution was awarded top-ranking by industry leaders in a recent ISR report for randomization and chart supply management capabilities.
+We also saw increased demand for our industry-leading decentralized clinical trial offering.
+Approximately one-third of our active full-service clinical trials incorporate one or more of our DCT technology or services capabilities, and we expect this to continue to grow as the need for these capabilities in complex studies becomes more evident.
+For example, we are currently executing a full-service trial for treatment of multiple system atrophy, a severe degenerative neurological disorder affecting the body's involuntary functions.
+We are deploying our full suite of capabilities, including eCOA, eConsent, and home research nurses on this study to significantly reduce the travel burden on these patients who have significant mobility challenges.
+Finally, our overall R&DS business continues to build on its strong momentum with over $2.4 billion of net new business, including pass-throughs, and it set a record for quarterly service bookings, achieving over $1.9 billion of service bookings for the first time ever.
+This resulted in a fourth-quarter contracted net book-to-bill ratio of 1.36 excluding pass-throughs and 1.24, including pass-throughs.
+For the calendar year, we delivered over $10 billion of total net new bookings for the first time ever, an increase of 14.6% compared to 2020.
+This led to an LTM contracted net book-to-bill ratio of 1.35 excluding pass-throughs and 1.34 including pass-throughs.
+Our contracted backlog in R&DS, including pass-throughs, grew 10.2% year over year to a record $24.8 billion as of December 31, 2021.
+Let's start by reviewing revenue.
+Fourth-quarter revenue of $3.636 billion grew 10.2% on a reported basis and 11.6% at constant currency.
+You'll recall that last year's fourth quarter was a much tougher comparison than earlier quarters as we picked up incremental demand from mega vaccine studies in R&DS and government-related COVID work within TAS.
+Also, the core business began to rebound from the effects of COVID-19.
+In this year's fourth quarter, COVID-related revenues were approximately $325 million, down about 25% versus the fourth quarter of 2020.
+In our base business, that is excluding all COVID-related work from both 2021 and 2020, organic growth at constant currency was mid-teens.
+Technology and Analytics Solutions revenue for the fourth quarter was $1.496 billion, up 5% reported and 6.6% at constant currency.
+Year over year, TAS experienced just over 400 basis points of headwind due to a step-down in COVID-related work.
+Excluding all COVID-related work, organic growth at constant currency in TAS was high single digits.
+R&D Solutions fourth-quarter revenue of $1.944 billion was up 15.4% at actual FX rates and 16.3% at constant currency.
+Excluding all COVID-related work, organic growth at constant currency and R&DS was approximately 25%.
+Contract Sales and Medical Solutions, or CSMS, fourth-quarter revenue of $196 million grew 3.7% reported and 7.4% at constant currency.
+Excluding all COVID-related work, organic growth at constant currency in CSMS was low single digits.
+For the full year, revenue was $13.874 billion, growing at 22.1% reported and 21.1% at constant currency.
+The incremental COVID-related revenues in 2021 versus 2020 accounted for approximately half of our growth in 2021.
+Full-year Technology and Analytics Solutions revenue was $5.534 billion, up 13.9% reported and 12.4% at constant currency.
+Excluding COVID-related work, organic growth at constant currency in TAS was high single digits.
+Full-year revenue in R&D Solutions was $7.556 billion, growing at 31.2% reported and 30.4% at constant currency.
+Excluding COVID-related work, R&DS organic growth at constant currency for both total revenue and services revenue was low double digits.
+Full-year CSMS revenue was $784 million representing 5.8% growth on a reported basis and 5.7% at constant currency.
+And excluding COVID-related work, organic growth at constant currency in CSMS was low single digits.
+Now moving down to P&L.
+Adjusted EBITDA was $828 million for the fourth quarter, which was 12.7% growth on a reported basis.
+Full-year adjusted EBITDA was $3.022 billion, up 26.8% year over year on a reported basis.
+Fourth-quarter GAAP net income was $318 million, and GAAP diluted earnings per share was $1.63.
+Full-year GAAP net income was $966 million or $4.95 of earnings per diluted share.
+Adjusted net income was $496 million for the fourth quarter, up 20.7% year over year.
+And adjusted diluted earnings per share grew 20.9% to $2.55.
+For the full year, adjusted net income was $1.760 billion or $9.03 per share, up 41%.
+Now as already reviewed, R&D Solutions delivered another outstanding quarter of net new business.
+R&DS backlog now stands at a record $24.8 billion, an increase of 10.2% year over year.
+Full year 2021 net new bookings, including pass-throughs, rose over $10 billion for the first time.
+That's 14.6% growth compared to 2020.
+Let's move to the balance sheet now.
+Cash flow was again quite strong in the quarter.
+Cash flow from operations was $692 million, and capex was $184 million, which resulted in free cash flow of $508 million.
+This brought our free cash flow for the full year to a record $2.3 billion, up 70% versus the prior year.
+At December 31, cash and cash equivalents totaled $1.366 billion and gross debt was $12.125 billion, resulting in net debt of $10.759 billion.
+Our net leverage ratio at December 31 was 3.56 times trailing 12-month adjusted EBITDA.
+Now it's worth highlighting that our improved free cash flow over the last two years allowed us to deploy approximately $4.5 billion of capital to internal investments, acquisitions, and share repurchase, while at the same time, we were able to reduce our net leverage ratio from a high of 4.8x in Q2 2020, which you'll recall was the height of the pandemic to nearly 3.5 times.
+And in doing this, we achieved our Vision '22 net leverage ratio target of 3.5 times to four times a full year early.
+In the quarter, we repurchased $174 million of our shares, which resulted in full-year share repurchase of $395 million, and we ended the year with 195 million fully diluted shares outstanding and $523 million of share repurchase authorization remaining under our existing program.
+Now last week, our board of directors approved a $2 billion increase to our share repurchase authorization, which increases our remaining authorization to just over $2.5 billion.
+Now let's turn to the guidance.
+As you saw, we're reaffirming the full year 2022 revenue guidance that we issued at our analyst and investor conference in November.
+And in maintaining this guidance, we actually absorbed a $70 million revenue headwind from FX since we initially guided in November.
+Now additionally, we're raising our full year 2022 profit guidance versus what we provided you in November.
+So, to summarize the overall guidance for the full year, we expect revenue to be between $14.700 billion and $15 billion, which represents year-over-year growth of 7.1% to 9.2% at constant currency and 6% to 8.1% on a reported basis compared to 2021.
+Now we now expect adjusted EBITDA to be between $3.330 billion and $3.405 billion representing year-over-year growth of 10.2% to 12.7%.
+And we also now expect adjusted diluted earnings per share to be between $9.95 and $10.25, which represents year-over-year growth of 10.2% to 13.5%.
+Now our full year 2022 guidance assumes at December 31, 2021, foreign currency exchange rates remain, in fact, for the balance of the year.
+Now compared to the prior year, I should mention FX is now a headwind of 110 basis points to our full-year revenue growth, and our projected revenue growth includes a little bit over 100 basis points of contribution from M&A activity.
+Now with our analyst and investor conference in November, we told you to anticipate that our COVID-related revenue will step down by approximately $1 billion in 2022 but will more than compensate for that headwind with strong growth in our base business.
+And let me give you some additional detail around this that I think will be helpful.
+Excluding COVID-related revenue, the FX headwind, and the contribution of acquisitions, our total company revenue guidance implies organic growth at constant currency in the low to mid-teens.
+At the segment level, we anticipate full-year Technology and Analytics Solutions revenue growth of between 5% and 7%.
+Excluding COVID-related work, we expect organic revenue growth at constant currency in TAS to be in the high single digits.
+Research and Development Solutions revenue growth is expected to be between 8% and 10%.
+Excluding COVID-related work, we expect organic revenue growth at constant currency in R&DS to be in the upper teens.
+And finally, Contract Sales and Medical Solutions revenue was anticipated to be down about 2%.
+But excluding COVID-related work, we expect organic revenue growth at constant currency in CSMS to be in the low single digits.
+Let's move to the first quarter now.
+As you all know, the first quarter of last year marked a continued rebound in our base business after the 2020 pandemic-related decline.
+In addition, Q1 and Q2 of last year represented our peak COVID-related revenues.
+As a result of this, the first half of the year will have the most challenging year-over-year compares.
+For the first quarter, our revenue is expected to be between $3.515 billion and $3.575 billion, representing growth of 4.8% to 6.6% on a constant-currency basis and 3.1% to 4.9% on a reported basis.
+Now excluding COVID-related work, we expect organic revenue growth at constant currency to be in the mid-teens.
+Adjusted EBITDA is expected to be between $800 million and $815 million, up 7.5% to 9.5%.
+And finally, adjusted diluted earnings per share is expected to be between $2.40 and $2.46, growing 10.1% to 12.8%.
+So, to summarize, we delivered very strong fourth-quarter results on both the top and bottom line against what was also a very strong fourth quarter of 2020.
+R&DS recorded its largest-ever quarter of service bookings and for the first time, had over $10 billion of total net new bookings in a year.
+Our contracted backlog improved to a record of nearly $25 billion, up over 10% year over year.
+We delivered another strong quarter of free cash flow, bringing the full year to a record $2.3 billion.
+We closed 2021 with net leverage of 3.6 times trailing 12-month adjusted EBITDA.
+Our board approved a $2 billion increase to our share repurchase authorization.
+And finally, we're reaffirming the full year of 2022 guidance that we provided in November for revenue, and we're raising our adjusted EBITDA and adjusted diluted earnings per share guidance.

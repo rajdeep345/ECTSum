@@ -1,0 +1,177 @@
+A summary of these risks can be found on the second page of the slides and a more complete description on our annual report on Form 10-K.
+We will also be referring to several non-GAAP measures, which we believe provide investors with a more complete understanding of Broadridge's underlying operating results.
+I'll begin with an overview of our key messages and some highlights from our strong first quarter.
+Next, I'll provide an update on execution against our growth strategy across our three franchises.
+Finally, I'll close with some thoughts on how Broadridge is continuing to drive long-term sustainable growth.
+Our first quarter results marked a strong start to the fiscal year.
+Recurring revenues rose 16% and adjusted earnings per share rose 9%.
+Second, our top line growth continues to be propelled by a combination of our own actions and strong underlying market trends.
+The biggest driver of our 7% organic growth across all three of our businesses was the onboarding of closed sales as we continue to convert our $385 million backlog into recurring revenue.
+We also benefited from the continued tailwind of very healthy position growth in governance, driven by ongoing trends.
+Third, we continue to execute on our long-term growth plans across our governance, capital markets and wealth and investment management franchises.
+I'll provide an update on our execution steps in a few moments.
+Finally, our strong start to the year puts us in a very good position to reaffirm our full year guidance, including 12% to 15% recurring revenue growth and 11% to 15% adjusted earnings per share growth.
+It also keeps us on track to deliver at the higher end of our 3-year growth objectives.
+Beyond those three-year objectives, we are focused on delivering sustainable long-term growth driven by ongoing industry trends and investments across our governance, capital markets and wealth franchises and in turn, generating consistent top quartile shareholder returns.
+Generating those returns requires consistent execution.
+Our governance business had a very strong first quarter.
+ICS recurring revenues rose 11% to $410 million.
+As I noted earlier, the biggest driver of that growth was revenue from closed sales.
+The other key driver continued to be position growth, which reached 39% for equity proxies in a small quarter, and 9% for funds and ETFs.
+In equities, the growth continues to be broad-based across all market caps in multiple industries.
+In funds, much of the growth is being propelled by ETFs.
+Over the past decade, the number of both equity and funded ETF shareholders has risen at a high single-digit rate, propelled by the ongoing democratization of investing.
+We're also extending our governance franchise to enable voting choice.
+Many of you saw the announcement from BlackRock a few weeks ago that they will implement pass-through voting for their institutional investors.
+Climate change and ESG more broadly are becoming increasingly important to investors, and they're demanding to have greater transparency and voice in the actions that companies they own are taking to address these issues.
+Broadridge is playing a key role in helping BlackRock implement this important change.
+We have been working with them over an extended period to leverage our infrastructure to enable pass-through voting.
+It's a great example of how our expertise in managing preferences and voting and our 24/7 SaaS platform is helping our fund industry clients.
+Given the increasing importance of ESG, we're hearing from others in the industry, seeking to offer a similar service to their clients over time.
+Moving to capital markets.
+We continue to make progress in growing our franchise with revenues rising 34% to $209 million driven primarily by the integration of Itiviti, which is going well.
+Our newly combined capital markets team has hit the ground running in finding complementary product opportunities that leverage our pre and post rate expertise and client reach.
+For example, we recently announced the integration of Itiviti's NYFIX solution with Broadridge's buy-side portfolio order and investment management system.
+This will enable Broadridge's clients to achieve greater automation in their post-trade workflows and is a tangible step toward integrating our solutions across the trade life cycle.
+Outside of Itiviti, we brought live another large U.S. bank with a global business to our GPTM capital markets technology platform.
+The first phase of this onboarding, covering global fixed income, is a result of over two years of platform investment.
+We expect to roll out additional phases, including the expansion of equities over the coming quarters.
+In wealth and investment management, revenues rose 6% to $131 million.
+We continue to make steady progress in developing our Broadridge wealth management platform, while also delivering component solutions.
+For example, we were recently selected by a leading Canadian pension plan to leverage our investment management private debt and loan solutions to help them manage their alternative asset portfolio.
+I want to wrap up by giving you my perspective on what our continued execution means for Broadridge and our investors.
+Our strong first quarter results reflect the underlying growth trends powering our business and the execution of the clear growth plan we laid out at our Investor Day 11 months ago.
+We're extending our governance capabilities to cover more investors, more geographies and more issuers.
+We're building the data-driven solutions for the fund industry and the digital communications infrastructure that helps companies increase the effectiveness and lower the cost of their client communications.
+We're growing our capital markets franchise by adding new clients under our platforms and integrating the front office capabilities we acquired in Itiviti.
+And we're building our wealth and new management franchise by adding more component solutions and creating a next-generation wealth management technology platform.
+The critical factor underlying all this execution has been and will continue to be investment in our technology and digital platforms.
+We're pursuing a $52 billion market opportunity that's continuing to evolve.
+The long-term trends driving that evolution, including the ongoing democratization of investing, which in turn is driving and being driven by greater digitization, were only accelerated by the pandemic.
+Those same trends are powering our growth and creating an imperative for investment by our clients in the next-generation technology we provide.
+We're all hearing a lot these days about the "democratization" of investing.
+But what we are seeing now is a continuation of a 50-year trend driven by the ongoing combination of new technology and reduced trading costs.
+These forces have led to continued innovation from discount brokerage to online trading, to 401s, ETFs and managed accounts.
+More recently, modern user interface, 0 commission trading and the pandemic have accelerated this long-term trend.
+Together, these forces have made investing consistently more cost-effective and more accessible for more people.
+For Broadridge, this has supported high single-digit growth over the last decade in the number of positions we serve.
+Going forward, more innovations, including direct indexing, will support continued growth.
+So we expect that same high single-digit growth for many years to come.
+It's worth noting that democratization is also playing a part in the increasing importance of ESG, which further underlines the importance of what Broadridge does.
+As new investors come to the market and new innovations drive increased diversification, it's critical that investors get to shareholder disclosures and other communications they need to make informed decisions.
+Investors are also seeking to exercise their vote on how issuers and funds should approach ESG issues.
+Our 24/7 SaaS technology platform plays a critical role in powering that system of corporate governance.
+And these trends are making governance, voting and disclosures an even more important part of the investment process.
+We have built that platform through continuous innovation and investment to link tens of thousands of corporate issuers and funds with hundreds of banks and broker-dealers and tens of millions of institute individual investors.
+Our platform is constantly monitoring and validating positions across more than 100 million retail and 270,000 institutional accounts.
+Every day, we collect, maintain and manage the investor preferences that are critical to driving digital distribution.
+Doing so effectively and securely requires investment in continuous monitoring to provide the highest levels of data security.
+It also requires us to serve our bank and broker-dealer clients with co-branded communications, client service and integrated billing and collections that greatly simplify the entire ecosystem.
+As a result, we've built a 24/7 proxy and fund information infrastructure, which delivers highly accurate voting for thousands of annual meetings and whose efficiency saves funds and corporate issuers hundreds of millions of dollars each year.
+So we will continue to invest in extending that network to enable expanded voting, enhance shareholder communications and to better gather and share data analytics that helps funds and issuers better understand changes in their investor base.
+Digitization is the second trend that's been accelerated by the pandemic and which is driving our growth.
+It's reducing costs for our clients, broadening their reach and accelerating processes from account opening to trade settlement and communications.
+It's being facilitated by the rapid adoption of next-generation technologies.
+The move to the cloud enables a scalable and variable cost computing architecture, which is changing our clients' business models.
+Data, analytics, and AI are transforming how clients make decisions and power their investment processes.
+The move to digital technology and financial services has been both a driver and beneficiary of market democratization.
+Financial services need technology and scale to compete in today's complex markets, and Broadridge provides both.
+Our SaaS technology is an on-ramp for accelerated digitization with next-generation technology.
+We're delivering blockchain solutions to the repo market, AI-driven trading to fixed income and enhanced virtual and new meeting experience among many other examples.
+Bringing new technologies to our clients with mutualized solutions at scale is a core part of our strategy.
+Past investments have put Broadridge in a position to help our clients today.
+With the acceleration of democratization and digitization, the opportunity to invest for the future is as high as ever.
+We're investing to build new platforms and solutions, including our Broadridge wealth platform.
+Consistent with our history, we'll also actively seek out M&A opportunities that meet our strategic and financial criteria.
+Collectively, this investment strategy has and will continue to extend our capabilities in governance, including data analytics, capital markets, including most recently phone office trading and wealth and investment management.
+I'm confident that these investments will only further strengthen our position as an innovation enabler for our clients and reinforce our long-term growth.
+Finally, any focus on sustainable, long-term growth must be grounded in meeting the needs of all stakeholders.
+At Broadridge, that focus starts with our culture, anchored in the service profit chain that puts associate engagement at the core of our business approach.
+It extends to our clients and communities as well as our shareholders.
+I encourage you to read our recently released sustainability report.
+You'll learn about how we are building the most engaging workplace for the most talented associates in our industry, the efforts we make to keep our clients' data secure, our success in reducing greenhouse gas emissions and much more.
+They are the foundation of our success.
+Let me briefly sum up.
+Broadridge delivered a strong quarter driven by continued execution and powerful underlying growth trends.
+We are executing on our long-term growth strategy and are committed to making investments that will create additional opportunities.
+And we're doing it the right way by also driving associate engagement, making a positive impact on our communities, reducing our environmental footprint and improving the financial lives of millions.
+I'm confident that Broadridge is on track to achieve the higher end of our three-year growth objectives and is well positioned to drive sustainable growth for the long term.
+And now let me turn to Edmund for a review of our financial results.
+As you've just heard from Tim, we are pleased with how our strategy is progressing.
+It's good to be here to discuss another quarter of strong financial performance, driven by new sales, strong underlying volume trends and the acquisition of Itiviti.
+You can see that strong performance in the financial summary on slide seven, which shows that recurring revenues grew 16% to $751 million.
+Adjusted operating income rose 17% to $177 million, with AOI margins flat to last year at 14.8%, reflecting our continued ability to find efficiencies and gain operating leverage through our scale, allowing us to invest in our technology and digital platforms.
+That growth in operating income was partially offset by higher interest expense related to financing the Itiviti acquisition.
+As a result, adjusted earnings per share rose 9% to $1.07.
+Let's get into the details of those results, starting with the recurring revenue on slide eight.
+Recurring revenues grew from $650 million in Q1 '21 to $751 million in Q1 '22, an increase of 16%.
+Organic recurring revenue grew at 7% and came in at the high end of our 5% to 7% three-year objectives, reflecting the continued momentum from our sales and revenue backlog and increased investor participation.
+The contribution from acquisitions, primarily our continued success integrating Itiviti, added another nine points to recurring revenue growth.
+We reported double-digit recurring revenue growth in both of our segments.
+ICS recurring revenue grew by 11%, all organic, to $410 million, propelled by a combination of new sales and strong volumes.
+Regulatory revenues rose 23% to $165 million, powered by higher mutual funded ETF communications, strong equity position growth in the U.S. and closed sales revenue.
+Growth was also strong in our international proxy business led in part by strong performance in Canada.
+Our issuer business also contributed to our overall growth rate to strong sales of our disclosure products.
+And as expected, we are also benefiting from high retention of our virtual shareholder meeting solution.
+Data-driven fund solutions revenue grew 5% to $83 million, boosted by an increase in revenue from assets under administration and revenue from new sales of our data and analytics products.
+Finally, customer communications revenues rose 2% driven by new sales and growth in digital.
+In turning to GTO, recurring revenues grew 21% to $341 million and 2% organic.
+Wealth and investment management revenues rose 6%, driven by the onboarding of new component sales and higher retail trading.
+Capital Markets revenues increased 34% as we benefited from a full quarter of Itiviti revenue.
+Excluding Itiviti, organic growth was slightly negative as lower license and consulting revenue was offset by strong revenue growth from new business, including revenues from onboarding of the major U.S. bank that Tim mentioned.
+Going forward, we expect revenue from closed sales, fueled by our healthy revenue backlog, will drive strong growth over the balance of the year.
+Broadridge continued to benefit from strong volume trends in the first quarter.
+The biggest driver of our internal growth was mutual fund and ETF record growth, which rose 9% driven by healthy markets and strong inflows.
+Equity record growth was 39% in a seasonally small quarter.
+So keep in mind that the first quarter historically represents approximately 5% of full year equity communications with more than 80% coming in the fiscal third and fourth quarters while mutual funded ETF communications are more balanced through the year.
+Looking ahead, our testing of record positions is showing continued strong growth trends in the seasonally larger second half with high single-digit growth indicated for both equities and funds.
+On the bottom of the slide, we saw a modest 2% increase in our trading volumes as higher fixed income volumes were offset by lower equity volumes.
+Our outlook for the balance of the year assumes flat trading volumes.
+Turning to slide 11, where we summarize the drivers of recurring revenue growth.
+Recurring revenues rose 16%, powered by 7% organic growth and nine points from acquisitions.
+Revenue from closed sales was the biggest driver of our organic growth.
+We saw strong contribution from sales across both ICS and GTO.
+Our recurring revenue retention rate remained unchanged at 98% and internal growth contributed another two points as growth in ICS outpaced the decline in GTO.
+Itiviti was the biggest driver of our acquisition growth, contributing $54 million of growth with a much smaller contribution from the tuck-in acquisitions we made late in Q4 and in early Q1.
+Total revenue growth was 17% as strong recurring revenue growth was accompanied by four points of growth from higher distribution revenue and three points from event-driven revenues.
+Low to no margin distribution revenues grew 11% year-over-year, primarily resulting from the higher customer communications mailings.
+Higher postage rates were a small factor in the first quarter but will be a more significant contributor to distribution revenues for the remainder of the year.
+So we expect continued high levels of distribution revenue growth for the full year.
+And as I've previously noted, over the long term, we expect that the share of distribution revenue as a percentage of total revenue will continue to decline as we remain focused on growing recurring revenue.
+Event-driven revenues rose to $76 million in the quarter, driven by higher mutual fund proxies.
+Q1 '22 did benefit from a large fund proxy that was originally expected in Q3 '22.
+Despite this timing benefit and given the strong start to the year, we now expect event-driven revenues for the full year to be modestly ahead of our $220 million seven-year average.
+For modeling purposes, we're expecting Q2 to Q4 to be in line with our $55 million seven-year quarterly average.
+Rounding out revenue drivers, changes in FX contributed one point to our growth.
+You can find our comparable revenue, segment profitability and closed sales numbers for fiscal '20 and '21 in the eight-K we filed at the end of September and in the appendix to these slides.
+So let's now move to margins on slide 13.
+Adjusted operating income margin was flat at 14.8% in the first quarter.
+The positive impact of strong recurring and event-driven growth was offset by growth investments and an increase in low-margin distribution revenue.
+We continue to expect AOI margin of approximately 19% for the full year as we benefit from the higher-margin Itiviti revenues and continued margin expansion in our organic business, offsetting the greater-than-expected higher growth and low margin distribution revenues.
+Moving on to close sales on slide 14.
+Closed sales of $30 million were essentially flat year-over-year.
+And closed sales were balanced across both our ICS and GTO segments, and we continue to see over 2/3 of our sales in smaller core deals, those under $2 million in annualized value.
+That gives us confidence in the broad demand and long-term growth of our digital products.
+We remain on track to deliver $240 million to $280 million in closed sales for the full year.
+And finally, cash flow and capital allocation on slide 15.
+Broadridge's cash flow generation is typically negative in the fiscal first quarter and strengthens throughout the year, and Q1 '22 was no exception with negative free cash flow of $151 million.
+Turning to uses of capital, we continue to invest in our long-term growth.
+A big part of that investment is the technology platforms we're building in capital markets and wealth.
+These new platforms require upfront investment to build new capabilities and convert new clients.
+We invested $82 million in our platforms during the first quarter.
+Our investment in our next-generation wealth management platform is an important part of that, but we're also investing in other platforms such as our global post-trade management or GPTM solution.
+All of these investments are tied to long-term client contracts and strengthen our capabilities across capital markets and wealth management.
+We will continue to prioritize these internal investments in our technology platforms as part of our capital allocation model.
+And we're excited about the growth from new client revenues as we convert clients onto the new platforms.
+As we integrate Itiviti, continued M&A remains a focus.
+During the quarter, we had a modest minority investment and invested $13 million in a pair of tuck-in acquisitions within our capital markets business.
+Looking forward, you can expect us to continue investing in our platforms and allocating capital to targeted M&A opportunities that meet our high strategic criteria and financial profile.
+And we will continue to return capital to shareholders, primarily through our dividend, as we remain focused on paying down debt and maintaining an investment-grade credit rating.
+We are reaffirming our full year guidance on all of our key financial metrics.
+We continue to expect 12% to 15% recurring revenue growth, adjusted operating income margin of approximately 19% and adjusted earnings per share growth of 11% to 15%.
+I'll note that over the last five years, the first half has typically represented less than 30% of our full year adjusted EPS, and I expect that trend to hold in fiscal year '22.
+Finally, as I noted earlier, we expect closed sales in the range of $240 million to $280 million.
+And with that, let me reiterate today's key messages.
+Broadridge delivered strong first quarter results with 16% recurring revenue growth driven by new sales, strong underlying volume trends and the acquisition of ltiviti.
+We are reaffirming our guidance for a strong fiscal year 2022, and we are investing in our business as we pursue our $52 billion addressable market.
+As a result, we are well positioned to deliver at the high end of our three-year objectives, and we see a long run rate for continued growth.

@@ -1,0 +1,119 @@
+Information required by SEC Regulation G relating to these non-GAAP financial measures are available on the Investors section of our website, www.
+fortive.com, under the heading Investors Quarterly Results.
+We completed the separation of our Industrial Technologies segment through the spin-off of Vontier Corporation on October 9, 2020, and have accordingly included the results of the Industrial Technologies segment as discontinued operations.
+All references to period-to-period increases or decreases and financial metrics are year-over-year on a continuing operations basis.
+Starting on slide three.
+Our first quarter performance continued to highlight the benefits of our efforts to enhance the growth and resilience of our portfolio, significantly expanding our positions in software and healthcare and adding substantial sources of higher growth recurring revenue.
+As a result, our portfolio has been well positioned to drive rapid sequential improvement over the past few quarters as markets have begun to reopen.
+In Q1, we continue to see significant improvement, not only across our short-cycle businesses, primarily Fluke Instruments and Tektronix, but also at many of the businesses that have faced COVID-related headwinds, such as Advanced Sterilization Products.
+Turning to the results in the quarter.
+We generated total revenue growth of 13.6% and core revenue growth of 9.1%, above the high-end of our guidance.
+Adjusted earnings per share was $0.63, representing an increase of 37% year-over-year.
+The combined outperformance on core growth and earnings helped drive another strong quarter of free cash flow.
+Our SaaS offerings at Accruent, Intelex, Censis, eMaint and Gordian continue to perform well, generating double-digit growth in the quarter, with the current Gordian seeing better top line momentum overall.
+These software offerings are an important part of our strategy to leverage leading hardware positions to provide broader software-enabled solutions to address pain points in our customers' critical workflows and their ongoing digital transformation priorities.
+Despite the challenges of a COVID environment, we continue to leverage FBS tools to drive performance improvements across the portfolio.
+ASP is advancing the implementation of the Fortive Business System more broadly, driving strong improvements in working capital turns as well as progress accelerating commercial efforts, as it delivered its fifth consecutive quarter of growth in its global installed base.
+Intelex also continues to see success from the application of FBS tools to improve its sales process, driving better lead generation, improved customer win rates and stronger sales pipeline creation.
+While these are just a couple of examples, we are highly focused on building FBS capability across our newer businesses, in order to deliver accelerated growth, innovation and market share gains.
+Relative to organic growth, we continue to invest in strategic initiatives across our operating companies as well as build additional capacity to drive future innovation.
+With the FORT, we are continuing to scale our data analytics capabilities, providing leverage to our operating companies to pursue key AI and machine learning applications.
+In 2020, we more than doubled the number of projects conducted and expect to do the same this year, targeting more than $250 million of potential revenue opportunity.
+Our acquisition of ehsAI significantly expanded our machine learning expertise to help grow our position within EHS workflows as well as generate learnings that can be applied more broadly within Fortive.
+We've also made a number of additional investments to expand our partnership with Pioneer Square Labs, with three start-up opportunities currently in different phases of incubation.
+With these investments, we are enhancing our ability to generate disruptive innovation that will deepen our competitive advantage and increase our customer value proposition.
+In terms of performance across the major geographies, core growth was led by low 20% growth in Asia.
+This included approximately 30% growth in China and low double-digit growth in Japan.
+Elsewhere, our core revenue grew by low double-digits in Western Europe and by low single-digits in North America.
+Taking a closer look at performance in the segments on slide seven, Intelligent Operating Solutions posted a total revenue increase of 9.5%, with core revenue increase of 5.5%.
+This included high-teens growth in China, high single-digit growth in Western Europe and a flat top-line in North America.
+Fluke's core revenue continued to improve in the first quarter, increasing by high single-digits.
+This performance was highlighted by low double-digit growth at Fluke Industrial and high-teens growth at Fluke Calibration.
+Fluke's growth included the launch of the 377 and 378 Fluke Connect, plant meters for non-contact voltage testing.
+These introductions incorporate Fluke's FieldSense technology and extend its leadership position in safer non-contact measurement tools.
+At Fluke Industrial, point-of-sale in North America turned positive in the first quarter, increasing by low single digits.
+Meanwhile, point-of-sale in both Western Europe and China continue to improve, rising by mid-single digits and mid-teens, respectively.
+Strong performance at Fluke Digital Systems continued this quarter, increasing by mid-single digits as eMaint saw strong demand with mid-teens growth in SaaS bookings.
+Industrial Scientific declined single-digits in the first quarter, as a result of continued weakness in instrument sales.
+The company's iNet offering continued to demonstrate its resilience, increasing by low single-digits.
+iNet also registered an 18% increase in bookings, while driving a more than 500 basis point improvement in net retention.
+Stub's strong bookings growth in ISC's rental business provided a signal of improving stability in its end-markets with customers beginning to restart maintenance project activity.
+At the same time, we are seeing continued success from the application of FBS growth tools at Intelex to accelerate sales pipeline creation, driving a record revenue quarter with low double-digit growth.
+The integration of ehsAI continues to go well.
+While the revenue contribution remains small, product integration is on schedule, and the Intelex team has started to accelerate new customer acquisition.
+Accruent grew by low single-digits in the first quarter, highlighted by high single-digit growth in SaaS.
+Accruent continue to see good momentum in its Industrial and Life Science segments.
+This included a recent win at BioMarin, which included Accruent's Meridian solution as a critical tool for management of their pharmaceutical manufacturing facilities, including communication with contractors and support for FDA validation.
+Accruent is also seeing growing demand across a range of end markets for its facility planning and resource scheduling solutions with customers beginning to prepare their facilities for the future needs of their workforce as they emerged from the pandemic.
+Accruent's growth in the quarter was aided by the resumption of some on-site service, implementation and project-related activities with further improvement expected as the year continues.
+After facing headwinds during the second half of 2020, Gordian's top-line improved to flat in the first quarter.
+Gordian's job order contracting procurement business grew by low single digits and is expected to accelerate as the ramp-up of recovery from COVID continues.
+The company's estimating business continued to perform well, increasing by high single-digits and seeing strong renewal momentum and conversion rates for the SaaS version of its RSMeans product line.
+Gordian saw signs of improvement during the first quarter regarding site access issues.
+We expect this improvement will continue in the coming quarters.
+The Precision Technology segment posted a total revenue increase of 14.3% with a 12.1% increase in core revenue.
+This included mid-30s percent growth in China, mid-teens growth in Western Europe and mid single-digit growth in North America.
+Tektronix generated high-teens growth, driven by strength in its general industrial and semiconductor markets.
+Point-of-sale continue to accelerate, up greater than 40% in China, greater than 20% in Western Europe, while North America turned positive with a mid single-digit increase in the quarter.
+Tektronix has seen strong demand in China as economic recovery continues, driven by government investment in 5G, electric vehicles and IoT solutions.
+Looking across the product lines at Tektronix, mainstream oscilloscope in Keithley both had an excellent first quarter.
+Mainstream oscilloscope posted high 30% growth, driven by strong demand trends across most of its key product segments, particularly our six series and four series scopes.
+Keithley grew mid-teens, while the Tektronix service business continued to show stability, reporting mid single-digit growth in the first quarter.
+Tektronix also saw outperformance across a range of recent new product introductions, including its new ISO view probe solution for semiconductor and automotive market applications.
+Sensing Technologies grew by low double-digits, driven by broad strengthening across end markets, including industrial and electronics customers.
+Sensing saw accelerating demand in China as it delivered a number of key wins with strong momentum among factory automation OEM customers.
+Sensing also generated strong growth from its critical environment products, etc, with mid-30% growth for the quarter.
+Pacific Scientific EMC returned to growth, increasing by low single-digits in the first quarter.
+The business continued to see good order trends with a book-to-bill of 1.2 over the trailing 12 months and has a strong backlog that we expect to support improving growth in the coming quarters.
+Moving to Advanced Healthcare Solutions.
+Total revenue increased 20.3% with a 10.9% increase in core revenue.
+This included low 40% growth in China, low 20% growth in Western Europe and low single-digit growth in North America.
+ASP returned to growth in the first quarter, increasing by mid single-digits.
+Growth at ASP was driven by a greater than 40% increase in capital equipment sales as it continued to grow its global installed base.
+This momentum in capital sales more than offset the fact that electric procedures were 91% of pre-COVID levels globally and continue to weigh on ASP's consumable revenue.
+Stronger capital sales are an indication of the progress ASP is making in its FBS journey by driving better sales execution and improved funnel management at priority independent delivery network accounts.
+ASP continued to perform well in Western Europe with its fifth consecutive quarter of growth.
+ASP was also recently named the Preferred Supplier by the National Health Service in the UK and a large multiyear tender for terminal sterilization capital and services.
+Censis also had a strong first quarter, growing by low-teens with low-double-digit growth in its CensiTrac SaaS offering.
+Censis has seen improved upselling momentum across its business and is also seeing evidence of US hospitals moving to post-COVID operations and faster purchasing decisions.
+Fluke Health Solutions increased by low-teens in the first quarter, with broad strength across its product lines.
+FHS continues to have success deploying FBS to drive to growth and margin improvements at LANDAUER leveraging global go-to-market scale and accelerating cross-selling and products and services.
+Landauer is now seeing an approximate 2.5 times improvement in its operating margins since acquisition.
+Finally, Invetech reported mid-40% growth as it delivers against a strong backlog of 2020 orders for its diagnostic offerings.
+With that, I'll pass it over to Chuck, who will take you through additional details on our margins and free cash flow for the quarter.
+Solid execution across the portfolio enabled us to deliver strong margin performance in Q1.
+Adjusted gross margins were 57% in the first quarter, up 90 basis points, driven by the fall-through on the strong growth at Fluke and Tektronix as well as the year-over-year gross margin improvement at ASP coming off the transition service agreements.
+It also reflected solid execution with FBS throughout the portfolio, including continued price realization of 90 basis points in the quarter.
+Our Q1 adjusted operating profit margin was 22.7%, a bit higher than we had guided, helped in part by the stronger volume we saw in the quarter.
+We generated 40% of adjusted incremental operating margins and 240 basis points of core operating margin expansion and also generated more than 200 basis points of core operating margin expansion in each of our three segments.
+During the first quarter, we generated $144 million of free cash flow, representing an increase of 50% year-over-year.
+We continue to be pleased with the consistent growth in free cash flow and have delivered -- that we've delivered over the past year, with the first quarter taking our trailing 12 months free cash flow to $950 million.
+Along with significant growth in earnings, disciplined working capital management at ASP, Fluke and Tektronix contributed to this free cash flow performance.
+Early in Q1, we executed the tax-efficient monetization of our remaining 19.9% stake in Vontier, generating approximately $1.1 billion in proceeds which we used for debt repayment.
+On the basis of that transaction and our free cash flow from Q1, we ended up the first quarter with a net leverage ratio of 1.2 times.
+Supported by our continued strong free cash flow and significant balance sheet capacity, we are well positioned to pursue our key capital allocation priorities and are maintaining an active pipeline of deal cultivation efforts.
+We continue to see a broad range of opportunities to deploy capital to build on our core hardware and instrumentation positions as we also leverage deep domain and workflow expertise into adjacent high value software data-driven opportunities.
+Turning now to the guide on slide 11.
+As a result of the strong first quarter performance and given some improvement in our outlook for the rest of the year, we are raising our 2021 guidance.
+For the full year, we now expect adjusted diluted net earnings per share to be $2.50 to $2.60, representing year-over-year growth of 20% to 24% on a continuing operations basis.
+This assumes total revenue growth of 10% to 13%, core revenue growth of 7% to 10%, adjusted operating profit margins of 22% to 23% and an effective tax rate of approximately 14%.
+It also assumes core revenue growth of 5% to 7% in the second half of 2021.
+We also continue to expect free cash flow conversion to be approximately 105% of adjusted net income for the year.
+We are initiating second quarter adjusted diluted net earnings per share guidance of $0.56 to $0.60, representing year-over-year growth of 30% to 40%.
+This assumes total revenue growth of 20% to 23%, core revenue growth of 16% to 19%, adjusted operating profit margins of 19.5% to 20.5% and an effective tax rate of approximately 14%.
+For the second quarter, we expect free cash flow conversion to be approximately 85% of adjusted net income.
+The full year guidance incorporates $35 million of additional investments that we are making to drive innovation and enhance our capabilities to support higher growth in the years ahead with $15 million in the second quarter.
+This includes funding for the FORT to expand our analytic capabilities and talent base as well as to accelerate the development of AI machine learning offerings for our customers.
+It also includes funding for investments in our partnership with Pioneer Square Labs, where we have seen good early progress thus far.
+With that, I'll pass it back to Jim for some closing remarks.
+Before we move to questions on slide 13, I wanted to highlight the continued progress we're making with respect to our key sustainability goals.
+In Q1, we completed an updated materiality analysis, yielding valuable insights that we use to define the new pillars of our sustainability strategy, which will guide our efforts going forward.
+We've also made significant progress implementing the Intelex sustainability performance indicators platform across the portfolio, which we used to complete the collection of 2020 emissions data with new, more aggressive carbon emissions targets.
+We look forward to discussing our progress and our evolving sustainability goals at our upcoming Investor Day.
+The results that we announced today are a testament to the depth and dedication of our teams and the relentless focus on the continuous improvement principles that power our culture.
+As we look forward, we are excited about the strength of our portfolio, the quality of the market opportunities we address and the significant organic and inorganic growth opportunities ahead of us.
+As macro indicators continue to recover from the COVID-19 pandemic, our focus will remain on driving strong core growth, margin expansion and free cash flow generation, while investing in innovation and deploying our capital to acquisitions that accelerate our strategy and increase the value we bring to customers.
+We are also excited to share more details with you about our road ahead when we speak on May 19 at our Investor Day.
+In the almost five years since our spin, we have positioned the portfolio to be higher growth, more profitable and a more powerful generator of free cash flow.
+This sets us up well for accelerated compounding across our businesses, which we look forward to discussing with you.
+That concludes our formal comments.

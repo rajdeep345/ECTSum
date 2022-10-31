@@ -1,0 +1,53 @@
+Our earnings slides provide a reconciliation of the GAAP to non-GAAP financial metrics used.
+Core means the designated financial metrics excluding the impact of the recent s::can and ATI acquisitions.
+We believe this reference point is important for year-over-year comparability.
+I'm not sure how often in the term supply chain challenges or inflation are going to be referenced during the quarterly earnings cycle over the next month, but I can only imagine it's going to be an all-time record.
+While we clearly faced our fair share of those challenges, I want to focus my introductory comments and recognizing the tremendous execution of our Badger Meter teams globally, for their proactive and constructive dialog with customers to manage priorities, expectations and build trust, for their agility and effectively redesigning certain product components to provide greater flexibility on supply sources, for their unrelenting diligence and supplier and logistics management, and for their collaboration across functions to maximize our deliveries to customers.
+These strategic and tactical actions by our world-class team allowed us to deliver record sales and earnings this quarter, while we added to our already record backlog.
+Turning to Slide 4.
+Our total sales for the third quarter were $128.7 million, an increase of 13.3% over the $113.6 million in the same period last year.
+Total utility water product line sales increased 12.2%.
+Excluding approximately $10 million of sales from the s::can and ATI acquisitions, core utility water revenues increased 1.7% year-over-year.
+A great result considering both the difficult prior year comparison and current year supply chain challenges.
+In addition to the difficult comparison, our manufacturing output in the current quarter continued to be limited by supplier shortages of certain electronics and other components along with logistics challenges.
+We did experience growth in mechanical meter, cellular radio and BEACON software as a service levels, and we continue to realize the benefit from strategic value-based pricing actions.
+Strong orders continued in the third quarter of 2021, and we exited the quarter with another record high backlog.
+Our water quality solution sales were also impacted by supply chain challenges on a more modest basis, yet still delivered results in line with our expectations.
+The flow instrumentation product line did not escape the impact of production limitations from component shortages, but delivered a strong 18.5% year-over-year increase in sales.
+Improved demand trends across the majority of global end markets and applications as well as an easier comparison led to the increase year-over-year.
+We are very pleased with the margin performance in the quarter, in light of widespread inflation, difficult comparisons and the dynamic supply chain impact on manufacturing operations.
+Starting with gross margins, we increased gross profit dollars by $6.2 million and as a percent of sales, gross margins improved 20 basis points to 39.8% from 39.6%.
+Margins benefited from favorable acquisition mix as well as the higher volumes and positive product sales mix, namely higher SaaS revenues, along with favorable value-based pricing realization.
+These factors combined more than offset increasing cost headwinds across purchase components, including higher brass, resin and other materials, as well as freight and logistics.
+As our margins demonstrate, we have executed well thus far and proactively implementing pricing mechanisms to offset existing cost increases, however, as been well publicized, the breadth and pace of inflationary pressures is increasing.
+We will continue to actively monitor pricing in light of these circumstances, recognizing there'll be leading and lagging impacts in this dynamic environment.
+SEA expenses in the third quarter were $31.7 million consistent with the first two quarters on a dollar basis, with sequentially improved leverage as a percent of sales to 24.7%.
+SEA expenses increased $6.2 million year-over-year with the inclusion of the water quality acquisitions as well as more normalized pandemic impacted expenses such as travel.
+As a result of the above, overall operating profit margin was 15.1% compared to a record 17.2% in the prior year quarter.
+The income tax provision in the third quarter of 2021 was 18.3%, below the prior year's 23.9% and our normalized rate in the mid 20% range due to a discrete favorable income tax benefit related to equity compensation transactions.
+In summary, earnings per share was $0.54 in the third quarter of 2021, an increase of 6% from the prior year's earnings per share of $0.51.
+Working capital as a percent of sales was 25.6%, an increase of 140 basis points compared to the prior quarter-end.
+The modest elevation in accounts receivable and inventory are temporary byproduct of the current supply chain environment.
+For example, we are strategically maintaining higher levels of certain inventory components and work in process, capitalizing on spot availability and capacity.
+In addition, certain customers are understandably deferring payment on partial shipments.
+We believe these are transitory repercussions of the current environment.
+Free cash flow of $13.9 million was lower than the prior year, the result of this higher working capital.
+On a year-to-date basis, free cash flow conversion of net earnings is 125%.
+Turning to Slide 5.
+We've updated the quarterly sales comparison chart which highlights the key factors driving uneven year-over-year top line trends.
+The growth rate we experienced this quarter excluding the acquisitions was the result of strong customer demand, which was muted by headwinds from the varied supply chain challenges and difficult prior year core utility water comparisons.
+As we enter fourth quarter and look to 2022, our backlog is supportive of continued sales growth with the level of quarterly sales quite frankly dependent on the level of supply chain disruption.
+While this could be the variability in the cadence of sales, it is important to recognize two things.
+With regard to our execution.
+One, our performance thus far is delivering total sales growth despite the significantly supply challenged environment.
+And two, that our orders and awards are not being canceled or postponed, but simply shifting to the future.
+We feel very good about our competitive position and the underlying drivers supporting our markets.
+In summary, here on Slide 6, we believe that our strong order momentum and backlog confirms the underlying market demand for our solutions, which combine data, communications and analytics into tailorable solutions to enable customers to be more efficient, effective and sustainable throughout the water ecosystem.
+The water quality acquisitions continue to perform well and the integration work that has been underway, including customer discussions, confirm the growing need and acceptance of online low maintenance and reagent free solutions for real-time water quality monitoring.
+These distributed solutions will be a game changer for utilities, wastewater and industrial customers alike.
+We remain optimistic about our future prospects as we continue to execute on our growth strategy, but in tandem we are acutely aware of the challenges presented by the current disruption to the supply chain and global shortage of electronics and other components, accelerating broad-based inflation as well as the potential for further impacts from the pandemic.
+While these challenges are not unique to Badger Meter or even our industry, the ongoing headwinds have the ability to impact top line growth rates and exert increasing margin pressures.
+The breadth of these challenges is greater than what we've experienced previously, but the playback -- playbook for addressing them is not new.
+Finally, I want to mention our work with AT&T on the connected climate initiative they launched in August.
+We are one of the several partners that AT&T highlighted for our efforts to reduce the impact of climate change via the the water and energy savings associated with our smart water offerings.
+Using infrastructure free cellular technology in our ORION LTE-M radio, enables our AMi solutions to deliver more resilient, efficient and sustainable water solutions.

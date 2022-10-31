@@ -1,0 +1,102 @@
+Before we begin, I'd like to review the Safe Harbor statements.
+During the call today, we may also discuss non-GAAP financial measures.
+Additionally, the content of this conference call may contain time-sensitive information that is accurate only as of the date of this earnings call.
+We do not undertake and specifically disclaim any obligation to update or revise this information.
+I will now turn the conference over to our President and Chief Executive Officer, Matthew Lambiase.
+I'd like to start by saying that all the employees at Chimera are healthy and working remotely from home.
+We implemented our contingency work plan in early March, and have not experienced any significant technology issues.
+We all hope view and your family stay safe and healthy as well.
+In the month of March, the COVID-19 pandemic created an environment of fear and extreme uncertainty resulting in near catastrophic conditions for the fixed income markets.
+Many investors felt that the government mandated lockdowns would likely bring an economic recession and they sold their credit investments while reinvesting into safer risk-off assets such as T-Bills, U.S. Treasury notes and cash.
+Credit-focused bond funds and ETFs saw record outflows forcing fund managers to sell their holdings into thin markets creating heightened volatility and market dislocations.
+All sectors of the fixed income market, apart from U.S. treasuries, experienced sharp downward price movements.
+So investors who use leverage as part of their strategies we're also forced to sell assets as they attempted to meet margin calls from their repo lenders.
+Market conditions witnessed in March of 2020 were very similar to that experienced in the the 2008 crisis.
+Yet, price movements were swift and occurred over a much shorter timeframe.
+The Federal Reserve was quick to respond and on March 15, a Sunday night, they announced many initiatives to combat the worsening economic conditions.
+The Federal funds rate was cut to 0%, new purchase plans for treasuries and agency mortgage-backed securities were implemented and funding programs like the TELS and commercial paper facility were revived from the 2008 Federal Reserve playbook.
+The Fed's actions were largely helpful bringing order to many areas of fixed income market including agency mortgage-backed securities.
+Liquidity programs for residential credit securities were not offered by the Federal Reserve and they continue to trade in a challenged fashion in the secondary markets.
+Like the Fed, Congress also did its part by passing the CARES Act with the intent to help individuals most directly impacted by the COVID-19 pandemic.
+The U.S. economy is vastly different today than where it was prior to the COVID-19 crisis.
+The abrupt shutdown in the U.S. economy has swiftly created some of the worst economic problems since the Great Depression.
+In these past six weeks, 30 million people have applied for unemployment benefits, a sharp contrast to the 3.5% unemployment rate that we had in February.
+Many U.S. homeowners have decided to take advantage of newly created mortgage forbearance programs.
+In the near term, the government initiatives, coupled with mortgage forbearance, will soften the immediate blow to the U.S. economy.
+But these may have lasting negative impact on the housing and mortgage market, should they persist for an extended period.
+Over the past several years, Chimera has taken a number of balance sheet initiatives that helped it in this difficult period to protect our book value to meet all the margin calls from our repo lenders and to pay our dividends.
+Our agency mortgage-backed securities portfolio has always served dual purposes, primarily as a source of spread income, and secondarily as a source of liquidity rather than selling our higher yielding legacy assets.
+This quarter, we sold our agency pass-through securities to pay down debt and further deleverage our overall portfolio.
+We ended the first quarter at 2.2 times recourse leverage, down 35% from year-end.
+Over the past decade, we've purchased or acquired approximately a $14 billion portfolio of legacy non-agency securities and season-low loan balance mortgages.
+This portfolio is funded through securitization as well as repo leverage, but it has not been immune to downward price movements.
+We've worked diligently to protect this portfolio, which has historically been a consistent driver of earnings for our company and makes Chimera's portfolio differentiated in the mortgage REIT industry.
+We remain hopeful that at some point in the future, the pricing of these assets reverts to it's fundamental value, rather than the illiquid pricing we're currently experiencing.
+A restarting of the economy should be a good first step in the process, which we believe could lead to an improvement in credit spreads and a recapturing of our lost book value experienced in the quarter.
+In the last few months, we've been busy executing transactions on the liability side of our balance sheet.
+In March, Chimera executed two mortgage securitizations, totaling $883 million.
+We've arranged over $800 million of longer-term refocus over these for our credit assets and we executed $374 million of convertible debt, which further diversifies our liability and capital structure.
+While pricing is never ideal in a crisis, we are heartened to be able to access the capital markets.
+Looking forward, it's hard to have a clear view on how the U.S. economy is going to perform as it starts back up.
+We are in uncharted waters with regard to the high unemployment and severe changes in social habits.
+We would love to believe that we'll be back to a V-shape recovery, but it's most likely going to take longer and be difficult to get back to where we were in February.
+The mortgage and housing market outlook will also be challenging in the very near term.
+Mortgage forbearance stays at a high degree of uncertainty to mortgage credit and we will be cautious until we have more clarity on the forbearance duration and the totals in our portfolio.
+Given all these complexities, earnings for the next few quarters will be difficult to predict until the economic conditions clarify.
+We remain focused on maintaining liquidity, extending our financing terms, and keeping our credit portfolio intact.
+We are navigating through a very turbulent period but we are very hopeful that the U.S. economy will recover and the mortgage market will return to more normal footing when the economy restarts and people get back to work.
+The first quarter of 2020 was an extremely volatile period in the U.S. fixed income market.
+The 10-year treasury note began the year at 1.92% and fell 125 basis points to end the first quarter with a yield of 0.67%.
+The Federal Reserve cut its overnight lending rate by 150 basis points over a two-week period as part of its response to the COVID-19 pandemic.
+The large drop in interest rates, sharp increase in rate volatility and investor flight to quality had a large imbalance of funds across most fixed income products.
+Investors that utilized leverage were forced to sell their securities at low prices to meet margin calls on existing repo transactions.
+Chimera was not immune.
+In the first quarter, we utilized the combination of cash balances, unpledged [Phonetic] securities and outright sales of our agency assets as part of our overall liquidity management strategy.
+Chimera has successfully met all margin calls to date.
+Chimera's swift [Phonetic] funding strategy is multifaceted.
+The primary objective has been and continues to be utilizing securitization to create long term funding for our credit assets.
+At the end of the first quarter, we had nearly $8.5 billion of securitized debt outstanding.
+Secondarily, we use repo financing on our retained assets, legacy non-agency securities, and loans.
+We typically use longer repo maturity dates when financing these assets, which enables more effective counterparty and portfolio management.
+And post quarter end, we added two new long term credit financing facilities totaling $800 million.
+These facilities contain attractive features including a significant reduction of daily mark-to-market risk on our credit assets.
+We successfully continued our loan securitization strategy this quarter and in March, we priced two deals with season reperforming loans from our warehouse.
+CIM 2020-R1 has $391 million underlying loans with a weighted average coupon of 5% and a weighted average loan age of 158 months.
+The average loan size in the R1 securitization was $123,000 and had an average FICO score of 613.
+We sold $312 million senior securities with a 2.35% cost of debt.
+Chimera retained a March 2023 calendar call option on the R1 securitization.
+In addition, we securitized CIM 2020-R2, which had a $492 million underlying loans with a weighted average coupon of 3.79% and a weighted average loan age of 161 months.
+The average loan size in the R2 deal was $219,000 and had an average FICO of 690.
+We sold $352 million senior securities with a 2.55% cost of debt.
+In response to the significant drop in interest rates, increased price volatility and repo margin calls, this quarter, we sold our entire portfolio of $5.7 billion residential agency pass-throughs.
+These pass-throughs were the most liquid and lowest yielding assets in our portfolio and have always been part of our strategy to meet our liquidity needs.
+We also terminated all our agency hedge positions comprised of U.S. Treasury note futures and $4.1 billion notional balance on interest rate swaps.
+The agency CMBS portfolio, which has taken us many years to accumulate, was retained.
+As of the quarter end, this portfolio totaled $2.5 billion.
+We continue to like the spread income generated by this portfolio and the superior convexity profile of Ginnie Mae project loans relative to residential agency pass-throughs.
+These securities finance well in the repo markets and have some more rates and haircuts as traditional agency pass-throughs.
+The unique [Indecipherable] explicit prepayment lockout and penalties are valuable security trades as interest rates fall.
+After quarter end, spreads on agency CMBS began to tighten when the Fed began purchasing these assets as part of their quantitative easing program.
+Portfolio activity this quarter has significantly reduced the company's risk exposure as measured by recourse leverage.
+We ended the quarter at 2.2 times recourse leverage down from 3.4 times at year-end and 3.8 times at the end of the third quarter of 2019.
+This represents a 35% reduction of recourse leverage over the last three months and 42% over the past six months.
+It is important to note, due to current market conditions, our high-yield credit assets, which is the largest component of our portfolio, have been marked down in book value -- have been marked down in value, which has contributed to Chimera's lower book value this quarter.
+Our ability to retain this portfolio enables the opportunity for security value increases over time as economy restarts and the country works its way through the current pandemic.
+As we move forward to the current economic crisis, we remain cautiously optimistic.
+We will continue to space out the repo maturities and seek longer tenure for our credit repo.
+And as we get more visibility into the housing and mortgage economics resulting from the crisis, we will seek to deploy cash into new investment opportunities as we have for the past decade.
+I'll review Chimera's financial highlights for the first quarter.
+GAAP book value at the end of the first quarter was $12.45 per share.
+Our GAAP net loss for the first quarter was $389 million or $2.08 per share.
+On a core basis, net income for the first quarter was $106 million or $0.57 per share.
+Economic net interest income for the first quarter was $151 million.
+For the first quarter, the yield on average interest earning assets was 5.3%.
+Our average cost of funds was 3% and our net interest spread was 2.3%.
+Total leverage for the first quarter was 4.7 to 1, while recourse leverage ended the quarter at 2.2 to 1.
+Expenses for the first quarter, excluding servicing fees and transaction expenses were $18.6 million, consistent with last quarter.
+Given the current market environment, we wanted to provide additional information about liquidity.
+We currently have approximately $650 million in cash and unencumbered assets.
+This is after we paid both our preferred and common stock dividends totaling $111 million.
+Also, in April, we closed a public convertible bond offering that raised $374 million.
+We believe it's important to have ample liquidity in this market and we're happy that the capital markets were open for us to achieve this goal.
+We will continue to monitor our liquidity and assess opportunities to increase liquidity and balance, supporting our current portfolio and finding new opportunities in the market.

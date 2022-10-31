@@ -1,0 +1,79 @@
+Greg and Jason will review our results along with commentary, and Jack and Kelly will join for Q&A.
+These materials include GAAP to non-GAAP reconciliations for your reference.
+These statements are based on current expectations and assumptions that are subject to a variety of risks and uncertainties.
+Information about factors that could cause such differences can be found in today's earnings news release, in the comments made during this conference call, in the Risk Factors section of our 2020 annual report on Form 10-K and in our other reports and filings with the SEC.
+I'll start off by sharing a few thoughts about the overall business before Jason takes us through results and our outlook.
+First, Q1 was an excellent quarter.
+We achieved Q1 records for sales, operating earnings and cash flow.
+We expanded operating margins by 220 basis points and ended the quarter with backlog of $11.3 billion, up 8% versus last year.
+Additionally, demand remains strong, resulting in orders that were higher than any other first quarter in our history.
+Second, our Software and Services segment had another outstanding quarter and continues to drive revenue growth and operating margin expansion.
+Sales for the quarter were up 15%, driven by growth across our LMR, video security and command center software technologies.
+And the segment also finished with operating margins up 310 basis points versus last year.
+And finally, based on the increased demand we're seeing across our business and our strong backlog position, we're raising our full year guidance for both sales and earnings per share for the full year.
+Our Q1 results included revenue of $1.8 billion, up 7%, including $48 million from acquisitions and $32 million from favorable currency.
+GAAP operating earnings of $298 million and operating margins of 16.8% of sales compared to 15.6% in the year ago quarter.
+Non-GAAP operating earnings of $411 million, up $64 million or 18%, and non-GAAP operating margins of 23.2% of sales, up from 21%, driven by higher sales and improved operating leverage in both segments.
+GAAP earnings per share of $1.41 compared to $1.12 in the year ago quarter.
+The increase was primarily due to higher sales volume, improved operating leverage and lower legal fees, partially offset by the gain from the sale of a manufacturing facility recognized in the prior year.
+Non-GAAP earnings per share of $1.87 compared to $1.49 last year, primarily due to higher sales and improved operating leverage in both segments, higher pension income and a lower diluted share count, partially offset by a higher effective tax rate.
+opex in Q1 was $455 million, up $4 million versus last year, primarily due to costs related to acquisitions, partially offset by lower discretionary spend.
+Turning to cash flow.
+Our Q1 operating cash flow was $370 million compared with $308 million in the prior year, and free cash flow was $318 million compared with $260 million in the prior year.
+The increase in cash flow was primarily due to higher sales and improved working capital, partially offset by higher cash taxes.
+Capital allocation for Q1 included $170 million of share repurchases at an average price of $175.53, $121 million in cash dividends and $52 million of capex.
+During the quarter, we entered into a new five year $2.25 billion revolving credit facility, replacing our prior $2.2 billion facility.
+And subsequent to quarter end, the Board of Directors approved a $2 billion increase to the share repurchase program.
+Moving to our segment results.
+Q1 Products and Systems Integration sales were $1 billion, up 2%, primarily driven by growth in video security and professional and commercial radio, partially offset by lower sales of public safety LMR, which were impacted by supply constraints.
+Revenue from acquisitions in the quarter was $35 million.
+Operating earnings were $131 million or 12.9% of sales, up from 12.4% in the year prior on higher sales and improved leverage.
+Some notable Q1 wins and achievements in this segment include a $300 million frame agreement with the German MOD to meet their TETRA LMR requirements with an initial order of $154 million recorded in Q1.
+$72 million of video sales with government customers, up 32% from last year.
+A $37 million P25 upgrade for a government agency in Canada.
+A $33 million TETRA upgrade for a large customer in Europe.
+And a $12 million P25 order with a large U.S. federal customer.
+Moving to the Software and Services segment.
+Q1 revenue was $758 million, up 15% from last year, driven by growth in LMR services, video security and command center software.
+Revenue from acquisitions in the quarter was $13 million.
+Operating earnings were $280 million or 36.9% of sales, up 310 basis points from last year, driven by higher sales, higher gross margins and improved leverage.
+Some notable Q1 wins in the segment include, over $40 million of orders for P25 services, upgrades and body-worn cameras with Nashville, Tennessee.
+A $35 million push-to-talk over broadband multiyear contract with a large U.S. customer, a $22 million P25 and push-to-talk over broadband contract from a large middle eastern customer.
+The $13 million of body-worn cameras with multiple U.K. customers and our largest cloud-based command center software win to date.
+A $5 million contract with St. Lucie, Florida.
+Additionally, we announced a new product integration between our V300 body-worn camera and our APX P25 radio platform.
+Looking at our regional results.
+North America Q1 revenue was $1.2 billion, up 6% on growth in LMR, video security and command center software.
+International Q1 revenue of $588 million, was up 9%, with growth in EMEA, Asia Pac and Latin America.
+The growth was driven by video security and LMR. Moving to backlog.
+Ending backlog was a Q1 record of $11.3 billion, up $866 million compared to last year, driven by $639 million of growth in North America and $227 million of growth internationally.
+Sequentially, backlog was down $130 million, driven by revenue recognition on the Airwave and ESN contracts, partially offset with international growth in LMR products.
+Software and Services backlog was up $548 million compared to last year, driven by $491 million of growth in multiyear LMR services and command center software contracts in North America, and $58 million of international software growth.
+The favorable impact of FX to backlog was offset by revenue recognition for Airwave and ESN.
+Sequentially, backlog was down $269 million, also driven by revenue recognition for Airwave and ESN.
+Products and SI backlog was $318 million compared -- up $318 million compared to last year.
+Primarily driven by LMR growth in both regions.
+Sequentially, backlog was up $139 million, driven by international LMR growth.
+Turning to our outlook.
+We expect Q2 sales to be up between 19% and 20%, with non-GAAP earnings per share between $1.90 and $1.95 per share.
+This assumes FX at current spot rates, weighted average diluted share count of approximately 173 million shares and an effective tax rate of 23% to 24%.
+And for the full year, we now expect sales to be up between 8% and 9%, an increase from our prior guide of 7.25% to 8%.
+And we expect full year non-GAAP earnings per share between $8.70 and $8.80 per share, up from our prior guidance of $8.50 to $8.62 per share.
+This increased outlook includes the ongoing supply chain constraints, primarily in LMR products and assumes FX at current spot rates.
+A weighted average diluted share count of 173 million shares and an effective tax rate of 22.5% to 23%.
+And now I'd like to end with a few thoughts on the business.
+First, our results for the quarter were outstanding.
+We achieved Q1 record sales, orders, operating earnings and cash flow.
+Expanded both gross and operating margins, achieved double-digit growth in video security, command center software and LMR services and our PCR business returned to growth.
+Additionally, we exited the quarter with a record Q1 backlog and continued strong demand that we expect will drive growth for the remainder of the year, inclusive of the supply challenges that we have.
+We also announced today that the Board approved a $2 billion increase to our share repurchase program.
+The second thing I would say is demand in our video security business is really strong.
+And we now expect full year growth to be 20% plus, up from the high teens we referenced on our last call.
+In fixed video, which makes up approximately 70% of the total video security revenue, our investments in AI analytics, cloud services, access control and NDAA-compliant manufacturing is differentiating us from our competitors and driving growth faster than the overall market.
+And in mobile video, the call for more transparency is driving growth for our purpose-built body-worn and in-car camera solutions, and we're gaining share in a market that has predominantly been served by one vendor.
+During the quarter, we had several large body-worn camera wins, both in the U.S. and internationally.
+Additionally, during the quarter, we announced two new offerings, the integration of our V300 body-worn camera with our APX P25 radios, which allow us to leverage our market-leading LMR installed base and our $49 per month body-worn camera as a service offering, which offers every police agency in the U.S. with affordable access to a video solution that's fully integrated with our command central software suite.
+And finally, I'm very pleased with our progress in leveraging our leading installed base in LMR to expand into command center software, video security and LMR services.
+Today, almost half our revenue is generated from these higher growth areas, up from 20% five years ago, and our addressable market has tripled over that same period of time.
+And while we've made significant progress, I absolutely believe we still have a long runway ahead as we continue to deploy capital both organically and inorganically in these areas to drive revenue, margin and cash flow for the company.
+[Operator Instructions] Operator, would you please remind our callers on the line how to ask a question?

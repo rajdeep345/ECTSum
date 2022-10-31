@@ -1,0 +1,172 @@
+We appreciate you participating in our conference call today to discuss Flowserve's 2020 third quarter financial results.
+These statements are based on forecasts, expectations and other information available to management as of November 6, 2020, and they involve risks and uncertainties, many of which are beyond the Company's control.
+We are pleased with how Flowserve is responding to the dramatic and unprecedented change in 2020.
+COVID-19 continues to impact our lives on a global scale, which is impacting Flowserve's end markets and changing the way we run our Company on a day-to-day basis.
+Considering the current environment, I truly appreciate the dedication and commitment demonstrated by Flowserve's leaders and associates, and especially those in the frontline working at our manufacturing facilities and QRCs who continue to fully support our customers each and every day.
+While we have had associates directly impacted by COVID, our strict adherence to the operating policies and procedures we implemented earlier in the year prevented any Flowserve to Flowserve transmission from occurring in our facilities during the quarter.
+We are pleased with this outcome, and we remain committed to the safety of our associates.
+Despite our best efforts in investment to ensure the health and safety of our employees and customers, COVID continues to cause sporadic disruptions within our facilities.
+In the third quarter, our Indian and Mexican operations were the most challenged regions, where we have several large manufacturing facilities.
+However, today, all of our locations are operational and providing support to our customers.
+The recent rise in COVID-related cases in Europe and the United States is concerning.
+We're doing everything possible to keep these facilities open and operational throughout the fourth quarter and beyond, and we believe our system and processes will continue to keep our associates safe and productive.
+Before Amy covers our financials in detail, I would like to address our results at a high level.
+Overall, we are pleased with our execution during the quarter.
+Flowserve delivered adjusted earnings per share of $0.50, in line with our expectations.
+These solid earnings also reflect the significant cost actions we have implemented this year.
+In the quarter, adjusted SG&A decreased $30.8 million year-over-year to $193 million.
+We continue to track ahead of our $100 million cost-out program for full-year 2020, compared to last year's cost structure.
+As we communicated previously, these savings are about half from discretionary measures and half from structural actions we have taken.
+In addition to the SG&A savings, we are working hard to reduce our product cost through supply chain savings and to maintain higher levels of productivity in our manufacturing locations.
+Our Flowserve 2.0 Transformation program continued to deliver solid operational execution, limiting the decline in our adjusted operating margin to 60 basis points on a $71.4 million revenue decrease versus third quarter 2019, resulting in decremental margins of 19.5% in the quarter.
+We are confident, as additional Flowserve 2.0 process improvement initiatives are implemented within the organization, we will capture more margin enhancement opportunities through further cost actions, manufacturing productivity and product cost reductions.
+Let me now turn to our segment level performance in the third quarter.
+FPD's bookings decreased 22.6%, while sales decreased 1.8% as we executed on its strong backlog.
+The bookings decline was driven by original equipment down 37%, while aftermarket bookings were more resilient at a decline of 12%.
+Oil and gas bookings were down 45% year-over-year, primarily due to a nearly $60 million decline in project awards.
+FPD's adjusted margins were in line with expectations, including the 110 basis point improvement in adjusted operating margin to 14.1%.
+Despite the modest revenue decline, adjusted operating income increased approximately 6.8% to $94.5 million, demonstrating solid operating performance, which more than offset the headwind of a 400 basis point mix shift toward original equipment.
+Aggressive cost actions drove a $22 million decrease in adjusted SG&A and a 280 basis point decrease in adjusted SG&A as a percentage of sales to 18.7%.
+FCD's bookings and sales were down 16% and 18.7%, respectively.
+Oil and gas, power and general industries were both primary drivers or were the primary drivers, down 30%, 20% and 12%, respectively.
+Additionally, within general industries, the North American distribution channel continues to be challenged as spending has been impacted by COVID and commodity price declines.
+FCD's adjusted gross and operating margins were 30.3% and 12.2%, respectively.
+While these are not the results we typically expect from the business, I am confident that our focus on execution, cost reduction, backlog conversion and inventory reduction will drive fourth quarter margins above their second and third quarter levels.
+Turning now to bookings.
+As expected, our third quarter bookings of $806 million was generally in line with second quarter levels and represented a 21% decline year-over-year.
+As you may recall, last year's third quarter included strong oil and gas project activity in the Middle East and Asia Pacific, as well as the number of smaller projects awards, which together totaled roughly $140 million.
+By contrast, the largest award we received in the 2020 third quarter was $12 million and when combined with our other small- to medium-sized project awards, the sum represented less than $60 million of project awards.
+On a positive note, we didn't have any material cancellations in backlog in the quarter.
+Third quarter aftermarket activity remained relatively stable with bookings up $424 million, down 32.5%, modestly better -- modestly below our expectations.
+While customers continued to spend to meet safety and regulatory requirements, upgrade and productivity investment remained muted and larger-scale turnaround and maintenance activity continued to face COVID-related headwinds with limitations due to site access.
+Original equipment bookings in the quarter were $381 million, down 28% versus prior year and up about 4% sequentially.
+Large projects, which typically accounts for 10% to 15% of our business, remain the most challenged.
+The majority of these projects have been delayed and are currently being reevaluated.
+Our customers' project spending decisions will largely depend on the status of the COVID environment.
+The bookings level over the last two quarters accurately represents the current market environment, and we expect bookings in the fourth quarter, and likely the first quarter of 2021, to be similar to this year's second and third quarter.
+Given what we know today, I am increasingly optimistic that we'd begin return to bookings growth next year, as the world moves beyond the COVID crisis.
+We should see it first in our aftermarket bookings ahead of an inflection in project bookings, but we expect both to be better in the back half of 2021.
+On the aftermarket side, we feel there is pent-up demand building for parts and services and expect that growth in this area to incur earlier than the project business.
+We are beginning to see signs of increased aftermarket spending in 2021 as operators are planning for maintenance and turnaround events.
+Let me now address our served end markets.
+Our oil and gas markets continue to be the most impacted due to the COVID-related declines in energy demand.
+Third quarter bookings declined 42% year-over-year and were roughly flat sequentially.
+Last year's third quarter presented a challenging compare figure due to the strong project environment at that time, which included several larger awards related to IMO 2020 upgrade activity.
+2019 third quarter included over $90 million of project awards.
+This quarter, our largest project award in oil and gas was just $12 million.
+Third quarter chemical bookings were down 21.6% in the quarter, primarily driven by FPD's 31% decline, while FCD's bookings were down only 5%.
+The quarter included one small award of $4 million in Asia Pacific.
+Our integrated customers continued to delay petrochemical investment while specialty chemical demand presents growing opportunities.
+While the power market continues to be challenged, it has not declined as much as oil and gas or the chemical markets.
+Third quarter and year-to-date bookings are down just 7.5% and 9.2%, respectively.
+The quarter includes a few small nuclear awards totaling $9 million and a $4 million fossil fuel award in Asia.
+The general industries market, which includes a significant level of distribution and was our most challenging market in 2019, continued to show signs of recovery in the third quarter with bookings up 18.6% and up 5.9% year-to-date.
+FPD's 31% increase was partially offset by FCD's 11.5% decline, driven by the continued MRO slowdown in North America.
+FPD's growth was driven by distribution in food and beverage growth.
+Finally, representing our smallest market, water bookings decreased $41 million or 66%.
+Last year's third quarter was particularly strong, including over $20 million in awards for a large Middle East desalination project.
+While the 2020 third quarter included only one project award of $6 million in North America, we continue to expect investment opportunities from desalination, flood control and municipal water markets.
+Regionally, our largest dollar decline was in North America, which has seen a significant impact from COVID as well as the related downturn in energy demand.
+Only Latin America has delivered constant-currency bookings growth in 2020, up 6% and 9% in the third quarter and year-to-date, respectively.
+We incurred double-digit year-over-year bookings declines in all other regions.
+We're seeing the most potential in the Asian markets, as mobility has returned to near-normal levels, demand for processing-based product has recovered and infrastructure spending continues.
+With limited and highly competitive project opportunities, we continue to focus on improving our position for winning available work, driving our cost structure lower to offset pricing pressure and maintaining a quality backlog to increase our installed base and create aftermarket opportunities.
+We believe our markets have stabilized and expect fourth quarter bookings to be in line with what we saw in the second and third quarters of this year.
+Looking at Flowserve's third quarter financial results in greater detail, our reported earnings per share of $0.39 included realignment and transformation expenses, as well as below the line FX charges totaling $0.11.
+Adjusted earnings per share of $0.50 was solid, considering we continued to experience ongoing COVID-related headwinds.
+Third quarter revenues of $924 million were flat sequentially and down 7.2% versus the prior year.
+FPD's revenue declined 1.8% on reduced aftermarket activity, which more than offset strong original equipment sales growth of 10% through backlog execution.
+Consolidated OE revenues of $479 million were down 5.6%, where FCD's 21% year-over-year decrease more than offset FPD strength.
+Aftermarket revenue of $445 million was down 8.8%, with both segments down in that general range.
+In addition to limitations accessing our customer sites, many of the planned refinery and chemical plant turnarounds that were expected for this fall were further delayed and the active Gulf Coast hurricane season also caused temporary closures and disruptions at several of our QRCs, as well as our customers' facilities.
+Third quarter adjusted gross margin decreased 230 basis points to 31.5%, including declines of 180 basis points and 240 basis points at FPD and FCD, respectively.
+In addition to the previously mentioned cost increases related to COVID and the associated disruption with our sites, margins were also negatively impacted by a 100 basis point mix shift toward original equipment revenues as a percentage of our total sales, driven by FPD's 400 basis point mix shift.
+On a reported basis, Flowserve's third quarter gross margins decreased 250 basis points to 30.9%, again due to COVID disruptions and mix headwinds, and a $2 million increase in realignment expenses versus last year's third quarter.
+Third quarter adjusted SG&A decreased $30.8 million or 13.8%, demonstrating our cost control and the aggressive cost actions we took in the first half of the year.
+These measures brought our $193 million of adjusted SG&A down 160 basis points as a percentage of sales to 20.9% versus prior year, which was flat sequentially.
+On a reported basis, SG&A as a percentage of sales decreased 140 basis points, primarily due to the cost actions we implemented considering our adjusted items were relatively flat with prior year.
+Third quarter adjusted operating margin decreased 60 basis points versus last year's 10.9%.
+With third quarter adjusted operating income of $100.6 million and a $71.4 million year-over-year revenue decline, it represents an adjusted decremental margin of approximately 19.5%.
+FPD's solid operating performance delivered adjusted operating income growth at the segment level, even as its revenues declined modestly.
+As a result, FPD drove 110 basis points increase in its adjusted operating margin to 14.1%.
+FCD's adjusted operating margin of 12.2% was below our expectations, driven by a higher mix of lower margin project work.
+With clear visibility and line of sight, we fully expect FCD's margins to return to around the mid-teen levels in the fourth quarter.
+Reported third quarter operating margin decreased 110 basis points to 9.4%, driven primarily by a loss of leverage on lower revenues and included the benefit of modestly lower adjusted items.
+Turning to cash flow and liquidity.
+As many of you know, Flowserve's results are traditionally seasonal and most of our full-year cash flow is delivered in the second half of the year, especially in the fourth quarter.
+While our cash flow statement will be published in a few days with our 10-Q, I can say we feel good -- we feel very good about our cash generation during the quarter.
+Based on our operating cash flow of $70 million to $75 million and quarterly capex spending, free cash flow for the quarter will be about $57 million.
+This performance as well as the $300 million of net proceeds after our note issuance and tender offer, brought Flowserve's cash and cash equivalents balance at September 30 to over $921 million.
+Even absent the net proceeds of the bond issuance, Flowserve increased its cash position $59 million in the quarter.
+In future periods, we intend to use some of this excess cash to retire outstanding debt, considering we have maturities in 2022 and 2023.
+However, primary working capital as a percent of sales grew to 30%, as inventory, including contract assets and liabilities, increased roughly $100 million versus the prior year.
+This increase in inventory primarily relates to the strong OE project backlog we built as well as an increase in shipping and manufacturing delays due to COVID-related disruptions in a few of our larger facilities.
+As a result, COVID had a greater negative impact on working capital than our revenues might reflect.
+Over the last few years, Flowserve has delivered meaningful improvement in the working capital to sales metrics through our transformation initiatives.
+And despite this quarter's blip, we are confident we are on the right track and that our performance in the fourth quarter will be much improved.
+In particular, we are actively managing and taking discrete measures to reduce the inventory levels to reflect current demand, and we also have solid visibility to upcoming shipments.
+It is critical for us to stringently manage inventory more intensely during challenging points in the cycle [Indecipherable] high growth.
+And our teams are incentivized accordingly.
+Accounts receivable has demonstrated somewhat better consistencies in inventory.
+DSO was 73 days in the quarter versus 74 in each of the first two quarters of 2020, although we still see opportunities for improvement.
+Despite some COVID-driven slow pay impacted this year, we have made significant improvement in the last three years when DSO was 87 days in the third quarter of 2017, and we expect our transformation initiatives will enable us to reach our target of below 70 days, which given the competitive environment for payment terms in certain of our end markets would represent strong performance.
+In addition to the $500 million note issuance and tender offer during the third quarter, we also amended our $800 million senior credit facility to provide Flowserve increased flexibility and ample access to this source of liquidity.
+We value these relationships and look forward to our ongoing work together.
+In total, our quarter-end liquidity position increased roughly $370 million sequentially to $1.7 billion, which includes our cash balance as well as nearly $750 million of available capacity under our amended credit facility which remains undrawn.
+With the continued progress on our $100 million cost reduction program, combined with the anticipated working capital improvements, disciplined capital spending, and discretionary cost management, we expect to deliver significant cash from operations in the seasonally strong fourth quarter.
+Our expected major cash usages in 2020 remain consistent with our prior guidance, including funding our structural cost-out actions and the realignment and transformation programs.
+We continue to expect full-year capital expenditures in the $60 million range and annual dividends of roughly $100 million.
+First, the revision is not the result of a view of increased risk related to asbestos litigation or any change to our expectations for future cash flow.
+As part of our third quarter post-procedures, we became aware that our accounting for potential future exposure to asbestos liabilities related to certain heritage brands deviated from others with similar liabilities.
+Specifically, as previously disclosed, we were reporting liabilities only for those claims that were known versus using an actuary to forecast claims that were possibly incurred but not reported to the company.
+As a result, we increased our liability by $74 million to $101 million in total.
+This liability is partially offset by $87 million of insurance coverage booked as a receivable.
+Cash from insurance proceeds is received as agreements are reached with carriers.
+Our revised financial statements in the filings reflect this incurred but not reported liability on the balance sheet, as well as the correction of other immaterial timing items.
+As I said earlier, we are pleased with our performance in this unprecedented year.
+We are managing through the COVID pandemic, and our operational efforts with Flowserve 2.0 are positively impacting our downturn performance.
+The Flowserve 2.0 work is not done and we continue to remain committed to our transformational program.
+We have reprioritized certain work streams due to the pandemic-driven downturn, and we continued to make steady progress on further cost reduction plans and preparing for a return to growth.
+In fact, the speed with which we reduced our cost structure by $100 million versus 2019 was possible because of our success over the last few years, creating a more flexible Flowserve 2.0 operating model.
+Most of the structural cost initiatives we implemented mid-year were comprised of measures previously planned as part of the Flowserve 2.0 program that we accelerated.
+In addition to managing COVID and executing our downturn playbook, we are making progress on our long-term strategy and our growth initiatives.
+Over the last 18 months, we've put a lot of effort in analyzing our end markets and evaluating our overall product portfolio.
+Our product teams have made significant progress in our efforts to have a differentiated offering in attractive markets that have growth potential for years to come.
+This year, we have launched five new products, introduced 10 product upgrades and put six existing products through the design-to-value process.
+In the third quarter alone, we launched all of the new products and expect several more before the end of the year.
+Included in the new product introductions is the SIHI-branded, two-stage, liquid ring compressor designed for a variety of gases and vapors.
+Our proven technology enables this product to operate under the most severe conditions, where safety, reliability and special processes are critical.
+This compressor will be part of the FPD segment.
+We also added new capabilities within the FCD segment.
+During the third quarter, we launched a Valtek Compressor Anti-Surge Valve, which is a revolutionary solution to anti-surge control in LNG processing, refinery gas compression, natural gas stations and chemical plants using natural gas as a feedstock.
+This product will provide operators with an innovative anti-surge design that combines precise control and fast responsiveness.
+Additionally, we expanded our Limitorque actuator line with the new MX Series B smart electric actuator.
+This IoT-enabled flow control solution provides trouble-free commissioning, improved process control from advanced diagnostic capabilities and reliable operation in multiple industries and applications.
+Flowserve has historically been an innovative leader in the flow control industry.
+With increased confidence in our new product development process, we will continue to increase our investment in products and technology.
+While we very much believe that oil and gas is a long-term future in the energy mix, we do recognize the advances in alternative energy technologies.
+Today, oil and gas represents about 60% of the global energy mix.
+With significant investment in renewables through 2040, most still expect oil and gas to provide more than 50% of the global energy mix.
+Nevertheless, we are excited about the increasing investment toward energy transition, reduced emissions and safer living conditions.
+And virtually every major industrial process involving liquids or gases, pumps, valves, seals and services are vital to that infrastructure.
+Our products and services are currently using applications throughout the world to address key environmental issues, such as flare gas recovery, which reduces methane emissions and increases process energy efficiency; hydrogen production in the downstream sector; carbon capture and storage to reduce industrial carbon intensity; process maintenance and services to maximize service life, improve efficiency and employ local workers; concentrated solar and hydro power; seawater desalination plants for cost effective access to fresh water; and flood control to protect coast lines and cities from rising seas.
+And as technology advances and considering Flowserve's innovative leadership in the flow control industry, we fully expect to participate in helping make the world a better place for everyone.
+I would now like to spend a minute on our environmental, social and government efforts or ESG.
+Flowserve continues to improve as a corporation, and we take our ESG program very seriously.
+Our commitment to ESG began almost a decade ago when we released our first sustainability report.
+The vision for our program starts at the top of our organization with our Board of Directors and senior management.
+We have worked together to evolve and develop a comprehensive ESG program focused on three pillars, planet, people and operational excellence.
+While we believe our proactive approach to governance has been and continues to be aligned with our shareholders' best interest, as evidenced by our implementation of best practices like de-classifying our Board of Directors, improving gender and racial diversity, enacting proxy access and most recently, implementing the ability for our shareholders to act by less than unanimous written consent.
+Today, I'd like to focus more specifically on our environmental initiatives within our ESG program.
+Earlier this week, we published our 2020 sustainability report in which we discussed our commitment to becoming continuously improving organization.
+We also specifically announced a new target for reducing global CO2 emissions intensity by 40% by 2030 using 2015 as a baseline.
+In addition to setting an ambitious target to reduce our own emissions, we intend to utilize both our existing portfolio as well as developing new products that will help our customers reduce their CO2 emissions and also further participating cleaner sources of energy like hydrogen, solar and hydro electric.
+Let me close with our fourth quarter outlook.
+We expect fourth quarter bookings to be in line with the second and third quarter levels, while anticipating an upward bookings inflection to occur in mid-to-late 2021.
+We expect to make significant progress converting our $2 billion backlog in the fourth quarter and deliver our largest revenue quarter of this year.
+As we have the last two quarters, we plan to deliver strong operating margin decrementals as we effectively manage our cost structure.
+Fourth quarter decrementals should be around the 20% level.
+Finally, we are forecasting to finish the last quarter of the year with free cash flow generation of at least $100 million, as we reduce primary working capital from the third quarter levels.
+Flowserve's results are traditionally very seasonal during the year with the best performance for revenues, adjusted earnings and cash flow occurring in the fourth quarter of the year.
+We expect the 2020 fourth quarter to largely reflect that trend, absent of any COVID-related issues.
+I remain confident that our transformation progress will continue to position Flowserve to execute through cycles at a higher level than previous downturns and capture growth with market recovery, driving long-term value for our associates, customers and our shareholders.

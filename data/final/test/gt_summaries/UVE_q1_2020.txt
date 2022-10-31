@@ -1,0 +1,3 @@
+compname reports q1 earnings per share $0.61.
+q1 gaap earnings per share $0.61.
+q1 adjusted non-gaap earnings per share $0.79.

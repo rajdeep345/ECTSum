@@ -1,0 +1,127 @@
+In addition, we will also be presenting certain non-GAAP financial measures.
+Consistent with our last call, we generated strong results during the period due to rapidly growing demand for our products and services.
+We reported fourth quarter fiscal 2021 adjusted earnings of $1.30 per diluted share, a 17% increase over the fourth quarter of last year.
+Our Motive Power business saw another quarter of solid revenue and earnings improvement and our Specialty segment continued its positive momentum, bolstered by strong demand for our transportation products.
+Energy Systems benefited from telecom driven 5G growth in the Americas, delivering solid revenue, but following short on earnings, which I will soon address.
+Cash flow was again strong this quarter, producing a record year and leaving us on very solid financial footing.
+Although the world has begun returning to some sense of normalcy, we continue to confront ongoing headwinds created by the COVID-19 pandemic.
+We have seen continued availability constraints in recruiting new employees and select raw material shortages, particularly in resins and electronic components.
+Prices have been sticky, but always lag rapid cost increases.
+Our team is responding to the near-term shortages and hiring challenges and expect steady improvement as the supply chain settles down and the rest of the world accelerate.
+I'd now like to provide a little bit more color on some of our key markets.
+Let's start with our largest segment, Energy Systems, which faced several input cost pressures during the period, including higher tariffs, increased commodity prices, and expedited freight costs.
+In addition, our customers continue to struggle with chip and labor shortages that have slowed their build rates, but we expect improvements from these broad upstream and downstream supply chain issues in the back half of the calendar year.
+EnerSys is participating in the mid-spectrum wireless U.S. build-out with batteries and outdoor DC power systems.
+While we remain -- while we maintain our strong market position, we believe our results will further accelerate when customers rotate to higher spectrum small cell 5G build-outs and can benefit from our next-generation line powering products.
+We are also very excited about U.S. broadband MSOs building out portions of their own wireless networks with their own HFC networks.
+Today, these MSOs primarily wholesale lease and voice data minute from other network wireless providers.
+We have a full suite of DOCSIS 3.1 gateway products that help the MSOs deploy their wireless networks much faster at a lower total cost.
+Recently enacted extended MSO backup power requirements in California for public safety grid shutdown resilience provide an excellent near-term opportunity for EnerSys as well.
+If all sites currently identified are deployed, the opportunity is well in excess of $50 million.
+In addition to telecom, we are seeing favorable industrial-utility trends as infrastructure improvements, reliability and resiliency are expected to provide another growth driver for Energy Systems.
+Renewable markets continue to expand with the legislative and regulatory push for energy storage applications for residential solar plus storage, monetization of distributed energy resources and numerous global climate initiatives aimed at vehicle electrification and renewable generation.
+We will capitalize more in this area as our next generation renewable inverters and batteries are released.
+We have also made substantial progress on our own battery energy storage system plus DC fast-charging initiative for electric vehicles, which I will speak more about shortly.
+Data center markets are also improving as areas lift more COVID-related site access restrictions.
+All in all, global mega trends continue to be favorable to Energy Systems growth.
+Our Motive Power business performed very well in the quarter.
+We are now the only battery producer to offer both lithium and TPPL in maintenance free, along with our traditional flooded products.
+This segment generated strong operating earnings from continued market demand recovery, growing maintenance fee revenues and continued opex discipline.
+In addition, our Richmond, Kentucky facility has returned to full capacity and efficiency, while our Hagen, Germany, restructuring savings are starting to be realized.
+We launched our lithium platform with our four variance this quarter and all of our Motive Power Products passed the internal UO tests.
+This month we will be launching two additional variance.
+And we continue to collaborate with multiple material handling manufacturers.
+While we're only in the early stages of our launch, our customers continue to find this chemistry as best suited for the toughest duty and are actively trialing our offering with excellent results.
+The third segment of our business, Specialty, reported another strong quarter despite the ongoing impact of COVID on our capacity ramp.
+Our transportation business is performing well as the OEM Class 8 vehicle market recovers.
+However, we along with many of our competitors have been dealing with hiring challenges and supply constraints, causing our backlog to remain stubbornly high as demand continues to grow faster than we can supply.
+As a result, our focus remains on expanding TPPL production, particularly in our three Missouri factories.
+Our Springfield ramp is behind schedule due to COVID, but we added a second shift to the high-speed line and increased oxide and pasting capacity.
+High-speed line production doubled in the last three months and continues to improve.
+Our Warrensburg facility made a significant improvement from the last two years performance as well.
+Lastly, our aerospace and defense team had another great quarter executing on submarine, tactical vehicles and munitions projects.
+We won several space contracts with a variety of customers and programs.
+I am pleased that we officially kicked off our battery energy storage system plus DC fast charge initiatives during the quarter and we are moving fast.
+Early momentum has been driven by two commercial real estate partners and our engineering team has exceeded my expectation by delivering a 285-kilowatt hour prototype, up and running on our tech center, here at corporate in just a few months.
+Our launch real estate partner has identified over $1 billion of multi-year revenue opportunity starting early calendar year ''22 if we hit the reasonable cost and performance targets.
+Our goal is to deliver EV charger that charges any electric passenger car as fast as the car can handle, often changing hours into minutes.
+By using a large storage battery to quickly charge EVs, we can dramatically reduce system installation costs at many sites, including the size of the AC transformer and high voltage cable from the utility interconnect.
+The energy system can also reduce operating costs by lowering peak demand from vehicle charging.
+In addition to fast-charging EV's, the bidirectional energy system can also help the host site use electricity more cost effectively for its commercial operations and can provide emergency backup power, down power outages.
+The system is solar compatible and largely made from existing EnerSys lithium battery modules in charge and technology.
+Our goal from the beginning of our lithium program is to use standardized modular products and use these product -- use these building blocks across all of our lines of business.
+This drives the economies of scale and accelerate our time to market.
+We are lining up software partners for artificial intelligence and cloud services and reviewed preliminary business plan with our Board last week.
+We will provide more color on this excited opportunity over the summer.
+With fiscal year 2021 behind us, I wanted to lay out what we're seeing in the market and the opportunities ahead of us.
+Despite the challenges of the past year, many caused by the global pandemic, we are well positioned for long-term success.
+We are on the precipice of a massive 5G build-out that will provide a strong long-term tailwind for our business.
+Recent commentary by the largest telecoms and equipment manufacturers has been unanimous.
+5G is gearing up and we should begin seeing the accelerated ramp in the second half of calendar year 2021, with the build-out continuing for five years or many more thereafter.
+The factors leading to this 5G growth include T-Mobile's acceleration postpaid [Phonetic], universal and competitive 5G deployments for all carriers, including AT&T, which is expected to spend $24 billion a year on its network.
+This gives entry into the marketplace with an FCC requirement to deploy 70% of the U.S. population by June 2023.
+And finally, government spending or government sponsored rural fiber broadband initiatives being rolled out at the federal and state levels throughout the U.S. There are some potential hurdles that could slow the ramp-up, including the success of the C-band auction completed in February for more than $81 billion, which could limit some carriers financial resources to deploy it.
+The second hurdle relates to supply chain shortages discussed by the 5G manufacturers, particularly a lack of semiconductors.
+We will keep a close eye on these developments with the U.S. leading Europe, but remain confident we're at the door of a major 5G expansion in the quarters and years ahead.
+In addition, the Biden administration has proposed nearly $2 trillion dollar bill, which includes upgrades to traditional infrastructure like U.S. highways and bridges, and we'll also made significant investments in non-traditional areas that should benefit EnerSys directly, such as the electric grid, EV charging and high-speed broadband.
+While it is far from a done deal, there is bipartisan support for several areas of the build that we are prepared to act on.
+Our strategic initiatives outlined in our Investor Day nearly two years ago are worth repeating.
+One, to accelerate higher margin maintenance free Motive Power sales with NexSys iON and NexSys PURE; two, to grow the portfolio of products in our Energy Systems business, particularly in telecom, with fully integrated DC power systems and small cell site powering solutions which will accelerate our growth from 5G; third, to increase TPPL capacity, particularly for transportation market share and our Specialty business and finally, to reduce waste through the continued rollout of the EnerSys Operating System.
+In addition, we are now adding our Energy System plus fast-charging to the above initiatives.
+We feel it is a core competency from decades of experience charging electric forklifts, and we believe it represents an immense opportunity.
+We will work hard executing each of these areas and to deliver a long-term value our customers and shareholders deserve.
+With that, I'll now ask Mike to provide further information on our fourth quarter results and go-forward guidance.
+I am starting with Slide 10.
+Our fourth quarter net sales increased 4% over the prior year to $814 million due to a 4% increase from volume and 2% from currency gains net of the 2% decrease in pricing.
+On a line of business basis, our fourth quarter net sales in Energy Systems were up 11% to $349 million and Specialty was up 16% to $132 million, while Motive Power revenues were down 6% to $333 million.
+Motive Power suffered an 8% decline in volume along with a 1% decrease in pricing, net of a 3% increase in FX.
+The prior year, Motive Power fourth quarter revenues benefited from our recovery of the September 2019 fire in our Richmond, Kentucky facility.
+Energy Systems had a 12% increase from volume and a 2% improvement from currency net of a 3% decrease in pricing.
+Specialty had 16% in volume improvements along with 2% offsetting impacts from positive currency and lower pricing.
+We had no impact from acquisitions in this quarter.
+On a geographical basis, our net sales for the Americas were up 4% year-over-year to $557 million, with a 6% more volume and 2% less pricing.
+EMEA was up 2% to $203 million despite 3% volume and pricing declines due to an 8% improvement in currency.
+While Asia was up 19% at $55 million on 9% volume and 10% currency improvements.
+Please now refer to Slide 11.
+On a sequential basis, fourth quarter net sales were up 8% compared to the third quarter, driven by 9% volume improvements, net of a 1% price decline.
+On a line of business basis, Specialty increased 21% with our TPPL continuing to provide more capacity for transportation sales, while Motive Power was up 9% as rebounds from the pandemic and Energy Systems was up 3%.
+Now a few comments about our adjusted consolidated earnings performance.
+As you know, we utilized certain non-GAAP measures in analyzing our company's operating performance, specifically excluding highlighted items.
+Accordingly, my following comments concerning operating earnings, my later comments concerning diluted earnings per share exclude all highlighted items.
+On a year-over-year basis, adjusted consolidated operating earnings in the fourth quarter increased approximately $7 million to $78 million, with the operating margin up 50 basis points.
+On a sequential basis, our fourth quarter operating earnings dollars were flat at $78 million, while our OE margin dropped 80 basis points to 9.6%, primarily due to Energy Systems results, which I will address shortly.
+Operating expenses when excluding highlighted items were at 14.6% of sales for the quarter compared to 16.4% in the prior year as we reduced our spending by $9 million year-over-year and by 10 basis points sequentially.
+Excluded from operating expenses recorded on a GAAP basis in Q4 are pre-tax charges of $27 million, primarily related to $6 million in Alpha and NorthStar amortization, and $21 million in restructuring charges for the previously announced closure of our flooded Motive Power factory in Hagen, Germany.
+Excluding those highlighted charges, our Motive Power business generated operating earnings of 15.6% or 300 basis points higher than the 12.6% in the fourth quarter of last year, due primarily to improvements in manufacturing costs and lower operating expenses.
+OE dollars for Motive Power increased over $7 million from the prior year.
+On a sequential basis, Motive Power's fourth quarter OE decreased 230 basis points from the 13.3 -- excuse me, increased 230 basis points from the 13.3% margin posted in the third quarter, again due primarily to improved manufacturing and operating costs along with better price mix.
+Energy Systems operating earnings percentage of 2.6% was down from last year's 4.1% and from last quarter's 7.4%.
+OE dollars decreased $4 million from the prior year and decreased $16 million from the prior quarter despite slightly higher volume on lower margins and higher input costs.
+These costs range from higher tariffs, freight, materials and manufacturing costs.
+Specialty operating earnings percentage of 13.2% was up from last year's 11.7% and up from last quarter's 11.9%.
+OE dollars increased over $4 million from both the prior year and prior quarter on higher volume and lower operating expenses.
+Please move to Slide 13.
+As previously reflected on Slide 12, our fourth quarter adjusted consolidated operating earnings of $78 million was a increase of $7 million or 10% from the prior year.
+Our adjusted consolidated net earnings of $56.5 million was $9 million higher than the prior year.
+The improvement in adjusted net earnings reflects primarily the rise in operating earnings along with lower interest expense.
+Our adjusted effective income tax rate of 19% for the fourth quarter was slightly higher than the prior year's rate of 18% and higher than the prior quarter's rate of 17%.
+Discrete tax items caused most of these variations.
+Fiscal 2021 tax rate of 18% was consistent with that of the prior year.
+Fourth quarter earnings per share increased 17% to $1.30, which was near the top of our guidance range.
+We expect our weighted average shares for the first fiscal quarter of 2022 to remain relatively constant to be approximate $43.5 million of the fourth quarter.
+As a reminder, we now have over $75 million of share buybacks authorized and we have made modest purchases recently.
+Last week, we announced our quarterly dividend, which remains unchanged from prior levels.
+We have included our year-to-date results on Slides 14 and 15 for your information, but I do not intend to cover these details.
+Our balance sheet remains strong and positions us well to navigate the current economic environment.
+We have $452 million of cash on hand and our credit agreements leverage ratio was 1.7 times, which allows over $600 million in additional borrowing capacity.
+We expect our leverage to remain below 2.0 times in fiscal 2022.
+We generated a record $288 million of free cash flow in fiscal 2021.
+Capital expenditures of $70 million were in line with our prior guidance.
+Our capex expectation for fiscal 2022 is $100 million and reflects major investment programs in lithium, battery development, and continued expansion of our TPPL capacity, including the NorthStar integration.
+Even with these investments, we have also retained the agility to flex our manufacturing footprint as needed.
+Our decision announced last November to close our Hagen, Germany facility has progressed better than our expectation in terms of speed and the cost.
+The expected $20 million in annual savings are starting to be felt already with the full benefit arriving by our fourth fiscal quarter of this year.
+We anticipate our gross profit rate to remain near 24% in Q1 of fiscal 2022, and we expect expanding margins thereafter.
+As Dave just described, we believe all three of our lines of business are well positioned and their diversity provides us with a stable earnings platform.
+Despite some concerns over the potential for late arising shortages, we feel we have enough visibility to provide guidance in the range of $1.15 to $1.25 in our first fiscal quarter of year 2022.
+Lashana, we will now open the line for any questions.

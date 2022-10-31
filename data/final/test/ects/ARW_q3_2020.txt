@@ -1,0 +1,98 @@
+With us on the call today are Mike Long, Chairman, President and Chief Executive Officer; Chris Stansbury, Senior Vice President and Chief Financial Officer; Andy King, President, Global Components; and Sean Kerins, President, Global Enterprise Computing Solutions.
+Our actual results could differ materially due to a number of risks and uncertainties, including the risk factors in our most recent 10-K and 10-Q filings with the SEC.
+These non-GAAP measures are not intended to be a substitute for our GAAP results.
+arrow.com, along with the CFO commentary, the non-GAAP earnings reconciliation and a replay of today's call.
+I'll now hand the call to our Chairman, President and CEO, Mike Long.
+I'm pleased to report that our hardworking and dedicated team delivered strong financial results in the third quarter.
+Our reputation for reliability and consistency are the hallmarks that have allowed our customers and suppliers to place their trust in Arrow for critical engineering, design and supply chain services.
+As I mentioned on our prior quarterly earnings calls this year, Arrow had faced adverse conditions many times in the past and has always emerged stronger than before.
+Our business model is resilient and unique.
+Even during periods of decreased demand, our ability to generate substantial cash flow allows us to invest in areas that represent the best long-term opportunities.
+Our foundation will be even stronger exiting the pandemic.
+We're already -- and already we're seeing concrete proof of that.
+Global component sales returned to year-over-year growth, driven by record third quarter sales in Asia.
+And we've only just started to see the demand stabilize and recover in the Americas and Europe.
+Another way we build confidence in the marketplace is to keep our balance sheet strong.
+Our results this quarter showed just that.
+Cash flow from operations totaled $275 million in the third quarter, and that's $1.7 billion over the last 12 months.
+And we have reduced our debt by nearly $1.5 billion since the first quarter of 2019 when the semiconductor market correction began.
+Additionally, we remain committed to returning excess cash to shareholders and the third quarter was no different.
+We repurchased another $150 million worth of shares this quarter for a total of $375 million this year.
+Turning to current business conditions.
+As I mentioned, strong third quarter sales in global components were driven by tremendous growth in the Asia region.
+We see further opportunities for strengthening future performance once the Americas and Europe start to recover.
+We previously mentioned that regional inventories had been destocked prior to the onset of the pandemic.
+Starting from those lean levels, global components sales increased sequentially in each region for the first time since third quarter of 2017.
+Demand in Asia has been robust across all the key verticals.
+And the third quarter is typically the strongest quarter for that region.
+All regions benefited from a strong turnaround in transportation-related demand compared to the second quarter.
+Design activity, again, reached an all-time record for any quarter in our history.
+And design activity increased year-over-year for the fourth quarter in a row.
+This is a positive leading indicator.
+Arrow will continue to increase our engineering and design efforts as we believe this is the best way to position our business for the long term.
+Other indicators are consistent with improving trends.
+Third quarter backlog increased year-over-year for the second quarter in a row.
+Lead times increased slightly compared to last year.
+Global components book-to-bill was 1.03 exiting the second quarter.
+Book-to-bill was again the highest in the Asia region, where businesses normalized quicker than the other two regions.
+Our Americas customer sentiment survey shows that further improvement.
+The percentage of customers saying they had too little inventory was slightly above the long-term average.
+The percentage of customers saying they had too much inventory, returned to the long-term average.
+Turning to enterprise computing solutions.
+We're pleased to deliver sales that were near the high end of our prior expectations and above second quarter's level.
+We also achieved operating profit leverage on that sequential growth.
+In terms of IT spending, we continue to see purchases directed toward the tactical areas of endpoints and devices rather than transformational areas.
+We participate and work from home spending through security and cloud-based solutions, but some more complex projects remain delayed as companies limit outside workers.
+However, we continue to believe some of those delayed investments in mission-critical technologies cannot be pushed out indefinitely.
+Looking at the mix, demand from larger, better capitalized VARs and MSPs, who rely on fewer of our capabilities and services remained resilient.
+Demand from the smaller customers who rely on more of our capabilities have been weaker in this environment.
+Even with a less favorable margin mix, we are still able to generate strong economic returns from this business.
+You can see this in our third quarter return on working capital, return on invested capital and cash-to-cash cycles in the third quarter.
+Looking ahead, we'll continue to support our stakeholders and communities, and are committed to providing our customers with products and solutions they need when they need them.
+Third quarter sales were $7.23 billion.
+Sales increased 2% quarter-over-quarter.
+The average euro-dollar exchange rate for the quarter was $1.17 to EUR one compared to the rate of $1.12 we had used for forecasting.
+Favorable margin -- favorable foreign exchange increased sales growth by approximately $97 million.
+Global components sales were $5.31 billion.
+Sales were above the high end of our prior guidance and increased 5% year-over-year on a non-GAAP basis.
+Global components' non-GAAP operating margin was 3.9%, down 50 basis points year-over-year.
+This was mainly due to regional mix with Asia contributing 49% of global components sales, up from 45% in the second quarter and 40% last year.
+In addition, despite significant improvement in the Americas and Europe regions as compared to the second quarter, there remains substantial opportunity for further sales recovery that should also drive future operating income leverage.
+Enterprise computing solutions sales of $1.92 billion decreased 7% year-over-year on a non-GAAP basis, but were near the high end of our prior expected range.
+Third quarter billings increased year-over-year after having been approximately flat year-over-year in the first and second quarters.
+We experienced strong demand for security solutions and also grew sales of services.
+Demand for storage and networking were weaker year-over-year.
+Global enterprise computing solutions non-GAAP operating income margin decreased by approximately 30 basis points year-over-year to 4.4% due to both product and customer mix.
+Returning to consolidated results for the quarter.
+Interest and other expense of $30 million was below our prior expectation due to lower interest rates and lower borrowings.
+The non-GAAP effective tax rate of 23.6% was approximately in line with our expectation and was within our long-term range of 23% to 25%.
+Non-GAAP diluted earnings per share were $2.08, $0.38 above the high end of our prior expectation.
+Approximately $0.06 of the upside to both prior guidance and year-over-year growth were attributable to more favorable exchange rates.
+Turning to the balance sheet and cash flow.
+We reported strong operating cash flow of $275 million.
+During the quarter, we reduced debt by approximately $79 million through lower short-term borrowings.
+Our balance sheet is in great shape, and our liquidity position remains strong.
+Current committed and undrawn liquidity stands at over $3.4 billion, including our $227 million cash balance.
+We're closely monitoring credit and receivables.
+Collections remain healthy and the percent current is near all-time highs.
+DSO decreased by more than DPO.
+Inventory days were the lowest level since the fourth quarter of 2017.
+And as we've said in the past, it's fair to measure our performance by the cash conversion cycle, not by any one metric in isolation.
+The third quarter cash conversion cycle was 15 days shorter than last year.
+We returned approximately $150 million to shareholders during the quarter through our share repurchase plan.
+The remaining authorization under our existing plan is approximately $563 million.
+Now turning to guidance.
+Midpoint fourth quarter non-GAAP earnings per share of $2.65 per share would be an all-time quarterly record.
+While we recognize heightened risks from the potential future return to virus-related restrictions, right now, we continue to see improving trends for both businesses.
+Our guidance reflects global components delivering profit leverage on accelerating sales growth.
+It also reflects a continued recovery in enterprise computing solutions margins back to prior levels.
+Lastly, please note that CFO commentary includes information on our fiscal calendar closing dates for 2021.
+In 2021, the first, second and third quarters close on April 3, July three and October 2, unlike in 2020, where they closed on March 28, June 27, and September 26.
+Full year comparisons are not affected as our year ends on December 31, as always.
+The first quarter of 2021 will benefit from the extra quarter close compared to the first quarter of 2020.
+While the fourth quarter of 2021 will be negatively impacted by only capturing one calendar close instead of 2.
+We believe the second and third quarters are still comparable as each will capture one calendar close.
+We also believe there are a few impacts for the global components business in any quarter as sales for that business tend to be more linear rather than back-end loaded like the enterprise computing solutions business.
+As we sit here in late October, it's difficult for us to estimate a dollar figure for this calendar shift.
+For modeling purposes, we would recommend starting with an expectation for full year '21 enterprise computing solutions growth, then attributing one to two percentage points of greater contribution from the first quarter and one to two percentage points less contribution from the fourth quarter.
+Denise, would you please give the Q&A instructions?

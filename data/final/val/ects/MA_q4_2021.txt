@@ -1,0 +1,188 @@
+Following comments from Michael and Sachin, the operator will announce your opportunity to get into the queue for the Q&A session.
+Both the release and the slide deck include reconciliations of non-GAAP measures to GAAP reported amounts.
+I'm starting off with the key highlights for the quarter.
+We delivered strong revenue and earnings growth as we saw further improvement in our underlying operating metrics.
+Quarter 4 net revenues were up 28% and earnings per share up 46% versus a year ago on a non-GAAP currency-neutral basis.
+On the same basis, Quarter 4 net revenues are 19% above pre-COVID levels in 2019.
+So with that, let's take a look at the macroeconomic front.
+The outlook remains positive despite the recent supply chain constraints, geopolitical uncertainties and inflationary pressures.
+Although there has been a recent surge in COVID cases, there are signs that these may be peaking.
+By each of these areas, merit monitoring, underlying spending trends remain strong as consumers, businesses and governments have become more adaptable to a changing environment.
+In the U.S., economic growth remains solid with low unemployment and healthy consumer confidence.
+According to our Quarter 4 SpendingPulse report, which is always based on all payment types including cash and check, guest retail sales ex auto, ex gas were up 6.4% versus a year ago and up 10.9% versus 2019.
+In Europe, GDV growth has been strong, although recently impacted by mobility restrictions.
+SpendingPulse shows that overall European retail sales in Quarter 4 were up 3.3% versus a year ago and up 1.3% versus 2019.
+In Asia Pacific, vaccination rates continue to improve, and we expect the economic recovery to pick up pace as both government and businesses ramp up investment.
+The travel recovery in Asia Pacific has lagged that of the rest of the world and has significant growth potential.
+The growth in Latin America is expected to moderate a bit following the rebound in 2021.
+As it relates to COVID specifically, there are early signs that the Omicron will be relatively short-lived.
+The reality is that the tools we have to deal with the pandemic are more advanced than ever.
+60% of the world's population is now at least partially vaccinated, effective therapeutics are becoming available, and governments are using more targeted measures to limit the spread.
+More bodies have opened and have stayed open despite the recent variant.
+Although we've always said the path forward will not be linear, there are signs we are moving toward the endemic phase of the disease.
+Looking at Mastercard's spending trends, switch volume growth continued to improve quarter over quarter.
+Both consumer credit and debit continued to grow well.
+The recovery has continued with overall Quarter 4 cross-border levels now higher than those in 2019.
+While Omicron has had some recent impact on cross-border travel, we continue to believe that cross-border travel will return to 2019 levels by the end of this year.
+Cross-border card-not-present spending ex travel continued to hold up well in the quarter.
+So overall, the spending trends are moving in the right direction with some near-term travel-related headwinds as a result of the variant.
+Now turning to our business highlights.
+As outlined at our investment community meeting in November, we remain focused on our growth, diversified build strategy and our three strategic priorities, which are expanding in payments, extending our services and embracing new networks.
+Here's an update on how we're progressing against each of those priorities.
+First, we're expanding in payments, a growing person to merchant payments, scaling across other payment flows and leaning into innovation in new payment technologies.
+In aggregate, these targeted flows represent $115 trillion in opportunity.
+First off, we're driving growth in person to merchant payments through new wins across the globe.
+In the U.S., I'm excited to announce that we're partnering with Chase and Instacart, a leading online grocery platform in North America on a new Instacart Mastercard co-brand program.
+This partnership marks an additional co-brand win with Chase, quickly following the recent launch of the Chase Aeroplan World Elite Mastercard.
+In addition, with First Interstate Bank's planned acquisition of Great Western Bank, we will flip Great Western's consumer debit, credit and commercial portfolios to MasterCard.
+And I'm happy to note that the consumer credit portfolio of Merix Bank, over 3 million customers will transition to Mastercard beginning in the second quarter.
+Merix Bank plans to leverage several Mastercard solutions, including our fraud prevention, consulting, open banking and loyalty services.
+Over in the Netherlands, we've renewed our partnership with Rabobank, which includes the migration of 8 million Maestro cards to debit Mastercard.
+We signed an exclusive deal with Westpac in Australia for the new Banking-as-a-Service platform.
+This platform will allow new players to leverage Westpac's banking capabilities.
+Afterpay, the first partner on the platform will connect debit Mastercards to their money by Afterpay app.
+And in the U.K., the Net West debit migration is progressing to plan as in the early stages of consumer rollout.
+We're also expanding in payments by capturing new payment flows, including commercial, B2B accounts payable, bill pay and cross-border remittances.
+For example, in the commerce space, we've expanded our relationship with Bank of America, where we'll be the lead brand for new commercial card issuance.
+We've also renewed and expanded our relationship with WEX, including the chosen as their strategic partner, and adding open-loop functionality to their millions of closed-loop fleet cards.
+For accounts payable, we continue to scale Mastercard tracks, WEX, BMO, BOK Financial, [Inaudible] will connect to the platform.
+We also launched the launch -- we also announced the launch of Mastercard Track Instant Pay, which uses machine learning to analyze and initiate automatic virtual card payments, streamlining processes for buyers and improving cash flow for suppliers.
+And we're driving new B2B acceptance through a global partnership with Boost Payment Solutions with an initial focus on expanding the use of commercial card in seven key markets.
+We're addressing new payment flows in consumer bill payments as well.
+We recently announced the acquisition of Argus to help deliver bill pay solutions and other real-time payment applications in Latin America.
+Argus enables digital payments for the majority of households built in Mexico and its connections with banks, fintechs and digital wall providers across the region.
+And finally, we continue to capture new flows in cross-border remittances.
+This quarter, we established a partnership with Travelex in Brazil, who will use Mastercard's cross-border services, send P2P transfers to the U.S. and Europe.
+For domestic disbursements in the U.S., we partnered with fintech processor, TabaPay, to make Mastercard Send easily available to fintechs and merchants across multiple use cases.
+We're also expanding in payments by leaning into payment innovation in areas like installments, contactless acceptance and crypto currencies.
+Here are a few examples.
+Our open-loop Mastercard installment program that we announced last quarter has been very well received.
+The U.S. launch is on schedule for Quarter 1.
+We're actively bringing new partners into the program as we announced in the Middle East, Africa earlier this week, watch this space.
+Now we're making great progress in expanding contactless acceptance by turning the world's billions of active smartphones into potential acceptance devices, enabling people to buy and sell whenever, wherever they want.
+We now have 100 deployments of Tap on Phone in over 50 markets with leading partners globally.
+Contactless penetration increased to one and two of our in-person switch transactions globally this quarter.
+This is up from approximately one and three prior to the pandemic.
+And with that, the potential for accelerated acceptance growth, financial inclusion and consumer convenience is substantial.
+We're also bringing capabilities, experience and reach to help enable the crypto ecosystem.
+Our new collaboration with Coinbase will allow consumers to use their Mastercard to purchase NFTs, try that myself.
+Our work with consensus will make it easier for software developers to increase the scale, efficiency and speed of transactions on Ethereum and finishing blockchains.
+And our CPC Sandbox Test Platform, which we launched in 2020, continues to gain traction.
+We're helping central banks, financial institutions and fintechs simulate the issuance and distribution of CBDC along with the integration of CBDDs with our card network, our real-time payment modules and native blockchain wallets.
+Now shifting to services.
+Our services support can differentiate our core products and have played a critical role in having many of them I just mentioned.
+The group services revenue at 25% in 2021 on a currency-neutral basis.
+We will continue to extend our service capabilities to enhance the value of payments.
+We even further accelerating our growth by expanding into new areas and new use cases, particularly through our data and services and cyber intelligence propositions, again, a few examples for you.
+In December, we announced an agreement to acquire Dynamic Yield from McDonald's.
+Dynamic Yield uses enhanced AI to deliver customized product recommendations, offers and content to consumers.
+Their customer set includes over 400 global brands ranging from financial services companies like Synchrony to retailers like Lens End.
+When combined with SessionM's loyalty platform and our Test & Learn experimentation software, we will be able to offer a unified consumer engagement and loyalty hub to our customers.
+McDonald's is a great example of a company who's using all three of these platforms today with plans to further scale and integrate Dynamic Yield's capabilities globally.
+In addition, our Ethoca platform continues to experience strong traction in preventing unnecessary chargebacks, a real pain point.
+We added new customers in every region in 2021 for Ethoca.
+Recently, we launched Ethoca Consumer Clarity, which gives consumers detailed information about purchases on their mobile banking app.
+and several European markets, including OTP Bank, central Cooperative Bank and Paybox Bank.
+Now beyond expanding in payments and extending in services, our third strategic priority area is embracing new networks.
+Specifically, we are leveraging our expertise and payments to build out new networks for the current focus on open banking and digital identity.
+On the open banking front, we have closed the acquisition of Aiia in November, which brings strong API connectivity to over 2,700 banks across Europe.
+And combined with Finicity's North American connection, which covered more than 95% of deposit accounts in the U.S. market, Mastercard has an unparalleled footprint in the key open banking regions, upon which we are building solutions to solve a wide range of these cases.
+One example is in the mortgage verification space, where Finicity has signed deals with several new partners, including loan people.
+And in the digital identity space, we're helping our customers with fast, frictionless identity verification services.
+Ethoca has performed strongly over the last quarter, expanding through strategic partnerships with companies such as ZIP and Equifax, as well as growing its global footprint with leading frack providers Tonga and Air Click in Asia Pacific.
+Combined, open banking and digital identity extend our value before and after the payment transaction.
+These are large, attractive and growing opportunities, and we are uniquely positioned to be a leader in both.
+So in summary, we delivered strong revenue and earnings growth this quarter.
+The macroeconomic outlook remains positive with a few areas of the monitoring, and we're executing against our three strategic priorities: spanning and payments, extending our services and embracing new networks.
+And all that with substantial progress on the product and deal front this quarter.
+Now Sachin, over to you and the numbers.
+So turning to Page 3, which shows our financial performance for the quarter on a currency-neutral basis, excluding special items and the impact of gains and losses on our equity investments.
+Net revenue was up 28%, reflecting the continued execution of our strategy and the ongoing recovery in spending.
+Acquisitions contributed 3 ppt to this growth.
+Operating expenses increased 19%, including a 7 ppt increase from acquisitions.
+Operating income was up 37%, which includes a 1 ppt decrease related to acquisitions.
+Net income was up 44%, which includes no impact from acquisitions as the impact of acquisitions on operating income was offset by a onetime acquisition-related tax benefit.
+EPS was up 46% year over year to $2.35, which includes a $0.04 contribution from share repurchases.
+During the quarter, we repurchased $1.3 billion worth of stock and an additional $528 million through January 24, 2022.
+So let's turn to Page 4, where you can see the operational metrics for the fourth quarter.
+Worldwide gross dollar volume, or GDV, increased by 23% year over year on a local-currency basis.
+We are seeing continued strength in debit and credit.
+U.S. GDV increased by 23% with debit growth of 15% and credit growth of 34%.
+Outside of the U.S., volume increased 23%, with debit growth of 25% and credit growth of 20%.
+To put this in perspective, as a percentage of 2019 levels, GDV is at 125%, up 4 points quarter over quarter with credit at 116%, up 5 points sequentially and debit at 134%, up 3 points sequentially.
+Cross-border volume was up 53% globally for the quarter, with intra-Europe cross-border volumes up 45% and other cross-border volumes up 63%, reflecting continued improvement in travel-related cross-border as several borders opened during the fourth quarter.
+In the fourth quarter, cross-border volume was 109% of 2019 levels, with intra-Europe at 122% and other cross-border volume at 98% of 2019 levels.
+Turning to Page 5.
+Switched transactions grew 27% year over year in Q4 and were at 132% of 2019 levels.
+Card-present growth continued to improve while card-not-present growth rates remain strong.
+Card-present growth was aided in part by increases in contactless penetration in several regions.
+In addition, card growth was 9%.
+Globally, there are 3 billion Mastercard and Maestro-branded cards issued.
+The increase in net revenue of 28% was primarily driven by domestic and cross-border transaction and volume growth, as well as strong growth in services, partially offset by higher rebates and incentives.
+As previously mentioned, acquisitions contributed approximately 3 ppt to net revenue growth.
+Looking quickly at the individual revenue line items.
+Domestic assessments were up 24%, while worldwide GDV grew 23%.
+Cross-border volume fees increased 61% while cross-border volumes increased 53%.
+The APPD difference is primarily due to favorable mix as higher-yielding ex intra-Europe cross-border volumes grew faster than intra-Europe cross-border volumes this quarter.
+Transaction processing fees were up 28%, generally in line with switched transaction growth of 27%.
+Other revenues were up 30%, including a 9 ppt contribution from acquisitions.
+The remaining growth was mostly delivered by our cyber and intelligence and data and services solutions.
+Finally, rebates and incentives were up 38%, in line with our expectations, reflecting the strong growth in volumes and transactions and new internode deal activity.
+Moving on to Page 7.
+You can see that on a currency-neutral basis, total operating expenses increased 19%, including a 7 ppt impact from acquisitions.
+Excluding acquisitions, operating expenses grew 12%, primarily due to increased spending on advertising and marketing, higher personnel costs to support the continued investment in our strategic initiatives and increased data processing costs.
+Turning now to Page 8.
+Let's discuss the specific metrics for the first three weeks of January.
+First, as a point of process, we continue to provide volume and transaction metrics both on a year over year and as a percentage of 2019 basis.
+However, it is important to note that as we turn the calendar and move into 2022, the index versus 2019 metric now looks back three years and, therefore, includes a compounding improvement relative to the 2021 index metric.
+This compounding impact must be taken into consideration when considering the sequential trend from Q4 to January.
+So at the highest level, omicron has had a minimal impact on overall switched volumes and transactions and has called some moderation on cross-border panel.
+Going through the metrics in turn.
+Starting with switched volumes.
+Through the first three weeks of January, we are now at 149% of 2019 levels, up 13 points versus Q4.
+This increase is primarily driven by the compounding effect I just referred to.
+After adjusting for this compounding effect, switched volumes are tracking similarly to what we saw in Q4.
+The underlying trends in switched transactions adjusted for the compounding effect are generally tracking the trends we are seeing in switched volumes.
+In terms of cross-border volume growth, as I mentioned earlier, spending levels as a percentage of 2019 in Q4 are now above pre-pandemic levels.
+The Omicron variant, which hit partly through December, impacted the strong cross-border travel momentum we saw in November.
+That impact has carried over into January.
+This has been partially offset by an increase in cross-border card-not-present ex travel.
+Overall, cross-border volume through the first three weeks of January is now at 116% of 2019 levels, up 7 points versus Q4.
+In this case, the compounding effect is partially offset by the impact of the Omicron virus on cross-border travel in January.
+Turning to Page 9.
+I want to share our thoughts on the upcoming year.
+While there is some uncertainty related to Omicron and potential future variance, our overall expectations for 2022 are positive.
+The macroeconomic outlook is for continued growth and domestic spending levels have summed up well despite the recent surge in cases.
+The recovery in cross-border travel was progressing well prior to Omicron and we expect the recovery in cross-border travel to resume as the surge passes.
+As Michael just noted, the tools available to deal with the pandemic have improved with time.
+And although the path forward may not be linear, there are signs we are moving toward the endemic phase of this disease.
+Many countries have relaxed their border restrictions and we continue to expect cross-border travel to recover to 2019 levels by the end of 2022.
+Our recent deal wins, travel-oriented portfolios and diversified set of services position us extremely well to capitalize on these trends.
+Turning to our expectations for the full year 2022.
+Our base case scenario is for net revenues to grow at the high end of a high teens rate on a currency-neutral basis, excluding acquisitions.
+dollar relative to the euro.
+In terms of operating expenses, we continue to carefully manage our spending as we invest in our payments, services and new network priorities to drive short- and long-term growth.
+For the year, we expect operating expenses to grow at the low end of a low double-digit rate on a currency-neutral basis, excluding acquisitions and special items.
+Acquisitions are forecast to add about 4 to 5 ppt to this growth, while foreign exchange is expected to be a tailwind of approximately 1 ppt for the year.
+Turning now to the first quarter.
+Year-over-year net revenue growth is expected to be at the high end of a high teens rate, again, on a currency-neutral basis, excluding acquisitions.
+This reflects some sequential improvement in cross-border travel spending trends within the quarter relative to 2019 as the impact from Omicron starts to recede as the quarter progresses.
+Acquisitions are forecast to add about 2 ppt to this growth, while foreign exchange is expected to be a headwind of 2 to 3 ppt for the quarter.
+From an operating expense standpoint, we expect Q1 operating expense growth to be at the high end of high-single digits rate versus a year ago on a currency-neutral basis, excluding acquisitions and special lines.
+Acquisitions are forecast to add about 6 ppt to this growth, while foreign exchange is expected to be a tailwind of approximately 1 ppt for the quarter.
+As a reminder, we discretely disclosed the impact of acquisitions for the year-end, which it closed and the subsequent year after which time we do not split them out.
+For instance, Finicity, which closed in November of 2020 is now folded into the base.
+We are pleased to have closed the acquisitions of both Aiia and Argus in November and anticipate closing the pending acquisition of Dynamic Yield in the first half of 2022.
+Other items to keep in mind.
+On the other income and expense line, we are at an expense run rate of approximately $115 million per quarter given the prevailing interest rates and debt levels.
+This excludes gains and losses on our equity investments, which are excluded from our non-GAAP metrics.
+And finally, we expect a tax rate of approximately 17% to 18% for the year based on the current geographic mix of our business.
+With that as a backdrop and turning now to Slide 10, I would like to update you on our three-year performance objectives for the 2022 to 2024 period that we first introduced in November at our Investment Community Meeting.
+The bottom line is that there is no change, although our jumping off point for earnings is slightly higher due to our Q4 2021 overperformance.
+As a reminder, these objectives are on a currency-neutral basis, exclude special items, gains and losses on equity investments and acquisitions closed after 2021.
+Using 2021 as our base over the 2022 to 2024 period, we expect to deliver a net revenue compound annual growth rate in the high teens.
+This assumes an annual target market volume growth rate of 10% to 11%, cross-border travel returning to 2019 levels by the end of 2022 and doing our services revenues at a 20%-plus CAGR.
+From an operating margin perspective, we will continue to operate with the philosophy of delivering a minimum annual operating margin of 50%.
+Having said this, I would like to emphasize that we continue to believe that it is important for us to invest with a long-term growth while delivering positive operating leverage, and we continue to dive with this philosophy in mind.
+And finally, we expect to deliver an earnings per share CAGR in the low 20s range on a currency-neutral basis, excluding the impact of special items, gains and losses on equity investments and future acquisitions.
+Dermira, we're now ready for the question-and-answer session.

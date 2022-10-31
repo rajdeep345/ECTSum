@@ -1,0 +1,162 @@
+My name is Kevin Maczka, I'm Belden's vice president of investor relations and treasurer.
+Roel will provide a strategic overview of our business and then Henk will provide a detailed review of our financial and operating results, followed by Q&A.
+Additionally, during today's call, management will reference adjusted or non-GAAP financial information.
+As a reminder, I'll be referring to adjusted results today.
+Demand trends improved in the fourth quarter, and I'm pleased to report that revenues, earnings and cash flow exceeded our initial expectations.
+Fourth quarter revenues increased 5% sequentially to $498.5 million compared to our initial guidance range of $460 million to $485 million, and our revised guidance range of $494 million to $499 million.
+The upside relative to our expectations was broad based, with contributions from both the Industrial Solutions and Enterprise Solutions segments.
+During the fourth quarter, our channel partners further reduced the inventory levels by approximately $22 million as expected, resulting in a reduction of approximately $70 million for the full year 2020.
+Importantly, this is not expected to recur in 2021.
+Incoming order rates were solid during the quarter, increasing 13% sequentially.
+This resulted in a book-to-bill ratio of 1.10 times, including a robust 1.16 times in the Industrial Solutions segment.
+EPS increased 25% sequentially to $0.90, compared to our initial guidance range of $0.63 to $0.78, and our revised guidance range of $0.85 to $0.90.
+Free cash flow generation was $101 million in the quarter, which exceeded our expectations by approximately $11 million.
+As a result, we exited the fourth quarter with cash on hand of $502 million, which provides ample flexibility as we pursue our strategic initiatives.
+2020 was a truly unprecedented year, with each of us facing significant challenges related to the global pandemic both personally and professionally.
+I'm extremely proud of the way our global workforce responded to these challenges and maintained a sharp focus on supporting our customers, then executing our strategic plans, while maintaining the safest possible working conditions.
+For the full year 2020, we delivered revenues of $1.863 billion and earnings per share of $2.75.
+Free cash flow generation was $86 million compared to our expectation of approximately $75 million.
+Beyond the initial response to the pandemic, the year was highlighted by the bold steps we took to position the company for substantially improved organic growth and margins.
+This includes streamlining our cost structure, funding our compelling growth initiatives, and significantly improving our portfolio of businesses.
+On the cost side, we delivered on our commitments by successfully reducing SG&A costs by $40 million for the full year 2020.
+We exited the year with a quarterly run rate savings of $15 million in the fourth quarter, so we are prepared to deliver the full $60 million in savings in 2021 as planned.
+This represents approximately 300 basis points of incremental EBITDA margin expansion on an annual basis.
+These are permanent cost reductions that will not return as conditions normalize.
+As we executed these cost reduction plans, we continue to make strategic investments to accelerate growth and capitalize on the opportunities in our key markets.
+To that end, R&D spending increased 14% to $107 million in 2020, with approximately 65% of this investment dedicated to software development.
+This includes stand-alone software and embedded software within various hardware products.
+We are making targeted investments to support growth and innovation in Industrial Automation and enhance our best-in-class cybersecurity cloud platform.
+These innovations are important to our customers and our shareholders, as they will further strengthen our product offering and enhance our competitive advantage.
+We also maintained capex spending of approximately $70 million for the year, to ensure that we have the capabilities and capacity to fully participate in the anticipated growth in our key markets.
+We made significant portfolio moves during the year, including the sale of Grass Valley in July.
+Divesting this business simplified and improved our portfolio.
+It also removed considerable drag on consolidated organic growth and declines in Grass Valley's business in prior years represented a substantial headwind.
+In addition, we initiated a process to divest approximately $200 million in revenues associated with certain undifferentiated copper cable product lines.
+These are primarily stand-alone product lines that are low growth and low margin, and we do not believe that they can meet our growth or margin goals in the future.
+Much like Grass Valley, we believe that exiting these product lines will improve our end-market exposure.
+In this case, we are exiting the oil and gas markets and reducing our exposure to certain smart buildings markets.
+We expect to complete multiple transactions associated with these product line exits.
+We are encouraged by the overall progress to date, and we remain on track to complete these divestitures in the first half of 2021 as previously communicated.
+Finally, subsequent to the end of the fourth quarter, we announced the Bolton acquisition of OTN Systems for $71 million.
+The transaction closed on January 29.
+This is our first Industrial Automation acquisition in years, and we are very excited to add this talented team and its innovative networking products and technologies to our portfolio.
+OTN Systems is a leading provider of easy-to-use and highly reliable network solutions tailored for specific applications in harsh, mission critical environments.
+It's value-added technology allows customers to easily build, maintain, and monitor complex networks in growing industrial markets such as power transmission, mass transit and process.
+Belden and OTN systems have a commercial partnership dating back to 2017.
+So we have a thorough understanding of the business and the value it will add to our product offering and our customers.
+The company's primary brand and product line known as XTran consists of proven switching devices and network management software that is complementary to Belden's leading industrial network offering.
+We expect the acquisition to contribute incremental revenue and earnings per share of approximately $36.11 million respectively during the 11 months of ownership in 2021.
+Consistent with our M&A strategy, this acquisition supports one of Belden's key strategic priorities related to the growing demand for Industrial Automation by adding proprietary technology and mission critical hardware and software products for more complete end-to-end solutions.
+It also accelerates Belden's initiatives related to Customer Innovation Centers or CICs, with advanced solution selling and customer consulting capabilities.
+This will allow us to bid on a wider array of projects.
+It offers meaningful business synergies in the product, technology and commercial areas, and we see significant opportunities to leverage our global customer base to accelerate growth and further improve profitability.
+We remain an acquisitive company.
+And we continue to pursue other strategic inorganic opportunities in Industrial Automation and fiber connectivity that would further enhance our product offering and growth potential.
+However, we are prioritizing de-levering in the near-term.
+And as a result, we expect our M&A activity to be modest in 2021.
+I will now ask Henk to provide additional insight into our fourth quarter financial performance.
+After 20 years with Belden, the last nine as our CFO, Henk has announced his departure next month following a transition of duties to Jeremy parks.
+Henk, your contributions to Belden are difficult to put into words.
+I'm proud of my role and leaving Belden through a substantial transformation on a regional cable company in the early 2000s, to the global network solutions company it is today, I'll leave the company with a strong balance sheet and capital structure and much improved portfolio, and I'm confident that Belden remains well positioned for future success.
+I will start my comments with results for the quarter followed by a review of our segment results and a discussion of the balance sheet and cash flow performance.
+As a reminder, I will be referencing adjusted results today.
+Revenues were up $498.5 million in the quarter compared to $549.7 million in the fourth quarter of 2019.
+Revenues decreased 9.3% on a year-over-year basis and increased 4.8% sequentially.
+After adjusting for a $5.5 million favorable impact from acquisitions and a $14 million favorable impact on currency translation and higher copper prices, revenues declined 12.8% organically on a year-over-year basis.
+After further adjusting for changes in channel inventory levels, revenues decreased 6.1% organically from the prior year.
+On a sequential basis, revenues increased 2.9% organically after adjusting for a $9.1 million favorable impact from currency translation and higher copper prices.
+After further adjusting for changes in channel inventory, revenues increased 9.6% organically on a sequential basis.
+Incoming orders were solid during the quarter, increasing 13% sequentially.
+This resulted in a book-to-bill ratio of 1.10 times [Phonetic] including robust 1.16 in the Industrial Solutions segment, and a 1.04 in the Enterprise Solutions segment.
+Gross profit margins in the quarter were 35.4% consistent with the third quarter.
+EBITDA was $74 million compared to $65.3 million in the prior quarter and $92.9 million in the prior year period.
+EBITDA margins were 14.8% compared to 13.7% in the prior quarter and 16.9% in the prior year period.
+As Roel mentioned, we successfully executed our SG&A cost reduction program by delivering savings of $15 million in the fourth quarter and $40 million for the full year.
+We expect to deliver the full $60 million in savings in 2021.
+As we streamlined the cost structure, we are committed to our important initiatives.
+We increased R&D investments by approximately 15% in the fourth quarter and the full year 2020.
+We expect further increases in 2021 as we make additional targeted investments to drive innovation and growth in Industrial Automation and Cybersecurity.
+Net interest expense was approximately flat sequentially in the quarter.
+At current foreign exchange rates, we expect interest expense to be approximately $61 million in 2021.
+Our effective tax rate was 13.5% in the fourth quarter and 16.4% for the full year, as we benefited from incremental discrete tax planning initiatives.
+For financial planning and modeling purposes, we recommend using an effective tax rate of 20% throughout 2021.
+Net income in the quarter was $40.5 million compared to $32.2 million in the prior quarter and $54.9 million in the prior year period.
+Earnings per share was $0.90 in the fourth quarter compared to $1.20 in the year-ago period.
+Earnings per share increased 25% sequentially from $0.72 in the third quarter.
+I will begin with our Industrial Solutions segment.
+As a reminder, our Industrial Solutions allow customers to transmit and secure audio, video, and data in harsh industrial environments.
+Our key markets include discrete manufacturing, process facilities, energy and mass-transit.
+The Industrial Solutions segment generated revenues of $217.8 million in the quarter.
+Currency translation and copper prices had a stable impact of $9.2 million year-over-year and $5.8 million sequentially.
+After adjusting for these factors, revenues decreased 14% organically on a year-over-year basis and increased 7% sequentially.
+After further adjusting for changes in channel inventory levels, revenues declined 8% year-over-year and increased 10% sequentially on an organic basis.
+Within this segment, Industrial Automation revenues declined 8% year-over-year and increased 9% sequentially on an organic basis after adjusting for changes in channel inventory levels.
+Not surprisingly, the trends were relatively consistent across our market verticals in the quarter.
+Cybersecurity revenues declined 14% in the fourth quarter on a year-over-year basis and increased 16% sequentially.
+We continue to secure large strategic orders with new customers and significantly expand our engagements with existing customers.
+As a result, nonrenewal bookings in the fourth quarter matched the highest quarterly level in five years.
+Notable bookings in the quarter included a Fortune 500 insurance company migrating from on-premise to-cloud based solutions, and a multinational financial services corporation expanding its coverage in preparation for expected future growth from acquisitions.
+We remain very bullish on Industrial cybersecurity.
+Nonrenewal bookings in this vertical increased 13% sequentially in the quarter and 31% for the full year.
+Further, we continue to gain significant traction with our software as a service offerings.
+SaaS offerings represented approximately 25% of nonrenewal bookings in the quarter compared to 10% a year-ago.
+Industrial Solutions segment EBITDA margins were 17.5% in the quarter compared to 15.6% in the prior quarter and 20.1% in the year-ago period.
+The year-over-year decline primarily reflects lower volumes and increased R&D investments in Industrial Automation and Cybersecurity.
+Turning now to our Enterprise segment.
+As a reminder, our Enterprise Solutions allow customers to transmit and secure audio, video and data across complex enterprise networks.
+Our key markets include Broadband, 5G, and Smart Buildings.
+Our Enterprise Solutions segment generated revenues of $227.7 million during the quarter.
+After adjusting for $5.5 million favorable impact from acquisitions and a $4.8 million favorable impact from currency translation and higher copper prices, revenues declined 12% organically on a year-over-year basis.
+Revenues declined 2% sequentially after adjusting for a $3.3 million favorable impact from currency translation and higher copper prices.
+After further adjusting for changes in channel and customer inventory levels, revenues declined 3% year-over-year and increased 9% sequentially on an organic basis.
+Revenues in Broadband and 5G increased 8% year-over-year and 5% sequentially after adjusting for changes in customer inventory levels.
+We are encouraged by the solid share capture during the quarter.
+The ever increasing demand for more bandwidth and faster speeds is driving increased investments in network infrastructure by our customers.
+This supports continued robust growth in our fiber optics products, which increased 28% organically in 2020.
+Revenues in Smart Buildings market declined 12% year-over-year and increased 13% sequentially on an organic basis after adjusting for changes in channel inventory.
+Enterprise Solutions EBITDA margins were 11.5% in the quarter consistent with the prior quarter and compared to 13.7% in the prior year period.
+The year-over-year decline primarily reflects lower volumes.
+Our cash and cash equivalents balance at the end of the fourth quarter was $502 million compared to $391 million in the prior quarter and $426 million in the prior year period.
+We're very comfortable with our current liquidity position.
+Working capital turns was 10.3 turns compared to 6.6 turns in the prior quarter and 8.9 turns in the prior year period.
+We are extremely pleased with the DSO performance in the quarter.
+Days sales outstanding declined 8 days sequentially from 58 days in the prior quarter to 50 days.
+Inventory turns was 5.2 turns compared to 5.0 turns in the prior quarter and 6.0 turns in the prior year.
+Our total debt principal at the end of the fourth quarter was $1.59 billion compared to $1.52 billion in the third quarter.
+The sequential increase reflects current foreign exchange rates.
+Net leverage was 4.0 times net debt to EBITDA at the end of the quarter.
+This is temporarily above our targeted range of 2 to 3 times and we expect to turn back to the targeted range as conditions normalize.
+Turning now to Slide 9, I will discuss our debt maturities and governance.
+As a reminder, our debt is entirely fixed at an attractive average interest rate of 3.5%, with no maturities until 2025 to 2028.
+We have no maintenance covenants on these debts, so are not a risk of a default in the unlikely event of significantly worsening economic conditions.
+As I mentioned previously, we're comfortable with our liquidity position and the quality of our balance sheet.
+Cash flow from operations in the fourth quarter was $134.7 million compared to $187.4 million in the prior year period.
+Net capital expenditures were $33.3 million for the quarter compared to $35.9 million in the prior period.
+For the full year 2020, we generated cash flow from operations of $173.4 million compared to $276.9 million in 2019.
+The decline primarily reflects lower EBITDA during the year that resulted from the global pandemic.
+The full year net capital expenditures were $87.1 million compared to $110 million in 2019.
+The difference is primarily related to the timing of the Grass Valley divestiture, which we completed in July of 2020.
+As a result, we generated free cash flow of $86.3 million in 2020 compared to $166.9 million in 2019.
+2021 will be a year of recovery in most of our key markets.
+During the year, we expect to complete our transformative portfolio actions and turn the focus to accelerating organic growth.
+Our recent order rates are encouraging and I'm confident in our ability to achieve our financial goals and drive superior returns for our shareholders.
+We anticipate first quarter 2021 revenues to be between $490 million and $505 million, and earnings per share of $0.60 to $0.70.
+For the full year 2021, we expect revenues to be between $1.99 billion and $2.050 billion, and earnings per share of $2.90 to $3.30.
+For financial modeling purposes, we recommend using interest expense of approximately $61 million for 2021, and then effective tax rate of 20% for each quarter and the full year.
+This guidance includes the expected accretion from the OTN Systems acquisition.
+It continues to include the contribution of our copper cable product lines that we are in the process of divesting, which contributed approximately $200 million in revenue and $0.20 in 0PS in 2020.
+We will update our guidance accordingly as we complete these divestitures.
+We expect current copper prices and foreign exchange rates to have a favorable impact on revenues of approximately $80 million in 2021, but a negligible impact on earnings.
+We expect consolidated organic growth in the range of 1% to 4% or up to $70 million, with solid growth in our Industrial Solutions segment, partially offset by declines in the Smart Buildings markets within our Enterprise Solutions segment.
+We anticipate an incremental $36 million in revenue and $0.11 in earnings per share from the OTN Systems acquisition.
+Consistent with our commitment, we expect to realize the incremental $20 million in savings under our SG&A cost reduction program.
+These savings represent $0.36 in EPS.
+R&D investments are an important strategic initiative designed to drive growth in future periods.
+But these investments will temporary pressure margins and earnings per share in 2021.
+Finally, a normalized effective tax rate of 20% along with modestly higher interest expense and share count represent an earnings per share headwind of approximately $0.20 for the year.
+For the full year 2021, the high-end of our guidance implies total revenue and earnings per share growth of 10% and 20% respectively.
+Before we conclude, I would like to reiterate our investment thesis.
+We view Belden as a very compelling investment opportunity, as we are taking bold steps to drive substantially improved business performance.
+We are significantly improving our portfolio and aligning them on favorable secular trends in our key strategic markets, including Industrial Automation, Cybersecurity, Broadband and 5G, and Smart Buildings.
+We continue to invest in our business to position the company for accelerating organic growth and robust margin expansion.
+As we successfully execute our strategic plans and deliver on our goals, we would expect this to drive superior returns for our shareholders.

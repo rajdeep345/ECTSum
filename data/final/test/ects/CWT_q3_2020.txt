@@ -1,0 +1,155 @@
+As a reminder, before we begin, the Company has a slide deck to accompany the earnings call this quarter.
+Because these statements deal with future events, they are subject to various risks and uncertainties, and actual results could differ materially from the Company's current expectations.
+I'm going to pass it over to Tom to begin.
+So, a pretty exciting quarter here for us at California Water Service Group.
+We get to talk quite a bit about our California General Rate Case and some of the other things that are going on in the quarter.
+And I'm going to begin on Slide 6, which is a slide about the recognition of the 2018 California General Rate Case.
+So, as most everyone knows at this point, on October 14, the California Public Utilities Commission published a proposed decision in our California GRC, that's a delayed GRC that should have been effective on January 1, 2020 and the proposed decision approved the settlement that we had announced back in October of 2019.
+And it also proposed to adopt Cal Water's positions on the disputed financial matters in the case.
+And for the first two quarters of the year, we had been reluctant to record regulatory assets for some of our continuing balancing account mechanisms, such as the WRAM and the MCBA decoupling mechanism, as well as our pension and medical cost balancing accounts, because those accounts we did not know whether they were probable for recovery.
+We have concluded, based upon the proposed decision and a couple of things subsequent to that, that the GRC decision is very probable to award us those accounts on a continuing basis.
+And so, we are recognizing the regulatory assets associated with the water revenue adjustment mechanism, modified cost balancing account and the pension medical cost balancing account regulatory assets, and those will -- those add significantly to our revenue for the quarter and for the year-to-date.
+In addition, the Commission will grant us interim rate recovery.
+And since we now know the proposed decisions take on the revenue requirement, we're able to calculate what is in the interim rate memorandum account.
+And so, we've also booked a regulatory asset for the interim rate memorandum account.
+I did want to talk briefly about the subsequent event that is giving us further confidence in the General Rate Case.
+And that is, that on Tuesday, among other things that happened on Tuesday in the United States, the the Cal PA, the Public Advocates Office issued their comments on the proposed decision.
+And while they gave extensive comments on a variety of areas, they did not comment on the three major areas that we're recovering here.
+In other words, their comments do not take issue with the proposed decisions granting of a continued water revenue adjustment mechanism, modified cost balancing account or pension and medical cost balancing account.
+And so, we feel very strongly that the final decision, which can be rendered by the Commission no earlier than November 19, is going to allow those those balancing accounts for us.
+And so, that's very good news for the Company.
+In addition to those three items, I would mention that as part of this rate case, we are refunding to customers the excess deferred tax associated with the Tax Cut Jobs Act reduction in the federal income tax rate and that refund is being applied.
+It's applied to the customer rates and it's shown up in our income statement as a reduction to our effective tax rate.
+And so, you'll see a lower effective tax rate for the Company on a go-forward basis as we refund those excess deferred taxes.
+I do want to emphasize that these assessments of probability do have some risk associated with them.
+We are dependent upon the CPUC adopting the proposed decision with no material changes.
+But as I say, given the evidence that we have right now, we think that is likely and that's why we've gone ahead and included these in our third quarter estimates -- or rather third quarter earnings results, not estimates.
+And so, turning to Slide 7.
+The result of that determination means that we have a very significant increase in our net income for the third quarter.
+That is going from $42.4 million to $96.4 million as compared to 2019.
+Earnings per share $1.94 for the third quarter as compared to $0.88 in the third quarter of 2019.
+On a year-to-date basis, on Slide 8, the net income is up, it's up about $30 million to -- so it's $81.3 million, up from $51.8 million in the year-to-date period of 2019.
+And that means, our earnings per share is $1.66 on a year-to-date basis as compared to $1.08 on a year-to-date basis in 2019.
+And then going through Slide 9 and Slide 10, I'll go through very quickly.
+Just the other changes that we have to earnings, revenues and expenses are pretty standard for us.
+The things that we've talked about in prior quarters.
+So, we have increased operating expenses for wages and other things, such as generally increased depreciation, amortization.
+We do have variations from time to time in our unbilled revenue accruals and you'll see that on a couple of these slides as well as the mark-to-market adjustment that we have on some of our retirement plan assets.
+So, there is nothing major either in the quarter or in the year-to-date period in those areas, but those do end up affecting earnings.
+I do want to focus very briefly on Slide 11, the earnings bridge, to emphasize the point about the third quarter earnings.
+And if you're there on Slide 11, you will notice the first bar change is $0.80, which is titled delayed recording of Q1 and Q2 regulatory assets.
+And because we're recording the effect of the General Rate Case through the third quarter, in the third quarter, that $0.80, that's in the first part, represents the earnings that would have been achieved in the first two quarters of the year had the rate case been adopted on time.
+And so, we're putting this -- just highlighting this for you, so that when we get to the third quarter of 2021, there is a recognition that we're probably not going to earn $1.94 again per share in the third quarter of 2021, although obviously that would be nice if we could.
+And then I do want to focus on Slide 13.
+I think just to run through this again as a basis of calculation for analysts and others thinking about the Company stock.
+The earnings power of the Company, and again we're a predominantly regulated utility in all four states.
+And that is -- drives most of our revenues and net income.
+The California Rate Case, if it is a docket, the proposed decision is adopted, actually allows for a specific net income about $76 million in test year 2020 and that reflects the authorized equity return on the equity portion of $1.5 billion in rate base.
+In addition to California, we have about $110 million of rate base in other states that should earn a similar equity return, again, on a normalized test year kind of basis.
+But do remember that our equity returns on the regulated businesses are dependent on our cost being in line with adopted costs.
+And also, in particular, in the other three states, in New Mexico, Washington and Hawaii, our returns are also affected by our water sales.
+And as Paul will talk about in a minute, beginning in 2023, we expect the earnings in California will also be affected by water sales.
+And another point for the quarter and the year to date is to make sure that everyone understands that on an annual basis, we do not anticipate a net income effect from changes in our unbilled revenue accruals or unrealized changes in the value of retirement assets, the mark-to-market that we talk about from time to time.
+Those factors through the third quarter, are adding about $9.6 million to our year-to-date net income.
+And so, just be cognizant of that as we go toward the end of the year, that we expect particularly the unbilled to drop back down to where it was at the end of 2019.
+And then finally, there are a couple of other factors that cause our earnings to be a bit higher than the otherwise core regulated earnings, and those are unregulated activities, operation maintenance contracts, the antenna leases for various things -- various cellular antennas on our facilities, the regulatory asset that we book associated with the equity portion of construction funding, the AFUDC if you will, and then state tax timing differences can play a factor there.
+And so, just wanted everybody to be aware of that, happy to take questions on that as well.
+I want to give everyone a quick operational update with the backdrop of COVID-19.
+But even with COVID-19, it was the worst fire season in California history.
+So, in addition to COVID, we had to deal with a number of fires and then folding in the public safety power shut downs that we had throughout the state at various times during the state, as well as a couple of earthquakes, it's been a very, very busy year for operations.
+We've opened our emergency operations center and totaled 18 times year-to-date.
+I think that's a new record for us.
+The EOC, or emergency operation centers, we basically follow a FEMA type protocol in terms of how we deal with emergency situations.
+And very happy to say that, despite dealing with a number of potential emergencies throughout the year, the Company's operations have gone very, very well and we avoided having any major disruptions of water service or lack of water service, especially during fire season.
+Having said that, we still continue to operate with enhanced safety protocols to protect customers and employees from infections.
+Protecting employees and customers and public health remains our number one priority.
+Very happy to share with everyone, and you may have seen this, we received the Stevie Award, the Silver Stevie Award as Most Valuable Employer for COVID Response.
+That was out of 700-plus companies competing for a Stevie Award.
+So we're very happy to win that award for our work on the COVID response and keeping our employees safe.
+While dealing with the pandemic, we've seen an increase in customer accounts aging from the suspension of collection activities.
+If you recall, early on in the process, Cal Water suspended our collections and shut-offs, and it was further ordered by the governor [Phonetic] to do so, but we had done it prior to any orders of the government, because we recognize the need for water for our customers to help fight the virus.
+So, our over 90 balances has increased to about $5.4 million.
+Only a portion of such amounts are typically uncollectible.
+We continue to monitor that very, very closely.
+We think it's indicative of the hard financial times as the pandemic has hit people, and people have been ordered to shelter in place, and maybe have been on some type of assistance program and not able to meet their ability to pay their bills.
+We've increased our reserve for doubtful accounts by about $1.6 million to $2.7 million, roughly 50% of that balance is reserved for, and we'll continue to monitor that as we move into the four quarter.
+Our incremental expenses dealing with the COVID were less than $100,000 in the third quarter, which we think is good.
+We do have a memo account in California and also a memo type account in Hawaii.
+And as most of you know, a memo account, you expense the cost in the right -- in the period it's incurred, but you track it kind of off the books.
+And when it gets to be a certain amount, you potentially have the ability to go back to the Commission and seek recovery for those costs as they are incremental to what was planned in the business model.
+So, we continue to track costs on our memo accounts associated with COVID in our operations.
+Water sales, in aggregate, have been closer to the adopted levels, or about 95% of adopted sales in California, with the increases in customer usage, obviously, with people being home, using more water and that was offset by lower business in industrial uses during the quarter.
+In terms of liquidity.
+Our liquidity remains strong.
+As of September 30, we had $113 million in cash and additional current capacity of $170 million through a line of credit.
+So, liquidity has remained strong with the Company throughout the pandemic, and we're positioned very well going into the fourth quarter.
+So turning to Slide 15, is the California regulatory update.
+It has been a very busy year for Cal Water on the regulatory front.
+As Tom mentioned, the Company received a proposed decision in October and then the PD, or the proposed decision, the Commission established a new revenue requirement for Cal Water of $698.7 million for test year 2020.
+In the proposed decision, it also authorized $828 million of new capital expenditures or new capital investments across the three years of the rate case cycle.
+Now, we filed a settlement agreement as a part of this rate case and the settlement agreement that we filed resolved the majority of the issues in the General Rate Case.
+However, there were 11 items, 11 litigated items, litigated financial items, which were not part of the settlement agreement that we filed with the Commission.
+In the proposed decision, the judge agreed with Cal Water's position on all 11 of the litigated financial items.
+They were ruled in our favor by the administrative law judge and these included: The continuation of the water revenue adjustment mechanism, WRAM/MCBA; a continuation of the sales reconciliation mechanism, or SRM; the continuation of the pension and healthcare balancing accounts, inclusion of an equity component in our AFUDC calculation; an approval of capital projects for AMI, or advanced meter infrastructure; and for some water quality or water treatment projects down in the Los Angeles area.
+The Commission is set to rule on the proposed decision, at earliest on its November 19 open meeting.
+I will also note on Slide 15 that Cal Water along with the other parties have filed a request for rehearing on the August 27 decision by the Commission, which bars Cal Water and others from continuing to use the WRAM/MCBA, beginning, in our case, in our 2021 Rate Case filing, which will be effective in 2023.
+2021 as I said -- our 2020 has been a busy year.
+2021 will also be a busy year, because, as I just mentioned, we will be filing our 2021 Rate Case next spring and we will also be filing our cost of capital case next spring.
+So we -- our regulatory team will be very busy next year, putting all of those together.
+And I'm going to give a quick update on the capital investment program for 2020.
+Capital investments for the third quarter were $84.7 million, up 16% over the same period last year.
+Year-to-date, our capital investments are $221.3 million, up $13.5 million year-to-date over 2019.
+The Company has previously estimated, we'd spend between $260 million and $290 million.
+We think we're in good shape going into the fourth quarter to achieve our capital investment program goals for this year, despite what has been really a challenging operating environment.
+In addition, we announced on October 13, that we had completed and put into service our Palos Verdes Water Reliability Project, which is the largest project in the Company's history, just shy of $100 million project, to bring redundancy to the PV Peninsula down in Southern California, so it's nice to have that wrapped up.
+The team did a fantastic job, again, working in difficult operating environments to get that project wrapped up this year.
+Hot off the press yesterday.
+The CPUC adopted a decision granting Cal Water's request for an additional $700 million of additional financing authority, which is expected to be used to help finance the Company's capital program through 2025 or later.
+So, this will allow us to go out and raise an additional $700 million of debt or equity to finance our capital growth program in the next five years.
+So, that was good news as well.
+One of the areas that we've been super busy and frankly, or probably, the busiest in business development that we've been probably in the last 20 years as BD, and so Paul is going to give us an update on what's been happening on the business development side.
+On Slide 17, I have an update for our business development efforts.
+Cal Water is continuing a very strong new business development process and has had a lot of success this year.
+Year-to-date, our new development efforts have put over 25,000 new customer connections under contract.
+Representing over a 5% growth in new customer connections across the Company's subsidiaries.
+So far, in 2020, the Company has closed on two acquisitions, the Rainier View Water system in Washington and the Kalaeloa Water and Sewer system in Hawaii.
+And, we have entered into contracts for acquisitions of the Animas Valley Water Company in New Mexico and the Gunner Ranch Sewer system in California, which are both subject to regulatory approval.
+On the regulatory approval side, we are still undergoing regulatory review on two other acquisitions, that being the Kapalua Water and Sewer Company in Hawaii and the The Preserve at Millerton Water and Sewer in California.
+In summary, our business development efforts are strong, as you can see from this matrix, and our pipeline of potential deals is robust.
+And I will turn that back over to Tom.
+So, I'll just spend a couple of seconds going over our next two slides, which are the traditional bar charts showing our capex and rate base.
+A little bit more certainty on these two charts than in the past.
+Obviously, as Marty and Paul mentioned, the capex authorized by the Commission is getting closer to realization.
+We do have the midpoint of our target of $275 million for capex, that's very achievable here in 2020 and how much we've done so far.
+If you flip to the estimated regulated rate base, we have updated this chart to reflect the proposed decision rate base in California.
+And then add the rate base that I mentioned earlier in the call from the other states.
+So we estimate that our rate base in 2020 after the CPUC adopts -- assuming they adopt the proposed decision and the settlement, the California and other state regulated rate base is going to be about $1.6 billion.
+That does not include the Palos Verdes pipeline project.
+As Marty mentioned, that was close to $100 million.
+That is one of these advice letter projects.
+We expect that to be included in rates pretty close to the start of the year in 2021 or maybe even a little bit before that, depending upon the timing as it flows through the rate case process here in California.
+So, that will be almost two-thirds of the advice letter rate base that we show on this chart.
+So, I do want to emphasize though that 2021 and 2022, our rate bases in California are subject to the earnings test.
+We haven't been talking -- we didn't have an earnings test this year because of the rate case test year.
+But two out of every three years, we do have an earnings test that looks at the progress we've made on our capital investments and the effective rate of return before it grants us additional rates in the districts in California.
+So, I think we'll have an update on that, by the time we get to the year-end call and what that increment will add to 2021.
+So, what's shown in 2021 here is the authorized rate base if we were to pass all of those earnings tests.
+And so, that is what it is there.
+It's been a real busy couple of weeks since we got the PD to figure all this out and get everything booked and work with our independent registered Certified Public Accountants, Deloitte & Touche.
+I know you worked a lot of hours to get this stuff booked.
+It's great to have the 2018 General Rate Case close to being ramped up and getting that done.
+It was disappointing for us that it was so late, but it's nice to have it done and allowing us to kind of move forward.
+And we've already been working on our 2021 General Rate Case, as Paul mentioned.
+As we move into the last six weeks of what has truly been a disruptive year, maybe the biggest disruptive year anyone in our generation has ever experienced.
+Cal Water has continued to be well positioned with the execution of our business plan, including our business development growth plans, and our dividend growth plans and our capital investment programs.
+Most importantly, is our safety program that has allowed us to continue our operations.
+91% of our employees have been at work every single day.
+Most of our employees are our assets are in the field and they've been on the job every single day with COVID, which required us to adopt a lot of very tight COVID protocols to protect them.
+So, we figure we're executing well, we're positioned really well.
+And I thought, in a year that's just hasn't had a lot of really good news, I want to close with something that I think is fairly significant.
+In late September, the legislature in the state of California passed a bill that we've been working on to help us address some of our concerns regarding wildfire liability.
+Senate Bill 1386, which is the bill, which is now law after being signed by Governor Newsom, specifies that fire hydrants connected to public water systems are generally not designed or installed to provide water service to aid in the extinguishing of fires that threaten property not served by a water service provider or wildfires.
+The government affairs team worked very hard with California lawmakers to get this law put into place.
+And we believe this is another significant milestone to further differentiate our risk profile from the profiles of the electric and gas utilities in the state of California.
+So, it's a big step in the right direction, kudos for the team for getting that done.
+And Brigette, with that, we're going to open it up for Q&A, please.

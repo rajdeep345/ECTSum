@@ -1,0 +1,129 @@
+Certain risk factors inherent in our business are set forth in filings with the SEC, including our most recent 10-K and subsequent filings.
+We caution you not to place undue reliance on these statements.
+Some of the comments made refer to non-GAAP financial measures, such as adjusted net revenue, adjusted operating margin and adjusted earnings per share, which we believe are more reflective of our ongoing performance.
+Joining me on the call are Jeff Sloan, CEO; Cameron Bready, President and COO; and Paul Todd, Senior Executive Vice President and CFO.
+We delivered record third quarter results, despite the incremental challenges that emerged during the period from COVID-19.
+Highlighting the resiliency of our business model and our ongoing track record of execution across market cycles.
+We also surpassed $2 billion of quarterly adjusted net revenue for the first time in our history with record margins and produced all-time high quarterly adjusted earnings per share and adjusted free cash flow.
+As we detailed at our investor conference just a short time ago on September 8th.
+The trend toward accelerated digitization coming out of the pandemic has benefited our business by reinforcing that mode of competition, and this quarter provided further proof points of the wisdom of our approach to drive differentiated growth across the four pillars of our strategy.
+First, we extended long-standing relationships with both CITI and CIBC, as a reflection of our promise as a top quartile software-as-a-service or SaaS technology company with unmatched worldwide payments expertise.
+Our durable partnerships with some of the most sophisticated and complex institutions globally speak to our competitiveness, well into the remainder of this decade.
+Starting with CITI, we are delighted to have furthered our relationship with one of our largest commercial card customers for another eight years.
+This agreement highlights a key element of what is already today a successful B2B business at scale.
+More on this new pillars to our strategy in a moment.
+We're also pleased to have renewed our issuer relationship with CIBC a top 10 customer in North America that spans both its consumer credit and debit portfolios for an extended term.
+As we discussed in September, we also continue to build our pipelines with AWS to include additional fintechs, neobanks and embedded finance players spanning multiple geographies.
+We now have 25 active prospects in our issuer pipeline with AWS, up from 20 last quarter and four at the end of 2020.
+We also currently have 10 letters of intent with institutions worldwide, six of which are competitive takeaways; two of our recent LOI's have gone to contract.
+We're also excited to announce that together with AWS, we signed an agreement with London based 10x to integrate its cloud native, core banking platform with TSYS is payments as service capabilities.
+Allowing us to collaborate on modern core banking and issuing solutions for neobank and traditional financial institution customers.
+As we announced at our Investor Conference, we now have a terrific partner in Virgin Money for our first use case combining issuing and acquiring capabilities to offer transaction stream optimization solutions.
+It's worth noting that Virgin Money is also a significant competitive takeaway for us.
+Simply put, we're winning in our Issuer Solutions business, because we are selling more market-leading technologies to more distinctive and defensible distribution channels in more markets than we ever have previously.
+And our vertical markets businesses where we lead with SaaS at top of the funnel, we were delighted to announce our new partnership with Mercedes-Benz Stadium in September.
+As we highlighted, we believe that we were successful, because of our ability to seamlessly and uniquely combine software, hardware and payments across in-person mobile and online channels.
+We expect to facilitate a best-in-class fan experience through market leading commerce enablement solutions.
+We're now in pilot with Mercedes-Benz Stadium and we expect to be fully live early in 2022.
+We're gratified that after combating the payments landscape an extensive RFP, including with a full spectrum of new markets entrance.
+This sophisticated institution terminated their existing relationships and chose us for our software and payment technologies with a commitment well into the back half of this decade.
+Further across our merchant technology enabled businesses, our POS software solutions generated revenue growth of nearly 70%, compared to 2019 in the third quarter.
+And our central education business in Australia grew over 50% versus 2019, despite lockdowns in that market.
+In addition to the key win at Mercedes-Benz Stadium, our GO [Phonetic] business delivered record bookings in the third quarter and also had notable successes with Subway, Whataburger, Bojangles, RBI and Wendy's.
+Spanning software, hardware payments and data and analytics.
+These results highlight the benefits we're seeing from the accelerated digitization in our markets.
+Our e-commerce and omnichannel businesses drove growth in excess of 20% again this quarter.
+This business is another example of pandemic induced accelerate digitization benefiting us with current growth rates one-third faster than pre-COVID-19 levels.
+A few examples of durable success here this quarter: we broadened our relationship with Uber and Uber Eats into an additional market in Asia Pacific beyond Taiwan.
+We expanded our long-standing relationship with the Swatch Group to now include e-commerce alongside the solutions we provide in-store today across North America and Asia Pacific.
+And we went live with Google as a merchant in multiple markets in Asia Pacific exactly as we said we would.
+We remain on track to launch Google run and grow my business this quarter.
+And we're already working on the launch of the next phase to help our merchants grow faster by connecting additional Google services, including online ordering, retail inventory and reservation to our digital platform.
+These solutions will over time drive more consumers to our merchants and dramatically expand our value proposition with one of the leading technology players worldwide.
+We are also very pleased to announce today that we have extended and expanded the scope of our relationship with PayPal, one of the most sophisticated payments companies globally.
+This multi-year partnership leverages our unparalleled e-commerce technology footprint across cross-border in North America, Europe and Asia Pacific.
+And it will dramatically expand our target addressable markets over its term.
+We've added new geographies additional verticals and support crypto currencies for the first time.
+Together with CITI, Mercedes-Benz Stadium, Virgin Money and CIBC, what better testament to our current and future competitiveness.
+As we said in September, we continue to benefit from ongoing innovation in our ecosystem, including Buy Now Pay Later or BNPL Technologies.
+We expect to enable more than 1.5 billion BNPL transactions this year alone and we anticipate issuing more than 15 million virtual cards with more than $23 billion in volume.
+It's a market we know well, because it's a market that we've been serving for decades globally.
+As BNPL continues to grow, we believe we're well positioned given our presence worldwide and our unique offerings the benefit.
+Examples of our exposure include through network initiatives, traditional issuers, private label or charge card and program management, virtual card issuance, non-traditional issuers, including fintech, start-ups and neobanks, unique collaborations with AWS and Google, large existing scale players looking to expand BNPL globally into new markets and with added functionality.
+And of course the acceptance from our unmatched virtual and physical footprint with BNPL is just one of the many services at the point of sale in our commerce enablement ecosystem.
+At the end of the day, the entity is cash and check and further digitization including BNPL is the mode of competition.
+Our ability throughout the pandemic to sustainably expand our rates of growth relative to our markets has been indicative of our technology leadership.
+This quarter was no exception with our global merchant acquiring businesses delivering 900 basis points of outperformance relative to the credit trends reported by the card networks last week.
+Our consistent track record of share gains during the pandemic is something we highlighted at our Investor Conference.
+I'm also delayed to report that we have successfully closed our acquisition of MineralTree in October.
+After having announced our formal entry into the B2B market in September.
+As we highlighted, then we have many of the elements of a B2B offering post our merger with TSYS in 2019.
+And in addition at MineralTree's digitize payable solutions serves to enhance our B2B product suite and expands our opportunity set in one of the largest and most under penetrated markets in software and payments.
+We intend to further scale our business rapidly.
+In addition to MineralTree and the extension of our commercial partnership with CITI, we had several other notable B2B achievements in the third quarter.
+These include a new relationship with WeatherTech in our Heartland business for B2B, as well as B2C acceptance.
+Near 50% payroll solutions growth in the third quarter, compared to 2019.
+And a 10-fold increase in the number of customer locations using our Tips solution from our business and consumer segment for disbursement, since the beginning of the pandemic.
+We continue to have tremendous firepower to conduct strategic transactions with billions of available capacity.
+Of course this is on top of the $2.5 billion we have already invested over the last year.
+During the pandemic in acquisitions consistent with our strategic focus, including our emphasis on faster growth geographies.
+And it's in addition to the nearly $2 billion, we've returned to shareholders over the last year.
+To that end, we are pleased to have now closed our acquisition of Bankia's merchant acquiring business together with our partners at CaixaBank last month, deepening our presence in one of the most attractive markets in Europe.
+And through our Erste joint venture, we also very recently closed the acquisition of Worldline's PayOne Austrian POS acquiring assets, enabling us to bring our distinctive distribution and market leading technologies at scale to get another attractive market.
+And our pipeline remains full, despite the investments we have already made over the last 12-months.
+The majority of which has been in software assets in furtherance of our long-standing technology enablement thesis.
+Our financial performance in the third quarter of 2021 exceeded our expectations, despite incremental headwinds from COVID-19 and the delta variant during the period.
+Specifically, we delivered record quarterly adjusted net revenue of just over $2 billion representing 15% growth, compared to the prior year and 10% growth, compared to 2019.
+Adjusted operating margin for the third quarter was a record 42.8%, a 170 basis point improvement from the prior year and a 420 basis point improvement relative to 2019.
+The net result was record quarterly adjusted earnings per share of $2.18, an increase of 28%, compared to the same period for both the prior year and 2019.
+Taking a closer look at our performance by segment.
+Merchant Solutions achieved adjusted net revenue of $1.36 billion for the third quarter, a 21% improvement from the prior year and a 13% improvement, compared to 2019.
+We are also pleased that our acquiring business is globally generated 22% and 19% adjusted net revenue growth, compared to the third quarter of 2020 and 2019 respectively.
+This was led by continued strength in the US, while we also benefited from improving trends in international markets, including Spain, Central Europe and Greater China.
+Focusing on our technology enabled portfolio, we continue to see consistent growth in our Global Payments Integrated business as we deliver a vertically fluent suite of commerce enablement solutions across dozens of vertical markets.
+As we highlighted at the Investor Conference, a number of our businesses, including our integrated business have grown right through COVID-19 and are now at levels that we would have otherwise expected them to achieve, absent the downturn.
+Our worldwide e-commerce and omnichannel solutions delivered growth in excess of 20% year-on-year, once again this quarter as we continue to benefit from our unique ability to seamlessly blend that difficult and virtual worlds and create frictionless experiences for our customers on a global basis.
+As far, our own software businesses in the US, we are pleased that the overall portfolio delivered strong sequential improvement as the recovery begins to take root in some of the more impacted vertical markets.
+Given the positive booking trends we have seen throughout the pandemic, including this quarter we are confident that the business is most impacted by COVID-19 in this portfolio remain on a path to recovery.
+We delivered an adjusted operating margin of 49.3% in the Merchant Solutions segment, an increase of 200 basis points from the same period in 2020, as we continue to benefit from the underlying strength of our business mix and the realization of cost synergies related to the merger.
+Moving to Issuer Solutions, we are pleased to have delivered $458 million in adjusted net revenue, a 6% improvement from the third quarter of 2020.
+This performance was driven by the continued recovery in transaction volumes, as well as growth in accounts on file, while non-volume based revenue increased mid single-digits during the period, including low double-digit growth in or out with services business again this quarter.
+Issuer adjusted operating margins of 43.4% were up slightly from the prior year.
+As you may recall Issuer Solutions achieved margin expansion of 500 basis points in the third quarter of 2020 over 2019, fueled by our focus on driving efficiencies in the business.
+We are also pleased that our Issuer team signed five long-term contract extensions during the quarter, and our strong pipeline, including the growing list of opportunities we have in collaboration with AWS continues to bode well for our future performance.
+Finally our Business and Consumer Solutions segment delivered adjusted net revenue of $208 million, representing growth of 2% on a reported basis for the third quarter.
+Adjusting for the stimulus benefits and higher unemployment volumes last year, our adjusted net revenue growth was in line with our targeted growth range for the quarter.
+Adjusted operating margin for Business and Consumer Solutions was consistent with the prior year at 25.6% after expanding more than 700 basis points during the third quarter of 2020, as a direct result of our efforts to streamline costs and drive greater operational efficiencies at Netspend.
+Further, we are pleased with the early progress we are making on our strategic partnership we announced last quarter with AWS in this business.
+While we also launched and began selling our earned wage access solution to existing B2B clients and into new vertical markets during the period.
+The outstanding performance we delivered across our businesses this quarter serves as a further proof point that we continue to gain share and that our four-pillared strategy positions us well to capitalize on the accelerating digital trend coming out of the pandemic.
+From a cash flow standpoint, we generated roughly $850 million during the third quarter and remain on track with our target to convert roughly 100% of adjusted earnings to adjusted free cash flow.
+We invested approximately $132 million and capital expenditures during the quarter in line with our expectations.
+We have now successfully closed our acquisitions of MineralTree, Bankia's Merchant Services business and Worldline's PAYONE Austrian assets consistent with our expectations.
+We expect the contribution from these acquisitions to adjusted net revenue to be immaterial in the fourth quarter.
+We are pleased to have also returned cash to our shareholders this quarter through the repurchase of approximately 4.2 million of our shares for approximately $741 million.
+We ended the period with roughly $2.5 billion of liquidity after repurchase activity and funding of the Bankia Acquisition.
+Our leverage position was roughly 2.6 times on a net debt basis, consistent with the prior quarter.
+We remain encouraged by the trends we are seeing in the business and we are raising the lower end of our guidance for adjusted net revenue to now be in a range of $7.71 billion to $7.73 billion, reflecting growth of 14% to 15% over 2020.
+We are adding $10 million to the bottom of the range despite anticipating an incremental headwind from foreign exchange rates, since our last report and absorbing the impact of the delta variant of COVID-19.
+We also continue to expect adjusted operating margin expansion of up to 250 basis points, compared to 2020 levels, excluding the impact of our already announced and closed acquisitions.
+As previously discussed, we expect those transactions to result in a headwind to our margin performance and we now expect adjusted operating margin expansion of around 200 basis points for the year.
+At the Segment level, we continue to expect Merchant Solutions adjusted net revenue growth to be around 20% for 2021.
+We also continue to expect our Issuer business to deliver growth in the low to mid single-digit range and for our business and consumer segment to be in the mid to high single-digit range for the full-year.
+Moving to non-operating items, we still expect net interest expense to be slightly lower in 2021 relative to 2020, while we anticipate our adjusted tax rate will be relatively consistent with last year.
+Putting it all together, we now expect adjusted earnings per share for the full-year to be in a range of $8.10 to $8.20, reflecting growth of 27% to 28% over 2020, which is up from $8.07 to $8.20 previously.
+Our outlook presumes the macro environment remains stable worldwide over the balance of the year.
+And now includes an incremental headwind from currency.
+Finally, we are pleased that our unique strategy that capitalize on the acceleration of digitization impairments, our ongoing technology enabled mix shift, our exposure to expanding TAMs [Phonetic] including now B2B and our track record of disruptive M&A provided us with the confidence to raise our cycle guidance at our September 8th Investor Conference.
+In particular, we continue to expect adjusted earnings-per-share growth in the 17% to 20% range over the next three to five years on a compounded basis.
+Our strategy has been centered on digitization, since we started running the company a little over eight years ago.
+By accelerating the underlying trends toward technology enablement, the pandemic has reaffirmed the wisdom of our approach, and we now target three quarters of our business from these channels over the next cycle as we said in September.
+Our formal entry into the B2B market reinforces the existing legs of our stool, including software primacy, a leading e-commerce franchise and an unmatched presence in many of the most attractive markets worldwide.
+These strategies are complementary and interrelated and provide us with substantial and incremental growth opportunities for years to come.
+The record results for the third quarter that we reported today in our raised cycle guidance in September, our expressions of our confidence in our strategies and are the most recent examples and best evidence of their success.
+We just delivered a record quarter and any number of basis in the best year in our history during the midst of a once in a century pandemic.
+I think you can see why we view the glass as full.
+We exit the pandemic better off than we entered it, judge for yourself.
+Before begin our question-and-answer session.
+I'd like to ask everyone to limit their questions to one with one follow-up to accommodate everyone in the queue.
+Operator, we will now go to questions.

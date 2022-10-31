@@ -1,0 +1,88 @@
+Actual results could differ materially from such statements and our forecast.
+In particular, there remains significant uncertainty around the duration and impact of COVID-19.
+This means that results could change at any time, and the contemplated impact of COVID-19 on the Company's business results and outlook is the best estimate, based on the information available as of today.
+As a reminder, during the call we will discuss non-GAAP metrics.
+Before I hand the call over, I'd like to remind our investors and analysts about our upcoming virtual Investor Fireside Chat, taking place on November 17th from 1:30 PM to 3:00 PM Central Time during the 2021 PROS Outperform conference.
+We ended the quarter with significant outperformance on our guidance ranges for profitability and cash flow, and delivered revenue results in line with our expected ranges.
+We did see impact from the Delta variant in our Q3 results and our Q4 outlook.
+Stefan will expand on this later.
+Our strategy is to accelerate market adoption of the PROS Platform, deliver an incredible experience and drive significant value for our customers.
+Despite the challenges we faced because of COVID-19, our team continues to execute well against our strategy.
+We continue to drive incredible value for customers, evident by our expanding partnerships and best-in-class gross revenue retention rates.
+We received industry recognition of our leadership in both CPQ and Price Optimization and Management.
+When I look at all of this and the progress of the recovery, I couldn't be more excited for what is to come.
+In Travel, we're starting to see international restrictions ease, and some carriers are seeing significant increases in passenger demand as a result.
+For example, when the announcement was made that the Europe to U.S. travel ban would be lifted in November, carriers saw an immediate 140% increase in ticket sales in a single week for European travelers.
+This demonstrates the pent-up demand for travel, both leisure and business, and energizes us for the pace of recovery heading into 2022, as more borders open.
+Historically, this market segment didn't have access to the best-of-breed, AI-powered revenue management solutions.
+We designed our PROS RM Essentials edition on the PROS Platform to enable teams of any size to adopt to our industry-leading AI and grow with PROS over time.
+With PROS RM Essentials, customers like Air Transat and Scoot can forecast demand and dynamically priced to maximize revenue.
+Now, moving to B2B; in the healthcare space, we're seeing demand for our solutions, as companies look to digitize their selling motions.
+We're also seeing momentum in transportation and logistics, where companies are looking to PROS to enable them to deliver a frictionless sales experience, as demand continues to rise.
+This year, air cargo demand is expected to increase approximately 20% year-over-year.
+In Q3, Emirates SkyCargo adopted our B2B Platform to empower their customers with a self-service buying experience, to drive a higher conversion of sales, using our omnichannel quoting capabilities and capacity-aware price guidance.
+Similarly, Marken, a division of UPS Healthcare Logistics, that is essential in the delivery of vaccines globally, also adopted our B2B Platform to power digital selling across their enterprise.
+Our latest innovations are also inspiring existing customers to expand their partnerships with PROS.
+In Q3, TE Connectivity, a PROS customer of eight years, chose to migrate to our cloud platform, which allowed them to expand adoption across their business.
+TE Connectivity is a leading manufacturer of electronic connectors and sensors that powers vehicles, factories, and homes across the globe.
+With hundreds of billions of products manufactured annually, TE Connectivity is relying on the scale, speed, and precision of PROS' Price Optimization and Management capabilities to drive winning offers.
+Honeywell also expanded adoption of our Price Optimization and Management solution.
+Like many businesses today, Honeywell is experiencing the impact of rising commodity prices and the risk of inflation.
+To effectively manage volatility and continue to produce winning offers, Honeywell named PROS as their global pricing solution vendor, and is actively rolling out our solution to all their strategic business units.
+Sheila Jordan, Honeywell's Chief Digital Technology Officer, will be joining me in my keynote at Outperform, to share more on their success with PROS.
+Now, I am excited to share that we have been named a Leader in the 2021 Gartner Magic Quadrant for Configure, Price and Quote Application Suites.
+Our flexibility to support omnichannel selling, the combination of pricing and selling capabilities in a single platform, the performance, usability, and scalability of our platform were all cited as key strengths.
+We also had the honor of once again being named a Leader in the 2021 IDC MarketScape Assessment of Worldwide B2B Price Optimization and Management Applications.
+IDC emphasized the ease of use and transparency within our solutions as a key differentiator.
+A core part of our strategy has been making our AI algorithms accessible, explainable, and extensible, which allows companies of all sizes to adopt our market-leading AI-powered platform.
+As an engineer at heart, I'm incredibly proud of the market recognition we're receiving for our innovations, and I would like to express my deep gratitude to our amazing Product and Engineering teams.
+With these most current designations, we're the only platform with a leadership position in both the CPQ and Price Optimization and Management markets.
+In addition to our product awards, I am thrilled to share that PROS has been Certified by Great Places to Work for the second year in a row.
+This year's designation extends the Company's original certification to all eligible countries, recognizing our inclusive, people-first culture on a global scale.
+This award is based entirely on what current employees have to say about working at PROS, which is what makes this award so special to me.
+Finally, in September, we announced Rob Reiner's intention to retire from PROS.
+As Chief Technology Officer, Rob has been key in driving our culture of innovation forward.
+Rob joined PROS in 2016 to lead our pivotal transition to the cloud.
+With his leadership, we transformed our Travel and B2B solutions into the most comprehensive and innovative SaaS offerings in their markets.
+Succeeding Rob, Ajay Damani has been promoted to the role of Executive Vice President of Engineering, and Sunil John has been promoted to the role of Chief Product Officer.
+Ajay and Sunil each have over 15 years of experience with PROS, and have been a huge part of our success.
+I look forward to working closely with them, and continuing to accelerate our innovation leadership.
+In closing, I'm proud of how our team is executing to drive adoption in the market, deliver industry-leading innovations through our platform, and create a culture that empowers every employee to reach their full potential.
+In the third quarter, we significantly outperformed our profitability and cash flow metrics and delivered revenue results that were in line with our expectations.
+Our team continues to look for ways to drive efficiencies, as well as improve our customer satisfaction and collection processes.
+As a result of our strong operational execution, our outlook for the full year is now much better on profitability and cash flow.
+As Andres mentioned, the ongoing impact from COVID-19 and specifically the Delta Variant, did affect some of our travel customers in the third quarter.
+Examples of the impact during the quarter include; a travel customer declaring bankruptcy, a small number of contract restructurings, and some of our new opportunities and implementations being pushed by a few months.
+Individually, none of these items significantly impacted our revenues, but the combination of these items did impact our subscription and services revenues slightly in the third quarter.
+These items will also impact our fourth quarter revenues, and we expect total revenue for the year to be at the low end of our previous annual guidance range.
+All of these items impacting the second half of 2021 are temporary in nature.
+We expect to recover most, if not all, of these amounts during 2022.
+Now moving on to our results; subscription revenue in the third quarter was $44.1 million, up 5% year-over-year and total revenue was $62.7 million, up 2% year-over-year.
+Our third quarter recurring revenue was 84% of total revenue.
+Our gross revenue retention rate for the trailing 12 months was approximately 91%.
+As a reminder, we disclose gross revenue retention rates, not net revenue retention rates.
+Gross revenue retention does not include bookings from existing customers, which can mask real customer churn.
+Our revenue retention rates have continued to improve throughout 2021 and we anticipate ending the year at approximately 93%.
+This returns us to world-class gross revenue retention rates and demonstrates the value our customers see in our solutions.
+Our non-GAAP total gross margins improved sequentially again to 61%, and our non-GAAP subscription gross margins were 72%, which are up sequentially from 71% and also up year-over-year.
+We expect subscription margins to remain relatively constant in the fourth quarter of 2021.
+We also continue to make steady progress on our services margins and were within $200,000 of breakeven in the third quarter.
+As I mentioned before, we continue to make progress on adjusted EBITDA and were very pleased with our performance this quarter.
+Adjusted EBITDA loss was $4.4 million as compared to $6.2 million last year.
+Revenue growth and reduced operating expenses led to this improvement.
+Total operating expenses declined by 5% in the quarter and 6% in the first nine months of the year.
+I am proud of our team's strong operational execution and how we continue to look for ways to drive more efficiency into our business.
+Our calculated billings decreased 5% for the quarter and for the trailing 12 months.
+And as previously mentioned, we anticipate calculated billings will grow in the fourth quarter, which would result in full year growth of at least 10%.
+Our free cash flow burn was $8.5 million in Q3 and $18.9 million year-to-date, a significant improvement over last year, driven by a combination of operating expense efficiencies, strong customer collections, and better gross revenue retention rates.
+We exited the third quarter with $308.6 million of cash and investments.
+We also made nice progress toward our year-end target of adding quota-carrying personnel, and we ended the quarter with 64.
+We were able to hire ahead of plan, which allows our new team members to ramp up, so that they can be productive earlier in 2022.
+We do not anticipate growing this metric further in the fourth quarter.
+And as previously discussed, we expect to exit the year with 60 or more quota-carrying personnel.
+Now turning to guidance; we expect Q4 subscription revenue to be in the range of $45 million to $45.5 million and total revenue to be in the range of $63 million to $64 million.
+We expect fourth quarter adjusted EBITDA loss to be between $9 million and $10 million.
+Using an estimated non-GAAP tax rate of 22%, we anticipate fourth quarter non-GAAP loss per share of between $0.22 and $0.24 per share, based on an estimated 44.4 million shares outstanding.
+For the full year, we expect subscription revenue to be in the range of $176 million to $176.5 million and total revenue to be in the range of $249.5 million to $250.5 million.
+We expect an adjusted EBITDA loss of between $27.3 million and $28.3 million, and a free cash flow burn between $22 million and $25 million.
+We also expect our ending ARR on a constant currency basis to be between $214 million and $217 million.

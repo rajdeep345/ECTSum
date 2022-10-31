@@ -1,0 +1,136 @@
+This release is available on the Company's website at dhigroupinc.com.
+Lastly, during today's call, management will be referring to specific financial measures, which include adjusted EBITDA, adjusted EBITDA margin and net debt, which are not prepared in accordance with U.S. GAAP.
+As always, we appreciate your interest in DHI.
+I want to begin by saying a few words about COVID-19 and our response to this global pandemic.
+Our foremost concern at DHI is to ensure the health and safety of our DHI community.
+As such when the pandemic began to unfold in mid-March, we at DHI jumped into action to aid our communities by launching COVID-19 resource centers on each of our brand sites to assist both clients and candidates alike with information relevant to their needs in these challenging times.
+These sites provide information on virtual career fairs, open remote job posts, real-time hiring trends, industry insights, articles, and hiring resources.
+We also launched a campaign to provide free recruitment services to U.S. hospitals to help them find technologists in fields like electronic medical records, healthcare administration and computer system processing.
+Also, all of our employees have been working from home using the best possible remote communication and collaboration tools and our team members, including sales and support, marketing and product development continue to be highly effective.
+In fact, our product development team actually gained efficiency working from home this quarter, delivering dozens of new product releases.
+I'll dive more into these product releases later in the call, but first let me provide a quick update on the current market environment for tech jobs.
+The pandemic is certainly challenging the way we all live and work.
+We saw job postings drop in the early part of the quarter but come back to the trailing 12-month average levels in June and July as companies became more confident in their hiring strategies.
+Many firms serving highly impacted industries have paused or reduced their hiring plans and we believe that our bookings are highly correlated to the state of geographical restrictions and reopenings, which certainly remain in flux.
+It's clear that our collective future will be more online and businesses will accelerate their efforts to digitize.
+These efforts will, of course, require technologists.
+A recent report released by Microsoft in July predicts that the worldwide digital jobs will grow from 41 million in 2020 to 190 million in 2025.
+Of the 149 million new digital jobs created, 98 million are forecast to be in software development.
+With our technology skill of data model in technology focused marketplaces, we stand ready to capitalize on this trend.
+Now let me provide some more detail regarding the product development efforts I mentioned earlier.
+During the second quarter, our product development team continued to deliver a high pace of product innovation.
+With the release of Dice recruiter profile, we took the first leap forward in Dice's transformation from a job board to a full-scale career marketplace.
+Dice Recruiter Profile allows our client recruiters to enrich their brands with photos, personal information, details of our corporate culture and important news, as well as information about latest hires, upcoming events and future hiring needs, all of which create more transparency and personalize the recruiter define the role.
+Candidates can now discover the recruiters that are aligned with their interests and use recruiter profile information to better engage on job postings and respond to outreach.
+With the Dice Marketplace, we're creating a trusted environment where recruiters and candidates can learn much more about each other to facilitate more effective career discussions.
+We also launched Dice Remote Jobs.
+The pandemic has demonstrated that candidates can successfully work from home and want to do so and that more jobs are predicted to be remote-qualified in the future.
+Remote job opportunities has been the top requested feature by both clients and candidates since the start of the pandemic and the views for these job postings have been significantly higher than non-remote job postings.
+This is an excellent opportunity for employers to tap into pools of remote workers across the United States to increase talent pipelines and diversify their workforce and we at DHI want to be the leader in the technologist's part of this important trend.
+We also launched ClearanceJobs Automated Recruiter Workflow in the quarter, which we believe is a true game-changer.
+Workflow is an easy to use set of tools that allow our recruiter to automate routine tasks in their day, including talent sourcing, pipelining, engagement, marketing and rewards [Phonetic].
+When specific candidate activities occur, they trigger automated pre-planned actions and responses.
+As an example, if a recruiter is looking for an Oracle database administrator in California, when a new candidate with the correct profile registers on the database, Workflow will automatically connect the recruiter with the new candidate, tag them in their pipeline, produce an email introduction and generate a text notification that all of this has been completed.
+Our internal estimates indicate that this powerful set of tools can eliminate approximately 3.5 hours of administrative task time per recruiter per day.
+ClearanceJobs is the only career site in the world that incorporates this capability.
+ClearanceJobs continues to be DHI's test-bed for key market-leading features like this one of a kind technology.
+We also launched eFinancialCareers Enhanced Candidate Profile during the quarter.
+eFC candidates can now expose a richer profile, equivalent to that offered on ClearanceJobs to recruiters specializing in their respective field.
+And in mid-July, we launched eFC Follow, Voice and Video.
+These features complete the eFC marketplace delivering a rich set communication tools for recruiters and professionals to engage in career discussions.
+Now finance and tech professionals and recruiters can connect virtually with video and voice calling as well as instant messaging all through the eFC platform.
+We have many new releases planned for the remainder of the third quarter.
+Dice is completing a design for its own enhanced candidate profile and messaging system with an expected launch by year-end.
+We are working on delivering calendaring integration for ClearanceJobs, and for eFC we will be releasing a modern new brand identity starting with their B2B site.
+We continue to transform our sales organization this quarter with the addition of a new customer success leader, a new Dice agency program leader and the relaunch of managed services as sourcing services, with a focus on delivering vetted candidates for targeted client searches.
+Much like other trends in our business, we have seen a steady improvement in the demand for sourcing services since April.
+Turning to sales performance by brand.
+For all of our brands we were experiencing a check mark shaped recovery, not a V-shaped recovery.
+Dice's current bookings are trending toward their performance pre-pandemic, although our new business teams, including the Dice Commercial Accounts team remain challenged due to the extra conservatism of potential new clients in this environment.
+Despite this challenge, the commercial sales team has been heads down training and improving its core practices.
+They are becoming more sophisticated in their go-to-market approach and as a result, brought in the largest new business deal in the history of our Company.
+This deal with a large U.S. government agency is worth $270,000 in annual contract value.
+To put this in perspective, we typically sign new business deals in the $7,000 to $10,000 range.
+This success, along with the momentum we saw in signing new customers in the weeks leading up to the start of the pandemic in mid-March gives us great confidence that our focus on commercial accounts will be the cornerstone for our growth as the business environment normalizes.
+Our renewals with existing Dice clients, while impacted in the quarter as a result of the pandemic, are slowly returning to expected levels, and existing clients have told us that they cannot find appropriate technologists without our platform.
+It's important to note that this dip in renewal-based bookings during the quarter will manifest itself in lower revenue for the remainder of the year, as we recognize each booking as revenue monthly across the duration of the contract.
+ClearanceJobs has been relatively unaffected by the pandemic as its performance is generally correlated to the U.S. DOD budget.
+We are very fortunate that the 2021 Defense Authorization bills appear to be moving forward toward approval.
+We continue to work hard on expanding CJ's addressable market through direct sales to U.S. government agencies and have booked $0.5 million in new contract revenue through the first half of the year.
+We expect ClearanceJobs to add several new government customers as we make our way through the rest of this year.
+Finally eFinancialCareers remains our most challenged brand.
+From the Hong Kong protests last summer, to the uncertainty of Brexit last fall, to the current pandemic; eFC clients have faced significant challenges that have certainly affected our bookings.
+The global banking community is still working out the hiring plans in light of the indeterminate effect of the pandemic on loan portfolios.
+We are fortunate that eFC is generally focused on larger banking institutions and counts 50% of the global 100 banks as clients.
+These institutions believe in an online banking future and continue to hire technologists even now.
+There is no question, however, that the uncertainty in the banking industry has weighed down eFC's performance to date and will continue to do so at least through the remainder of the year.
+As I conclude my remarks, I want to reiterate that we are successfully executing on our plan to build career marketplaces for matching tech professionals with employers.
+We believe we have created a better online platform than our competitors for matching companies with the highest quality tech professionals.
+And with our proven go-to-market strategy, we believe we can capitalize on the millions of new technologist jobs expected over the next five years and grow our revenue at or above the market rate of growth.
+While this growth won't happen overnight and COVID-19 certainly presents uncertainty, we are confident in our business plan and the continued progress we are making toward achieving our goal.
+I'll start by going through the financial results, then add a few comments about the business.
+For the second quarter, we reported total revenues of $33.8 million, which was down 8% from the first quarter and down 9% year-over-year when you exclude the impact of foreign exchange.
+Dice revenue was $20.5 million in the second quarter, down 9% sequentially and down 12% year-over-year.
+We ended the second quarter with 5,450 Dice recruitment package customers, which is down 7% sequentially and 11% year-over-year.
+During the quarter, we did not see any notable changes to customers' leaving the platform relative to other quarters.
+However, we did see lower new customers being added.
+This gives us comfort that our core customers continue to see the value in our platform even during these challenging times.
+We maintained our average monthly revenue per recruitment package customer versus the year ago quarter at $1,131 or $13,572 on an annual basis.
+This is important as over 90% of Dice revenue is recurring and comes from recruitment package customers.
+Our Dice customer renewal rate was 57% for the second quarter, down 13 percentage points year-over-year and our revenue renewal rate was 61%, which was down 19 percentage points when compared to the same period last year.
+These lower renewal rates have a minimal impact on in-quarter revenues, but do impact contracted revenue and will result in lower revenue during the term of the related contracts.
+And while we did see lower in-period renewal rates, that is customers renewing prior to or at contract termination, we are maintaining an ongoing dialog with these non-renewal customers with the expectation that they will resign when there is further recovery in the economy.
+In addition, we hired a new leader for our Client Success organization who is implementing new processes around on-boarding and ongoing touch points that should have a positive impact on both customer and revenue renewal rates.
+As we look at Dice, our strategy continues to be on larger customer relationships through moving upstream in terms of our marketing efforts, sales activities and go-to-market approach.
+We believe this will put us in the best position for stability and growth.
+Currently, approximately 15% of our customers generate 50% of our recruitment package revenue though no one customer makes up even 1% of revenue.
+We think this is a good balance of a strong stable revenue base without having significant customer concentration risk.
+ClearanceJobs' second quarter revenue was $7.1 million, an increase of 3% sequentially and 18% year-over-year.
+This continued solid double-digit revenue growth year-over-year is reflective of ClearanceJobs' strong innovative products and competitive differentiation.
+Second-quarter revenue for eFinancialCareers was $6.2 million, down 15% from the first quarter and 21% year-over-year, when excluding the impact of foreign exchange rates.
+As expected, COVID negatively impacted our performance for eFinancialCareers during the quarter.
+In the U.K., which is our largest geography by revenue for eFC, we were impacted by the COVID shut down and U.K. furloughs, which have been extended through October of this year.
+In the APAC region, eFC's second largest geography, we continued to experience difficulties primarily due to the impact of the pandemic.
+Turning to operating expenses.
+Second quarter operating expenses were $31.3 million, representing a decrease of $1.7 million or 5% year-over-year.
+This decrease in operating expenses was primarily the result of the comprehensive cost management exercise which began in late March and continues currently.
+For the second-quarter, sales and marketing expense decreased $1.5 million year-over-year to $12.3 million.
+The majority of our cost savings was associated with the reduced digital marketing spend for candidates, given that there has been a larger amount of candidate engagement naturally during the work from home environment.
+And even while we accelerated the deployment of new product features in the second quarter, our product development expense decreased $617,000 year-over-year to $3.8 million, as a result of higher capitalization rates associated with these projects.
+Income tax expense for the second quarter was $430,000, resulting in an ineffective tax rate of 19%, which is lower than our expected statutory rate of 25% due to the allocation of income between jurisdictions.
+We recorded net income for the second quarter of $1.9 million or $0.04 per diluted share compared to net income of $3.1 million or $0.06 per diluted share a year ago.
+This quarter's earnings per share had a $0.01 detriment primarily from severance and related costs that negatively impacted net income.
+Last year's earnings had a $0.02 detriment from disposition related costs, including the loss on the sale of a business and discrete tax items.
+Excluding those items, on a normalized basis, earnings per share for the quarter was $0.05 versus $0.08 last year.
+Adjusted EBITDA margin for the second quarter was 23%, up from 21% in the first quarter and down from 24% in the second quarter last year.
+As we stated on our last call, our goal is to manage the business to approximately 20% adjusted EBITDA margins.
+We were able to exceed that due to the quick action we took to both support our customers and revise our spending, along with the ongoing management of the overall cost structure.
+We generated $7.1 million of operating cash flow in the second quarter compared to $11.1 million in the prior year quarter.
+From a liquidity perspective, at the end of the quarter, our total debt was $37 million.
+We had $27.5 million of cash resulting in net debt of $9.5 million.
+Even with the incremental borrowing in the first quarter, we still have significant borrowing capacity available to us under our credit facility.
+Liquidity continues to be a key area for us.
+During the quarter, several customers requested flexibility on billing terms and with our strong liquidity position, we were able to provide this flexibility with the intent of retaining active customers and working with them through their challenges.
+More recently, we have seen the number of requests drop significantly, which is clearly a positive sign.
+Deferred revenue at the end of the quarter was $47.2 million, down 15% from the first quarter.
+This is due to the impacts of COVID-19 as well as more contracts having a monthly or quarterly payment terms as a result of the flexible billing terms I just discussed and the normal seasonality of bookings.
+When we add the unbilled portion of our contracts to deferred revenue, our committed contract backlog at the end of the quarter was down 11% from the end of the second quarter last year.
+During the quarter, we repurchased approximately 1.3 million shares for $3.4 million or $2 56 per share.
+We used $2.9 million of the $7 million buyback program, which ran through May of this year and $530,000 under the new $5 million share buyback program.
+We continue to believe that buyback is a recognition of the strength in the long-term prospects of our business.
+Consistent with our previous programs, we will continue to evaluate investment opportunities in the business against buying back shares while also using it as an opportunity to offset the impacts of our employee equity incentive programs.
+As we look ahead, bookings are improving across all teams.
+But as Art mentioned, this appears to be more of a Nike swoosh shaped recovery than a V-shaped recovery.
+For Dice, while there is still great uncertainty due to the pandemic, we've seen a stable number of tech job postings in the past few weeks as companies continue to use technology in their business model.
+With regard to ClearanceJobs, we expect them to continue to grow because of their success is correlated to the U.S. Department of Defense budget which, relatively speaking, has been immune to the environment we find ourselves in.
+For eFinancialCareers, while it operates in multiple geographies, we continue to expect significant headwinds in our two largest regions, the U.K. and APAC as a result of the furloughs in the U.K. due to COVID and in addition to COVID, the ongoing geopolitical issues in Hong Kong.
+While we have relationships with approximately 50% of the global 100 banks providing us more stability in the current environment, we have seen our smaller customers continue to be impacted.
+As we've mentioned, we continue to evaluate our entire cost structure and have reduced non-headcount-related expenses, both operating expenses and capital expenditures.
+This includes such areas as contractor and consulting spend, marketing spend and third-party vendors spend, while being very disciplined around any headcount additions.
+With regards to marketing, we believe we can still achieve our candidate and client metrics with lower spend as overall digital advertising rates have come down.
+We remain confident in our ability to manage our expenses appropriately for any revenue changes that might occur.
+Looking forward, we will operate the business in a manner that maintains our employee base and allows us to continue investing in our business to drive long-term revenue growth and to support our customers in these challenging times.
+As such, while not providing specific guidance, we continue to manage the business to margins in the 20% range.
+Let me sum up by saying that while we continue to find ourselves in very challenging times, we feel our business model provides us some protection and predictability and we are confident in the investments we have made in innovation and sales.
+We remain focused on the continued execution of our business plan and look forward to reporting on our progress throughout the rest of 2020.
+It is a pleasure to be part of such a great team.

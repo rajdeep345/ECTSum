@@ -1,0 +1,250 @@
+In connection with our recently announced definitive agreement to acquire Attivo, management will provide additional information as to the benefits of the acquisition.
+However, we'll not factor the planned acquisition into our fiscal '23 guidance at this time.
+We caution you that such statements reflect our best judgment based on factors currently known to us and that actual events or results could differ materially.
+These non-GAAP financial measures are not prepared in accordance with generally accepted accounting principles.
+These non-GAAP measures are not intended to be a substitute for our GAAP results.
+This was another excellent quarter, and I'm extremely proud of the entire SentinelOne team.
+Our ARR grew 123% year over year in the fourth quarter, making the fourth consecutive quarter of triple-digit growth.
+In today's digital world, cybersecurity is mission-critical infrastructure in every geography, industry vertical and organization size.
+The demand environment remains incredibly strong.
+We continue to scale our business as a result of our cutting-edge autonomous XDR platform and our powerful partner-supported go-to-market strategy.
+We've built an AI-driven security platform that spans endpoint, cloud, IoT, data and now also identity.
+I'm thrilled that today, we announced our plan to acquire Attivo Networks.
+Attivo is a premier and highly differentiated solution that will enable us to provide cybersecurity in one of the most critical and dynamic parts of enterprise security today, the identity parameter.
+With Attivo's user-centric identity capabilities, we will be able to support an even more comprehensive zero trust framework.
+I'd also encourage everyone to read our shareholder letter we published on our Investor Relations website, which provides a lot more detail.
+Let's take a look back at our fiscal '22.
+It was a groundbreaking year for SentinelOne.
+We started the year as a private company, delivered a triple-digit revenue and ARR growth rate through all four quarters and ended the year as one of the fastest-growing technology companies in public markets with outstanding growth in ARR rapidly approaching $300 million.
+Throughout the year, we celebrated accomplishments that highlight our product market fit, innovation and superb customer experience, such as a Leader in the 2021 Gartner Magic Quadrant for Endpoint Protection, highest scores in Gartner Critical Capabilities use cases and being the only vendor with 100% visibility and no misdetection in the latest MITRE evaluation.
+Our fourth quarter and fiscal '22 results demonstrate the relentless execution of our teams and focus on innovation.
+We're protecting more enterprises today than ever before at faster speed, greater scale, higher accuracy and with more automation.
+Automation has never been more critical to tackle the complexity of today's threats.
+I'd like to dig deeper into three key points about our performance.
+First, our success with large enterprises underscores the scalability of our platform.
+We added a record number of $100,000-plus ARR deals, a record number of million dollar-plus ARR customers and closed our largest ever net new customer contract, one of the most influential and leading global Internet companies.
+Nick will discuss this in more detail later on.
+Second, we paired our phenomenal growth with significant progress toward our long-term profitability targets.
+I'm pleased to share that we ended the fourth quarter with double-digit year-over-year improvement in both our gross and operating margins.
+Our gross margins expanded 12 percentage points year over year, and our operating margin improved 38%.
+This progress reflects our growing scale and increasing efficiency.
+Looking at the full year, fiscal '22 was an investment year for SentinelOne.
+It featured our IPO, solidifying our brand as an industry leader, as well as investments in our go-to-market and innovation engines.
+We doubled our total workforce.
+I'm proud of SentinelOne being named to Comparably's Best Company Culture List and receiving the 2021 Great Places to Work award.
+Given the significant market opportunity ahead, we remain committed to investing in the growth of our business.
+And just like we did last year, we intend to balance this growth with further margin improvement in fiscal '23.
+Finally, our business is performing extremely well with broad-based strength across new customer adds, existing customer renewals and upsells.
+Throughout the year, we significantly expanded our platform offerings.
+Our endpoint solution remains the primary driver of our business, which is being complemented by emerging growth vectors, including cloud, IoT and data.
+We're still in the early innings of a large and expanding total market driven by the proliferation of hybrid work environment, digital transformation and an evolving threat landscape.
+It's clear that we achieved a lot as a company in the past year, but we must remain as vigilant as ever around the threat landscape.
+The persistence and sophistication of new attacks continues.
+We entered 2021 on the heels of Sunburst and exited the year battling Log4j.
+And most recently, the potential for cyber warfare has significantly increased in light of the Russia-Ukraine conflict.
+This has further escalated the threat environment.
+Our vision is to be a force for good, and we're committed to doing our part to help affected people and businesses in Ukraine and around the world to stay cyber secure.
+We've established a Ukraine Crisis Resource Center and began offering free access to Singularity XDR for cyber threat protection in Ukraine.
+We ran similar programs to help others in the wake of Sunburst, and we're committed to defending against cyber warfare.
+Threat sharing and collaboration are essential to our collective mission against cyber attacks.
+Our teams at SentinelLabs are leading the way by uncovering some of the most sophisticated attacks across the world.
+Our global footprint puts us in a unique position to not only protect our customer base in real time but also produce novel research to educate and arm the cybersecurity community.
+We're able to leverage the power of our partner ecosystem to stay on the front line with leading incident response providers like Mandiant, KPMG, Kroll, RSA and many others.
+As an example, we recently named and published research on HermeticWiper related to the escalating cyber attacks surrounding the Russia-Ukraine conflict.
+This was a real-time discovery on the eve of Russia's ground invasion.
+It helped bring awareness to cyber attacks accompanying modern warfare.
+Our publication was followed by an alert notice from Cybersecurity and Infrastructure Agency, highlighting the significance and relevance of SentinelLabs' research.
+If we look at the evolution of cybersecurity technologies for a moment, it's clear that legacy AV represents the past, EDR is the present and XDR is the future.
+While the majority of enterprises still utilize legacy AV solutions, we have undoubtedly entered the XDR era.
+At SentinelOne, we established the foundations of XDR by pioneering the world's first purpose-built AI-powered autonomous cybersecurity platform.
+Singularity XDR brings the critical capabilities customers need from a comprehensive cybersecurity platform: speed, scale and automation.
+Enterprises are increasingly selecting SentinelOne for our best-of-breed XDR. Over the past year, we significantly broadened our platform capabilities by introducing several mission-critical and highly differentiated innovations.
+I will briefly highlight a few of these.
+First, we enhanced our network visibility and control capabilities with Ranger Pro.
+Ranger helps enterprises eliminate one of the most commonly exploited threat vectors: unprotected and rogue assets.
+It reduces the attack surface by offering device mapping and management capabilities.
+Second, we introduced Storyline Active Response, our engine for automated threat hunting, detection and response.
+Next, we developed Remote Script Orchestration, a powerful endpoint management tool for both IR partners and enterprises.
+Finally, we launched Singularity Mobile, a new AI-powered mobile security solution for iOS, Android and Chrome OS devices.
+Building upon the acquisition of Scalyr, we launched DataSet in February of this year, a revolutionary live enterprise data platform for data queries, analytics, insights and data retention.
+DataSet expands our capabilities beyond cybersecurity use cases.
+It's a cloud-native, flexible enterprise data platform built for petabyte scale.
+Not only DataSet is the back end for our Singularity XDR platform.
+The technology is already being used by hundreds of enterprises, analyzing trillions of real-time events.
+Customers like DoorDash, Copart, Asana, TomTom and many others are selecting DataSet to unlock the power of their own data with speed, scalability and technology-driven cost advantages.
+Our platform approach is resonating and is contributing meaningfully to our financial performance.
+Endpoint continues to fuel the company's growth.
+At the same time, we're seeing outstanding traction with our adjacent platform technologies and capabilities.
+Over a third of our fourth quarter new business was driven by our Singularity modules and DataSet, up from about 20% a year ago.
+Across all of our capabilities, our cloud workload protection and data retention modules have been the most outstanding, each delivering year-over-year ACV growth of over 10x.
+Let me spend a second on cloud security.
+This is one of the fastest-growing markets in security today, and we're already doing extremely well on this front.
+Demand for our cloud workload protection solution has been broad-based, both within our installed base, as well as with new customers.
+Cloud security represents a sizable opportunity for SentinelOne for years to come.
+And today, we are further expanding our addressable market and extending our XDR platform capabilities with our planned strategic acquisition of Attivo Networks.
+We're adding another growth vector to our platform.
+Identity now joins endpoint, cloud, IoT and data.
+I couldn't be more excited to introduce everyone to Attivo.
+Attivo aligns with the M&A strategy we previously outlined.
+First, it expands our addressable market into a $4 billion and growing identity TAM.
+And within that, Attivo is capturing share, growing its ARR north of 50%.
+Second, user-centric identity protection is highly complementary and value-add for our XDR platform and customers.
+It opens new customer and cross-sell opportunities.
+Finally, it has a compelling financial profile and strong cultural fit, additive to our hypergrowth and accretive to gross margins.
+Identity is a critical component of the enterprise parameter and zero trust framework.
+Attivo's market-leading identity offerings help organizations keep passwords safe, admin privileges restricted and user identity intact.
+Attivo Networks has the right technology and the team to advance our portfolio and is a natural extension of our Singularity XDR platform and go-to-market strategy.
+Misused credentials are now one of the top techniques used in breaches.
+If an attacker can compromise the endpoint, they will often look for the next layer of vulnerability, the user's credential.
+If successful, attackers can install backdoors, exfiltrate data and change security policies.
+Attivo, as part of SentinelOne, will help organizations reduce their attack surface not only at the device level but now at the human identity level, too.
+Attivo has a clear product market fit with an established customer and revenue base.
+Its differentiated and battle-tested solution is already trusted by over 300 customers from Fortune 500 enterprises to government entities.
+Attivo is not just any identity company or technology.
+We strongly believe that it's the best and most comprehensive identity security platform in the market today.
+Let me briefly introduce you to the three parts of the Attivo platform.
+First, identity protection is an agent-based solution that secures credentials and detects malicious identity behaviors.
+It delivers real-time protection against credential theft, privilege escalation, lateral movement and more.
+Second is identity infrastructure assessment, identity-based vulnerability scanning and management for enterprise infrastructure.
+Attivo's scanner provides instant visibility of active directory misconfigurations, suspicious password changes and unauthorized access.
+This complements our Ranger network asset visibility and control capabilities and now folds in a user-centric identity view.
+Third, identity power deception.
+Attivo's deception solution make attackers reveal themselves, their methods and targets through misdirection.
+This sums up to a multi-layered approach and a broad set of capabilities to fend off, not just detect, identity-based attacks.
+Attivo will put us front and center in the identity security market.
+As Dave will discuss later financially, even in the early stages of a joint go-to-market, this acquisition will add to our hypergrowth trajectory.
+I'd like to share a few closing thoughts.
+There has never been a greater enterprise need for a modern cybersecurity platform, which means a tremendous business opportunity for SentinelOne's world-class autonomous protection.
+We are still in the early innings of our innovation and growth.
+Our outstanding fourth quarter and fiscal '22 financial performance speak for itself, triple-digit revenue and ARR growth paired with double-digit non-GAAP margin expansion.
+We're perfectly positioned for continued success and expansion of our business even in times of global uncertainty.
+We delivered an outstanding fourth quarter across every geography, driven by our go-to-market flywheel of sales, marketing, channel and technology partners.
+More large enterprises are selecting SentinelOne than ever before because of our industry-leading efficacy, automation, ease of use and differentiated XDR capabilities.
+Listening to customers and following many of the largest incidents in cybersecurity over the past few years, identity is a critical vector in delivering the most complete XDR platform.
+Not only is it a natural fit within our platform.
+It will complement our network of strategic service providers extremely well.
+In Q4, we reported impressive ARR growth of 123%, reaching $292 million.
+This growth was driven by a healthy mix of new customer additions, renewals and upsells.
+Our momentum with large enterprises was particularly strong this quarter.
+We added a record number of customers with ARR over $100,000 and a record number of million dollar-plus ARR customers.
+All of this is extraordinary and reflects the success of our sales and marketing organizations.
+Let me share more on this.
+Our customers with ARR over $100,000 grew 137% year over year to 520.
+And let me give you an example.
+In Q4, we closed the largest new customer deal in our history with one of the most influential and leading global Internet companies.
+This win came after an intensive evaluation process, including other next-gen security providers.
+I'd like to highlight one additional win, which is emblematic of what we're seeing in the market.
+Like most Fortune 500 companies, this enterprise was using multiple operating systems.
+They lacked true security parity across all surfaces.
+Their existing next-gen EDR vendor failed to quickly deploy and left critical Mac and Linux attack surfaces unprotected.
+They terminated their existing three-year subscription mid-flight and turned to SentinelOne.
+Singularity XDR deployed instantly across the whole enterprise, which was expedited by our patented Ranger discovery and auto-deploy capabilities.
+The customer has become a fantastic partner and is benefiting from our true cross-platform feature parity and automation.
+We also closed new deals with many other large enterprises across verticals from technology to global consumer brands to financial services companies.
+SentinelOne is winning more market share in every major geography, replacing incumbent vendors of all types and winning against the competition.
+In total, at the end of fiscal '22, we secured over 6,700 customers comprising both large enterprises and medium-sized businesses.
+That's total growth of more than 70% or almost 3,000 more customers compared to last year.
+Our total addressable market is large and expanding.
+A majority of the market still utilizes legacy antivirus solutions.
+The competitive environment has not changed.
+We've maintained incredibly strong win rates in all competitive situations against both legacy and next-gen vendors.
+What's more exciting is that the opportunity per customer is much larger today than it was for legacy providers in the past.
+This is because of the breadth of our platform, covering endpoints and surfaces of all types, cloud workloads, Kubernetes, mobile devices and IoT devices and soon, identity.
+We, once again, achieved strong retention and expansion within our customer base.
+Our net retention rate of 129% remained extremely healthy and well above our target of over 120%.
+Our NRR was driven by footprint expansion, cross-sell of adjacent modules and upsell from platform tiers.
+We continue to prioritize new customer growth, while at the same time, we are seeing massive success in customers consuming more and more of the Singularity platform.
+Our modules and DataSet now represent over a third of our new business.
+And once again, this is broad-based and includes everything from cloud and Ranger to managed capabilities and DataSet.
+Our cloud workload protection and data modules are delivering the highest growth.
+They each grew over 10x year over year, reflecting demand for our best-in-class runtime protection for cloud workloads and unparalleled data retention offerings.
+I also want to call out our newest endpoint management module, Remote Script Orchestration.
+RSO has achieved the fastest ramp of any new module in SentinelOne history.
+Our incident response partners love the ability to remotely manage fleets of endpoints at machine speed in critical breach response moments.
+Next, I'd like to talk more about our channel partners.
+Our partner ecosystem continues to magnify our market presence, significantly extending our reach and efficiency.
+Our strategic technology and services partners have grown to over 20% of our business.
+This includes MSSPs, MDRs and IR firms.
+These partnerships are accretive to our overall growth rate with significant business expansion opportunities yet to be unlocked.
+Let me double-click on the success of our IR partnerships.
+Over the past year, we focused on partnering with many of the largest and most sophisticated IR providers in the world.
+In the fourth quarter, Mandiant selected SentinelOne as a global go-to-market partner.
+We are becoming the partner of choice for leading IR providers, including KPMG, Kroll, Arete and many others.
+Our strategy brings the best of both worlds to our joint customers, top incident response consultants leveraging the best-in-class XDR platform.
+I can't stress enough that we don't compete with our partners.
+We work with over 100 of the world's leading IR firms, enabling us to address a majority of the IR market worldwide.
+These partnerships create hundreds of high-value and fast-moving opportunities every quarter.
+This is significantly more coverage than any single vendor could hope to gain on its own.
+We are also very excited about our growing partnerships with MSSPs.
+They continue to expand our coverage across large enterprises and mid-market customers.
+Leading MSSPs are choosing SentinelOne because of our technology leadership, ease of management and multi-tenancy capabilities.
+Today, we are partnering with top-tier MSSPs, including Enable, ConnectWise, Pax8, AT&T and hundreds of others, many of which exclusively work with SentinelOne.
+These relationships have helped us achieve significant scale and exposure, complementing our enterprise sales success.
+Looking at just a few of our top MSSP partners like Enable and Pax8, they represent millions of endpoints now secured by SentinelOne.
+We're extremely confident about the market opportunity we can jointly address with our MSSP partners as more organizations seek managed solutions.
+Finally, I'd like to share how we are helping enterprises adopt a zero trust security model by partnering with leading vendors.
+Our two-way technology integrations with Zscaler, Mimecast, ServiceNow and many others demonstrate top-tier vendors working together as part of the Singularity ecosystem.
+This year has been incredible for SentinelOne, filled with innovation and growth.
+And we began the new fiscal year announcing our plan to add identity to our platform, which further expands SentinelOne's capabilities and offers exciting business opportunities.
+I'm proud to work with our global team of relentless Sentinels every day.
+I'm excited about our future.
+We will continue to deliver on our vision by focusing on execution and listening to our customers.
+I'll discuss our quarterly financial highlights and provide additional context around our guidance for Q1 and full fiscal year 2023.
+I'll also touch on the financial highlights for Attivo and the full year implications.
+We delivered another strong quarter of revenue and ARR growth, both well into the triple digits.
+We achieved year-over-year revenue growth of 120%, reaching $66 million, and ARR growth of 123%, exceeding $292 million.
+We added net new ARR of $56 million in the quarter, a new record for the company.
+We saw strong momentum and a robust demand environment for our platform.
+The strength of our performance was broad-based, coming from a healthy mix of new customer additions, existing customer renewals and upsells.
+All of this was further magnified by the strong underlying seasonality of our fourth quarter.
+Our business expanded nicely across all geographies.
+Revenue from international markets grew 140% and represented 31% of revenue.
+Turning to our cost and margins.
+Our non-GAAP gross margin in Q4 was 66%, reflecting a double-digit increase of 12% year over year.
+We're seeing the benefits from our increasing economies of scale and business expansion, including strong module attach, platform upsell and data processing efficiencies.
+This was partially offset by the temporary costs we discussed last quarter associated with the migration of existing customers to our DataSet back end.
+We've made excellent progress on this front.
+All of our new customers are already using the DataSet back end, plus we've already migrated many of our largest existing customers.
+These customers are enjoying up to 10x performance improvements.
+We remain on track for our migration plan, and these temporary duplicative costs should be behind us after the first half of this year.
+When I put it all together and I look at the Q4 gross margin of 66% and a significant improvement compared to last year, I see increasing evidence of scale and efficiencies of our business.
+Looking at the rest of our P&L.
+Our non-GAAP operating margin was negative 66%, compared to negative 104% a year ago, a huge improvement of 38 percentage points.
+And we achieved these impressive results while investing for growth throughout the year, including the IPO, new product launches and doubling of our workforce.
+This progress toward our long-term financial target demonstrates the potential for leverage throughout our business model.
+We're investing in our business, which is the right strategy given the huge market opportunity and strong demand for our leading platform.
+Moving to our guidance for Q1 and the full fiscal year '23.
+In Q1, we expect revenue of $74 million to $75 million, reflecting annual growth of 99% at the midpoint.
+For the full year, we expect revenue of $366 million to $370 million, reflecting annual growth of 80% at the midpoint.
+While we don't specifically guide for ARR, I do want to remind you that we are a subscription business.
+Our ARR and revenue growth track very closely.
+Our revenue guidance for Q1 implies that we should be at or better than typical Q1 net new ARR seasonality, which has been down between 25% to 35% sequentially in the past two years.
+We believe the structural tailwinds of digital transformation, hybrid work environment and an evolving threat landscape will continue to drive customer adoption of our real-time AI-powered security platform.
+The threat landscape is more complex and elevated than ever before, and our product innovation, brand recognition and scaling go-to-market have positioned us well to capture the favorable opportunities.
+For Q1, we expect non-GAAP gross margin to be between 63% to 64% and full year non-GAAP gross margin to be between 65% to 67%.
+Our Q1 guidance implies over 10 percentage points year-over-year gross margin expansion at the midpoint.
+We expect to continue benefiting from increasing scale and better data processing efficiencies.
+Our guidance also reflects the migration of our remaining existing customers to DataSet, which, once again, we expect will conclude in the first half of the year.
+As a reminder, these costs are temporary.
+Based on our full year guidance, we see the opportunity to achieve high 60% gross margins by year-end.
+Finally, for non-GAAP operating margin, we expect negative 84% to 86% in Q1 and negative 55% to 60% for the full year.
+Both of these represent meaningful year-over-year improvements.
+At the midpoint, we expect Q1 operating margin to improve over 40 percentage points and full year operating margin to improve over 25 percentage points.
+We see tremendous opportunity for growth, and the investments we're making today will put us in a position to succeed for the long term.
+And we're doing this as we make progress toward profitability and our long-term target EBIT margin of 20%-plus.
+Before I close, let me share the key financial points related to Attivo.
+This should help you as you think through modeling the business for the future.
+We're acquiring Attivo for $617 million in a combination of cash and stock plus additional retention.
+We expect the deal to close in our fiscal second quarter, subject to customary closing conditions, including regulatory approval.
+I want to be clear, Attivo is not currently factored into our fiscal '23 guidance at this time.
+We expect to incorporate their financials into our outlook after the deal closes on our next earnings call.
+Attivo is an excellent business that can become even stronger as part of our Singularity platform.
+They concluded their quarter ended December '21 with over 300 customers and ARR of approximately $30 million, growing north of 50%.
+For calendar year '22, the current forecast for the business is to deliver revenue of approximately $40 million for the full year.
+And from a margin standpoint, Attivo is accretive to our organic gross margins.
+But remember, as we expect this to close during our second fiscal quarter, we would incorporate only a portion of that.
+Attivo and SentinelOne are highly complementary solutions that will open up new customer and cross-sell opportunities, further addressing the needs of larger enterprises.
+I want to join Tomer, Nick and all of SentinelOne in welcoming the Attivo team.
+In summary, Q4 was another excellent quarter with strong execution companywide, and we're expecting that momentum to continue into the next fiscal year.
+We can now take questions.
+Operator, can you please open up the line?

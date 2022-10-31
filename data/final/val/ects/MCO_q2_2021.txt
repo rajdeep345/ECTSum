@@ -1,0 +1,145 @@
+I'm Shivani Kak, Head of Investor Relations.
+I'm going to begin by providing a general update on the business, including Moody's second quarter 2021 financial results.
+And following my commentary, Mark Kaye will provide further details on our second quarter 2021 performance as well as our revised 2021 outlook.
+Moody's delivered strong financial results in the second quarter of 2021.
+Revenue growth of 8% and increase in adjusted diluted earnings per share of 15% highlighted the robust demand for our best-in-class integrated risk assessment offerings.
+Favorable market conditions and heightened M&A activity provided the backdrop for sustained leveraged finance issuance in the second quarter, and it supported growth in our ratings business.
+The ongoing expansion of our risk assessment solutions combined with strong retention rates drove MA's significant recurring revenue growth.
+Top line performance as well as expense discipline contributed to adjusted operating margin expansion, and our cost efficiency initiatives continue to fund key investments and product innovation that should support ongoing growth.
+As a result of our solid execution in the quarter, we've revised our full year 2021 guidance and now forecast Moody's revenue to grow in the low double-digit percent range.
+Additionally, we've raised our adjusted diluted earnings per share guidance to be in the range of $11.55 to $11.85.
+Now turning to second quarter results.
+MIS revenue grew 4%.
+That's despite the tough prior year comparable, while MA achieved its highest ever quarterly revenue, up 15% from last year.
+On an organic constant currency basis, MA revenue increased 8%.
+Moody's adjusted operating income rose 12% to $861 million, and the adjusted operating margin expanded 200 basis points to 55.4%.
+Adjusted diluted earnings per share was $3.22, up 15%.
+On the last earnings call, I highlighted that issuance volumes reached their highest level in over a decade.
+This quarter, as anticipated, investment-grade activity declined as many issuers had already substantially fulfilled their funding needs in recent quarters.
+Although overall issuance declined by 16%, as you can see on the chart, second quarter issuance was still well above the historical 10-year average as shown on the blue line.
+While the growth in leveraged loans outpaced high-yield bonds, the demand that we saw earlier this year from both asset classes persisted, albeit a bit slower sequentially.
+We also saw increased momentum in the CLO market, driven by opportunistic refinancing as spreads remain tight.
+We frequently comment on our revenue relative to issuance levels, which relates to issuance mix.
+And in the second quarter, transactional MIS revenue grew 3%, while MIS rated issuance declined 16%.
+This chart provides an illustration of our second quarter issuance and revenue mix by asset class.
+So for example, the dark green bubble on the bottom left corner represents investment-grade issuance.
+And you can see that issuance was down 68% in the second quarter versus the prior year.
+However, leveraged loans, which has a greater proportion of issuers on per issuance or pay-as-you-go commercial programs, represented by the dark blue bubble on the far right, saw issuance up over 200%.
+And that significantly contributed to this quarter's favorable issuance mix.
+Similar to last quarter, favorable market conditions led issuers to access the debt markets for a variety of reasons.
+Credit spreads tightened as default rates trended lower, keeping the overall cost of debt low and allowing issuers to opportunistically refinance existing debt.
+And as the economy started to recover and equity markets continued their strong run, we saw an acceleration of M&A as companies use the combination of cash balances and debt financing to acquire growth and position businesses for the post-pandemic economy.
+We expect this constructive environment to persist, providing issuers further opportunities to tap the markets.
+That said, we forecast activity for the remainder of 2021 to moderate from the historical highs that we saw in the first half of this year.
+And Mark is going to go into further detail on our issuance guidance by asset class later in the call.
+Now let's turn to MA.
+MA's growing recurring revenue base and strong retention rates demonstrate the market demand for our products.
+Our emphasis on renewable sales has increased the proportion of recurring revenue by four percentage points in the trailing 12-month period to 92%.
+We continue to see significant opportunities in know your customer and financial crime compliance solutions as well as areas like insurance and asset management, both of which contributed to recurring revenue growth along with research and data feeds.
+We briefly discussed some of these businesses in the first quarter 2021 earnings call, and I want to further spotlight these two high-growth areas.
+I'll start by highlighting a few key trends in the KYC market.
+First, as I've mentioned before, the pandemic has accelerated digital transformation in know your customer and customer onboarding.
+Second, regulators are requiring organizations to know more about their customers and suppliers than ever before.
+And finally, financial crime continues to become more sophisticated, which requires advanced detection and monitoring capabilities.
+Our industry-leading product offerings and solutions leverage information on hundreds of millions of entities and ownership structures as well as detailed profiles on over 13 million politically exposed individuals.
+Using artificial intelligence, we combine our world-class data sets to map and analyze adverse media, together generating insights and identifying risks at a scale, speed and precision that is difficult for others to match and creating a compelling solution that is unique to Moody's and enables our customers to make better and faster decisions to combat financial crime.
+Similar to our know your customer and financial crime compliance products, our expanding offerings for insurers and asset managers are contributing to revenue growth for MA and are a core part of our integrated risk assessment strategy.
+We initially entered the insurance customer segment by providing market-leading regulatory compliance software.
+We then moved into actuarial models to support global life insurers enabled by our acquisition of GGY.
+We further expanded our capabilities to include asset and liability management and balance sheet solutions, portfolio analytics and other tools to help address new accounting standards such as IFRS 17 and CECL.
+Now the data, analytics and domain expertise from across our business enables us to provide insurers and asset managers with more comprehensive solutions to manage a wider set of risks.
+As the industry continues to evolve, our holistic approach allows us to build on our existing position in the insurance space, while at the same time provide a broader range of increasingly important analytics and insights, such as climate risk scenarios.
+Together, this has contributed to our ability to deliver 20% organic revenue growth over the trailing 12 months in this segment.
+And we're excited about the opportunity ahead to serve new and growing risk assessment use cases for insurers and asset managers, leveraging our vast data sets and analytic capabilities.
+I've also talked a number of times about the importance of innovating and integrating our data and analytics across our product suite.
+For example, this quarter, we launched an industry-first ESG Score Predictor.
+This offering combines Moody's ESG scoring methodology with company-specific data and predictive analytics to produce ESG scores for over 140 million small- and medium-sized enterprises.
+These scores allow our customers to screen ESG risks on public and private companies to monitor portfolio and supply chain risk and are a great example of integrating our SME and ESG capabilities to address a key market need, which is ESG assessment to support sustainable supply chains.
+Now staying on ESG for a moment, there's been a proliferation of climate-related financial disclosures over the past few years, and we recently partnered with the TCFD to provide insight on the quality of climate disclosures, leveraging our natural language processing and machine learning tools.
+In MIS, we expanded our proprietary ESG credit impact score coverage to companies in a broader range of industries as well as to U.S. states and cities.
+And we believe this is a unique offering that will allow investors to understand more clearly the impact of E, S and G on any issuer's creditworthiness and enhances our credit ratings relevance and thought leadership.
+In MA, as a leading provider of know-your-customer data and analytics, our customers are increasingly needing to comply with regulations relating to modern slavery and human trafficking within their supply chain.
+Working with various stakeholders, we added new AI-enabled features to help our customers screen and track previously undetected instances of human trafficking and modern slavery risk across their supplier base, providing an opportunity to further broaden our KYC customer base beyond financial institutions.
+I'm frequently asked how we are differentiating ourselves in the ESG space.
+So I thought I would take a minute to provide a few customer case studies that illustrate how we're combining our capabilities to meet the risk assessment needs of different customer types.
+In the Americas, we worked with a leading global commercial real estate firm to embed physical climate risk analysis into their global funds and client portfolios.
+The detail and rigor of our climate scores and data on individual properties allowed them to analyze thousands of properties in a more sophisticated and a more efficient way.
+In Europe, a large government agency requested our expertise on their green bond financing framework.
+Through our second-party opinion, we assessed that the proposed framework not only aligned with their climate and environmental agenda but also with the 2021 green bond principles.
+And since 2012, we provided hundreds of second-party opinions across 30 countries with over 60 second-party opinions provided just in the first half of this year.
+On to Asia, a large regional bank, also an existing MA customer, recently selected Moody's to create a robust framework to quantify the ESG and climate risk of customers' portfolios, leveraging our ESG assessments, ESG and climate insights and data and our ESG Score Predictor that I just talked about.
+They also requested in-house training on how to integrate ESG and sustainability into their in-house risk management practices.
+So it's a really great example of commercializing ESG and climate across our risk assessment offerings and our customer base.
+And these matter because they are independent third-party validation about the strength of our offerings across the firm.
+MIS was named Best Credit Rating Agency in multiple areas in the GlobalCapital Bond Awards and the Best Global Credit Rating Agency by Institutional Investor again.
+MIS was also ranked the number one Securitization Rating Agency of the Year in the GlobalCapital European Awards.
+As I noted, within MA, we are investing in our products to help our customers make better decisions on a wider range of risks.
+Industry participants recognize the pace of our innovation, awarding MA's Credit Sentiment Score the Best AI-based Solution in the 2021 AI Breakthrough Awards.
+I'm pleased that we ranked number two on Chartis' STORM Top 50, demonstrating our position at the forefront of digital transformation in our sector.
+Moody's ESG Solutions also won the Climate Risk Solution of the Year in Environmental Finance's Sustainable Investment Awards.
+I'm also enormously proud that Moody's was named a Top 50 Company for Diversity by DiversityInc.
+And together, these recognitions underscore our commitment to customer delivery, innovation, sustainability and diversity, equity and inclusion, all of which are critical to our sustained success.
+And finally, I'm thrilled that Moody's joined the Fortune 500 earlier this quarter.
+This milestone is a testament to the dedication our employees have shown both to our customers and to one another.
+In the second quarter, MIS revenue increased 4%, supported by a 3% rise in transaction revenue, while global MIS rated issuance declined 16%.
+As a result of favorable mix, corporate finance revenue declined 4% versus a 26% decrease in issuance.
+This was attributable to a surge in leveraged finance activity as U.S. and EMEA issuers opportunistically refinance existing debt and funded M&A transactions.
+Investment-grade supply contracted compared to the prior year period, which had seen significant liquidity-driven financing caused by uncertainty over the unfolding pandemic.
+Financial institutions revenue rose 6%, above the 1% increase in issuance.
+This is due to infrequent EMEA bank issuers who sought to take advantage of the ongoing attractive rate environment.
+Revenue from public, project and infrastructure finance declined 2% compared to a 45% decrease in issuance as increased non-U.S. project and infrastructure activity was offset by a reduction in U.S. infrastructure supply.
+Structured finance revenue increased 73%, supported by an over 200% growth in issuance.
+This is due to approximately 200 CLO deals this quarter, our highest on record, predominantly attributable to refinancing activity.
+In addition, CMBS formation further bolstered overall results.
+MIS' adjusted operating margin expanded 230 basis points to 66.3%.
+This was enabled by strong revenue growth, coupled with operating efficiency initiatives and lower legal accruals, partially offset by higher reserves for 2021 incentive compensation.
+Second quarter revenue rose 15% or 13% on an organic basis.
+In RD&A, revenue increased 19% or 16% on an organic basis.
+This is due to robust demand for KYC and compliance solutions as well as strong customer retention rates and double-digit trailing 12-month sales growth in research and data feeds.
+For ERS, recurring revenue rose 16%, driving overall ERS growth of 5% or 3% organically.
+This reflected the demand for our insurance and asset management offerings, tools supporting upcoming accounting standards implementations such as IFRS 17 as well as our SaaS-based credit assessment and origination solutions.
+Additionally, ERS' recurring revenue comprised 88% of second quarter revenue, up eight percentage points from the prior year period.
+MA's adjusted operating margin expanded 310 basis points to 31.8%.
+This reflected the benefits of our recently completed restructuring program, which relates to the realization of incremental operating leverage in the quarter.
+Turning to Moody's full year 2021 guidance.
+Moody's outlook for 2021 is based on assumptions regarding many geopolitical conditions, macroeconomic and capital market factors.
+These include, but are not limited to, the impact of the COVID-19 pandemic; responses by governments, regulators, businesses and individuals as well as the effects on interest rates, foreign currency exchange rates, capital markets liquidity and activity in different sectors of the debt market.
+Our full year 2021 guidance is underpinned by the following macro assumptions: a rise in the 2021 U.S. and euro area GDP to a range of 6% to 7% and 4% to 5%, respectively; benchmark interest rates will remain low, with U.S. high-yield spreads remaining below approximately 500 basis points; the U.S. unemployment rate will decline to under 5% by year-end; and the global high-yield default rate will fall below 2% by year-end.
+Our guidance also assumes foreign currency translation at end of quarter exchange rates.
+Specifically, our forecast for the balance of 2021 reflects U.S. exchange rates for the British pound of $1.38 and $1.19 for the euro.
+These assumptions are subject to uncertainties and results for the year could differ materially from our current outlook.
+Following our better-than-anticipated second quarter results, we are raising our full year 2021 guidance across several metrics.
+We now forecast Moody's revenue to grow in the low double-digit percent range.
+We maintain our expectation for expenses to increase in the mid-single-digit percent range as we balance reinvesting the benefits from our cost efficiency programs against the opportunity for future growth-oriented investments.
+Given our improved revenue outlook and expense stability, we now project Moody's adjusted operating margin to be approximately 51%.
+We raised the diluted and adjusted diluted earnings per share guidance ranges to $10.95 to $11.25 and $11.55 to $11.85, respectively.
+We increased our free cash flow forecast to be between $2.2 billion and $2.3 billion.
+And we anticipate full year share repurchases to remain at approximately $1.5 billion subject to available cash, market conditions and other ongoing capital allocation.
+On prior earnings calls, Rob has detailed our integrated risk assessment strategy, of which investments and acquisitions will play an important role.
+To that end, we are focused on M&A opportunities in our addressable markets that will advance our strategy.
+As always, we don't comment on any specific potential acquisitions or divestitures, and we won't comment on any deals that we are pursuing.
+We have not included the impact of any future acquisitions in our current outlook, but obviously, a transaction could affect our guidance depending on the terms of any deals that we are able to reach.
+Under our long-held capital allocation policy, we prioritize organic and inorganic investments into the business before returning any excess cash via share repurchases.
+Within MIS, following a strong second quarter, we now project aggregate global rated issuance to grow in the low single-digit percent range, up from our previous guidance of a low single-digit percent decline.
+We would like to reiterate that our guidance, similar to last quarter, does not factor in any potential impacts from the U.S. infrastructure bill proposals.
+We are raising our issuance forecast for leveraged loans to be up approximately 75% and for high-yield bonds to be up approximately 25%.
+These are meaningful increases compared to our prior outlook of up 55% and approximately flat, respectively, and is the result of better-than-expected second quarter issuance as well as ongoing favorable refinancing conditions and heightened M&A activity.
+We expect that the increase in leveraged loan supply will continue to drive CLO creation and are therefore also improving the structured issuance outlook to be up approximately 75%.
+Following a very active 2020, full year investment-grade supply is now forecast to decrease by approximately 40%.
+That's slightly lower than our previous guidance, which anticipated volumes to decline 30%.
+Also, after a surge in activity in the second quarter, we are increasing our guidance for new mandates to be in the range of 950 to 1,050.
+While we believe favorable market conditions will persist, we forecast issuance to moderate in the second half of the year to more of a historic sawtooth pattern as we believe many issuers will fulfill the majority of their funding needs early in the year and that liquidity-driven issuance will return to pre-pandemic levels.
+With our improved issuance outlook, we now estimate that MIS' revenue will increase in the high single-digit percent range.
+MIS' adjusted operating margin guidance remains at approximately 61% as our improved top line outlook is partially offset by higher incentive compensation accruals and an acceleration in ESG, technology and automation investments in the second half of the year.
+For MA, we are maintaining our low double-digit revenue growth guidance, supported by a high single-digit constant dollar organic growth given robust demand for our renewable products and stable customer retention rates, favorable movements in foreign exchange rates and tailwinds from a recent acquisition.
+We are raising MA's adjusted operating margin guidance to be in the range of 30% to 31% as we continue to effectively manage our expense base while accelerating strategic investment back into the business.
+As I mentioned previously, we are reaffirming our full year 2021 expense guidance to increase in the mid-single-digit percent range.
+Although we expect higher incentive compensation accruals associated with our improved revenue outlook, many of our cost efficiency initiatives and organic investment assumptions remain in line with our prior update.
+This enables us to both fund our strategic priorities and reinvest back into the business.
+Finally, we want to reiterate that our spending for key organic investments will be heavily weighted toward the second half of the year.
+Before turning the call back over to Rob, I'd like to highlight a few key takeaways.
+First, we successfully executed our strategic and business objectives, delivering strong results again this quarter.
+Second, several areas of MA, specifically KYC and compliance, research and data feeds as well as insurance and asset management provided momentum for recurring revenue growth.
+Third, we continue to integrate and embed our holistic E, S and G offerings within our products and solutions, enabling our stakeholders to manage an evolving set of risks.
+Fourth, our culture of continuous expense discipline enabled us to purposely reinvest back into the business.
+And finally, following a robust first half performance and the ongoing global economic recovery, we are pleased to be able to upwardly revise our 2021 financial outlook.

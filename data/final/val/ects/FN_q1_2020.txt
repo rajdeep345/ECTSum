@@ -1,0 +1,63 @@
+With me on the call today are Seamus Grady, chief executive officer; and TS Ng, chief financial officer.
+We delivered a strong performance in the first quarter with revenue and earnings that were above our guidance.
+Demand trends appear to be stabilizing in most of the end markets we serve, and we're optimistic that we are positioned to deliver strong results in the second quarter.
+Revenue in the first quarter was $399 million, a slight decrease from the record fourth quarter as expected with a 6% increase from a year ago.
+Non-GAAP net income was $0.86 per share, exceeding the high end of guidance as gross margins improved to 12% in the quarter.
+Looking at our business by end markets.
+Optical communications revenue of $302 million was up about $2 million from the fourth quarter and represented 76% of total revenue.
+Within optical communications, telecom revenue of $230 million increased 7% from the fourth quarter and represented 76% of optical revenue.
+This growth is particularly notable considering we had expected telecom revenue to be flat at best.
+Further, we expect this momentum to continue in Q2.
+Datacom revenue was $73 million in the quarter, an expected decrease from Q4, of 15%.
+Datacom represented 24% of optical communications revenue.
+We believe this decline is primarily the result of broader industry trends and not due to execution or competitive issues.
+In fact, based on anticipated near-term demand, we believe datacom trends could be nearing the bottom and we expect datacom revenue to be roughly flat in Q2.
+By technology, silicon photonics based optical communications revenue decreased from the fourth quarter to $77 million and represented 25% of optical communications revenue.
+Revenue from QSFP28 and QSFP56 transceivers was $45 million, down slightly from fourth quarter.
+By data rate, 100-gig programs continued to represent nearly half of optical communications' revenue at $147 million.
+And products rated at speeds of 400 gig and above were up strongly from the fourth quarter of $38 million or 13% of optical communications revenue.
+Looking at our nonoptical communications business.
+Revenue moderated sequentially as expected to $97 million from $105 million in Q4.
+As anticipated, revenue from industrial lasers declined from the fourth quarter and was $41 million compared to $53 million in Q4.
+These same demand trends seem to be persisting, so we anticipated industrial laser revenue to be roughly flat in Q2.
+Longer term, we remain optimistic about our potential to further penetrate the industrial laser market as more manufacturers inevitably turn to outsourcing to better compete in this global market that is, in fact, larger than the optical communications market.
+Automotive and sensor revenue were both stable at $24 million and $3.5 million, respectively.
+Finally, revenue generated from other nonoptical applications grew 15% sequentially to $28 million, mainly from Fabrinet West.
+Fabrinet West has been a great success for winning business for our offshore volume manufacturing sites.
+We have seen numerous programs migrate from early prototyping in Fabrinet West to volume production in Thailand.
+At the same time, Fabrinet West has been an enabler for us to win business in new markets and with new customers that might have otherwise gone to competitors.
+As such, we have been focused on establishing a similar model to Fabrinet West in Israel.
+We already have a number of customers there, and we believe we have the opportunity to grow our business with these customers as well as attract new ones.
+We have signed a lease for a building in [Inaudible] which is a former semiconductor manufacturing facility.
+It is already equipped with most of the infrastructure we need for a new product introduction center.
+We are currently in the process of setting up SMT lines advance packaging and a failure analysis lab similar to what we have to support NPI in our Bangkok facilities.
+We have hired a general manager for Fabrinet Israel and we are targeting to be up and running early next year.
+In summary, we believe we are off to a good start to the fiscal year with revenue and earnings that meet our guidance ranges and return to gross margins that were within our target range.
+We're optimistic that our telecom strength will continue and the datacom trends appear to be bottoming.
+In addition, we're excited to have achieved important milestones toward establishing a second new product introduction facility at Fabrinet Israel.
+Combined with our continued leadership as a contract manufacturer for the most complex products, we are very excited about our future.
+I will provide you with more details on our performance by end market and our financial results for Q1 as well as our guidance for Q2 for fiscal year 2020.
+Total revenue in the first quarter of fiscal year 2020 was $399.3 million and above the upper end of our guidance range.
+Non-GAAP net income was $0.86 per share and was also above our guidance range even after a foreign exchange headwind of $1.9 million and the mark-to-market loss on interest rate swap contracts of $1.7 million.
+These losses accounted for approximately $0.09 per share.
+Now turning to the details of our P&L.
+We were pleased to see non-GAAP gross margin in the first quarter improve to 12%, a 20-basis-point increase from the fourth quarter as efficiency more than offset the impact of merit increases.
+Non-GAAP operating expense was $11.6 million in the first quarter.
+As a result, non-GAAP operating income was $36.2 million and non-GAAP operating margin was 9.1%, flat with the fourth quarter.
+Taxes in the quarter were $2.2 million, and our normalized effective tax rate was less than 5%.
+We expect our effective tax rate to be 5% to 6% for the full year.
+Non-GAAP net income was above our guidance range at $32.2 million in the first quarter or $0.86 per diluted share as I indicated earlier.
+On a GAAP basis, which includes share-based compensation expenses and amortizations of debt issuing costs, net income for the first quarter was $25.9 million or $0.69 per diluted share, also above the high end of our guidance.
+Turning to the balance sheet and cash flow statement.
+At the end of the first quarter, cash, restricted cash and investments were $436.4 million compared to $444.7 million at the end of the fourth quarter.
+Operating cash flow in the quarter was $2.6 million and with capex of $6.3 million, free cash flow was an outflow of $3.7 million in the first quarter.
+During the quarter, our working capital increased to higher than normal level in support of major new program transfer.
+This will begin to self-correct in the second quarter as we start to consume the transfer inventory and collect receivables.
+We did not repurchase any shares during the first quarter.
+As such, $62.2 million remain in our share repurchase program and we will continue to evaluate market condition to opportunistically repurchase shares when possible.
+I would now like to turn to our guidance for the second quarter of fiscal year 2020.
+As Seamus described, we expect a strong second quarter and anticipate that revenue will be between $408 million and $416 million.
+From a margin perspective, we are optimistic that we will see efficiency continue to drive incremental improvements in non-GAAP gross margin within our target range of 12% to 12.5%.
+From an earnings per share perspective, we anticipate non-GAAP net income per share in the second quarter to be in the range of $0.91 to $0.94 and GAAP net income per share of $0.74 to $0.77 based on approximately $37.7 million fully diluted shares outstanding.
+In conclusion, we are excited with our strong performance in the quarter.
+We remain very positive about our long-term prospects for continued leadership in the marketplace.

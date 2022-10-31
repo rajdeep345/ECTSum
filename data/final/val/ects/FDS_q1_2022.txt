@@ -1,0 +1,104 @@
+A replay of today's call will be available via phone and on our website.
+To be fair to everyone, please limit yourself to one question, plus one follow-up.
+Before we get started, I want to let you all know that we are planning an Investor Day in early April, and we will be sharing more information soon.
+With that, I will turn the discussion over to Phil Snow.
+Before I begin, let me start by welcoming Kendra, who recently became FactSet's, Head of Investor Relations.
+Kendra has worked at FactSet for more than two decades, most recently, serving as my Chief of Staff.
+She brings a deep knowledge of the Company and industry expertise to her new role.
+I look forward to working with Kendra to continued growing our Investor Relations program.
+We are excited to have her here and have already begun leveraging her deep financial and operational expertise, as we continue to execute our growth strategy.
+Turning to our performance.
+FactSet is off to a strong start to fiscal 2022, and I'm pleased to share that this quarter, had the highest Q1 incremental ASV on record.
+Building on the momentum from Q4, we grew organic ASV plus professional services by 9% year-over-year in Q1.
+The strong performance of our sales and client-facing teams carry forward from Q4, increasing the pace of our go-to-market strategy.
+These teams continue to drive increased retention and expansion rates among our existing clients, while achieving a high number of new business wins.
+The biggest contributor to this quarter's growth were institutional asset management clients, as we continue to see strength in our workstation and accelerating growth in our analytics workflow solutions.
+The last two years of accelerated investment in content and technology continue to drive top line growth.
+We are seeing increased demand for differentiated content and workflow solutions.
+FactSet's leading open content and analytics platform is allowing us to meet this demand and capture more share of wallet with our clients.
+By client type, wins were broad-based.
+We saw a double-digit ASV growth rates from our banking, wealth, hedge fund and corporate clients, as well as private equity and venture capital funds and partners.
+Our investments in content and technology including deep sector, wealth and analytics solutions continue to support client retention rates and renewals across the board.
+Overall, we are pleased that our performance resulted in a 13% increase in adjusted earnings per share from the prior year period.
+Our adjusted operating margin of 33.6% exceeds our guidance.
+Linda will walk you through the details in a few minutes.
+We are now in the final year of our multiyear investment plan, and we remain on track to achieve our goals.
+Our focus is on our digital platform scaling our content refinery and creating hyper personalized workflow solutions.
+Within our content refinery, ESG, data for wealth, private markets and deep sector are all fueling workstation growth.
+We continue to grow our deep sector data launching real estate and technology media and telecom in November.
+Deep sector and our investments in private markets have translated into growth and high retention within sell-side firms.
+And our recent acquisition of Cobalt further advances, our private market strategy by connecting differentiated data with tracking and portfolio monitoring providing value to our private equity and venture capital clients.
+Our workflow solutions, which deliver efficiencies across the front, middle and back office continue to add meaningful ASV.
+Our analytics APIs are resonating with our clients, and we are increasingly integrating with cloud-based platforms.
+Earlier this month, we launched over 90 datasets and a number of APIs on Amazon Data Exchange, the first major data and analytics provider to do so.
+Our trading business continues to grow, bolstered by the recent addition of fixed income support for trade execution.
+This enables our clients to surface new insights and trade across asset classes with greater speed and efficiency and was a significant contributor to the growth of our analytics and trading business during the quarter.
+Our product teams are focused on identifying, developing and implementing made for client workflow solutions for each of our client types.
+This has been incredibly successful within wealth, as our Advisor Dashboard maintains a healthy pipeline and solid client engagement for FY22.
+We see this hyper personalization as a key differentiator and are committed to working with our clients to evolve our offerings.
+Looking across our regions, we saw continued strength in ASV growth across all our markets.
+The Americas was the biggest contributor, as organic ASV growth accelerated to 9% supported by broad-based strength across our businesses.
+This was driven by strong retention and expansion among asset managers and asset owners.
+The region also benefited from capturing higher price increases.
+In EMEA, growth accelerated to 7% consistently improving over the past three quarters.
+Research and advisory had a particularly positive impact, driven by improved retention among asset managers and wealth clients and strong workstation sales to new customers.
+Asia Pacific had another robust quarter with growth accelerating to 14% driven primarily by CTS.
+We again saw wins across many countries with hedge funds, asset managers and asset owners driving ASV growth.
+In summary, I am proud of the FactSet team for delivering such strong results to the start of the year.
+The first quarter, as you know is historically a slower start to the fiscal year and not necessarily an indication of our performance for the rest of the year.
+However, our momentum from Q4 has continued, and we are well positioned to deliver on our targets for the year.
+As such, we are reaffirming our fiscal 2022 guidance, and we remain confident in our pipeline and then the value we are delivering to our clients.
+Looking ahead, we continue to focus on the three strategic priorities, scaling up our content refinery, enhancing the client experience through hyper personalized solutions, and delivering next generation workflow solutions for clients.
+And we believe that our people, culture and performance-driven mindset will enable us to execute on these priorities, as we accelerate the pace of change.
+We are committed to investing in and developing the talent experience and the skills of our team, as we build the industry's leading open content and analytics platform.
+Finally, an important milestone in our Company's history occurred earlier this week when FactSet became part of the S&P 500 Index.
+Our addition was in fact predicted by our S&P 500 constituents prediction signal on October 1st.
+Our inclusion is a proud moment for FactSet and a testament to our tremendous growth and our efforts to help our clients do their best work.
+Our team's creativity, dedication and collaborative spirit make us a trusted partner, and I'm tremendously proud of their drive to create smarter, more innovative solutions for our clients.
+I'm really pleased to be here today as part of the FactSet team.
+I've been at FactSet for just a few months, but in that short time it's become clear that the Company has been performing really well, from accelerating top line growth and strong free cash flow generation to its long history of consistent and growing shareholder returns, and there is still a lot of runway ahead of us, as the investments made over the past two years are paying off and driving growth.
+There is undeniably a great deal of talent across the organization.
+I look forward to working with the team to build on FactSet's history of outstanding performance, while generating meaningful value for shareholders.
+I'll now share more details on our first quarter performance.
+First on ASV, we grew organic ASV plus professional services by 9%.
+As Phil noted previously, we typically see a seasonal deceleration in Q1.
+Our performance reflects increased demand for our content and product, higher retention, and our ability to realize higher pricing.
+The marketplace has been supportive with solid workstation growth in banking and greater demands for our portfolio analytics solutions, as market conditions continue to evolve, our subscription-based ASV will continue to support value-based pricing.
+GAAP revenue increased by 9% to $425 million, while organic revenue, which excludes any impact from foreign exchange and acquisitions increased 9% to $423 million, growth was driven primarily by analytics and trading and research and advisory.
+All regions experienced notable year-over-year growth.
+For our geographic segments, on an organic basis, Americas revenue grew 9%, EMEA also came in at 9% and Asia Pac revenues grew at 14%.
+The main drivers in the region were analytics, CTS and workstation growth.
+Turning now to expenses.
+GAAP operating expenses grew 13% in the first quarter to $302 million, impacted by anticipated changes incurred during the period.
+We recorded a restructuring charge of $9 million to drive a more efficient and empowered organizational structure.
+Ongoing savings from this realignment will primarily be used for product reinvestment and key talent retention.
+In addition, we recognized $4 million of expense related to vacating certain office space in New York City.
+We recently pulled our employees on optimal work arrangements and consistent with what we see in the market, a vast majority prefer a hybrid or remote working model.
+Given this preference, we are reassessing our real estate footprint to better reflect our new work arrangements.
+Also, in Q1, we incorporated the FactSet Charitable Foundation to facilitate our corporate social responsibility goals.
+Compared to the previous year, our GAAP operating margin decreased by 230 basis points to 29% and our adjusted operating margin decreased by 70 basis points to 34%.
+As stated before this exceeds our guidance on this measure.
+Our increased expenses were partially offset by lower compensation expense.
+As a percentage of revenue, our cost of sales was 32 basis points higher than last year on a GAAP basis and 72 basis points lower on an adjusted basis.
+This reflects increased data and infrastructure costs and higher compensation expense for our existing employee base.
+These expenses also include our ongoing shift to the public cloud, as part of our digital transformation and multiyear investment plan.
+Lower personnel expenses, partially offset these increases.
+When expressed on a percentage basis of revenue, SG&A was 198 basis points higher year-over-year on a GAAP basis and 145 basis points higher on an adjusted basis.
+The primary drivers include increased employee compensation, higher bonus accrual and real estate exit costs.
+This was partially offset by lower stock compensation year-over-year.
+Turning now to taxes, our tax rate for the quarter was 10% compared to last year's rate of 16%.
+This lower rate was due to a tax benefit from the exercise of stock options, as a result of our record stock price.
+This caused the annual estimated benefit to be higher than expected.
+The lower annual rate was partially offset by higher-than-expected U.S. income.
+GAAP earnings per share increased 7% to $2.79 this quarter versus $2.62 in the prior year.
+Adjusted diluted earnings per share grew 13% to $3.25 driven higher -- by higher revenues and a lower tax rate.
+Free cash flow, which we defined as cash generated from operations, less capital spending was $64 million for the quarter, a decrease of 9% over the same period last year.
+This was primarily due to the timing of tax payments, higher year-over-year employee bonus payments, and a reduction in capital expenditures related to facilities build outs.
+Our ASV retention remained at -- greater than 95%.
+We grew the total number of clients by 14% compared to the prior year, which continues to be driven by the addition of more wealth and corporate clients.
+Our client retention improved to 92% year-over-year, which speaks to the success of our products and investments and the efforts of our sales teams.
+For the first quarter, we repurchased 46,200 shares of our common stock for a total of $19 million at an average per share price of $403.
+We remain disciplined in our buyback program and committed to returning long-term value to our shareholders.
+We are reaffirming our guidance for 2022, and as we often say our business is a tale of two halves.
+While it is clear that our momentum from Q4 has continued and we believe that we are well positioned to deliver on our targets, it's still early in the fiscal year.
+We remain focused on developing our content, technology and people and delivering value for our shareholders.

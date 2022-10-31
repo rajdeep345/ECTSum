@@ -1,0 +1,146 @@
+This release is available on the company's website at dhigroupinc.com.
+Lastly, during today's call, management will refer to specific financial measures, including adjusted EBITDA, adjusted EBITDA margin, and net debt that are not prepared in accordance with U.S. GAAP.
+We appreciate your interest in DHI.
+I want to begin by saying a few words about the impact of COVID-19 and our response to this global pandemic.
+First, I want to express our heartfelt concern to all of those who have been impacted.
+And to everyone listening today, I hope you and your family and friends are staying safe and healthy.
+In the past several weeks, DHI has jumped into action to aid our community by launching COVID-19 Resource Centers on each of our brand sites, assisting both clients and candidates alike with information relevant to their needs in these challenging times.
+And just last week, we launched a campaign to provide free recruitment services to U.S. hospitals to help them find technologists in fields like electronic medical records, healthcare administration, and computer system processing.
+As the COVID-19 pandemic continues to unfold, our foremost concern at DHI is to ensure the health and safety of our employees, their families, and our worldwide community.
+As such, we have taken extraordinary measures to maintain continuity of our operations and to continue to safely operate at full capacity while complying with the local, state, and country-mandated protection directives.
+All of our employees are working from their residences using the best possible remote communication and collaboration tools.
+And our team members, including sales and support, marketing and R&D, continue to be highly effective.
+DHI has had a video meeting culture for many years, given the global nature of our team.
+And as a technology company, we have significant experience operating in a remote work environment.
+Well before this pandemic, 95% of our employees were utilizing company laptops with the ability to work from home.
+The vast majority of our sales team routinely meets with clients remotely versus in-person.
+And our R&D team uses online dev ops tools to promote code to production.
+And as a result, we delivered two of our most significant product releases this year while our employees were working from home.
+While the current environment is certainly challenging the way that we all live and work, DHI's business model gives us some level of protection and stability in these uncertain times, as 90% of our revenues are generated through annual subscription-based contracts.
+Additionally, our business has a seasonality that has benefited us, with our largest two quarters for bookings being the fourth quarter and first quarter of each year.
+As a result, as of March 31, we had already booked over 2/3 of our total revenue for fiscal 2020.
+Despite this difficult environment, DHI was able to exceed its target of a 20% adjusted EBITDA margin in the first quarter.
+We also took the precautionary step to ensure sufficient liquidity by drawing down an additional $25 million on our credit facility in early March while still maintaining a significant cushion to our covenants.
+As we continue to work through these unprecedented times, with some of our competitors announcing layoffs, I want to emphasize that the strengths of our business model put us in a very different category and much stronger position than many of these other companies.
+DHI is a specialist, not a generalist.
+We match clients with technologists and their unique skill sets.
+DHI is a subscription model, not pay-as-you-go.
+DHI provides permanent hires, not hourly workers.
+And DHI focuses on the enterprise market, less on the SMB space.
+We believe our unique business model positions us well to weather this storm.
+Additionally, over the past several weeks, we've seen a stable number of tech job postings as enterprises look to accelerate the use of technology in their business.
+Now more than ever, businesses realize they need an online business model, a way of delivering services without being face-to-face, and a way to manage their remote employees effectively.
+As a result, we continue to see a number of businesses looking for technologists to help accelerate these efforts.
+Every week, we review a report that details the total number of new tech job postings as compiled by scraping the career pages for U.S. corporate websites each night.
+Over the past several weeks, the total number of job postings has remained in line with the trailing 12-month trend.
+The types of skills requested have shifted, with cybersecurity and systems engineering seeing an increased demand, but the overall volume of postings has remained relatively consistent.
+Over the longer-term, if you look at the U.S. Bureau of Labor Statistics trend line for tech jobs over the past 20 years, including through the dotcom bubble and Great Recession, there has been a constant increase in technologist positions in this country.
+The market for technologists was at close to zero unemployment level before the pandemic, and we expect this high level of demand for these skill sets to continue.
+And DHI is well-positioned for this opportunity even in this challenging environment as a result of the significant progress we made over the past year in building the leading marketplace for matching technologists with our clients.
+In 2019, we delivered over 20 marquee product releases and dozens of minor releases.
+During the first quarter, we continued to deliver a high pace of product innovation, including integrating IntelliSearch with our Dice Job Management Console.
+This marquee release demonstrates the value of our patent-pending technology skills data model.
+When a client posts a new tech job, IntelliSearch automatically generates a list of qualified candidates from our database.
+The technologist recruitment process is all about gaining access to the right skill sets, and this powerful tool allows our clients to save time in their search process.
+We also moved 100% of our audience to a new Dice home page that includes a modern layout and navigation scheme.
+Additionally, we added a private email feature, which enables Dice candidates to protect their personal email address and only share it with recruiters when they choose.
+On our path to transform Dice into an indispensable career marketplace, trust is a cornerstone of that experience.
+Dice private email encourages candidates to make their profiles visible and up-to-date, increasing the breadth of talent visible to our clients.
+The complete makeover of the Dice client experience over the past year, including IntelliSearch, Candidate Match, Job Management, Job Search, Job Alerts, Multi Location Search, and now our new Dice Home Page and Private E-mail, are delivering more value every day.
+We also launched job alerts on eFC in the first quarter.
+With this release, eFC and Dice are now on a common DHI job search and alerts platform, illustrating our code once, deploy many strategy across our brands.
+Helping candidates find jobs that fit their skills and interests is the top priority of our job search engineering team.
+The new job alerts release is a significant step forward toward our objective of having a best-in-class search experience for our candidates.
+Finally, we also launched CJ Favorites in the quarter.
+This feature allows clearance jobs clients to keep tabs on top candidate prospects, receive alerts when they are active on the site, and engage when they are receptive to contact.
+CJ continues to be our testbed for key market-leading features.
+Looking ahead, we have a clear product roadmap in front of us for each one of our platforms.
+We are working now to add recruiter profile and remote jobs to Dice, and IntelliSearch and Candidate Match to eFinancial Careers.
+There is no question that the importance of defining and searching for remote jobs has surged in popularity over the past few weeks, and I'm grateful that our team has accelerated the delivery of the remote jobs feature.
+Simultaneously, we are working on delivering significant workflow automation features in ClearanceJobs.
+We expect these additional features to be live in this second quarter.
+Speaking of ClearanceJobs, I would like to update you on our progress in pursuing direct government contracts, one of our key growth initiatives we launched last year.
+ClearanceJobs has done an excellent job growing year-over-year in the cleared professional market.
+However, less than 1% of its revenue historically has come from direct contracts with government agencies.
+Last year, we launched an initiative to identify U.S. government agencies we could be working with and understand more about their hiring needs for technology professionals.
+As you'd suspect, these government organizations have just as much demand for technologists as the government contractors we serve today.
+As such, we put together a plan targeting the agencies we wanted to approach first, and we've seen some early success.
+We're making excellent headway, and I'm very proud of the effort of the ClearanceJobs team as they take on this entirely new customer segment.
+We expect more government agencies to sign on as customers throughout 2020.
+We are proud to announce that the Department of Defense has recently designated ClearanceJobs as an essential supplier, which they define as an essential service needed to ensure the continuing operation of government agencies.
+Now, let me briefly touch on the progress we continue to make improving our go-to-market strategy and execution.
+As I mentioned on our last call, during the fourth quarter, our new Chief Revenue Officer, Arie Kanofsky, added top-notch sales leadership to his team, and we created brand-new Dice Commercial sales teams in both Denver and New York.
+These teams grew their pipelines very successfully, and we signed on many new clients based on their efforts for the first 10 weeks of the quarter.
+Obviously, the state of the U.S. economy changed dramatically in mid-March, and these teams, which are 100% dedicated to building new business relationships, have seen what we believe is a temporary slowdown in their efforts as a result.
+The insights we've gained in the first 10 weeks of the quarter, and the momentum we saw in signing new customers, gives us great confidence that our focus on commercial accounts will be the cornerstone for our growth as the business environment normalizes.
+As I conclude my remarks, I want to reiterate that, as a specialist, we have built a better tool than our competitors for companies looking to hire technologists.
+With our improved product offering and go-to-market strategy, we believe we can grow our revenue at or above the market growth rate over the longer-term.
+While this growth won't happen overnight, and COVID-19 presents uncertainty, we are confident in our business plan and the continued progress we are making toward achieving our goal.
+We remain incredibly excited about the market opportunity in front of us.
+We believe the investments we made in 2019 and will continue to make in 2020, are positioning DHI as the industry leader in matching technologists with employers.
+Let's jump right into the quarterly results.
+For the first quarter, we reported total revenues, $6.6 million, which was down 3% from the fourth quarter and down 1% year-over-year when you exclude the impact of foreign exchange.
+Dice revenue was $22.5 million in the first quarter, down 3% sequentially and down 3% year-over-year.
+We ended the first quarter with 5,850 Dice recruitment package customers, which is down 3% sequentially and 4% year-over-year.
+We continue to see an increase in our average monthly revenue per recruitment package customer, which was up 2% year-over-year to $1,153, or approximately $13,840 on an annual basis.
+This is important, as over 90% of Dice revenue is recurring and comes from recruitment package customers.
+Our Dice customer renewal rate was 67% for the first quarter, down 1 percentage point year-over-year, and our revenue renewal rate was 80%, which was also down 1 percentage point when compared to the same period last year.
+As we look at our Dice customers, our strategy is to focus on these larger relationships, which creates a more stable customer base.
+By moving upstream in terms of our marketing efforts, sales activities, and go-to-market approach, we believe we are putting ourselves in the best position for stability and growth.
+As an example, currently 15% of our customers generate 50% of our recruitment package revenue, though no customer makes up even 1% of revenue.
+We think this is a good balance of a strong, stable revenue base without having customer concentration risk.
+First quarter revenue for eFinancial Careers was $7.2 million, down 6% from the fourth quarter and 10% year-over-year when excluding the impact of foreign exchange rates.
+As expected, COVID-19 negatively impacted our performance for eFinancial Careers during the quarter.
+In the APAC region, eFC's second largest geography, we experienced difficulties at the beginning of the quarter as the Coronavirus hit both Singapore and Hong Kong in the second week of January.
+In the U.K. and European financial industry, we saw the slowdown toward the latter half of the quarter.
+ClearanceJobs' first quarter revenue was $6.9 million, increase of 4% sequentially and 19% year-over-year.
+This continued solid double-digit revenue growth year-over-year is reflective of its strong innovative products and competitive differentiation.
+Turning to operating expenses, first quarter operating expenses were $41.9 million, which includes an impairment of the Dice trade name of $7.2 million, which I will address in a moment.
+Excluding the impairment, operating expenses were $34.7 million, representing an increase of $1.2 million, or 3% year-over-year.
+This increase in operating expenses was primarily driven by the current ramp-up of our sales and engineering capabilities.
+As Art mentioned, we added several new sales reps to our commercial accounts team during the fourth quarter, which drove an increase in sales expense this quarter.
+We also added additional engineering talent in the fourth quarter to accelerate the deployment of new product features, which drove increases in both product expense and capital expenditures.
+In light of the current environment, we have reviewed our entire cost structure and have begun reducing non-headcount-related expenses, both operating expenses and capital expenditures.
+This includes such areas as contractor and consulting spend, marketing spend, future headcount growth, and third-party vendor spend.
+As an example, we have found several opportunities to extend critical vendor agreements prior to their expiration at lower per-month or per-user rates.
+With regards to marketing, we believe we can still achieve our candidate and client engagement metrics with lower spend as overall digital advertising rates have come down.
+We will continue to evaluate our cost structure and are confident in our ability to match our expenses with any revenue changes that might occur.
+We had a tax benefit for the first quarter of approximately $900,000, resulting in an effective tax rate of 12%, which includes the impacts of the impairment losses and certain discreet tax items related to stock-based compensation.
+As I mentioned, during the first quarter, we recorded an impairment charge of $7.2 million related to the Dice trade name.
+This impairment charge was primarily driven by an increase to the weighted average cost of capital and a decline to the royalty rate used in valuing the Dice trade name, both assumptions resulting from the impacts of COVID-19.
+Also, during the quarter, we recorded an impairment charge of $2 million due to liquidity concerns for a minority equity investment made in 2016 and 2017.
+This brings the investment's value to zero.
+We recognized a net loss for the first quarter of $6.6 million, or $0.13 per diluted share compared to net income of $1.6 million, or $0.03 per diluted share a year ago.
+This quarter's earnings per share had a $0.16 detriment as a result of the impairment of intangible assets and equity investments, as well as certain discreet tax and other items.
+Last year's earnings had a $0.04 detriment from disposition-related and discreet tax items.
+Excluding those items, on a normalized basis, earnings per share for the quarter was $0.03 versus $0.07 last year.
+Adjusted EBITDA margin for the first quarter was 21%, down from 23% in the same quarter last year.
+We generated $2.9 million of operating cash flow in the first quarter compared to $3.2 million in the prior year quarter.
+From a liquidity perspective, at year-end we had approximately $5 million of net debt and $10 million drawn on a $90 million revolver.
+During the quarter, we drew down $27 million from our revolver, which puts us at 1.1 times leverage, which is well within our covenant of 2.5 times leverage.
+We added cash to our balance sheet to ensure we can manage through these economic fluctuations.
+At the end of the quarter, our total debt was $37 million.
+We had $27.8 million of cash resulting in net debt of $9.2 million.
+Even with this incremental borrowing, we still have sufficient borrowing capacity available to us under the facility.
+Deferred revenue at the end of the quarter was $55.5 million, down 9% from a year ago.
+This is due to more contracts having monthly or quarterly payment terms.
+When we add the unbilled portion of our contracts to deferred revenue, our committed contract backlog at the end of the quarter was down 1% from the end of the first quarter last year.
+As part of our share buyback program, we repurchased approximately 660,000 shares during first quarter for $1.6 million, or $2.49 per share.
+This left roughly $3.3 million remaining of the current $7 million buyback program, which runs through May of this year.
+I would like to note that DHI's Board of Directors has approved a new $5 million share buyback program, which will begin following the expiration of our current program and run through May of 2021.
+We believe this approval is a recognition of the strength and the long-term prospects of our business.
+Consistent with our previous programs, we will continue to evaluate investment opportunities in the business against buying back shares while also using it as an opportunity to offset the impacts of our employee equity incentive programs.
+As we look ahead at the Dice brand, we are still signing large deals even in the current environment.
+As Art mentioned, while it's still early in trying to understand what effect COVID-19 will have on our market, we've seen a stable number of tech job postings in the past few weeks as companies look to accelerate the use of technology in their business model.
+For eFinancial Careers, while it operates in multiple geographies, we are seeing encouraging signs in several regions.
+With eFC, we tend to have larger relationships.
+As an example, approximately 75% of the global 50 banks are customers.
+This provides more stability in the current environment.
+In fact, in the last few weeks, we have signed or renewed many of those large customers, including Black Rock, Wells Fargo, and Deutsche Bank.
+With regards to ClearanceJobs, they grew through the dot-com implosion of 2001 and the Great Recession of 2008 because their success is correlated to the U.S. Department of Defense budget which is, relatively speaking, immune to the environment we find ourselves in.
+Looking forward, we will operate the business in a manner that balances costs with the revenue opportunity, maintains our employee base, and allows us to continue investing in our business to drive long-term growth and to support our customers in these challenging times.
+As such, we're not providing specific guidance at this point.
+We continue to manage the business to margins in the 20% range.
+Let me sum up by saying that, while we find ourselves in extremely challenging times, we feel our business model provides us with some protection and predictability, and we are confident in the investments we have made in innovation and sales.
+We remain focused on the continued execution of our business plan and look forward to reporting on our progress throughout the rest of 2020.
+It is a pleasure to be part of such a great team.

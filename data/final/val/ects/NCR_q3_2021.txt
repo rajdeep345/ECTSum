@@ -1,0 +1,152 @@
+Joining me on the call today are Mike Hayford, CEO; Owen Sullivan, president and COO; and Tim Oliver, CFO.
+And as always, a great job with the intro to our third-quarter call.
+I will begin with some of my views on the business, including an update on our move to NCR becoming a software platform and payments company, with a shift to recurring revenue streams and a focus on improving profit margin.
+Tim will then review our financial performance and an outlook into the remainder of 2021.
+Let's begin on Slide 4 with some highlights from the third quarter.
+NCR delivered strong performance that included accelerated recurring revenue growth, significant margin expansion and solid cash flow production.
+The team executed very well both strategically and tactically.
+Strategically improving our mix of software and services, investing in our platform products and at the same time continuing to build momentum in our NCR-as-a-Service strategy, while continuing to focus on meeting customer needs in the challenging supply chain environment that we experienced in the third quarter.
+First, we delivered 20% total revenue growth and 39% recurring revenue growth in the third quarter.
+Recurring revenue represented 62% of total revenues in the quarter which is a significant increase from 53% one year ago.
+We continue to make steady progress increasing our recurring revenue, which is consistent with our 80/60/20 goals.
+As you know, the third quarter was the first full quarter of incorporating Cardtronics in our financial results as we closed on the transaction in late June and received the final regulatory approval on August 10 from the CMA in the U.K. Second, adjusted EBITDA increased 41%.
+Third, adjusted EBITDA margin expanded to 18.5%, which represents an increase of 280 basis points from the third quarter of 2020 and marks the highest level in four years.
+Fourth, we delivered solid free cash flow.
+We generated 125 million of free cash flow in the quarter.
+This is the sixth consecutive quarter of positive free cash flow.
+The successful execution of our NCR-as-a-Service strategy is helping to drive higher recurring revenues, expansion of EBITDA margin and more linear free cash flow production.
+And finally, the integration of Cardtronics remains on track.
+We made progress integrating the teams and going to market as a unified company.
+We are more enthusiastic than ever.
+We are well positioned to accelerate the NCR-as-a-Service strategy and further shift NCR's revenue mix to software, services payment, including recurring revenues.
+Now moving to Slide 5.
+We executed extremely well in the third quarter, driving progress toward NCR-as-a-Service.
+We have strong momentum across our strategic growth platforms, which support our transition to shift NCR to a software platform and payments company.
+In Banking, we continue to have a positive momentum in our digital banking platform.
+In the third quarter, digital banking had 22 renewals, three new logo deals, and eight new product sales to existing clients, all positive drivers of growth.
+Demand has been strong for our business banking platform, as well as for the online digital account opening.
+The digital account opening, which we obtained through the acquisition of Terafina earlier this year, NCR can now onboard a broad array of accounts across multiple channels.
+I am pleased with the progress we have made returning digital banking to a growth engine for NCR.
+During the third quarter, digital banking grew 9% over the same period last year.
+We are receiving increased interest in our ATM-as-a-Service solution.
+An integrated go-to-market model between the legacy NCR and Cardtronics teams provide a key point of competitive differentiation.
+Liberty Bank, which is one of the largest mutual banks in the United States, selected NCR to provide end-to-end ATM-as-a-service for its ATM network, including upgrading its entire ATM fleet.
+In Retail, we continue to gain traction with our NCR Emerald software platform.
+We have positive momentum in winning the upgrade imperative for retail POS software.
+In the third quarter, we had significant success advancing our software-defined store, which is a component of our next-gen Emerald solution.
+It provides us the capability to start our retail clients down the path of upgrading to our next-gen cloud-based solution in a seamless, low-risk approach by accepting select micro services from our NCR eCommerce platform in an incremental approach to transitioning to NCR's next-gen solution.
+We had two major software-defined store commerce platform signings during the third quarter from large clients that have installed the NCR eCommerce platform validated the technology in a full rollout during 2021, both confirming their success with signing a five-year subscription agreements during the third quarter, these two, Pilot Flying J, the largest operator of travel centers in North America with 750 retail locations in 44 states; and Circle K, which operates more than 15,000 convenience stores in over 20 countries.
+In addition to the NCR eCommerce platform, Circle K also expanded its relationship with NCR to enable the Allpoint Network across stores in eight states.
+During the quarter, we also signed 17 new contracts through our digital front-end app, Freshop.
+This SaaS solution helps grocers implement their own eCommerce and delivery services without expensive third-party providers.
+Freshop connects to our clients through the NCR platform and provides NCR additional upsell opportunities and value-add for our retail customers.
+In Hospitality, our focus on customer success and wallet share gain is proving itself in our ability to attract new customers and better service existing customers.
+NCR realized a significant upgrade in our relationship with Buffalo Wild Wings, which is part of the Inspire Brands family, entering into a four-year contract to support Buffalo Wild Wings across 1,200 locations with subscription-based point-of-sale software, various cloud-based applications, and end-to-end managed services.
+In the SMB market, the momentum of Aloha Essentials, which bundles payments, software, services, and hardware into a single offering, continued in the third quarter with a 102% increase in a Aloha Essentials sites over last year's same quarter.
+Our Payments business continued its success during the third quarter.
+We increased the number of restaurant payment processing sites by 27% from the second quarter, as well as upselling existing customers to our payments platform.
+During the third quarter, we signed enterprise hospitality client Sbarro to our payments platform.
+This is in addition to two other enterprise hospitality clients Shipley and Pei Wei that we signed a payment processing deals earlier this year.
+In summary, we have increased momentum accelerating our NCR-as-a-Service strategy across each of our business segments.
+We continue to focus on taking care of our customers, advancing our product capability with investments in our strategic growth platforms, and improving our productivity.
+With that, let me pass it over to Tim.
+To echo Mike's comments, we are very pleased with our third-quarter results.
+We demonstrated terrific tactical execution in an uncertain business environment and significant acceleration in our more strategic growth areas.
+CMA in mid-August since we last talked to you on our Q2 earnings call.
+Today's report includes the results for the consolidated companies for the full quarter, with legacy Cardtronics now included in our banking segment.
+Let's begin with Slide 6, which presents a top-level overview of our third-quarter financial performance.
+Starting on the top left, revenue was $1.9 billion, up $312 million or 20% versus the 2020 third quarter, driven by strong growth in both our banking and hospitality segments.
+Normalizing for the inclusion of Cardtronics, pro forma revenue was up 3% year over year.
+In aggregate, we had high double-digit revenue growth in our software business, which is more than sufficient to offset lower hardware revenue.
+While demand for hardware across all three segments is increasing, component availability and freight challenges constrained both revenue and profitability in self-checkout and point-of-sale.
+Also shown here in darker green is our mix of recurring revenue.
+With the inclusion of the full quarter of Cardtronics revenue, which has a preponderance of recurring revenue, our aggregate result was up 39% and comprised 62% of revenue in the quarter.
+On a pro forma basis, recurring revenue was up 7% year over year.
+In the top right, adjusted EBITDA increased $103 million or 41% year over year to $352 million.
+Adjusted EBITDA margin rate expanded 280 basis points to 18.5%, representing a high watermark for the previous four years.
+While I will provide a little more detail on the discussion of the segments, in general, a higher value revenue mix, cost productivity and price initiatives were together more than sufficient to overcome premium costs associated with a brutally difficult supply chain and a huge shift to recurring quarter for our retail business.
+In the bottom left, non-GAAP earnings per share was $0.69, up $0.15 or 28% from the prior-year third quarter.
+The Cardtronics transaction remains on track to be 20 to 25% accretive to earnings per share within the first full year.
+The tax rate was 28.5%, and we now expect the full-year tax rate to be 28%.
+And finally, and maybe most importantly, we delivered another strong quarter of free cash flow with generation of $125 million.
+This compares to $160 million in the third quarter of 2020, which benefited from pandemic-related temporal cash preservation actions and the timing of an insurance settlement.
+Moving to Slide 7 for our banking segment results, which now includes the Cardtronics operations.
+Banking revenue increased $273 million or 35% year over year, driven by increases in software and services revenues that more than offset the decline in ATM hardware revenue.
+We continue to successfully replace our onetime revenue that was traditionally recognized with the sale of ATM hardware with more durable, predictable and valuable software and services revenue streams.
+Subscription software TCV signed in this segment doubled from prior year, with significant increases in both annual value and duration.
+Banking adjusted EBITDA increased $98 million or 68% year over year.
+Adjusted EBITDA margin rate expanded by 450 basis points to 23%.
+The margin increase was a result of the significant accretion from the inclusion of the Cardtronics businesses, a more profitable and valuable mix of revenue in our legacy NCR businesses, as well as the cost productivity and price increases.
+The bottom of the slide shows our key metrics for the banking segment.
+On the left, while current quarter wins have a typical lag to conversion and eventual revenue generation, prior period wins at digital banking drove a 9% year-over-year growth rate in the third quarter.
+The grade of growth in digital banking has accelerated in the last several quarters.
+We continue to expect digital banking to exit the year at a double-digit revenue growth rate as we lap most of the attrition caused by the 2019 customer losses.
+Digital banking registered users also increased 9% compared to Q3 of 2020.
+The shift to recurring revenue continues to gain traction, with recurring revenue up 71% year over year and 7% on a pro forma basis.
+We are extremely pleased with the first full-quarter performance at Cardtronics.
+As we continue to add and expand with financial and retail partners, we are driving more transactions over our leading ATM network in the United States.
+Cash transactions on our ATMs in the U.S. were up 12% compared to the third quarter of 2020.
+demonstrates the value of the network to our consumers, to our retailers and to our financial institutions and drove strong performance.
+We expect to drive both traditional transaction growth and new types of transactions as we invest in expanding the capabilities of this network.
+Moving to Slide 8, which shows our retail segment results.
+While I typically start in the top left on these charts, for this quarter in retail, the story is really described by the bottom half of the page.
+Looking at SCO revenue, which is approximately 50% hardware, as we called out in Q2, we posted a very strong Q2 growth rate due to a customer request to accelerate a $30 million self-checkout order into Q2 from the second half of the year.
+That exacerbated the already sawtooth pattern.
+We expect a strong Q4 for self-checkout that will result in full-year 2021 growth of more than 10%.
+And in the center bottom, our platform lanes, a KPI that illustrates the success of our strategy of converting our retail customers to our platform-based subscription model.
+As you heard from Mike, we had two key deals at Pilot Flying J and Circle K converting to our software-defined store platform during the quarter.
+These contracts, much like those that we have standardized on in the banking segment, convert would-be onetime perpetual sales into a multiyear subscription-based revenue stream.
+The nature of these contracts shifts roughly $30 million of very high profit revenue that would have previously occurred is upfront software license to revenue that now recurs over the next several years.
+Considering those two retiming impacts, retail revenue declined $3 million or 1% year over year due to the lower hardware revenue and the shift to recurring revenue, partially offset by growth in software and services.
+And similarly, retail adjusted EBITDA declined $11 million or 14% year over year, while adjusted EBITDA margin rate contracted 190 basis points to 12.7%.
+The declines are primarily driven by that shift to recurring revenue.
+Recurring revenue in this business increased 4% versus the third quarter of last year.
+Slide 9 shows our Hospitality segment results, which is participating fully in the recovery of the restaurant industry.
+We're seeing strong momentum across the business as we see a rebound in the enterprise market with an uptick in new restaurant openings and technology refreshes.
+Hospitality revenue increased $50 million or 29% as restaurants reopen, rework existing locations, and expand.
+Our signed subscription total contract value in this business increased 46% from the year-ago third quarter.
+Our sales pipeline is getting stronger and we continue to hire to increase our feet on the street and catalyze growth.
+Second quarter adjusted EBITDA increased to $35 million, up 46% from the third quarter of 2020, while adjusted EBITDA margin rate expanded 180 basis points to 15.7%.
+This improved profitability was driven by higher revenue and lower operating expenses.
+Hospitality's key metrics on the bottom of this slide include Aloha Essentials sites and recurring revenue.
+Aloha Essentials sites more than doubled when compared to the prior year third quarter and grew 30% sequentially.
+And in the graph on the bottom right, recurring revenue increased 19% from last year and 7% sequentially.
+Turning to Slide 10, we provide our second-quarter results for our 80/60/20 strategic targets.
+First, we strive to generate 80% of our revenue from software and services or less than 20% of our revenue from discrete hardware sales.
+In the third quarter, software and services represented 76% of our revenue, which is up from 71% in the year-ago quarter.
+Stepping down the page, we aim for 60% of our revenues to be recurring to drive more resilient, more predictable, and more valuable revenue.
+With the addition of Cardtronics, we have now exceeded our goal with recurring revenue representing 62% of the total, up from 53% in last year's third quarter.
+And we aspire to a 20% adjusted EBITDA margin rate.
+We made significant progress in this quarter with an adjusted EBITDA margin of 18.5% compared to 15.7% in the third quarter of 2020.
+On Slide 11, we present free cash flow, net debt and adjusted EBITDA metrics to facilitate leverage calculations.
+We continued the trend of strong, more linear free cash flow.
+We generated total free cash flow of $125 million.
+We have a strong balance sheet, ample liquidity, and the financial strength to support our growth strategy.
+The increase in cash provided by operating activities was primarily driven by the effective management of our working capital, including the refinancing of our receivables asset-based revolver to provide higher availability and to make the financing nonrecourse.
+This provided a onetime $274 million benefit to operating cash flows.
+We use that cash, along with our strong Q3 free cash flow, to redeem our highest coupon debt to $400 million of 8% bonds.
+Taken all together, all of these efforts have reduced our average borrowing rate to 4.15%.
+This slide also shows our net debt to adjusted EBITDA metric with a pro forma leverage ratio of 3.8 times.
+When we announced the Cardtronics transaction, we estimated that our pro forma leverage would be about 4.5 times with a commitment to delever below 3.5 by the end of 2022.
+We are significantly ahead of the schedule due to higher-than-forecasted cash generation by both companies.
+We ended the third quarter with $383 million of cash and remain well within our debt covenants, which include a maximum pro forma leverage ratio of 5.5x.
+We also have significant liquidity with about $1 billion available under our revolving credit facility.
+Finally, about 90 days ago, we provided guidance for the first time since the beginning of the pandemic to help you bridge your modeling efforts to an NCR that was inclusive of the Cardtronics acquisition.
+Considering the Q3 results, and the persistently challenging global supply chain, we expect to be at the lower end of those guided ranges.
+While we expect a 20% sequential increase in hardware revenue in Q4 and anticipate continued excess demand for both self-checkout and point of sale and some recovery from price increases on hardware, supply chain constraints will likely cause us to carry some backlog into 2022.
+For EBITDA and EPS, a little less revenue and supply chain premium costs will modestly constrain profit.
+And for free cash flow, slightly lower revenue, less linear revenue and the potential need to invest in safety stock of key components to meet customer needs early in 2022 will all impact cash generation.
+Now turning to Slide 12.
+Looking forward, our key priorities are clear.
+First, we expect to continue to execute well in a very difficult supply chain environment.
+We will continue to put our customers first and deliver on our commitments while we manage through the supply chain challenges.
+Second, we are eager to capitalize on the opportunities that Cardtronics brings us.
+We are excited to leverage Cardtronics to accelerate ATM-as-a-Service and broaden our retail business.
+Third, we are experiencing increased opportunities to accelerate NCR payments and transaction processing solutions as we go to market with a more robust offering.
+Fourth, we will continue to allocate capital to the highest growth and return opportunities with the goal of driving free cash flow and increasing returns for our shareholders.
+Fifth, we will continue to focus on our customer satisfaction initiatives with the simple belief that happy customers will buy more solutions from NCR.
+We strive to garner a larger share of wallet with the mission to help our customers run the store, run the restaurant, and run self-directed banking.
+Our strategy of transitioning customers onto our software and payments platforms is gaining traction with customers on the platforms increasing their spend with NCR.
+And lastly, I'd like to extend an invitation to each of you to participate in our virtual Investor Day, which is scheduled for December 9 of this year.
+We are looking forward to this event and intend to take a deep dive into our strategy, our software and payment platforms, and an update on our strategic goals.
+Operator, please open the line.

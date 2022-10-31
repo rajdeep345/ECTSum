@@ -1,0 +1,32 @@
+I'm joined today on the call by Marcelo Fischer, IDT's chief financial officer.
+IDT delivered another strong quarter, including significant year-over-year increases in consolidated revenue, income from operations and EPS.
+Consolidated revenue increased $16 million to $340 million.
+It is our third consecutive quarter of year-over-year increases in revenue and our sixth consecutive quarter of year-over-year increases in revenue less direct cost of revenue.
+Consolidated income from operations increased $11.6 million to $12.9 million this quarter, powered by a $9 million year-over-year increase in revenue less direct cost of revenue.
+Consolidated SG&A expense, meanwhile, was substantially unchanged year over year.
+We are successfully reducing the overhead in our traditional communications segment and redeploying those resources to support and accelerate the growth of our higher-margin businesses in the Fintech and net2phone-UCaaS segments.
+Fully diluted earnings per share increased to $0.51 from $0.04 in the year-ago quarter.
+The quarter's results were highlighted by year-over-year revenue expansion from our three higher-margin businesses, National Retail Solutions, BOSS Revolution Money Transfer and net2phone-UCaaS.
+Within our Fintech segment, NRS added over 1,500 units to its POS terminal network this quarter.
+In the year-ago quarter, we added less than 800 units.
+We've picked up the pace of network expansion significantly.
+At January 31, NRS had over 13,700 billable units in the network.
+NRS' quarterly revenue increased by over 150% year over year to $5.2 million, led by growth in payment processing services and in digital out-of-home advertising sales.
+Although we are in the early stages of monetizing both of these offerings, they helped to drive a 50-plus percent increase in revenue per POS terminal over the past year.
+Also within Fintech, our BOSS Revolution Money Transfer service increased revenue 73% to $13.3 million.
+We continue to build out our global disbursement network, and this quarter passed an important milestone, opening corridors to Southern Asia with the addition of Pakistan and Nepal.
+Looking ahead, we are laying the groundwork for the first expansion of our origination market.
+The reach of our disbursement network and significant transaction volumes into key destinations enable us to provide a highly competitive C2C service from a number of countries.
+We expect to launch our expansion by offering BOSS Revolution Money Transfer in Canada and the U.K. in fiscal 2022.
+In our net2phone-UCaaS segment, subscription revenue climbed 36% to $10.1 million.
+Growth has been solid in all of our markets, the U.S., Canada, South America and Spain.
+Our continued growth validates our geographic strategy but also reflects the accelerated rate at which we have been able to develop and deploy enhancements to the offering itself, most notably adding integrations with some leading CRMs and communications platform.
+In the second quarter, we launched our integration with Slack, the leading channel-based messaging platform, building on previous integrations with and Microsoft Teams.
+More recently, we launched a powerful integration with Salesforce, the world's largest CRM.
+These integrations enable net2phone to approach higher seat count customers and position us to strengthen revenue without sacrificing growth.
+The increase in sophistication of our feature set and adaptability of our offerings prompted CIO Review, a publication for technology leaders, to name net2phone as one of its top 20 companies providing transformative solutions for retail businesses.
+In our traditional communications segment, aggregate adjusted EBITDA less capex increased to $18.2 million, $4.6 million more than in the year-ago quarter.
+Strong year-over-year growth in international mobile top-up sales, in combination with stable BOSS Revolution calling revenue, more than offset a decline in carrier services revenues.
+Looking beyond our established businesses to new opportunities, we are preparing to relaunch the BOSS Revolution mobile initiative.
+Our initial MVNO effort in partnership with Sprint struggled but we are confident that this time around, we will do much better.
+Across our businesses, the entrepreneurial spirit drives everything we do and will be a powerful source of value creation as we continue to build IDT.

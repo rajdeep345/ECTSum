@@ -1,0 +1,108 @@
+I'll begin by sharing a few thoughts on our business performance and our operations.
+As mentioned on our last earnings call, we expected sales to improve in the third quarter.
+Sales were $113.8 million in the quarter, down 2% in the third quarter of 2019 and up 35% sequentially.
+Third quarter gross margin was 32.4% compared to 32% in the same period in 2019, up 40 basis points and up 80 basis points sequentially from the second quarter of this year.
+Third quarter adjusted earnings per share was $0.34, up 17% from $0.29 in the third quarter of last year and up from $0.18 in the second quarter of 2020.
+We delivered an EBITDA -- an adjusted EBITDA margin of 19%, up 230 basis points from 16.7% in the second quarter of 2020.
+New business wins were $127 million in the third quarter, and we added seven new customers.
+We ended the quarter with $132 million in cash and $106 million in debt.
+Operationally, all our plants are running.
+We continue to experience challenges at our Mexico locations.
+Since last quarter, those facilities have improved from approximately 60% capacity to more in the range of 90%.
+We are monitoring local changes to COVID-19 restrictions at one of those facilities and at our Ostrava facility in Czech Republic.
+Ashish Agrawal is with me for today's call and will take us through the safe harbor statement.
+To the extent that today's discussion refers to any non-GAAP measures under Regulation G, the required explanations and reconciliations are available in the Investors section of the CTS website.
+I will now turn the discussion back over to our CEO, Kieran O'Sullivan.
+As we navigate to COVID-19, our employees are supporting and helping the less fortunate in our local communities, something we're very proud of.
+Our employees also continue to demonstrate flexibility and responsiveness throughout our operations to support all customers.
+Our first focus continues to be the safety of our employees and compliance with state and local regulations.
+We are adapting our business and processes to focus on our priorities, driving profitable growth, strengthening our go-to-market, enhancing our operational capabilities and advancing our leadership talent and culture.
+The restructuring plan we announced on the last earnings call is progressing to plan and is expected to deliver an annualized earnings per share improvement of $0.22 to $0.26 by the second half of 2022.
+More importantly, we are focused on returning to growth, targeting 10%, in line with our strategic plan, 5% organic and 5% through strategic acquisitions.
+We remain focused on our strategic growth investments as part of our planning for 2025.
+Growing our business and expanding our range of products that sense, connect and move is the priority.
+New business awards were $127 million for the quarter, the best quarterly performance this year.
+We added seven new customers in the quarter, four in industrial and one each in defense, medical and telecom.
+In transportation, we were awarded a large passive safety sensor award for an electric vehicle application in the China market.
+We also secured multiple OEM accelerated awards with customers in Asia, Europe and a global platform win with a North American OEM.
+These recent wins are leveraging our inductive technology, which is a key enabler for growth to meet mid- and high-end product requirements.
+We secured an additional ride height sensing award with the same customer.
+Cumulative, EV and hybrid wins this year are approximately $75 million, and we expect further gains.
+Last quarter, we reported our first win with current sensing.
+We aim to expand this application in other regions.
+In defense, we were awarded contracts with several Tier one customers for sonar applications.
+More recently, we developed and secured a new sample order for an ordinance application.
+In Europe, we seek to gain share by building relationships with new customers.
+We are leveraging our footprint and capabilities in Denmark and the Czech Republic, where we recently received sample orders with two new defense Tier one customers.
+With temperature sensing, we secured a small initial order for an application in electric vehicles.
+The sensor is part of the charging circuit for the battery management system.
+In the precision frequency product line, we were selected for a design win in a 5G small cell application for systems in multiple countries, and also secured the distribution order.
+We secured a multiyear design award for a low-power crystal product in a defense application.
+We continue to advance product innovations.
+Our focus in the transportation market, as we have stated previously, is to develop sensor solutions that are agnostic to the underlying propulsion technology, strengthening our growth in the next decade as hybrid and electric vehicle penetration grows.
+EVs are expected to be less expensive than internal combustion engines in the 2025 time frame as battery costs decline.
+15 countries and two U.S. states have announced phase outs of internal combustion engines in the 2030 to 2040 time period, with Norway aiming for 2025.
+We expect EV penetration to reach 9% by 2025 and 22% by 2030.
+Our innovations are in the areas of electronic braking, new accelerator interfaces and high-performance temperature applications.
+We continue to research new material formulations as we target growth in defense, industrial and medical markets.
+In defense, our primary focus is on the solar market for forward and towed arrays.
+In industrial, we target in-jet printing, flow and position as well as nondestructive testing.
+In medical, the primary focus is medical ultrasound, intravascular medical ultrasound, ultrasonic therapy and scalpel applications.
+We continue to advance our traditional position sensing for industrial applications and new encoder product for medical equipment.
+The developments for ultra-low life high frequency TCXOs and OCXOs for millimeter wave and sub-6 gigahertz systems are progressing as we continue to gain design awards through a major telecom OEM.
+While the M&A environment has become a little more challenging due to COVID and associated travel restrictions, we are adapting and continue to strengthen our pipeline of opportunities.
+We seek to expand our range of technologies, products, customers and geographic reach.
+We continue to make progress on our foundry operations and expect to have completed the improvements this year.
+The team is making steady progress on process controls into subsequent efficiencies.
+The Focus 2025 initiative has an important emphasis on building stronger customer relationships.
+As part of this initiative, we are improving our go-to-market capabilities, skills and sales incentive plans to place a stronger focus on profitable growth.
+We are working to improve the quality of the sales funnel, optimize our end market approach, target new accounts and align our functional areas to be more responsive and solution-oriented in line with our core values.
+As part of our realignment on profitable growth, we are evaluating the product portfolio for longer-term growth and margin expansion.
+We have moved from a period of sharp decline in the second quarter to a time of uncertainty as the inventory levels are rebalanced and the market responds to high unemployment and other economic challenges.
+In the U.S., the seasonally adjusted growth rate for 2020 is closer to 13 million units, down 21% for last year.
+We expect next year to be in the 14 million unit range.
+On-hand days of supply are now at 55 days, down from 65 days of supply in the third quarter of 2019.
+European sales are forecasted to decline 24% from last year, and we expect 18.7 million unit levels in 2021.
+The China market continues to be more robust, with volumes predicted to be down 9%, in the 21 million to 22 million range for this year and up to 24 million units next year.
+There are signs, the commercial vehicle market may be on an improving trend as freight fundamentals continue to improve.
+It's a little early to say how sustainable this improvement will be.
+We continue to see stronger growth in industrial and defense markets.
+We remain cautious on market conditions in the next several quarters.
+We expect to resume annual guidance for fiscal year 2021 in February.
+Our liquidity remains solid.
+We view this challenging time period as an opportunity to strengthen our capabilities.
+Now Ashish will walk us through our financial performance in more detail.
+Third quarter sales were $113.8 million, down 2% compared to last year.
+Sequentially, sales rebounded strongly, up 35% from the second quarter.
+Sales to transportation customers decreased by 9% year-over-year.
+However, sequentially, we grew by 71%.
+Sales to other end markets increased by 10% versus Q3 of 2019 and 5%, sequentially.
+Our temperature sensing acquisition had solid growth and added $6.6 million.
+Organic sales to non-transportation customers were up 4% versus last year.
+We experienced double-digit growth in sales to both the defense and industrial end markets.
+As expected, the medical end market was soft.
+Our gross margin was 32.4% for the third quarter, up 80 basis points compared to last quarter and up 40 basis points compared to last year.
+Conditions remain uncertain due to the impact of COVID.
+And we are maintaining a focus on cost efficiency and capability to ramp production up or down.
+As a result of improved revenue and careful cost management, adjusted operating earnings were 13%, up 170 basis points from last year and up 450 basis points sequentially.
+As Kieran mentioned, we are making progress on the restructuring plan we initiated a few months ago.
+We will update you on the improvements as we complete various parts of the plan in the coming quarters.
+Our year-to-date tax rate was approximately 24%, and we expect the full year rate to be in the range of 23% to 25%, excluding discrete items.
+Third quarter 2020 earnings were $0.34 per diluted share.
+Adjusted earnings per diluted share were also $0.34 compared to $0.16 last quarter and $0.29 in the third quarter of 2019.
+Focusing on the balance sheet.
+Our working capital -- our controllable working capital as a percentage of sales was 15.6% at the end of the third quarter.
+This represents a significant improvement from 21.2% last quarter, and the team recognizes that we still have much work ahead of us to further improve our working capital performance.
+We generated $25.6 million in operating cash flow in the third quarter.
+Year-to-date, we have generated $49 million in operating cash flow, up 21% compared to 2019.
+The strong cash performance in the third quarter enabled us to reduce debt by $35 million.
+capex was $3.2 million.
+For the full year, we are expecting capital expenditures to be below 4% of sales.
+On liquidity, our net cash position was $25 million, an improvement of approximately $20 million from the second quarter.
+We have access to an additional $192 million through our revolving credit facility.
+And at this time, we expect to remain well within our debt covenants.
+We are continuing to implement SAP.
+As we communicated earlier, more than 80% of our revenues come from sites that are running on SAP.
+We are expecting to complete the implementation around the middle of 2021.
+However, COVID-related travel limitations could cause some delays.
+This concludes our prepared comments.

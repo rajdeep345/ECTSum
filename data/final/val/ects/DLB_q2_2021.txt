@@ -1,0 +1,150 @@
+In particular, the extent of the continued impact of COVID-19 on our business remains uncertain at this time.
+During today's call, we will discuss GAAP and non-GAAP financial measures.
+As for the content of today's call, Kevin will start with a discussion of the business, and Lewis will follow with a recap of Dolby's financial results and provide our third quarter and second half fiscal 2021 outlook.
+With another strong performance in licensing revenues this quarter, we are off to a solid start to our fiscal year.
+Our first half fiscal 2021 revenues have grown about 10% compared to the first half of fiscal 2020, and earnings have grown at an even higher rate.
+Our financial results reflect the strength of Dolby's business model and the broad adoption of Dolby Technologies across the devices and services that consumers are seeking to enjoy their content.
+Before Lewis takes you through the numbers, I wanted to highlight some of the areas of our progress and the recent examples of how Dolby is enabling a broader range of content.
+With a growing number of content experiences becoming Dolby experiences, we add to our value proposition for deeper adoption in existing device categories, and we address the use cases for adoption in new device categories, which together drive our opportunities for growth.
+With Dolby Atmos for music, we are enabling a significant step forward in how people can enjoy their favorite songs, which is creating new opportunities to expand the adoption of Dolby Atmos to a broader range of devices and services.
+Lucid Motors announced that they will be bringing the first automobile to market that will include Dolby Atmos.
+The Lucid Air will enable the Dolby Atmos for music experience for the car and is the first example of a significant opportunity to address the primary entertainment use case within automotive.
+Lucid is just one example of how we are creating more ways for consumers to enjoy a growing library of music in Dolby Atmos.
+We have strong engagement with top artists around the world as more songs and albums are being made available in Dolby Atmos, including many recent Grammy-nominated artists like Taylor Swift, Lady Gaga and Megan Thee Stallion.
+This quarter, Hungama, a top music streaming service in India began supporting Dolby Atmos.
+They joined TIDAL, Amazon Music and Anghami who are currently streaming music in Dolby Atmos.
+As we continue to build on the momentum for Dolby Atmos for music, we see opportunities for more services to adopt Dolby Atmos, and to deepen our adoption across mobile, PCs, automotive and headphones.
+Gaming is another area where we see much of the opportunity ahead of us, to bring Dolby Vision and Dolby Atmos to a growing number of experiences.
+Microsoft Xbox will be the first gaming console to support the combined Dolby experience for games.
+Xbox gamers will have more ways to enjoy the Dolby experience with new gaming headsets released this quarter from Microsoft and Bang and Olufsen that highlight support for Dolby Atmos.
+Lenovo recently launched a new mobile phone designed to support gaming content, the Legion Phone Duel two that highlights support for Dolby Atmos.
+We also saw the first eSports event in Dolby Vision and Dolby Atmos this quarter.
+As part of Blizzard Entertainment's BlizzConline, we enabled an event that showcased Overwatch matches to be viewed in the combined Dolby experience through PCs and gaming consoles.
+eSports gives us unique opportunities to engage gamers by bringing Dolby Vision and Dolby Atmos to the experiences that they are passionate about.
+As we grow the number of Dolby experiences within games, we add to our existing value proposition and drive more reasons for adoption on gaming consoles, PCs and mobile phones.
+By expanding our presence in music and gaming, we addressed two of the primary use cases on a mobile device.
+At the same time, we see more ways for Dolby to enable the highest quality experiences across more of the content enjoyed on mobile devices.
+Over the past few quarters, we've highlighted how we are enabling new experiences in mobile, like being able to record in Dolby Vision with the iPhone 12 or being able to enjoy live sports content in Dolby Atmos through a mobile app.
+This quarter, Earshot, a leading podcast service in India became the first podcast app to support Dolby Atmos.
+They will be making Dolby Atmos content available across different genres of podcasts and in multiple languages.
+As we continue to expand the relevance of Dolby Vision and Dolby Atmos across a broader range of content, we address more of the use cases for mobile devices, driving the reasons for deeper adoption with our partners.
+This quarter, Xiaomi launched their first mobile phones that support Dolby Vision and Dolby Atmos.
+This adds to the growing number of partners that support the Dolby experience within mobile, which is highlighted by the Apple iPhone 12 lineup that features the combined Dolby Vision and Dolby Atmos experience.
+In addition, Samsung, OPPO and Sony continue to highlight Dolby Atmos with the recent launch of their latest flagship models.
+All of this progress adds to our strong position within movie and TV content, which continues to drive more device adoption within the living room.
+This quarter, Samsung released their Q7 sound bar, highlighting support for Dolby Atmos.
+Within TVs, our partners around the world, including Xiaomi, Changhong and Skyworth, released new models that support the combined experience.
+In addition to supporting Dolby Atmos, TCL and Hisense also highlighted support for Dolby Vision IQ within their recent TV launches.
+With this momentum, we still see a significant opportunity ahead to reach higher levels of adoption with Dolby Vision and Dolby Atmos in the living room, similar to the broad presence of our core audio technologies.
+The adoption of Dolby Vision and Dolby Atmos on devices is driven by a consistent flow of new titles that are being enabled in the combined Dolby experience.
+Our streaming partners, like Netflix, Disney+, Apple TV+ and HBO Max, continue to make a broad range of titles available in Dolby, and the combined experience is consistently highlighted with the release of their latest tentpole titles.
+Let me shift to cinema.
+As consumers begin to return to the movies, they are seeking out premium experiences and Dolby Cinema is the best way to enjoy a movie.
+We now have about 90% of our Dolby Cinemas opened globally to certain capacity restrictions.
+Our engagement with exhibitor partners remain strong as we recently added a new Dolby Cinema partner in China, and we also had four new Dolby Cinema locations open during the quarter.
+We also see initial signs of strong box office performance from titles like Godzilla vs.
+Kong and successful local content in China, including Detective Chinatown three and Hi, Mom that were all available in Dolby Cinema.
+We look ahead to anticipated titles later this year, including Top Gun: Maverick, A Quiet Place II and Black Widow that will all be available in Dolby Cinema.
+During the last year, we have started to bring the Dolby magic that powers the best movie, TV and music experiences to a much broader range of content and interactions with Dolby.io, our developer platform.
+Our focus is on deepening our engagement with the developer community, growing the number of developers on the platform and building their engagement with our APIs.
+Just last week, we completed an integration with Box.com and Dolby.io.
+Companies that use Box can now enable their users to easily improve the quality of their audio directly from where their files are stored within Box, powered by Dolby Media APIs.
+We are excited to bring unique solutions to Box's broad range of customers and the opportunity to drive more people to engage with Dolby.io.
+Our interactivity APIs are supporting a wide range of use cases, and we see new customers across multiple industries from online learning to enabling influencers to connect with fans, or even in one case, supporting an application that enables live streaming for medical teams.
+As we look ahead, we also see opportunities where real-time interactions come together with recorded media and we can uniquely provide comprehensive solutions by embedding both our interactivity and media APIs.
+With a growing number of new experiences being enabled by Dolby.io, we are learning from our engagement with developers and evolving our offerings to best support the use cases where we see significant opportunities to bring higher quality media and best-in-class real-time interactions.
+So to wrap up, we have growing momentum in enabling Dolby Vision and Dolby Atmos experiences in more forms of content like music and gaming.
+As we enable our technologies to address a broader range of content, we build upon our strong position within movies and TV and create more reasons for adoption across devices and services.
+With Dolby.io, our technologies are beginning to address a much larger world of content experiences and interactions.
+All of this gives us confidence in our ability to drive revenue and earnings growth into the future.
+And with that, I'm going to hand it over to Lewis to take us through the financials.
+And of course, May the fourth be with you.
+As Kevin said, our financial results were very solid this quarter.
+Revenue and earnings both coming in higher than we previously guided.
+So let me go through a few details for everyone.
+Second quarter revenue of $320 million was above our guidance range of $280 million to $310 million, as the volumes that we had were higher-than-expected in several of our end markets.
+And then we also benefited from a true-up of about $15 million in the quarter for Q1 shipments reported that were above our estimate.
+On a year-over-year basis, second quarter revenue was down from last year's $352 million due to lower recoveries and lower revenue from cinema-related business partially offset by higher adoption of Dolby Technologies and higher market volume in areas like PC and TV.
+On a sequential basis, total revenue was down from Q1 due to lower recoveries and lower seasonality, and both of these were anticipated when we gave our guidance at the beginning of the quarter.
+So the Q2 revenue was comprised of $304 million in licensing and $16 million in products and services.
+So let's go through the trends in licensing revenue by end market, starting with broadcast.
+Broadcast represented about 35% of total licensing in the second quarter.
+Broadcast revenues decreased by about 19% year-over-year, and that was driven by lower recoveries offset partially by higher market volume along with higher adoption of Dolby.
+On a sequential basis, broadcast decreased by about 25%, due primarily to lower seasonality along with lower recoveries.
+Mobile represented approximately 22% of total licensing in Q2.
+Mobile decreased by about 12% from last year, that was due to a shift in timing of certain contracts, and that was offset partially by higher adoption of our technologies.
+On a sequential basis, mobile was down about 38%, due primarily to lower recoveries and timing of revenue under contracts.
+PC represented about 17% of total licensing in the second quarter.
+PC was higher than last year by about 12% due to higher market volume, along with increased adoption of Dolby Vision and Dolby Atmos.
+And that was offset partially by declining ASP because of mix of our disc versus non-disc units.
+Sequentially, PC was up by about 56%, driven by timing of revenue under contracts, along with seasonally higher activity from patent programs.
+Consumer electronics represented about 16% of total licensing in Q2.
+On a year-over-year basis, consumer electronics was lower by about 2% due to a shift in timing of certain contracts offset partially by higher volume in devices like sound bars and DMAs, as well as higher adoption of Dolby Vision and Dolby Atmos.
+On a sequential basis, CE decreased by about 7% due mainly to lower seasonality and timing of revenue under contracts.
+Other markets represented about 10% of total licensing in the second quarter.
+They were up about 14% year-over-year, driven by higher revenue from gaming and automotive, and that was offset partially by lower Dolby cinema revenues.
+On a sequential basis, other markets decreased by about 22%, driven by lower seasonality in gaming and lower admin fees from Via.
+Beyond licensing, our products and services revenue was $16 million in Q2 compared to $16.9 million in Q1 and $23 million in last year's Q2.
+And the year-over-year decrease was attributable to lower demand in the cinema industry because of the pandemic.
+So now I'd like to discuss Q2 margins and operating expenses.
+Total gross margin in the second quarter was 89.9% on a GAAP basis and 90.5% on a non-GAAP basis.
+Products and services gross margin -- products and services gross margin on a GAAP basis was minus $345,000 in Q2 compared to minus $5.5 million in the first quarter.
+Products and services gross margin on a non-GAAP basis was a positive $1.1 million in Q2 compared to a negative $3.9 million in the first quarter.
+As I mentioned when I gave guidance, we took steps to reduce the cost structure in manufacturing, and that's helping our product gross margins return to positive territory.
+Operating expenses in the second quarter on a GAAP basis were $204 million compared to $189.8 million in Q1.
+The annual salary increases for our employee base went into effect at the beginning of Q2.
+And also, Q1 operating expenses benefited from a gain on sale of our facility in Brisbane.
+Operating expenses in the second quarter on a non-GAAP basis were $178.4 million compared to $167.1 million in the first quarter.
+Non-GAAP operating expenses were pretty much in line with the guidance that we gave.
+Operating income in the second quarter was $83.2 million on a GAAP basis or 26% of revenue compared to $105.9 million or 30.1% of revenue in Q2 of last year.
+Operating income in the second quarter on a non-GAAP basis was $110.9 million or 34.7% of revenue compared to $129 million or 36.7% of revenue in Q2 of last year.
+Income tax in Q2 was 10.6% on a GAAP basis and 16% on a non-GAAP basis.
+Net income on a GAAP basis in the second quarter was $76.2 million or $0.73 per diluted share, and that compares to $88.5 million or $0.86 per diluted share in last year's Q2.
+And net income on a non-GAAP basis in the second quarter was $94.8 million or $0.91 per diluted share, that compares to $106.6 million or $1.04 per diluted share in Q2 of last year.
+For both GAAP and non-GAAP, net income in the second quarter was above the guidance that we gave and that was due to the revenue coming in higher than what we had expected.
+During the second quarter, we generated about $83 million in cash from operations which compares to the $66 million generated in last year's second quarter, and we ended the second quarter this year with about $1.2 billion in cash and investments.
+During the second quarter, we bought back about 760,000 shares of our common stock and ended the quarter with about $76 million of stock repurchase authorization still available.
+We also announced today a cash dividend of $0.22 per share.
+The dividend will be payable on May 25, 2021, to shareholders of record on May 17, 2021.
+So now let's talk about the forward outlook.
+three months ago, when I went through the outlook for Q2, I said then based on a variety of factors and assumptions, that we could see a scenario for second half revenues in the mid- to high 500s.
+Now with Q2 behind us, our updated scenario is for second half revenue ranging from $560 million to $600 million.
+And if I focus more specifically on Q3, we anticipate that third quarter total revenue could range from $260 million to $290 million.
+Within that, licensing could range from $250 million to $275 million, while products and services revenue could range from $13 million to $18 million.
+In terms of the assumptions we've made about market conditions, industry analyst reports indicate that PC TAMs in the second half could be higher on a year-over-year basis.
+However, for TVs and other consumer devices, industry reports continue to indicate that TAMs could be down in the second half because of an uptick in demand that happened last year in the middle of the pandemic, but might not repeat this year.
+At the same time, we are expecting organic growth in the second half, and that's on a year-over-year basis.
+Driven by broader adoption of our Dolby technologies broadly across various markets.
+And we also anticipate higher revenue from our cinema-related businesses in the second half as that industry starts to recover compared to where it was last year.
+So let me move on to the rest of the P&L outlook for Q3.
+Q3 gross margin on a GAAP basis is estimated to range from 88% to 89%, and the non-GAAP gross margin is estimated to range from 89% to 90%.
+Within that, products and services gross margin is estimated to range from about breakeven to $1 million positive on a GAAP basis and from $1 million to $2 million positive on a non-GAAP basis.
+Operating expenses in Q3 on a GAAP basis are estimated to range from $210 million to $220 million; and operating expenses in Q3 on a non-GAAP basis, are estimated to range from $185 million to $195 million.
+Now the increase in operating expenses from Q2 to Q3 is being driven mainly by our marketing programs that from a timing standpoint, have more of their activities taking place in the second half this year, which also means that at this point, Q4 expenses could be at least as much as what we spend in Q3.
+But I'd like to point out that for the year as a whole, the marketing expenses at the high end of our opex range would be similar to what they were last year, just timed differently.
+We'll give you an update on this when we report our Q3 results.
+So let's finish up the Q3 outlook.
+Other income is projected to range from $1 million to $2 million for the third quarter, and that's $1 million to $2 million for the third quarter.
+And our effective tax rate for Q3 is projected to range from 20% to 21% on both a GAAP and non-GAAP basis.
+Based on a combination of the factors I just covered, we estimate that Q3 diluted earnings per share could range from $0.15 to $0.30 on a GAAP basis and from $0.37 to $0.52 on a non-GAAP basis.
+So with that, I'll kick it back over to Mr. Yeaman.
+As I'm sure most of you or all of you saw, we also announced today that Lewis has made a decision to retire later this year.
+Over the last nine years, Lewis has played an integral role in building our strong financial position, navigating new business models, and just overall supporting the expansion of Dolby experiences.
+He's built a very strong team.
+He's mentored countless employees, both within and beyond the finance organization.
+And Lewis is going to be working closely with me to ensure a smooth transition as we work to identify our next Chief Financial Officer.
+So we've still got Lewis.
+We're going to enjoy that for now.
+And then we'll be happy to -- that Lewis will have more time to focus on his family.
+So Kevin, is it true that when I first told you, you said good riddance?
+I think you might have misinterpreted that.
+I can't believe now that they actually have books out there called Dad Jokes because I think all my jokes probably fit into that category, but it has definitely been a privilege to serve as the company's Chief Financial Officer and lot of great memories.
+And since we're all about the experience, I can definitely say that I've had my own unique Dolby experience here.
+So I look forward to a smooth transition as we move on to the next phase.
+Company is in great shape.
+Great shape, great promise ahead.
+So I will happily watch from sidelines.
+Well, Lewis, I haven't heard anyone disagree with you yet when you talk about the quality of your humor.
+And we are going to make sure and get the most out of your remaining transition time.
+And with that, I'm sure our audience is eager to get to questions.
+We've covered a lot of ground.

@@ -1,0 +1,224 @@
+Today, we will discuss the financial performance of KAR Global for the quarter ended March 31, 2021.
+After concluding our commentary, we will take questions from participants.
+Let me also mention that throughout this conference call, we will be referencing both GAAP and non-GAAP financial measures.
+Today on the call, we have Jim Hallett, Executive Chairman; Peter Kelly, CEO; and Eric Loughmiller, CFO.
+Consistent with our announcement earlier this year, Peter Kelly has transitioned into the role of CEO of KAR Global beginning April 1.
+It has been my pleasure getting to know so many of you and sharing KAR's story with you.
+I also want to congratulate Peter Kelly and all of KAR on what I would call a seamless leadership transition.
+Peter has been an inspirational leader in our company for over a decade and is a true industry pioneer.
+He has been the architect of our digital transformation and has a clear bold vision for KAR's future, which I know he will begin sharing with you today.
+This is the right time for this transition, and Peter is the right leader for our customers, for our investors and for our employees.
+I appreciate that, Jim.
+I will then provide some insights on the dynamics in our industry and what I believe we can expect to see over the rest of this year.
+But I plan to spend most of my time focused on my vision for the future of KAR Global.
+I'm going to start with the first quarter.
+I was pleased with our first quarter performance.
+Despite operating in an environment of constrained supply across our industry, we achieved the following results.
+We facilitated the sale of 753,000 vehicles, representing gross auction proceeds of $11.4 billion.
+We generated $582 million in total revenue and $489 million in net revenue.
+We generated a total gross profit of $251 million, representing 51% of net revenue.
+And we generated adjusted EBITDA of $123 million, an increase of 39% versus Q1 of last year.
+Perhaps even more importantly, we saw our strongest performance to date by far in our digital dealer-to-dealer marketplaces, BacklotCars and TradeRev.
+We completed the migration from TradeRev to BacklotCars in the U.S. in the first quarter ahead of our schedule.
+On a combined basis, we facilitated the sale of over 100,000 vehicles on these marketplaces within Q1, representing growth of 81% compared to Q1 of 2020.
+This is very encouraging.
+Eric will provide more detail around these and other financial and operating results later in the call.
+I would now like to speak to what we can expect over the rest of this year.
+I mentioned that in Q1, we were operating in an environment of constrained vehicle supply across the wholesale used vehicle market.
+This is particularly the case when it comes to the commercial vehicle category, affecting repossessed vehicles, off-lease vehicles and rental vehicles.
+The root causes vary, but they all originate in the COVID pandemic.
+These supply side dynamics for commercial vehicles are industrywide and they're not in our control.
+However, there is a silver lining.
+First, I believe that these dynamics are temporary and volumes will return to normal over time.
+When that happens, I believe KAR will be a strong beneficiary given our market position, our technology platforms and our strong relationships with commercial consignors.
+Until that happens, we will continue to run the business prudently recognizing and adjusting to the volumes that are available to us.
+The dealer consignment category has been less impacted by these dynamics, although many dealers are more likely to keep their trade-in vehicles given the current high demand and prices on used vehicles.
+So given that fact, I am even more encouraged by our strong performance in dealer consignment in the first quarter.
+The second piece of good news is that even with these shortfalls in supply, our business continues to perform well.
+We have meaningfully and permanently adjusted our cost structure and streamlined our operations in every corner of our organization.
+This has enabled us to react to downward changes in the market, while remaining well prepared for when supply increases again.
+A focus on cost management is part of our corporate culture, and it is important for us to continue to demonstrate strong unit economics during this period of supply constraint.
+So with that, I'd like to spend the balance of my time sharing some perspectives on the business and what I believe is the significant opportunity that exists for KAR as we look to the future.
+KAR operates leading used car digital marketplaces, serving business-to-business customers in North America and Europe.
+We do this through an off-premise model, which means cars are launched for sale that are not physically at our sites, as well as through an on-premise model, which means cars are physically on our sites, to efficiently enable our business-to-business customers to sell, buy, service, transport and finance used vehicles.
+We provide these services using our digital platforms, our proprietary data developed from tens of millions of transactions, our unique inspection tools and capabilities, our transport and logistics expertise, our ability to value and finance vehicles and our ability to store and service cars from a North American footprint of over 70 locations.
+Core of this business are a long-standing relationships with dealers, motor manufacturers, finance companies, fleet operators and rental car companies.
+And as you know, we report our business in two segments: ADESA and AFC.
+As I see at the ADESA segment has two components.
+The first component is our North American used vehicle marketplaces.
+There were close to 20 million wholesale used vehicle transactions in the U.S. and Canada in 2020.
+In our marketplaces, OPENLANE, BacklotCars, ADESA.com and TradeRev facilitated approximately three million of those.
+The marketplace gross auction proceeds of those transactions was approximately $44 billion.
+And we served over 30,000 unique sellers and over 60,000 unique buyers in 2020.
+While we are number two in terms of our overall market share, we are number one in a number of important categories, such as our open lane powered private label marketplaces that support over 80% of North America's off-lease inventory.
+The second component within ADESA is our international used vehicle marketplace.
+We entered the European market some years ago through CarsOnTheWeb and via ADESA in the U.K.
+We continue to pursue opportunities to serve our global customers and to grow our international presence and market share.
+And within our AFC business segment, we are the number two by volume of loan transactions with total outstandings of $1.9 billion.
+We provided 1.5 million loans to over 14,000 dealer customers in 2020.
+With that as a backdrop, I'd like to comment on our strategy.
+And I'm going to focus the remainder of my remarks today on the North American marketplaces, and I will cover AFC and International in future calls.
+So the market for buying and selling used vehicles is undergoing significant change.
+Our customers are evolving.
+Some are eager to embrace the power of digital technology and the shift to digital marketplaces that COVID has accelerated.
+Other customers are adapting to transition to off-premise sales more slowly.
+Our goal is to provide all customers, buyers and sellers with a full range of capabilities to meet their needs and to help them to be more successful.
+Today, we are no longer running vehicles in lane, and we have no plans to do so.
+However, we have the ability to inspect and launch for sale vehicles from any location or alternative to bring them to any of our 70-plus sites to store, inspect and if need be, service them before selling them.
+As a result of this, 100% of the cars we sold in Q1 were sold digitally, and 54% of them were sold off-premise compared to 46% sold off-premise a year ago.
+I know that some investors are concerned that this shift to digital could erode our profit margins.
+I would point out that we were able to increase our gross profit per vehicle sold in the ADESA segment to $264 in Q1 of this year versus $228 in Q1 of last year and $242 in Q1 of 2019.
+I believe digital marketplaces are the future of the business-to-business vehicle marketing industry and that they offer superior outcomes for customers.
+Some competing auctions are running cars in lane, appealing to what was familiar to buyers and sellers pre-pandemic.
+However, this gives us an opportunity to run real-life experiments to demonstrate to buyers and sellers that our digital marketplaces offer superior outcomes for both sides.
+Benefits of our digital marketplace model include: for buyers, greater convenience, greater choice and selection and lower costs; for sellers, increased buyer participation with more buyers viewing and bidding on your vehicles, greater geographical reach, reduced days to sale, reduce time to cash and improve proceeds.
+While off-premise sales are likely to continue to increase, and we are well positioned for this, there is still a role for bringing vehicles on-premise to our facilities and for providing related services.
+This is particularly true for commercial sellers, who have the greater need for these services and who have typically been the principal customers for these services in the past.
+So this leads me to our overall competitive position and our points of differentiation.
+Wholesale automotive industry remains a network effect business, where like any other marketplace business, scale and breadth of capabilities to get success.
+In this context, my belief is KAR is better positioned than anybody else.
+We offer buyers and sellers a broader set of marketplace offerings tailored to their specific needs.
+For example, The OPENLANE platform provides our OEM and captive finance customers with a highly customizable platform for their marketing of their off-lease vehicles.
+Our BacklotCars and TradeRev marketplaces are also strongly differentiated platforms for the off-premise dealer segment in their respective geographies.
+We believe that our physical infrastructure is a strong differentiator and will remain one even in the more digital world of the future.
+We offer the ability to sell cars either on-premise or off-premise.
+And we have the capability to deliver value-enhancing services, such as detailing, reconditioning and vehicle repair for those vehicles at our facilities.
+We also offer our customers a larger base of market participants and counterparties, meaning more buyers and more sellers, and a broader suite of ancillary services, such as transportation, financing, buy back guarantee products, etc.
+Finally, the data from our entire digital marketplace with over three million vehicle sales transactions annually, creates unique opportunities for our business.
+So when I think about our competitive position, I think we have a strong positive differentiation in the eyes of our customers.
+Versus our physical auction competitors, KAR offers superior digital capabilities, with best-in-class offerings, such as BacklotCars, TradeRev, OPENLANE, Simulcast Plus.
+We strengthened these digital capabilities further this week with the acquisition of Auction Frontier.
+Finally, we also have considerably broader reach than any stand-alone independent auction versus newer vendors who offer point solutions for the digital off-premise dealer segment.
+Just looking at that off-premise dealer segment by itself, we have a similar scale to our leading competitor.
+But taking the market as a whole, we have considerably more scale.
+We also offer our buyers and sellers a broader set of marketplace offerings, a choice of on-premise or off-premise, a larger base of counterparties, a broader suite of ancillary services, such as reconditioning, transportation, land, data, financing, etc.
+So I'd like to speak to where we're going to as a company and to our key initiatives.
+In the simplest form, we intend to grow our volumes and grow our share.
+The automotive marketplace is large and relatively stable.
+Total new and used vehicle retail transactions in the United States alone amount to 50 million to 60 million vehicle transactions in most years.
+We estimate well over 20 million retail -- used vehicle trade-in transactions per year as well.
+And also another 20 million wholesale used vehicle transactions.
+We believe that a more digital model significantly expands our addressable market to include all of the approximately 20 million wholesale used vehicle transactions currently taking place each year and potentially vehicles in some of the other marketplace categories.
+So we will be focused on growing our volumes and increasing our share in this larger addressable market that now exists for our services.
+We also aim to achieve a tighter integration of services across our marketplace platforms.
+We'll create a one-of-a-kind value proposition for buyers and sellers.
+Today, we have a number of best-in-class technology and data capabilities and other service offerings that may be only available on select platforms that we offer.
+We are working to integrate those across all of our platforms so that all of our customers can benefit from them.
+Digital will also allow for a more streamlined cost structure for our operations.
+We will preserve the digital sales model that we have transitioned to during COVID, and I believe this will allow us to sustain the cost reductions that we have already achieved.
+However, we will also continue to adjust our fixed cost structure to reflect the fact that as we grow our business, an increasing percentage of our sales will likely be off-premise.
+We will constantly evaluate where we have had the opportunity to become more efficient and where we need to invest to accelerate our growth.
+Our physical auctions of the past will evolve into our vehicle logistics centers of the future.
+We also intend to grow our ancillary services businesses, including AFC, by increasing the cross-selling and increasing the attach rate for these services on the vehicles sold within our marketplaces.
+Greater use of our services by existing customers provide a meaningful opportunity for financial growth, and I believe that digital will help raise awareness, interest, engagement and the attach rate of these offerings by our customers.
+We intend to measure and report on our progress using our fresh set of key metrics that reflect our transition to a digital marketplace company.
+There are five key metrics that we will use for the ADESA segment.
+The first metric is total vehicles sold and total gross auction proceeds.
+In Q1, we sold 753,000 vehicles, representing $11.4 billion in proceeds.
+Notwithstanding the near-term supply constraints that I discussed earlier, our intention is to grow our volume of vehicles transacted over time.
+We will measure our performance based on growing the volume of cars sold in the aggregate across all of our marketplaces.
+Second metric is the percentage of vehicles sold off-premise, and in Q1, this was 54%.
+We believe this metric gives investors the opportunity to understand how our customers are evolving and is an indicator of our transition to a more asset-light model.
+The third metric is the number of vehicles sold on the TradeRev and BacklotCars platforms on a combined basis.
+Again, in Q1, this was 100,000 vehicles, representing 81% growth versus Q1 of last year.
+This metric will provide insight on this important and growing segment in our business.
+It will make it easier for investors to compare our volumes with those of competitors.
+A fourth key metric, gross margin per vehicle sold within the ADESA segment.
+In Q1, this metric was $264.
+This is a key metric that will help investors understand how we are navigating the mix shift from on-premise to off-premise.
+The on-premise and off-premise models have different fee structures, but they also have different cost structures, and ultimately, those get reflected in an overall gross profit per vehicle sold.
+And the fifth metric, SG&A per vehicle sold within the ADESA segment.
+In Q1, this was $186.
+We believe this metric provides investors with an understanding of how we are transitioning our fixed cost base to align with our transition to a digital marketplace-driven business, one that is more asset-light.
+In addition to those metrics within the ADESA segment, we will also be focused on the following key metrics at AFC.
+The number of loan transactions in Q1, 372,000 loan transactions.
+And the revenue per loan transaction, which in Q1 was $177.
+Finally, two key metrics relating to KAR overall.
+Adjusted EBITDA, Q1 $123 million, I believe that adjusted EBITDA remains the most relevant metric of KAR's earnings performance and will continue to be a key metric for myself and the management team.
+Finally, cash flow from operations.
+In Q1, $165 million.
+We will continue to highlight the strong cash generation power of the KAR business model, and we'll continue to view this as a key performance metric.
+More importantly, I'm pleased with our progress of our digital transformation, our successful integration of TradeRev and BacklotCars platforms and the continued growth in our off-site or off-premise sales mix.
+As we look to the rest of 2021, we should expect a continuation of the supply constraints that I described.
+When it comes to our future vision and our performance, I believe we have a significant opportunity to grow this business and substantially increase the value of this company for all of the reasons that I've mentioned earlier.
+I will be excited to deliver on that in the months and years to come.
+Our growth will be propelled by a relentless focus on our customers, consistent with our stated purpose, which is to make wholesale easy so that our customers can be more successful.
+And finally, I want to be very clear.
+We have crossed the digital chasm, and we are operating as a digital marketplace business with industry-leading platforms, solutions and infrastructure that clearly differentiates us from our competitors.
+We will build on our strong position, and we intend to extend our lead in operating the most active, technologically advanced and data-driven marketplaces within our industry, consistent with our vision of building the world's greatest digital marketplaces for used vehicles.
+With that, I will hand over to Eric for a more detailed review of the financial results from the first quarter.
+And let me start by stating our results for the first quarter were much improved over the fourth quarter despite continued supply constraints.
+The results were driven by our focus on controlling costs, both direct and SG&A and taking advantage of the full suite of KAR Global offerings to optimize performance across all of our digital marketplaces.
+In addition, we realized the benefit from minority investments in early stage auto retail businesses.
+I will talk more about the strategy behind these investments in a few moments.
+We are pleased with the increase in auction fees per vehicle sold, increasing 6% to $313 from $296 last year.
+This metric was also up sequentially from $304 in Q4.
+The auction fees per vehicle sold reflect the increase in the average selling price for vehicles across all of our platforms.
+I consider this quite an accomplishment given the strong performance in our private label platforms that have the lowest auction fees per car sold.
+Another positive that I don't believe is obvious is the sequential improvement in services revenue despite the continued shortage of supply on our on-premise marketplaces.
+Not surprising, services revenue is down 21% from the prior year, but on-premise volume was down 25% for that same period.
+I will admit that high wholesale used car prices and low supply do put a premium on time to market, which often results in lower attachment rates for ancillary services.
+However, we have offset some of the negative impact of these factors by increasing our revenue and services provided to buyers of wholesale used vehicles.
+Many retailers are using our reconditioning services to prep cars for retail sale or delivery, as our capacity and service capabilities provide a faster, more cost-effective reconditioning capability than the alternative's retailers may have available internally or in their local market.
+We consider this a growth opportunity for ADESA going forward.
+Peter has covered some of the key metrics that demonstrate the strength of our performance, including gross profit as a percent of net revenue and gross profit per vehicle sold for the ADESA segment.
+The strong gross profit performance reflects our ongoing focus on managing costs in line with the volumes sold and services delivered.
+We did benefit from the strength in used car pricing, confirming our view that the losses on sale of ADESA Assurance and inherited vehicles in North America that we experienced in Q4 were transitory.
+Despite a 23% year-over-year increase in revenue from purchased vehicles, we experienced a 100 basis point improvement in gross profit due to decreased losses on purchased vehicles.
+To be clear, we incurred a loss reflected in our gross profit for the quarter from the sale of these vehicles, but these losses were in line with normal trends we typically experience.
+Net losses on the sale of vehicles returned under the ADESA Assurance program were approximately 33% of the premiums earned in the first quarter.
+We have recently expanded the reach of our ADESA Assurance offering and see this as a growing contributor to our performance.
+Staying on the ADESA segment, I am often asked about the run rate of SG&A.
+I consider the first quarter a fairly clean quarter within SG&A at ADESA.
+SG&A includes 25% of a full year bonus and a full quarter of BacklotCars' expenses.
+We did complete the migration of the TradeRev U.S. platform to BacklotCars and may have the opportunity to realize additional synergies in future quarters that may offset additional costs as we enter new markets.
+The AFC segment also performed well in the first quarter.
+Operating profit was essentially flat with the prior year.
+Adjusted EBITDA for the first quarter was up 10% year-over-year.
+We saw our loan portfolio decline through most of 2020 and are now seeing the portfolio grow, as strong wholesale prices result in higher average loan balances per vehicle floored.
+While lower transaction volumes in all auction channels were clearly a headwind for AFC, we saw strong unit economics with revenue per loan transaction up to 177 from 155 a year ago.
+We also have reduced total SG&A in the AFC segment by 12% compared to the first quarter of 2020.
+We had a significant decline in the provision for credit losses in the first quarter as compared to the prior year as well.
+This decline reflects the strength in the wholesale used car market despite the constraints on supply.
+I will also point out that the allowance for credit losses was increased $3.5 million over the year-end balance in this allowance.
+We recognize in the allowance the expected losses for loans originated.
+I consider this a conservative position given the strong credit performance we are seeing in the market today.
+A strength of the KAR business model is the cash-generating characteristics of the business.
+As you can see in our statement of cash flows, we generated $165 million in cash from operations.
+Typically, we see the first quarter as a consumer of working capital through most of the quarter, but a characteristic of a tight supply environment is faster turn times for services and reduced cycle times for the sale of vehicles.
+This creates a very positive situation for our cash position.
+As Peter mentioned previously, the outlook for the remainder of the year is likely to be constrained supply of vehicles.
+One of the positives in this supply environment is it will be very good for generating cash from operations.
+With our strong cash position and our outlook to continue generating strong free cash flows, it is important that we continue to have a balanced prioritization of capital allocation.
+In the first quarter, we purchased $80 million of KAR stock in the open market at an average price of $15.47 per share.
+Our open window was very limited in the first quarter, and this represented the maximum number of shares we could purchase during the open window.
+To the extent we acquire shares in the open market at attractive prices, we can offset the dilution created by our issuance of the preferred stock last year.
+We are being disciplined in our share repurchase program and have approximately $210 million remaining on our share repurchase authorization.
+We also utilized $80 million of cash for the purchase of Auction Frontier this week.
+This acquisition is clearly aligned with our strategy, as the Auction Frontier technology is an integral part of the digital marketplaces we operate, as well as others operated in our industry.
+In addition to the cash paid at closing, the transaction includes $15 million in contingent consideration tied to customer retention.
+The contingent consideration is payable in two years if the terms of the contingency are met.
+We still want to be conservative, as it relates to our cash balances and deploying capital.
+We think it is a real asset right now to have a strong cash balance.
+With that said, we will continue to generate strong cash flows in our businesses while investing in growth, especially in the digital dealer-to-dealer marketplace.
+Now let me speak to the gains on investments we had in the first quarter.
+Over the past several years, we have taken the opportunity to develop strategic relationships with certain early stage retail used car businesses.
+These strategic relationships were centered around providing our services to support the development and growth of these businesses.
+In some cases, we have taken the opportunity to participate in investing in capital raises by these businesses to demonstrate our commitment to supporting them.
+These investments have all been minority positions.
+Two of these investments that have been publicly disclosed are CarLotz, and most recently, Ravin AI.
+We have made other investments that have not been publicly disclosed, and those investments were all less than $5 million each.
+The primary goal when making investments in these enterprises is to establish a strong strategic relationship.
+And we feel this goal has been achieved in each situation we have deployed capital.
+And now we are seeing the recognition of the value of the businesses created by these early stage enterprises in significant appreciation of our investments.
+All of these investments are carried at cost until the underlying securities become quoted on an established stock market or the investment is monetizing cash through an alternative transaction.
+In the first quarter, we realized approximately $17 million in realized gains from proceeds from the sale of equity securities.
+We have an additional $43 million in unrealized gains on equity securities that are now publicly traded.
+We are currently restricted on the sale of these equity securities and those restrictions lapse later this year.
+For clarity, both realized and unrealized gains are included in operating adjusted net income.
+As adjusted EBITDA excludes noncash items, we have excluded the unrealized gains in the computation of adjusted EBITDA.
+We will continue to periodically invest in early stage businesses that we see operating in our marketplace.
+However, we do not expect these situations to be common and are not expected to be a material use of capital.
+At that time, Peter will provide a detailed review of our strategy and what the future of KAR holds for our investors.
+We will get a safer date out as soon as the details are finalized, but we continue to -- we wanted to give you early notice of this event.
+This will give Peter the opportunity to go into much more detail on our strategy, what our business model will look like in a fully digital world and highlight the many competitive advantages KAR Global has, as we look forward.

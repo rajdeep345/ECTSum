@@ -1,0 +1,4 @@
+compname reports q2 diluted earnings of $2.50 per share.
+compname reports second quarter diluted earnings of $2.50 per share and declares quarterly dividend of $1.00 per share.
+q2 earnings per share $2.50.
+q2 sales $200.1 million.
