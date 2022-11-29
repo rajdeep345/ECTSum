@@ -1,11 +1,11 @@
+# %%writefile main.py
 #!/usr/bin/env python3
 
-import subprocess as sp
-import os
 import json
 import models
 import utils
-import argparse,random,logging,numpy,os
+import argparse,random,logging,os
+import subprocess as sp
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -17,12 +17,15 @@ from torch.nn.utils import clip_grad_norm
 from time import time
 from tqdm import tqdm
 
+from ect_utils import *
+
 import warnings
 warnings.filterwarnings("ignore")
 logging.getLogger("summaRunner_finBERT").setLevel(logging.ERROR)
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [INFO] %(message)s')
 parser = argparse.ArgumentParser(description='extractive summary')
+
 # model
 parser.add_argument('-save_dir',type=str,default='checkpoints/')
 # parser.add_argument('-embed_dim',type=int,default=100)
@@ -34,13 +37,13 @@ parser.add_argument('-kernel_num',type=int,default=100)
 parser.add_argument('-kernel_sizes',type=str,default='3,4,5')
 parser.add_argument('-model',type=str,default='RNN_RNN')
 parser.add_argument('-hidden_size',type=int,default=300)
+
 # train
 parser.add_argument('-lr',type=float,default=1e-5)
 parser.add_argument('-batch_size',type=int,default=2)
 parser.add_argument('-acc_steps',type=int,default=8)
 parser.add_argument('-epochs',type=int,default=4)
 parser.add_argument('-seed',type=int,default=43)
-parser.add_argument('-exp',type=str,default='exp1')
 # parser.add_argument('-train_dir',type=str,default='data/final/exp1/train.json')
 # parser.add_argument('-val_dir',type=str,default='data/final/exp1/val.json')
 parser.add_argument('-embedding',type=str,default='data/embedding.npz')
@@ -48,6 +51,8 @@ parser.add_argument('-word2id',type=str,default='data/word2id.json')
 parser.add_argument('-report_every',type=int,default=16)
 # parser.add_argument('-seq_trunc',type=int,default=50)
 parser.add_argument('-max_norm',type=float,default=1.0)
+parser.add_argument('-exp',type=str,default='exp1')
+
 # test
 parser.add_argument('-load_dir',type=str,default='checkpoints/RNN_RNN_seed_43.pt')
 # parser.add_argument('-test_dir',type=str,default='data/final/exp1/test.json')
@@ -55,8 +60,10 @@ parser.add_argument('-load_dir',type=str,default='checkpoints/RNN_RNN_seed_43.pt
 # parser.add_argument('-hyp',type=str,default='outputs/final/exp1/hyp')
 parser.add_argument('-filename',type=str,default='input.txt') # TextFile to be summarized
 parser.add_argument('-topk',type=int,default=16)
+
 # device
 parser.add_argument('-device',type=int,default=0)
+
 # option
 parser.add_argument('-test',action='store_true')
 parser.add_argument('-debug',action='store_true')
@@ -68,6 +75,12 @@ val_dir = f'data/final/{args.exp}/val.json'
 test_dir = f'data/final/{args.exp}/test.json'
 ref = f'outputs/final/{args.exp}/ref'
 hyp = f'outputs/final/{args.exp}/hyp'
+
+# train_dir = f'data/train.json'
+# val_dir = f'data/val.json'
+# test_dir = f'data/test.json'
+# ref = f'outputs/ref'
+# hyp = f'outputs/hyp'
 
 use_gpu = args.device is not None
 if torch.cuda.is_available() and not use_gpu:
@@ -84,19 +97,35 @@ numpy.random.seed(args.seed)
 if not os.path.isdir(args.save_dir):
 	os.makedirs(args.save_dir)
 
+
+# Function to get the weight of a sentence
+# Weight = 1 if the sentence contains numerical values, 0 otherwise
+def get_sent_weights(doc):
+    sent_weights = []
+    doc_lines = doc.split('\n')
+    processed_lines = getProcessedLines(doc_lines)
+    assert len(doc_lines) == len(processed_lines)
+    for i in range(len(processed_lines)):
+        if '[NUM]' in processed_lines[i]:
+            sent_weights.append('1')
+        else:
+            sent_weights.append('0')
+    return '\n'.join(sent_weights)
+
+
 def eval(net, vocab, data_iter, criterion):
 	net.eval()
 	with torch.no_grad():		
 		total_loss = 0
 		batch_num = 0
 		for batch in data_iter:
-			input_ids, attention_masks, targets, _, doc_lens = vocab.make_features(batch)
-			input_ids, attention_masks, targets = Variable(input_ids), Variable(attention_masks), Variable(targets.float())
+			input_ids, attention_masks, targets, _, doc_lens, sent_weights = vocab.make_features(batch)
+			input_ids, attention_masks, targets, sent_weights = Variable(input_ids), Variable(attention_masks), Variable(targets.float()), Variable(sent_weights.float())			
 			if use_gpu:				
 				input_ids = input_ids.cuda()
 				attention_masks = attention_masks.cuda()
 				targets = targets.cuda()
-			probs = net(input_ids, attention_masks, doc_lens)
+			probs = net(input_ids, attention_masks, doc_lens, sent_weights)
 			loss = criterion(probs, targets)
 			total_loss += loss.item()
 			batch_num += 1
@@ -122,10 +151,14 @@ def train():
 
 	with open(train_dir) as f:
 		examples = [json.loads(line) for line in f]
+		for ex in examples:
+			ex['sent_weights'] = get_sent_weights(ex['doc'])
 	train_dataset = utils.Dataset(examples)
 
 	with open(val_dir) as f:
 		examples = [json.loads(line) for line in f]
+		for ex in examples:
+			ex['sent_weights'] = get_sent_weights(ex['doc'])
 	val_dataset = utils.Dataset(examples)
 
 	# update args
@@ -168,12 +201,12 @@ def train():
 		t_loss = 0
 		s_loss = 0
 		for i,batch in enumerate(train_iter):
-			input_ids, attention_masks, targets, _, doc_lens = vocab.make_features(batch)
-			input_ids, attention_masks, targets = Variable(input_ids), Variable(attention_masks), Variable(targets.float())
+			input_ids, attention_masks, targets, _, doc_lens, sent_weights = vocab.make_features(batch)
+			input_ids, attention_masks, targets, sent_weights = Variable(input_ids), Variable(attention_masks), Variable(targets.float()), Variable(sent_weights.float())
 			if use_gpu:
 				input_ids = input_ids.cuda()
 				attention_masks = attention_masks.cuda()
-			probs = net(input_ids, attention_masks, doc_lens)
+			probs = net(input_ids, attention_masks, doc_lens, sent_weights)
 			del input_ids
 			del attention_masks
 			# torch.cuda.empty_cache()
@@ -241,6 +274,8 @@ def test():
 
 	with open(test_dir) as f:
 		examples = [json.loads(line) for line in f]
+		for ex in examples:
+			ex['sent_weights'] = get_sent_weights(ex['doc'])
 	test_dataset = utils.Dataset(examples)
 
 	test_iter = DataLoader(dataset=test_dataset, batch_size=args.batch_size, shuffle=False)
@@ -263,8 +298,8 @@ def test():
 	time_cost = 0
 	file_count = 0
 	for batch in tqdm(test_iter):
-		input_ids, attention_masks, targets, summaries, doc_lens  = vocab.make_features(batch)
-		input_ids, attention_masks, targets = Variable(input_ids), Variable(attention_masks), Variable(targets.float())
+		input_ids, attention_masks, targets, summaries, doc_lens, sent_weights = vocab.make_features(batch)
+		input_ids, attention_masks, targets, sent_weights = Variable(input_ids), Variable(attention_masks), Variable(targets.float()), Variable(sent_weights.float())
 		t1 = time()
 		if use_gpu:
 			input_ids = input_ids.cuda()
@@ -280,7 +315,9 @@ def test():
 		for doc_id, doc_len in enumerate(doc_lens):
 			stop = start + doc_len
 			prob = probs[start:stop]
+			# topk_elems = min(args.topk, doc_len)
 			topk_values, topk_indices = [], []
+			# values, indices = prob.topk(topk_elems)
 			
 			# Select all sentences with probability score >= 0.5
 			values, indices = prob.topk(doc_len)
@@ -299,24 +336,10 @@ def test():
 						topk_indices.append(i)
 						remaining -= 1
 						if remaining == 0:
-							break
-			
-			# topk_elems = min(args.topk, doc_len)			
-			# values, indices = prob.topk(topk_elems)			
-			# topk_values, topk_indices = [], []			
-			# #Consider predictions with >=0.5 prob score
-			# for v, i in zip(values, indices):
-			# 	if v >= 0.5:
-			# 		topk_values.append(v.cpu().data.numpy())
-			# 		topk_indices.append(i.cpu().data.numpy())
-			# if(len(topk_values) == 0):
-			# 	print(f"No predictions with >=0.5 prob_score in file: [{file_names[file_count]}]")
-			# 	print(f"Prob Scores: {values}")
-			# 	for v, i in zip(values, indices):
-			# 		topk_values.append(v.cpu().data.numpy())
-			# 		topk_indices.append(i.cpu().data.numpy())
+							break			
 
 			# topk_indices.sort()
+			
 			doc = batch['doc'][doc_id].split('\n')[:doc_len]
 			_hyp = [doc[index] for index in topk_indices]
 			if not os.path.isdir(hyp):
@@ -364,17 +387,19 @@ def predict(examples):
 	time_cost = 0
 	file_id = 1
 	for batch in tqdm(pred_iter):
-		input_ids, attention_masks, doc_lens  = vocab.make_predict_features(batch)
-		input_ids, attention_masks = Variable(input_ids), Variable(attention_masks)
+		input_ids, attention_masks, doc_lens, sent_weights  = vocab.make_predict_features(batch)
+		input_ids, attention_masks, sent_weights = Variable(input_ids), Variable(attention_masks), Variable(sent_weights.float())
 		t1 = time()
 		if use_gpu:
 			input_ids = input_ids.cuda()
 			attention_masks = attention_masks.cuda()
-			probs = net(input_ids, attention_masks, doc_lens)
-		else:
-			probs = net(input_ids, attention_masks, doc_lens)
+		probs = net(input_ids, attention_masks, doc_lens)
+		del input_ids
+		del attention_masks
+		torch.cuda.empty_cache()
 		t2 = time()
 		time_cost += t2 - t1
+		
 		start = 0
 		for doc_id, doc_len in enumerate(doc_lens):
 			stop = start + doc_len
@@ -387,10 +412,10 @@ def predict(examples):
 				if v >= 0.5:
 					topk_values.append(v.cpu().data.numpy())
 					topk_indices.append(i.cpu().data.numpy())
-
-			# Select additional sentences if len(topk_values) < topk_elems
-			if len(topk_values) < topk_elems:
-				remaining = topk_elems - len(topk_values)
+			
+			# Select additional sentences if len(topk_values) < args.topk
+			if len(topk_values) < args.topk:
+				remaining = args.topk - len(topk_values)
 				for v, i in zip(values, indices):
 					i = i.cpu().data.numpy()
 					if i not in topk_indices:
@@ -398,32 +423,19 @@ def predict(examples):
 						topk_indices.append(i)
 						remaining -= 1
 						if remaining == 0:
-							break
-
-			# topk_elems = min(args.topk, doc_len)			
-			# values, indices = prob.topk(topk_elems)			
-			# topk_values, topk_indices = [], []			
-			# #Consider predictions with >=0.5 prob score
-			# for v, i in zip(values, indices):
-			# 	if v >= 0.5:
-			# 		topk_values.append(v.cpu().data.numpy())
-			# 		topk_indices.append(i.cpu().data.numpy())
-			# if(len(topk_values) == 0):
-			# 	print(f"No predictions with >=0.5 prob_score in file: [{file_names[file_count]}]")
-			# 	print(f"Prob Scores: {values}")
-			# 	for v, i in zip(values, indices):
-			# 		topk_values.append(v.cpu().data.numpy())
-			# 		topk_indices.append(i.cpu().data.numpy())
+							break			
 			
-			topk_indices.sort()			
-			doc = batch[doc_id].split('. ')[:doc_len]
+			# topk_indices.sort()			
+			
+			doc = batch[doc_id].split('\n')[:doc_len]
 			_hyp = [doc[index] for index in topk_indices]
 			if not os.path.isdir(hyp):
 				os.makedirs(hyp)
 			with open(os.path.join(hyp, str(file_id) + '.txt'), 'w') as f:
-				f.write('. '.join(_hyp))
+				f.write('\n'.join(_hyp))
 			start = stop
 			file_id = file_id + 1
+	
 	logging.info(f'Speed: {(doc_num / time_cost)} docs / s' )
 
 
@@ -435,8 +447,12 @@ if __name__=='__main__':
 	elif args.predict:
 		logging.info("PREDICTING")
 		with open(args.filename) as file:
-			bod = [file.read()]
-		predict(bod)
+			# bod = [file.read()]
+			examples = [json.loads(line) for line in file]
+			for ex in examples:
+				ex['sent_weights'] = get_sent_weights(ex['doc'])
+		# predict(bod)
+		predict(examples)
 	else:
 		logging.info("TRAINING")
 		train()

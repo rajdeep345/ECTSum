@@ -43,6 +43,7 @@ def build_vocab(args):
     with open(args.word2id,'w') as f:
         json.dump(word2id,f)
 
+
 def worker(files):
     examples = []
     for f in files:
@@ -74,6 +75,7 @@ def worker(files):
         examples.append(ex)
     return examples
 
+
 def build_dataset(args):
     t1 = time()
     
@@ -101,6 +103,9 @@ def build_dataset(args):
 
     t2 = time()
     print('Time Cost : %.1f seconds' % (t2 - t1))
+
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()

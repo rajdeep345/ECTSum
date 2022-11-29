@@ -1,3 +1,5 @@
+# %%writefile models/RNN_RNN.py
+
 from .BasicModule import BasicModule
 import subprocess as sp
 import os
@@ -73,7 +75,7 @@ class RNN_RNN(BasicModule):
 		out = torch.cat(out).squeeze(2)
 		return out
 
-	def forward(self, input_ids, attention_masks, doc_lens):
+	def forward(self, input_ids, attention_masks, doc_lens, sent_weights):
 		outputs = self.bert_m(input_ids=input_ids, attention_mask=attention_masks)
 		
 		# hidden representation of last layer 
@@ -133,6 +135,7 @@ class RNN_RNN(BasicModule):
 				abs_p = self.abs_pos(abs_features)
 				rel_p = self.rel_pos(rel_features)
 				prob = F.sigmoid(content + salience + novelty + abs_p + rel_p + self.bias)
+				prob = prob*sent_weights[index]
 				s = s + torch.mm(prob, h)
 				probs.append(prob)
 		

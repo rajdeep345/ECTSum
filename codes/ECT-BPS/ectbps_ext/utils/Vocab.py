@@ -1,3 +1,5 @@
+# %%writefile utils/Vocab.py
+
 import torch
 from transformers import BertTokenizer, BertModel
 tokenizer = BertTokenizer.from_pretrained('ProsusAI/finbert')
@@ -29,18 +31,22 @@ class Vocab():
 	#         return self.UNK_IDX
 
 	def make_features(self, batch, sent_trunc=64, doc_trunc=800, split_token='\n'):
-		sents_list, targets, doc_lens = [], [], []
+		sents_list, targets, doc_lens, sent_weights = [], [], [], []
 		
 		# trunc document
-		for doc, label in zip(batch['doc'], batch['labels']):
+		for doc, label, sent_weight in zip(batch['doc'], batch['labels'], batch['sent_weights']):
 			sents = doc.split(split_token)
 			labels = label.split(split_token)
 			labels = [int(l) for l in labels]
+			s_weights = sent_weight.split(split_token)
+			s_weights = [int(n) for n in s_weights]
 			max_sent_num = min(doc_trunc, len(sents))
 			sents = sents[:max_sent_num]
 			labels = labels[:max_sent_num]
+			s_weights = s_weights[:max_sent_num]
 			sents_list += sents
 			targets += labels
+			sent_weights += s_weights
 			doc_lens.append(len(sents))
 		
 		# # trunc or pad sent
@@ -72,18 +78,22 @@ class Vocab():
 		input_ids = torch.cat(input_ids, dim=0)
 		attention_masks = torch.cat(attention_masks, dim=0)
 		targets = torch.LongTensor(targets)
+		sent_weights = torch.LongTensor(sent_weights)
 		summaries = batch['summaries']
 
-		return input_ids, attention_masks, targets, summaries, doc_lens
+		return input_ids, attention_masks, targets, summaries, doc_lens, sent_weights
 
 	
 	def make_predict_features(self, batch, sent_trunc=64, doc_trunc=800, split_token='. '):
-		sents_list, doc_lens = [], []
-		for doc in batch:
+		sents_list, doc_lens, sent_weights = [], [], []
+		for doc, sent_weight in zip(batch['doc'], batch['sent_weights']):
 			sents = doc.split(split_token)
 			max_sent_num = min(doc_trunc, len(sents))
 			sents = sents[:max_sent_num]
 			sents_list += sents
+			s_weights = sent_weight.split(split_token)
+			s_weights = [int(n) for n in s_weights]
+			sent_weights += s_weights
 			doc_lens.append(len(sents))
 
 		# # trunc or pad sent
@@ -120,5 +130,6 @@ class Vocab():
 			
 		input_ids = torch.cat(input_ids, dim=0)
 		attention_masks = torch.cat(attention_masks, dim=0)
+		sent_weights = torch.LongTensor(sent_weights)
 
-		return  input_ids, attention_masks, doc_lens
+		return  input_ids, attention_masks, doc_lens, sent_weights
