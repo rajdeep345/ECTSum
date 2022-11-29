@@ -1,9 +1,9 @@
 # ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts
 
 Long Paper Accepted at the <b> EMNLP 2022 Main Conference! </b> <br /> 
-ArXiv Preprint: https://arxiv.org/pdf/2210.12467.pdf
-Poster: https://rajdeep345.github.io/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf
-Pre-recorded Video: https://drive.google.com/file/d/1DW2i2ApgiE6V7ViiayX5zdJSRXdAEbsy/view
+<li> ArXiv Preprint: https://arxiv.org/pdf/2210.12467.pdf </li>
+<li> Poster: https://rajdeep345.github.io/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf </li>
+<li> Pre-recorded Video: https://drive.google.com/file/d/1DW2i2ApgiE6V7ViiayX5zdJSRXdAEbsy/view </li>
 
 ## Dataset
 The <b> <i> ECTSum </b> </i> dataset can be found under the `data` folder.
