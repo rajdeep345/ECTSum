@@ -60,8 +60,8 @@ def prepare_data(dataPath, out_path, split):
 		if file.endswith('.txt'):
 			f_ect_in = open(f'{ect_path}{file}', 'r')
 			doc_lines = [line.strip() for line in f_ect_in.readlines()]
-			if len(doc_lines) > 300:
-				continue
+			# if len(doc_lines) > 300:
+			# 	continue
 			doc_lines_pp = [getPartiallyProcessedText(line) for line in doc_lines]
 			assert len(doc_lines) == len(doc_lines_pp)
 			
