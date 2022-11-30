@@ -9,8 +9,19 @@ Long Paper Accepted at the <b> EMNLP 2022 Main Conference! </b> <br />
 The <b> <i> ECTSum </b> </i> dataset can be found under the `data` folder.
 
 ## Codes
-Codes and instructions for our proposed model <b> <i> ECTSum </b> </i> can be found under `codes/ECT-BPS` <br />
+Codes and instructions for our proposed model <b> <i> ECT-BPS </b> </i> can be found under `codes/ECT-BPS` <br />
 Codes and instructions for our baseline models can be found under `codes/baselines`
+
+## Data Preparation for ECT-BPS
+### Preparing the data for training the <b> Extractive Module </b>
+#### Imports
+`!pip install sentence-transformers
+!pip install num2words
+!pip install word2number
+`
+#### Prepare the data
+`python prepare_data_ectbps_ext.py`
+
 
 ## Updates
 <li> 1st November 2022 - ECTSum Dataset released </li>
