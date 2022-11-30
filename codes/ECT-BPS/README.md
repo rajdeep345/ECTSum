@@ -1,3 +1,3 @@
 # ECT-BPS: A Bullet Point Summarizer for Earnings Call Transcripts
 
-(./model.PNG)
+![ECT-BPS Model Architecture](model.PNG)
