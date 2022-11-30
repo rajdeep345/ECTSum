@@ -124,7 +124,7 @@ def prepare_data(dataPath, out_path, split):
 			entry['labels'] = '\n'.join(str(val) for val in labels_new)
 			entries.append(entry)
 			file_names.append(file)
-			print(f'{file} - Total Lines: {len(doc_lines)} \t Summary Lines: {len(ext_lines)}')
+			print(f'{file} - Original Lines: {len(doc_lines)} \t Total Lines: {len(doc_lines_new)} \t Summary Lines: {len(ext_lines)}')
 
 	with open(f'{out_path}/{split}.json', 'w') as f_out:
 		for entry in entries:
