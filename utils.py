@@ -1,11 +1,15 @@
 import os
 import re
-import rouge
 import random
 from num2words import num2words
 from word2number import w2n
 from collections import Counter
 from nltk import ngrams
+
+# ------------------------------------------------------------------------
+# pip install num2words
+# pip install word2number
+# ------------------------------------------------------------------------
 
 alphabets= "([A-Za-z])"
 prefixes = "(Mr|St|Mrs|Ms|Dr|Prof|Capt|Cpt|Lt|Mt)[.]"
@@ -85,3 +89,66 @@ def getPartiallyProcessedText(line):
 		text = text.replace(f'code {match}', '[PASSCODE]')
 	text = ' '.join(word if '[PASSCODE]' not in word else '[PASSCODE]' for word in text.split()).strip()
 	return text
+
+
+def getProcessedLines(lines):
+	covid = ['Covid-19', 'Covid 19', "Covid'19"]
+	months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'September', 'October', 'November', 'December']
+	months_short = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Sep', 'Sept', 'Oct', 'Nov', 'Dec']
+	years = [f'20{year}' for year in range(10, 30)]
+	processed_lines = []
+	for line in lines:
+		text = line.strip()
+		for match in covid:
+			text = text.replace(match, 'Covid')
+			text = text.replace(match.lower(), 'covid')
+			text = text.replace(match.upper(), 'COVID')
+		while re.search(phone1, text):
+			text = text.replace(re.search(phone1, text).group(0), '[PHONENUM]')
+			text = text.replace('1-[PHONENUM]', '[PHONENUM]')
+		while re.search(phone2, text):
+			text = text.replace(re.search(phone2, text).group(0), '[PHONENUM]')
+		while re.search(pattern4, text):
+			text = text.replace(re.search(pattern4, text).group(0), '[TXT-NUM]')
+		while re.search(pattern5, text):
+			text = text.replace(re.search(pattern5, text).group(0), '[NUM-TXT]')
+		while re.search(fiscal_year, text):
+			match = re.search(fiscal_year, text).group(0)
+			# text = text.replace(match, f' 20{match[1:]}')
+			text = text.replace(match, '[YEAR]')
+		for short_year in range(10, 30):
+			text = text.replace(f'fy{short_year}', f'financial year [YEAR]')
+			text = text.replace(f'FY{short_year}', f'financial year [YEAR]')
+			text = text.replace(f'Fy{short_year}', f'financial year [YEAR]')
+		while re.search(time1, text):
+			text = text.replace(re.search(time1, text).group(0), '[TIME] ')
+		while re.search(time2, text):
+			text = text.replace(re.search(time2, text).group(0), '[TIME] ')
+		text = re.sub(r'\s\s+', r' ', text)
+		text = text.replace('[TIME] a.m.', '[TIME]')
+		text = text.replace('[TIME] A.M.', '[TIME]')
+		text = text.replace('[TIME] p.m.', '[TIME]')
+		text = text.replace('[TIME] P.M.', '[TIME]')
+		if re.search(pattern7, text):
+			for match in re.findall(pattern7, text):
+				if match in years:
+					text = text.replace(match, '[YEAR]')
+			if re.search(pattern7, text):
+				while re.search(pattern7, text):
+					text = text.replace(re.search(pattern7, text).group(0), '[NUM]')
+				for month in months:
+					text = text.replace(f'{month} [NUM]', '[DATE]')
+					text = text.replace(f'{month.lower()} [NUM]', '[DATE]')
+					text = text.replace(f'{month.upper()} [NUM]', '[DATE]')
+				for month in months_short:
+					text = text.replace(f'{month} [NUM]', '[DATE]')
+					text = text.replace(f'{month.lower()} [NUM]', '[DATE]')
+					text = text.replace(f'{month.upper()} [NUM]', '[DATE]')
+				text = text.replace(f'slide [NUM]', '[SLIDE-NUM]')
+				text = text.replace(f'Slide [NUM]', '[SLIDE-NUM]')
+				text = text.replace(f'passcode [NUM]', '[PASSCODE]')
+				text = text.replace(f'code [NUM]', '[PASSCODE]')
+		text = ' '.join(word if '[PASSCODE]' not in word else '[PASSCODE]' for word in text.split()).strip()
+		processed_lines.append(text)
+	
+	return processed_lines

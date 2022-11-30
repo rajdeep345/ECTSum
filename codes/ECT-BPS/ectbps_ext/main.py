@@ -44,20 +44,21 @@ parser.add_argument('-batch_size',type=int,default=2)
 parser.add_argument('-acc_steps',type=int,default=8)
 parser.add_argument('-epochs',type=int,default=4)
 parser.add_argument('-seed',type=int,default=43)
-# parser.add_argument('-train_dir',type=str,default='data/final/exp1/train.json')
-# parser.add_argument('-val_dir',type=str,default='data/final/exp1/val.json')
+parser.add_argument('-train_dir',type=str,default='data/final/train.json')
+parser.add_argument('-val_dir',type=str,default='data/final/val.json')
 parser.add_argument('-embedding',type=str,default='data/embedding.npz')
 parser.add_argument('-word2id',type=str,default='data/word2id.json')
 parser.add_argument('-report_every',type=int,default=16)
 # parser.add_argument('-seq_trunc',type=int,default=50)
 parser.add_argument('-max_norm',type=float,default=1.0)
-parser.add_argument('-exp',type=str,default='exp1')
 
 # test
+# The model gets saved with the name 'RNN_RNN_seed_{seed}.pt'
+# Load your model according to the seed value used depending training.
 parser.add_argument('-load_dir',type=str,default='checkpoints/RNN_RNN_seed_43.pt')
-# parser.add_argument('-test_dir',type=str,default='data/final/exp1/test.json')
-# parser.add_argument('-ref',type=str,default='outputs/final/exp1/ref')
-# parser.add_argument('-hyp',type=str,default='outputs/final/exp1/hyp')
+parser.add_argument('-test_dir',type=str,default='data/final/test.json')
+parser.add_argument('-ref',type=str,default='outputs/ref')
+parser.add_argument('-hyp',type=str,default='outputs/hyp')
 parser.add_argument('-filename',type=str,default='input.txt') # TextFile to be summarized
 parser.add_argument('-topk',type=int,default=16)
 
@@ -69,18 +70,6 @@ parser.add_argument('-test',action='store_true')
 parser.add_argument('-debug',action='store_true')
 parser.add_argument('-predict',action='store_true')
 args = parser.parse_args()
-
-train_dir = f'data/final/{args.exp}/train.json'
-val_dir = f'data/final/{args.exp}/val.json'
-test_dir = f'data/final/{args.exp}/test.json'
-ref = f'outputs/final/{args.exp}/ref'
-hyp = f'outputs/final/{args.exp}/hyp'
-
-# train_dir = f'data/train.json'
-# val_dir = f'data/val.json'
-# test_dir = f'data/test.json'
-# ref = f'outputs/ref'
-# hyp = f'outputs/hyp'
 
 use_gpu = args.device is not None
 if torch.cuda.is_available() and not use_gpu:
@@ -149,13 +138,13 @@ def train():
 	embed, word2id = None, None
 	vocab = utils.Vocab(embed, word2id)
 
-	with open(train_dir) as f:
+	with open(args.train_dir) as f:
 		examples = [json.loads(line) for line in f]
 		for ex in examples:
 			ex['sent_weights'] = get_sent_weights(ex['doc'])
 	train_dataset = utils.Dataset(examples)
 
-	with open(val_dir) as f:
+	with open(args.val_dir) as f:
 		examples = [json.loads(line) for line in f]
 		for ex in examples:
 			ex['sent_weights'] = get_sent_weights(ex['doc'])
@@ -272,7 +261,7 @@ def test():
 		file_names = f.readlines()
 	file_names = [x.strip() for x in file_names]
 
-	with open(test_dir) as f:
+	with open(args.test_dir) as f:
 		examples = [json.loads(line) for line in f]
 		for ex in examples:
 			ex['sent_weights'] = get_sent_weights(ex['doc'])
@@ -342,14 +331,14 @@ def test():
 			
 			doc = batch['doc'][doc_id].split('\n')[:doc_len]
 			_hyp = [doc[index] for index in topk_indices]
-			if not os.path.isdir(hyp):
-				os.makedirs(hyp)
-			with open(os.path.join(hyp, file_names[file_count]), 'w') as f:
+			if not os.path.isdir(args.hyp):
+				os.makedirs(args.hyp)
+			with open(os.path.join(args.hyp, file_names[file_count]), 'w') as f:
 				f.write('\n'.join(_hyp))
 			_ref = summaries[doc_id]
-			if not os.path.isdir(ref):
-				os.makedirs(ref)
-			with open(os.path.join(ref, file_names[file_count]), 'w') as f:
+			if not os.path.isdir(args.ref):
+				os.makedirs(args.ref)
+			with open(os.path.join(args.ref, file_names[file_count]), 'w') as f:
 				f.write(_ref)
 			start = stop
 			file_count = file_count + 1
@@ -429,9 +418,9 @@ def predict(examples):
 			
 			doc = batch[doc_id].split('\n')[:doc_len]
 			_hyp = [doc[index] for index in topk_indices]
-			if not os.path.isdir(hyp):
-				os.makedirs(hyp)
-			with open(os.path.join(hyp, str(file_id) + '.txt'), 'w') as f:
+			if not os.path.isdir(args.hyp):
+				os.makedirs(args.hyp)
+			with open(os.path.join(args.hyp, str(file_id) + '.txt'), 'w') as f:
 				f.write('\n'.join(_hyp))
 			start = stop
 			file_id = file_id + 1

@@ -1,11 +1,15 @@
 import os
 import re
-import rouge
 import random
 from num2words import num2words
 from word2number import w2n
 from collections import Counter
 from nltk import ngrams
+
+# ------------------------------------------------------------------------
+# pip install num2words
+# pip install word2number
+# ------------------------------------------------------------------------
 
 alphabets= "([A-Za-z])"
 prefixes = "(Mr|St|Mrs|Ms|Dr|Prof|Capt|Cpt|Lt|Mt)[.]"
