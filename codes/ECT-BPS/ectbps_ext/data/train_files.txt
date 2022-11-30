@@ -168,6 +168,7 @@ FSS_q3_2021.txt
 LW_q3_2021.txt
 MTD_q4_2019.txt
 DRH_q2_2020.txt
+EME_q3_2020.txt
 D_q4_2021.txt
 CRL_q2_2021.txt
 SEM_q1_2021.txt
@@ -344,6 +345,7 @@ MYE_q3_2020.txt
 KIM_q2_2020.txt
 PBI_q3_2021.txt
 DG_q2_2020.txt
+BKU_q1_2020.txt
 CHE_q2_2021.txt
 H_q2_2021.txt
 VMI_q2_2021.txt
@@ -384,6 +386,7 @@ URI_q2_2021.txt
 GNE_q1_2020.txt
 LSI_q2_2021.txt
 NFG_q1_2020.txt
+SMG_q4_2021.txt
 GBX_q2_2021.txt
 RM_q3_2021.txt
 SSD_q1_2021.txt
@@ -788,6 +791,7 @@ PAY_q3_2021.txt
 KEY_q4_2020.txt
 BDC_q1_2021.txt
 SPG_q4_2021.txt
+EFX_q2_2021.txt
 AMP_q1_2021.txt
 NEU_q4_2020.txt
 OGE_q1_2021.txt
@@ -1394,6 +1398,7 @@ RNR_q2_2021.txt
 AVA_q4_2020.txt
 SCI_q1_2021.txt
 IVC_q3_2021.txt
+EME_q1_2021.txt
 CLW_q3_2021.txt
 AME_q2_2021.txt
 CMI_q2_2021.txt
@@ -1449,6 +1454,7 @@ SXI_q4_2020.txt
 EVR_q1_2021.txt
 CFR_q4_2019.txt
 FNF_q3_2021.txt
+BBY_q4_2021.txt
 SYK_q2_2021.txt
 CIR_q4_2020.txt
 WLL_q4_2021.txt

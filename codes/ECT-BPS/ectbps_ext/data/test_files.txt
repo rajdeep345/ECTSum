@@ -310,6 +310,7 @@ MG_q1_2020.txt
 NWN_q1_2021.txt
 NI_q3_2021.txt
 NLY_q2_2020.txt
+EFX_q3_2021.txt
 GHM_q1_2021.txt
 CRK_q2_2021.txt
 HCC_q1_2020.txt
@@ -396,6 +397,7 @@ RPM_q3_2022.txt
 CHE_q4_2020.txt
 GL_q2_2021.txt
 MBI_q4_2019.txt
+WBS_q1_2020.txt
 REX_q4_2020.txt
 MDC_q2_2020.txt
 SHW_q3_2021.txt
@@ -405,10 +407,12 @@ FSP_q1_2021.txt
 GCI_q1_2021.txt
 EPR_q3_2021.txt
 FDX_q2_2022.txt
+CHD_q4_2020.txt
 DNB_q2_2021.txt
 BDN_q1_2020.txt
 CBZ_q1_2021.txt
 OGE_q4_2020.txt
+LTC_q3_2020.txt
 SF_q3_2020.txt
 TXT_q1_2021.txt
 WAT_q2_2021.txt
