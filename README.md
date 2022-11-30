@@ -13,15 +13,19 @@ Codes and instructions for our proposed model <b> <i> ECT-BPS </b> </i> can be f
 Codes and instructions for our baseline models can be found under `codes/baselines`
 
 ## Data Preparation for ECT-BPS
-### Preparing the data for training the <b> Extractive Module </b>
+### Preparing the data for training the <i> Extractive Module </i>
+
 #### Imports
-`!pip install sentence-transformers
-!pip install num2words
-!pip install word2number
-`
+`pip install sentence-transformers` </br>
+`pip install num2words` </br>
+`pip install word2number` </br>
+
 #### Prepare the data
 `python prepare_data_ectbps_ext.py`
 
+#### Data Location
+The data is saved at `codes/ECT-BPS/ectbps_ext/data/`. </br>
+Processed data is already uploaded at this location.
 
 ## Updates
 <li> 1st November 2022 - ECTSum Dataset released </li>
