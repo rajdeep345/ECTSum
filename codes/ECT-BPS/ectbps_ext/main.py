@@ -54,7 +54,7 @@ parser.add_argument('-max_norm',type=float,default=1.0)
 
 # test
 # The model gets saved with the name 'RNN_RNN_seed_{seed}.pt'
-# Load your model according to the seed value used depending training.
+# Load your model according to the seed value used during training.
 parser.add_argument('-load_dir',type=str,default='checkpoints/RNN_RNN_seed_43.pt')
 parser.add_argument('-test_dir',type=str,default='data/final/test.json')
 parser.add_argument('-ref',type=str,default='outputs/ref')
