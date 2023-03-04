@@ -81,7 +81,7 @@ if use_gpu:
 torch.cuda.manual_seed(args.seed)
 torch.manual_seed(args.seed)
 random.seed(args.seed)
-numpy.random.seed(args.seed)
+np.random.seed(args.seed)
 
 if not os.path.isdir(args.save_dir):
 	os.makedirs(args.save_dir)
@@ -257,7 +257,7 @@ def test():
 	vocab = utils.Vocab(embed, word2id)
 
 	#Loading Test File Names
-	with open(f"data/{args.exp}/test_files.txt") as f:
+	with open(f"data/test_files.txt") as f:
 		file_names = f.readlines()
 	file_names = [x.strip() for x in file_names]
 
@@ -293,7 +293,7 @@ def test():
 		if use_gpu:
 			input_ids = input_ids.cuda()
 			attention_masks = attention_masks.cuda()
-		probs = net(input_ids, attention_masks, doc_lens)
+		probs = net(input_ids, attention_masks, doc_lens, sent_weights)
 		del input_ids
 		del attention_masks
 		torch.cuda.empty_cache()
@@ -382,7 +382,7 @@ def predict(examples):
 		if use_gpu:
 			input_ids = input_ids.cuda()
 			attention_masks = attention_masks.cuda()
-		probs = net(input_ids, attention_masks, doc_lens)
+		probs = net(input_ids, attention_masks, doc_lens, sent_weights)
 		del input_ids
 		del attention_masks
 		torch.cuda.empty_cache()
@@ -441,7 +441,7 @@ if __name__=='__main__':
 			lines = f_in.readlines()
 			lines = [line.strip() for line in lines]
 			processed_lines = getProcessedLines(lines)
-			assert len(lines) = len(processed_lines)
+			assert len(lines) == len(processed_lines)
 			num_lines = []
 			for i in range(len(processed_lines)):
 				if '[NUM]' in processed_lines[i]:

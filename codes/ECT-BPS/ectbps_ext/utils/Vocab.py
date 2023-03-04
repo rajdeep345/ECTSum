@@ -84,15 +84,15 @@ class Vocab():
 		return input_ids, attention_masks, targets, summaries, doc_lens, sent_weights
 
 	
-	def make_predict_features(self, batch, sent_trunc=64, doc_trunc=800, split_token='. '):
+	def make_predict_features(self, batch, sent_trunc=64, doc_trunc=800, split_token='\n'):
 		sents_list, doc_lens, sent_weights = [], [], []
 		for doc, sent_weight in zip(batch['doc'], batch['sent_weights']):
 			sents = doc.split(split_token)
-			max_sent_num = min(doc_trunc, len(sents))
-			sents = sents[:max_sent_num]
-			sents_list += sents
 			s_weights = sent_weight.split(split_token)
 			s_weights = [int(n) for n in s_weights]
+			max_sent_num = min(doc_trunc, len(sents))
+			sents = sents[:max_sent_num]
+			sents_list += sents			
 			sent_weights += s_weights
 			doc_lens.append(len(sents))
 

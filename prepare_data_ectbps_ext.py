@@ -51,8 +51,8 @@ def prepare_data(dataPath, out_path, split):
 	# ECT Documents on an average contain around 140 sentences.
 	# Corresponding Reuters articles on the other hand contain around 7 sentences on an average.
 	# Training an extractive summarizer with a compression ratio of 20:1 might be suboptimal. 
-	# Hence, judiciously select the value of 'topk', where 'topk' represents no. of nearest matching 
-	# ECT sentences to be selected corresponding to each summary sentence. 
+	# Hence, judiciously select the value of 'topk', where 'topk' represents the no. of nearest  
+	# matching ECT sentences to be selected corresponding to each summary sentence. 
 	topk = 1
 	file_names = []
 	entries = []
