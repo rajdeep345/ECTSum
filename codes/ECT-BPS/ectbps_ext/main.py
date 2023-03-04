@@ -44,8 +44,8 @@ parser.add_argument('-batch_size',type=int,default=2)
 parser.add_argument('-acc_steps',type=int,default=8)
 parser.add_argument('-epochs',type=int,default=4)
 parser.add_argument('-seed',type=int,default=43)
-parser.add_argument('-train_dir',type=str,default='data/final/train.json')
-parser.add_argument('-val_dir',type=str,default='data/final/val.json')
+parser.add_argument('-train_dir',type=str,default='data/train.json')
+parser.add_argument('-val_dir',type=str,default='data/val.json')
 parser.add_argument('-embedding',type=str,default='data/embedding.npz')
 parser.add_argument('-word2id',type=str,default='data/word2id.json')
 parser.add_argument('-report_every',type=int,default=16)
@@ -56,7 +56,7 @@ parser.add_argument('-max_norm',type=float,default=1.0)
 # The model gets saved with the name 'RNN_RNN_seed_{seed}.pt'
 # Load your model according to the seed value used during training.
 parser.add_argument('-load_dir',type=str,default='checkpoints/RNN_RNN_seed_43.pt')
-parser.add_argument('-test_dir',type=str,default='data/final/test.json')
+parser.add_argument('-test_dir',type=str,default='data/test.json')
 parser.add_argument('-ref',type=str,default='outputs/ref')
 parser.add_argument('-hyp',type=str,default='outputs/hyp')
 parser.add_argument('-filename',type=str,default='input.txt') # TextFile to be summarized
@@ -257,7 +257,7 @@ def test():
 	vocab = utils.Vocab(embed, word2id)
 
 	#Loading Test File Names
-	with open(f"data/final/{args.exp}/test_files.txt") as f:
+	with open(f"data/{args.exp}/test_files.txt") as f:
 		file_names = f.readlines()
 	file_names = [x.strip() for x in file_names]
 
@@ -365,7 +365,7 @@ def predict(examples):
 	# if at test time, we are using a CPU, we must override device to None
 	if not use_gpu:
 		checkpoint['args'].device = None
-	net = getattr(models,checkpoint['args'].model)(checkpoint['args'])
+	net = getattr(models, checkpoint['args'].model)(checkpoint['args'])
 	net.load_state_dict(checkpoint['model'])
 
 	if use_gpu:
@@ -416,7 +416,8 @@ def predict(examples):
 			
 			# topk_indices.sort()			
 			
-			doc = batch[doc_id].split('\n')[:doc_len]
+			# doc = batch[doc_id].split('\n')[:doc_len]
+			doc = batch['doc'][doc_id].split('\n')[:doc_len]
 			_hyp = [doc[index] for index in topk_indices]
 			if not os.path.isdir(args.hyp):
 				os.makedirs(args.hyp)
@@ -435,12 +436,20 @@ if __name__=='__main__':
 		test()
 	elif args.predict:
 		logging.info("PREDICTING")
-		with open(args.filename) as file:
-			# bod = [file.read()]
-			examples = [json.loads(line) for line in file]
-			for ex in examples:
-				ex['sent_weights'] = get_sent_weights(ex['doc'])
-		# predict(bod)
+		examples = []
+		with open(args.filename) as f_in:
+			lines = f_in.readlines()
+			lines = [line.strip() for line in lines]
+			processed_lines = getProcessedLines(lines)
+			assert len(lines) = len(processed_lines)
+			num_lines = []
+			for i in range(len(processed_lines)):
+				if '[NUM]' in processed_lines[i]:
+					num_lines.append(lines[i])
+			entry = {}
+			entry['doc'] = '\n'.join(num_lines)
+			entry['sent_weights'] = '\n'.join(['1' for line in num_lines])
+			examples = [entry]
 		predict(examples)
 	else:
 		logging.info("TRAINING")
