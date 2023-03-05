@@ -96,8 +96,8 @@ def prepare_data(dataPath, out_path, exp):
 				print(f'\n**************** No paraphrasing pairs for {file} *******************\n')
 				continue
 
-			doc_out = open(f'{out_path}/ects/{file}', 'w')
-			summ_out = open(f'{out_path}/gt_summaries/{file}', 'w')
+			doc_out = open(f'{out_path}/source/{file}', 'w')
+			summ_out = open(f'{out_path}/target/{file}', 'w')
 			assert len(d_lines) == len(s_lines)
 			for i in range(len(d_lines)):
 				doc_out.write(d_lines[i] + '\n')
