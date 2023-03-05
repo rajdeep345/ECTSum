@@ -1,0 +1,2 @@
+compname reports qtr-three adj earnings per share of $num-one.
+qtr-three adjusted earnings per share $num-one.

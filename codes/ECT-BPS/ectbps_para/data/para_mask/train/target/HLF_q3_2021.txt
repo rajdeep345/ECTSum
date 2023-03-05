@@ -1,0 +1,7 @@
+qtr-three sales fell num-two percent to $num-one billion.
+qtr-three sales fell num-two percent to $num-one billion.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+reiterating fy year-six outlook for top and bottom line.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.

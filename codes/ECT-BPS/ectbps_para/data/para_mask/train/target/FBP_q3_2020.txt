@@ -1,0 +1,3 @@
+compname reports qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+net interest income increased by $num-two million to $num-one million for qtr-three of year-five, compared to $135.2 million for qtr-two of year-five.

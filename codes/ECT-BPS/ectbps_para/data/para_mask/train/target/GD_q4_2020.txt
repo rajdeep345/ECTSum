@@ -1,0 +1,2 @@
+qtr-four earnings per share $num-three.
+company-wide operating margin for qtr-four was num-four%, up num-six basis points from the prior quarter.

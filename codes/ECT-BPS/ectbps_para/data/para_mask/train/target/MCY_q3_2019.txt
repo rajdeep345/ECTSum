@@ -1,0 +1,2 @@
+compname reports qtrly operating earnings per share $num-one.
+quarterly operating earnings per share $num-one.

@@ -1,0 +1,9 @@
+louisiana-pacific qtr-four earnings per share $num-five.
+qtr-four adjusted earnings per share $num-four.
+qtr-four sales $num-two million versus refinitiv ibes estimate of $784.9 million.
+qtr-four earnings per share $num-five.
+sees smartside sales in qtr-one of year-six to be more than num-two% higher than qtr-one of year-five.
+sees smartside sales in qtr-one of year-six to be more than num-one% higher than qtr-one of year-five.
+sees osb sales in qtr-one to be sequentially higher than qtr-four by more than num-one% on similar volumes.
+sees osb sales in qtr-one to be sequentially higher than qtr-four by more than num-one% on similar volumes.
+sees adjusted ebitda for qtr-one of year-six to be greater than $num-one million.

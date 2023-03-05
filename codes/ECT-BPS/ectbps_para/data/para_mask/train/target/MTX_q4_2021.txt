@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-three excluding items.
+qtr-four earnings per share $num-one excluding items.
+qtr-four earnings per share $num-five excluding items.
+qtr-four revenue $num-one million.

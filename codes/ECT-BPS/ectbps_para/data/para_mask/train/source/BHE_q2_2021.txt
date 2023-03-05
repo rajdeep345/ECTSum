@@ -1,0 +1,6 @@
+earnings per share of $num-one was above the midpoint of our guidance, and we had another solid quarter of cash conversion cycle results at num-two days.
+non-gaap earnings per share was $num-one for the quarter, which is $num-two higher than the midpoint of our qtr-two guidance and $num-three sequential improvement.
+our gaap earnings per share for the quarter was $num-one.
+our non-gaap diluted earnings per share is expected to be in the range of $num-one to $num-two or a midpoint of $num-three.
+we expect revenue to range from $num-one million to $num-two million, which at the midpoint represents a num-three% year-over-year improvement.
+total benchmark revenue was $num-one million in qtr-two, which was at the higher end of our guidance driven by continued strong performance in semi-cap and improving revenue in industrials and telco.

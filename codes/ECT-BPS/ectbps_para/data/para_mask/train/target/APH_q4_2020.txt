@@ -1,0 +1,13 @@
+compname reports record fourth quarter year-five results and announces num-txtor-num-five stock split.
+compname reports record fourth quarter year-five results and announces num-txtor-num-one stock split.
+compname reports record fourth quarter year-five results and announces num-txtor-num-three stock split.
+compname reports record fourth quarter year-five results and announces num-txtor-num-one stock split.
+compname reports record fourth quarter year-five results and announces num-txtor-num-one stock split.
+qtr-four adjusted earnings per share $num-three.
+qtr-four adjusted earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.
+for qtr-one year-six, amphenol expects sales to be in range of $num-one billion to $num-two billion.
+not providing full-year year-six sales and earnings per share guidance at this time.
+expects pre stock-split qtr-one year-six adjusted diluted earnings per share in range of $num-three to $num-four.
+expects post-stock-split qtr-one year-six adjusted diluted earnings per share in range of $num-one to $num-two.

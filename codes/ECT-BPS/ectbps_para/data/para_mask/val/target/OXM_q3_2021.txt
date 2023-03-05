@@ -1,0 +1,6 @@
+compname reports qtr-three adjusted earnings per share $num-one.
+oxford: strong consumer demand and excellent execution drove record third quarter results, raises full year guidance.
+qtr-three adjusted earnings per share $num-one.
+sees qtr-four sales $num-one million to $num-two million.
+sees fy sales $num-one billion to $num-two billion.
+sees fy adjusted earnings per share $num-one to $num-two.

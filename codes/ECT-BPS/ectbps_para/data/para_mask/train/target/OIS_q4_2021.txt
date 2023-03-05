@@ -1,0 +1,3 @@
+compname announces qtr-four loss per share of $num-four.
+qtr-four adjusted loss per share $num-one excluding items.
+qtr-four loss per share $num-four.

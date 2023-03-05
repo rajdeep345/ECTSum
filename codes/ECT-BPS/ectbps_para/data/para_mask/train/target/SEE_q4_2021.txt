@@ -1,0 +1,7 @@
+sees fy adjusted earnings per share $num-one to $num-two.
+qtr-four adjusted earnings per share $num-one.
+sees fy sales $num-one billion to $6.0 billion.
+qtr-four earnings per share $num-one.
+qtrly net sales of $num-two billion increased num-one% as reported in qtr-four year-six.
+qtrly net sales of $num-two billion increased num-one% as reported in qtr-four year-six.
+in quarter currency had an unfavorable impact of $num-six million, or num-two%.

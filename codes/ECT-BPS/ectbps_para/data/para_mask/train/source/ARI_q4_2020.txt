@@ -1,0 +1,3 @@
+gaap net income available to common stockholders was $num-one million, or $num-two per share, and the common stock dividend for the quarter was $num-three per share.
+gaap net income available to common stockholders was $num-one million, or $num-two per share, and the common stock dividend for the quarter was $num-three per share.
+i also want to highlight that yesterday we announced our board of directors authorized a $num-one million increase to ari's share repurchase plan, providing us with total capacity of $num-two million.

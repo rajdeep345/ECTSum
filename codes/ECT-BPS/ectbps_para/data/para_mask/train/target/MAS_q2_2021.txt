@@ -1,0 +1,3 @@
+compname says qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two adjusted earnings per share $num-one from continuing operations.
+anticipate year-six adjusted earnings per share to be in the range of $num-one to $num-two per share, increased from our previous expectation of $num-three to $num-four/share.

@@ -1,0 +1,5 @@
+compname reports qtr-three earnings per share of $num-one.
+qtr-three earnings per share $num-one.
+sees fy year-five earnings per share $num-one to $num-two.
+sees fy year-five adjusted earnings per share $num-one to $num-two excluding items.
+confirming its previously issued guidance of low to mid-single digit revenue growth in year-five on a local currency basis.

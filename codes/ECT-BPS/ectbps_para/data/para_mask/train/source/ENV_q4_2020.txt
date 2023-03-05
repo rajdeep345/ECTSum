@@ -1,0 +1,2 @@
+as a result, our adjusted ebitda of $num-one million was also ahead of expectations, as were our adjusted earnings per share of $num-two.
+adjusted earnings per share is expected to be between $num-one and $num-two.

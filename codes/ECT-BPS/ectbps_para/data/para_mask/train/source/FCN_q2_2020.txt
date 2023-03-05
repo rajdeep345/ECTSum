@@ -1,0 +1,7 @@
+gaap earnings per share of $num-one in qtr-two year-five, compared to earnings per share of $num-two in qtr-two year-four.
+in the last num-one months, ended [date], year-five, we have repurchased num-two million shares at an average price per share of $num-three for a total cost of $num-four million.
+gaap earnings per share of $num-one in qtr-two year-five, compared to earnings per share of $num-two in qtr-two year-four.
+in the last num-one months, ended [date], year-five, we have repurchased num-two million shares at an average price per share of $num-three for a total cost of $num-four million.
+revenues of $num-one million were up $num-two million or num-three%, compared to revenues of $num-four million in the prior-year quarter.
+one way to look at them, a pessimistic way to look at them, is to note that our adjusted earnings per share of $num-one is down significantly from a year ago.
+adjusted earnings per share for the quarter were $num-one, which compared to $num-two in the prior-year quarter.

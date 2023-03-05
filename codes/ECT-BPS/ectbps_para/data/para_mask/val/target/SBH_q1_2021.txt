@@ -1,0 +1,9 @@
+compname posts qtr-one gaap earnings per share $num-one.
+compname posts qtr-one gaap earnings per share $num-four.
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-four.
+qtrly adjusted diluted earnings per share of $num-one.
+qtrly adjusted diluted earnings per share of $num-four.
+qtrly consolidated same store sales decreased num-one%,.
+qtrly consolidated same store sales decreased num-one%,.
+will not be providing formal guidance at this time.

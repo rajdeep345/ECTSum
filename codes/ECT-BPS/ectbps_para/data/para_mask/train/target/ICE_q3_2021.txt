@@ -1,0 +1,8 @@
+compname reports qtr-three revenue of $num-one billion.
+qtr-three adjusted earnings per share $num-one.
+qtr-three revenue $num-one billion.
+expect to resume share repurchases in qtr-four.
+qtr-three exchange net revenues were $num-one million.
+exchanges qtr-four year-six total recurring revenues are expected to be in a range of $num-one million to $num-two million.
+fixed income & data services qtr-four year-six total recurring revenues are expected to be in a range of $num-one million to $num-two million.
+mortgage technology qtr-four year-six total recurring revenues are expected to be in a range of $num-one million to $num-two million.

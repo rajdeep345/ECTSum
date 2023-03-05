@@ -1,0 +1,5 @@
+sees fy year-six gaap earnings per share $4.55 to $num-one.
+qtr-one adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy sales $num-one billion to $num-two billion.
+qtr-one sales $num-one million versus refinitiv ibes estimate of $233.1 million.

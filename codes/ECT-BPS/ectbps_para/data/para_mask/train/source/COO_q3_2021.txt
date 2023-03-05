@@ -1,0 +1,4 @@
+non-gaap earnings per share were $num-one.
+non-gaap earnings per share was $num-one with roughly num-two million average shares outstanding.
+non-gaap earnings per share is expected to range from $num-one to $num-two.
+specific to qtr-four, consolidated revenues are expected to range from $num-one million to $num-two million, up num-three% to num-four% in constant currency, with coopervision revenues between $num-five million and $num-six million up num-seven% to num-eight% in constant currency, and coopersurgical revenues between $num-nine million and $num-ten million, up num-eleven% to num-twelve% in constant currency.

@@ -1,0 +1,6 @@
+qtr-three earnings per share $num-one.
+new contracts increased num-one% to num-two contracts in quarter.
+backlog units increased num-two% to num-three in quarter.
+backlog sales value reached $num-one billion in quarter.
+backlog sales value reached $num-two billion in quarter.
+homes delivered in year-five's qtr-three increased num-four% to a record num-one.

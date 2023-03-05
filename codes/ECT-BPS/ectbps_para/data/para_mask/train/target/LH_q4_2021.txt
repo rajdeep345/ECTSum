@@ -1,0 +1,12 @@
+qtr-four earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one.
+qtr-four revenue $num-one billion.
+qtr-four revenue $num-one billion.
+qtr-four revenue $num-two billion.
+labcorp- full-year year-seven guidance: adjusted earnings per share of $num-one to $num-two and free cash flow of $num-four billion to $num-five billion.
+labcorp - longer-term outlook (year-seven-year-nine): base business organic revenue compound annual growth of num-one%-num-two% versus year-six.
+labcorp - longer-term outlook (year-seven-year-nine) base business average annual margin expansion of num-one bps to num-two bps versus year-six.
+labcorp - longer-term outlook (year-seven-year-nine) adjusted earnings per share compound annual growth of num-one%-num-two% versus year-four.
+labcorp sees fy year-seven total labcorp enterprise revenue down 6.5% to down num-one%.
+labcorp sees fy year-seven total drug development revenue up 7.0% to up num-two%.

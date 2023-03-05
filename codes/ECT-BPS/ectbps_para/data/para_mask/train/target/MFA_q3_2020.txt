@@ -1,0 +1,8 @@
+compname announces $num-one million stock repurchase program.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+compname announces $num-one million stock repurchase program.
+compname announces repayment of $num-one million loan from apollo and athene.
+compname announces repayment of $num-one million loan from apollo and athene.
+compname announces repayment of $num-one million loan from apollo and athene.
+qtrly net interest income $num-one million versus $56.9 million.

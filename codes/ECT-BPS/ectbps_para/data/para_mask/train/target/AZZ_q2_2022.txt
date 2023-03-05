@@ -1,0 +1,8 @@
+azz inc qtr-two earnings per share of $num-two.
+azz inc qtr-two earnings per share of $num-one.
+compname reports results for qtr-two of fiscal year year-seven; generates earnings per share of $num-two and revises guidance.
+compname reports results for qtr-two of fiscal year year-seven; generates earnings per share of $num-one and revises guidance.
+qtr-two sales rose num-three percent to $num-one million.
+azz - sees annual sales to be in the range of $num-one million to $num-two million.
+sees earnings per share to be in the range of $num-three to $num-four per diluted share for fiscal year year-seven.
+qtrly sales of $num-one million, up num-three%.

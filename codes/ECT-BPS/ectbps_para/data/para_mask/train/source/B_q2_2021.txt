@@ -1,0 +1,6 @@
+adjusted earnings per share were $num-one, up num-two% from last year.
+on an adjusted basis, net income per share of $num-one was up num-two% from $num-three a year ago.
+adjusted earnings per share were $num-one, up num-two% from last year.
+on an adjusted basis, net income per share of $num-one was up num-two% from $num-three a year ago.
+net income was $num-one million or $num-two per diluted share compared to $num-three or $num-four per diluted share a year ago.
+second quarter sales were $num-one million, up num-two% from the prior year period, with organic sales increasing num-three% and foreign exchange generating a positive impact of num-four%.

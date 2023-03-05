@@ -1,0 +1,6 @@
+compname reports qtr-three earnings per share of $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three revenue rose 13 percent to $num-one million.
+raises fy adjusted earnings per share view to $num-four to $num-six.
+raises fy earnings per share view to $num-two to $num-five.

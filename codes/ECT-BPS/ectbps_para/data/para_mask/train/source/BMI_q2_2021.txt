@@ -1,0 +1,3 @@
+in summary, earnings per share was $num-one in the second quarter of year-six, an increase of num-two% from the prior year's earnings per share of $num-three.
+in summary, earnings per share was $num-one in the second quarter of year-six, an increase of num-two% from the prior year's earnings per share of $num-three.
+as you can see on slide-num, total sales for the second quarter were $num-one million compared to the coronavirus impacted trough of $num-two million in the same period last year, an increase of num-three%.

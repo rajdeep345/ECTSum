@@ -1,0 +1,6 @@
+num-txt systems qtr-one non-gaap earnings per share $num-two.
+num-txt systems qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $136.6 million.

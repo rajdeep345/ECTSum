@@ -1,0 +1,3 @@
+qtr-two adjusted earnings per share $num-one.
+sees qtr-three adjusted earnings per share $num-three to $num-four.
+sees fy adjusted earnings per share $4.00 to $num-two.

@@ -1,0 +1,10 @@
+compname announces qtr-one earnings per share of $num-one.
+compname announces qtr-one earnings per share of $num-one.
+sees fy non-gaap operating earnings per share $num-one to $num-two.
+sees fy non-gaap operating earnings per share $num-one to $num-two.
+qtrly earnings per share $num-one.
+qtrly earnings per share $num-one.
+qtrly non-gaap operating earnings $num-one per share.
+qtrly non-gaap operating earnings $num-one per share.
+public service enterprise group - on track to execute five-year, $num-one billion to $num-two billion capital plan through year-ten.
+public service enterprise group - on track to execute num-txtear capital plan through year-ten, have financial strength to fund without need to issue new equity.

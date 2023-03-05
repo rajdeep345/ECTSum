@@ -1,0 +1,3 @@
+compname reports qtr-three operating earnings per share of $num-one.
+qtr-three operating earnings per share $num-one.
+losses from hurricanes hanna, isaias, laura and sally, resulting in a $num-one million net decrease in underwriting income in quarter.

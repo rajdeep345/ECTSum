@@ -1,0 +1,2 @@
+we generated adjusted earnings per share of $num-one, which is up num-two% versus a year ago, driven by strong top line growth and continued low levels of t&e.
+gaap earnings per share was $num-one in the quarter and adjusted earnings per share increased num-two% to $num-three.

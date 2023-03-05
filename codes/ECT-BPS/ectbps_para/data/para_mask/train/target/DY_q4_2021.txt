@@ -1,0 +1,4 @@
+compname reports qtr-four adjusted non-gaap loss per share $num-four.
+compname reports qtr-four adjusted non-gaap loss per share $num-one.
+qtr-four adjusted non-gaap loss per share $num-four.
+qtr-four adjusted non-gaap loss per share $num-one.

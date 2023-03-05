@@ -1,0 +1,4 @@
+compname reports qtr-four earnings per share $num-two.
+compname reports year-five diluted earnings of $num-two per share and declares dividend of 71¢ per share.
+qtr-four earnings per share $num-two.
+qtr-four sales $num-one million.

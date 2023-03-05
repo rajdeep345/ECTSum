@@ -1,0 +1,3 @@
+compname announces qtr-one earnings per share of $num-one.
+qtr-one earnings per share $num-one from continuing operations.
+qtr-one sales $num-one million versus $254.3 million.

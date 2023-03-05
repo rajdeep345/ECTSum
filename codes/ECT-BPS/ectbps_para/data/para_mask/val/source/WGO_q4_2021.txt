@@ -1,0 +1,4 @@
+fourth-quarter earnings per diluted share was a record $num-one, an increase of num-two% versus the same period last year.
+fourth-quarter adjusted earnings per diluted share was a record $num-one, up num-two% versus the same period last year.
+fourth-quarter earnings per diluted share was a record $num-one, an increase of num-two% versus the same period last year.
+fourth-quarter adjusted earnings per diluted share was a record $num-one, up num-two% versus the same period last year.

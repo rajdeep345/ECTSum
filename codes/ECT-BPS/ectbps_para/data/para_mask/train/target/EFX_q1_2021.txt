@@ -1,0 +1,8 @@
+compname posts qtr-one adjusted earnings per share $num-one.
+compname posts qtr-one adjusted earnings per share $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-two.
+reported revenue of $1,213.0 million in qtr-one of year-six, up num-one percent compared to qtr-one of year-five.
+sees qtr-two year-six adjusted earnings per share $num-one -$num-two.
+sees fy year-six adjusted earnings per share $num-one to $num-two.
+sees fy year-six revenue $num-one billion to $num-two billion.

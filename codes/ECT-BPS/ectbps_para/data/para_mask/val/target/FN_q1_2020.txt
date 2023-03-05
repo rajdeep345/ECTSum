@@ -1,0 +1,9 @@
+fabrinet qtr-one earnings per share $num-two.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one gaap earnings per share $num-two.
+sees qtr-two revenue $num-one million to $num-two million.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $390.3 million.
+sees qtr-two year-five non-gaap earnings per share $num-one to $num-two.
+sees qtr-two year-five gaap earnings per share $num-three to $num-four.

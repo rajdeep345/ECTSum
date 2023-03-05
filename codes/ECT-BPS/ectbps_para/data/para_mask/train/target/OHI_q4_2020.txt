@@ -1,0 +1,3 @@
+compname reports qtr-four adjusted ffo per share of $num-one.
+qtr-four adjusted ffo per share $num-one.
+qtr-four ffo per share $num-two.

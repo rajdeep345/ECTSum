@@ -1,0 +1,4 @@
+qtr-four adjusted earnings per share $num-three from continuing operations.
+qtr-four gaap earnings per share $num-two from continuing operations.
+qtr-four revenue rose num-one percent to $num-two billion.
+quarterly dividend increased by num-one%.

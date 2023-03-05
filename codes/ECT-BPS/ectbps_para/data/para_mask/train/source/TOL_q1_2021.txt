@@ -1,0 +1,2 @@
+average delivered price for the second quarter is expected to be between $num-one and $num-two. we now expect full year deliveries of between num-three and num-four units, our highest total ever with approximately num-five in the second quarter.
+our average delivered price for the full year is estimated to be between $num-one and $num-two per home. we now expect full year deliveries of between num-three and num-four units, our highest total ever with approximately num-five in the second quarter.

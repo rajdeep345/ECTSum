@@ -1,0 +1,4 @@
+on a gaap basis, our earnings per fully diluted share decreased to $num-one compared to $num-two last year.
+our non-gaap earnings per fully diluted share for the second quarter decreased to $num-one in comparison to $num-two last year.
+on a gaap basis, our earnings per fully diluted share decreased to $num-one compared to $num-two last year.
+in the second quarter, we recorded net sales of $num-one million, a decrease of approximately num-two% in constant currency.

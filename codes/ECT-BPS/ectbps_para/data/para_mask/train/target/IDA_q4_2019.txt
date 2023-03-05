@@ -1,0 +1,4 @@
+compname announces qtr-four earnings per share $num-one.
+sees fy year-five earnings per share $num-one to $num-two.
+sees fy year-five earnings per share $num-one to $num-two.
+qtr-four earnings per share $num-one.

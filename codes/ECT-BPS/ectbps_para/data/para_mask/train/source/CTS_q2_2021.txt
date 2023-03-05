@@ -1,0 +1,6 @@
+in the last quarter, we generated $num-one of earnings per share in savings from our restructuring program announced in the third quarter of year-five, bringing the total savings to $num-two of earnings per share so far.
+second quarter year-six earnings were $num-one per diluted share.
+second quarter adjusted earnings per share of $num-one were up num-two% from $num-three in the second quarter of year-five.
+adjusted earnings per diluted share were $num-one compared to $num-two for the same period last year and $num-three last quarter.
+we are now updating our guidance for sales to be in the range of $num-one million to $num-two million, and adjusted earnings are expected to be in the range of $num-three to $num-four. our previous guidance was for sales in the range of $num-five million to $num-two million, and adjusted earnings in the range of $num-six to $num-three.
+we are now updating our guidance for sales to be in the range of $num-one million to $num-two million, and adjusted earnings are expected to be in the range of $num-three to $num-four.

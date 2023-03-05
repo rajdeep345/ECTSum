@@ -1,0 +1,5 @@
+qtr-three earnings per share $num-one excluding items.
+qtr-three earnings per share $num-two excluding items.
+sees qtr-four adjusted earnings per share $num-one to $num-two excluding items.
+qtr-three earnings per share $num-one.
+qtr-three sales rose num-two percent to $num-one billion.

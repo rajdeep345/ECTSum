@@ -1,0 +1,4 @@
+net income per share in the fourth quarter was $num-one, compared to $num-two in the fourth quarter one year ago.
+revenues; $num-one billion to $num-two billion, income per share; $num-three to $num-four.
+net income per share in the fourth quarter was $num-one, compared to $num-two in the fourth quarter one year ago.
+revenues; $num-one billion to $num-two billion, income per share; $num-three to $num-four.

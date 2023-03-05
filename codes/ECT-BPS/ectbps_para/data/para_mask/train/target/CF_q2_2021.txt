@@ -1,0 +1,2 @@
+compname reports first half year-six net earnings of $num-one million, ebitda of $num-three million, adjusted ebitda of $num-four million.
+projects capital expenditures for full year year-six will be in range of $num-two million.

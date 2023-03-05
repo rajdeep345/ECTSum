@@ -1,0 +1,2 @@
+gaap earnings per share increased num-one% to $num-two this quarter versus $num-three in the prior year.
+adjusted diluted earnings per share remained flat year-over-year at $num-one.

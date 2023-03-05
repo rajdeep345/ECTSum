@@ -1,0 +1,2 @@
+moody's qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.

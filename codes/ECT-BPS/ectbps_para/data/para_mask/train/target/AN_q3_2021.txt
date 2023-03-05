@@ -1,0 +1,9 @@
+compname reports qtrly gaap earnings per share from continuing operations of $num-one.
+compname reports qtrly gaap earnings per share from continuing operations of $num-two.
+qtrly gaap earnings per share from continuing operations $num-one.
+qtrly gaap earnings per share from continuing operations $num-two.
+qtrly same store revenue $num-one billion, up num-two%.
+compname announces agreement to buy priority num-one automotive group, representing about $num-two million in annual revenue.
+authorized repurchase of up to additional $num-one billion of common stock.
+authorized repurchase of up to additional $num-one billion of common stock.
+authorized repurchase of up to additional $num-one billion of common stock.

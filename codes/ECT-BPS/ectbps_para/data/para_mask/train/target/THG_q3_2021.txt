@@ -1,0 +1,6 @@
+compname reports qtr-three earnings per share of $num-two.
+compname reports third quarter net income and operating income of $num-six and $num-two per diluted share, respectively.
+combined ratio of num-two%; combined ratio, excluding catastrophes, of num-one%.
+qtr-three operating earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtrly net investment income of $num-one million, up 16.6% from the prior-year quarter.

@@ -1,0 +1,8 @@
+jabil raises outlook for fiscal year.
+qtr-two non-gaap core earnings per share $num-one.
+qtr-two non-gaap core earnings per share $num-one.
+qtr-two gaap earnings per share $num-two.
+sees qtr-three year-six net revenue $num-one billion to $num-two billion.
+sees qtr-three year-six u.s. gaap diluted earnings per share $num-one to $num-two per diluted share.
+sees qtr-three year-six core diluted earnings per share (non-gaap) $num-one to $num-two per diluted share.
+expect ftxt-num to deliver revenue in range of $num-three billion, core earnings per share of about $num-one.

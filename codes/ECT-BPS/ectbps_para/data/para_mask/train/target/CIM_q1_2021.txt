@@ -1,0 +1,4 @@
+compname reports qtr-one earnings per share of $num-two.
+qtr-one gaap earnings per share $num-two.
+qtr-one core earnings per share $num-two.
+qtrly book value of $num-one per common share.

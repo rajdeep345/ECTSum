@@ -1,0 +1,12 @@
+compname reports qtr-two adjusted earnings per share $num-one from continuing operations.
+compname reports qtr-two adjusted earnings per share $num-one from continuing operations.
+compname reports qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $537.9 million.
+new workforce reduction plan to further improve company cost structure announced.
+not reinstating year-five financial guidance due to covid pandemic.
+will incur aggregate pre-tax restructuring charges of $num-one million to $num-two million.
+expect to begin realizing plan-related savings in year-five.
+expect to achieve annual pre-tax savings of $num-one million to $num-two million once restructuring plans are fully implemented.

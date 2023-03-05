@@ -1,0 +1,4 @@
+we reported adjusted earnings of $num-one per share.
+o-i reported adjusted earnings of $num-one per share.
+we expect third quarter adjusted earnings will approximate $num-one to $num-two, which is a significant improvement from the prior year.
+we expect third quarter adjusted earnings will approximate $num-one to $num-two per share.

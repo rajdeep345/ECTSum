@@ -1,0 +1,5 @@
+raises fy earnings per share view to $num-one to $num-two.
+revenue increased num-one%, or over $214 million, to $523.1 million for quarter ended [date], year-six from $308.5 million in comparable period last year.
+qtrly same-store sales grew over num-one% on top of a num-two% increase in comparable quarter last year.
+qtrly earnings per share $num-two.
+qtrly earnings per share $num-one.

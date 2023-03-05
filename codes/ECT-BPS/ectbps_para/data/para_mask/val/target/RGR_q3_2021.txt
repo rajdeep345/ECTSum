@@ -1,0 +1,4 @@
+compname reports qtr-three sales of $num-one million.
+compname reports third quarter diluted earnings of $num-two per share and declares quarterly dividend of 79¢ per share.
+qtr-three earnings per share $num-two.
+qtr-three sales $num-one million.

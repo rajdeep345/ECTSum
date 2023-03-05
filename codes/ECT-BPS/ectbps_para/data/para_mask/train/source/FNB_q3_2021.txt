@@ -1,0 +1,2 @@
+fnb's third quarter earnings per share was $num-one, representing an increase of num-two% on a linked-quarter basis and bringing year-to-date earnings per share to $num-three.
+third quarter earnings per share increased to $num-one, up $num-two over the prior quarter and $num-three from the year ago quarter.

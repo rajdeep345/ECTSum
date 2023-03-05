@@ -1,0 +1,4 @@
+compname reports qtr-three loss per share of $num-three.
+compname reports third quarter diluted earnings per share loss of $num-three.
+qtr-three loss per share $num-three.
+rex american resources - lower qtr-three year-four ethanol production and lower distiller grain pricing resulted in year-over-year decline in net sales and revenue.

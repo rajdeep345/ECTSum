@@ -1,0 +1,5 @@
+qtr-four adjusted earnings per share $num-two.
+qtr-four loss per share $num-two.
+qtr-four revenue $num-three million versus refinitiv ibes estimate of $425 million.
+in year-six, expect to generate positive free cash flow in excess of amount generated in year-five.
+qtr-one year-six adjusted ebitda is forecast to be in range of $num-one million to $num-two million.

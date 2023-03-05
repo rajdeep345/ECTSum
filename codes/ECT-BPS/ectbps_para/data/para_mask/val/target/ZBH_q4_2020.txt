@@ -1,0 +1,5 @@
+compname announces qtr-four adj earnings per share of $num-two.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-one.
+qtr-four sales $num-one billion versus refinitiv ibes estimate of $2.08 billion.
+not providing financial guidance at this time.

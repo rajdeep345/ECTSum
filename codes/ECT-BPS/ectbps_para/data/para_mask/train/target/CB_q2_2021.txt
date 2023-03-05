@@ -1,0 +1,6 @@
+compname reports strong second quarter net income per share of $5.06 and record core operating income per share of $num-two.
+qtr-two core operating earnings per share $num-two.
+qtrly p&c combined ratio was num-one% compared with 112.3% prior year.
+qtrly pre-tax catastrophe losses, net of reinsurance and including reinstatement premiums was $num-one million.
+p&c net premiums written were up num-one% globally for quarter.
+p&c net premiums written were up num-one% globally for quarter.

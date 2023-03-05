@@ -1,0 +1,4 @@
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-one.
+qtr-two loss per share $num-two excluding items.
+qtrly adjusted basic loss per share $num-two.

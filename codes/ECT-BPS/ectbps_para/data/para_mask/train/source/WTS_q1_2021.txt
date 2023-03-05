@@ -1,0 +1,2 @@
+sales of $num-one million were up num-two% on a reported basis and up num-three% organically.
+adjusted operating profit was $num-one million, up num-two% compared to last year, and adjusted earnings per share were up num-three% to $num-four.

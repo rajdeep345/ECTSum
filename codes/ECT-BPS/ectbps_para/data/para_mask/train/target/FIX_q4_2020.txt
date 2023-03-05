@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-two.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $694.7 million.
+backlog as of [date], year-five was $num-one billion.

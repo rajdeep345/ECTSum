@@ -1,0 +1,7 @@
+compname reports qtr-one earnings per share of $num-one.
+compname reports qtr-one earnings per share of $num-one.
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+sees fy gaap earnings per share $num-five to $num-six.
+sees fy gaap earnings per share $num-three to $num-four.
+plans to repurchase approximately $num-one billion of its shares in year-six and expects an effective tax rate of num-two to num-three percent.

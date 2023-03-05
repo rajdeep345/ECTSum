@@ -1,0 +1,4 @@
+watsco qtr-three earnings per share $num-two.
+watsco earnings per share jumps num-one% setting new records for sales, operating profit, net income and operating margins during third quarter.
+watsco earnings per share jumps num-one% setting new records for sales, operating profit, net income and operating margins during third quarter.
+qtr-three earnings per share $num-two.

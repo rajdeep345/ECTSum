@@ -1,0 +1,7 @@
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three sales rose num-two percent to $num-one million.
+sees qtr-four non-gaap earnings per share $num-one to $num-two.
+sees fy non-gaap earnings per share $num-one to $num-two.
+qtr-three gaap earnings per share $num-one.
+sees ftxt-num constant currency sales growth in range of num-one-num-two%.

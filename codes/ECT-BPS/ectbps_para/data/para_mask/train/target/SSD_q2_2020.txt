@@ -1,0 +1,9 @@
+compname reports qtr-two earnings per share $num-three.
+compname reports qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-three.
+qtr-two earnings per share $num-two.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-two sales rose num-one percent to $num-two million.
+providing full year year-five financial guidance on improved demand outlook.
+sees fy net sales to increase in range of num-one% to 4.0% compared to full year ended [date], year-four.
+sees fy year-five sales up num-one to num-two percent.

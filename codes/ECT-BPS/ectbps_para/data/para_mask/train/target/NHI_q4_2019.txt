@@ -1,0 +1,5 @@
+compname reports qtr-four adjusted ffo per share of $num-six.
+qtr-four adjusted ffo per share $num-six.
+quarterly ffo per share $num-two.
+compname says normalized ffo for year-five to be in range of $num-one to $num-two per share.
+compname says normalized affo for year-five to be in range of $num-one to $num-two per share.

@@ -1,0 +1,8 @@
+compname reports qtr-four earnings per share of $num-two.
+qtr-four earnings per share $num-two.
+qtrly china sales grew num-two% year-over-year.
+qtrly china sales grew num-one% year-over-year.
+qtrly domestic wholesale sales grew num-one% year-over-year.
+qtrly domestic wholesale sales grew num-one% year-over-year.
+qtrly domestic wholesale sales grew num-one% year-over-year.
+not providing further financial guidance at this time.

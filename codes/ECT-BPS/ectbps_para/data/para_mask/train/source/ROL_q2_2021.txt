@@ -1,0 +1,5 @@
+net income grew to $num-one million, or $num-two per diluted share, compared to $num-three million, or $num-four per diluted share, for the same period in year-five.
+our earnings per share were $num-one per diluted share compared to $num-two in year-five, or a num-three% increase.
+the second quarter revenues of $num-one million was an increase of num-two% over the prior year's second quarter revenue of $num-three million.
+net income grew to $num-one million, or $num-two per diluted share, compared to $num-three million, or $num-four per diluted share, for the same period in year-five.
+our earnings per share were $num-one per diluted share compared to $num-two in year-five, or a num-three% increase.

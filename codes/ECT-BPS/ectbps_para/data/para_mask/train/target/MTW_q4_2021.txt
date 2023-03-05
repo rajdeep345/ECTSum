@@ -1,0 +1,4 @@
+compname reports qtr-four loss per share of $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtr-four loss per share $num-one.
+sees year-seven adjusted diluted earnings per share about $num-one to $num-two.

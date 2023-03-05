@@ -1,0 +1,4 @@
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy revenue $num-one billion to $num-two billion.
+qtrly revenue of $num-one billion, a decrease of num-two percent versus qtr-one year-five.
+qtrly consolidated adjusted earnings per diluted share of $num-one.

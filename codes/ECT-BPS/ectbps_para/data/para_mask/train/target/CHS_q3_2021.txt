@@ -1,0 +1,7 @@
+compname reports qtr-three earnings per share of $num-one.
+compname reports qtr-three earnings per share of $num-one.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three sales $num-one million versus $num-two million.
+sees consolidated net sales of $num-one million to $num-two million in qtr-four.

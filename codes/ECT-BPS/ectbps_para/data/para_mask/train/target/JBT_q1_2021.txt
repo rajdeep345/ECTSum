@@ -1,0 +1,8 @@
+compname reports qtr-one adjusted earnings per share of $num-one.
+compname reports qtr-one adjusted earnings per share of $num-one.
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy gaap earnings per share $num-one to $num-two.
+qtr-one earnings per share $num-two from continuing operations.
+qtr-one revenue fell num-one percent to $417.8 million.

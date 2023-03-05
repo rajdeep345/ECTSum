@@ -1,0 +1,3 @@
+taking these assumptions into account, we are increasing our core ffo midpoint by $num-one and narrowing the range to $num-two to $num-three per share.
+core ffo was $num-one per share, with net promote earnings of $num-two.
+cash same-store noi growth accelerated to num-one%, up num-two basis points sequentially.

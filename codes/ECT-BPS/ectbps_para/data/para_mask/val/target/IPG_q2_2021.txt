@@ -1,0 +1,6 @@
+compname announces qtr-two adj earnings per share of $num-two.
+compname announces qtr-two adj earnings per share of $num-two.
+compname announces qtr-two adj earnings per share of $num-three.
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-three.

@@ -1,0 +1,5 @@
+compname reports qtr-three earnings per share $num-two.
+compname reports qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three revenue rose num-one percent to $num-two million.

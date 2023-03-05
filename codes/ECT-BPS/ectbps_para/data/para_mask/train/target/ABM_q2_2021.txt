@@ -1,0 +1,7 @@
+qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two gaap earnings per share $num-two from continuing operations.
+raises fy adjusted earnings per share view to $num-one to $num-two from continuing operations.
+raises fy adjusted earnings per share view to $num-one to $num-two from continuing operations.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.48 billion.
+co is maintaining its guidance for fy fiscal year-six gaap income from continuing operations.

@@ -1,0 +1,3 @@
+revenue for the quarter was $num-one million, an increase of almost num-two% over the same period last year.
+for the full year, we are forecasting revenue in the range of $num-one billion to $num-two billion, adjusted operating income between $num-three million and $num-four million, capital expenditures between $num-five million and $num-six million, and lastly an effective tax rate between num-seven% and num-eight%.
+for the full year, we are forecasting revenue in the range of $num-one billion to $num-two billion, adjusted operating income between $num-three million and $num-four million, capital expenditures between $num-five million and $num-six million, and lastly an effective tax rate between num-seven% and num-eight%.

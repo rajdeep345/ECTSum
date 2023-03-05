@@ -1,0 +1,6 @@
+compname posts quarterly earnings per share $num-two.
+qtrly net sales $num-one million versus $num-three million.
+qtrly earnings per share $num-two.
+qtrly adjusted earnings per share $num-two.
+sees fiscal year-six consolidated net sales of about $num-one billion to $num-two billion.
+expects to generate about $num-one million to $num-two million in adjusted ebitda in fiscal year-six.

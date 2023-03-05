@@ -1,0 +1,7 @@
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+sees qtr-three revenue $num-one billion to $num-two billion.
+sees fy revenue $num-one billion to $num-two billion.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $num-two billion.
+agilent technologies - fy year-six non-gaap earnings guidance has increased to range of $num-one to $num-two per share.

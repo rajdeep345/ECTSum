@@ -1,0 +1,8 @@
+compname reports qtr-two earnings per share of $num-one.
+compname reports year-six second quarter results and $num-one million share repurchase authorization.
+qtr-two earnings per share $num-one.
+qtr-two revenue $num-one million.
+qtr-two revenue $num-two million.
+backlog units increased num-one% to 5,488 in quarter.
+backlog sales value reached $num-one billion in quarter.
+also announced board has approved a $num-one million share repurchase authorization.

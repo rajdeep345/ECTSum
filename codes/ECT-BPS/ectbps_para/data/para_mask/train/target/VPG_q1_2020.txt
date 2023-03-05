@@ -1,0 +1,12 @@
+compname reports qtr-one earnings per share of $num-four.
+qtr-one adjusted earnings per share $num-five.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-four.
+qtr-one revenue fell num-three percent to $num-five million.
+sees qtr-two year-five revenue $num-one million to $num-two million.
+vishay precision group - expect financial results in qtr-two of year-five will be negatively impacted by covid pandemic.
+majority of co's operations have been able to maintain full or partial operations.
+vishay precision group - received approval from indian government to resume partial operations at co's manufacturing facility on [date], year-five.
+expects reduction in its india operations to reduce force sensors revenues by $num-one million to $num-two million in qtr-two.
+vishay precision - if operating restrictions on indian facility not lifted on [date], anticipate additional negative impact on results of operation.
+vishay precision group - as of [date], year-five, all of co's facilities, with exception of facility in india, are operating fully.

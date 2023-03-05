@@ -1,0 +1,3 @@
+on a gaap basis, we expect the earnings per share range to be $num-one up to $num-two, inclusive of various onetime charges related to facility moves, deal and integration costs and functional transformation initiatives.
+on an adjusted basis, we are moderating the earnings per share outlook to $num-one up to $num-two from the previous range of $num-three to $num-four.
+adjusted earnings per share for the quarter was $num-one, down num-two% year-over-year.

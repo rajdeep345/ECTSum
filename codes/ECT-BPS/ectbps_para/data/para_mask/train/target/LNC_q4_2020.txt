@@ -1,0 +1,4 @@
+compname reports qtr-four earnings per share $num-two.
+qtr-four adjusted operating earnings per share $num-two.
+qtr-four earnings per share $num-two.
+resumed share repurchases with $num-one million completed in quarter.

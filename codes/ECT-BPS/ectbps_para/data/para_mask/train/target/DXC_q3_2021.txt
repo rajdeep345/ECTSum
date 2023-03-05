@@ -1,0 +1,5 @@
+compname reports qtr-three non-gaap earnings per share of $num-one.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three revenue $num-two billion versus refinitiv ibes estimate of $4.2 billion.

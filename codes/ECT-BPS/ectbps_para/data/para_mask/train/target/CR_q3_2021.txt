@@ -1,0 +1,11 @@
+compname reports qtr-three non-gaap earnings per share of $num-one from continuing operations excluding items.
+compname reports third quarter year-six results; raises and narrows year-six earnings per share guidance; announces new $num-one million share repurchase authorization.
+compname reports third quarter year-six results; raises and narrows year-six earnings per share guidance; announces new $num-one million share repurchase authorization.
+compname reports third quarter year-six results; raises and narrows year-six earnings per share guidance; announces new $num-two million share repurchase authorization.
+qtr-three non-gaap earnings per share $num-one from continuing operations excluding items.
+raises fy earnings per share view to $num-two to $num-three from continuing operations excluding items.
+raises fy earnings per share view to $num-two to $num-three from continuing operations excluding items.
+qtr-three sales rose num-one percent to $834 million.
+announced new $num-one million share repurchase authorization.
+announced new $num-one million share repurchase authorization.
+announced new $num-two million share repurchase authorization.

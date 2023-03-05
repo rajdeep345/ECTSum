@@ -1,0 +1,5 @@
+qtr-three gaap earnings per share $num-three.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one billion.
+sees ftxt-num total revenue growth of num-three% to num-six% and organic growth in range of num-four% to num-five%.
+ftxt-num guidance excludes any impact from acquisition of mts test & simulation business.

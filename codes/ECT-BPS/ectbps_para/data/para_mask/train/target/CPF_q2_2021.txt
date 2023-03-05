@@ -1,0 +1,4 @@
+compname reports increase in second quarter earnings to $num-one million.
+compname reports increase in second quarter earnings to $num-one million.
+qtr-two earnings per share $num-two.
+net interest income for qtr-two of year-six was $num-one million.

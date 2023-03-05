@@ -1,0 +1,5 @@
+synnex corporation sees qtr-three non-gaap earnings per share $num-one to $num-two.
+sees qtr-three non-gaap earnings per share $num-one to $num-two.
+sees qtr-three revenue $num-one billion to $num-two billion.
+qtrly non-gaap diluted earnings per share from continuing operations $num-one.
+qtr-two revenue rose num-one percent to $num-two billion.

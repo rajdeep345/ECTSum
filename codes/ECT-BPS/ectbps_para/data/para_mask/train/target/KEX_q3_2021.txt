@@ -1,0 +1,3 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three gaap loss per share $num-one including items.
+compname says expects year-six capital spending to range between $num-one to $num-two million.

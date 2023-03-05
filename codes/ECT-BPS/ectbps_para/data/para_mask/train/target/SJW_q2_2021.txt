@@ -1,0 +1,5 @@
+compname says qtr-two earnings per share $num-two.
+compname says qtr-two earnings per share $num-two.
+reaffirms fy earnings per share view $num-one to $num-two.
+diluted earnings per share were $num-two for quarters ended [date], year-six.
+diluted earnings per share were $num-two for quarters ended [date], year-six.

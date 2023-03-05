@@ -1,0 +1,6 @@
+sees fy year-seven adjusted earnings per share $num-two to $num-three .
+emerson - expect that year-seven will be characterized by strong underlying demand.
+emerson sees qtr-one adjusted earnings per share $num-one to $num-two.
+emerson - sees year-seven net sales growth num-three% to num-one%.
+emerson - sees year-seven adjusted earnings per share $num-two to $num-three.
+emerson - qtrly adjusted eps, which excludes restructuring and first year purchase accounting charges, was $num-one.

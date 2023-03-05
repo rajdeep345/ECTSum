@@ -1,0 +1,5 @@
+we now expect adjusted earnings in a range of $num-one per share to $num-two per share compared to $num-three per share in year-four.
+on an adjusted basis, earnings per share increased to a $num-one compared to our earnings of a $num-two in the first quarter of fiscal year-four.
+we now expect adjusted earnings in a range of $num-one per share to $num-two per share compared to $num-three per share in year-four.
+we now expect sales in the range of $num-one billion to $num-two billion compared to net sales of $num-three billion in year-four.
+first quarter sales came in at $num-one million compared to $num-two million in fiscal year-four and versus our guidance range of $num-three million to $num-four million.

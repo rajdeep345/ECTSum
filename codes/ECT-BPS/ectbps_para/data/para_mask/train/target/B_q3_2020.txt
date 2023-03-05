@@ -1,0 +1,11 @@
+compname says operating margin is expected to approximate num-one% for qtr-four.
+qtr-three gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-one.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $245.6 million.
+sees qtr-four year-five adjusted earnings per share $num-two to $num-three.
+for qtr-four of year-five, will continue to be impacted by covid global pandemic.
+current view is for qtr-four organic sales to be lower than last year's qtr-four by approximately num-two%.
+current view is for qtr-four organic sales to be lower than last year's qtr-four by approximately num-one%.
+current view is for qtr-four organic sales to be lower than last year's qtr-four by approximately num-one%.
+adjusted earnings per share are anticipated to be in range of $num-two to $num-three for qtr-four.
+full year year-five capital expenditures forecast of $num-one million is down slightly from prior view.

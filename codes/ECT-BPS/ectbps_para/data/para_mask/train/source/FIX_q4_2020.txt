@@ -1,0 +1,4 @@
+we finished the year with strong fourth quarter earnings per share of $num-one, and for the full year, we earned $num-two.
+specifically, net income for the fourth quarter of year-five was $num-one million or $num-two per share as compared to $num-three million or $num-four per share in year-four.
+so fourth quarter revenue was $num-one million, a decrease of $num-two million compared to the same quarter last year.
+our backlog level at the end of the fourth quarter of year-five was $num-one billion.

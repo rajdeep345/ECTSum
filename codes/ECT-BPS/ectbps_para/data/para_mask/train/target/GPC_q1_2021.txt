@@ -1,0 +1,7 @@
+qtr-one gaap earnings per share $num-two from continuing operations.
+qtr-one gaap earnings per share $num-two from continuing operations.
+raises year-six outlook for revenue growth and diluted eps.
+sees year-six total sales growth num-one% to num-two%.
+sees year-six total sales growth num-one% to num-two%.
+sees year-six earnings per share $num-one to $num-two.
+sees year-six free cash flow $num-three million to $num-four million.

@@ -1,0 +1,4 @@
+compname reports first quarter year-six results; raises midpoint of full year guidance by num-txtents, implying num-two% growth.
+compname reports first quarter year-six results; raises midpoint of full year guidance by num-txtents, implying num-two% growth.
+qtr-one adjusted ffo per share $num-one.
+qtr-one adjusted ffo per share $num-one.

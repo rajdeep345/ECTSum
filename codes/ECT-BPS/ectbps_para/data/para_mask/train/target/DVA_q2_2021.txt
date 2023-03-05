@@ -1,0 +1,3 @@
+num-txtd quarter year-six results.
+qtr-two earnings per share $num-two from continuing operations.
+sees fy year-six adjusted diluted net income from continuing operations per share attributable to davita $num-one - $num-two.

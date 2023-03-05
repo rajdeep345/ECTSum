@@ -1,0 +1,7 @@
+qtr-two adjusted earnings per share $num-one.
+expect year-six organic net sales growth to be in range of num-one% to num-two% from year-four.
+expect year-six organic net sales growth to be in range of num-one% to num-two% from year-four.
+expect year-six adjusted net earnings per diluted share to be in range of $num-one to $num-two.
+expect year-six adjusted net earnings per diluted share to be in range of $num-one to $num-two.
+expect continued unfavorable price reductions of approximately num-one% in year-six.
+stryker - if foreign currency exchange rates hold near current levels, expect earnings per share will be positively impacted by approximately $num-one for full year.

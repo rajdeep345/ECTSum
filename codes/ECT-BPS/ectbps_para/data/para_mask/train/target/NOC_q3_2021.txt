@@ -1,0 +1,12 @@
+compname reports qtr-three earnings per share $num-one.
+compname reports qtr-three earnings per share $num-two.
+qtrly organic sales rose num-one%.
+qtrly organic sales rose num-one%.
+qtrly organic sales rose num-one%.
+qtrly organic sales rose num-two%.
+in year-six continue to expect strong organic sales growth.
+qtr-three sales fell due to lower sales at defense systems and missions systems, and at aeronautics systems.
+tight labor market, elevated levels of employee leave, supply chain challenges affected qtr-three sales.
+for year-seven, expect space to remain fastest growing segment; mission systems, defense systems also grow.
+for year-seven, expect aeronautics systems to decline at rate similar to year-six.
+expect lower cas pension recoveries of about $num-txt impacts earnings in year-seven.

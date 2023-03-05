@@ -1,0 +1,4 @@
+compname reports qtr-four revenue was $num-one billion, up num-two%.
+qtr-four revenue was $num-one billion, up num-two%.
+qtr-four new vehicle revenue declined num-two% and used vehicle revenue increased num-one%.
+expect consumer demand for personal vehicle ownership to remain strong for the foreseeable future.

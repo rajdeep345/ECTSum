@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share $num-three.
+compname reports qtr-four earnings per share $num-two.
+qtr-four earnings per share $num-three.
+qtr-four earnings per share $num-two.
+sees fy year-six operating margin is estimated to be in range of num-one% to num-two%.
+capital expenditures are estimated to be in range of $num-three million to $num-four million for year-six.

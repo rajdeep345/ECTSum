@@ -1,0 +1,3 @@
+qtr-two gaap earnings per share $num-one.
+gaap book value per common share was $num-two at [date], year-six, up num-one% from [date], year-six.
+gaap book value per common share was $num-one at [date], year-six, up num-two% from [date], year-six.

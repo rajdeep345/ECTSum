@@ -1,0 +1,5 @@
+compname says qtr-three sales $num-two million.
+compname says qtr-three sales $num-two million.
+qtr-three earnings per share $num-three.
+qtr-three earnings per share $num-two.
+updating full year year-five financial guidance on improved demand outlook.

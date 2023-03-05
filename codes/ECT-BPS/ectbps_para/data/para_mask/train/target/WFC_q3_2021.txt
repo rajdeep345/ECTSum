@@ -1,0 +1,9 @@
+compname reports net income of $num-two per share.
+compname reports net income of $num-two per share.
+compname reports third quarter year-six net income of $num-one billion, or $num-two per diluted share.
+compname reports third quarter year-six net income of $num-one billion, or $num-two per diluted share.
+quarterly nii down num-one%, primarily due to lower loan balances reflecting soft demand, elevated prepayments, impact of lower yields on earning assets.
+quarterly nii down num-four%, primarily due to lower loan balances reflecting soft demand, elevated prepayments, impact of lower yields on earning assets.
+quarterly nii down num-one%, primarily due to lower loan balances reflecting soft demand, elevated prepayments, impact of lower yields on earning assets.
+quarterly nii down num-two%, primarily due to lower loan balances reflecting soft demand, elevated prepayments, impact of lower yields on earning assets.
+quarterly nii down num-two%, primarily due to lower loan balances reflecting soft demand, elevated prepayments, impact of lower yields on earning assets.

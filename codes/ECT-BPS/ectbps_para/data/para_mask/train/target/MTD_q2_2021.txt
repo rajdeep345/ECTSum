@@ -1,0 +1,7 @@
+qtr-two adjusted non-gaap earnings per share $num-one.
+qtr-two earnings per share $num-one.
+anticipates local currency sales growth in year-six will be approximately num-one%.
+sees year-six adjusted earnings per share to be in range of $num-one to $num-two.
+for qtr-three company anticipates that local currency sales growth will be in range of num-one% to num-two%.
+sees qtr-three adjusted earnings per share $num-three to $num-four.
+qtrly net sales $num-one million versus $690.7 million.

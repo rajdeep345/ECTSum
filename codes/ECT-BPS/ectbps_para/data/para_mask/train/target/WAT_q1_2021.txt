@@ -1,0 +1,8 @@
+compname reports non gaap earnings per share $num-two.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one sales rose num-four percent to $num-one million.
+sees qtr-two non-gaap earnings per share $num-one to $num-two.
+sees fy non-gaap earnings per share $num-one to $num-two.
+qtr-one gaap earnings per share $num-one.
+expects full-year year-six constant-currency sales growth in range of num-one% to num-two%.
+expects qtr-two year-six constant-currency sales growth in range of num-one% to num-two%.

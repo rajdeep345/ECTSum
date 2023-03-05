@@ -1,0 +1,4 @@
+revenue has increased to $num-one million, but we had a loss of $num-two per share.
+revenue has increased to $num-one million, but we had a loss of $num-two per share.
+our revenue guidance is now $num-one million to $num-two million, which implies $num-three million to $num-four million in qtr-four.
+sales were $num-one million, up $num-two million over last year's third quarter. this defense backlog extends over the next num-three years, though much of it converts in the next three to four years.

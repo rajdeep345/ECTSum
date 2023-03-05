@@ -1,0 +1,9 @@
+flowserve corporation sees fy year-six revenues down num-one% to num-two%.
+qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+revised full-year year-six financial guidance metrics, including revenue and adjusted eps.
+sees fy year-six revenues down num-one% to num-two%.
+sees fy year-six reported earnings per share $num-three - $num-four.
+sees fy year-six adjusted earnings per share $num-five - $num-six.

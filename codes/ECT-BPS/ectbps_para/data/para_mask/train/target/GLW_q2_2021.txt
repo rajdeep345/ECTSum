@@ -1,0 +1,11 @@
+compname reports qtr-two loss per share of $num-one.
+qtr-two gaap loss per share $num-one.
+qtr-two core earnings per share $num-two.
+qtr-two core earnings per share $num-three.
+qtrly gaap and core sales were $num-two billion.
+qtrly gaap and core sales were $num-two billion.
+qtrly gaap and core sales were $num-one billion.
+in display technologies, second-quarter sales were $num-one million, up num-two% sequentially and num-three% year over year.
+sees qtr-three core earnings per share $num-three to $num-four.
+sees qtr-three core sales $num-one billion to $num-two billion.
+in optical communications, second-quarter sales were $1.08 billion, up num-one% year over year.

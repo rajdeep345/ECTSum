@@ -1,0 +1,2 @@
+we reported diluted earnings of $num-one per share for the second quarter compared to zero last quarter and $num-two per share for the second quarter of last year.
+revenues were $num-one million for the quarter and operating income was $num-two million.

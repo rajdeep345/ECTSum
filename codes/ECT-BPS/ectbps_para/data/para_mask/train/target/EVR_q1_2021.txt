@@ -1,0 +1,5 @@
+compname reports record first quarter year-six results increases quarterly dividend to $num-one per share.
+compname reports record first quarter year-six results; increases quarterly dividend to $num-one per share.
+qtrly earnings per share $num-three.
+qtrly adjusted earnings per share $num-two.
+qtrly adjusted net revenues of $num-one million increased num-two%.

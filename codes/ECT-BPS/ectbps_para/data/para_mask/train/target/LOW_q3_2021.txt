@@ -1,0 +1,14 @@
+compname reports qtr-three earnings per share $num-two.
+compname reports qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three sales $num-one billion versus $22.3 billion.
+qtr-three earnings per share $num-two excluding items.
+qtr-three earnings per share $num-one excluding items.
+qtrly comparable sales increased num-one%.
+qtrly comparable sales increased num-two%.
+sees fy year-six revenue of about $num-one billion, representing approximately num-two% comparable sales growth on a two-year basis.
+qtrly comparable sales for u.s. home improvement business increased num-two%.
+qtrly comparable sales for u.s. home improvement business increased num-one%.
+qtrly comparable sales for u.s. home improvement business increased num-one%.
+for fiscal year-six, company expects capital expenditures of up to $num-one billion.

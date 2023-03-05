@@ -1,0 +1,5 @@
+first quarter net income was $num-one million or $num-two per share compared to $num-three million or $num-four per share in the fourth quarter of year-four.
+first quarter net income of $num-one million or $num-two per share compared to $num-three million or $num-four per share in the prior year's first quarter.
+today, we reported total revenues of $num-one million for the first quarter of year-five compared to $num-two million in the fourth quarter of year-four and $num-three million in the prior year's first quarter.
+economic earnings, a non-gaap metric, were $num-one million or $num-two per share in the current quarter versus $num-three million or $num-four per share in the fourth quarter of year-four.
+economic earnings for the quarter were $num-one million or $num-two per share compared to $num-three million or $num-four per share in the first quarter of year-four.

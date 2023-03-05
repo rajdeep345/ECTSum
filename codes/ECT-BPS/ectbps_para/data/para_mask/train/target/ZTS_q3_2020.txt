@@ -1,0 +1,4 @@
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $1.63 billion.
+sees fy year-five earnings per share $num-three to $num-four.
+sees fy year-five revenue $num-one billion to $num-two billion.
+sees fy year-five adjusted earnings per share $num-one to $num-two.

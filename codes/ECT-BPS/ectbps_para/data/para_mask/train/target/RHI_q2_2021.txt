@@ -1,0 +1,2 @@
+compname reports qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.

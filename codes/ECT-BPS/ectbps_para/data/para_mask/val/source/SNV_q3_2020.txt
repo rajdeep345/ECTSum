@@ -1,0 +1,4 @@
+diluted earnings per share was $num-one per share compared to $num-two last quarter and $num-three a year ago.
+adjusted diluted earnings per share was $num-one per share compared to $num-two last quarter and $num-three a year ago.
+diluted earnings per share was $num-one per share compared to $num-two last quarter and $num-three a year ago.
+the primary difference between reported and adjusted figures for the quarter was a $num-one per share impact from a goodwill impairment of our mortgage reporting unit that jamie will detail shortly.

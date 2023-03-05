@@ -1,0 +1,4 @@
+yesterday, we reported a first quarter consolidated net loss of $num-one million and a loss per share of $num-two.
+our consolidated net loss of $num-one million and loss per diluted share of $num-two includes a mark-to-market gain of $num-three million related to our investment in delek and favorable inventory valuation impact of $num-four million.
+derivative losses for the first quarter of year-six totaled $num-one million, which includes unrealized losses of $num-two million, primarily associated with frac spread derivatives, offset by gains on canadian crude oil.
+for our petroleum segment, the combined throughput for the first quarter of year-six was approximately num-one barrels per day as compared to num-two barrels per day for the first quarter of year-five, which was impacted by the planned turnaround at coffeyville.

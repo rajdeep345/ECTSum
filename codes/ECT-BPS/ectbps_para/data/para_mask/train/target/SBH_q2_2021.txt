@@ -1,0 +1,4 @@
+compname reports qtr-two adjusted earnings per share $num-three.
+qtr-two adjusted earnings per share $num-three.
+qtr-two same store sales rose num-one percent.
+qtrly consolidated same store sales increased num-one%.

@@ -1,0 +1,3 @@
+adjusted earnings per share of $num-one, which excludes the noncash interest expense, compared to $num-two in the prior year quarter.
+gaap earnings per share of $num-one, compared to $num-two in the prior year quarter.
+first quarter of year-six revenues of $num-one million were up $num-two million or num-three%.

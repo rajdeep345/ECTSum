@@ -1,0 +1,3 @@
+compname reports fiscal year-six fourth quarter results: record net sales of $num-one billion up num-two%.
+qtr-four sales rose num-two percent to $num-one billion.
+qtrly adjusted earnings per share $num-three.

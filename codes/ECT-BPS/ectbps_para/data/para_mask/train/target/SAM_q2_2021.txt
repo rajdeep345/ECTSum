@@ -1,0 +1,3 @@
+compname reports qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+in year-six and going forward, company has chosen not to report covid related direct costs separately.

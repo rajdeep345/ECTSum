@@ -1,0 +1,8 @@
+qtr-four same store sales fell num-one percent.
+qtr-four same store sales fell num-one percent.
+qtr-four same store sales fell num-three percent.
+qtr-four same store sales fell num-one percent.
+sees qtr-one earnings per share $num-three to $num-four.
+qtr-four earnings per share $num-two.
+qtr-four sales rose num-one percent to $num-two billion.
+qtr-four same-store sales decreased num-one%; increased num-two% on a two-year stack basis.

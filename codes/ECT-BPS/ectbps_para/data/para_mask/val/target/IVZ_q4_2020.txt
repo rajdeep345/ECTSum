@@ -1,0 +1,3 @@
+quarterly adjusted earnings per share $num-two.
+long-term net inflows of $num-one billion in qtr-four-20 compared to $7.8 billion in qtr-three-20.
+qtrly operating revenues $num-one,630.num-one million, down 6.5%.

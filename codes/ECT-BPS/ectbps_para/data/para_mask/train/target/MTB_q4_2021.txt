@@ -1,0 +1,6 @@
+qtr-four operating earnings per share $num-one.
+qtrly diluted earnings per common share $num-one.
+tangible equity per common share was $num-one at [date], year-six, $80.52 at [date], year-five.
+net loan charge-offs were $num-two million during recent quarter, compared with $97 million in final quarter of year-five.
+qtrly net interest income expressed on a taxable-equivalent basis totaled $num-one, down from $993 million in qtr-four of year-five.
+m&t bank - recaptures of the provision for credit losses of $num-two million and $num-one million were recorded in the fourth and third quarters of year-six.

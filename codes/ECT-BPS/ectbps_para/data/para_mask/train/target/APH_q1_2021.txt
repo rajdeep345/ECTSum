@@ -1,0 +1,11 @@
+qtr-one adjusted earnings per share $num-three.
+qtr-one adjusted earnings per share $num-two.
+qtr-one gaap earnings per share $num-two.
+qtr-one gaap earnings per share $num-two.
+qtr-one gaap earnings per share $num-three.
+qtr-one sales $num-one billion.
+sees qtr-two adjusted earnings per share $num-three to $num-four from continuing operations.
+sees qtr-two sales $num-one billion to $num-two billion.
+sees qtr-two sales up num-one to num-two percent.
+on [date], year-six, co's board approved a new three-year, $num-one billion open market stock repurchase plan.
+on [date], year-six, co's board approved a new three-year, $num-one billion open market stock repurchase plan.

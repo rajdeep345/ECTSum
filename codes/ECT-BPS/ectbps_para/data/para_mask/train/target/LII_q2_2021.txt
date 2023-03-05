@@ -1,0 +1,5 @@
+compname reports qtr-two earnings per share of $num-two.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two gaap earnings per share $num-two from continuing operations.
+raising year-six stock repurchase guidance to a total of $num-two million after $num-one million of buyback in first half of year.
+raising year-six stock repurchase guidance to a total of $num-two million after $num-one million of buyback in first half of year.

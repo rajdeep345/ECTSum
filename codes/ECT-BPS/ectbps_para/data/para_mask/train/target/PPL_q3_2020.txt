@@ -1,0 +1,4 @@
+compname reports qtr-three earnings per share $num-one.
+sees fy year-five earnings per share $num-one to $num-two from continuing operations.
+qtr-three reported earnings of $num-one per share.
+qtrly earnings from ongoing operations of $num-one per share.

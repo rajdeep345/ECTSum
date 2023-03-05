@@ -1,0 +1,6 @@
+third quarter revenue was $num-one million, down num-two% both as reported and fx neutral.
+adjusted earnings per share was $num-one and free cash flow in the quarter was a very strong $num-two million.
+adjusted earnings per share in qtr-three was $num-one.
+we now expect revenue of $num-one million for the full year.
+we expect year-five adjusted earnings per share of at least $num-one.
+for year-five, we expect free cash flow of at least $num-one million.

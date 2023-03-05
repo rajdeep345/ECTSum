@@ -1,0 +1,6 @@
+johnson controls expects qtr-two adjusted earnings per share $num-one to $num-two.
+expects qtr-two adjusted earnings per share $num-one to $num-two.
+qtr-one adjusted non-gaap earnings per share $num-one from continuing operations excluding items.
+qtr-one gaap earnings per share $num-one from continuing operations.
+reaffirms fiscal year-seven adjusted earnings per share guidance of $num-one to $num-two.
+sees qtr-two organic revenue up high-single digits year-over-year.

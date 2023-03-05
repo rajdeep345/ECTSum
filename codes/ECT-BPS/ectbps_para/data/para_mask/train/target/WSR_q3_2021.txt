@@ -1,0 +1,3 @@
+qtr-three ffo per share $num-one.
+qtr-three ffo per share $num-one.
+qtr-three revenue $num-two million versus $num-three million.

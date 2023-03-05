@@ -1,0 +1,1 @@
+quarterly earnings per share $num-four; adjusted earnings per share $num-two.

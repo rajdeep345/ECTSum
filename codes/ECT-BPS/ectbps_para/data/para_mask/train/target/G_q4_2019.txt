@@ -1,0 +1,6 @@
+compname reports qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+sees fy revenue $num-one billion to $num-two billion.
+sees year-five adjusted diluted earnings per share of $num-one to $num-two.
+sees year-five global client revenue growth in range of num-two% to num-three% on as reported and constant currency basis.
+sees year-five global client revenue growth in range of num-one% to num-two% on as reported and constant currency basis.

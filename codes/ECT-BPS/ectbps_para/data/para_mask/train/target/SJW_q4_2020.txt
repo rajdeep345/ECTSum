@@ -1,0 +1,3 @@
+compname announces qtr-four earnings per share $num-two.
+qtr-four earnings per share $num-two.
+qtr-four revenue $num-one million versus $125.8 million.

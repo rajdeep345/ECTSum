@@ -1,0 +1,5 @@
+sees qtr-two earnings per share $num-one to $num-two.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+qtr-one revenue rose num-one percent to $num-three billion.
+$num-two million of common stock repurchased during quarter.

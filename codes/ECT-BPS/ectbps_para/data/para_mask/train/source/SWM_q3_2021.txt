@@ -1,0 +1,3 @@
+third quarter year-six gaap earnings per share was $num-one versus $num-two.
+while we continue to successfully implement price increases with the latest round becoming effective [date], we have still been lagging in many cases, pressuring margins and resulting in us delivering adjusted earnings per share of $num-one for the third quarter.
+normalizing for those and other items, adjusted earnings per share was $num-one, down from last year's $num-two per share.

@@ -1,0 +1,6 @@
+qtr-two non-gaap earnings per share $num-two.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two gaap loss per share $num-one.
+sees qtr-three year-five non-gaap earnings per share $num-one to $num-two excluding items.
+sees qtr-three year-five gaap earnings per share $0.21 to $num-one.
+sees qtr-three year-five revenue $num-one million to $num-two million.

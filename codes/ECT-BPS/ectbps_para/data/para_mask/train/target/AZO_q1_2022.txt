@@ -1,0 +1,6 @@
+autozone qtr-one same store sales increase num-three%; earnings per share increases to $num-one.
+autozone num-txtt quarter same store sales increase num-three%; earnings per share increases to $num-one.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+domestic same store sales, or sales for stores open at least one year, increased num-one% for quarter.
+domestic same store sales, or sales for stores open at least one year, increased num-one% for quarter.

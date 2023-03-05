@@ -1,0 +1,8 @@
+fleetcor qtr-four earnings per share $num-four.
+qtr-four adjusted earnings per share $num-three.
+qtr-four adjusted earnings per share $num-four.
+qtr-four adjusted earnings per share $num-four.
+qtr-four earnings per share $num-four.
+sees qtr-one adjusted earnings per share $num-one to $num-two.
+sees fy year-six adjusted earnings per share $num-three to $num-four.
+sees fy year-six revenue $num-one billion to $num-two billion.

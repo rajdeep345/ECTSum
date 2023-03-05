@@ -1,0 +1,4 @@
+compname reports qtr-one adjusted earnings per share $num-three.
+qtr-one gaap earnings per share $num-one from continuing operations.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $617 million.
+qtr-one adjusted non-gaap earnings per share $num-three.

@@ -1,0 +1,11 @@
+compname reports qtr-four earnings per share of $num-one.
+compname reports qtr-four earnings per share of $num-four.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-four.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-four.
+qtr-four revenue fell num-four percent to $num-one million.
+sees qtr-one year-five revenue $num-one million to $num-two million.
+vishay precision - operating results for qtr-four year-four versus qtr-three year-four were primarily impacted by inventory reductions & negative impact of foreign exchange rates.
+vishay precision group- projected revenue range excludes any potential impact of coronavirus on business, which co is continuing to monitor closely.

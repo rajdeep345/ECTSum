@@ -1,0 +1,5 @@
+compname reports qtr-four earnings per share of $num-three.
+compname reports fourth quarter earnings per share of $num-three and full year earnings per share of $num-six.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $86.9 million.
+board authorized up to $num-one million of purchases of shares and share equivalents in year-five.
+qtrly earnings per share $num-three.

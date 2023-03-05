@@ -1,0 +1,10 @@
+qtr-two adjusted earnings per share $num-one.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.33 billion.
+for year-six, now expect overall sales to be up about num-one%.
+for year-six, now expect overall sales to be up about num-one%.
+for year-six, now expect overall sales to be up about num-two%.
+year-six adjusted earnings per diluted share expected to be in range of $num-one to $num-two.
+expect overall sales in qtr-three to be up in mid-num-one% range compared to qtr-three of year-five.
+expect overall sales in qtr-three to be up in mid-num-one% range compared to qtr-three of year-five.
+expect overall sales in qtr-three to be up in mid-num-two% range compared to qtr-three of year-five.
+qtr-three adjusted earnings per diluted share anticipated to be in range of $num-one to $num-two.

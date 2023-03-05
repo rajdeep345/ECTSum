@@ -1,0 +1,10 @@
+compname reports qtr-three gaap earnings of $num-one per share.
+qtr-three operating earnings per share $num-one.
+quarterly net interest income expressed on a taxable-equivalent basis totaled $num-one million , up from $947 million in qtr-three year-five.
+qtr-three gaap earnings per share $num-one.
+quarterly net loan charge-offs were $num-two million versus $30 million.
+allowance for credit losses totaled $1.52 billion or num-one% of loans outstanding at [date], year-six.
+compname posts qtr-three gaap share $num-one.
+qtrly net interest income expressed on a taxable-equivalent basis totaled $num-one million , up from $947 million in qtr-three of year-five.
+qtr-three gaap share $num-one.
+qtrly net loan charge-offs were $num-two million versus $30 million.

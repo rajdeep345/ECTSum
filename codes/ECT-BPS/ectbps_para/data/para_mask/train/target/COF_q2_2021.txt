@@ -1,0 +1,5 @@
+compname reports second quarter year-six net income of $num-one billion, or $num-two per share.
+qtr-two adjusted earnings per share $num-one excluding items.
+qtrly net interest margin of num-one%, a decrease of num-two basis points versus qtr-one year-six.
+qtrly earnings per share $num-two.
+common equity tier num-one capital ratio under basel iii standardized approach of num-two% at [date], year-six.

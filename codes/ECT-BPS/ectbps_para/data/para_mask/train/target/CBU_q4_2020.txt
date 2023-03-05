@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-one.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $150.8 million.
+qtr-four operating earnings per share $num-one.
+recorded net interest income of $num-one million in qtr-four of year-five.

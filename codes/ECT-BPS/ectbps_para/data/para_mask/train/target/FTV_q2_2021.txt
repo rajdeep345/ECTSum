@@ -1,0 +1,2 @@
+sees fy adjusted earnings per share $num-one to $num-two from continuing operations.
+sees qtr-three adjusted earnings per share $num-one to $num-two from continuing operations.

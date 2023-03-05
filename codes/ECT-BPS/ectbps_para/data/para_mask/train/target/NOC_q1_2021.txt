@@ -1,0 +1,5 @@
+compname reports qtr-one earnings per share $num-one.
+compname reports qtr-one earnings per share $num-one.
+qtrly earnings per share $num-one; qtrly transaction-adjusted earnings per share $num-three.
+qtrly sales increased due to higher sales at space systems, mission systems and aeronautics systems.
+qtr-one net awards totaled $num-one billion and backlog was $79.3 billion.

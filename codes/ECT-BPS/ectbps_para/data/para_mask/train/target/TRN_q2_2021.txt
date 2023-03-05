@@ -1,0 +1,2 @@
+compname posts quarterly income from continuing operations per share of $num-one.
+qtrly income from continuing operations per common diluted share of $num-one and quarterly adjusted earnings per share of $num-two.

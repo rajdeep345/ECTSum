@@ -1,0 +1,9 @@
+qtr-four sales of $num-one million were up num-two% overall and up num-three% organically.
+qtr-four sales of $num-one million were up num-two% overall and up num-three% organically.
+we project gaap earnings per share of $num-one to $num-two and adjusted earnings per share to range from $num-three to $num-four.
+so in summary, we are projecting organic revenue growth of num-one% to num-two% for the year, adjusted earnings per share expectations in the range of $num-three to $num-four, a num-five% to num-six% growth over year-six.
+under this new definition, for the first quarter of year-seven, we are projecting gaap earnings per share of $num-one to $num-two and adjusted earnings per share to range from $num-three to $num-four.
+we project gaap earnings per share of $num-one to $num-two and adjusted earnings per share to range from $num-three to $num-four.
+under this new definition, for the first quarter of year-seven, we are projecting gaap earnings per share of $num-one to $num-two and adjusted earnings per share to range from $num-three to $num-four.
+qtr-four net income was $num-one million, which resulted in earnings per share of $num-two.
+adjusted net income was also $num-one million with adjusted earnings per share of $num-two, which was up $num-three or num-four% over prior-year adjusted eps.

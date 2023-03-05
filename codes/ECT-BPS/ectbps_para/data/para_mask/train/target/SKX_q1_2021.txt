@@ -1,0 +1,8 @@
+compname reports qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-two.
+qtr-one sales $num-one billion.
+qtr-one sales $num-one billion.
+sees qtr-two earnings per share $num-three to $num-four.
+sees fy earnings per share $num-three to $2.00.
+sees qtr-two sales $num-one billion to $num-two billion.
+sees fy sales $num-one billion to $num-two billion.

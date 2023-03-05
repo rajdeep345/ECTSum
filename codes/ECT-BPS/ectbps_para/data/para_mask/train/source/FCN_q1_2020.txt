@@ -1,0 +1,4 @@
+gaap earnings per share was $num-one compared to $num-two in the prior-year quarter.
+revenues of $num-one million were up $num-two million or num-three% compared to revenues of $num-four million in the prior-year quarter.
+first-quarter adjusted earnings per share of $num-one which excludes the noncash interest expense, compared to $num-two in the prior-year quarter.
+so yes, we may, this year, have some puts and takes.

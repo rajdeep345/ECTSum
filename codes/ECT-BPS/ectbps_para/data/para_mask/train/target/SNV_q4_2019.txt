@@ -1,0 +1,8 @@
+compname reports qtr-four adjusted earnings per share of $num-two.
+compname announces earnings for the fourth quarter year-four and a num-one% increase in common stock dividend.
+compname announces earnings for the fourth quarter year-four and a num-one% increase in common stock dividend.
+compname announces earnings for the fourth quarter year-four and a num-one% increase in common stock dividend.
+compname announces earnings for the fourth quarter year-four and a num-one% increase in common stock dividend.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-one.
+qtrly net interest margin of num-one%, a decline of num-two basis points from previous quarter.

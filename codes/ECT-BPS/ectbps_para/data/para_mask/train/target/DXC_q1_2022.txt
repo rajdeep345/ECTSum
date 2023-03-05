@@ -1,0 +1,4 @@
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-two.
+bookings of $num-three billion and book-to-bill ratio of num-one.num-txt in qtr-one ftxt-num.

@@ -1,0 +1,5 @@
+compname reports qtr-four gaap earnings per share of $num-two.
+qtr-four gaap earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two.
+sees qtr-one adjusted earnings per share $num-one to $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.

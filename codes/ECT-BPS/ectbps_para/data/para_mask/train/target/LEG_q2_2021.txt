@@ -1,0 +1,7 @@
+compname reports qtr-two sales of $num-one billion.
+compname reports qtr-two sales $num-one billion.
+qtr-two earnings per share $num-three.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.23 billion.
+sees fy sales $num-one billion to $num-two billion.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees year-six earnings per share of $num-one-$num-two.

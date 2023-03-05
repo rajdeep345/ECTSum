@@ -1,0 +1,2 @@
+qtrly earnings per share $num-two.
+qtrly adjusted earnings per share $num-two.

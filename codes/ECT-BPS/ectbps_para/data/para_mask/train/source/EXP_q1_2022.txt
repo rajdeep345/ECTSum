@@ -1,0 +1,2 @@
+first quarter earnings per share was $num-one.
+first quarter revenue was a record $num-one million, an increase of num-two% from the prior year.

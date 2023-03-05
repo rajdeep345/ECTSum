@@ -1,0 +1,6 @@
+compname announces qtr-one earnings per share of $num-one.
+compname announces qtr-one earnings per share of $num-two.
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-two.
+gaap book value at [date], year-six was $num-one per common share.
+qtrly net interest income $num-one million versus $61.7 million.

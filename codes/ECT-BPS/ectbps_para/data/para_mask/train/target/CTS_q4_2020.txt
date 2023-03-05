@@ -1,0 +1,8 @@
+compname announces qtr-four adjusted earnings per share $num-one.
+compname announces qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-one.
+sees fy year-six sales $num-one million to $num-two million.
+adjusted earnings per diluted share for year-six are expected to be in range of $num-three to $num-four.
+aims to narrow guidance range as year progresses.

@@ -1,0 +1,7 @@
+gaap operating income was $num-one million and our gaap diluted earnings per share was $num-two.
+core diluted earnings per share was $num-one, a num-two% improvement over the prior-year quarter.
+gaap operating income was $num-one million and our gaap diluted earnings per share was $num-two.
+we expect total company revenue in the fourth quarter of fiscal year-six to be in the range of $num-one billion to $num-two billion for an increase of num-three% on a year-over-year basis at the midpoint of the range.
+gaap diluted earnings per share is expected to be in the range of $num-one to $num-two.
+core diluted earnings per share is estimated to be in the range of $num-one to $num-two.
+for this year, we now anticipate core earnings per share to be in the range of $num-one on revenue of $num-two billion.

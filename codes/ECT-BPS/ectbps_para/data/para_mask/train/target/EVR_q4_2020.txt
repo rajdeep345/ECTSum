@@ -1,0 +1,5 @@
+compname reports quarterly adj earnings per share of $num-five.
+compname reports full year year-five results; record fourth quarter and full year revenues; quarterly dividend of $num-one per share.
+evercore inc - qtr-four u.s. gaap and adjusted net revenues of $927.3 million and $num-one million, respectively.
+evercore inc - qtrly earnings per share $num-three.
+evercore inc - qtrly adjusted earnings per share $num-five.

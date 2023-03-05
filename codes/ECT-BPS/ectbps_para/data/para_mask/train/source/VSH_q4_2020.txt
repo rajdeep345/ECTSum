@@ -1,0 +1,7 @@
+eps was $num-one for the quarter, adjusted earnings per share was $num-two for the quarter.
+eps was $num-one, adjusted earnings per share was $num-two.
+earnings per share of $num-one versus $num-two in quarter three and adjusted earnings per share of $num-three versus $num-four in qtr-three.
+eps was $num-one for the quarter, adjusted earnings per share was $num-two for the quarter.
+eps was $num-one, adjusted earnings per share was $num-two.
+earnings per share of $num-one versus $num-two in quarter three and adjusted earnings per share of $num-three versus $num-four in qtr-three.
+for the first quarter, we at quarter four exchange rates guide to a sales range between $num-one million and $num-two million at the gross margin of num-three% of sales, plus/minus num-four basis points.

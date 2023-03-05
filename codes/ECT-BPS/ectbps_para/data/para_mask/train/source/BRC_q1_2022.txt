@@ -1,0 +1,9 @@
+gaap diluted earnings per share was $num-one, which was an increase of num-two% over last year's first quarter.
+as i mentioned, our gaap earnings per share was $num-one this quarter compared to $num-two in last year's first quarter, an increase of num-three%.
+sales in the first quarter were $num-one million, which was an increase of num-two% when compared to the same quarter last year, and gaap pre-tax earnings increased num-three% to $num-four million.
+gaap diluted earnings per share was $num-one, which was an increase of num-two% over last year's first quarter.
+as i mentioned, our gaap earnings per share was $num-one this quarter compared to $num-two in last year's first quarter, an increase of num-three%.
+our full-year diluted earnings per share guidance, excluding amortization remains unchanged at a range of $num-one to $num-two per share.
+on a gaap basis, our full-year diluted earnings per share guidance also remains unchanged at a range of $num-one to $num-two per share.
+as michael mentioned, we're seeing inflationary pressures, and we're finding it difficult to fill open manufacturing roles.
+in addition to these investments, our wps business also experienced gross margin compression as a result of raw materials, freight and wage inflation as i mentioned.

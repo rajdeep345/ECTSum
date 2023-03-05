@@ -1,0 +1,9 @@
+teradata qtr-two adj earnings per share $num-two.
+teradata qtr-two adj earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-two.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $475.4 million.
+sees qtr-three gaap diluted earnings per share to be in range of loss per share of $num-four to earnings per share of $num-two.
+teradata sees qtr-three non-gaap eps, excluding stock-based compensation expense, reorganization-related expenses, other special items, to be $num-one to $num-two.
+fy total revenue is now expected to grow at a low-single-digit to mid-single-digit percentage year-over-year.
+teradata - fy non-gaap eps, excluding items, is now expected to be $num-one to $num-two.

@@ -1,0 +1,4 @@
+net loss for the first quarter on a gaap basis was $num-one million or a diluted loss per share of $num-two, compared to a net income of $num-three million for the prior-year quarter.
+net loss for the first quarter on a gaap basis was $num-one million or a diluted loss per share of $num-two, compared to a net income of $num-three million for the prior-year quarter.
+i'll now walk through our outlook for full-year year-six.
+first-quarter adjusted net income was $num-one million or adjusted diluted earnings per share of $num-two, an increase from first quarter's year-five adjusted net income of $num-three million.

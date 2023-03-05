@@ -1,0 +1,8 @@
+eps is $num-one, up num-two% year-over-year.
+putting it all together, we delivered earnings per share of $num-one, up num-two% versus last year.
+eps is $num-one, up num-two% year-over-year.
+putting it all together, we delivered earnings per share of $num-one, up num-two% versus last year.
+this translates the fourth quarter revenue ranging from $num-one billion to $num-two billion.
+we are increasing our full-year revenue projection to a range of $num-one billion to $num-two billion, up $num-three million at the midpoint from previous guidance and representing reported growth of num-four% to num-five% and core growth of num-six% to num-seven%.
+we expect to continue our strong operating leverage, and so we are increasing our fiscal year-six non-gaap earnings per share to a range of $num-one to $num-two per share, up num-three% to num-four% for the year.
+non-gaap earnings per share is expected to be between $num-one and $num-two with growth of num-three% to num-four%.

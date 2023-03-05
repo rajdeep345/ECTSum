@@ -1,0 +1,6 @@
+compname reports fourth quarter diluted earnings per share of $0.50 and adjusted earnings per share of $num-one.
+qtr-four adjusted earnings per share $num-one.
+sees fy year-seven adjusted earnings per share $num-one to $num-two.
+coterra energy qtrly believe robust end-market demand will continue.
+coterra energy - in our reinforcement materials segment, expect fy to benefit from higher volumes.
+coterra energy - in performance chemicals segment, anticipate particular strength in battery materials and inkjet packaging in fy.

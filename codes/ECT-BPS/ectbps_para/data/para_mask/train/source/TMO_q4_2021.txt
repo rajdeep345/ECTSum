@@ -1,0 +1,7 @@
+gaap earnings per share in the quarter was $num-one.
+adjusted earnings per share was $num-one per share.
+we delivered $num-one of adjusted earnings per share in the quarter and $num-two for the full year.
+and as i mentioned, we delivered $num-one of adjusted earnings per share in the quarter.
+gaap earnings per share in the quarter was $num-one.
+starting with the quarter, our revenue was $num-one billion. on the top line, our qtr-four reported revenue grew num-two% year over year.
+starting with the quarter, our revenue was $num-one billion. on the top line, our qtr-four reported revenue grew num-two% year over year.

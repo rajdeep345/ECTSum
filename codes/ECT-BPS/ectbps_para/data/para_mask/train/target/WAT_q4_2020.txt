@@ -1,0 +1,11 @@
+compname reports qtr-four non-gaap earnings per share of $num-two.
+qtr-four non-gaap earnings per share $num-two.
+qtr-four gaap earnings per share $num-one.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $713.7 million.
+sees qtr-one non-gaap earnings per share $num-one to $num-two.
+sees fy year-six non-gaap earnings per share $num-one to $num-two.
+expects qtr-one year-six constant-currency sales growth in range of num-two% to num-one%.
+expects qtr-one year-six constant-currency sales growth in range of num-one% to num-two%.
+currency translation is expected to increase full-year sales growth by one to two percentage points.
+expects full-year year-six constant-currency sales growth in range of num-one% to num-two%.
+currency translation is expected to increase qtr-one sales growth by approximately three percentage points.

@@ -1,0 +1,4 @@
+compname reports qtr-three earnings per share $num-one.
+compname reports third quarter year-five earnings of $num-one per diluted share.
+qtr-three earnings per share $num-one.
+provision for credit losses was $num-one million in the quarter.

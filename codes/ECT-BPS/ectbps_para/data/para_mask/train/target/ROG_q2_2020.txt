@@ -1,0 +1,8 @@
+rogers sees qtr-three adj. earnings per share in range of $num-one to $num-two.
+rogers corp qtrly earnings per share $num-one.
+rogers corp qtrly adjusted earnings per share $num-two.
+rogers corp qtrly adjusted earnings per share $num-one.
+rogers corp sees qtr-three net sales of $num-one million to $num-two million.
+rogers corp sees qtr-three earnings per share in range of $num-one to $num-two.
+rogers corp sees qtr-three adjusted earnings per share in range of $num-one to $num-two.
+rogers corp sees year-five capital expenditures in range of $num-one million to $num-two million.

@@ -1,0 +1,8 @@
+compname reports qtr-one gaap earnings per share $num-two.
+qtr-one adjusted non-gaap earnings per share $num-three.
+qtr-one gaap earnings per share $num-two.
+qtr-one revenue $num-one billion versus $num-one6 billion.
+long-term outlook for quanta's business is positive.
+expects year-six revenues to be between $num-one billion and $num-two billion.
+sees fy diluted earnings per share attributable to common stock $num-one and $num-two.
+sees fy adjusted diluted earnings per share attributable to common stock $num-three and $num-four.

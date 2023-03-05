@@ -1,0 +1,3 @@
+qtr-three non-gaap earnings per share $num-two.
+sees fy earnings per share $num-one to $0.65.
+qtr-three earnings per share $num-two.

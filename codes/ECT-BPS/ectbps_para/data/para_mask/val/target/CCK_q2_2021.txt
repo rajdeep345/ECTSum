@@ -1,0 +1,4 @@
+compname reports qtr-two earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two earnings per share $num-one.
+sees qtr-three adjusted earnings per share $num-one to $2.00.

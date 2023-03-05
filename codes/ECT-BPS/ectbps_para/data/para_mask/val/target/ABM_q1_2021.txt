@@ -1,0 +1,8 @@
+qtr-one adjusted earnings per share $num-two from continuing operations.
+qtr-one adjusted earnings per share $num-two from continuing operations.
+qtr-one gaap earnings per share $num-one from continuing operations.
+qtr-one gaap earnings per share $num-two from continuing operations.
+for fiscal year-six, company expects gaap income from continuing operations of $num-one to $num-two per diluted share.
+for fiscal year-six, company expects gaap income from continuing operations of $num-one to $num-two per diluted share.
+for fiscal year-six, company expects adjusted income from continuing operations of $num-three to $num-four per diluted share.
+for fiscal year-six, company expects adjusted income from continuing operations of $num-three to $num-four per diluted share.

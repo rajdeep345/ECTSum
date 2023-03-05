@@ -1,0 +1,4 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three sales fell num-two percent to $num-one billion.
+sees fy year-six adjusted earnings per share $num-one - $num-two.

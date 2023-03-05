@@ -1,0 +1,5 @@
+we reported gaap net income of $num-one million, or $num-two per share, which increased from a loss of $num-three per share in the prior year.
+we reported gaap net income of $num-one million, or $num-two per share, which increased from a loss of $num-three per share in the prior year.
+adjusted net income was $num-one million, or $num-two per share, an increase of $num-three or num-four%.
+for our fiscal first quarter, we expect adjusted earnings per share in the range of $num-one to $num-two, down versus the prior year, primarily due to lower volume in batesville, higher inflation and supply chain costs, and the impact of the divestitures.
+we expect adjusted earnings per share in the range of $num-one to $num-two for the full year.

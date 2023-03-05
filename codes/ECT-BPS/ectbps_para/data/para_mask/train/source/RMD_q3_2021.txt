@@ -1,0 +1,3 @@
+non-gaap diluted earnings per share for the quarter were $num-one, an increase of num-two%.
+as a result of the tax reserve recorded this quarter, our gaap net loss for the quarter was $num-one million and our gaap diluted loss per share for the quarter was $num-two.
+non-gaap diluted earnings per share for the quarter were $num-one, an increase of num-two%.

@@ -1,0 +1,6 @@
+wabash national qtr-two gaap earnings per share $num-two.
+qtr-two adjusted non-gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-two.
+quarter-end backlog of $num-two billion, up num-three% yoy.
+quarter end backlog of $num-two billion up num-three% yoy.
+year-six earnings per share outlook maintained, updated for divestiture impact at $num-two per diluted share; range of $num-three to $num-four.

@@ -1,0 +1,8 @@
+teledyne technologies qtr-three gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-one excluding items.
+qtr-three gaap earnings per share $num-two.
+qtr-three sales rose num-one percent to $1.312 billion.
+sees fy non-gaap earnings per share $num-three to $num-four.
+sees qtr-four non-gaap earnings per share $num-three to $num-four.
+sees fy gaap earnings per share $num-one to $num-two.
+sees qtr-four gaap earnings per share $num-one to $num-two.

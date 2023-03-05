@@ -1,0 +1,5 @@
+compname reports qtr-two ffo per share $num-one.
+qtr-two ffo per share $num-one excluding items.
+qtrly ffo attributable to common stockholders and unit holders of $num-one per share.
+qtrly core ffo $num-one per share.
+sees year-six ffo and core ffo of $num-one-$num-two.

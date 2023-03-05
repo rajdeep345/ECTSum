@@ -1,0 +1,2 @@
+fourth quarter revenue was $num-one million, a $num-two million increase over reported fourth quarter year-five revenue.
+net income for the quarter was $num-one million or $num-two per diluted share.

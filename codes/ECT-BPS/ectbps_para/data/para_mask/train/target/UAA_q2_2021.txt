@@ -1,0 +1,8 @@
+compname posts qtr-two adjusted earnings per share $num-three.
+sees fy adjusted earnings per share $0.50 to $num-four.
+sees fy earnings per share $0.14 to $num-two.
+qtr-two adjusted earnings per share $num-three.
+qtr-two earnings per share $num-two.
+qtr-two revenue $num-two billion versus refinitiv ibes estimate of $1.21 billion.
+fy year-six revenue is expected to be up at a low twenties percentage rate compared to previous expectation.
+expects to recognize approximately $num-one million to $num-two million in charges related to restructuring plan in qtr-three.

@@ -1,0 +1,6 @@
+compname reports fourth quarter year-six net income of $num-one billion.
+qtrly net interest margin of 6.60%, up num-two basis points versus qtr-three.
+compname reports fourth quarter year-six net income of $num-one billion, or $num-two per share.
+compname says common equity tier num-one capital ratio under basel iii standardized approach of num-two percent at [date], year-six.
+qtrly earnings per share $num-two.
+qtrly provision for credit losses increased $723 million to $num-one million versus qtr-three year-six.

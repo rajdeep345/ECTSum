@@ -1,0 +1,4 @@
+frontline qtr-two net loss of $num-one million.
+qtr-two net loss -num-one million usd.
+qtr-two diluted loss per share num-two usd.
+net loss of $num-one million, or $num-two per basic and diluted share for qtr-two of year-six.

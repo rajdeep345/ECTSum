@@ -1,0 +1,7 @@
+compname reports qtr-two earnings per share of $num-two.
+qtrly earnings per share $num-two.
+freeport-mcmoran - average realized prices in qtr-two year-six were $num-one per pound for copper, $1,794 per ounce for gold and $13.11 per pound for molybdenum.
+qtrly adjusted net income attributable to common stock totaled $num-one billion, or $num-two per share.
+consolidated sales totaled num-one million pounds of copper, 305 thousand ounces of gold and 22 million pounds of molybdenum in qtr-two.
+ramp-up of grasberg underground mines advancing on schedule.
+freeport-mcmoran - sees qtr-three consolidated sales of 1.035 billion pounds of copper, 360 thousand ounces of gold and num-one million pounds of molybdenum.

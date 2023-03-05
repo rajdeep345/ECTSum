@@ -1,0 +1,8 @@
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $880.4 million.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-five.
+increases year-six guidance.
+sees fy revenue growth, organic num-one% - num-two%.
+sees fy revenue growth, organic num-one% - num-two%.
+sees fy non-gaap earnings per share estimate $num-one - $num-two.
+sees fy non-gaap earnings per share estimate $num-two - $num-three.

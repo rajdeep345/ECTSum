@@ -1,0 +1,7 @@
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-two.
+qtr-one sales fell num-two percent to $num-one million.
+year-six earnings per share outlook increased to $num-one to $num-two.
+now expects year-six organic sales to be up num-one% to num-two%.
+company forecasts year-six capital expenditures of approximately $num-one million.
+company forecasts year-six capital expenditures of approximately $num-one million.

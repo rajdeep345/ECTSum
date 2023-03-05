@@ -1,0 +1,4 @@
+sees fy ffo per share $num-one to $num-two.
+qtr-three ffo per share $num-one.
+qtr-three ffo per share $num-two.
+qtrly earnings per share $num-two.

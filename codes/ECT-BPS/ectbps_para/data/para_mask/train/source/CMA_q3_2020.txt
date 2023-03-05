@@ -1,0 +1,3 @@
+today we reported earnings of $num-one million, an increase of num-two% over the second quarter.
+net interest income declined $num-one million to $num-two million and the net interest margin was num-three%, a decline of num-four basis points relative to the second quarter.
+credit quality is expected to be solid with net charge-offs increasing from the low third quarter level, which did include strong recoveries.

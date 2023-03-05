@@ -1,0 +1,15 @@
+compname reports qtr-two adjusted earnings per share $num-two.
+compname reports qtr-two adjusted earnings per share $num-three.
+compname reports qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-two from continuing operations excluding items.
+qtr-two adjusted earnings per share $num-three from continuing operations excluding items.
+qtr-two adjusted earnings per share $num-one from continuing operations excluding items.
+qtr-two adjusted earnings per share $num-two excluding items.
+fiscal year-six adjusted earnings per share guidance of $num-one to $num-two.
+sees ftxt-num net sales from continuing operations down num-one% to down num-two%.
+sees ftxt-num organic net sales from continuing operations down num-one% to down num-two%.
+campbell soup - qtrly growth driven by num-one% increase in volume & mix as at-home food consumption remained elevated due to covid.
+campbell soup - qtrly growth driven by num-one% increase in volume & mix as at-home food consumption remained elevated due to covid.
+campbell soup - qtrly growth driven by num-one% increase in volume & mix as at-home food consumption remained elevated due to covid.
+campbell soup - qtrly growth driven by num-one% increase in volume & mix as at-home food consumption remained elevated due to covid.
+remains on track to deliver annualized savings of $num-one million by end of fiscal year-seven.

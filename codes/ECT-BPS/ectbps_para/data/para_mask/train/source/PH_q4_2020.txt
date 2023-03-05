@@ -1,0 +1,3 @@
+current year adjusted earnings per share of $num-one compares to $num-two last year.
+you'll find the significant components of the $num-one walk from prior year fourth quarter adjusted earnings per share to $num-two for this year.
+for the full year, the guidance range on an as-reported earnings per share basis is $num-one to $num-two or $num-three at the midpoint.

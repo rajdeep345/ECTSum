@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two from continuing operations.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-two.
+griffon qtr-four earnings per share from continuing operations $num-two.
+qtr-four earnings per share from continuing operations $num-two .

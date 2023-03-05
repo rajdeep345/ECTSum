@@ -1,0 +1,16 @@
+compname reports qtr-three gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-one.
+sees fy adjusted earnings per share at least $num-one.
+sees fy adjusted earnings per share at least $num-two.
+qtrly adjusted earnings per share $num-one.
+qtrly agribusiness results driven by strong execution and better than expected market environment.
+increasing full-year adjusted earnings per share outlook to at least $num-one based on strong qtr-three results and favorable market trends.
+increasing full-year adjusted earnings per share outlook to at least $num-two based on strong qtr-three results and favorable market trends.
+bunge board authorized new $num-two million program.
+bunge board authorized new $num-two million program.
+bunge board authorized new $num-one million program.
+expect favorable market trends to continue.
+are well-positioned to help our customers across supply chain address challenges in meeting increasing consumer demand.
+in agribusiness, fy results are expected to be up from our previous outlook and now forecasted to be higher than last year.
+in non-core, full-year results in sugar and bioenergy joint venture are now expected to be up significantly from prior year.
+in refined and specialty oils, fy results are expected to be up from our previous outlook and well above last year.

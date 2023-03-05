@@ -1,0 +1,4 @@
+qtr-three adjusted earnings per share $num-one.
+share repurchase authorization expanded by one million shares.
+sees fy adjusted earnings per share $num-one — $num-two.
+sees fy adjusted ebitda $num-one million — $num-two million.

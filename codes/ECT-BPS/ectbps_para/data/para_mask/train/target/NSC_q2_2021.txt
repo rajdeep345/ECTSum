@@ -1,0 +1,6 @@
+compname reports qtr-two earnings per share of $num-one.
+qtr-two earnings per share $num-one.
+qtrly railway operating revenues of $num-one billion increased num-two%.
+qtrly railway operating ratio was num-one%, an all-time record.
+qtrly railway operating ratio was num-one%, an all-time record.
+qtrly railway operating ratio was num-one%, an all-time record.

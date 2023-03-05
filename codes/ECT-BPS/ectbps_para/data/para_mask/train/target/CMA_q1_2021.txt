@@ -1,0 +1,3 @@
+compname reports qtr-one earnings per common share of $num-one.
+qtrly earnings per common share $num-one.
+qtrly provision for credit losses decreased $165 million to a benefit of $num-one million versus qtr-four .

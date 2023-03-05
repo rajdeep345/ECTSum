@@ -1,0 +1,4 @@
+qtr-four non-gaap earnings per share $num-two.
+qtr-four earnings per share $num-two.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $686.8 million.
+sees year-six estimated non-gaap operating margin of about 16.0% to num-four%.

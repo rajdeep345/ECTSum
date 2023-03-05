@@ -1,0 +1,13 @@
+adjusted earnings per share was $num-one for the quarter.
+eps was $num-one, adjusted earnings per share was $num-two.
+earnings per share were $num-one and adjusted earnings per share, $num-two.
+adjusted earnings per share was $num-one for the quarter.
+eps was $num-one, adjusted earnings per share was $num-two.
+earnings per share were $num-one and adjusted earnings per share, $num-two.
+eps was $num-one for the quarter.
+eps was $num-one, adjusted earnings per share was $num-two.
+earnings per share were $num-one and adjusted earnings per share, $num-two.
+vishay reported revenues for qtr-three of $num-one million.
+revenues in the quarter were $num-one million, down by num-two% from previous quarter and up by num-three% compared to prior year.
+we achieved sales of $num-one million versus $num-two million in prior quarter and versus $num-three million in prior year.
+we guide to a sales range between $num-one million and $num-two million at a gross margin of num-three%.

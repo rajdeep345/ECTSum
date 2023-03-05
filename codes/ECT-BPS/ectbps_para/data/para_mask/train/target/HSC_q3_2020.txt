@@ -1,0 +1,4 @@
+compname says qtr-three adjusted earnings per share $num-one from continuing operations.
+qtr-three adjusted earnings per share $num-one from continuing operations.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $474.1 million.
+expects its qtr-four ebitda to be within a range of $num-one million to $num-two million.

@@ -1,0 +1,7 @@
+compname posts qtr-three earnings per share of $num-one.
+qtr-three adjusted non-gaap earnings per share $num-one.
+qtr-three earnings per share $num-one.
+compared with prior year, total reported gaap sales increased num-one% to $952.0 million.
+anticipates local currency sales growth for qtr-four of year-six will be about num-one%.
+anticipates local currency sales growth in year-seven will be about num-one%.
+year-seven sales growth of about num-one% is expected to result in adjusted earnings per share in range of $num-two to $num-three.

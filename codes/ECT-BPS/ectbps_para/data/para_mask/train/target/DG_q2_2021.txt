@@ -1,0 +1,9 @@
+compname posts qtr-two earnings per share of $num-two.
+qtr-two earnings per share $num-two.
+sees fy sales up num-one to num-two percent.
+qtr-two sales $num-two billion versus refinitiv ibes estimate of $8.61 billion.
+qtrly same-store sales decreased num-one%; increased num-two% on a two-year stack basis.
+sees fy same-store sales decline of num-three% to num-four%.
+sees fy diluted earnings per share in range of $num-seven to $num-eight.
+as of [date], year-six, total merchandise inventories, at cost, were $num-one billion compared to $4.4 billion as of [date], year-five.
+same-store sales in qtr-two included a decline in each of consumables, seasonal, apparel, and home products categories.

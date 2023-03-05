@@ -1,0 +1,2 @@
+from a performance standpoint, the adjusted earnings per share loss of $num-one per share in qtr-three is significantly better than our previous guidance of a loss of between $num-two and $num-three per share.
+broadly speaking, and not surprisingly, our qtr-three sales across most markets were negatively impacted by the ongoing pandemic and resulting economic downturn.

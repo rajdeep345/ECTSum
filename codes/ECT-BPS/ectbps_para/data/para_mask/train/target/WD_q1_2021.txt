@@ -1,0 +1,4 @@
+compname reports num-three% growth in diluted earnings per share to $num-two.
+compname reports num-two% growth in diluted earnings per share to $num-one.
+qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.

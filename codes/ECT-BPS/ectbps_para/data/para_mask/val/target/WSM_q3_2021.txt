@@ -1,0 +1,11 @@
+compname reports qtr-three non-gaap earnings per share of $num-one.
+qtr-three non-gaap earnings per share $num-one.
+sees fy revenue up num-one to num-two percent.
+sees fy revenue up num-one to num-two percent.
+qtrly comparable brand revenue growth of num-one%.
+qtrly comparable brand revenue growth of num-three%.
+qtrly comparable brand revenue growth of num-one%.
+qtrly comparable brand revenue growth of num-three%.
+qtrly comparable brand revenue growth of num-one%.
+qtrly comparable brand revenue growth of num-five%.
+for long-term, planning for annual net revenue growth of mid-to-high single digits.

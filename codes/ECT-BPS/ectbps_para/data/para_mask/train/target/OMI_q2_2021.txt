@@ -1,0 +1,5 @@
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.
+qtr-two gaap earnings per share $num-two.
+qtrly adjusted earnings per share $num-two.
+affirms previously announced year-six and year-seven guidance.

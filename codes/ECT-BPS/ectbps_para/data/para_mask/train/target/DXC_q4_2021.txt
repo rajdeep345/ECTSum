@@ -1,0 +1,7 @@
+compname reports qtr-four non-gaap earnings per share $num-one.
+sees fy year-nine adjusted earnings per share $5.00 to $num-six.
+qtr-four non-gaap earnings per share $num-one.
+sees qtr-one revenues $num-one billion to $num-two billion.
+sees qtr-one adjusted earnings per share $num-one - $num-two.
+sees fy year-seven revenues $num-one billion to $num-two billion.
+sees fy year-seven adjusted earnings per share $num-five - $num-six.

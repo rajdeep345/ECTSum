@@ -1,0 +1,10 @@
+in the third quarter, we reported earnings per share of $num-one and generated total revenue of $num-two billion.
+in the third quarter of year-six, we earned $num-one per diluted share.
+in the third quarter, we reported earnings per share of $num-one and generated total revenue of $num-two billion.
+in the third quarter of year-six, we earned $num-one per diluted share.
+in the third quarter, we reported earnings per share of $num-one and generated total revenue of $num-two billion.
+we released $num-one million of loan loss reserves this quarter, supported by our outlook on the economy and better-than-expected credit quality metrics.
+our reserve release was $num-one million this quarter, primarily reflecting strong credit quality metrics.
+these results include a reserve release of $num-one million.
+our cetxt-num ratio was num-one% at [date].
+our common equity tier num-one capital ratio at [date] was num-two%, which increased slightly compared to [date].

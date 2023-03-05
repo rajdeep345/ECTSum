@@ -1,0 +1,3 @@
+compname reports qtr-three non-gaap earnings per share of $num-one.
+qtr-three gaap loss per share $num-two.
+qtr-three non-gaap earnings per share $num-one.

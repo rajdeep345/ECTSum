@@ -1,0 +1,9 @@
+compname posts quarterly earnings per share of $num-two.
+compname posts quarterly earnings per share of $num-three.
+qtr-one sales rose num-two percent to $num-one million.
+qtrly earnings per share $num-two.
+qtrly earnings per share $num-three.
+qtrly adjusted earnings per share $num-two.
+qtrly adjusted earnings per share $num-three.
+sees net sales of $num-one billion to $num-two billion for year-seven.
+sees net sales of $num-one billion to $num-two billion for year-seven.

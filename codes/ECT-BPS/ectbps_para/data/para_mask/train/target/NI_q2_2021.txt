@@ -1,0 +1,7 @@
+compname posts qtr-two non-gaap operating earnings per share $num-one.
+compname posts qtr-two non-gaap operating earnings per share $num-two.
+qtr-two non-gaap operating earnings per share $num-one.
+qtr-two non-gaap operating earnings per share $num-two.
+remains on track to achieve year-six guidance and long-term earnings per share growth rates.
+nisource - remains on track to achieve year-six non-gaap diluted net operating earnings guidance of $num-one to $num-two per share.
+expects to make capital investments of $num-one billion to $2.1 billion in year-six.

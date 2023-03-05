@@ -1,0 +1,10 @@
+compname reports qtr-three earnings per share of $num-three.
+compname reports qtr-three earnings per share of $num-one.
+qtr-three earnings per share $num-three.
+qtr-three earnings per share $num-one.
+qtr-three sales rose num-two percent to $num-one billion.
+qtrly organic local-currency sales increased num-three percent.
+updates full-year year-six outlook.
+sees fy total sales growth num-two% to num-five%.
+sees fy earnings per share $num-three to $num-four.
+sees fy earnings per share $num-one to $num-two.

@@ -1,0 +1,5 @@
+qtrly earnings per share $num-two.
+sees qtr-two year-six revenue $num-one to $num-two million.
+sees qtr-two year-six earnings per share $num-one to $num-two.
+sees year-six revenue $2.80 to $num-two billion.
+sees year-six earnings per share $num-three to $num-four.

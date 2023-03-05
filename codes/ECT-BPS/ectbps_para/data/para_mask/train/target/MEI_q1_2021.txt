@@ -1,0 +1,5 @@
+compname reports qtr-one earnings per share $num-three.
+qtr-one earnings per share $num-three.
+qtr-one sales $num-three million versus $num-four million.
+sees qtr-two sales $num-one million to $num-two million.
+not providing annual guidance due to mid-term market uncertainty as a result of ongoing pandemic.

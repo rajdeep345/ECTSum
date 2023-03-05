@@ -1,0 +1,4 @@
+qtr-three adjusted earnings per share $num-one.
+sees fy earnings per share $num-one to $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees year-six organic sales flat compared with prior year.

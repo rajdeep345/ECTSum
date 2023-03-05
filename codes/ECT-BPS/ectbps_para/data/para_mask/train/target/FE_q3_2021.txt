@@ -1,0 +1,5 @@
+sees fy non-gaap operating earnings per share $num-three to $num-four.
+qtr-three gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-one.
+operating (non-gaap) earnings for qtr-three of year-six were $num-one per share.
+operating (non-gaap) earnings for qtr-three of year-six were $num-two per share.

@@ -1,0 +1,5 @@
+sees fy earnings per share $num-one to $num-two.
+qtr-four adjusted earnings per share $num-one.
+qtr-four earnings per share $num-one.
+qtr-four revenue rose 8 percent to $num-one million.
+sees fy year-seven revenue $num-one billion to $num-two billion.

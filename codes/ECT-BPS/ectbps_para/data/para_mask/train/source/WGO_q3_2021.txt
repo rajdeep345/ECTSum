@@ -1,0 +1,4 @@
+reported diluted earnings per share of $num-one in qtr-three compares to a reported diluted earnings per share of $num-two in the prior-year period and sequentially compares to a reported diluted earnings per share of $num-three in qtr-two.
+reported diluted earnings per share of $num-one in qtr-three compares to a reported diluted earnings per share of $num-two in the prior-year period and sequentially compares to a reported diluted earnings per share of $num-three in qtr-two.
+in the third quarter, winnebago industries grew net sales to a record $num-one million, representing a num-two% growth year over year and an organic ex-newmar growth of num-three% over our pandemic fiscal third quarter in year-four.
+adjusted diluted earnings per share of $num-one in qtr-three compares to $num-two in qtr-two.

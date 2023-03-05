@@ -1,0 +1,13 @@
+compname reports qtr-three earnings per share $num-one.
+compname reports qtr-three earnings per share $num-one.
+sees qtr-four non-gaap earnings per share $num-one to $num-two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three sales $num-one billion.
+qtr-three sales $num-one billion.
+estimates its tons sold will be down num-one% to 8% in qtr-four of year-six versus qtr-three of year-six.
+estimates its average selling price per ton sold for qtr-four of year-six will be up num-one% to 7%.
+compname says estimates its average selling price per ton sold for qtr-four of year-six will be up num-one% to 7%.
+reliance steel & aluminum - sees demand impacted by normal seasonal factors incl.
+customer holiday-related shutdowns, fewer shipping days in qtr-four versus qtr-three.
+qtrly average selling price per ton sold$num-one versus $2,418 in qtr-two.

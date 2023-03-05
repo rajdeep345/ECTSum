@@ -1,0 +1,7 @@
+compname reports qtr-four earnings per share $num-two.
+compname reports fourth quarter net income and operating income of $num-six and $num-two per diluted share, respectively.
+full year net income and operating income of $num-two and $num-five per diluted share, respectively.
+full year combined ratio of num-one%.
+full year combined ratio of num-one%.
+qtr-four operating earnings per share $num-two.
+qtr-four earnings per share $num-two.

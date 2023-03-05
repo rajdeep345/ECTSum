@@ -1,0 +1,2 @@
+our gaap earnings per share for the quarter was $num-one compared to an adjusted earnings per share for the quarter of $num-two, which includes a $num-three adjustment primarily from the loss on extinguishment of our partially owned subsidiaries debt.
+our gaap earnings per share for the quarter was $num-one compared to an adjusted earnings per share for the quarter of $num-two, which includes a $num-three adjustment primarily from the loss on extinguishment of our partially owned subsidiaries debt.

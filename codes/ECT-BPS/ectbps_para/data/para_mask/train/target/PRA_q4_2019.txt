@@ -1,0 +1,4 @@
+compname reports qtrly loss per share $num-two.
+qtrly loss per share $num-two.
+qtrly adjusted loss per share $num-two.
+results for year-four were not acceptable.

@@ -1,0 +1,3 @@
+compname posts quarterly earnings per share of $num-two.
+qtr-three non-gaap operating earnings per share $num-four.
+qtrly net income of $num-one million, or $num-two per diluted share.

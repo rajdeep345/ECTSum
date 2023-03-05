@@ -1,0 +1,5 @@
+qtrly core ffo per share $num-one.
+qtrly core ffo per share $num-one.
+sees fy num-txt core ffo per share $num-two - $num-three.
+sees fy num-txt core ffo per share $num-one - $num-two.
+sees qtr-two num-txt core ffo per share $num-one - $num-two.

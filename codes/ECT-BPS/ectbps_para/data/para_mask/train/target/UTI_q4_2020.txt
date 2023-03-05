@@ -1,0 +1,4 @@
+compname reports qtr-four earnings per share of $num-two.
+qtr-four revenue $num-two million versus refinitiv ibes estimate of $85.5 million.
+universal technical institute - expects double-digit growth in new student starts, revenue, adjusted ebitda, net income, and adjusted free cash flow in year-six.
+qtrly earnings per share $num-two.

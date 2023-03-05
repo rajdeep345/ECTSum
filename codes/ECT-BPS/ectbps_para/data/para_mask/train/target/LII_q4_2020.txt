@@ -1,0 +1,10 @@
+compname reports qtr-four revenue of $num-two mln.
+qtr-four adjusted earnings per share $num-two from continuing operations.
+qtr-four gaap earnings per share $num-one from continuing operations.
+qtr-four revenue $num-two million versus refinitiv ibes estimate of $884.8 million.
+reiterating year-six guidance for gaap and adjusted earnings per share from continuing operations of $num-two-$num-three.
+reiterating year-six guidance for gaap and adjusted earnings per share from continuing operations of $num-one-$num-two.
+reiterating year-six guidance for $num-one million of stock repurchases.
+reiterating year-six guidance for $num-three million of stock repurchases.
+sees year-six capital expenditures of approximately $num-one million.
+sees year-six capital expenditures of approximately $num-one million.

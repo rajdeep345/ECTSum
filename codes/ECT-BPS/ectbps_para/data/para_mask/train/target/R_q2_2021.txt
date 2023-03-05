@@ -1,0 +1,5 @@
+qtr-two non-gaap earnings per share $num-one from continuing operations.
+sees qtr-three non-gaap earnings per share $num-one to $num-two.
+sees year-six capital expenditures of $num-one billion - $num-two billion.
+ryder system - in scs & dts, on track to meet/exceed revenue growth targets, but anticipate returns to be impacted by increased labor, insurance costs.
+now expect nearly all of our leases to perform above target returns.

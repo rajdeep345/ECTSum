@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-four excluding items.
+qtr-four earnings per share $num-two excluding items.
+sees qtr-one adjusted earnings per share $num-one to $num-two excluding items.
+qtr-four earnings per share $num-one.

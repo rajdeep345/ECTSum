@@ -1,0 +1,5 @@
+compname reports qtr-two loss per share $num-two.
+qtr-two loss per share $num-two.
+qtr-two revenue $num-one million.
+qtr-two adjusted loss per share $num-three excluding items.
+customer spending has been 'exceptionally' weak, impacting demand for many of forum's products.

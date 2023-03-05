@@ -1,0 +1,10 @@
+compname posts qtr-three adjusted earnings per share $num-one.
+compname posts qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one .
+qtr-three adjusted earnings per share $num-one .
+sees fy adjusted earnings per share $num-one to $8.00.
+qtrly total revenues increased to $num-one billion, up 10.0% compared to prior year.
+qtrly adjusted operating income increased num-one% primarily due to administration of covid vaccinations and diagnostic testing.
+qtrly adjusted operating income increased num-one% primarily due to administration of covid vaccinations and diagnostic testing.
+qtrly adjusted operating income increased num-two% primarily due to administration of covid vaccinations and diagnostic testing.
+administered more than num-three million covid tests and more than num-two million covid vaccines nationwide in qtr-three.

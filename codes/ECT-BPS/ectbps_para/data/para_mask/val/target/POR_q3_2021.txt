@@ -1,0 +1,8 @@
+compname reports qtr-three earnings per share of $num-two.
+compname reports qtr-three earnings per share of $num-one.
+reaffirms fy earnings per share view $num-one to $num-two.
+reaffirms fy earnings per share view $num-one to $num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+reaffirming estimate for full-year year-six earnings guidance of $num-one to $num-two per diluted share.
+reaffirming estimate for full-year year-six earnings guidance of $num-one to $num-two per diluted share.

@@ -1,0 +1,3 @@
+second quarter sales were $num-one billion, an increase of num-two% from fiscal year-six and a num-three% increase from fiscal year-four.
+our strong sales results and elevated operating expenses resulted in an adjusted earnings per share of $num-one for the quarter.
+adjusted earnings per share increased $num-one to $num-two for the second quarter compared to last year.

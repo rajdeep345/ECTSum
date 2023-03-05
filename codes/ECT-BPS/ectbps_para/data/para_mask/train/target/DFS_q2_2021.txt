@@ -1,0 +1,4 @@
+discover financial services qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+board approves repurchase of up to $num-one billion of common stock.
+increases the quarterly common stock dividend 14% from $num-one to $num-two per share.

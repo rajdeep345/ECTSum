@@ -1,0 +1,7 @@
+compname reports qtrly adjusted earnings per diluted share of $num-two.
+qtrly diluted earnings per share$num-one.
+qtrly adjusted earnings per diluted share $num-two.
+qtrly net sales $num-one million versus $198.8 million.
+sees qtr-two net sales $num-one million to $num-two million.
+sees qtr-two earnings per share $num-one to $num-two.
+sees qtr-two adjusted earnings per share $num-three to $num-four.

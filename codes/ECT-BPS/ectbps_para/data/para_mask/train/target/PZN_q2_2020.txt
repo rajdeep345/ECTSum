@@ -1,0 +1,2 @@
+qtr-two gaap earnings per share $num-one.
+qtr-two revenue fell 20 percent to $num-one million.

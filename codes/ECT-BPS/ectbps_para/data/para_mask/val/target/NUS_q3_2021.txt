@@ -1,0 +1,6 @@
+qtr-three earnings per share $num-one.
+sees fy revenue up num-one to num-two percent.
+sees fy revenue up num-three to num-four percent.
+qtr-three revenue $num-one million.
+sees year-six eps:$num-one to $num-two.
+sees year-six revenue to be $num-one billion to $num-two billion.

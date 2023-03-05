@@ -1,0 +1,2 @@
+compname reports qtrly adjusted earnings per share of $num-two.
+qtr-one adjusted earnings per share $num-two excluding items.

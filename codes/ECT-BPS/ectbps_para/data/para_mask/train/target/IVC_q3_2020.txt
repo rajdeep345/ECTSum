@@ -1,0 +1,4 @@
+increases full year year-five guidance for net sales and adjusted ebitda.
+sees fy year-five reported net sales of at least $num-one million, up from previous range of $num-two to $num-one million.
+sees fy year-five adjusted ebitda in the range of $num-one to $num-two million, up from previous range of $num-three to $num-four million.
+sees fy year-five free cash flow usage in the range of $num-one to $num-two million, changed from previous range of $num-three to $num-four million.

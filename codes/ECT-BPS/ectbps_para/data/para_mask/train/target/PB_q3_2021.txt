@@ -1,0 +1,4 @@
+compname reports qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+increase in dividend of num-two% to $num-one for qtr-four year-six.
+qtrly net interest income before provision for credit losses was $num-one million compared with $num-two million.

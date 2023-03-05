@@ -1,0 +1,4 @@
+the company recorded $num-one in fully diluted gaap earnings per share for the fourth quarter.
+the company recorded total revenues of $num-one million in the fourth quarter of year-five, an increase of $num-two million or num-three% from the prior year's fourth quarter.
+excluding acquisition expenses, acquisition-related provision for credit losses, unrealized gain on equity securities and gain on debt extinguishment net of tax effect, fully diluted operating earnings per share were $num-one for the quarter.
+the company recorded net interest income of $num-one million in the fourth quarter, up $num-two million or num-two% over the fourth quarter of year-four.

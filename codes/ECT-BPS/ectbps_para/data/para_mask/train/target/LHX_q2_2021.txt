@@ -1,0 +1,3 @@
+qtrly non-gaap earnings per share of $num-two.
+qtrly non-gaap earnings per share of $num-three.
+sees year-six non-gaap earnings per share $num-one - $13.00.

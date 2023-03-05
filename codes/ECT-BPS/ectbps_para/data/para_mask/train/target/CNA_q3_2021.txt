@@ -1,0 +1,5 @@
+compname announces third quarter year-six net income of $num-four per share and core income of $num-two per share.
+qtr-three core earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtrly book value per share of $num-two.
+qtrly book value per share excluding aoci of $num-two.

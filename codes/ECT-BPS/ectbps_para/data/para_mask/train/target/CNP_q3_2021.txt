@@ -1,0 +1,10 @@
+qtr-three non-gaap earnings per share $num-one.
+qtr-three earnings per share $num-one.
+utility earnings per share guidance range for year-seven raised to $num-one - $num-two.
+utility earnings per share guidance range for year-seven raised to $num-one - $num-two.
+reiterating num-one% utility earnings per share annual growth rate target for year-seven through year-nine.
+reiterating num-one% utility earnings per share annual growth rate target for year-seven through year-nine.
+reiterating num-three% utility earnings per share annual growth rate target for year-seven through year-nine.
+reiterating num-one% utility earnings per share annual growth rate target for year-seven through year-nine.
+raising year-six non-gaap utility earnings per share guidance range to $num-one - $num-two.
+raising year-six non-gaap utility earnings per share guidance range to $num-two - $num-three.

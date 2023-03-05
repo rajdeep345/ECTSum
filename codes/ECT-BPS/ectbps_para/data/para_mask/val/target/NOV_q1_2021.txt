@@ -1,0 +1,8 @@
+national oilwell varco qtr-one year-six revenues of $num-one billion, a decrease of six percent compared to qtr-four of year-five.
+national oilwell varco qtr-one year-six revenues of $num-three billion, a decrease of six percent compared to qtr-four of year-five.
+qtr-one year-six revenues of $num-one billion, a decrease of six percent compared to qtr-four of year-five.
+qtr-one year-six revenues of $num-three billion, a decrease of six percent compared to qtr-four of year-five.
+completion & production solutions generated revenues of $num-one million in qtr-one, decrease of num-three% from qtr-four of year-five.
+completion & production solutions new orders booked during quarter totaled $num-two million.
+new orders booked in rig technologies during the quarter totaled $num-two million.
+as of [date], year-six, company had total debt of $num-two billion.

@@ -1,0 +1,5 @@
+compname reports qtr-two earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two earnings per share $num-one.
+qtr-two revenue rose num-two percent to $num-one million.
+qtr-two adjusted earnings per share $num-one.

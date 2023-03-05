@@ -1,0 +1,5 @@
+on a gaap basis, we reported $num-one for the first quarter of year-six compared to a loss of $num-two for the first quarter of year-five.
+we reported $num-one of non-gaap earnings per share for the first quarter of year-six compared to $num-two for the first quarter of year-five.
+on a gaap basis, we reported $num-one for the first quarter of year-six compared to a loss of $num-two for the first quarter of year-five.
+we are, of course, reaffirming our full year utility earnings per share range for year-six of $num-one to $num-two and our long-term num-three% to num-four% utility earnings per share annual growth target.
+we remain on course for a $num-one billion-plus capital spending program and industry-leading num-two% compounded annual rate base growth target over the next five years.

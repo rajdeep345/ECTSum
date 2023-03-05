@@ -1,0 +1,6 @@
+compname reports qtr-three adjusted earnings per share $num-three.
+compname reports qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtr-three adjusted earnings per share $num-one.
+company increases dividend num-one% from $0.06 to $0.08 per share.
+company extends credit facility until year-nine.

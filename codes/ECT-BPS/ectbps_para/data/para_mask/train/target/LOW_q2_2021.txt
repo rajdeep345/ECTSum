@@ -1,0 +1,17 @@
+compname reports qtr-two earnings per share of $num-two.
+compname reports qtr-two earnings per share of $num-one.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-one.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $26.85 billion.
+qtr-two earnings per share $num-two excluding items.
+qtr-two earnings per share $num-one excluding items.
+qtrly consolidated comparable sales decreased num-two%.
+qtrly u.s. comparable sales decreased num-one%.
+qtrly u.s. comparable sales decreased num-one%.
+raises fiscal year-six financial outlook.
+sees fy year-six revenue of about $num-one billion.
+sees fy year-six revenue of about $num-two billion.
+for fiscal year-six, company expects capital expenditures of approximately $num-one billion.
+for fiscal year-six, company expects capital expenditures of approximately $num-one billion.
+sees fy year-six revenue of about $num-one billion, representing about num-two% comparable sales growth on a two-year basis.
+sees fy year-six revenue of about $num-two billion, representing about num-one% comparable sales growth on a two-year basis.

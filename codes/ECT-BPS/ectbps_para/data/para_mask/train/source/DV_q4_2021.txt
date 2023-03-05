@@ -1,0 +1,5 @@
+we generated $num-one million of revenue, representing year-over-year growth of $num-two million or num-three%.
+for the first quarter of year-seven, we expect revenue in the range of $num-one million to $num-two million, which implies a num-three% growth at the midpoint.
+and we expect first quarter adjusted ebitda in the range of $num-one million to $num-two million, which represents a num-three% adjusted ebitda margin at the midpoint.
+we expect full year year-seven revenue in the range of $num-one million to $num-two million, a year-over-year increase of num-three% at the midpoint.
+and we expect full year year-seven adjusted ebitda in the range of $num-one million to $num-two million, representing a num-three% adjusted ebitda margin at the midpoint.

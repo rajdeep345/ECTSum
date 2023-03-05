@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-two.
+qtr-four adjusted non-gaap earnings per share $num-three.
+expects year-six revenues to range between $num-one billion and $num-two billion.
+expects year-six earnings per share to range between $num-one and $num-two and adjusted earnings per share to range between $num-three and $num-four.

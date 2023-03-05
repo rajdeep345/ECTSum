@@ -1,0 +1,4 @@
+provident financial services qtr-one earnings per share $num-one.
+provident financial services qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-two.

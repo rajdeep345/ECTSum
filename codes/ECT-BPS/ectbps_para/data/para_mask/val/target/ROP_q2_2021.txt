@@ -1,0 +1,4 @@
+sees fy adjusted earnings per share $15.00 to $num-two.
+sees qtr-three adjusted earnings per share $num-one to $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two revenue $num-two billion versus refinitiv ibes estimate of $1.58 billion.

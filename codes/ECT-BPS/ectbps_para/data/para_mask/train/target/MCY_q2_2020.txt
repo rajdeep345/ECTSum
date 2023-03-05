@@ -1,0 +1,4 @@
+qtrly earnings per share $num-two.
+compname posts quarterly net income per diluted share $num-two.
+qtrly net income per diluted share $num-two.
+qtrly operating income per diluted share $num-one.

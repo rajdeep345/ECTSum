@@ -1,0 +1,4 @@
+sees qtr-three normalized ffo per share $num-one-$num-two.
+qtrly normalized ffo per share $num-one.
+qtrly normalized ffo per share $num-two.
+qtrly normalized ffo per share $num-two.

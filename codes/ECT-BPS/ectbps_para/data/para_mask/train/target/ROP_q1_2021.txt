@@ -1,0 +1,4 @@
+sees fy adjusted earnings per share $num-one to $15.00.
+sees qtr-two adjusted earnings per share $num-one to $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one revenue $num-two billion.

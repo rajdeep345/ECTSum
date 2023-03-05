@@ -1,0 +1,6 @@
+sees fy adjusted earnings per share $num-one to $num-two.
+qtr-two adjusted earnings per share $num-one.
+for txt-num of fiscal year, anticipate continued demand strength across our segments.
+for txt-num, expect some impact from flow-through of higher raw material costs in asia.
+for txt-num, expect some impact from moderating volumes into automotive applications due to semi-conductor chip shortage.
+for txt-num, expect some impact from increased fixed costs due to timing of scheduled maintenance activities.

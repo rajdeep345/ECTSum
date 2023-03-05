@@ -1,0 +1,7 @@
+compname reports qtr-one adjusted earnings per share of $num-one.
+qtr-one earnings per share $num-one.
+qtr-one sales rose num-two percent to $num-one million.
+qtr-one adjusted earnings per share $num-one.
+now expects fiscal year-seven total net sales growth in range of num-one% to num-two%.
+now expects fiscal year-seven total net sales growth in range of num-one% to num-two%.
+company is holding its fiscal year-seven adjusted earnings per share guidance in range of $num-one to $num-two per diluted share.

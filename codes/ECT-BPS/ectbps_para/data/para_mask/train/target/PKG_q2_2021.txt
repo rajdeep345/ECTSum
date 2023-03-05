@@ -1,0 +1,6 @@
+packaging corp of america sees qtr-three earnings per share of $num-one.
+sees qtr-three earnings per share $num-one.
+qtr-two earnings per share $num-two excluding items.
+qtr-two earnings per share $num-two excluding items.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.78 billion.
+do not currently expect special items to have a significant effect on qtr-three earnings.

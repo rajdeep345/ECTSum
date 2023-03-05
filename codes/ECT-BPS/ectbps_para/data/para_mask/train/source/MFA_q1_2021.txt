@@ -1,0 +1,6 @@
+we reported gaap earnings of $num-one per share in the first quarter.
+net income to common shareholders was $num-one million or $num-two per share.
+we reported gaap earnings of $num-one per share in the first quarter.
+net income to common shareholders was $num-one million or $num-two per share.
+gaap book value was $num-one, up num-two% from december num-txt, and economic book value was $num-three, up num-four% from december num-txtt.
+the key items impacting our results are as follows: net interest income of $num-one million was $num-two million higher sequentially.

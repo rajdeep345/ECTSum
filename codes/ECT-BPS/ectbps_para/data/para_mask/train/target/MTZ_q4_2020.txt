@@ -1,0 +1,6 @@
+compname reports qtr-four rev of $num-one bln.
+compname reports qtr-four rev of $num-two bln.
+sees qtr-one adjusted earnings per share $num-four.
+sees qtr-one revenue about $num-one billion.
+currently expects full year year-six revenue will approximate $num-one billion.
+qtrly adjusted diluted earnings per share of $num-two.

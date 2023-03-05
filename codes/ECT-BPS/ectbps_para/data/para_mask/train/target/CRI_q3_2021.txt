@@ -1,0 +1,9 @@
+compname reports qtr-three earnings per share of $num-three.
+compname reports qtr-three earnings per share of $num-one.
+qtr-three earnings per share $num-three .
+qtr-three earnings per share $num-one .
+qtr-three adjusted non-gaap earnings per share $num-three.
+qtr-three adjusted non-gaap earnings per share $num-one.
+sees fy adjusted earnings per share about $num-three.
+compname reports qtr-three adjusted non-gaap earnings per share of $num-three.
+compname reports qtr-three adjusted non-gaap earnings per share of $num-one.

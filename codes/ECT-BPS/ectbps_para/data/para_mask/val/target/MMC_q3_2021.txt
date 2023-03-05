@@ -1,0 +1,5 @@
+marsh mclennan qtr-three earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtr-three earnings per share $num-one.
+qtr-three revenue rose num-one percent to $num-two billion.

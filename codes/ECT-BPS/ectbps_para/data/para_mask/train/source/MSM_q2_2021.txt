@@ -1,0 +1,4 @@
+gaap earnings per share were $num-one.
+adjusted for the inventory writedown, as well as restructuring, and other charges, adjusted earnings per share were $num-one.
+gaap earnings per share were $num-one.
+our second-quarter sales were $num-one million, or $num-two million, on an average daily sales basis, both a decline of num-three% versus the same quarter last year.

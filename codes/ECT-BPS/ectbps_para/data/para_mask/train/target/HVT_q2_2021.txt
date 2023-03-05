@@ -1,0 +1,6 @@
+compname reports qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-two same store sales rose num-one percent.
+qtr-two sales $num-one million.
+qtr-two sales $num-one million.
+qtrly diluted earnings per common share of $num-two.

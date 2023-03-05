@@ -1,0 +1,4 @@
+chimera investment qtr-two core earnings per share $num-two.
+qtr-two core earnings per share $num-two.
+qtr-two gaap loss per share $num-two.
+qtrly gaap book value of $num-one per common share.

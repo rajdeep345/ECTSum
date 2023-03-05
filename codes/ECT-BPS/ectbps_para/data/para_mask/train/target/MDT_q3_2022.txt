@@ -1,0 +1,7 @@
+sees qtr-four non-gaap earnings per share $num-one to $num-two.
+issues qtr-four revenue and earnings per share guidance.
+qtrly revenue of $7.8 billion was flat year-over-year as reported and grew num-one% organic.
+expects qtr-four organic revenue growth of approximately num-one%.
+qtr-three revenue results reflect unfavorable market impact of covid and health system labor shortages on medical device procedure volumes.
+impact of covid resurgence on healthcare procedure volumes, particularly in u.s., peaked in final weeks of our quarter in january.
+expect healthcare procedures to reaccelerate post-omicron.

@@ -1,0 +1,11 @@
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.
+sees qtr-one revenue $num-one billion to $num-two billion.
+sees qtr-one revenue up num-three to num-four percent.
+qtr-four revenue rose num-two percent to $num-one billion.
+full-year year-seven guidance reaffirmed for revenue including a $num-two million revenue headwind from foreign exchange.
+full-year year-seven guidance reaffirmed for revenue including a $num-one million revenue headwind from foreign exchange.
+full-year year-seven guidance raised for adjusted ebitda and adjusted diluted eps.
+sees fy year-seven adjusted earnings per share $num-one to $num-two.
+sees qtr-one year-seven adjusted earnings per share $num-one to $num-two.

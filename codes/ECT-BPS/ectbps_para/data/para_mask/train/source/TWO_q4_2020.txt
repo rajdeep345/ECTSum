@@ -1,0 +1,4 @@
+core earnings increased to $num-one per share from $num-two in qtr-three.
+we are very pleased with our fourth-quarter performance and book value of $num-one, which represents a num-two% quarterly return on book value.
+results for year-five as a whole were disappointing to be sure as book value declined to $num-one from $num-two, a result of the market volatility and dislocation induced by the pandemic.
+as bill mentioned, our book value rose to $num-one from $num-two per share on [date], resulting in a total economic return of num-three%.

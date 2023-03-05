@@ -1,0 +1,4 @@
+compname reports second quarter year-five earnings per share of $num-one.
+compname reports second quarter year-five earnings per share of $num-one, a num-six% increase from prior quarter.
+qtr-two earnings per share $num-one.
+qtr-two operating earnings per share $num-two.

@@ -1,0 +1,2 @@
+as shown on slide-num, earnings per share from continuing operations was $num-one, an increase of $num-two or num-three% compared to our first quarter year-five earnings per share of $num-four.
+eps from continuing operations for the first quarter compared to the first quarter last year grew by $num-one to $num-two per share from $num-three, representing growth of just under num-four%.

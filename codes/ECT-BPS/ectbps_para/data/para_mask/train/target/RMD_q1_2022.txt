@@ -1,0 +1,3 @@
+qtr-one earnings per share $num-two.
+qtr-one revenue rose num-two percent to $num-one million.
+qtrly non-gaap diluted earnings per share $num-one.

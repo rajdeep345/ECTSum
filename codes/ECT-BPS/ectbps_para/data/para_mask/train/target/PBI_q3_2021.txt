@@ -1,0 +1,6 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three gaap earnings per share $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.
+qtr-three revenue $num-one million.
+fy year-six revenue still expected to grow over prior year in low-to-mid single digit range.
+fy year-six adjusted earnings per share still expected to grow over prior year and be in range of $num-one to $num-two.

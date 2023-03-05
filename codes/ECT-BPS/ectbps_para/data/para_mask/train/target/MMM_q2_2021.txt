@@ -1,0 +1,6 @@
+num-txt sees fy earnings per share $num-three to $num-four.
+num-txt sees fy earnings per share $num-one to $num-two.
+sees fy earnings per share $num-three to $num-four.
+sees fy earnings per share $num-one to $num-two.
+qtr-two adjusted earnings per share $num-three.
+qtr-two adjusted earnings per share $num-one.

@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share $num-two.
+qtr-four operating earnings per share $num-two.
+qtr-four operating earnings per share $num-one.
+sees fy year-five operating earnings per share $num-one to $num-two.
+qtr-four earnings per share $num-two.
+sees net operating income per share will be in range of $num-one to $num-two for year ending [date], year-five.

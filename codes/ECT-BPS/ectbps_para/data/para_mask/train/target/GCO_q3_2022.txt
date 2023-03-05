@@ -1,0 +1,7 @@
+qtr-three non-gaap earnings per share $num-two from continuing operations.
+qtr-three sales rose num-two percent to $num-one million.
+sees fy adjusted earnings per share $num-one to $num-two from continuing operations.
+sees fy adjusted earnings per share $num-one to $num-two from continuing operations.
+qtrly same store sales increased num-two% over last year.
+qtrly same store sales increased num-one% over last year.
+sees ftxt-num sales to be up num-one% to num-two%, compared to fiscal year-five.

@@ -1,0 +1,4 @@
+qtr-two adjusted earnings per share $num-one from continuing operations.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $556.4 million.
+sees year-six adjusted diluted earnings per share $num-one - num-two.
+sees qtr-three gaap earnings per share $0.15 - num-three.

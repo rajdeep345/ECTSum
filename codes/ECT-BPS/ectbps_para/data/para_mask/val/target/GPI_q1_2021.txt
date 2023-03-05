@@ -1,0 +1,4 @@
+compname announces record first quarter year-six financial results.
+qtr-one adjusted non-gaap earnings per share $num-one.
+compname says qtr-one revenue increase driven by u.s. new and used vehicle revenue growth of more than num-one percent.
+quarterly new vehicle revenue increased 15.0 percent, on a num-one percent increase in unit sales.

@@ -1,0 +1,5 @@
+compname posts qtr-two earnings per share $num-three.
+qtr-two earnings per share $num-three.
+qtr-two sales $num-three million.
+sees qtr-three earnings per share $num-one to $num-two including items.
+sees qtr-three sales $num-one million to $num-two million.

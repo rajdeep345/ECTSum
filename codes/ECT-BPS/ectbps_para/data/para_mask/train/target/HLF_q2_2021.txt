@@ -1,0 +1,8 @@
+compname reports qtr-two sales of $num-one bln.
+compname reports qtr-two sales of $num-one bln.
+qtr-two earnings per share $num-two.
+sees fy sales up num-one to num-two percent.
+sees fy sales up num-one to num-two percent.
+qtr-two adjusted earnings per share $num-one.
+sees fy year-six adjusted diluted earnings per share guidance range $num-one - $num-two.
+sees qtr-three adjusted diluted earnings per share $num-one to $num-two.

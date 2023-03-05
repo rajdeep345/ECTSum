@@ -1,0 +1,5 @@
+compname posts qtr-four adjusted earnings per share $num-two.
+compname posts qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one.
+qtr-one fy’22 diluted earnings per share is expected to range between $num-three to $num-four.

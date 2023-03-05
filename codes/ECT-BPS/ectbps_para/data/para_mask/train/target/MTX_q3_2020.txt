@@ -1,0 +1,4 @@
+qtr-three earnings per share $num-two excluding items.
+qtr-three earnings per share $num-one excluding items.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $386.1 million.
+incurred special charges of $num-two million after-tax in qtr-three, or $num-three per share.

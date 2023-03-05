@@ -1,0 +1,6 @@
+compname reports qtr-one earnings per share of $num-one.
+sees fy earnings per share $num-one to $num-two.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one sales rose num-one percent to $num-two billion.
+sees fy year-six adjusted net income per share $num-one - $num-two.

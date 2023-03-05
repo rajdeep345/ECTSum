@@ -1,0 +1,8 @@
+for the third quarter year-six, we reported a loss of $num-one per share.
+in the third quarter, our sales increased num-one% to $num-two million versus the prior period.
+third quarter sales were $num-one million, up num-two% compared to the third quarter of year-five and down num-three% sequentially from the second quarter.
+third quarter adjusted earnings per share of $num-one were up num-two% from $num-three in the third quarter of year-five.
+third quarter adjusted earnings per share of $num-one were up num-two% from $num-three in the same period last year.
+adjusted earnings for the third quarter were $num-one per diluted share compared to $num-two per diluted share in the same period last year.
+we are now updating our guidance for sales to be in the range of $num-one million to $num-two million, and adjusted earnings are expected to be in the range of $num-three to $num-four.
+we are now updating our guidance for sales to be in the range of $num-one million to $num-two million, and adjusted earnings are expected to be in the range of $num-three to $num-four.

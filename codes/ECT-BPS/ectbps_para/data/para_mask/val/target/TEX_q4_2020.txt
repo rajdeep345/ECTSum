@@ -1,0 +1,4 @@
+qtr-four earnings per share $num-one from continuing operations.
+provides financial guidance for year-six.
+declared a quarterly dividend of $num-one per share.
+expectations are that year-six sales will be approximately $num-three billion, and earnings per share will be approximately $num-one to $num-two.

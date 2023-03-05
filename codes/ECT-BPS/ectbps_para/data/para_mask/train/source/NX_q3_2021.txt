@@ -1,0 +1,4 @@
+we reported net sales of $num-one million during the third quarter of year-six, which represents an increase of num-two%, compared to $num-three million during the third quarter of year-five.
+we reported net income of $num-one million or $num-two per diluted share for the three months ended [date], year-six, compared to $num-three million or $num-four per diluted share for the three months ended [date], year-five.
+however, we do expect inflation, labor costs, and supply chain challenges to continue pressuring margins throughout the fourth quarter of this year.
+in summary, on a consolidated basis, we are reaffirming net sales guidance of approximately $num-one billion to $num-two billion, and adjusted ebitda of $num-three million to $num-four million in fiscal year-six.

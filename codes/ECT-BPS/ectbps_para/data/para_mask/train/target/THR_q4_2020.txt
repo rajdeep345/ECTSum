@@ -1,0 +1,4 @@
+compname posts quarterly loss per share of $num-one.
+thermon group holdings inc qtrly loss per share $num-one.
+thermon group holdings inc qtrly adjusted earnings per share $num-one.
+thermon group holdings - qtr-four year-five total orders were $num-one million versus $num-two million in qtr-four year-four.

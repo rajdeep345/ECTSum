@@ -1,0 +1,3 @@
+compname reports record revenues of $num-one million as diluted earnings per share grows num-five% to $num-four.
+qtr-two earnings per share $num-three.
+qtr-two earnings per share $num-two.

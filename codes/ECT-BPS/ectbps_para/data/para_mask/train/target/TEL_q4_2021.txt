@@ -1,0 +1,7 @@
+te connectivity qtr-four adjusted earnings per share $num-three.
+te connectivity qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-three.
+qtr-four adjusted earnings per share $num-one.
+qtr-four gaap earnings per share $num-two from continuing operations.
+sees qtr-one sales about $num-one billion.
+qtr-four sales rose num-two percent to $num-one billion.

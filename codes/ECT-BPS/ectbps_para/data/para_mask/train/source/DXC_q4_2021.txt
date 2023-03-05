@@ -1,0 +1,7 @@
+non-gaap diluted earnings per share was $num-one and was negatively impacted by $num-two due to a higher-than-expected tax rate of num-three%.
+organic revenue growth of num-one% to num-two%; adjusted ebit margin of approximately num-three% to num-four%; non-gaap diluted earnings per share of $num-five to $num-six; free cash flow of approximately $num-seven billion.
+non-gaap diluted earnings per share was $num-one and was negatively impacted by $num-two due to a higher-than-expected tax rate of num-three%.
+this translates into reported revenues between $num-one billion and $num-two billion.
+non-gaap diluted earnings per share in the range of $num-one to $num-two.
+this translates into revenue of $num-one billion to $num-two billion; ebit margin, num-three% to num-four%; non-gaap diluted earnings per share of $num-five to $num-six, an increase of num-seven% to num-eight% year over year; free cash flow of $num-nine million.
+this translates into revenue of $num-one billion to $num-two billion; ebit margin, num-three% to num-four%; non-gaap diluted earnings per share of $num-five to $num-six, an increase of num-seven% to num-eight% year over year; free cash flow of $num-nine million.

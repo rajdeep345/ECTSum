@@ -1,0 +1,9 @@
+compname reports qtr-three adjusted earnings per share of $num-one.
+compname reports qtr-three adjusted earnings per share of $num-two.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+qtr-three sales rose num-one percent to $num-two billion.
+qtr-three same store sales rose num-one percent.
+qtr-three same store sales rose num-one percent.
+sees year-six capital expenditures of minimum $num-seven million.
+sees fy year-six comparable store sales growth of num-three% to num-four%.

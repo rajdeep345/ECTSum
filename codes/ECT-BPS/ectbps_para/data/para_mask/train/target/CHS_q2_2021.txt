@@ -1,0 +1,6 @@
+compname posts qtr-two earnings per share $num-one.
+compname posts qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+compname says consolidated year-over-year net sales improvement between num-one% to num-two% for qtr-three.
+compname says expects consolidated year-over-year net sales improvement between num-one% to num-two% for fy year-six.

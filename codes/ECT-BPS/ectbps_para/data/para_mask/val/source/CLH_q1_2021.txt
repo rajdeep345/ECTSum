@@ -1,0 +1,3 @@
+we now expect adjusted ebitda in the range of $num-one million to $num-two million with a midpoint of $num-three million.
+based on our current ebitda guidance and working capital assumptions, we now expect year-six adjusted free cash flow in the range of $num-one million to $num-two million or a midpoint of $num-three million.
+looking at guidance from a quarterly perspective, we expect qtr-two adjusted ebitda to be num-one% to num-two% above prior year levels based on the positive momentum we are experiencing in our business and the pandemic-related slowdown in qtr-two a year ago.

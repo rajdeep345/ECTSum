@@ -1,0 +1,14 @@
+compname reports qtr-three adjusted earnings per share of $num-two.
+compname reports qtr-three adjusted earnings per share of $num-one.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy gaap earnings per share $num-one to $num-two.
+qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+sees fy revenue $num-one million to $num-two million.
+qtr-three revenue rose num-two percent to $num-six million.
+on [date], co's board authorized company to repurchase shares of up to $num-one million.
+on [date], co's board authorized company to repurchase shares of up to $num-one million.
+share repurchase program does not have an expiration date.
+sees full-year year-six capital expenditures in range of $num-one to $num-two million.

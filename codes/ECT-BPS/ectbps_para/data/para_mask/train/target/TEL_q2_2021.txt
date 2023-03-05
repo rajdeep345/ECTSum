@@ -1,0 +1,18 @@
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two gaap earnings per share $num-two from continuing operations.
+qtr-two sales $num-one billion.
+qtr-two sales $num-one billion.
+qtr-two sales $num-one billion.
+sees qtr-three adjusted earnings per share about $num-two.
+sees qtr-three adjusted earnings per share about $num-one.
+sees qtr-three adjusted earnings per share about $num-two.
+sees qtr-three adjusted earnings per share about $num-one.
+sees qtr-three adjusted earnings per share about $num-one.
+sees qtr-three gaap earnings per share about $num-two from continuing operations.
+sees qtr-three sales about $num-one billion.
+sees qtr-three sales about $num-one billion.
+sees qtr-three sales about $num-one billion.

@@ -1,0 +1,5 @@
+non-gaap earnings per share was $num-one for the quarter.
+and so, the related amortization decreased our gaap net income by $num-one and our gaap earnings per share by $num-two in qtr-three, and it will have a meaningful impact on our gaap net income and earnings per share going forward.
+our revenue outlook for year-six is in the range of $num-one million to $num-two million, which represents growth between num-three% and num-four% year over year.
+this transaction growth drove a num-one% increase in revenue over the same period in year-five, which resulted in revenue of $num-two million.
+for full year year-six, we also see adjusted ebitda in the range of $num-one million to $num-two million with an adjusted ebitda margin of approximately num-three% to num-four%.

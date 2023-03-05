@@ -1,0 +1,7 @@
+compname reports qtr-one earnings per share of $num-five excluding items.
+compname reports qtr-one earnings per share of $num-two excluding items.
+qtr-one earnings per share $num-five excluding items.
+qtr-one earnings per share $num-two excluding items.
+sees qtr-two adjusted earnings per share $num-one to $3.67 excluding items.
+qtr-one earnings per share $num-one.
+anticipate some material shortages continuing at least in qtr-two.

@@ -1,0 +1,2 @@
+yesterday, we reported third quarter consolidated net income of $num-one million and earnings per share of $num-two.
+for the third quarter of year-six, our consolidated net income was $num-one million, earnings per share was $num-two and ebitda was $num-three million.

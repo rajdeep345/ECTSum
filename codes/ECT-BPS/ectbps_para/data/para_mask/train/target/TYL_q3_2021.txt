@@ -1,0 +1,5 @@
+qtr-three revenue rose num-two percent to $num-one million.
+sees fy non-gaap earnings per share $num-one to $num-two.
+sees fy gaap earnings per share $num-one to $num-two.
+sees fy revenue $num-one billion to $num-two billion.
+qtrly total backlog was $num-one billion, up num-two% from $1.55 billion at [date], year-five.

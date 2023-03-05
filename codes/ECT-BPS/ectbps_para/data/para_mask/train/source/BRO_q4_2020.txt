@@ -1,0 +1,4 @@
+our net income per share for the fourth quarter was $num-one, increasing num-two% on an as-reported basis.
+our net income increased by $num-one million or num-two% and our diluted net income per share increased by num-three% to $num-four.
+on an adjusted basis, which excludes the change in estimated acquisition earn-out payables, our net income per share was $num-one, an increase of num-two% over the prior year.
+our net income on an adjusted basis increased by $num-one million or num-two% and our adjusted diluted net income per share was $num-three, an increase of num-four%.

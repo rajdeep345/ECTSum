@@ -1,0 +1,8 @@
+moving to slide-num, i'll address our updated outlook for the year.
+the team delivered core earnings per share of $num-one and revenue of $num-two billion, resulting in a core operating margin of num-three%.
+core diluted earnings per share was $num-one, a num-two% improvement over the prior-year quarter.
+gaap operating income was $num-one million and the gaap diluted earnings per share was $num-two.
+we expect total company revenue in the third quarter of fiscal year-six to be in the range of $num-one billion to $num-two billion for an increase of num-three% on a year-over-year basis at the midpoint of the range.
+gaap diluted earnings per share is expected to be in the range of $num-one to $num-two.
+core diluted earnings per share is estimated to be in the range of $num-one to $num-two.
+we now believe core earnings will be in the neighborhood of $num-one a share, an increase of num-two% from what we anticipated back in september, with top-line revenue coming in around $num-three billion.

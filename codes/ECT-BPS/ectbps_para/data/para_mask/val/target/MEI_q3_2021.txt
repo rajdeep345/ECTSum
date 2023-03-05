@@ -1,0 +1,5 @@
+compname reports qtr-three earnings per share $num-three.
+qtr-three earnings per share $num-three.
+qtr-three sales $num-one million.
+sees qtr-four earnings per share $num-one to $num-two including items.
+sees qtr-four sales $num-one million to $num-two million.

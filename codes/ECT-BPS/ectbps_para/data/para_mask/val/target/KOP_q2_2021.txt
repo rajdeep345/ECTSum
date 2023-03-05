@@ -1,0 +1,3 @@
+qtr-two sales $num-one million versus refinitiv ibes estimate of $461.7 million.
+sees fy year-six sales $num-one billion to $num-two billion.
+sees fy year-six adjusted earnings per share $num-one to $num-two.

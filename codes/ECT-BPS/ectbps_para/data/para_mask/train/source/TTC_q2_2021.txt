@@ -1,0 +1,5 @@
+reported earnings per share was $num-one per diluted share, up from $num-two last year.
+adjusted earnings per share was $num-one per diluted share, up from $num-two in the prior year.
+reported earnings per share was $num-one per diluted share, up from $num-two last year.
+we grew net sales by num-one% to $num-two billion.
+based on current visibility, we now expect full year adjusted earnings per share in the range of $num-one to $num-two per diluted share.

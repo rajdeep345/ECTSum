@@ -1,0 +1,3 @@
+compname reports qtr-four profit of $num-two million, or $num-three per share.
+compname announces profit for the fourth quarter year-three of $num-two million, or $num-three per share.
+qtr-four earnings per share $num-three.

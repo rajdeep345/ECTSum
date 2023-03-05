@@ -1,0 +1,11 @@
+compname reports qtr-one revenue $num-one mln.
+qtr-one adjusted earnings per share $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+qtr-one revenue $num-one million.
+compname says maintaining adjusted earnings per share outlook for fy year-six $num-one to $num-two.
+compname reports qtr-one gaap earnings per share of $num-one.
+compname reports qtr-one gaap earnings per share of $num-one.

@@ -1,0 +1,14 @@
+compname posts qtr-three earnings per share $num-one.
+compname posts qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+qtr-three same store sales rose num-three percent.
+qtr-three sales $num-two billion versus refinitiv ibes estimate of $8.15 billion.
+declares qtr-four year-five cash dividend of $num-three per share.
+plan to award a total of up to $num-three million in appreciation bonuses to eligible frontline employees in qtr-four.
+plan to award a total of up to $num-one million in appreciation bonuses to eligible frontline employees in qtr-four.
+plan to award a total of up to $num-two million in appreciation bonuses to eligible frontline employees in qtr-four.
+for fy year-six, co plans to execute num-one real estate projects.
+for fy year-six, co plans to execute num-one real estate projects.
+since the end of the third quarter, the company has continued to experience elevated demand in its stores.
+same-store sales increased about num-one% as compared to comparable timeframe in year-four fiscal year.

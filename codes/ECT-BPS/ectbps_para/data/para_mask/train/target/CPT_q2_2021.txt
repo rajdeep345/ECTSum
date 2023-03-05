@@ -1,0 +1,3 @@
+qtrly ffo per share $num-two.
+sees qtr-three ffo per share $num-one - $num-two.
+sees year-six ffo per share $num-one - $num-two.

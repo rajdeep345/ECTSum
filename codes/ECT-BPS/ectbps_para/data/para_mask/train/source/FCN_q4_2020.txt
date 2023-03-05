@@ -1,0 +1,5 @@
+gaap earnings per share of $num-one compared to $num-two in the prior-year quarter.
+for the quarter, revenues of $num-one million increased $num-two million or num-three%.
+we expect full-year year-six adjusted eps, which excludes the impact of the noncash interest expense, to range between $num-one and $num-two.
+we expect our gaap earnings per share which includes estimated noncash interest expense related to our year-eight convertible notes of approximately $num-one per share to range between $num-two and $num-three.
+adjusted earnings per share of $num-one, which excludes $num-two of noncash interest expense related to our year-eight convertible notes compared to adjusted earnings per share of $num-three in the prior-year quarter.

@@ -1,0 +1,5 @@
+compname reports qtr-one non-gaap earnings per share of $num-two.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one earnings per share $num-two.
+qtr-one sales rose num-two percent to $num-one million.
+for full year year-six anticipates non-gaap currency-neutral revenue growth of approximately num-one to 6.0 percent.

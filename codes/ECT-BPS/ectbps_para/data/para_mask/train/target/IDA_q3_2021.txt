@@ -1,0 +1,6 @@
+compname reports qtr-three earnings per share $num-one.
+sees fy earnings per share $num-one to $num-two.
+sees fy earnings per share $num-one to $num-two.
+qtr-three earnings per share $num-one.
+sees year-six earnings per share $num-one - $num-two.
+sees year-six earnings per share $num-one - $num-two.

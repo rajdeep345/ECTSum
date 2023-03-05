@@ -1,0 +1,15 @@
+compname says ftxt-num diluted earnings per share to range between $num-three and $num-four.
+qtr-three earnings per share $num-two.
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $1.09 billion.
+company is raising guidance for fiscal year year-six to account for strong qtr-three results.
+fy year-six revenue expected to range between $num-one billion and $num-two billion and diluted earnings per share to range between $num-three and $num-four.
+for fiscal year-six, cash from operations is expected to range between $num-two million and $num-three million.
+for fiscal year-six, cash from operations is expected to range between $num-one million and $num-two million.
+sees year-six free cash flow between $num-three million and $num-four million.
+revenue attributable to covid response work is anticipated to be approximately $num-two billion for fiscal year-six.
+revenue attributable to covid response work is anticipated to be approximately $num-two billion for fiscal year-six.
+revenue attributable to covid response work is anticipated to be approximately $num-three billion for fiscal year-six.
+revenue attributable to covid response work is anticipated to be approximately $num-two billion for fiscal year-six.
+revenue attributable to covid response work is anticipated to be approximately $num-one billion for fiscal year-six.
+revenue attributable to covid response work is anticipated to be approximately $num-one billion for fiscal year-six.
+covid response work is tapering off as expected, resulting in a lower qtr-four forecast as compared to qtr-three results.

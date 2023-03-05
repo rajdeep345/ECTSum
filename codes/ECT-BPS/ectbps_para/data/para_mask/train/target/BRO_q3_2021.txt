@@ -1,0 +1,6 @@
+compname announces qtr-three earnings per share of $num-one.
+compname announces qtr-three earnings per share of $num-four.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-four.
+qtrly adjusted earnings per share $num-two.
+qtrly adjusted earnings per share $num-one.

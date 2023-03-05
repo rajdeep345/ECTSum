@@ -1,0 +1,5 @@
+qtrly orders of $num-one billion.
+qtrly orders of $num-two billion.
+qtrly orders of $num-two billion.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-three.

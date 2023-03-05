@@ -1,0 +1,3 @@
+qtr-two ffo per share $num-one excluding items.
+qtr-two ffo per share $num-four excluding items.
+sees fy ffo per share $num-one - $num-two.

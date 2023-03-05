@@ -1,0 +1,5 @@
+yesterday, we reported record earnings of $num-one per share compared with $num-two in the prior year's quarter and $num-three sequentially.
+the increase was due to net inflows of $num-one billion and market appreciation of $num-two billion, partially offset by distributions of $num-three million.
+in the quarter, gross inflows were a record $num-one billion and net inflows contributed $num-two billion.
+assets under management totaled a record $num-one billion at [date], an increase of $num-two billion or num-three% from [date].
+we ended the quarter with record assets, as matt said, of $num-one billion.

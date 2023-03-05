@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share $num-two.
+qtr-four revenue $num-one million versus $num-two million.
+qtr-four earnings per share $num-two.
+qtr-four non-gaap earnings per share $num-four.
+qtr-four non-gaap earnings per share $num-two.
+aum at [date], year-four totaled $num-one billion, versus $16.6 billion at [date], year-three.

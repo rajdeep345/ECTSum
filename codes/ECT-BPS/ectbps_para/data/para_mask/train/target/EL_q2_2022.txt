@@ -1,0 +1,6 @@
+sees qtr-three earnings per share $num-one to $num-two excluding items.
+qtr-two adjusted earnings per share $num-one excluding items.
+sees fy year-seven earnings per share $num-one to $num-two excluding items.
+qtr-three adjusted diluted net earnings per common share are projected to be between $num-one and $num-two.
+expects to take charges associated with previously approved restructuring and other activities in fy year-seven.
+company expects higher costs to negatively impact cost of sales and operating expenses for remainder of fiscal year-seven.

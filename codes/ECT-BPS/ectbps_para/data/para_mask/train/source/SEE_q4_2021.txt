@@ -1,0 +1,7 @@
+for adjusted eps, we expect to be in the range of $num-one to $num-two.
+adjusted earnings per diluted share in qtr-four was $num-one, compared to $num-two in qtr-four year-five.
+for net sales, we estimate $num-one billion to $num-two billion, an increase of num-three% to num-four%.
+adjusted earnings per diluted share in qtr-four was $num-one, compared to $num-two in qtr-four year-five.
+net sales were up num-one% to $num-two billion and adjusted ebitda was up num-three% to $num-four million.
+in qtr-four, net sales were up num-one% to $num-two billion.
+net sales were up num-one% to $num-two billion and adjusted ebitda was up num-three% to $num-four million. our organic growth forecast is num-five% to num-six%, of which at the midpoint assumes approximately num-seven% in volume and approximately num-eight% in price.

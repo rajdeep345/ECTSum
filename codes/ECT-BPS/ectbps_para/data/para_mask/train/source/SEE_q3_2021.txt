@@ -1,0 +1,8 @@
+for adjusted eps, we expect to be in the range of $num-one to $num-two, the higher end of our previous guidance.
+in qtr-three, net sales totaled $num-one billion, up num-two% as reported, up num-three% in constant dollars.
+adjusted ebitda of $num-one million decreased num-two% in qtr-three, with margins at num-three%, down num-four basis points versus last year.
+our net sales we now estimate are approximately $num-one billion or up approximately num-two% as reported growth to reflect the favorable demand environment and pricing actions.
+this compares to our previous range of $num-one billion to $num-two billion.
+on a per-share basis, adjusted earnings of $num-one were up $num-two compared to last year.
+adjusted earnings per diluted share in qtr-three was $num-one compared to $num-two in qtr-three year-five.
+and lastly, our outlook for free cash flow is expected to be in the range of $num-one million to $num-two million.

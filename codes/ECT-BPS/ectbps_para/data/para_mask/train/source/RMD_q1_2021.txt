@@ -1,0 +1,2 @@
+non-gaap diluted earnings per share for the quarter were $num-one, an increase of num-two% over the prior-year quarter.
+our gaap diluted earnings per share for the quarter were $num-one.

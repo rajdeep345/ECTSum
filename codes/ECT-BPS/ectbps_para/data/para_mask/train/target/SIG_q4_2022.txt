@@ -1,0 +1,4 @@
+qtrly total sales of $num-one billion, up $624.8 million or 28.6% to last year, and up $658.0 million or 30.6% to ftxt-num.
+sees qtr-one total revenue $num-one billion - $num-two billion.
+sees fy year-eight total revenue $num-one billion to $num-two billion.
+sees fy year-eight earnings per share $num-one - $13.00.

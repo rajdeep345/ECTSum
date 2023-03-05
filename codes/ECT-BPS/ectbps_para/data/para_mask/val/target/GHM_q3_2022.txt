@@ -1,0 +1,4 @@
+compname reports qtr-three loss per share $num-two.
+qtr-three loss per share $num-two.
+sees qtr-four revenue $num-three million to $num-four million.
+qtrly revenue of $num-one million, up num-three% over prior-year period.

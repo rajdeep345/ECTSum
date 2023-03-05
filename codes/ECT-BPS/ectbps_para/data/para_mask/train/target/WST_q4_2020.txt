@@ -1,0 +1,4 @@
+sees fy year-six earnings per share $6.00 to $num-two.
+sees fy year-six sales $num-one billion to $num-three billion.
+full-year year-six capital spending is expected to be in a range of $num-one million to $num-two million.
+fy organic sales growth is expected to be in a range of num-one% to num-two%.

@@ -1,0 +1,7 @@
+compname reports qtr-four adj earnings per share $num-two.
+compname reports qtr-four adj earnings per share $num-three.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-three.
+fee revenue was $num-one million in qtr-four fyyear-five, a decrease of num-three%.
+will not issue any specific revenue or earnings guidance for qtr-one of fyyear-six.
+plan to reassess suspension of our guidance once we are comfortable that coronavirus uncertainties have largely passed.

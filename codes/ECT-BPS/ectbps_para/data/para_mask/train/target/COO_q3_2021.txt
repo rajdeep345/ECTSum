@@ -1,0 +1,4 @@
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-four year-six non-gaap earnings per share $num-one to $num-two.
+sees fiscal qtr-four year-six total revenue $num-one - $num-two million (num-three% to num-four% constant currency).

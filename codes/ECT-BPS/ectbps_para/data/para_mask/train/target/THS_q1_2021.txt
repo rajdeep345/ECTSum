@@ -1,0 +1,7 @@
+compname says qtr-one sales fell num-two% to $1.057 billion.
+qtr-one adjusted earnings per share $num-one from continuing operations.
+sees fy sales $num-one billion to $num-two billion.
+qtr-one sales fell num-two percent to $1.057 billion.
+reaffirmed fy guidance of $num-three - $num-four for adjusted earnings per share from continuing operations and $4.40 to $4.60 billion of reported net sales.
+sees qtr-two sales $num-one billion to $num-two billion.
+sees qtr-two adjusted earnings per share from continuing operations of $num-three to $num-four.

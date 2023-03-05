@@ -1,0 +1,2 @@
+qtr-two operating earnings per share $num-two.
+qtrly gross written premium growth of num-one% and net written premium growth of num-two%.

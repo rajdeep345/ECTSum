@@ -1,0 +1,2 @@
+qtr-one sales rose num-two percent to $num-one million.
+qtr-one adjusted earnings per share $num-four.

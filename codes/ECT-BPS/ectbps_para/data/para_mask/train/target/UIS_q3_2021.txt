@@ -1,0 +1,11 @@
+compname reports num-txtxt-num results.
+compname reports num-txtxt-num results.
+compname announces num-txtxt-num results.
+compname announces num-txtxt-num results.
+qtr-three non-gaap earnings per share $num-three from continuing operations.
+qtr-three loss per share $num-two from continuing operations.
+qtr-three revenue fell num-one percent to $num-two million.
+qtr-three non-gaap earnings per share $num-three.
+company reaffirms fy year-six guidance.
+announced appointment of unisys cfo mike thomson as president & coo, effective upon hiring of a new cfo.
+thomson will succeed current president and coo eric hutto who is stepping down to pursue other interests.

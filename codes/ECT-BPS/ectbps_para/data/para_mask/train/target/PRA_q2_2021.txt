@@ -1,0 +1,3 @@
+proassurance qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-two operating earnings per share $num-two.

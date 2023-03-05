@@ -1,0 +1,5 @@
+the firm reported record quarterly net revenues of $num-one billion and record quarterly net income of $num-two million, or earnings per diluted share of $num-three, which reflects the impact of the three for two stock split in september.
+record quarterly net revenues of $num-one billion grew num-two% year-over-year and num-three% sequentially.
+the firm reported record quarterly net revenues of $num-one billion and record quarterly net income of $num-two million, or earnings per diluted share of $num-three, which reflects the impact of the three for two stock split in september.
+excluding the $num-one million of acquisition-related expenses, quarterly adjusted net income was $num-two million and adjusted earnings per diluted share equaled $num-three.
+you can see that rjf corporate cash at the parent ended the quarter at $num-one billion, decreasing num-two% during the quarter, as we have restricted the cash that we plan on using to close on the charles stanley acquisition, which we currently expect to close in the first or second quarter of fiscal year-seven, for as soon as we receive the requisite regulatory approvals.

@@ -1,0 +1,8 @@
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-three.
+qtr-one gaap earnings per share $num-two.
+qtr-one revenue rose num-two percent to $3.409 billion.
+sees year-six revenue $num-one million - $num-two million.
+sees year-six adjusted diluted earnings per share $num-one - $num-two.
+sees qtr-two revenue $num-one million - $num-two million.
+sees qtr-two adjusted diluted earnings per share $2.00 - $num-two.

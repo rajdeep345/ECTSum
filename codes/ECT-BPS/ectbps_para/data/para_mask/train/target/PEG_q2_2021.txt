@@ -1,0 +1,5 @@
+raises fy non-gaap operating earnings per share view to $num-two to $num-three.
+raises fy non-gaap operating earnings per share view to $num-one to $num-two.
+net loss for qtr-two of year-six of $177 million, or $num-one per share.
+raises bottom end of full year year-six non-gaap operating earnings guidance range to $num-two - $num-three per share.
+raises bottom end of full year year-six non-gaap operating earnings guidance range to $num-one - $num-two per share.

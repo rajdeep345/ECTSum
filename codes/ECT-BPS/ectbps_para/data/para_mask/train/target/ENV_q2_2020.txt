@@ -1,0 +1,3 @@
+qtr-two adjusted earnings per share $num-one.
+sees qtr-three adjusted net income per diluted share $num-one.
+sees fy year-five adjusted net income per diluted share $num-one - $num-two.

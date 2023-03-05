@@ -1,0 +1,4 @@
+qtr-two operating earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-two.
+m&t bank - net interest income expressed on a taxable-equivalent basis totaled $num-one million in recent quarter, compared with $961 million in qtr-two of year-five.

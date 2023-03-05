@@ -1,0 +1,3 @@
+sees qtr-one operating earnings per share $num-one to $num-two.
+qtr-four operating earnings per share $num-one.
+initiates year-seven operating earnings guidance of $num-one to $num-two per share.

@@ -1,0 +1,7 @@
+on an adjusted basis, earnings per share for the quarter was $num-one per share, which compares to $num-two per share in the prior year.
+on this basis, our adjusted earnings for the quarter were $num-one per share compared with $num-two per share in the prior year.
+that equates to gaap earnings per share of $num-one per share for the quarter compared to $num-two per share in the prior year.
+on an overall gaap basis, we, therefore, earned $num-one per share in the quarter compared with $num-two per share in the prior year.
+consolidated net sales for the quarter were $num-one million compared to $num-two million in the prior year.
+yet despite this, we are expecting a strong year in year-six with top line growth, double-digit improvement in pre-tax earnings and adjusted earnings per share of between $num-one and $num-two.
+consolidated net sales for the quarter were $num-one million compared to $num-two million in the prior year.

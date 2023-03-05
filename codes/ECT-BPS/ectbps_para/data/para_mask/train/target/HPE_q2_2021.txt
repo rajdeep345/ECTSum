@@ -1,0 +1,6 @@
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+hewlett packard enterprise - sees fiscal year-six qtr-three gaap diluted net earnings per share to be in range of $num-one to $num-two.
+sees fiscal year-six qtr-three non-gaap diluted net earnings per share to be in range of $num-three to $num-four.
+raises year-six gaap diluted net earnings per share outlook to $0.60 to $0.72 , non-gaap diluted net earnings per share outlook to $num-three to $num-four.
+raises year-six free cash flow guidance to $num-one to $num-two billion.

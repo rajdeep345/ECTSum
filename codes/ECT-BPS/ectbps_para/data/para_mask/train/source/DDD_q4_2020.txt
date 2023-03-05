@@ -1,0 +1,5 @@
+we expect a gaap loss of $num-one per share in the fourth quarter of year-five compared to a gaap loss of $num-two in the fourth quarter of year-four.
+for the fourth quarter, we expect revenue of $num-one million, an increase of num-two% compared to the fourth quarter of year-four and an increase of num-three% compared to the third quarter of year-five, driven by growth in both healthcare and industrial.
+net, going forward in year-six, we expect non-gaap gross margins in a range of num-one% to num-two%.
+we expect a gaap loss of $num-one per share in the fourth quarter of year-five compared to a gaap loss of $num-two in the fourth quarter of year-four.
+we expect non-gaap income of $num-one per share in the fourth quarter of year-five compared to non-gaap income of $num-two per share in the fourth quarter of year-four.

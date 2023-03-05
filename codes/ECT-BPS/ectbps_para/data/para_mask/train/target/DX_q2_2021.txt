@@ -1,0 +1,3 @@
+compname reports qtr-two loss per share of $num-one.
+qtr-two non-gaap core operating earnings per share $num-one.
+qtr-two loss per share $num-one.

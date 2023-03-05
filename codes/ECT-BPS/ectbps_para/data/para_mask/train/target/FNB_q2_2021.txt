@@ -1,0 +1,5 @@
+compname reports qtr-two revenue $num-two mln.
+qtr-two non-gaap earnings per share $num-one excluding items.
+qtr-two non-gaap earnings per share $num-one excluding items.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $305.2 million.
+corp quarterly net interest income $num-two million versus $num-two6 million.

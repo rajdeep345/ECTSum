@@ -1,0 +1,2 @@
+we expect adjusted earnings per share of $num-one to $num-two.
+based on anticipated aircraft production rates, and excluding the impacts of potential divestitures, for fy year-seven, we expect revenue of $num-one billion to $num-two billion.

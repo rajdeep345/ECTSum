@@ -1,0 +1,4 @@
+qtr-two earnings per share $num-two.
+expects resort reported ebitda to be between $num-three million and $num-four million for nine months ended [date], year-six.
+given ongoing uncertainty of covid, we will not be providing full year guidance for fiscal year-six.
+in cy year-six now expect to invest approximately $num-two million to $num-three million excluding one-time items.

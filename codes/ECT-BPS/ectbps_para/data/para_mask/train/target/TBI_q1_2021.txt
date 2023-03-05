@@ -1,0 +1,4 @@
+trueblue qtr-one earnings per share num-one cents.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-two.
+qtr-one revenue fell num-two percent to $num-one million.

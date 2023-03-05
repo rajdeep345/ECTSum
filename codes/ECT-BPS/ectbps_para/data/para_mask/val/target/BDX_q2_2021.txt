@@ -1,0 +1,7 @@
+compname reports qtr-two adjusted earnings per share $num-one.
+compname reports qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-two.
+qtr-two revenue $num-one billion.
+qtr-two revenue $num-one billion.
+bd - qtrly bd's covid testing sales were $num-one million.

@@ -1,0 +1,5 @@
+compname reports num-three% earnings per share growth in qtr-two.
+compname reports num-one% earnings per share growth in qtr-two.
+qtr-two earnings per share $num-two.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $702.4 million.
+sees year-six revenue $num-one billion to $num-two billion; +9 to 11%.

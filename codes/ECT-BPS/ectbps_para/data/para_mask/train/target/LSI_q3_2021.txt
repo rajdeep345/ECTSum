@@ -1,0 +1,2 @@
+qtr-three adjusted ffo per share $num-one.
+qtr-three ffo per share $num-one.

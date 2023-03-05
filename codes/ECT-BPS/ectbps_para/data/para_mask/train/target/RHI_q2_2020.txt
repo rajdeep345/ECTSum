@@ -1,0 +1,2 @@
+qtr-two earnings per share $num-one.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.13 billion.

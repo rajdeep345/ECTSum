@@ -1,0 +1,5 @@
+compname posts qtr-two earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtr-two sales $num-two billion versus refinitiv ibes estimate of $1.13 billion.
+sees full-year fiscal year-six adjusted earnings per share in range of $num-one to $num-two.

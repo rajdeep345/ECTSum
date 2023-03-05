@@ -1,0 +1,2 @@
+our earnings per diluted common share were $num-one for the three months ended [date], year-five, compared with $num-two for the same period in year-four and were impacted by the merger-related expenses of $num-three million or $num-four per diluted common share in the fourth quarter of year-four.
+net interest income before provision for credit losses for the three months ended [date], year-five was $num-one million compared to $num-two million for the same period in year-four, an increase of $num-three million or num-four%.

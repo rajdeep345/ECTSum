@@ -1,0 +1,3 @@
+compname posts qtr-three earnings per share of $num-two.
+qtr-three revenue rose num-six percent to $num-one million.
+qtr-three earnings per share $num-two.

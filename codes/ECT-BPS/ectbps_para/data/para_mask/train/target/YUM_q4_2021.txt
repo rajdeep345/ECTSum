@@ -1,0 +1,8 @@
+compname reports fourth-quarter results; industry record full-year num-one net-new units.
+compname reports fourth-quarter results; industry record full-year num-two net-new units.
+fourth-quarter system sales growth of num-one% with over $num-four billion in digital sales.
+qtrly worldwide same-store sales grew num-two%.
+qtrly worldwide same-store sales grew num-three%.
+qtrly worldwide same-store sales grew num-three%.
+qtrly worldwide same-store sales grew num-two%.
+qtrly worldwide same-store sales grew num-four%.

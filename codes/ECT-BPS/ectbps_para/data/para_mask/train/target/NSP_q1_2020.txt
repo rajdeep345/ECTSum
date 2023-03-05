@@ -1,0 +1,6 @@
+compname posts quarterly adjusted earnings per share of $num-one.
+qtr-one adjusted earnings per share $num-one.
+qtr-one diluted earnings per share and adjusted earnings per share of $1.58 and $num-one, respectively.
+sees qtr-two adjusted earnings per share $1.02-$num-six.
+sees fy adjusted earnings per share $num-one-$num-two.
+ended quarter with $num-one million of adjusted cash and $num-two million available under $num-three million credit facility.

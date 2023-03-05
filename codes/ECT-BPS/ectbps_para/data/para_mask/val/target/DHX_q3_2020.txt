@@ -1,0 +1,3 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three revenue fell num-three percent to $num-one million.
+qtrly loss per share $num-two.

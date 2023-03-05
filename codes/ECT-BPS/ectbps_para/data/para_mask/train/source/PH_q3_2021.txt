@@ -1,0 +1,4 @@
+adjusted earnings per share is $num-one that is $num-two or num-three% increase compared to prior year's results of $num-four.
+our as-reported earnings per share guidance range has increased from $num-one to $num-two, that's $num-three at the midpoint.
+and on an adjusted basis, we're increasing the range from $num-one to $num-two, and that's $num-three at the midpoint.
+organic sales are now expected to be flat year-over-year.

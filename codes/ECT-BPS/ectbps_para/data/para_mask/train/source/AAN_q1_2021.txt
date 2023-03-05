@@ -1,0 +1,3 @@
+for the first quarter of year-six, revenues were $num-one million compared to $num-two million for the first quarter of year-five, an increase of num-three%.
+on a non-gaap basis, diluted earnings per share were $num-one in the first quarter of year-six compared to non-gaap diluted earnings per share of $num-two for the same quarter in year-five, an increase of $num-three or num-four%.
+for the full year, we expect consolidated revenues of between $num-one billion and $num-two billion representing an increase in our revenue outlook of $num-three million.

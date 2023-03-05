@@ -1,0 +1,3 @@
+compname posts qtr-three earnings per share $num-two.
+compname reports fiscal year-five third quarter earnings per share of $num-two.
+qtr-three earnings per share $num-two.

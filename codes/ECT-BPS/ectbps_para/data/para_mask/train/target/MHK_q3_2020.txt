@@ -1,0 +1,8 @@
+compname posts qtr-three adj earnings per share $num-one.
+qtr-three earnings per share $num-one excluding items.
+qtr-three earnings per share $num-two.
+qtr-three sales $num-one billion versus refinitiv ibes estimate of $2.49 billion.
+sees qtr-four earnings per share $num-one to $num-two.
+audit committee completed internal investigation into allegations of wrong doing.
+cooperating fully with the ongoing governmental investigations.
+audit committee concluded the allegations are without merit.

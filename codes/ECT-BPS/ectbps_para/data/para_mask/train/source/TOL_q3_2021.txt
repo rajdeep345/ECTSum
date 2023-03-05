@@ -1,0 +1,3 @@
+both our pre-tax income of $num-one million and our earnings per share of $num-two more than doubled compared to last year.
+net income was $num-one million or $num-two per share diluted compared to $num-three million and $num-four per share diluted one year ago.
+so we now project our fourth quarter deliveries to be approximately num-one homes.

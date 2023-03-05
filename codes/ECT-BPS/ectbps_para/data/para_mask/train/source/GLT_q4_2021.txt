@@ -1,0 +1,4 @@
+we reported adjusted earnings per share of $num-one and adjusted ebitda of $num-two million.
+fourth quarter adjusted earnings from continuing operations was $num-one million, or $num-two per share, a decrease of $num-three versus the same period last year.
+slide-num shows a bridge of adjusted earnings per share of $num-one from the fourth quarter of last year to this year's fourth quarter of $num-two.
+airlaid materials results increased earnings by $num-one, primarily due to strong volume recovery in the tabletop products category, as well as from the addition of mount holly results compared to the prior year.

@@ -1,0 +1,2 @@
+now expect year-six adjusted earnings per share to be between $num-one and $num-two.
+expect year-six free cash flow to approach $num-one billion.

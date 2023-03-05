@@ -1,0 +1,4 @@
+our non-gaap earnings per fully diluted share for the third quarter increased to $num-one in comparison to $num-two last year.
+our non-gaap earnings per fully diluted share for the third quarter increased to $num-one in comparison to $num-two last year.
+on a gaap basis, our earnings per fully diluted share decreased to $num-one compared to $num-two last year.
+in the third quarter, we recorded net sales of $num-one million, an increase of approximately num-two% in constant currency.

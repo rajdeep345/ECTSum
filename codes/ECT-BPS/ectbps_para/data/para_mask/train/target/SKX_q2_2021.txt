@@ -1,0 +1,7 @@
+compname announces record second quarter year-six sales of $num-four billion and diluted earnings per share of $num-two.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+sees fy earnings per share $num-one to $num-two.
+sees qtr-three earnings per share $num-three to $num-four.
+sees qtr-three sales $num-one billion to $num-two billion.
+sees fy sales $num-one billion to $num-two billion.

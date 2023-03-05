@@ -1,0 +1,9 @@
+idex qtr-four sales up num-two% to $714.8 mln.
+qtr-four sales rose num-two percent to $714.8 million.
+sees fy adjusted earnings per share $num-three to $num-four.
+sees fy adjusted earnings per share $num-three to $num-four.
+sees qtr-one adjusted earnings per share $num-three to $num-four.
+sees fy gaap earnings per share $num-one to $7.00.
+sees qtr-one gaap earnings per share $num-one to $num-two.
+qtr-four adjusted non-gaap earnings per share $num-two.
+qtr-four adjusted non-gaap earnings per share $num-two.

@@ -1,0 +1,6 @@
+adjusted earnings per share was $num-one, and gaap earnings per share was $num-two.
+adjusted earnings per share was $num-one, and gaap earnings per share was $num-two.
+we still expect adjusted earnings per share to be in the range of $num-one to $num-two.
+total revenue for the third quarter was $num-one million and declined num-two% from prior year.
+we still expect annual revenue at constant currency to grow over prior year in the low to mid-single-digit range.
+we still expect adjusted earnings per share to be in the range of $num-one to $num-two.

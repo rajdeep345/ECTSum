@@ -1,0 +1,5 @@
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+sees fy revenue $num-one million to $num-two million.
+sees fy revenue $num-one million to $num-two million.
+as of [date], year-five, graham had no debt.

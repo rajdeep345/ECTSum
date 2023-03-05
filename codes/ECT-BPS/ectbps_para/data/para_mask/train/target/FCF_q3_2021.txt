@@ -1,0 +1,5 @@
+compname announces qtr-three earnings per share of $num-two.
+compname announces third quarter year-six earnings; declares quarterly dividend and authorization of a $num-one million share repurchase program.
+compname announces third quarter year-six earnings; declares quarterly dividend and authorization of a $num-two million share repurchase program.
+qtr-three earnings per share $num-two.
+corp - qtrly net interest income (fte) of $num-two million increased $num-one million from previous quarter.

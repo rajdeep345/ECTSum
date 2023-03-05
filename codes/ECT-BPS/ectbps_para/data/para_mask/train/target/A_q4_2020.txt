@@ -1,0 +1,6 @@
+qtr-four non-gaap earnings per share $num-one.
+qtr-four non-gaap earnings per share $num-one.
+sees qtr-one revenue $num-one billion to $num-two billion.
+sees fy year-six revenue $num-one billion to $num-two billion.
+sees qtr-one non-gaap earnings per share $num-one to $num-two.
+sees qtr-one revenue up num-three to num-four percent.

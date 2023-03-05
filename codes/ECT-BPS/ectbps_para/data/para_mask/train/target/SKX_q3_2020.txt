@@ -1,0 +1,6 @@
+compname reports qtr-three adj. earnings of $num-two per share.
+quarterly diluted earnings per share were $num-two.
+qtr-three adjusted earnings per share $num-two.
+quarterly china sales grew num-two percent year-over-year.
+quarterly china sales grew num-one percent year-over-year.
+not providing further financial guidance at this time.

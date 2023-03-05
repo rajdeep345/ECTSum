@@ -1,0 +1,4 @@
+compname posts qtr-two earnings per share of $num-three.
+compname posts qtr-two earnings per share of $num-one.
+qtr-two earnings per share $num-three.
+qtr-two earnings per share $num-one.

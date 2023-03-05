@@ -1,0 +1,5 @@
+packaging corp of america qtr-two earnings per share $num-two excluding items.
+qtr-two earnings per share $num-two excluding items.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-one.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.63 billion.

@@ -1,0 +1,7 @@
+compname reports qtr-three earnings per share of $num-one.
+qtr-three adjusted non-gaap earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtrly u.s. retail comparable sales down num-one%.
+not providing fiscal year-five sales and earnings guidance at this time.
+$num-one billion in liquidity at quarter end.
+continues to believe has sufficient liquidity for foreseeable future.

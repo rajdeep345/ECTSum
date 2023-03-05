@@ -1,0 +1,9 @@
+compname reports qtr-three non-gaap earnings per share of $num-two.
+sees fy revenue $num-one billion to $num-two billion .
+sees fy revenue $num-one billion to $num-two billion .
+qtr-three non-gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+board of directors has approved increasing size of its stock repurchase program by $num-one million.
+txt-num total revenue is estimated to range from $num-one million to $num-two million.
+fy diluted earnings per share is anticipated to range from $num-one to $num-two on a gaap basis and from $num-three to $num-four on a non-gaap basis.
+fy diluted earnings per share is anticipated to range from $num-one to $num-two on a gaap basis and from $num-three to $num-four on a non-gaap basis.

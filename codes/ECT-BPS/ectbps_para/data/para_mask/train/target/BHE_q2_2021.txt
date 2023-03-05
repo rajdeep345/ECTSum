@@ -1,0 +1,6 @@
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+sees qtr-three non-gaap earnings per share $num-one to $num-two excluding items.
+sees qtr-three revenue $num-one million to $num-two million.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $531.7 million.

@@ -1,0 +1,4 @@
+gaap earnings per share for the quarter totaled a negative $num-one compared to the prior year quarter of $num-two and that's a decline of $num-three per share.
+gaap earnings per share for the quarter totaled a negative $num-one compared to the prior year quarter of $num-two and that's a decline of $num-three per share.
+adjusted earnings per share as defined by gaap earnings per share less amortization expense and any-one time charges totaled $num-one a share relative to $num-two a share in the prior year quarter.
+orders for the quarter totaled $num-one million versus $num-two million in the prior year quarter for a decline of num-three%, again two factors previously mentioned.

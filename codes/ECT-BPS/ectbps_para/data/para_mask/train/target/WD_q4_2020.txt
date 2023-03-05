@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share of $num-three.
+walker & dunlop qtr-four revenues up num-two% to $num-one million and net income up 94% to $83 million.
+qtr-four earnings per share $num-three.
+qtr-four revenue rose num-two percent to $349.7 million.
+increases quarterly dividend by num-two percent to $0.num-txter share.
+compname says on [date], co's board authorized repurchase of up to $num-one million of common stock.

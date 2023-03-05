@@ -1,0 +1,5 @@
+first commonwealth declares quarterly dividend.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-one.
+compname reports qtr-two earnings per share $num-two.
+compname reports qtr-two earnings per share $num-one.

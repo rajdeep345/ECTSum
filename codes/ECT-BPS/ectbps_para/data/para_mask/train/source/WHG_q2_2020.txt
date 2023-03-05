@@ -1,0 +1,5 @@
+second quarter net loss was $num-one million, or $num-two per share compared to net income of $num-three million, or $num-four per share in the first quarter.
+second quarter net loss of $num-one million, or $num-two per share compared to net income of $num-three million, or $num-four per share in the prior year second quarter.
+today, we reported total revenues of $num-one million for the second quarter of year-five compared to $num-two million in the first quarter of year-five and $num-three million in the prior year's second quarter.
+economic earnings, a non-gaap metric was $num-one million, or $num-two per share in the current quarter versus $num-three million, or $num-four per share in the first quarter.
+economic earnings for the quarter was $num-one million, or $num-two per share compared to $num-three million or $num-four per share in the second quarter of year-four.

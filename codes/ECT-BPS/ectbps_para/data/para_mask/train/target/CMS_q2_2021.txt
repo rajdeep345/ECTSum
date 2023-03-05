@@ -1,0 +1,4 @@
+reaffirms fy adjusted non-gaap earnings per share view $num-one to $num-two from continuing operations.
+reaffirms fy adjusted earnings per share view $num-one to $num-two.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two earnings per share $num-two from continuing operations.

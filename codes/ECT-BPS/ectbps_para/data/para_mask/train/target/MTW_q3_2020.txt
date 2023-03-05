@@ -1,0 +1,2 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three loss per share $num-one.

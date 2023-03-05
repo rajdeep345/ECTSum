@@ -1,0 +1,3 @@
+our earnings per diluted share was $num-one.
+adjusted earnings per diluted share was $num-one, representing an increase of num-two%, compared to adjusted earnings per diluted share of $num-three even in the same period last year.
+our earnings per diluted share was $num-one.

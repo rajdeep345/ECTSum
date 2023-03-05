@@ -1,0 +1,4 @@
+we posted net income of $num-one million or $num-two per share, an increase of $num-three million compared to net income of $num-four million in the prior year.
+we posted net income of $num-one million or $num-two per share, an increase of $num-three million compared to net income of $num-four million in the prior year.
+third quarter revenue was $num-one million, an increase of num-two% compared to the third quarter of the prior year.
+total revenue for qtr-three year-six was $num-one million, representing growth of num-two%, driven by new business wins and higher existing client volumes.

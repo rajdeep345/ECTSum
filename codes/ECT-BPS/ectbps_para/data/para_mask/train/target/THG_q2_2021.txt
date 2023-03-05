@@ -1,0 +1,6 @@
+compname reports second quarter net income and operating income of $num-two and $num-six per diluted share, respectively.
+combined ratio of num-four%.
+combined ratio of num-one%.
+qtr-two operating earnings per share $num-two.
+qtr-two operating earnings per share $num-two.
+qtr-two earnings per share $num-two.

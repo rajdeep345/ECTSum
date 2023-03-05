@@ -1,0 +1,3 @@
+mgic investment corporation qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three adjusted non-gaap operating earnings per share $num-two.

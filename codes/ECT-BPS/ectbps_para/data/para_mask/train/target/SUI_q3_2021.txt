@@ -1,0 +1,2 @@
+compname reports qtr-three core ffo per share $num-one.
+qtr-three core ffo per share $num-one.

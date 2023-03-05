@@ -1,0 +1,3 @@
+qtr-three adjusted earnings per share $num-five.
+qtr-three adjusted earnings per share $num-two.
+qtr-three sales $num-one million versus $num-two million.

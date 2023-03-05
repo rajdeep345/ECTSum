@@ -1,0 +1,8 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three earnings per share $num-two.
+sees fy year-five adjusted earnings per share $num-seven to $num-eight.
+sees fy year-five gaap earnings per share $num-five to $num-six.
+sees fy year-five sales $num-one million to $1.005 billion.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $237.7 million.
+reinstates year-five guidance for net sales, adjusted ebitda and eps.
+sees year-five capital expenditures of approximately $num-eleven million.

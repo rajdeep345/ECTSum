@@ -1,0 +1,7 @@
+eps of $num-one is up num-two% year-over-year.
+strong top line growth coupled with our operating leverage helped deliver earnings per share of $num-one, up num-two% versus last year.
+and we expect third quarter non-gaap earnings per share to be in the range of $num-one to $num-two per share with growth of num-three% to num-four%.
+now for the third fiscal quarter, we're expecting revenue to range from $num-one billion to $num-two billion, representing reported growth of num-three% to num-four% and core growth of num-five% to num-six%.
+for revenue, we are increasing our full-year range to a range of $num-one billion to $num-two billion, up nearly $num-three million at the midpoint and representing reported growth of num-four% to num-five% and core growth of num-six% to num-seven%.
+revenues for the quarter are $num-one billion. we ended the quarter with $num-two billion in cash, $num-three billion in outstanding debt and a net leverage ratio of num-four time.
+and in addition, we are increasing our fiscal year-six non-gaap earnings per share to a range of $num-one to $num-two per share.

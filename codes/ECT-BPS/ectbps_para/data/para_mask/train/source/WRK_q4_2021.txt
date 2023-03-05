@@ -1,0 +1,3 @@
+in the quarter, sales of $num-one billion were up num-two% year over year.
+in the quarter, sales of $num-one billion were up num-two% year over year.
+adjusted segment ebitda also improved significantly, rising to $num-one million or num-two% year over year, and adjusted earnings per share of $num-three increased num-four% compared to prior year.

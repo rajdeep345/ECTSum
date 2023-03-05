@@ -1,0 +1,4 @@
+qtr-three revenue rose num-one percent to $num-two million.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.

@@ -1,0 +1,2 @@
+qtrly adjusted e.p.s. of $num-one.
+qtrly adjusted e.p.s. of $num-two.

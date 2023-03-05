@@ -1,0 +1,4 @@
+we generated adjusted earnings per share of $num-one, which is up num-two% versus a year ago, driven by a combination of strong growth and the continuation of the suppressed environment for travel and entertainment expenses as we continue to operate largely remotely.
+gaap earnings per share was $num-one, and adjusted earnings per share was $num-two, up num-three% compared with the first quarter a year ago.
+gaap earnings per share was $num-one, and adjusted earnings per share was $num-two, up num-three% compared with the first quarter a year ago.
+consolidated revenue increased num-one% in the first quarter to $num-two billion, reflecting underlying growth of num-three%.

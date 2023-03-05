@@ -1,0 +1,3 @@
+we reported a gaap earnings per share loss of $num-one versus earnings per share of $num-two in the prior year period, reflecting the reduced volumes and higher tax rate, partially offset by raw materials, simplification/modernization benefits and temporary cost control actions.
+adjusted earnings per share was $num-one compared to $num-two in the prior year quarter, reflecting the factors i just named as well as a higher adjusted effective tax rate.
+on an adjusted basis, earnings per share was $num-one per share versus $num-two in the prior year.

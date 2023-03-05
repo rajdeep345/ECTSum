@@ -1,0 +1,9 @@
+eps of $num-one cents was up num-two% sequentially and num-three% year over year.
+eps of $num-one was up num-two% sequentially and num-three% year over year.
+for the fourth quarter, sales were $num-one billion, up num-two% sequentially, and num-three% year over year.
+in the fourth quarter, we grew sales num-one% sequentially and num-two% year over year to $num-three billion, exceeding expectations.
+in display technologies, fourth-quarter sales were $num-one million, up num-two% sequentially and num-three% year over year.
+as we look ahead, we have strong momentum coming into year-six and expect year-over-year growth to accelerate in the first quarter.
+in optical communications, fourth-quarter sales were $num-one million, up num-two% year over year and num-three% sequentially.
+specifically, we expect core sales of $num-one billion to $num-two billion, compared to $num-three billion in the first quarter last year, and earnings per share of $num-four to $num-five, which is double last year's first-quarter earnings per share at the low end of the range.
+specifically, we expect core sales of $num-one billion to $num-two billion, compared to $num-three billion in the first quarter last year, and earnings per share of $num-four to $num-five, which is double last year's first-quarter earnings per share at the low end of the range.

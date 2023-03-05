@@ -1,0 +1,7 @@
+expected adjusted ebitda to be in the range of $num-one million to $num-two billion and expected earnings per common share to be in the range of $num-three to $num-four.
+expected adjusted ebitda to be in the range of $num-one million to $num-two billion and expected earnings per common share to be in the range of $num-three to $num-four.
+earnings per common share increased num-one% to $num-two for the second quarter, compared to $num-three for the same quarter last year.
+net income attributable to select medical holdings was $num-one million in the second quarter and earnings per common share were $num-two.
+for the full year of year-six, we now expect revenue in the range of $num-one billion to $num-two billion.
+earnings per common share increased num-one% to $num-two for the second quarter, compared to $num-three for the same quarter last year.
+net income attributable to select medical holdings was $num-one million in the second quarter and earnings per common share were $num-two.

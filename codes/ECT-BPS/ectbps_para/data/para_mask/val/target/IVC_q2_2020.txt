@@ -1,0 +1,3 @@
+sees year-five reported net sales in range of $num-one million to $num-two million.
+sees year-five free cash flow usage in line with prior year, in range of $num-three million to $num-four million.
+sees fy year-five adjusted ebitda similar to prior year, in the range of $27 to $num-two million.

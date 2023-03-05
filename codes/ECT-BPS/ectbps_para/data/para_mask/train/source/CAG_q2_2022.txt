@@ -1,0 +1,4 @@
+as you can see on slide-num, our second quarter adjusted earnings per share of $num-one was heavily impacted by the input cost inflation across our portfolio.
+we expect the incremental sales and pricing actions in the second half to offset the dollar impact of the incremental net inflation and other supply chain costs.
+we're increasing our organic net sales guidance based on stronger-than-expected consumer demand and lower-than-anticipated elasticities.
+we're increasing our organic net sales guidance to be approximately plus num-one%, up from approximately num-two%.

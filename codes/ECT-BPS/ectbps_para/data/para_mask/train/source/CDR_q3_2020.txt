@@ -1,0 +1,2 @@
+ffo increased to $num-one million or $num-two per share, compared to $num-three million or $num-four per share reported for the previous quarter.
+same property noi decreased num-one% over the comparable period in year-four, and marked improvement from the num-two% decrease we reported in the previous quarter.

@@ -1,0 +1,6 @@
+compname reports qtr-one earnings per share $num-two.
+compname reports qtr-one earnings per share $num-one.
+reaffirms fy earnings per share view $num-one to $num-two.
+qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.
+reaffirming year-six earnings guidance of $num-one to $num-two per diluted share.

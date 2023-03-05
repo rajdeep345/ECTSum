@@ -1,0 +1,4 @@
+compname posts qtr-two adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num-two.
+qtr-two adjusted earnings per share $num-one.
+raises full-year organic revenue guidance to a range of num-one% to num-two%, and raises mid-point of earnings per share guidance.

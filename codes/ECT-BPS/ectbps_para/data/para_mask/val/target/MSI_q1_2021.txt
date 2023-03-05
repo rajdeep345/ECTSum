@@ -1,0 +1,9 @@
+sees qtr-two non-gaap earnings per share $num-three to $num-four.
+sees fy revenue up num-one to num-two percent.
+sees qtr-two revenue up num-one to num-two percent.
+qtr-one sales rose num-two percent to $num-one billion.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+backlog of $num-two billion at quarter end.
+backlog of $num-one billion at quarter end.
+sees fy non-gaap earnings per share $num-one to $num-two.

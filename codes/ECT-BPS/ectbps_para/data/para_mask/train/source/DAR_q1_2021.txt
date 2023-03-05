@@ -1,0 +1,3 @@
+net sales increased num-one% to $num-two billion for the first quarter of year-six as compared to $num-three million the first quarter of year-five.
+net income for the first quarter of year-six totaled $num-one million or $num-two per diluted share compared to net income of $num-three million or $num-four per diluted share for the year-five first quarter.
+we feel comfortable with the increased range of $num-one billion to $num-two billion of combined ebitda as the increase is coming from two segments, our feed segment and our fuel segment.

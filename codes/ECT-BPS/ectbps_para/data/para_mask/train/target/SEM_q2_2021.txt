@@ -1,0 +1,7 @@
+select medical sees fy earnings per share $num-three to $num-four.
+sees fy earnings per share $num-three to $num-four.
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-two.
+sees fy revenue $num-one billion to $num-two billion.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.

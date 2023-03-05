@@ -1,0 +1,5 @@
+compname reports qtr-three net income of $num-one bln.
+qtr-three adjusted earnings per share $num-one.
+qtrly net interest income of $num-one billion increased $num-two million, or num-three% versus qtr-two.
+qtrly total revenue of $num-two billion increased $num-three million, or num-one% q-o-q.
+basel iii common equity tier num-five capital ratio was an estimated num-two% at [date], year-six.

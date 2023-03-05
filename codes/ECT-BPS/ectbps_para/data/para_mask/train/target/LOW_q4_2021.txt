@@ -1,0 +1,14 @@
+qtr-four sales $num-one billion versus $20.3 billion.
+qtr-four earnings per share $num-two excluding items.
+qtr-four earnings per share $num-one excluding items.
+qtr-four earnings per share $num-two.
+qtr-four earnings per share $num-one.
+raises fiscal year-seven outlook.
+sees fy total sales of $num-one billion to $num-two billion, including num-txtd week.
+sees fy comparable sales expected to range from a decline of num-one% to an increase of num-one%.
+sees fy comparable sales expected to range from a decline of num-one% to an increase of num-one%.
+sees fy comparable sales expected to range from a decline of num-three% to an increase of num-three%.
+sees fy comparable sales expected to range from a decline of num-one% to an increase of num-one%.
+sees fy capital expenditures of approximately $num-one billion.
+sees fy capital expenditures of approximately $num-one billion.
+sees fy diluted earnings per share of $num-one to $num-two.

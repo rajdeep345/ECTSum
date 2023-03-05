@@ -1,0 +1,5 @@
+compname posts qtr-two gaap earnings per share $num-one.
+sees qtr-three operating earnings per share $num-one to $num-two.
+qtr-two operating earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+affirms its long-term earnings and dividend growth guidance.

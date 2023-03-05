@@ -1,0 +1,3 @@
+diluted net loss per share was $num-one and adjusted loss per share of $num-two.
+diluted net loss per share was $num-one and adjusted loss per share of $num-two.
+on a consolidated basis, the company reported net sales for the second quarter of $num-one million and adjusted ebitda of $num-two million.

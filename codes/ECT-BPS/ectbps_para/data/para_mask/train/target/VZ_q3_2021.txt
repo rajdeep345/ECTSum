@@ -1,0 +1,16 @@
+compname posts qtr-three earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three earnings per share $num-one.
+verizon - qtrly operating revenue of $num-one billion, up num-two percent from third-quarter year-five.
+verizon - qtrly total wireless retail postpaid churn of 0.94 percent, and retail postpaid phone churn of num-one percent.
+verizon - now expects full year year-six total wireless service revenue growth of around num-one percent.
+verizon - now expects full year year-six total wireless service revenue growth of around num-two percent.
+verizon - now expects full year year-six total wireless service revenue growth of around num-one percent.
+verizon - now expects full year year-six adjusted eps* of $num-one to $num-two, an update from prior guidance of $num-three to $num-one.
+verizon - now expects full year year-six adjusted eps* of $num-one to $num-two, an update from prior guidance of $num-three to $num-one.
+verizon - capital spending to be in range of $num-one billion to $num-two billion in full year year-six.
+verizon - excluding verizon media, qtrly operating revenues increased num-one%.
+verizon - capex guidance includes expansion of num-txt mmwave in new and existing markets, densification of num-txt lte wireless network to manage future traffic demands.
+verizon - qtr-three earnings per share included net pre-tax gain on sale of verizon media to apollo funds of $num-one million, a net pre-tax charge of about $num-two million.
+verizon - qtr-three year-six results also included two months of verizon media, as sale closed on [date].

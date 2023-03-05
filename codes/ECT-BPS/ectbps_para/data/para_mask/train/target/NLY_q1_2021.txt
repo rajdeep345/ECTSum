@@ -1,0 +1,2 @@
+qtr-one gaap earnings per share $num-two.
+qtrly book value per common share of $num-one, up $0.03 quarter-over-quarter.

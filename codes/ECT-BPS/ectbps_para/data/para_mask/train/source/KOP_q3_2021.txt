@@ -1,0 +1,4 @@
+on slide-num, our sales forecast for year-six has been revised to be approximately $num-one billion compared with $num-two billion in the prior year to reflect the lower than previously expected pc volumes on our third and fourth quarter.
+on slide-num, we are adjusting our year-six ebitda projections to now be approximately $num-one million, which is at the low end of our previously communicated range.
+on slide-num, our adjusted earnings per share guidance is now expected to be approximately $num-one, which is comparable to our all-time high year-five adjusted earnings per share despite the negative impact of $num-two per share from our higher estimated effective tax rate.
+our $num-one estimate for year-six is lower than our prior estimate range, primarily due to our effective tax rate increasing from prior projections.

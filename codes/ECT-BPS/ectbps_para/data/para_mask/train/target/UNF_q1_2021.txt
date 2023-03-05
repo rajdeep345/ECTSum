@@ -1,0 +1,6 @@
+compname posts qtr-one earnings per share $num-one.
+compname posts qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-two.
+had no long-term debt outstanding as of [date], year-five.
+at this time, overall outlook in quarters ahead remains uncertain.

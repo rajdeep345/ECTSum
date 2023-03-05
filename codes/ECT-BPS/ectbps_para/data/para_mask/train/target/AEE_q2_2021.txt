@@ -1,0 +1,4 @@
+ameren qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+guidance range for year-six reaffirmed at $num-one to $num-two per diluted share.
+guidance range for year-six reaffirmed at $num-one to $num-two per diluted share.

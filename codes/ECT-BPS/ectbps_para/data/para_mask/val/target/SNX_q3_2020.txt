@@ -1,0 +1,6 @@
+compname reports qtr-three adjusted earnings per share of $num-four.
+sees qtr-four year-five non-gaap earnings per share $num-one to $num-two.
+sees qtr-four year-five revenue $num-one billion to $num-two billion.
+qtrly adjusted earnings per share $num-four.
+qtrly technology solutions revenue was $num-one billion, up 5.1%.
+qtrly concentrix revenue was $num-one billion, up 0.2%.

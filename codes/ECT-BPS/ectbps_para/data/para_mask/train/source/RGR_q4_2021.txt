@@ -1,0 +1,3 @@
+for year-six, net sales were $num-one million and diluted earnings were $num-two per share.
+for year-six, net sales were $num-one million and diluted earnings were $num-two per share.
+for the fourth quarter of year-six, net sales are $num-one million and diluted earnings were $num-two per share.

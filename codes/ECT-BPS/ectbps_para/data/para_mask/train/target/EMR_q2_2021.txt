@@ -1,0 +1,11 @@
+compname reports qtr-one adjusted earnings per share $num-one.
+compname reports qtr-one adjusted earnings per share $num-one.
+compname reports qtr-one adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+expect overall continued improvement in industrial and commercial demand over remainder of year-six.
+expect that residential demand will remain robust, but begin to taper in second half of year.
+sees fy year-six net sales growth num-seven% - num-three%.
+sees fy adjusted earnings per share $num-three plus or minus $num-four.
+sees fy year-six gaap earnings per share $3.60 plus or minus $num-four.

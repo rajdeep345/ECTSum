@@ -1,0 +1,7 @@
+compname posts qtr-three adj loss per share $num-two.
+compname posts qtr-three adj loss per share $num-two.
+qtr-three revenue $num-one million versus $num-three million.
+qtr-three non-gaap loss per share $num-two.
+qtr-three non-gaap loss per share $num-two.
+qtrly loss per share $num-two.
+qtrly loss per share $num-two.

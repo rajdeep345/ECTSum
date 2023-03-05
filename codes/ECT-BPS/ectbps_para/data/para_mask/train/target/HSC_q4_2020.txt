@@ -1,0 +1,5 @@
+qtr-four adjusted earnings per share $num-one from continuing operations.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $513.6 million.
+year-six adjusted ebitda expected to increase to between $num-one million and $num-two million.
+year-six free cash flow projected to increase to $num-one million-$num-two million.
+sees year-six adjusted earnings per share $num-one - $num-two.

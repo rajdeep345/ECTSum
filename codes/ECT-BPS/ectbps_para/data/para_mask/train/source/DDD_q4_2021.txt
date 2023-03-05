@@ -1,0 +1,5 @@
+non-gaap earnings per share was $num-one, flat to non-gaap earnings per share of $num-one in the fourth quarter of year-five.
+in the fourth quarter, we had gaap loss per share of $num-one, compared to gaap loss per share of $num-two in the fourth quarter of year-five.
+for the fourth quarter, we generated revenue of $num-one million, a decrease of num-two% compared to the fourth quarter of year-five.
+for full year year-seven, we expect revenue to be within a range of $num-one million and $num-two million, non-gaap gross margins to be between num-three and num-four%, and non-gaap operating expenses to be between num-five million and $num-six million.
+for full year year-seven, we expect revenue to be within a range of $num-one million and $num-two million, non-gaap gross margins to be between num-three and num-four%, and non-gaap operating expenses to be between num-five million and $num-six million.

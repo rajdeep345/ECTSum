@@ -1,0 +1,7 @@
+compname reports qtr-three earnings per share of $num-two.
+compname reports qtr-three earnings per share of $num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three sales rose num-one percent to $num-two million.
+fy capital expenditures are estimated to be in the range of $num-one million to $num-two million.

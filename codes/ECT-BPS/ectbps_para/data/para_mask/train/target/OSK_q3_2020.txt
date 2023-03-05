@@ -1,0 +1,4 @@
+compname reports qtr-three adjusted earnings per share $num-two excluding items.
+compname reports qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three adjusted earnings per share $num-two excluding items.
+qtr-three adjusted earnings per share $num-one excluding items.

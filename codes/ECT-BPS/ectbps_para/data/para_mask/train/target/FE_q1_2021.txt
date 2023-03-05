@@ -1,0 +1,9 @@
+sees fy non-gaap operating earnings per share $num-one to $num-two.
+sees fy non-gaap operating earnings per share $num-one to $num-two.
+qtr-one gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+affirming its full-year year-six operating (non-gaap) earnings guidance of $num-one to $num-two per share.
+affirming its full-year year-six operating (non-gaap) earnings guidance of $num-one to $num-two per share.
+for qtr-two of year-six, gaap and operating (non-gaap) earnings forecast range of $260 million to $315 million, or $num-one to $num-two per share.
+operating (non-gaap) earnings for qtr-one of year-six were $num-two per share.
+operating (non-gaap) earnings for qtr-one of year-six were $num-two per share.

@@ -1,0 +1,6 @@
+qtr-three adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy gaap earnings per share $10.10 to $num-one.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $862.3 million.
+in year-seven we expect sales growth of num-one% to num-two%.
+in year-seven we expect sales growth of num-one% to num-two% and earnings per share growth of num-three% to num-four%.

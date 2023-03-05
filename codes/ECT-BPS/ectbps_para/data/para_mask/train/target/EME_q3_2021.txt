@@ -1,0 +1,11 @@
+emcor group qtr-three revenue rose num-two% to $num-one billion.
+emcor group qtr-three revenue rose num-three% to $num-one billion.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one billion.
+qtr-three revenue rose num-three percent to $num-one billion.
+sees fy earnings per share $num-one to $num-two.
+sees fy revenue $9.8 billion to $num-four billion.
+authorizes additional $num-one million share repurchase program.
+authorizes additional $num-one million share repurchase program.
+authorizes additional $num-one million share repurchase program.

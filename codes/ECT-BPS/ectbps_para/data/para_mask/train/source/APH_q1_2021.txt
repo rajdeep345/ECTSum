@@ -1,0 +1,11 @@
+the company closed the first quarter with sales of $num-one billion and gaap and adjusted diluted earnings per share of $num-two and $num-three, respectively.
+adjusted diluted earnings per share increased by num-one% to $num-two from num-three% -- $num-four in the first quarter of year-five.
+the company closed the first quarter with sales of $num-one billion and gaap and adjusted diluted earnings per share of $num-two and $num-three, respectively.
+on a gaap basis, diluted earnings per share increased by num-one% to $num-two compared to $num-three in the prior year period.
+for the second quarter, we now expect sales in the range of $num-one billion to $num-two billion and adjusted diluted earnings per share in the range of $num-three to $num-four.
+the company closed the first quarter with sales of $num-one billion and gaap and adjusted diluted earnings per share of $num-two and $num-three, respectively.
+for the second quarter, we now expect sales in the range of $num-one billion to $num-two billion and adjusted diluted earnings per share in the range of $num-three to $num-four.
+for the second quarter, we now expect sales in the range of $num-one billion to $num-two billion and adjusted diluted earnings per share in the range of $num-three to $num-four.
+this would represent strong sales growth of num-one% to num-two% and adjusted diluted earnings per share growth of num-three% to num-four% compared to the second quarter of last year.
+sequentially, sales were down num-one% in u.s. dollars, num-two% in local currencies and num-three% organically.
+the commercial aerospace market represented num-one% of our sales in the quarter.

@@ -1,0 +1,11 @@
+compname reports qtr-two non-gaap earnings per share of $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtrly global unit case volume grew num-one%.
+qtrly organic revenues (non-gaap) grew num-one%.
+company expects to deliver organic revenue (non-gaap) growth of num-one% to num-two% in year-six.
+sees qtr-three year-six comparable earnings per share (non-gaap) to include an approximate num-three% to 4% currency tailwind.
+qtr-three comparable net revenues (non-gaap) expected to include about num-two% currency tailwind based on current rates, incl.
+impact of hedged positions.
+coca-cola - qtrly global unit case volume benefited from recovery in many markets, partially offset by impact of resurgence of coronavirus in several markets.
+coca-cola - markets such as china, brazil and nigeria grew volume in quarter ahead of year-four levels.
+coca-cola - other markets, including india, continued to be under pressure in quarter versus year-four.

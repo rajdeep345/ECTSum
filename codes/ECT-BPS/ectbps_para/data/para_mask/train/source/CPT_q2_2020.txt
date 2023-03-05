@@ -1,0 +1,3 @@
+last night, we reported funds from operations for the second quarter of year-five of $num-one million or $num-two per share, representing a $num-three per share sequential decrease in ffo from the first quarter of year-five.
+the midpoint of $num-one is $num-two per share better than the $num-three we reported in the second quarter.
+we expect ffo per share for the third quarter to be within the range of $num-one to $num-two.

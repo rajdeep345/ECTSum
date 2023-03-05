@@ -1,0 +1,4 @@
+core ffo was $num-one per share with net promote earnings effectively zero, rent change on rollover was num-two%.
+taking into assumption there is no account, we're increasing our core ffo midpoint by $num-one and narrowing the range to $num-two to $num-three per share.
+core ffo excluding promotes will range between $num-one and $num-two per share, representing year-over-year growth at the midpoint of almost num-three%.
+cash same-store noi growth accelerated by num-one%, up num-two basis points year-over-year.

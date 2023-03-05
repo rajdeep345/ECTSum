@@ -1,0 +1,10 @@
+compname reports qtr-two earnings per share of $num-one.
+compname reports qtr-two earnings per share of $num-one.
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtr-two same store sales rose num-three percent.
+qtr-two sales $num-two billion versus refinitiv ibes estimate of $8.35 billion.
+dollar general - believes consumer behavior driven by covid had positive effect on net sales and same-store sales.
+on august 25, co's board declared a quarterly cash dividend of $num-three per share.
+as of [date], year-five, total merchandise inventories, at cost, were $num-one billion compared to $num-one billion as of august 2, year-four.
+not issuing updated fiscal year-five sales or earnings per share guidance at this time.

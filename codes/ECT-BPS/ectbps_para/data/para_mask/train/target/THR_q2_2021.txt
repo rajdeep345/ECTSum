@@ -1,0 +1,7 @@
+compname posts quarterly non-gaap adjusted earnings per share of $num-two.
+compname posts quarterly non-gaap adjusted earnings per share of $num-one.
+thermon group holdings inc qtrly backlog of $num-one million , up num-five% over prior year.
+thermon group holdings inc qtrly fully diluted gaap earnings per-fully diluted common share of $num-one.
+thermon group holdings inc qtrly fully diluted gaap earnings per-fully diluted common share of $num-one.
+thermon group holdings inc qtrly non-gaap adjusted earnings per share of $num-two.
+thermon group holdings inc qtrly non-gaap adjusted earnings per share of $num-one.

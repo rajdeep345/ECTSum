@@ -1,0 +1,7 @@
+for the third quarter, total sales were $num-one billion, a decrease of num-two%.
+and finally, today we announced a new share repurchase authorization of $num-one million which replaces all previous authorizations.
+taking that all into consideration, we currently expect, for the fourth quarter, total sales of approximately $num-one billion, ebitda between $num-two million and $num-three million and diluted net earnings per share from continuing operations between $num-four and $num-five on a diluted share base of num-six million shares.
+for the third quarter, total sales were $num-one billion, a decrease of num-two%.
+ebitda was $num-one million, and diluted net earnings per share from continuing operations were $num-two.
+taking that all into consideration, we currently expect, for the fourth quarter, total sales of approximately $num-one billion, ebitda between $num-two million and $num-three million and diluted net earnings per share from continuing operations between $num-four and $num-five on a diluted share base of num-six million shares.
+we've also updated our full year outlook for capital expenditures to be between $num-one million and $num-two million, and we anticipate opening num-three net new restaurants for the year.

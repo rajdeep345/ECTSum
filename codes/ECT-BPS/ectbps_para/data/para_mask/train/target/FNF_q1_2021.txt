@@ -1,0 +1,2 @@
+compname reports first quarter year-six diluted earnings per share from continuing operations of $2.06 and adjusted diluted earnings per share from continuing operations of $num-two.
+qtr-one adjusted earnings per share $num-two from continuing operations.

@@ -1,0 +1,6 @@
+we reported a gaap income of $num-one per share in the first quarter of year-six compared to a gaap loss of $num-two in the first quarter of year-five.
+we reported non-gaap income of $num-one per share in the first quarter of year-six compared to a non-gaap loss of $num-two per share in the first quarter of year-five.
+we reported a gaap income of $num-one per share in the first quarter of year-six compared to a gaap loss of $num-two in the first quarter of year-five.
+we reported non-gaap income of $num-one per share in the first quarter of year-six compared to a non-gaap loss of $num-two per share in the first quarter of year-five.
+we reported a gaap income of $num-one per share in the first quarter of year-six compared to a gaap loss of $num-two in the first quarter of year-five.
+for the first quarter, we reported revenue of $num-one million, an increase of num-two% compared to the first quarter of year-five.

@@ -1,0 +1,6 @@
+compname reports qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+qtr-one earnings per share $num-one.
+sees qtr-two adjusted earnings per share $num-one to $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.
+qtrly global beverage can volumes grew num-one%.

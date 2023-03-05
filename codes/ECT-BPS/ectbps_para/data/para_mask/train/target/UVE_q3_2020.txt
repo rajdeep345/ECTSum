@@ -1,0 +1,4 @@
+qtr-three gaap loss per share $num-one.
+qtrly non-gaap adjusted loss per share of $num-two).
+sees fy year-five gaap earnings per share $num-one - $num-two.
+sees fy year-five adjusted non-gaap earnings per share $num-three - $num-four.

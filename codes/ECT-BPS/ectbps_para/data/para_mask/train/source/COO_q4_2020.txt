@@ -1,0 +1,6 @@
+non-gaap earnings per share were $num-one.
+non-gaap earnings per share was $num-one with roughly num-two million average shares outstanding.
+non-gaap earnings per share were $num-one.
+non-gaap earnings per share was $num-one with roughly num-two million average shares outstanding.
+non-gaap earnings per share is expected to be in the range of $num-one to $num-two.
+this includes consolidated revenues of $num-one million to $num-two million, down num-three% to up num-four% or down num-five% to up num-six% in constant currency.

@@ -1,0 +1,5 @@
+compname reports first quarter net income of $num-one billion or $num-two per diluted share.
+compname reports first quarter net income of $num-one billion or $num-two per diluted share.
+qtr-one earnings per share $num-two.
+net interest income for quarter decreased $68 million, or num-one%, from prior year period.
+qtr-one of year-six included an $num-two million reserve release, compared to a reserve build of $num-three billion in qtr-one of year-five.

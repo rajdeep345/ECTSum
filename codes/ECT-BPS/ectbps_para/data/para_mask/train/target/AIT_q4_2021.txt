@@ -1,0 +1,4 @@
+compname reports qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-one.
+sees fy earnings per share $5.00 to $num-two including items.
+sees fy sales up num-three to num-four percent.

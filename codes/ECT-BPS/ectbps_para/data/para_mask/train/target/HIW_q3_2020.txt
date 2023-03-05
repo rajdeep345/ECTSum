@@ -1,0 +1,6 @@
+compname posts qtrly net income per share of $num-two.
+qtrly net income per share $num-two.
+updates year-five ffo outlook to $num-one to $num-two per share.
+updates year-five ffo outlook to $num-one to $num-two per share.
+qtrly earned ffo of $num-one per share.
+qtrly earned ffo of $num-four per share.

@@ -1,0 +1,14 @@
+d r horton qtr-three earnings per share $num-two.
+d r horton qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtrly consolidated revenues increased num-two% to $num-three billion.
+qtrly net sales orders increased num-one% in value to $num-two billion on num-four homes sold.
+at [date], year-six, company had num-three homes in inventory.
+at [date], year-six, company had num-two homes in inventory.
+at [date], year-six, company had num-one homes in inventory.
+housing market conditions remain very robust.
+have slowed our home sales pace to more closely align to our current production levels.
+homebuyer demand exceeding our current capacity to deliver homes across all of our markets.
+are also selling homes later in construction cycle when we can better ensure certainty of home close date for our homebuyers.
+sees year-six consolidated revenues of $num-one billion to $num-two billion.

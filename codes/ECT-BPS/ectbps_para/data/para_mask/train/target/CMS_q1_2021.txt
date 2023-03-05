@@ -1,0 +1,7 @@
+compname announces first quarter earnings results of $num-one per share, reaffirms year-six guidance.
+compname announces first quarter earnings results of $num-two per share, reaffirms year-six guidance.
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-two.
+compname says reaffirmed its guidance for year-six adjusted earnings of $num-one - $num-two per share.

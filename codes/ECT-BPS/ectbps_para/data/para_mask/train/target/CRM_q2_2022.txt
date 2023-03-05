@@ -1,0 +1,3 @@
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $6.24 billion.
+sees fy revenue $26.2 billion to $num-one billion.
+raises ftxt-num gaap operating margin guidance to approximately 1.8% and non-gaap operating margin guidance to approximately num-one%.

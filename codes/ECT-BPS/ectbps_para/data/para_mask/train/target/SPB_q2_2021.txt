@@ -1,0 +1,6 @@
+compname reports qtr-two adj earnings per share of $num-one.
+qtr-two adjusted earnings per share $num-one.
+now expects mid-teens reported net sales growth in fiscal year-six.
+adjusted ebitda is also expected to increase mid-teens in fiscal year-six.
+adjusted free cash flow is now expected to be between $num-one million and $num-two million in fiscal year-six.
+adjusted free cash flow is now expected to be between $num-one million and $num-two million in fiscal year-six.

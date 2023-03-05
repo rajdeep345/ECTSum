@@ -1,0 +1,3 @@
+compname reports qtr-three earnings per share of $num-one.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue fell num-one percent to $num-two million.

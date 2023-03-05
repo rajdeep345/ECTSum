@@ -1,0 +1,8 @@
+agilent technologies qtr-three adj earnings per share $num-one.
+agilent technologies qtr-three adj earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-four revenue $num-one billion to $num-two billion.
+sees fy revenue $num-one billion to $num-two billion.
+sees fy non-gaap earnings per share $num-one to $num-two.
+sees qtr-four non-gaap earnings per share $num-one to $num-two.

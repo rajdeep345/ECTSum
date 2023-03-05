@@ -1,0 +1,11 @@
+bunge sees fy adjusted earnings per share at least $num-one.
+bunge sees fy adjusted earnings per share at least $num-two.
+qtr-two gaap earnings per share $num-one.
+sees fy adjusted earnings per share at least $num-one.
+sees fy adjusted earnings per share at least $num-two.
+sees year-six capital expenditures in range of $num-eight to $num-nine million.
+qtrly adjusted earnings per share $num-one.
+in agribusiness, results are expected to be modestly up from previous outlook, but still forecasted to be down from year-five.
+now expects year-six capital expenditures in the range of $num-eight million to $num-nine million.
+updating mid-cycle earnings baseline with $num-two per share increase reflecting structural changes in oilseed market environment.
+updating mid-cycle earnings baseline with $num-one per share increase reflecting structural changes in oilseed market environment.

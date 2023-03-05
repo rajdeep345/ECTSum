@@ -1,0 +1,6 @@
+qtr-three earnings per share $num-one.
+qtrly adjusted earnings per share $num-two.
+qtrly adjusted earnings per share $num-one.
+qtr-four fyyear-seven diluted earnings per share is expected to range between $num-five to $num-six.
+qtr-four fyyear-seven fee revenue is expected to be in range of $num-one million and $num-two million.
+qtr-four fyyear-seven adjusted diluted earnings per share is expected to be in range from $num-three to $1.6.

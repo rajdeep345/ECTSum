@@ -1,0 +1,5 @@
+we reported gaap net income of $num-one per share in the third quarter of year-six compared to a gaap loss of $num-two in the third quarter of year-five.
+we reported gaap net income of $num-one per share in the third quarter of year-six compared to a gaap loss of $num-two in the third quarter of year-five.
+for the third quarter, we reported revenue of $num-one million, an increase of num-two% compared to the third quarter of year-five.
+for our non-gaap results, we reported non-gaap income of $num-one per share in the third quarter of year-six compared to a non-gaap loss of $num-two per share in the third quarter of year-five.
+year-to-date, our non-gaap gross profit margin was num-one% and we expect full year gross profit margins to be between num-two% and num-three%.

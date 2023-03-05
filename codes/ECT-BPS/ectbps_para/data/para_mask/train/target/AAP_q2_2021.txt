@@ -1,0 +1,7 @@
+advance auto parts qtr-two adjusted earnings per share $num-one.
+advance auto parts qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-two.
+qtr-two sales $num-two billion versus refinitiv ibes estimate of $num-two4 billion.
+qtr-two same store sales rose num-one percent.
+increased full year year-six guidance.

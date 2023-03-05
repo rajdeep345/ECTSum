@@ -1,0 +1,4 @@
+compname reports qtr-three earnings per share $num-two.
+compname reports third quarter year-six net income of $num-one billion or $num-two per diluted share.
+qtr-three earnings per share $num-two.
+compname reports qtr-three earnings per share $num-three (oct. num-one).

@@ -1,0 +1,5 @@
+qtr-four sales rose num-three percent to $num-one million.
+qtr-four adjusted earnings per share $num-one.
+sees fy sales up num-one to num-two percent.
+qtr-four earnings per share $num-one.
+earned net income per diluted share of $num-one in quarter.

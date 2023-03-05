@@ -1,0 +1,3 @@
+sees qtr-two non-gaap earnings per share $num-three to $num-four.
+sees qtr-two revenue $num-one billion to $5.0 billion.
+qtrly non-gaap diluted earnings per share from continuing operations $num-four.

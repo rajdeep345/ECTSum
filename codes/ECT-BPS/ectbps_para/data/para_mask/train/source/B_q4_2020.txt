@@ -1,0 +1,8 @@
+net income was $num-one million, or $num-two per diluted share, compared to $num-three million, or $num-four per diluted share a year ago.
+adjusted earnings per share were $num-one, down num-two% from last year.
+on an adjusted basis, net income per share of $num-one was down num-two% from an $num-three a year ago.
+net income was $num-one million, or $num-two per diluted share, compared to $num-three million, or $num-four per diluted share a year ago.
+fourth quarter sales were $num-one million, down num-two% from the prior year period, with organic sales declining num-three% as continuing impacts from the pandemic affect our end markets.
+we expect organic sales to be up num-one% to num-two% for the year.
+adjusted earnings per share is expected to be in the range of $num-one to $num-two, approximately flat to up num-three% from year-five's adjusted earnings of $num-four per share.
+with general industrial markets on the upswing and global automotive production forecasted to be up meaningfully in year-six, we anticipate engineered components to grow high-single digits organically.

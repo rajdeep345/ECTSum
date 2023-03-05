@@ -1,0 +1,6 @@
+compname announces financial results for the fourth quarter and full year of fiscal year-six; quarterly dividend increase; new $num-one million share repurchase authorization.
+compname announces financial results for the fourth quarter and full year of fiscal year-six; quarterly dividend increase; new $num-one million share repurchase authorization.
+qtr-four earnings per share $num-two.
+qtr-four revenue $num-one million.
+for fiscal year-seven, expect revenues to be between $1.920 billion and $num-two billion.
+for fiscal year-seven, expect fully diluted earnings per share to be between $num-one and $num-two.

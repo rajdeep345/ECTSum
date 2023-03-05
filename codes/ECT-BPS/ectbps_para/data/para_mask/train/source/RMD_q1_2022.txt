@@ -1,0 +1,3 @@
+our gaap net income for the quarter was $num-one million, and our gaap diluted earnings per share for the quarter was $num-two.
+group revenue for the september quarter was $num-one million, an increase of num-two%.
+non-gaap diluted earnings per share for the quarter were $num-one, an increase of num-two%.

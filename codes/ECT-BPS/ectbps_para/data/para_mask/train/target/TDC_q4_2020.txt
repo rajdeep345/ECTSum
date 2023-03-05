@@ -1,0 +1,15 @@
+qtr-four non-gaap earnings per share $num-one.
+sees fy year-six non-gaap earnings per share $num-one to $num-two excluding items.
+sees qtr-one non-gaap earnings per share $num-one to $0.40 excluding items.
+annual recurring revenue (arr) increased num-two% from prior year period.
+annual recurring revenue (arr) increased num-two% from prior year period.
+public cloud arr increased to $num-one million, a num-two% increase from end of year-four.
+public cloud arr increased to $num-one million, a num-two% increase from end of year-four.
+fourth-quarter recurring revenue of $num-one million exceeded company's guidance range.
+fy year-six total revenue is expected to grow at a low-single-digit percentage year-over-year.
+fy year-six total arr is expected to grow at a mid- to high-single-digit percentage year-over-year.
+fy year-six public cloud arr is expected to increase by at least num-one% year-over-year.
+fy year-six public cloud arr is expected to increase by at least num-one% year-over-year.
+fy year-six public cloud arr is expected to increase by at least num-one% year-over-year.
+qtr-one public cloud arr is expected to increase by at least num-two% year-over-year.
+qtr-one public cloud arr is expected to increase by at least num-two% year-over-year.

@@ -1,0 +1,5 @@
+compname reports ‍​qtrly core earnings per share $num-two.
+[date] (reuters) - travelers companies inc: :‍​qtrly core earnings per share $num-two ; qtrly earnings per share $3.66.
+qtrly catastrophe losses, net of reinsurance, $num-one million pre-tax versus loss of $num-two million pre-tax.
+qtrly net written premiums $8.14 billion, up num-two%.
+higher underwriting income, net favorable prior year reserve development, lower level of catastrophe losses, led to higher core income in quarter.

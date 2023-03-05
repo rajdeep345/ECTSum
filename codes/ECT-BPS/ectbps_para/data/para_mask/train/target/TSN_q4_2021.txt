@@ -1,0 +1,22 @@
+compname reports qtr-four adjusted earnings per share $num-one.
+compname reports qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one .
+qtr-four adjusted earnings per share $num-two .
+delivered double digit sales and earnings growth during qtr-four and fy.
+expect sales to approximate $num-one billion to $num-two billion in fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of approximately $num-three billion for fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of approximately $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-three billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+expect capital expenditures of about $num-one billion for fiscal year-seven.
+qtr-four adjusted earnings per share $num-three.
+qtr-four adjusted earnings per share $num-four.

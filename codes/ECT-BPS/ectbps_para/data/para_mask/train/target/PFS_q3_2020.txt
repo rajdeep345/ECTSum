@@ -1,0 +1,4 @@
+compname announces third quarter earnings per share $num-one.
+compname announces third quarter earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.

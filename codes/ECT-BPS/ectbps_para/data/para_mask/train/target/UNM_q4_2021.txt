@@ -1,0 +1,5 @@
+compname reports qtr-four adjusted operating earnings per share of $num-two.
+compname reports qtr-four adjusted operating earnings per share of $num-one.
+qtr-four adjusted operating earnings per share $num-two.
+qtr-four adjusted operating earnings per share $num-one.
+anticipates hosting a conference call on [date], year-seven to provide its outlook for year-seven.

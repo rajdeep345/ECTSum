@@ -1,0 +1,6 @@
+compname reports third quarter year-five quarterly diluted earnings per share $num-three.
+compname reports third quarter year-five results; increases quarterly dividend to $num-one per share.
+qtrly diluted earnings per share $num-three.
+qtr-three revenue $num-one million versus $402.2 million.
+qtrly adjusted diluted earnings per share $num-five.
+cash position and balance sheet continue to remain strong, and capital return strategies remain on track.

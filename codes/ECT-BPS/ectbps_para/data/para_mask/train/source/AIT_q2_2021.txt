@@ -1,0 +1,4 @@
+on a non-gaap adjusted basis, excluding these items, we reported earnings per share of $num-one, which compared to $num-two in the prior year quarter.
+on a gaap basis, we reported an operating loss of $num-one per share, which includes the previously referenced non-cash impairment and non-routine charges.
+based on month-to-date trends in january and assuming normal sequential patterns, we would expect fiscal third quarter year-six organic sales to decline by num-one% to num-two% on a year-over-year basis.
+as it relates to operating costs, based on the num-one% to num-two% organic sales decline assumption, we would expect selling, distribution and administrative expense of between $num-three million and $num-four million during our fiscal third quarter.

@@ -1,0 +1,4 @@
+qtr-four adjusted earnings per share $num-one.
+qtr-four gaap earnings per share $num-two.
+expects year-six revenue to grow over prior year in low-to-mid single digit range.
+expects year-six adjusted earnings per share to grow over prior year.

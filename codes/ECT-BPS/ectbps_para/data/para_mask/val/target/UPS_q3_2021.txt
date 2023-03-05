@@ -1,0 +1,10 @@
+compname reports qtr-three adjusted earnings per share of $num-three.
+qtr-three adjusted earnings per share $num-three .
+ups releases qtr-three year-six earnings.
+ups - raises full-year year-six financial guidance.
+qtr-three revenue rose num-one percent to $num-two billion.
+qtr-three revenue rose num-one percent to $num-two billion.
+ups qtrly gaap results include after-tax transformation and other charges of $num-one million, equivalent to $num-two per share.
+ups - fy capital expenditures are now planned to be approximately $num-one billion.
+ups - expects fy adjusted return on invested capital to be around num-one%.
+ups - expects fy adjusted return on invested capital to be around num-two%.

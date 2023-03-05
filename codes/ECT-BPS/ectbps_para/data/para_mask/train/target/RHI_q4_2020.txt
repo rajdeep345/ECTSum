@@ -1,0 +1,4 @@
+compname reports qtr-four earnings per share $num-one.
+compname reports qtr-four earnings per share $num-four.
+qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-four.

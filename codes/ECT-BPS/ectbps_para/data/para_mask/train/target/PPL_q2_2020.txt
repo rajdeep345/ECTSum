@@ -1,0 +1,6 @@
+reaffirms fy year-five earnings per share view $num-one to $num-two from continuing operations.
+reaffirms year-five earnings from ongoing operations forecast range of $num-one to $num-two per share.
+withdraws guidance for year-six.
+qtrly gaap earnings per share $num-one.
+qtrly non-gaap earnings per share $num-one.
+expects full-year impacts of pandemic to be manageable.

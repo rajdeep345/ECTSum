@@ -1,0 +1,7 @@
+qtr-four earnings per share $num-one.
+qtr-four sales fell num-two percent to $num-one million.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+sees fy year-six revenue $num-one million to $num-two million.
+sees year-six gaap and adjusted earnings per share of between $num-nine and $num-ten.
+sees year-six capital expenditures in range of $num-seven million to $num-eight million.

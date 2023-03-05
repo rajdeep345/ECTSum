@@ -1,0 +1,7 @@
+qtr-three earnings per share $num-two excluding items.
+qtr-three earnings per share $num-one excluding items.
+sees qtr-four earnings per share $num-one to $num-two including items.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $5.32 billion.
+manpowergroup - including full quarter impact of ettain group acquisition, anticipate diluted earnings per share in qtr-four will be between $num-one & $num-two.

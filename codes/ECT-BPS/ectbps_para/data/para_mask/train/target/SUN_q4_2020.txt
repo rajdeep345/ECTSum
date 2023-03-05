@@ -1,0 +1,4 @@
+partnership sold num-one billion gallons in qtr-four of year-five, down num-two% from qtr-four of year-four.
+partnership expects full year year-six adjusted ebitda to be between $num-one and $num-two million.
+expects year-six growth capital expenditures of at least $num-eight million.
+expects year-six fuel volumes to be between num-one and num-two billion gallons.

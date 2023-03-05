@@ -1,0 +1,6 @@
+compname reports qtr-two earnings per share of $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $642.7 million.
+sees year-six earnings per share will range between $num-one and $num-two.
+sees year-six adjusted earnings per share will range between $6.00 and $num-two.

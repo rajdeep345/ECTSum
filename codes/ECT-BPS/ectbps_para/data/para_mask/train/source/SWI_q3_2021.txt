@@ -1,0 +1,4 @@
+non-gaap fully diluted earnings per share is projected to be $num-one to $num-two per share, assuming an estimated num-three million fully diluted shares outstanding.
+non-gaap fully diluted earnings per share is projected to be $num-one to $num-two per share, assuming an estimated num-three million fully diluted shares outstanding, which reflects the reverse stock split completed on [date].
+for the fourth quarter of year-six, we expect total revenue to be in the range of $num-one million to $num-two million, representing a year-over-year decline of negative num-three% to negative num-four%.
+for the full year, we expect total revenue to be in the range of $num-one million to $num-two million, representing a year-over-year decline of negative num-three% to flat with prior year.

@@ -1,0 +1,3 @@
+qtr-one earnings per share $num-two.
+sees fy sales $num-one billion to $num-two billion.
+qtr-one sales rose 1.3 percent to $num-one million.

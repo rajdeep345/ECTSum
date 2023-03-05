@@ -1,0 +1,10 @@
+compname reports qtr-two earnings per share of $num-two.
+qtr-two earnings per share $num-two from continuing operations.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+qtr-two adjusted earnings per share $num-two from continuing operations.
+adjusts year-six outlook for revenue growth, diluted earnings per share and adjusted diluted eps.
+in compliance with all covenants connected to its notes and other borrowings.
+sees full-year year-six total sales growth num-one% to num-two%.
+sees full-year year-six adjusted diluted earnings per share $num-one to $num-two.
+sees full-year year-six free cash flow $num-three million to $num-four billion.
+sees full-year year-six net cash provided by operating activities $num-one billion to $num-two billion.

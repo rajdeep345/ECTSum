@@ -1,0 +1,4 @@
+qtr-three core earnings per share $num-four.
+qtr-three core earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+resumed our quarterly dividend, declaring a $num-one per share cash dividend.

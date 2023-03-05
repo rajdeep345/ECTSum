@@ -1,0 +1,6 @@
+current year adjusted earnings per share of $num-one compares to the $num-two last year, an increase despite lower sales.
+on slide-num, you'll find the significant components of the walk from adjusted earnings per share of $num-one for the first quarter of fiscal year-five to $num-two for the first quarter of this year.
+current year adjusted earnings per share of $num-one compares to the $num-two last year, an increase despite lower sales.
+on slide-num, you'll find the significant components of the walk from adjusted earnings per share of $num-one for the first quarter of fiscal year-five to $num-two for the first quarter of this year.
+for the full year, the guidance range for earnings per share on an as-reported basis is now $num-one to $num-two or $num-three at the midpoint.
+on an adjusted earnings per share basis, the guidance range is now $num-one to $num-two or $num-three even at the midpoint.

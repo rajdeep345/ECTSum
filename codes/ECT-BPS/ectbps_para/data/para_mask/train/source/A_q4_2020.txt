@@ -1,0 +1,6 @@
+eps of $num-one is up num-two% year-over-year.
+now wrapping up the income statement, our non-gaap earnings per share for the quarter came in at $num-one, up num-two% versus last year.
+for qtr-one, we're expecting revenue to range from $num-one billion to $num-two billion, representing reported growth of num-three% to num-four% and core growth of num-five% to num-three%.
+for the full year, we're expecting revenue to range between $num-one billion and $num-two billion, representing reported growth of num-three% to num-four% and core growth of num-five% to num-six%.
+and first quarter year-six non-gaap earnings are expected to be in the range of $num-one to $num-two per share.
+for qtr-one, we're expecting revenue to range from $num-one billion to $num-two billion, representing reported growth of num-three% to num-four% and core growth of num-five% to num-three%.

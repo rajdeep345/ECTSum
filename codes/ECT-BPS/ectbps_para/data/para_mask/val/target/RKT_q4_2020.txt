@@ -1,0 +1,6 @@
+compname reports special dividend of $num-one per class a share of common stock.
+compname reports special dividend of $num-one per class a share of common stock.
+compname announces special dividend of $num-one per class a share of common stock.
+compname announces special dividend of $num-one per class a share of common stock.
+sees closed loan volume of between $num-one billion and $num-two billion in qtr-one year-six.
+sees net rate lock volume of between $num-four billion and $num-five billion in qtr-one year-six.

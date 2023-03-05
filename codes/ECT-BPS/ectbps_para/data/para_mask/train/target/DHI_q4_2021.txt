@@ -1,0 +1,7 @@
+qtr-four earnings per share $num-four.
+qtr-four earnings per share $num-two.
+qtrly consolidated revenues increased num-three% to $num-four billion.
+homes closed in quarter increased num-three% to num-six homes compared to num-eight homes closed in same quarter of fiscal year-five.
+net sales orders for qtr-four ended [date], year-six decreased num-one% to num-two homes.
+sees year-seven consolidated revenues of $num-one billion to $num-two billion.
+sees year-seven homes closed between num-three homes and num-four homes.

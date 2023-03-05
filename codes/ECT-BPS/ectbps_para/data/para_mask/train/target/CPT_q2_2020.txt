@@ -1,0 +1,3 @@
+qtrly ffo $num-two per share.
+qtrly ffo $num-three per share.
+sees qtr-three ffo $num-one - $num-two per share.

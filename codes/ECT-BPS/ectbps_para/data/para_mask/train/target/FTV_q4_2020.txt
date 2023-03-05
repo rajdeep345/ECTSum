@@ -1,0 +1,4 @@
+sees fy year-six adjusted earnings per share $num-one to $num-two from continuing operations.
+sees qtr-one adjusted earnings per share $num-one to $num-two from continuing operations.
+qtrly adjusted diluted net earnings per share from continuing operations were $num-one.
+qtrly adjusted diluted net earnings per share from continuing operations were $num-three.

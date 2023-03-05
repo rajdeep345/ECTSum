@@ -1,0 +1,2 @@
+compname reports qtr-three adj earnings per share $num-one.
+adjusted qtr-three year-six net income attributable to lad per diluted share was $num-one.

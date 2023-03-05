@@ -1,0 +1,7 @@
+gaap earnings per share of $num-one in qtr-three year-five, compared to $num-two in the prior-year quarter.
+and if you build in a more typical ratio of fourth quarters compared to prior quarters, you get to the $num-one to $num-two range for adjusted eps, that ajay will now talk about, as opposed to the $num-three to $num-four that we had before.
+and we now expect year-five adjusted earnings per share will range between $num-one and $num-two.
+we now expect year-five gaap earnings per share will range between $num-one and $num-two.
+gaap earnings per share of $num-one in qtr-three year-five, compared to $num-two in the prior-year quarter.
+we now expect year-five revenues will range between $num-one billion and $num-two billion.
+adjusted earnings per share of $num-one, compared to $num-two in the prior-year quarter.

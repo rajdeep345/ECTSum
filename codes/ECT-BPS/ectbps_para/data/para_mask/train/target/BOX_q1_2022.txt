@@ -1,0 +1,12 @@
+compname reports qtr-one non-gaap earnings per share of $num-one.
+compname reports qtr-one non-gaap earnings per share of $num-two.
+sees qtr-two non-gaap earnings per share $num-one to $num-two.
+sees qtr-two gaap loss per share $num-four to $num-three.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one gaap loss per share $num-two.
+qtr-one gaap loss per share $num-one.
+sees qtr-two revenue $num-one million to $num-two million.
+sees fy revenue $num-one million to $num-two million.
+sees fy year-seven non-gaap earnings per share $num-one to $num-two.
+sees fy year-seven gaap loss per share $num-two to $num-one.

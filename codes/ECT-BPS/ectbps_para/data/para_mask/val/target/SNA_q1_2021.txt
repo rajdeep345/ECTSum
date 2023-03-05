@@ -1,0 +1,6 @@
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-three.
+qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+projected that capital expenditures in year-six will be in a range of $num-one million to $num-two million.

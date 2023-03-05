@@ -1,0 +1,3 @@
+compname reports qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+today reaffirmed its previously disclosed year-six earnings per share (eps) projection of $num-one to $num-two per share.

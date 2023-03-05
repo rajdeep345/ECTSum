@@ -1,0 +1,2 @@
+edison international reported core earnings per share of $num-one compared to $num-two a year ago.
+edison international reported core earnings of $num-one per share for the second quarter year-six, a decrease of $num-two per share from the same period last year.

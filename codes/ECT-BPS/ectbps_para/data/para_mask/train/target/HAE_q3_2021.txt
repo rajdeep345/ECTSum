@@ -1,0 +1,4 @@
+compname reports quarterly adj earnings per diluted share of $num-one.
+compname reports quarterly adj earnings per diluted share of $num-five.
+qtrly adjusted earnings per diluted share $num-one.
+qtrly adjusted earnings per diluted share $num-five.

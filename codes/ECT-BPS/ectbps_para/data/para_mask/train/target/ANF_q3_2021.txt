@@ -1,0 +1,3 @@
+qtr-three sales rose num-two percent to $num-one million.
+qtrly adjusted earnings per share $num-one.
+compname announces board of director's approval of $num-one million share repurchase program.

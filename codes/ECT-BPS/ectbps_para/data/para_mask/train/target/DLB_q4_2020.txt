@@ -1,0 +1,8 @@
+qtr-four non-gaap earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.
+sees qtr-two revenue $num-one million to $num-two million.
+sees qtr-one year-six total revenue to range from $num-one million to $num-two million.
+sees qtr-one year-six total revenue to range from $num-one million to $num-two million.
+sees qtr-one year-six diluted earnings per share to range from $num-one to $num-two on a gaap basis.
+diluted earnings per share on a non-gaap basis is anticipated to range from $num-three to $num-four for qtr-one year-six.
+anticipate that cinema sites could continue to be negatively affected through first half of fiscal year-six or longer.

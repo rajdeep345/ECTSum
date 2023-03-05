@@ -1,0 +1,5 @@
+compname posts qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two gaap earnings per share $num-one from continuing operations.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $15.84 billion.
+sees fy sales $num-two billion to $num-three billion.

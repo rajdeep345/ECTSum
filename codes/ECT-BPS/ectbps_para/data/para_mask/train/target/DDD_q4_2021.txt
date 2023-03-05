@@ -1,0 +1,5 @@
+qtr-four non-gaap earnings per share $num-one.
+qtr-four gaap loss per share $num-one.
+qtr-four revenue fell num-two percent to $num-one million.
+expects full-year year-seven revenue to be within a range of $num-one million and $num-two million.
+expects full-year year-seven non-gaap gross margins to be between num-three% to num-four%.

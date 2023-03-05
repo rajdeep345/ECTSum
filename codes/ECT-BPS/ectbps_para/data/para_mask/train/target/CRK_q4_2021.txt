@@ -1,0 +1,5 @@
+compname reports qtr-four adjusted earnings per share of $num-two.
+compname reports qtr-four adjusted earnings per share of $num-three.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-three.
+qtrly revenues, after realized hedging losses, were $num-two million, num-one% higher than year-five's qtr-four.

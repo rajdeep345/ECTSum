@@ -1,0 +1,2 @@
+by [date], that figure had shrunk to $num-one million.
+net income in the second quarter of $num-one million produced core earnings per share of $num-two, a core pre-tax pre-provision roa of num-three% and a core efficiency ratio of num-four%.

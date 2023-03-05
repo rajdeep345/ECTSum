@@ -1,0 +1,4 @@
+qtr-two earnings per share $num-two.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $359.5 million.
+sees fy earnings per share $num-three to $num-four.
+sees fy revenue $num-one billion to $num-two billion.

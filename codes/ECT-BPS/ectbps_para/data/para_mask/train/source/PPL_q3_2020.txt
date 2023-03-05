@@ -1,0 +1,4 @@
+today, we announced third-quarter reported earnings of $num-one per share.
+as a result, we've narrowed our forecast range to $num-one to $num-two per share from the prior range of $num-one to $num-three per share.
+today, we announced third-quarter reported earnings of $num-one per share.
+third-quarter earnings from ongoing operations were $num-one per share compared with $num-two per share a year ago.

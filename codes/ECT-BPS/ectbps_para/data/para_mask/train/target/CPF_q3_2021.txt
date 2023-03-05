@@ -1,0 +1,4 @@
+compname reports qtr-three earnings per share of $num-two.
+compname reports $num-one million third quarter earnings and increases cash dividend.
+qtr-three earnings per share $num-two.
+net interest income for qtr-three of year-six was $num-one million versus $49.1 million.

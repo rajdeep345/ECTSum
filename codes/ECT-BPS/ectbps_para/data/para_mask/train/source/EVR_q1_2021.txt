@@ -1,0 +1,5 @@
+our board declared a dividend of $num-one, an increase of num-two%.
+our board declared a dividend of $num-one, an increase of num-two%.
+for the first quarter of year-six, net revenues, net income and earnings per share on a gaap basis were $num-one million, $num-two million and $num-three respectively.
+we delivered a first quarter adjusted operating margin of num-one% and a first quarter adjusted earnings per share of $num-two increased num-three% year-over-year.
+first quarter adjusted net revenues of $num-one million grew num-two% year-over-year.

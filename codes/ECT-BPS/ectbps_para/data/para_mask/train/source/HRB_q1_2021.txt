@@ -1,0 +1,4 @@
+gaap earnings per share improved to $num-one compared to a prior year loss of $num-two, while non-gaap earnings per share improved to $num-three compared to a loss of $num-four.
+gaap earnings per share improved to $num-one compared to a prior year loss of $num-two, while non-gaap earnings per share improved to $num-three compared to a loss of $num-four.
+the increase in tax filing volume in wave's contribution resulted in revenue of $num-one million in the fiscal first quarter, an increase of $num-two million or num-three% compared to the prior year.
+gaap earnings per share improved to $num-one compared to a prior year loss of $num-two, while non-gaap earnings per share improved to $num-three compared to a loss of $num-four.

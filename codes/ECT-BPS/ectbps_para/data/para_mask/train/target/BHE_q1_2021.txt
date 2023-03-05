@@ -1,0 +1,8 @@
+benchmark sees qtr-two revenue between $num-one million to $num-two million.
+qtr-one non-gaap earnings per share $num-three.
+qtr-one non-gaap earnings per share $num-two.
+qtr-one gaap earnings per share $num-one.
+sees qtr-two non-gaap earnings per share $num-one to $num-two excluding items.
+sees qtr-two revenue $num-one million to $num-two million.
+qtr-one revenue $num-one million.
+qtr-one revenue $num-one million.

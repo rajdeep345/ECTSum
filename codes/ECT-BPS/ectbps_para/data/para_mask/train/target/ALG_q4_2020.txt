@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share of $num-two.
+qtr-four earnings per share $num-two.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $289.8 million.
+qtr-four net sales of $num-one million, down num-two%.
+backlog at $num-one million at quarter end, up num-two% compared to year end year-four.
+qtrly acquisition adjusted diluted earnings per share non-gaap $num-two.

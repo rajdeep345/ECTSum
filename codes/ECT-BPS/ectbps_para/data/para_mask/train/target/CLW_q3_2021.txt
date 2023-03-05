@@ -1,0 +1,4 @@
+compname posts qtr-three earnings per share of $num-two.
+qtr-three earnings per share $num-two.
+qtr-three adjusted non-gaap earnings per share $num-three.
+qtr-three revenue $num-one million.

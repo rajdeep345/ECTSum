@@ -1,0 +1,2 @@
+adjusted earnings per share were $num-one as compared to adjusted earnings per share of a $num-two in the prior year period, an increase of num-three%.
+earnings per share were $num-one as compared to $num-two in the same period prior year.

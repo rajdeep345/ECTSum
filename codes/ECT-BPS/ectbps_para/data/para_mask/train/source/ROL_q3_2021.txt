@@ -1,0 +1,4 @@
+revenue increased num-one% to $num-two million compared to $num-three million for the third quarter of last year.
+our third quarter revenues of $num-one million was an increase of num-two% over last year.
+our net income totaled $num-one million or $num-two per diluted share compared to $num-three million or $num-four per diluted share for the same period in year-five.
+third quarter year-six earnings per share was $num-one per diluted share or num-two% improvement over the year-five third quarter adjusted eps.

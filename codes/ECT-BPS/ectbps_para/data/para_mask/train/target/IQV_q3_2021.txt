@@ -1,0 +1,7 @@
+compname posts qtr-three adjusted earnings per share $num-one.
+compname posts qtr-three adjusted earnings per share $num-three.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtr-three gaap earnings per share $num-two.
+sees qtr-four revenue $num-one million - $num-two million.
+sees qtr-four adjusted earnings per share $num-five - $2.47.

@@ -1,0 +1,3 @@
+compname reports full year year-five net earnings of $num-one mln.
+compname reports full year year-five net earnings of $num-one million, ebitda of $1,316 million, adjusted ebitda of $1,350 million.
+projects capital expenditures for full year year-six will be in range of $num-one million.

@@ -1,0 +1,7 @@
+compname reports qtr-three earnings per share $num-one.
+compname reports qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+qtrly home sale revenues increased num-one% to $num-two billion.
+quarter-end unit backlog of num-two homes up num-one%.
+quarter-end total value of homes in backlog up num-one% to $num-two billion.

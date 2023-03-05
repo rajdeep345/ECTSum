@@ -1,0 +1,7 @@
+compname reports qtr-two earnings per share of $num-one.
+qtr-two earnings per share $num-one.
+qtrly nike brand digital sales increased num-one percent, or num-three percent on a currency-neutral basis.
+qtrly gross margin increased num-one basis points to 45.9 percent.
+nike - qtrly revenue in greater china & apla declined, largely due to lower levels of available inventory resulting from covid related factory closures.
+while closures had impact across portfolio, n. america & emea delivered growth due to higher levels of in-transit inventory entering qtr-two.
+higher quarter-end inventories driven by elevated in-transit inventories due to extended lead times from ongoing supply chain disruptions.

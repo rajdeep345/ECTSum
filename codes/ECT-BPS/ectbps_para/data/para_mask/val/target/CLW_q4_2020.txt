@@ -1,0 +1,2 @@
+qtr-four earnings per share $num-one.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $449.3 million.

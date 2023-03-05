@@ -1,0 +1,7 @@
+compname reports qtr-three adjusted earnings per share $num-one.
+compname reports qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+sees fy adjusted earnings per share $num-two to $num-three.
+tempur sealy - for full year, company currently expects net sales growth to exceed num-one% over prior year.
+tempur sealy - for full year, company currently expects net sales growth to exceed num-one% over prior year.

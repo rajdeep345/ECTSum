@@ -1,0 +1,3 @@
+let's start on slide-num, that shows consolidated sales were $num-one million, an increase of sales from $num-two million in the prior year.
+on slide-num, our sales forecast for year-six remains in the range of $num-one billion to $num-two billion compared with $num-three billion in the prior year.
+on slide-num, the ebitda estimate to adjusted earnings per share guidance of $num-one to $num-two per share is unchanged from prior year's quarter -- from prior quarter's guidance and compares favorably to the prior year adjusted earnings per share of $num-three.

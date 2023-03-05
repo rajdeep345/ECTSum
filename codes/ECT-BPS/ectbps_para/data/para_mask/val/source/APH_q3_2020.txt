@@ -1,0 +1,9 @@
+the company closed the third quarter with record sales of $num-one million and record gaap and adjusted diluted earnings per share of $num-two and $num-three respectively.
+adjusted diluted earnings per share increased by num-one% to $num-two in the third quarter of year-five from $num-three in the third quarter of year-four.
+from a segment standpoint, in the interconnect segment, margins were num-one% in the third quarter of year-five, which increased from num-two% in the third quarter of year-four and num-three% in the third quarter -- sorry, in the second quarter of year-five.
+the company closed the third quarter with record sales of $num-one million and record gaap and adjusted diluted earnings per share of $num-two and $num-three respectively.
+adjusted diluted earnings per share increased by num-one% to $num-two in the third quarter of year-five from $num-three in the third quarter of year-four.
+the company closed the third quarter with record sales of $num-one million and record gaap and adjusted diluted earnings per share of $num-two and $num-three respectively.
+on a gaap basis, diluted earnings per share increased by num-one% to $num-two in the third quarter of year-five compared to $num-three in the third quarter of year-four.
+assuming no new material disruptions from the pandemic, as well as constant exchange rates, for the num-txth quarter, we expect sales in the range of $num-one million to $num-two million and adjusted diluted earnings per share in the range of $num-three to $num-four.
+our fourth quarter guidance also represents an expectation for full-year sales of $num-one million to $num-two million and full year adjusted diluted earnings per share of $num-three to $num-four.

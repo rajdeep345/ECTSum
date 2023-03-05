@@ -1,0 +1,9 @@
+qtr-three earnings per share $num-two from continuing operations.
+qtr-three earnings per share $num-two from continuing operations.
+qtr-three sales rose num-five percent to $num-one billion.
+qtr-three adjusted earnings per share $num-four from continuing operations.
+qtr-three adjusted earnings per share $num-two from continuing operations.
+raises year-six outlook for revenue growth, diluted eps, adjusted diluted earnings per share and free cash flow.
+sees year-six total sales growth num-one% to num-two%.
+sees year-six adjusted diluted earnings per share $num-three to $num-four.
+sees year-six free cash flow $num-one million to $num-two billion.

@@ -1,0 +1,4 @@
+adjusted ebitda of $num-one million, and adjusted diluted earnings per share $num-two.
+adjusted diluted per share was $num-one in qtr-three year-six compared to $num-two per share in qtr-three, year-five and $num-three per share in qtr-three year-four.
+we generated $num-one in adjusted diluted earnings per share in the third quarter of year-six compared to $num-two per share in qtr-three, year-five and $num-three per share in qtr-three year-three.
+we reported net sales of $num-one million adjusted ebitda before covid expenses of $num-two million.

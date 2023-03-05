@@ -1,0 +1,2 @@
+qtr-one earnings per share $num-one from continuing operations.
+qtr-one earnings per share $num-two from continuing operations.

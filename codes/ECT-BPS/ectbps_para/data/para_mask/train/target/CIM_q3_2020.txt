@@ -1,0 +1,5 @@
+chimera investment qtr-three core earnings per share $num-one.
+chimera investment qtr-three core earnings per share $num-two.
+qtr-three core earnings per share $num-one.
+qtr-three core earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.

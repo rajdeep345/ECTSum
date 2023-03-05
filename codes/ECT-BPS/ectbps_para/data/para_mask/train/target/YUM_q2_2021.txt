@@ -1,0 +1,17 @@
+compname reports second-quarter results; record num-one net-new units.
+compname reports second-quarter results; record num-two net-new units.
+compname reports second-quarter results; record num-one net-new units.
+digital system sales of over $num-two billion.
+digital system sales of over $num-one billion.
+digital system sales of over $num-four billion.
+digital system sales of over $num-one billion.
+digital system sales of over $num-two billion.
+digital system sales of over $num-two billion.
+digital system sales of over $num-two billion.
+digital system sales of over $num-two billion.
+same-store sales growth of num-one%.
+same-store sales growth of num-two%.
+same-store sales growth of num-two%.
+reinstates long-term growth algorithm with raised unit guidance.
+qtr-two earnings per share $num-one excluding items.
+qtr-two worldwide system sales excluding foreign currency translation grew num-one%, with num-two% same-store sales and num-six% unit growth.

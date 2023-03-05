@@ -1,0 +1,10 @@
+compname reports qtr-one earnings per share of $num-two.
+compname reports qtr-one earnings per share of $num-one.
+qtr-one sales fell 6 percent to $num-one million.
+qtr-one adjusted earnings per share $num-three.
+qtr-one adjusted earnings per share $num-one.
+qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.
+reiterating our guidance for year-six.
+updated year-six gaap earnings per share guidance.
+sees year-six gaap earnings per share $num-nine - $num-ten and adjusted earnings per share of between $num-eleven -$num-twelve.

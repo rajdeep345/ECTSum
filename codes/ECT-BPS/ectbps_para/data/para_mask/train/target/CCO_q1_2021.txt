@@ -1,0 +1,4 @@
+for qtr-two, expect americas revenue to be between $num-one million and $num-two million.
+for qtr-two, expect americas revenue to be between $num-one million and $num-two million.
+excluding impact of movements in foreign exchange rates, expect year-six europe revenue to be $num-one million-$num-two million.
+excluding impact of movements in foreign exchange rates, expect year-six europe revenue to be $num-one million-$num-two million.

@@ -1,0 +1,8 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+sees fy year-five revenue $num-one million - $num-two million.
+sees fy year-five adjusted earnings per share $num-one - $num-two.
+lifting temporary suspension of its share repurchase program.
+for full year of year-six, expects revenue of between $num-one million and $num-two million.
+for fy year-six, sees adjusted earnings per share of between $num-one and $num-two.

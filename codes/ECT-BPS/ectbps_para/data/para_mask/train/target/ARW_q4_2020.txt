@@ -1,0 +1,2 @@
+qtr-four non-gaap earnings per share $num-one.
+qtr-four sales $num-one billion versus refinitiv ibes estimate of $7.8 billion.

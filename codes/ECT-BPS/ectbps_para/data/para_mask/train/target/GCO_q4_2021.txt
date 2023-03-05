@@ -1,0 +1,4 @@
+compname reports qtr-four non-gaap earnings per share from continuing operations of $num-one.
+qtr-four non-gaap earnings per share from continuing operations $num-one.
+qtr-four same store sales rose num-one percent.
+qtr-four sales $num-two million versus refinitiv ibes estimate of $617.6 million.

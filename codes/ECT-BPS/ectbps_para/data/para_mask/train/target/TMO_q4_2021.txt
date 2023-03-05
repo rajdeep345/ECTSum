@@ -1,0 +1,7 @@
+compname posts qtr-four earnings per share of $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four gaap earnings per share $num-one.
+qtr-four revenue rose num-two percent to $num-one billion.
+compname says qtr-four revenue rose num-two% to $num-one billion.

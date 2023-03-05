@@ -1,0 +1,7 @@
+compname reports qtrly net income $num-one per share.
+sees fy year-five non-gaap operating earnings per share $num-one to $num-two.
+sees fy year-five non-gaap operating earnings per share $num-one to $num-two.
+sees fy year-five non-gaap operating earnings per share $num-two to $num-three.
+qtrly net income $num-one per share.
+qtrly non-gaap operating earnings $num-one per share.
+qtrly non-gaap operating earnings $num-one per share.

@@ -1,0 +1,6 @@
+compname reports qtr-three adjusted earnings per share $num-one from continuing operations.
+qtr-three adjusted non-gaap earnings per share $num-one from continuing operations.
+qtr-three earnings per share $num-one from continuing operations.
+textron aviation backlog at end of qtr-three was $num-two billion.
+textron aviation backlog at end of qtr-three was $num-one billion.
+bell backlog at end of qtr-three was $num-one billion.

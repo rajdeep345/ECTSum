@@ -1,0 +1,3 @@
+last night, we reported funds from operations for the second quarter of year-six of $num-one million or $num-two per share, exceeding the midpoint of our guidance range by $num-three per share.
+we expect ffo per share for the third quarter to be within the range of $num-one to $num-two.
+our new year-six ffo guidance is $num-one to $num-two with a midpoint of $num-three per share.

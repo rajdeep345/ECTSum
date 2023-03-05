@@ -1,0 +1,6 @@
+qtr-two non-gaap earnings per share $num-one excluding items.
+qtr-two non-gaap earnings per share $num-one excluding items.
+qtr-two loss per share $num-one.
+sees fy year-five revenue $num-one billion to $num-two billion.
+sees fy year-five non-gaap earnings per share $5.00 to $num-two.
+emcor group - during qtr-two, recorded significant impairment charge primarily related to u.s. industrial services segment.

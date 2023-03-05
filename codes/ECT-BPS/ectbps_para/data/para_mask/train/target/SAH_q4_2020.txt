@@ -1,0 +1,4 @@
+compname posts quarterly revenues of $num-one billion, up 1.8%.
+qtr-four adjusted earnings per share $num-two from continuing operations.
+quarterly revenues of $num-one billion, up 1.8%.
+quarterly adjusted earnings from continuing operations of $num-two per diluted share.

@@ -1,0 +1,4 @@
+qtr-three adjusted earnings per share $num-four.
+qtr-three earnings per share $num-three.
+qtr-three earnings per share $num-two.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $454.4 million.

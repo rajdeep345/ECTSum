@@ -1,0 +1,3 @@
+compname reports qtr-four adjusted operating earnings per share $num-three.
+qtr-four adjusted operating earnings per share $num-three.
+qtr-four earnings per share $num-three.

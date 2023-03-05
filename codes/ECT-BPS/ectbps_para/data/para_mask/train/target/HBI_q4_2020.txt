@@ -1,0 +1,5 @@
+qtr-four adjusted earnings per share $num-one.
+qtr-four gaap loss per share $num-two.
+sees qtr-one adjusted earnings per share $num-three to $num-four.
+qtr-four sales $num-two billion versus refinitiv ibes estimate of $1.64 billion.
+exploring strategic alternatives for european innerwear business.

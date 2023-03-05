@@ -1,0 +1,6 @@
+compname posts qtr-one earnings per share of $num-two.
+compname posts qtr-one earnings per share of $num-one.
+compname reports first quarter year-six earnings of $num-two per share.
+compname reports first quarter year-six earnings of $num-one per share.
+qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-one.

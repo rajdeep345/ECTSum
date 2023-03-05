@@ -1,0 +1,11 @@
+compname reports qtr-one earnings per share $num-two.
+sees fy loss per share about $num-one to $num-two.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-two.
+qtr-one revenue rose num-one percent to $num-two billion.
+qtrly north america revenue increased num-one percent.
+expects to realize approximately $num-one million to $num-two million in charges related to restructuring plan in qtr-two.
+given continued uncertainty related to covid, there could be potential material impacts on its full-year business results in year-six.
+year-six revenue is now expected to be up at a high-teen percentage rate.
+expects to realize about $num-one million to $num-two million in charges related to restructuring plan in qtr-two.
+year-six adjusted diluted earnings per share is expected to be in range of $num-three to $num-four.

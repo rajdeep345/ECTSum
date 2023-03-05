@@ -1,0 +1,4 @@
+generated adjusted earnings per share of $num-one, which represents an increase of num-two% over the prior year and produced $num-three billion of adjusted free cash flow on a year-to-date basis.
+accordingly, we are increasing year-six full year financial guidance as follows: adjusted earnings per share is now expected to be in the range of $num-one to $num-two; and adjusted free cash flow is now expected to be in the range of $num-three billion to $num-four billion.
+accordingly, we are increasing year-six full year financial guidance as follows: adjusted earnings per share is now expected to be in the range of $num-one to $num-two; and adjusted free cash flow is now expected to be in the range of $num-three billion to $num-four billion.
+we now expect to invest over $num-one billion in acquisitions through the full year.

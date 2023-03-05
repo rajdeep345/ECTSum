@@ -1,0 +1,7 @@
+in qtr-three, we reported worldwide net sales of $num-one billion, a decline of num-two% compared to the prior year period.
+third quarter net sales of $num-one billion represents a decrease of num-two% on a reported basis compared to the third quarter in year-five.
+for the third quarter, we reported earnings per share of $num-one per diluted share and net income of $num-two million.
+for the third quarter, we reported net income of approximately $num-one million or $num-two per diluted share.
+we are reiterating our fiscal year year-six guidance for the top and bottom line.
+adjusted diluted earnings per share of $num-one was above the top end of our revised qtr-three guidance.
+adjusted earnings per share of $num-one was above the high end of our qtr-three guidance, and was an increase of approximately num-two% compared to the prior year period.

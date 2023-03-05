@@ -1,0 +1,4 @@
+compname says qtrly core net operating income per share of $num-five.
+compname says qtrly core net operating income per share of $num-two.
+qtrly core net operating income per share of $num-five .
+qtrly core net operating income per share of $num-two .

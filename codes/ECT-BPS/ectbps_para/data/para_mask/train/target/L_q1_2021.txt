@@ -1,0 +1,3 @@
+compname reports net income of $num-one mln.
+compname reports net income of $num-one million for the first quarter of year-six.
+qtr-one earnings per share $num-two.

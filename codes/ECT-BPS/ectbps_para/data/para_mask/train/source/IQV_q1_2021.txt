@@ -1,0 +1,8 @@
+first quarter adjusted diluted earnings per share of $num-one grew num-two%.
+adjusted net income was $num-one million for the first quarter and adjusted diluted earnings per share grew num-two% between [technical issues] $num-three.
+gaap net income was $num-one million and gaap diluted earnings per share were $num-two.
+first quarter revenue of $num-one million grew num-two% on a reported basis.
+the new revenue guidance is $num-one million to $num-two million, which represents year-over-year growth of num-three% to num-four%.
+we're now raising both the low and the high end of that guidance range, resulting in a new adjusted diluted earnings per share guidance of $num-one to $num-two or year-over-year growth of num-three% to num-four%.
+now let's turn to the second quarter guidance, assuming fx rates remain constant through the end of the quarter, second quarter revenue is expected to be between $num-one million and $num-two million, which represents reported growth of num-three% to num-four%.
+and finally, adjusted diluted earnings per share is expected to be between $num-one and $num-two, up num-three% to num-four%.

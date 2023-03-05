@@ -1,0 +1,2 @@
+washreit qtr-two core ffo per share $num-one.
+qtr-two core ffo per share $num-one.

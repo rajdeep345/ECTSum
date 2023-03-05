@@ -1,0 +1,5 @@
+non-gaap revenues were $num-one million, up num-two%.
+we expect year-six non-gaap diluted earnings per share will be between $num-one and $num-two.
+we expect year-six gaap diluted earnings per share will be between $num-one and $num-two and may vary significantly due to the impact of stock incentive awards on the gaap effective tax rate.
+we expect year-six total gaap revenues will be between $num-one billion and $num-two billion, and non-gaap total revenues will be between $num-three billion and $num-four billion.
+our backlog at the end of the quarter was $num-one billion, up num-two%.

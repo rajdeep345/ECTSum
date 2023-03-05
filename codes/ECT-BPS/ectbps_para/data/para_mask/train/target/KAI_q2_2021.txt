@@ -1,0 +1,6 @@
+compname reports qtr-two adjusted earnings per share of $num-three.
+qtr-two adjusted earnings per share $num-three.
+qtr-two gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+qtr-two revenue $num-three million versus refinitiv ibes estimate of $178.1 million.
+sees fy year-six revenue $num-three million to $num-four million.

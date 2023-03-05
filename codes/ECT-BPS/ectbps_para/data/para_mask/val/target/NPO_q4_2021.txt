@@ -1,0 +1,6 @@
+compname reports qtr-four adjusted earnings per share of $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four sales rose num-two percent to $num-one million.
+introducing guidance for year-seven: revenue growth in low double-digit range.
+sees year-seven adjusted ebitda of $num-two million to $num-three million.
+sees year-seven adjusted diluted earnings per share from continuing operations of $num-one to $num-two.

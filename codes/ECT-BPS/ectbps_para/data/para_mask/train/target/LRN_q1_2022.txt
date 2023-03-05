@@ -1,0 +1,3 @@
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $359.5 million.
+sees fy revenue $num-one billion to $1.6 billion.
+sees year-seven capital expenditures in the range of $num-five million to $num-six million.

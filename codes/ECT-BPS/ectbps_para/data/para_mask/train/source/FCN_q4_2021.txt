@@ -1,0 +1,5 @@
+we expect our earnings per share to range between $num-one and $num-two.
+adjusted earnings per share of $num-one, which excludes $num-two of noncash interest expense related to our year-eight convertible notes, compared to adjusted earnings per share of $num-three in the prior-year quarter.
+gaap earnings per share of $num-one, compared to $num-two in the prior-year quarter.
+for the quarter, revenue of $num-one million increased $num-two million or num-three%, with revenues increasing across all business segments compared to the fourth quarter of year-five.
+we estimate that revenues for year-seven will be between $num-one billion and $num-two billion.

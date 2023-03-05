@@ -1,0 +1,2 @@
+qtr-four adjusted non-gaap earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.

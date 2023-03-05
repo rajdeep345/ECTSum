@@ -1,0 +1,7 @@
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+sees qtr-two non-gaap earnings per share $num-one to $num-two.
+qtrly non-gaap diluted earnings per share $num-one.
+estimates its average selling price per ton sold for qtr-two of year-six will be up num-one% to num-two%.
+company anticipates continued strength in its gross profit margin in qtr-two of year-six.
+factors impacting shipment levels in qtr-one of year-six will continue to persist in qtr-two of year-six.

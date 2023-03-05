@@ -1,0 +1,15 @@
+compname posts qtr-three adjusted earnings per share $num-two.
+compname posts qtr-three adjusted earnings per share $num-two.
+compname posts qtr-three adjusted earnings per share $num-three.
+qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-three.
+qtr-three net revenue was $num-one billion, an increase of 15.7% from a year ago.
+qtr-three diluted earnings per share was $num-one.
+qtr-three diluted earnings per share was $num-one.
+qtr-three diluted earnings per share was $num-two.
+expect that we can deliver fy organic growth for the year of approximately num-two%.
+expect that we can deliver fy organic growth for the year of approximately num-one%.
+expect that we can deliver fy organic growth for the year of approximately num-one%.
+expect to achieve fy adjusted ebita margin of approximately num-one%.
+expect to achieve fy adjusted ebita margin of approximately num-two%.

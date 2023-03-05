@@ -1,0 +1,2 @@
+as you can see on slide-num, total sales for the fourth quarter were $num-one million compared to $num-two million in the same period last year, an increase of num-three%.
+in summary, earnings per share was $num-one in the fourth quarter of year-five, an increase of num-two% from the prior year's earnings per share of $num-three.

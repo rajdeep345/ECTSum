@@ -1,0 +1,3 @@
+on slide-num, we have provided an earnings per share bridge where you can see the fourth quarter diluted earnings per share from continuing operations was $num-one, which compares to $num-two last year.
+on slide-num, we have provided an earnings per share bridge where you can see the fourth quarter diluted earnings per share from continuing operations was $num-one, which compares to $num-two last year.
+on slide-num, we have provided an earnings per share bridge where you can see the fourth quarter diluted earnings per share from continuing operations was $num-one, which compares to $num-two last year.

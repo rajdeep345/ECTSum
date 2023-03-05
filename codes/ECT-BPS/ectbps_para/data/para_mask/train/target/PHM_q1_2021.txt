@@ -1,0 +1,4 @@
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-two.
+quarterly net new orders increased num-one% to num-two homes.
+quarter-end backlog increased num-two% to num-one homes with a value of $num-four billion.

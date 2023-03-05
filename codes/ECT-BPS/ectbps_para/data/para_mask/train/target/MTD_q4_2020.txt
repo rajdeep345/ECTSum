@@ -1,0 +1,6 @@
+compname reports qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-one.
+qtr-four adjusted non-gaap earnings per share $num-one.
+anticipates local currency sales growth in year-six will be in range of num-one% to num-four%.
+anticipates local currency sales growth in year-six will be in range of num-one% to num-two%.
+international inc - sees year-six adjusted earnings per share is forecasted to be in range of $num-one to $num-two.

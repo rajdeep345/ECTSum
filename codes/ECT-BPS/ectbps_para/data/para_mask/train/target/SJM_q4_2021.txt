@@ -1,0 +1,8 @@
+compname announces quarterly adj earnings per share of $num-two.
+qtrly adjusted earnings per share was $num-two.
+expected net sales decrease of num-one to num-two percent in year-seven.
+sees fy year-seven net sales change versus prior year down num-two% - num-one%.
+sees adjusted earnings per share $num-one to $num-two in year-seven.
+sees fy year-seven adjusted earnings per share $num-one - $num-two.
+sees free cash flow $num-one million in year-seven.
+qtrly u.s. retail consumer foods sales decreased $60.7 million, or num-one percent.

@@ -1,0 +1,2 @@
+compname reports qtr-three loss per share $num-one.
+qtr-three loss per share $num-one.

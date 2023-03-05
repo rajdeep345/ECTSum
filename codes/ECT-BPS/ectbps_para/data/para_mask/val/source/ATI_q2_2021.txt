@@ -1,0 +1,5 @@
+on a reported basis, ati lost $num-one per share in the second quarter.
+excluding the $num-one million cost attributed to the strike and a small improvement in our restructuring reserves, we lost $num-two per share in the second quarter.
+excluding $num-one million of costs associated with the strike and a small favorable true-up to our restructuring reserves, the company lost $num-two per share in the second quarter.
+we anticipate third quarter growth across hpmc's key end markets, most notably jet engine and specialty energy and further utilization benefits from increasing production rates across our network.
+finally, due to the negative strike-related earnings impact, we now anticipate full year free cash flow to be at breakeven to slightly positive levels.

@@ -1,0 +1,4 @@
+compname reports qtr-two year-six revenues of $num-one bln.
+compname reports qtr-two year-six revenues of $num-two bln.
+qtr-two year-six revenues of $num-one billion, decrease of five percent compared to qtr-two of year-five.
+qtr-two year-six revenues of $num-two billion, decrease of five percent compared to qtr-two of year-five.

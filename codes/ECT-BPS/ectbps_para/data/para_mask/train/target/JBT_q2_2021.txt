@@ -1,0 +1,7 @@
+compname reports qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+sees qtr-three adjusted earnings per share $num-two to $num-three.
+sees fy adjusted earnings per share $num-one to $num-two.
+sees fy gaap earnings per share $num-one to $num-two.
+qtr-two earnings per share $num-one from continuing operations.
+expects total revenue expansion of num-four to num-one percent for full year.

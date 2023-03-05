@@ -1,0 +1,2 @@
+last night we reported a loss of $num-one in adjusted operating earnings per share which included pre-tax $num-two million in covid impacts, or $num-three per share.
+rga reported a pre-tax adjusted operating loss of $num-one million for the quarter and adjusted operating earnings per share loss of $num-two per share which includes a negative covid impact of $num-three per share.

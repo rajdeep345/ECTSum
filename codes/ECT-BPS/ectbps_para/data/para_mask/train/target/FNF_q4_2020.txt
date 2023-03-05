@@ -1,0 +1,4 @@
+compname reports qtr-four revenue $num-one bln.
+compname reports qtr-four revenue $num-one bln.
+compname reports fourth quarter year-five diluted earnings per share from continuing operations of $2.74 and adjusted diluted earnings per share from continuing operations of $num-two.
+qtr-four adjusted earnings per share $num-two from continuing operations.

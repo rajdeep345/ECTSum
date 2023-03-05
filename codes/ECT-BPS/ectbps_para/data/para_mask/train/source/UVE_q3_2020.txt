@@ -1,0 +1,4 @@
+eps for the quarter was a loss of $num-one on a gaap basis and a loss of $num-two on a non-gaap adjusted earnings per share basis.
+eps for the quarter was a loss of $num-one on a gaap basis and a loss of $num-two on a non-gaap adjusted earnings per share basis.
+we now expect a gaap earnings per share range of $num-one to $num-two and a non-gaap adjusted earnings per share range of $num-three to $num-four, assuming no extraordinary weather events in the fourth quarter of year-five and no realized or unrealized gains for the fourth quarter.
+we now expect a gaap earnings per share range of $num-one to $num-two and a non-gaap adjusted earnings per share range of $num-three to $num-four, assuming no extraordinary weather events in the fourth quarter of year-five and no realized or unrealized gains for the fourth quarter.

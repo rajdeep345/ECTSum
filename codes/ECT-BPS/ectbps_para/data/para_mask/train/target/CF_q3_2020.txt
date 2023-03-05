@@ -1,0 +1,2 @@
+compname reports nine month year-five net earnings of $num-one million, ebitda of $num-three million.
+qtr-three loss per share $num-two.

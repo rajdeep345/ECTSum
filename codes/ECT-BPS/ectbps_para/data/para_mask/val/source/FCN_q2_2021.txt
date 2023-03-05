@@ -1,0 +1,6 @@
+gaap earnings per share of $num-one in qtr-two year-six, compared to $num-two in qtr-two year-five.
+adjusted earnings per share for the quarter were $num-one, which compared to $num-two in the prior-year quarter.
+gaap earnings per share of $num-one in qtr-two year-six, compared to $num-two in qtr-two year-five.
+revenues of $num-one million were up $num-two million, compared to revenues of $num-three million in the prior-year quarter.
+gaap earnings per share is now expected to range between $num-one and $num-two, up from a prior range of between $num-three and $num-four.
+we now expect adjusted earnings per share to range between $num-one and $num-two, up from our prior range of between $num-three and $num-two.

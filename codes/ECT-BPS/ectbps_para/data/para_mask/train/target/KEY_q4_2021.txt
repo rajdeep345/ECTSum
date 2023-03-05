@@ -1,0 +1,4 @@
+average loans were $num-one billion for qtr-four of year-six, a decrease of $2.3 billion compared to qtr-four of year-five.
+taxable-equivalent net interest income was $1.0 billion for qtr-four of year-six and net interest margin was num-one%.
+qtrly provision for credit losses was $num-two million, compared to $num-one million in qtr-four of year-five.
+net loan charge-offs for qtr-four of year-six totaled $num-one million.

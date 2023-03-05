@@ -1,0 +1,9 @@
+compname reports qtr-one year-six net income of $num-one bln, or $num-two per share.
+compname reports first quarter year-six net income of $num-one billion, or $num-two per share.
+qtr-one revenue fell num-one percent to $7.1 billion.
+qtrly earnings per share $num-two.
+common equity tier num-one capital ratio under basel iii standardized approach of num-two percent at [date], year-six.
+qtrly benefit for credit losses $num-three million versus provision for credit losses of $5,423 million.
+qtrly net interest income $5,822 million, down num-one%.
+capital one financial qtrly earnings per share $num-two.
+qtr-one revenue fell num-one% to $7.1 billion versus qtr-four year-five .

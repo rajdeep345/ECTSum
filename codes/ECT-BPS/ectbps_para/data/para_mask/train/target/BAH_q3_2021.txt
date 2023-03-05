@@ -1,0 +1,7 @@
+quarterly diluted earnings per share of $num-two.
+expects adjusted earnings per share growth to exceed three-year investment thesis ending with fiscal year year-six.
+qtrly adjusted diluted earnings per share of $num-three.
+adjusts full year guidance at the top and bottom line.
+increased quarterly dividend by $num-two to $num-one per share.
+sees for fiscal year-six revenue growth in num-one to 6.0 percent range.
+sees fiscal year-six adjusted diluted earnings per share $num-two - $num-three.

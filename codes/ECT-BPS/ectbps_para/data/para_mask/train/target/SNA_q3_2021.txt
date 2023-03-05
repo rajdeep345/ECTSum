@@ -1,0 +1,12 @@
+compname posts qtr-three earnings per share $num-one.
+compname posts qtr-three earnings per share $num-two.
+compname posts qtr-three earnings per share $num-two.
+compname posts qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+now anticipates that capital expenditures in year-six will approximate $num-two million.
+now anticipates that capital expenditures in year-six will approximate $num-two million.
+now anticipates that capital expenditures in year-six will approximate $num-one million.
+now anticipates that capital expenditures in year-six will approximate $num-three million.

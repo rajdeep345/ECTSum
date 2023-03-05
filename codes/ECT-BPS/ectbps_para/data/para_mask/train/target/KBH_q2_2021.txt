@@ -1,0 +1,5 @@
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $num-three billion.
+qtrly homes delivered rose num-three% to 3,504.
+net orders for quarter grew num-three% to num-one, with net order value increasing by $1.35 billion, or 196%, to $2.04 billion.

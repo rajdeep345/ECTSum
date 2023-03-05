@@ -1,0 +1,10 @@
+compname reports qtr-one non gaap earnings per share of $num-one.
+compname reports qtr-one non gaap earnings per share of $num-four.
+qtr-one non-gaap earnings per share $num-one.
+qtr-one non-gaap earnings per share $num-four.
+qtr-one revenue rose num-three percent to $num-two million.
+updates year-six guidance.
+sees year-six reported revenue growth of num-one% - num-two%.
+sees year-six organic revenue growth of num-one% - num-two%.
+sees year-six organic revenue growth of num-three% - num-four%.
+year-six gaap earnings per share estimate of $5.95 - $6.20.year-six non-gaap earnings per share estimate of $num-one - $10.00.

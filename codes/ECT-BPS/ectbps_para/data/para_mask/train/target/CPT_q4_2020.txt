@@ -1,0 +1,4 @@
+compname reports qtrly ffo per diluted share of $num-two.
+qtrly ffo per diluted share $num-two.
+sees num-txtxt-num ffo per diluted share of $num-three - $num-four.
+sees year-six ffo per diluted share of $num-one - $num-two.

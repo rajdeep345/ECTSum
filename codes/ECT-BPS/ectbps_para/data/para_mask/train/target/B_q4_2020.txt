@@ -1,0 +1,8 @@
+barnes group qtr-four gaap earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four gaap earnings per share $num-two.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $282.8 million.
+sees year-six organic sales growth of +num-one% to +num-two%.
+sees year-six adjusted earnings per share of $num-one to $num-two; approximately flat to up num-three% from year-five adjusted eps.
+barnes group - as year-six unfolds, anticipate organic revenue growth to return for industrial business, while aerospace is expected to remain pressured.

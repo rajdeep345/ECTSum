@@ -1,0 +1,19 @@
+compname posts qtr-two adjusted non-gaap earnings per share $num-three.
+compname posts qtr-two adjusted non-gaap earnings per share $num-four.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.2 billion.
+qtr-two adjusted non-gaap earnings per share $num-three.
+qtr-two adjusted non-gaap earnings per share $num-four.
+sees siding solutions revenue in qtr-three of year-six to be about num-one% higher than qtr-three of year-five.
+sees siding solutions revenue in qtr-three of year-six to be about num-one% higher than qtr-three of year-five.
+sees siding solutions revenue in qtr-three of year-six to be about num-two% higher than qtr-three of year-five.
+sees siding solutions revenue in qtr-three of year-six to be about num-one% higher than qtr-three of year-five.
+sees siding solutions revenue in qtr-three of year-six to be about num-one% higher than qtr-three of year-five.
+sees siding solutions revenue in qtr-three of year-six to be about num-one% higher than qtr-three of year-five.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-one%.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-one%.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-two%.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-one%.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-one%.
+sees osb revenue in qtr-three of year-six to be sequentially lower than qtr-two of year-six by about num-one%.
+sees adjusted ebitda for qtr-three of year-six to be greater than $num-one million.
+expect capital expenditures for year-six to be about $num-three million.

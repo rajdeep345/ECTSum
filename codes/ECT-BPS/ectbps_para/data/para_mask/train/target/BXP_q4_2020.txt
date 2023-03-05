@@ -1,0 +1,5 @@
+compname reports earnings per share of $num-five and ffo per share of $num-one.
+qtr-four ffo per share $num-one.
+sees qtr-one ffo per share $num-one to $num-two.
+signs num-one million square feet of leases in qtr-four.
+signs num-one million square feet of leases in qtr-four.

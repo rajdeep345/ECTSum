@@ -1,0 +1,11 @@
+compname reports qtr-three adjusted earnings per share of $num-one.
+compname reports qtr-three adjusted earnings per share of $num-one.
+compname reports qtr-three adjusted earnings per share of $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.
+sees year-six net sales growth num-one% - 10%.
+sees year-six gaap earnings per share $3.79 +/- $num-two.
+sees year-six adjusted earnings per share $num-one.
+expect overall continued improvement in industrial and commercial demand over remainder of year-six.
+expect operational, supply chain, and materials inflation environment to remain challenging through remainder of fiscal year.

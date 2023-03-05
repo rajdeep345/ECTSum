@@ -1,0 +1,4 @@
+sees fy adjusted earnings per share $num-one to $num-two from continuing operations.
+sees qtr-four adjusted earnings per share $num-one to $num-two from continuing operations.
+compname says for qtr-four of year-six, company expects adjusted earnings per share from continuing operations of $num-one - $num-two.
+qtrly adjusted earnings per share $num-one.

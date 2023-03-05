@@ -1,0 +1,5 @@
+adjusted net income was $num-one million, resulting in an adjusted earnings per share of $num-two, up $num-three or num-four% over prior-year adjusted eps.
+third-quarter sales of num-one million were up num-two% overall and up num-three% organically.
+we are narrowing our full-year earnings per share guidance from a range of $num-one to $num-two to $num-three to $num-four.
+for the fourth quarter, we are projecting adjusted earnings per share to range from $num-one to $num-two.
+third-quarter net income was $num-one million, which resulted in an earnings per share of $num-two.

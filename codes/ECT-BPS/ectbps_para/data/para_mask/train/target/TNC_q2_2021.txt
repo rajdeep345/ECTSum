@@ -1,0 +1,4 @@
+qtr-two adjusted earnings per share $num-one.
+qtr-two earnings per share $num-two.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $271.8 million.
+affirms guidance for full-year year-six.

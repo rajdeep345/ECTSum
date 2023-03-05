@@ -1,0 +1,7 @@
+compname says qtr-three ffo per share $num-two.
+qtr-three ffo per share $num-two.
+collected approximately num-one% of base rents for qtr-three highlighted by a num-two% collection rate for month of september.
+collected num-four% of october's rents.
+collected num-one% of october's rents.
+qtrly net loss $num-one per diluted share.
+qtrly net loss $num-two per diluted share.

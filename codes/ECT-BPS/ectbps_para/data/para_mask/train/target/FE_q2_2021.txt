@@ -1,0 +1,6 @@
+reaffirms fy non-gaap operating earnings per share view $num-one to $num-two.
+qtr-two gaap earnings per share $num-one.
+qtr-two revenue $2.6 billion versus refinitiv ibes estimate of $num-two billion.
+for qtr-three of year-six, providing a gaap and operating (non-gaap) forecast range of $380 million to $435 million, or $num-one to $num-two per share.
+operating (non-gaap) earnings were $num-one for qtr-two of year-six.
+operating (non-gaap) earnings were $num-two for qtr-two of year-six.

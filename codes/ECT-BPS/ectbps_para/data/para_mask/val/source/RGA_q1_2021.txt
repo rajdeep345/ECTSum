@@ -1,0 +1,3 @@
+last night, we reported a loss of $num-one in adjusted operating eps, which included $num-two million in covid impacts or $num-three per share.
+adjusted operating earnings per share was a loss of $num-one per share, which includes covid impacts of $num-two per share.
+reported premiums increased num-one% in the quarter.

@@ -1,0 +1,9 @@
+compname reports qtr-one diluted earnings per share of $num-one.
+compname reports qtr-one diluted earnings per share of $num-one.
+qtr-one sales $num-one million.
+diluted earnings per share in qtr-one fiscal year-seven is $num-one.
+diluted earnings per share in qtr-one fiscal year-seven is $num-one.
+co's earnings per diluted class a nonvoting common share, excluding amortization guidance for year ending [date], year-seven remains unchanged.
+compname says earnings per diluted class a nonvoting common share on a gaap basis remains unchanged at $num-one to $num-two per share for fiscal year-seven.
+supply chains for certain components remain tight.
+experiencing inflation in many areas including wages, freight, utilities, and raw materials.

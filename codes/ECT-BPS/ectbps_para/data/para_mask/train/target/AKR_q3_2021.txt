@@ -1,0 +1,3 @@
+qtr-three ffo per share $num-one excluding items.
+qtr-three ffo per share $num-two excluding items.
+qtr-three ffo per share $num-two excluding items.

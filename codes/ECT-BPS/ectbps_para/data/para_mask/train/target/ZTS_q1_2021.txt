@@ -1,0 +1,4 @@
+sees fy earnings per share $num-three to $num-four.
+sees fy revenue $num-one billion to $num-two billion.
+qtr-one revenue rose num-two percent to $num-one billion.
+sees fy adjusted earnings per share $num-one to $num-two.

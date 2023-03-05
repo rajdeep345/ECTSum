@@ -1,0 +1,8 @@
+qtr-three adjusted earnings per share $num-one.
+qtr-three loss per share $num-two.
+qtr-three sales $num-one billion.
+for fy year-six targeting sales in range of $num-one billion - $num-two billion.
+for fy year-six targeting adjusted ebitda in range of $num-three million - $num-four million.
+for fy year-six targeting adjusted ebitda in range of $num-one million - $num-two million.
+adjusted ebitda in qtr-three unfavorably impacted by lower sales as result of semiconductor shortage by about $num-two million.
+sales for qtr-three of year-six were unfavorably impacted by semiconductor chip shortage by approximately $num-one million.

@@ -1,0 +1,5 @@
+compname reports third quarter adj earnings per share $num-one.
+compname reports third quarter year-six net income of $num-one billion, or $num-two per share.
+qtr-three adjusted earnings per share $num-one excluding items.
+common equity tier num-one capital ratio under basel iii standardized approach of num-two percent at [date], year-six.
+qtrly net interest margin of num-one percent, an increase of num-two basis points versus qtr-two year-six.

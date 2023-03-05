@@ -1,0 +1,4 @@
+compname posts qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+sees qtr-two adjusted earnings per share $num-three-$num-four.
+sees fy year-six adjusted earnings per share $num-one-$num-two.

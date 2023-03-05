@@ -1,0 +1,5 @@
+on a non-gaap adjusted basis, excluding this item, we reported earnings per share of $num-one, which compared to $num-two in the prior year quarter.
+on a gaap basis, we reported earnings per share of $num-one, which includes the previously referenced nonroutine income.
+consolidated sales increased num-one% over the prior year quarter.
+based on month-to-date trends in april and assuming normal sequential patterns, we would expect our fiscal fourth quarter year-six organic sales to increase by num-one% to num-two% on a year-over-year basis.
+based on the num-one% to num-two% organic sales growth assumption, we believe a low double-digit to mid-teen incremental margin is an appropriate benchmark to use for our fourth quarter.

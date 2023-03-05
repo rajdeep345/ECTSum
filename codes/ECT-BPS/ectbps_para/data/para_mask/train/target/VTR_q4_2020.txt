@@ -1,0 +1,4 @@
+sees qtr-one adjusted normalized ffo $num-three-$num-four per share.
+qtrly attributable net income per share $num-one.
+qtrly normalized ffo per share $num-one.
+qtrly normalized ffo per share $num-two.

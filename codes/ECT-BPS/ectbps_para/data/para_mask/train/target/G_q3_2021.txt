@@ -1,0 +1,7 @@
+compname reports adjusted earnings per share of $num-seven.
+compname reports adjusted earnings per share of $num-one.
+qtr-three adjusted earnings per share $num-seven.
+qtr-three adjusted earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one billion.
+sees fy revenue $num-one billion to $4.0 billion.
+sees year-six adjusted diluted earnings per share of $num-one to $num-two.

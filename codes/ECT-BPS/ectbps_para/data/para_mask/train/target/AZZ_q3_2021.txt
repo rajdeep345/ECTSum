@@ -1,0 +1,7 @@
+compname reports qtrly earnings per share of $num-one.
+compname reports qtrly earnings per share of $num-one.
+azz inc - qtrly earnings per share of $num-one.
+azz inc - qtrly earnings per share of $num-one.
+azz inc - qtrly sales of $num-one million, increased sequentially by 11.4% from qtr-two.
+azz inc - board authorized a new $num-one million share repurchase program.
+azz inc - qtrly adjusted earnings per share $num-two.

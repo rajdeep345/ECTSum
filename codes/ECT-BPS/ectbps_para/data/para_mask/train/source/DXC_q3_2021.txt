@@ -1,0 +1,5 @@
+non-gaap diluted earnings per share was $num-one due to a lower-than-expected tax rate of num-two%.
+non-gaap diluted earnings per share was $num-one due to a lower-than-expected tax rate of num-two%.
+regarding our qtr-three performance, our revenues were $num-one billion, approximately $num-two million above the top end of our guidance.
+gaap revenue was $num-one billion and $num-two million better than the top of our guidance range.
+we are targeting qtr-four revenues of $num-one billion to $num-two billion, adjusted ebit margins of num-three% to num-four%, non-gaap diluted earnings per share of $num-five to $num-six, net interest expense of $num-seven million and an effective non-gaap tax rate of about num-eight%.

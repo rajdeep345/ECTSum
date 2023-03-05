@@ -1,0 +1,2 @@
+qtr-three non-gaap operating earnings per share $num-two.
+qtr-three loss per share $num-three.

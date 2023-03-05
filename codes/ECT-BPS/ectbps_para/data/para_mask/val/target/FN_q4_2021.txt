@@ -1,0 +1,5 @@
+sees qtr-one revenue $num-one million to $num-two million.
+qtr-four non-gaap earnings per share $num-two.
+qtr-four non-gaap earnings per share $num-one.
+qtr-four gaap earnings per share $num-two.
+sees qtr-one non-gaap net income per diluted share to be in range of $num-one to $num-two.

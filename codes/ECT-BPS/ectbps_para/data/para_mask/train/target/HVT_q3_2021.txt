@@ -1,0 +1,4 @@
+qtr-three earnings per share $num-two.
+qtr-three same store sales rose num-one percent.
+qtr-three sales rose num-two percent to $num-one million.
+qtrly comparable store sales increased num-one%.

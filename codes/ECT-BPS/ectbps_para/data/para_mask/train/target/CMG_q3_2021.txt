@@ -1,0 +1,16 @@
+compname reports qtr-three earnings per share of $num-two.
+qtr-three earnings per share $num-two.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three adjusted earnings per share $num-three excluding items.
+qtrly comparable restaurant sales increased num-three%.
+qtrly comparable restaurant sales increased num-three%.
+qtrly comparable restaurant sales increased num-one%.
+qtrly digital sales grew num-one% year over year to $840.4 million.
+qtrly food, beverage and packaging costs in qtr-three were num-one% of revenue, decrease of num-two basis points compared to qtr-three of year-five.
+qtrly restaurant level operating margin was num-one%, an increase from num-three% in qtr-three of year-five.
+for qtr-four expect comparable restaurant sales to be in low to mid double-digits range.
+sees qtr-four year-six comparable restaurant sales growth in low to mid double-digits range.
+sees for fy year-six at or slightly above num-one new restaurant openings.
+sees for fy year-six at or slightly above num-two new restaurant openings.
+sees for fy year-six at or slightly above num-two new restaurant openings.
+sees an estimated underlying effective qtr-four year-six tax rate between num-one% and num-two% before discrete items.

@@ -1,0 +1,9 @@
+we expect qtr-two sales to be up between num-one% and num-two%, with non-gaap earnings per share between $num-three and $num-four per share.
+and for the full year, we now expect sales to be up between num-one% and num-two%, an increase from our prior guide of num-three% to num-one%.
+we expect qtr-two sales to be up between num-one% and num-two%, with non-gaap earnings per share between $num-three and $num-four per share.
+our qtr-one results included revenue of $num-one billion, up num-two%, including $num-three million from acquisitions and $num-four million from favorable currency.
+non-gaap earnings per share of $num-one compared to $num-two last year, primarily due to higher sales and improved operating leverage in both segments, higher pension income and a lower diluted share count, partially offset by a higher effective tax rate.
+gaap earnings per share of $num-one compared to $num-two in the year ago quarter.
+we expanded operating margins by num-one basis points and ended the quarter with backlog of $num-two billion, up num-three% versus last year.
+ending backlog was a qtr-one record of $num-one billion, up $num-two million compared to last year, driven by $num-three million of growth in north america and $num-four million of growth internationally.
+and we expect full year non-gaap earnings per share between $num-one and $num-two per share, up from our prior guidance of $num-three to $num-four per share.

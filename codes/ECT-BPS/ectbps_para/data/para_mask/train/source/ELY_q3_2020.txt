@@ -1,0 +1,6 @@
+non-gaap fully diluted earnings per share were $num-one in the third quarter of year-five, compared to fully diluted earnings per share of $num-two for the third quarter of year-four.
+non-gaap fully diluted earnings per share were $num-one in the third quarter of year-five, compared to fully diluted earnings per share of $num-two for the third quarter of year-four.
+diluted earnings per share were $num-one on num-two million shares in the third quarter of year-five, compared to earnings per share of $num-three on num-four million shares in the third quarter of year-four.
+today, we are reporting record consolidated third quarter year-five net sales of $num-one million, compared to $num-two million in year-four, an increase of $num-three million or num-four%.
+as we previously reported, we are no longer providing other specific financial guidance at this time due to continued uncertainty surrounding the duration and impact of covid.
+we feel fortunate that both our golf equipment and soft goods businesses are recovering faster than expected as both businesses support healthy, active outdoor lifestyles and activities that are compatible with social distancing.

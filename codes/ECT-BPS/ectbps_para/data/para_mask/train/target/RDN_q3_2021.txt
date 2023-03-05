@@ -1,0 +1,8 @@
+qtr-three adjusted operating earnings per share $num-two.
+qtr-three adjusted operating earnings per share $num-two.
+qtr-three adjusted operating earnings per share $num-one.
+qtr-three gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue rose num-three percent to $num-one million.
+qtr-three revenue rose num-three percent to $num-one million.

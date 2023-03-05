@@ -1,0 +1,6 @@
+qtr-two adjusted earnings per share $num-one.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $895.5 million.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+full year year-six expectations remain in-line with its previous communications.
+fy year-six adjusted earnings per share is expected to be in range of $num-one to $num-two.

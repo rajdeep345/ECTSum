@@ -1,0 +1,5 @@
+terex sees fy sales about $num-three bln.
+sees fy earnings per share $num-one to $num-two.
+sees fy sales about $num-three billion.
+qtr-two sales $1.0 billion versus refinitiv ibes estimate of $num-one billion.
+qtrly earnings per share from continuing operations $num-one.

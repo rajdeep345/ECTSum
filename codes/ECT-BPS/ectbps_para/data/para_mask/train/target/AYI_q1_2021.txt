@@ -1,0 +1,3 @@
+qtr-one adjusted earnings per share $num-one.
+qtr-one earnings per share $num-one.
+qtr-one sales $num-one million versus refinitiv ibes estimate of $788.1 million.

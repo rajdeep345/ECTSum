@@ -1,0 +1,4 @@
+compname reports qtr-one earnings per share of $0.59 and ffo per share of $num-one.
+compname reports earnings per share of $0.59 and ffo per share of $num-one.
+qtr-one ffo per share $num-one.
+sees recent uptick in leasing activity.

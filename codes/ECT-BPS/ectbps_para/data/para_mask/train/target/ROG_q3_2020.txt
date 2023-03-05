@@ -1,0 +1,10 @@
+rogers qtr-three gaap earnings per share $num-two.
+rogers qtr-three gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtr-three adjusted earnings per share $num-one.
+qtrly gaap net sales $num-one million versus $221.8 million.
+sees qtr-four net sales $num-one million to $num-two million.
+sees qtr-four earnings per share$num-one to $num-two.
+sees qtr-four non-gaap earnings per share $num-one to $num-two.

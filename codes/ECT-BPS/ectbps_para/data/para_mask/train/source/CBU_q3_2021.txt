@@ -1,0 +1,3 @@
+the company recorded total revenues of $num-one million in the third quarter of year-six, an increase of $num-two million or num-three% over the prior year's third quarter.
+the company recorded total revenues of $num-one million in the third quarter of year-six, an increase of $num-two million or num-three% over the prior year's third quarter.
+as mark noted, the third quarter earnings results were solid with fully diluted gaap and operating earnings per share of $num-one.

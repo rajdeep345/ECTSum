@@ -1,0 +1,3 @@
+compname reports qtr-one earnings per share $num-two.
+qtr-one earnings per share $num-two.
+net new orders for qtr-one increased to num-two, up 15.3% from prior year.

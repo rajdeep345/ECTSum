@@ -1,0 +1,6 @@
+sees fy adjusted earnings per share $num-one to $num-two.
+sees qtr-four adjusted earnings per share $1.00 to $num-two excluding items.
+qtr-three revenue rose num-two percent to $num-one billion.
+now expects full-year u.s. gaap earnings per share of $2.82 to $2.86 and adjusted earnings per share of $num-one to $num-two.
+expects full-year year-six sales growth of num-one% to num-two% on a reported basis.
+baxter international - worldwide sales in qtr-three totaled about $num-one billion, a year-over-year increase of num-two% on a reported basis.

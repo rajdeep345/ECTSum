@@ -1,0 +1,4 @@
+now for the quarter, we delivered total sales of $num-one billion, growth of nearly $num-two million over last year.
+we expect revenue for the first quarter in the range of $num-one billion to $num-two billion, with operating income in the range of $num-three million to $num-four million.
+with this context, we expect to deliver total revenue in the range of $num-one billion to $num-two billion.
+for fy year-eight, we expect earnings per share in the range of $num-one to $num-two per share.

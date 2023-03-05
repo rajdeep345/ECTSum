@@ -1,0 +1,9 @@
+methode electronics inc - qtr-four sales $num-one mln.
+methode electronics inc - qtr-four sales $num-one mln.
+sees qtr-one earnings per share $num-one to $num-two.
+qtr-four earnings per share $num-three.
+sees qtr-one sales $num-one million to $num-two million.
+qtr-four sales $num-one million.
+qtr-four sales $num-one million.
+compname says for fy year-seven, co expects net sales in range of $num-one billion-$num-two billion.
+compname says for fy year-seven, co expects earnings per share to be in range of $num-one to $num-two.

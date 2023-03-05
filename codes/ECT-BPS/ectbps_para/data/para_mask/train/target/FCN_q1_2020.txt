@@ -1,0 +1,4 @@
+qtr-one earnings per share $num-one.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $603.3 million.
+qtr-one adjusted earnings per share $num-one excluding items.
+toward end of quarter, we began to see effects of covid materialize.

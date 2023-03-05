@@ -1,0 +1,3 @@
+compname reports qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+confirming year-six, year-seven, and year-eight earnings guidance.

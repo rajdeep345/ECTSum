@@ -1,0 +1,4 @@
+compname reports qtr-three adjusted earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-one from continuing operations.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $457.2 million.
+co is not providing guidance at this time.

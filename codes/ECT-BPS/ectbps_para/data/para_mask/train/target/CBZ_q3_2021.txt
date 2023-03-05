@@ -1,0 +1,9 @@
+compname reports qtr-three earnings per share of $num-one from continuing operations.
+‍sees aggregate annual revenue from acquisitions of about $num-one million on full year basis (not​ sees fy revenue about $num-one million).
+sees fy gaap earnings per share $1.36 to $num-three.
+qtr-three same store sales rose num-one percent.
+qtr-three earnings per share $num-one from continuing operations.
+sees fy revenue up num-one to num-two percent.
+qtr-three revenue rose num-one percent to $282.7 million.
+cbiz sees fy gaap earnings per share of $1.36 to $num-three.
+sees fy revenue about $num-one million.

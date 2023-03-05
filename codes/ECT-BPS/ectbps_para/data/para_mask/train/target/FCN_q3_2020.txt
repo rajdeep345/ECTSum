@@ -1,0 +1,7 @@
+compname reports qtr-three earnings per share $num-one.
+sees fy year-five adjusted earnings per share $num-one to $num-two.
+sees fy year-five adjusted earnings per share $num-one to $num-two.
+sees fy year-five earnings per share $num-one to $num-two.
+qtr-three earnings per share $num-one.
+sees fy year-five revenue $num-one billion to $num-two billion.
+qtr-three adjusted earnings per share $num-one excluding items.

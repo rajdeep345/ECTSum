@@ -1,0 +1,5 @@
+qtr-one non-gaap earnings per share $num-one.
+qtr-one gaap earnings per share $num-one.
+qtr-one revenue rose num-three percent to $num-one million.
+sees qtr-two non-gaap earnings per share $num-one to $num-two excluding items.
+fy non-gaap earnings per diluted share, excluding some items, is now expected to be in range of $num-one to $num-two.

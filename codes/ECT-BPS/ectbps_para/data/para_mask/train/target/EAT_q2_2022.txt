@@ -1,0 +1,5 @@
+qtr-two earnings per share $num-two excluding items.
+qtr-two earnings per share $num-one excluding items.
+qtrly brinker comp sales up num-one %.
+qtrly brinker comp sales up num-two %.
+qtrly chili's comp sales up num-one %.

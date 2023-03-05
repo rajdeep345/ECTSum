@@ -1,0 +1,6 @@
+parker-hannifin qtr-one adjusted earnings per share $num-one.
+parker-hannifin qtr-one adjusted earnings per share $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-two.
+sees fy earnings per share $num-one to $num-two.
+sees fy year-six earnings per share of $num-one to $num-two on an adjusted basis.

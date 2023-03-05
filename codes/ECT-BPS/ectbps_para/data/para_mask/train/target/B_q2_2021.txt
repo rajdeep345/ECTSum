@@ -1,0 +1,6 @@
+barnes group qtr-two adjusted earnings per share $num-one.
+barnes group qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two gaap earnings per share $num-two.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $304.2 million.

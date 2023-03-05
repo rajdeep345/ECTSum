@@ -1,0 +1,2 @@
+compname reports third quarter year-six diluted earnings per share from continuing operations of $2.58 and adjusted diluted earnings per share from continuing operations of $num-two.
+qtr-three adjusted earnings per share $num-two from continuing operations.

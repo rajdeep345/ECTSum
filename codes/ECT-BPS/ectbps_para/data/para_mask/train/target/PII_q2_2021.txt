@@ -1,0 +1,7 @@
+compname reports qtrly adjusted net income $num-one/shr.
+polaris second quarter year-six earnings results.
+qtr-two earnings per share $num-one.
+qtrly adjusted net income was $num-one per share.
+polaris increased its full year year-six earnings guidance and now expects earnings to be in range of $num-one to $num-two per diluted share.
+full year year-six adjusted sales guidance was narrowed and is now expected to be up num-two% to num-one% over prior year.
+supply chain-related headwinds and higher input costs will continue into the second half of the year.

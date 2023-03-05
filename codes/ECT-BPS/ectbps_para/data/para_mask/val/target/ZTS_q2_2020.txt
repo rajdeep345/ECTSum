@@ -1,0 +1,5 @@
+sees fy year-five earnings per share $num-three to $num-four.
+sees fy year-five revenue $num-one billion to $num-two billion.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.36 billion.
+sees fy year-five adjusted earnings per share $num-one to $num-two.
+looking ahead, expect overall revenue growth for remainder of year to be driven largely by companion animal products.

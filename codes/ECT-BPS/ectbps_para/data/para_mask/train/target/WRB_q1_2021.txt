@@ -1,0 +1,3 @@
+compname reports net income per diluted share $num-two.
+qtrly net income per diluted share $num-two.
+qtrly operating income per diluted share $num-two.

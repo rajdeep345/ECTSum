@@ -1,0 +1,3 @@
+the company reported net income of $num-one million or $num-two per share.
+the company reported net income of $num-one million or $num-two per share.
+the breakdown is operating income of $num-one million, or $num-two per share, and after-tax net investment gains of $num-three million or $num-four per share.

@@ -1,0 +1,5 @@
+compname says qtr-four loss per share $num-one.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $168.5 million.
+on a non-gaap basis, company expects year-six gross profit margins to be between num-one% and num-two%.
+qtrly loss per share $num-one.
+qtrly non-gaap basic and diluted income per share $num-one.

@@ -1,0 +1,2 @@
+we generated adjusted earnings per share of $num-one, a num-two% increase over the prior-year quarter.
+based upon better-than-expected results in the third quarter, we are again raising our guidance to an earnings per share range of $num-one to $num-two for the full year year-six.

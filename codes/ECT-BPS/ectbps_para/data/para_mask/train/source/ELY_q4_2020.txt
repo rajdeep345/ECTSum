@@ -1,0 +1,4 @@
+non-gaap loss per share was $num-one in the fourth quarter of year-five, compared to a loss per share of $num-two for the fourth quarter of year-four.
+loss per share was $num-one, or num-two million shares in the fourth quarter of year-five, compared to a loss per share of $num-three on num-two million shares in the fourth quarter of year-four.
+today, we were reporting record consolidated fourth quarter year-five net sales of $num-one million, compared to $num-two million for the same period in year-four, an increase of $num-three million or num-four%.
+gross margins in year-five were negatively impacted by the north american warehouse consolidation, and in year-four were negatively impacted by a non-recurring purchase price inventory step-up associated jack wolfskin acquisition.

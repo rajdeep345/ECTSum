@@ -1,0 +1,14 @@
+compname reports results for third quarter of fiscal year year-seven generates earnings per share of $num-two.
+compname reports results for third quarter of fiscal year year-seven generates earnings per share of $num-one.
+compname reports results for third quarter of fiscal year year-seven; generates earnings per share of $num-two.
+compname reports results for third quarter of fiscal year year-seven; generates earnings per share of $num-one.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+qtr-three sales rose num-three percent to $num-one million.
+reaffirms fy earnings per share view $3.00 to $num-four.
+sees fy sales $num-one million to $num-two million.
+compname reports results for third quarter of fiscal year year-seven; generates earnings per share of $num-two.
+compname reports results for third quarter of fiscal year year-seven; generates earnings per share of $num-one.
+azz inc - qtrly sales of $num-one million, up num-three% versus last year.
+azz inc - reaffirming fiscal year year-seven sales guidance and anticipate annual sales to be in the range of $num-one million to $num-two million.
+azz inc - sees earnings per share to be in the range of $3.00 to $num-four per diluted share for fiscal year year-seven.

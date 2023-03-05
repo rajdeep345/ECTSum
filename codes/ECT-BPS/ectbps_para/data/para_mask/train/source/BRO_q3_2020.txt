@@ -1,0 +1,3 @@
+our net income per share for the third quarter was $num-one, increasing num-two% on an as reported basis.
+our net income increased by $num-one million or num-two% and our diluted net income per share increased by num-three% to $num-four.
+we delivered $num-one million of revenue, growing num-two% in total and num-three% organically.

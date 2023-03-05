@@ -1,0 +1,9 @@
+qtr-four non-gaap earnings per share $num-two.
+qtr-four gaap earnings per share $num-two.
+qtr-four revenue $num-one million versus $271.2 million.
+sees fy year-seven total revenue to range from $num-one billion to $1.40 billion.
+sees qtr-one year-seven total revenue in the range of $num-one million to $num-two million.
+sees fy year-seven diluted earnings per share to range from $num-one to $num-two on a gaap basis.
+sees qtr-one diluted earnings per share in the range of $num-one to $num-two.
+sees fy year-seven diluted earnings per share to range from $num-three to $num-four on a non-gaap basis.
+sees qtr-one non-gaap diluted earnings per share $num-three to $num-four.

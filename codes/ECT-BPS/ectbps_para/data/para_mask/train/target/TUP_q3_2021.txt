@@ -1,0 +1,8 @@
+compname reports qtr-three adjusted non-gaap earnings per share $num-one.
+compname reports qtr-three adjusted non-gaap earnings per share $num-one.
+qtr-three adjusted non-gaap earnings per share $num-one.
+qtr-three adjusted non-gaap earnings per share $num-one.
+tupperware brands qtrly net sales down num-two% to $376.9 mln.
+tupperware brands corp - qtrly net sales were $376.9 million, a decrease of num-two% year over year.
+tupperware brands corp - qtrly adjusted diluted earnings per share (non-gaap) was $num-one.
+tupperware brands corp - qtrly adjusted diluted earnings per share (non-gaap) was $num-one.

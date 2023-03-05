@@ -1,0 +1,3 @@
+qtr-two earnings per share $num-two from continuing operations.
+qtr-two earnings per share $num-two including items.
+qtr-two earnings per share $num-two including items.

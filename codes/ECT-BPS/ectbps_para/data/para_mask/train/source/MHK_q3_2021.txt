@@ -1,0 +1,5 @@
+our adjusted earnings per share was $num-one per share.
+earnings per share as reported were $num-one, and excluding charges were num-two% -- $num-two, excuse me, increasing by num-three% versus prior year.
+given these factors, we anticipate our fourth quarter adjusted earnings per share to be $num-one to $num-two, excluding any restructuring charges.
+earnings per share as reported were $num-one, and excluding charges were num-two% -- $num-two, excuse me, increasing by num-three% versus prior year.
+sales for the quarter exceeded $num-one billion and num-two% increase as reported and num-three% on a constant basis.

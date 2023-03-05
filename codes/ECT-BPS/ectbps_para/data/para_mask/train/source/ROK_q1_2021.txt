@@ -1,0 +1,3 @@
+first quarter adjusted earnings per share was $num-one.
+we have also updated the adjusted earnings per share guidance range to $num-one to $num-two.
+the new range is num-one% to num-two% with a midpoint of num-three%.

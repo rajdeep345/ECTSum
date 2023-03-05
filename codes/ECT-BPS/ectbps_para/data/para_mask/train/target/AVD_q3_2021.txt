@@ -1,0 +1,3 @@
+compname reports qtr-three net sales up num-one% and net income up num-two%.
+compname reports improved financial results with third quarter net sales up num-one% and net income up num-two%.
+american vanguard corp - qtrly net sales up num-three% to $num-two million.

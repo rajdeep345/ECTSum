@@ -1,0 +1,1 @@
+eps was updated to a range from $num-one to $num-two and ffo per share as adjusted was updated to a range from $num-three to $num-four with no change in the midpoint of ffo per share diluted as adjusted of $num-five.

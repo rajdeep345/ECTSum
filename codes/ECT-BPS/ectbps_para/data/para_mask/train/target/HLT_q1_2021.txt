@@ -1,0 +1,3 @@
+compname reports qtr-one adjusted earnings per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+system-wide comparable revpar decreased num-one percent on a currency neutral basis for qtr-one from same period in year-five.

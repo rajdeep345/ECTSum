@@ -1,0 +1,4 @@
+compname reports qtr-two earnings per share of $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $496.9 million.

@@ -1,0 +1,7 @@
+compname reports qtr-one loss per share of $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one gaap loss per share $num-two.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $187.9 million.
+sees qtr-two adjusted earnings per share $num-one to $num-two.
+sees fy adjusted earnings per share $num-one to $num-two.
+now expects year-six organic revenue growth in range of num-one to num-two%.

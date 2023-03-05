@@ -1,0 +1,9 @@
+qtr-four adjusted earnings per share $num-one.
+qtr-four sales rose num-one percent.
+qtr-four sales rose num-one percent.
+qtr-four sales rose num-two percent.
+sees fy adjusted earnings per share $num-one to $num-two.
+mccormick & company qtr-four sales rose num-one percent.
+mccormick & company qtr-four sales rose num-one percent.
+mccormick & company qtr-four sales rose num-two percent.
+qtr-four revenue $num-two billion.

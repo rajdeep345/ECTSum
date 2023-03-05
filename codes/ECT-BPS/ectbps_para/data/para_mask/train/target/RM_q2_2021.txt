@@ -1,0 +1,6 @@
+compname reports qtr-two earnings per share $num-two.
+compname reports qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $95.3 million.
+for full year year-six, company expects net income to be between $num-two million and $num-three million.

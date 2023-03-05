@@ -1,0 +1,3 @@
+qtr-one adjusted earnings per share $num-one.
+qtr-one earnings per share $num-one.
+qtr-one revenue rose num-three percent to $num-one million.

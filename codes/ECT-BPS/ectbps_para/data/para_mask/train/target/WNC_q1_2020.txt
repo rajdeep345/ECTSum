@@ -1,0 +1,6 @@
+wabash national qtr-one non-gaap loss per share $num-two.
+qtr-one non-gaap loss per share $num-two.
+qtr-one gaap loss per share $num-two.
+qtr-one sales $num-one million versus refinitiv ibes estimate of $418.5 million.
+total company backlog ending march year-five was about $1.0 billion compared to backlog of $num-two billion ending december year-four.
+liquidity as of end of qtr-one was $num-one million with cash of $num-two million and available borrowings of $num-three million.

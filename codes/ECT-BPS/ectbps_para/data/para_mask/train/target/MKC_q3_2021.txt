@@ -1,0 +1,11 @@
+qtr-three sales rose num-one percent.
+qtr-three sales rose num-one percent.
+qtr-three sales rose num-four percent.
+qtr-three sales rose num-two percent.
+qtr-three sales rose num-two percent.
+qtr-three sales rose num-three percent.
+qtr-three sales rose num-one percent.
+qtr-three sales rose num-two percent.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-three adjusted earnings per share $num-one excluding items.
+projects year-six adjusted earnings per share to be in range of $num-one to $num-two.

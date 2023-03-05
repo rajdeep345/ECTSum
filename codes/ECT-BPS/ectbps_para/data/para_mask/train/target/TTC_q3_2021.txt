@@ -1,0 +1,6 @@
+compname reports qtr-three adjusted earnings per share of $num-three.
+qtr-three adjusted earnings per share $num-three.
+qtr-three earnings per share $num-one.
+raises full-year fiscal year-six net sales and *adjusted diluted earnings per share guidance.
+sees fy year-six adjusted earnings per share in range of $num-one to $num-two per diluted share.
+expects fy year-six net sales growth of about num-one%, up from a range of num-two% to num-three% previously.

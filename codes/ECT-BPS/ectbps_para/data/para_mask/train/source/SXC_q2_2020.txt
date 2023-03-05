@@ -1,0 +1,5 @@
+as you can see on slide-num, diluted earnings per share was $num-one per share in the second quarter of year-five compared to $num-two per share in the second quarter of year-four.
+as you can see on slide-num, diluted earnings per share was $num-one per share in the second quarter of year-five compared to $num-two per share in the second quarter of year-four.
+we now expect year-five adjusted ebitda to be between $num-one million and $num-two million.
+we now expect adjusted ebitda to be between $num-one million and $num-two million.
+we anticipate that these initiatives will result in permanent annual savings of approximately $num-one million beginning in year-six.

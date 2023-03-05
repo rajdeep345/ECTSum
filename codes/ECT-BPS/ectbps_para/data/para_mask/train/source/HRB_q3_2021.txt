@@ -1,0 +1,4 @@
+as a result, we reported revenue of $num-one million for our third quarter, a decline of num-two%.
+gaap loss per share increased from $num-one to $num-two, while adjusted loss per share increased from $num-three to $num-four.
+gaap loss per share increased from $num-one to $num-two, while adjusted loss per share increased from $num-three to $num-four.
+turning to our outlook for the fiscal year.

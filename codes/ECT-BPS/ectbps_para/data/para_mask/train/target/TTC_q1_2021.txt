@@ -1,0 +1,6 @@
+compname reports qtr-one earnings per share $num-one.
+qtr-one adjusted earnings per share $num-two.
+qtr-one earnings per share $num-one.
+qtr-one sales $num-two million versus refinitiv ibes estimate of $848.9 million.
+sees fy sales up num-one to num-two percent.
+sees fy fiscal year-six adjusted earnings per share in range of $num-one to $num-two per diluted share.

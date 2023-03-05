@@ -1,0 +1,2 @@
+compname reports qtrly adjusted net income per share of $num-two.
+qtrly adjusted net income per share $num-two.

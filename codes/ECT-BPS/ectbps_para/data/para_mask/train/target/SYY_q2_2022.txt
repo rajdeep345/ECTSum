@@ -1,0 +1,3 @@
+qtr-two sales rose num-two percent to $num-one billion.
+qtrly non-gaap earnings per share $num-one.
+qtrly non-gaap earnings per share $num-two.

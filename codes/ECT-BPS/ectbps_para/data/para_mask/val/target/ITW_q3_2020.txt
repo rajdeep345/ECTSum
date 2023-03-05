@@ -1,0 +1,5 @@
+compname reports qtr-three gaap earnings per share of $num-four.
+compname reports qtr-three gaap earnings per share of $num-two.
+qtr-three gaap earnings per share $num-four.
+qtr-three gaap earnings per share $num-two.
+qtr-three revenue $num-three billion versus refinitiv ibes estimate of $num-one billion.

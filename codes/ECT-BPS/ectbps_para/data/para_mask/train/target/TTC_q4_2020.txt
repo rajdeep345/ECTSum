@@ -1,0 +1,5 @@
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-one.
+qtr-four sales $num-two million versus refinitiv ibes estimate of $772.1 million.
+sees fy year-six sales up num-one to num-two percent.
+sees fy year-six adjusted earnings per share $num-one to $num-two.

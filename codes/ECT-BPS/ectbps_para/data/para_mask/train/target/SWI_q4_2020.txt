@@ -1,0 +1,6 @@
+sees qtr-one non-gaap earnings per share $num-one to $num-two.
+sees qtr-one year-six revenue $num-one million to $num-two million.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $261.5 million.
+at [date], total cash and cash equivalents were $num-one million and total debt was $1.9 billion.
+sees qtr-one non-gaap total revenue in range of $num-one to $num-two million.
+sees qtr-onenon-gaap diluted earnings per share of $num-one to $num-two.

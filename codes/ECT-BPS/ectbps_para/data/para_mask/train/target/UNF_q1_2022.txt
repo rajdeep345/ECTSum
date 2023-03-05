@@ -1,0 +1,5 @@
+qtr-one revenue $num-one million.
+qtr-one earnings per share $num-two.
+now expect revenues for fiscal year-seven to be between $1.940 billion and $num-two billion.
+expect year-seven diluted earnings per share to be between $num-one and $num-two.
+year-seven adjusted diluted earnings per share is expected to be between $7.00 and $num-two.

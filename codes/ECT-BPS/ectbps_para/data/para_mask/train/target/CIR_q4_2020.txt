@@ -1,0 +1,5 @@
+compname reports qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $207.6 million.
+for year-six, expects organic revenue growth in range of num-one to num-two%.
+for year-six, adjusted earnings per share is expected to be in range of $2.00 to $num-two.

@@ -1,0 +1,3 @@
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-four.
+qtr-two earnings per share $num-one.

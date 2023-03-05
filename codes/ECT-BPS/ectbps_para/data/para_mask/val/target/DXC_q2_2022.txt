@@ -1,0 +1,10 @@
+qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two revenue fell 11.6 percent to $num-one billion.
+reducing ftxt-num revenue guidance range due to foreign exchange fluctuations.
+increasing ftxt-num non-gaap diluted earnings per share and increasing ftxt-num adjusted ebit margin guidance ranges.
+sees qtr-three revenues $num-one billion to $num-two billion.
+sees qtr-three non-gaap diluted earnings per share $num-one - $num-two.
+sees fy year-seven revenues $num-two billion to $num-three billion.
+sees fy year-seven non-gaap diluted earnings per share $num-eight - $num-nine.
+reaffirmed its longer-term guidance.

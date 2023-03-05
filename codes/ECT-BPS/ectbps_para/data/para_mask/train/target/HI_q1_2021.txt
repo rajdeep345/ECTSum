@@ -1,0 +1,8 @@
+compname reports qtr-one gaap earnings per share $num-two.
+qtr-one gaap earnings per share $num-two.
+sees qtr-two adjusted earnings per share $num-three to $num-four.
+qtr-one adjusted earnings per share $num-two.
+qtr-one revenue rose num-two percent to $num-one million.
+qtrly gaap earnings per share of $num-two.
+fiscal qtr-two year-six total quarterly revenue expected to increase num-one% to num-two% year over year on a pro forma basis".
+believe we are well positioned for remainder of fiscal year year-six with a solid balance sheet and healthy backlog".

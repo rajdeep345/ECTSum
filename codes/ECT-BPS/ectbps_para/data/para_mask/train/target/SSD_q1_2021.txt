@@ -1,0 +1,7 @@
+compname reports qtr-one earnings per share of $num-four.
+compname reports qtr-one earnings per share of $num-two.
+qtr-one earnings per share $num-four.
+qtr-one earnings per share $num-two.
+qtr-one sales rose num-one percent to $num-two million.
+qtr-one sales rose num-one percent to $num-two million.
+sees fy year-six operating margin to be in range of num-one% to 22.0%.

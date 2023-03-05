@@ -1,0 +1,6 @@
+qtr-four earnings per share $num-one.
+qtr-four earnings per share $num-three.
+qtrly average selling price of deliveries up num-one% to $num-two.
+backlog dollar value at [date], year-five up num-two% year-over-year to $num-one billion.
+sees full year year-six home deliveries between num-one and num-two.
+sees home deliveries for year-six qtr-one between num-one and num-two.

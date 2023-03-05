@@ -1,0 +1,2 @@
+compname reports qtr-two sales of $num-one bln.
+qtr-one adjusted earnings per share $num-three.

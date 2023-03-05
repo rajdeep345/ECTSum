@@ -1,0 +1,5 @@
+compname says qtrly sales grew num-four% to $num-one billion.
+qtr-three earnings per share was $num-one.
+full year year-six sales, earnings per share guidance range unchanged.
+qtrly tavr sales of $858 million, up num-two% on a reported basis.
+tavr sales negatively impacted in last two months of qtr-three due to significant impact covid had on hospital resources.

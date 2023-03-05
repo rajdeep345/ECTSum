@@ -1,0 +1,4 @@
+compname posts qtr-two non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $783.2 million.

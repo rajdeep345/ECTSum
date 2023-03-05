@@ -1,0 +1,4 @@
+qtr-four adjusted earnings per share $num-one.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $724.8 million.
+sees qtr-one sales $num-one million to $num-two million.
+sees year-six diluted earnings per share estimated to be $9.00 - $num-two.

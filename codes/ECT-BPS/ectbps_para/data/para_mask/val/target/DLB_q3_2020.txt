@@ -1,0 +1,7 @@
+dolby laboratories qtr-three non-gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+sees qtr-four year-five revenue $num-one million to $num-two million.
+sees qtr-four year-five gaap earnings per share about $num-one to $num-two.
+qtr-four diluted earnings per share is anticipated to range from about $num-three to $num-four on a non-gaap basis.
+fy diluted earnings per share is anticipated to range from $num-five to $num-six on a non-gaap basis.

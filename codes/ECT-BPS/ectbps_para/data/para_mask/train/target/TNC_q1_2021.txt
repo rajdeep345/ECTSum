@@ -1,0 +1,8 @@
+compname reports qtr-one earnings per share of $num-two.
+qtr-one adjusted earnings per share $num-one.
+qtr-one earnings per share $num-two.
+qtr-one sales rose num-five percent to $num-one million.
+sees net sales of $1.0num-three0 billion to $1.num-four0 billion, reflecting organic sales growth of num-three to num-four percent for year-six.
+sees full-year reported gaap earnings in range of $num-five to $num-six per diluted share.
+sees adjusted earnings per share of $num-seven to $num-eight per diluted share for year-six, which excludes certain non-operational items and amortization expense.
+qtrly consolidated net sales up num-two% on non-organic basis.

@@ -1,0 +1,5 @@
+compname posts qtr-three earnings per share of $num-one.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-three non-gaap earnings per share $num-one.
+on a non-gaap basis company expects year-six gross profit margins to be between num-two% and num-three%.

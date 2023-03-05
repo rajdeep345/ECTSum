@@ -1,0 +1,3 @@
+prosperity bancshares qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtrly net interest income before provision for credit losses $num-one million versus $259.0 million.

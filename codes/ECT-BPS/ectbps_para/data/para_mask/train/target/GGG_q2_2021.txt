@@ -1,0 +1,2 @@
+quarterly earnings per common share $ num-two.
+quarterly earnings per common share, adjusted $ num-two.

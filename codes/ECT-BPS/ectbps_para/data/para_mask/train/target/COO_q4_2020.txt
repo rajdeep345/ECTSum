@@ -1,0 +1,6 @@
+compname reports qtr-four non-gaap earnings per share $num-one.
+compname reports qtr-four non-gaap earnings per share $num-one.
+qtr-four non-gaap earnings per share $num-one.
+qtr-four non-gaap earnings per share $num-one.
+sees qtr-one non-gaap earnings per share $num-one to $num-two including items.
+sees fiscal qtr-one year-six total revenue $num-one million - $num-two million.

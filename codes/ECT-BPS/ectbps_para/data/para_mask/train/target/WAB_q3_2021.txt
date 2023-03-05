@@ -1,0 +1,8 @@
+compname reports qtr-three adjusted earnings per share $num-one.
+compname reports qtr-three adjusted earnings per share $num-two.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+qtr-three gaap earnings per share $num-one.
+qtr-three sales rose num-two percent to $num-one billion.
+compname says tightened its year-six sales guidance to a range of $7.90 billion to $num-two billion.
+sees fy year-six adjusted earnings per share $num-three to $num-four.

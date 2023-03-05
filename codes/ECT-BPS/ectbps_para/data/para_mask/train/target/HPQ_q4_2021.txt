@@ -1,0 +1,7 @@
+qtr-four non-gaap earnings per share $num-two.
+qtr-four non-gaap earnings per share $num-three.
+qtr-four gaap earnings per share $num-one.
+sees qtr-one gaap earnings per share $num-three to $num-four.
+sees qtr-one non-gaap earnings per share $num-one to $num-two.
+sees fy year-seven non-gaap earnings per share $num-one to $num-two.
+sees fy year-seven gaap earnings per share $num-three to $num-four.

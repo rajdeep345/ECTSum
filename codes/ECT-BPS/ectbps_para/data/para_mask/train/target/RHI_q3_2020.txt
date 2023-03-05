@@ -1,0 +1,4 @@
+compname reports quarterly earnings per share $num-one.
+quarterly earnings per share $num-one.
+quarterly revenue $num-one billion.
+return on invested capital for co was num-one percent in qtr-three.

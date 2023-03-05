@@ -1,0 +1,4 @@
+we generated $num-one million of operating income and earnings per share were $num-two.
+earnings per share, excluding special items was $num-one and we incurred special charges of $num-two million after-tax in the third quarter or $num-three per share.
+from a financial perspective, total sales in the quarter were $num-one million, an increase of about num-two% sequentially, but still at lower levels compared to last year.
+earnings per share, excluding special items was $num-one and we incurred special charges of $num-two million after-tax in the third quarter or $num-three per share.

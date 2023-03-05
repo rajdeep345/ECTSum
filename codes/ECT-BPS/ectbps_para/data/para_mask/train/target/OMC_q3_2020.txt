@@ -1,0 +1,12 @@
+compname reports qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+reduction in co's revenue continued during second and third quarters of year-five and is expected to continue for remainder of year.
+operating margin for qtr-three of year-five increased to num-one% versus num-two% for qtr-three of year-four.
+operating margin for qtr-three of year-five increased to num-two% versus num-three% for qtr-three of year-four.
+qtrly decrease in revenue from negative organic growth of num-one%.
+qtrly decrease in revenue from negative organic growth of num-two%.
+qtrly decrease in revenue from negative organic growth of num-two%.
+qtrly decrease in revenue from negative organic growth of num-one%.
+qtrly change in revenue included increase in revenue from positive impact of foreign currency translation of num-one%.
+qtrly change in revenue included increase in revenue from positive impact of foreign currency translation of num-one%.
+reductions in revenue could adversely impact ongoing results of operations and financial position and effects could be material.

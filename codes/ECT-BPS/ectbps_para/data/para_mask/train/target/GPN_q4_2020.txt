@@ -1,0 +1,11 @@
+compname posts qtr-four adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-one.
+compname announces plan for $num-two million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+compname announces plan for $num-two million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+compname announces plan for $num-one million accelerated share repurchase.
+expect year-six adjusted earnings per share to be in a range of $num-one to $num-two.

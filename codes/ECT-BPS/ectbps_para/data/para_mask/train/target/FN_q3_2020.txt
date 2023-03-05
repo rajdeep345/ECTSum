@@ -1,0 +1,13 @@
+compname posts qtr-three non-gaap earnings per share of $num-two.
+compname posts qtr-three non-gaap earnings per share of $num-one.
+compname posts qtr-three non-gaap earnings per share of $num-two.
+compname posts qtr-three non-gaap earnings per share of $num-two.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three gaap earnings per share $num-two.
+sees qtr-four revenue $num-one million to $num-two million.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $414.1 million.
+sees qtr-four year-five non-gaap earnings per share $num-one to $num-two.
+sees qtr-four year-five gaap earnings per share $num-three to $num-four.

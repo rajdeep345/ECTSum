@@ -1,0 +1,4 @@
+compname reports qtr-one earnings per share of $num-two.
+qtr-one earnings per share $num-two.
+reaffirmed projected long-term earnings per share growth rate in upper half of range of num-one to num-two%.
+estimates it will earn toward lower end of year-six recurring earnings per share guidance of $num-one to $num-two per share.
