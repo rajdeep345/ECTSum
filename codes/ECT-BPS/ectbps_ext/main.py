@@ -374,7 +374,7 @@ def predict(examples):
 
 	doc_num = len(pred_dataset)
 	time_cost = 0
-	file_id = 1
+	# file_id = 1
 	for batch in tqdm(pred_iter):
 		input_ids, attention_masks, doc_lens, sent_weights  = vocab.make_predict_features(batch)
 		input_ids, attention_masks, sent_weights = Variable(input_ids), Variable(attention_masks), Variable(sent_weights.float())
@@ -421,10 +421,10 @@ def predict(examples):
 			_hyp = [doc[index] for index in topk_indices]
 			if not os.path.isdir(args.hyp):
 				os.makedirs(args.hyp)
-			with open(os.path.join(args.hyp, str(file_id) + '.txt'), 'w') as f:
+			with open(os.path.join(args.hyp, args.filename + '_ext_summary.txt'), 'w') as f:
 				f.write('\n'.join(_hyp))
 			start = stop
-			file_id = file_id + 1
+			# file_id = file_id + 1
 	
 	logging.info(f'Speed: {(doc_num / time_cost)} docs / s' )
 

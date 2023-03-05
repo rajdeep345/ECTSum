@@ -12,6 +12,8 @@ The <b> <i> ECTSum </b> </i> dataset can be found under the `data` folder.
 Codes and instructions for our proposed model <b> <i> ECT-BPS </b> </i> can be found under `codes/ECT-BPS` <br />
 Codes and instructions for our baseline models can be found under `codes/baselines`
 
+
+
 ## Data Preparation for ECT-BPS
 ### Preparing the data for training the <i> Extractive Module </i>
 
@@ -27,6 +29,33 @@ Codes and instructions for our baseline models can be found under `codes/baselin
 The data is saved at `codes/ECT-BPS/ectbps_ext/data/`. </br>
 Processed data is already uploaded at this location.
 
+
+### Preparing the data for training the <i> Paraphrasing Module </i>
+
+#### Imports
+`pip install sentence-transformers` </br>
+`pip install num2words` </br>
+`pip install word2number` </br>
+
+#### Prepare the data
+`python prepare_data_ectbps_para.py`
+
+#### Data Location
+The data is saved at `codes/ECT-BPS/ectbps_para/data/para/`. </br>
+Processed data is already uploaded at this location.
+
+#### Prepare the data with numericals masked
+`python prepare_data_ectbps_para_mask.py`
+
+#### Data Location
+The data is saved at `codes/ECT-BPS/ectbps_para/data/para_mask/`. </br>
+Processed data is already uploaded at this location.
+
+
+
 ## Updates
 <li> 1st November 2022 - ECTSum Dataset released </li>
-<li> 30th November 2022 - Codes and Instructions released for training the Extractive Module of ECT-BPS
+<li> 30th November 2022 - Codes and Instructions released for training the Extractive Module of ECT-BPS </li>
+<li> 3rd March 2023 - Added the Prediction Pipeline for the Extractive module - Input: A single ECT file, for example, 'A_q4_2021.txt'; Output: Extractive Summary 'A_q4_2021_ext_summary.txt' </li>
+<li> 5th March 2023 - Codes released to prepare the data for training the Paraphrasing Module </li>
+
