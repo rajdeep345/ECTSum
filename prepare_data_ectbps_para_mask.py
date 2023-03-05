@@ -65,7 +65,7 @@ def prepare_data(dataPath, out_path):
 			print(file)
 			f_ect_in = open(f'{source_path}{file}', 'r')
 			doc_lines = [line.strip() for line in f_ect_in.readlines()]
-			f_summ_in = open(f'{summ_path}{file}', 'r')
+			f_summ_in = open(f'{target_path}{file}', 'r')
 			summ_lines = [line.strip() for line in f_summ_in.readlines()]
 			assert len(doc_lines) == len(summ_lines)
 			d_lines, s_lines = getMaskedLines(doc_lines, summ_lines)
