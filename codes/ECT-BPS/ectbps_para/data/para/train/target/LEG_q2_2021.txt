@@ -1,0 +1,7 @@
+compname reports q2 sales of $1.27 billion.
+compname reports q2 sales $1.27 billion.
+q2 earnings per share $0.82.
+q2 sales $1.27 billion versus refinitiv ibes estimate of $1.23 billion.
+sees fy sales $4.9 billion to $5.1 billion.
+sees fy adjusted earnings per share $2.70 to $2.90.
+sees 2021 earnings per share of $2.86-$3.06.
