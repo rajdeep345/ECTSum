@@ -53,7 +53,7 @@ def getMaskedLines(d_lines, s_lines):
 	return dlines_masked, slines_masked
 
 
-def prepare_data(dataPath, out_path, exp):
+def prepare_data(dataPath, out_path):
 	source_path = f'{dataPath}/source/'
 	target_path = f'{dataPath}/target/'
 	if not os.path.isdir(f'{out_path}/source/'):
