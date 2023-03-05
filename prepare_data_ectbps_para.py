@@ -27,10 +27,13 @@ def cosine(u, v):
 
 def getNearestMatch(s_line, doc_lines):
 	idx_score = {}
-	doc_s = nlp(s_line)
+	# doc_s = nlp(s_line)
+	doc_s = sbert_model.encode([s_line])[0]
 	for idx, d_line in enumerate(doc_lines):
-		doc_d = nlp(d_line)
-		idx_score[idx] = doc_s.similarity(doc_d)
+		# doc_d = nlp(d_line)
+		doc_d = sbert_model.encode([d_line])[0]
+		# idx_score[idx] = doc_s.similarity(doc_d)
+		idx_score[idx] = cosine(doc_s, doc_d)
 	sorted_dict = dict(sorted(idx_score.items(), key=lambda kv: kv[1], reverse=True))
 	sorted_idxs = list(sorted_dict.keys())
 	return doc_lines[sorted_idxs[0]]
