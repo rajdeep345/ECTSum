@@ -1,0 +1,4 @@
+compname reports q3 loss per share of $0.32.
+compname reports third quarter diluted earnings per share loss of $0.32.
+q3 loss per share $0.32.
+rex american resources - lower q3 '19 ethanol production and lower distiller grain pricing resulted in year-over-year decline in net sales and revenue.
