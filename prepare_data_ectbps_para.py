@@ -39,7 +39,7 @@ def getNearestMatch(s_line, doc_lines):
 	return doc_lines[sorted_idxs[0]]
 
 
-def prepare_data(dataPath, out_path, exp):
+def prepare_data(dataPath, out_path):
 	ect_path = f'{dataPath}/ects/'
 	summ_path = f'{dataPath}/gt_summaries/'
 	if not os.path.isdir(f'{out_path}/source/'):
@@ -113,4 +113,4 @@ def prepare_data(dataPath, out_path, exp):
 
 for split in ['train', 'val']:
 	print(f'\n\n Preparing {split} data..\n')
-	prepare_data(f'data/final/{split}', f'codes/ECT-BPS/ectbps_para/data/', split)
+	prepare_data(f'data/final/{split}', f'codes/ECT-BPS/ectbps_para/data/para/{split}')
