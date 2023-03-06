@@ -1,0 +1,416 @@
+CORPORATE PARTICIPANTS
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Bradley Michael Capuzzi
+Piper Sandler & Co., Research Division - Research Analyst
+ 
+Ethan Siavosh Saghi
+BTIG, LLC, Research Division - Analyst
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+PRESENTATION
+ 
+Operator
+Please standby, we are about to begin. Good afternoon, ladies and gentlemen, welcome to the Great Ajax Corp. Q3 2022 Financial
+Results Call. (Operator Instructions) And please be advised that this call is being recorded. After the speakers' prepared remarks, there
+will be a question-and-answer session. (Operator Instructions)
+And now I'd like to turn the call over to the Great Ajax' Chief Executive Officer, Mr. Larry Mendelsohn. Please go ahead, sir.
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Thank you very much. Thank you very much, everybody, for joining us on the Great Ajax third quarter earnings call. I apologize for my
+voice. I'm getting over some laryngitis of the last few weeks. So it may come and go a little.
+Before we get started, I want to point you to Page 2 of the presentation, the safe harbor disclosure and disclosure regarding
+forward-looking statements. And with that, we can get -- jump to Page 3, the business overview and an introduction regarding the third
+quarter. Q3 was what I would call a patient quarter. However, there is some noise in the Q3 income statement numbers, which makes it a
+bit confusing, and we'll walk through this on today's call.
+Loan performance increased and loan cash flow velocity from property sales continued and has also continued into the fourth quarter of
+2022. Repayments from borrower refinancing declined as you would expect. The significant cash flow velocity from the mortgage loans
+and mortgage loan JV structures increases income acceleration through the requirements of CECL, but it also rapidly paid down our loan
+and securities portfolio, as well as the associated asset-based financing, which can also reduce net interest income and the return on
+equity.
+At September 30, we had approximately $73 million of cash, as well as significant amount of unencumbered securities and loans. And in
+Q3, we repurchased $66 million face amount of our preferred shares and the associated warrants. While these repurchases create a
+onetime charge, it creates very significant savings going forward beginning in Q4.
+Our managers' data science guides the analysis of loan characteristics and geographic market metrics, which you'll see later are really
+important for performance and resolution pathway probabilities and its ability to source these mortgage loans through the
+long-standing relationships it's developed really enables us to acquire mortgage loans that we believe have a material probability of
+prepayment and/or long-term continuing reperformance.
+We've acquired loans now in 372 different transactions since 2014, 10 of which were in Q3 of 2022. We own just under 20% of the equity
+of our manager and have a [0] basis. We don't mark-to-market on our balance sheet or through the income statement. As a result, book
+value does not reflect market value of our 20% interest in our manager. Additionally, our affiliated servicer, Gregory Funding, provides us
+a significant advantage in non-performing and non-regular paying loan resolutions and time lines, and it also provides a data feedback
+loop for our managers' analytics.
+In today's volatile environment, having the portfolio teams and analytics group working together with the servicer is really essential.
+We've certainly seen the benefit of this with significant increases in credit performance, as you'll see, our consistent prepayment from
+property sales, especially for delinquent loans. And with the securitization structures that we've done so far this year, the first ever
+AAA-rated structures with 40% of the loans greater than 60 days delinquent at the time of issuance.
+Like our 20% equity interest in our manager, we have a 20% economic interest in the servicer also at a minimal basis. We don't
+mark-to-market our equity interest in the servicer and the balance sheet or income statement, either our servicer currently is evaluating a
+private equity round as part of rolling out a few new data technology-driven programs through joint ventures.
+The data analytics and sourcing relationships with the manager and the effectiveness of our servicer enables us to broaden our
+investment reach through joint ventures with third-party institutional investors. And that way, we can invest as a co-investor in very large
+transactions as well and control the outcome of loans. The servicer's loan expertise is definitely appreciated by the JV partners as several
+of our JV partners now pay the servicer for providing third-party diligence services for other transactions they've been working on.
+They've hired the servicer to solve problems they may have with other services they use. We still have low leverage. At September 30, our
+quarter end corporate leverage ratio of 3.3x. Our third quarter average asset base leverage was 2.5x. Our corporate leverage increased as
+we issued $110 million of unsecured debt securities and used a portion of the proceeds to redeem $66 million of preferred shares and the
+associated warrants and put rights.
+We also own a 22% equity interest in Gaea Real Estate Corp. Gaea is currently a private equity REIT that primarily invest in repositioning
+multifamily properties in specific markets and a triple net lease freestanding veterinary clinic properties in conjunction with large
+national veterinary practice owners. We carry Gaea -- our Gaea interest on our balance sheet at the lower of cost or market. Gaea
+completed an additional round of equity in the first quarter of '22 at a premium to our carrying value, but our balance sheet and income
+statement don't reflect any market. We expect that Gaea will raise additional equity and ultimately become a public company in 2023.
+On Page 4, some highlights from the quarter. Net interest income from loans and securities, including $1.9 million of interest income
+from the decrease in the present value of expected credit reserves under CECL was approximately $10.5 million. Gross interest income,
+excluding from the decrease was about $20 million, which is about $900,000 lower than in Q2. This primarily stems from having
+approximately [$16 million] less average interest-earning assets on the balance sheet in Q3 versus Q2 and having significantly more
+delinquent loans than expected become performing loans. As delinquent loans become performing, they provide more cash flow but
+over a longer period. Since we provide loans at a discount, this increase in performance can extend expected duration, which can lower
+the yield.
+However, in a recession and [in a housing] -- and in a declining housing price environment, our low LTV loans provide a material hedge
+as increased CPR and CDR shortens duration and correspondingly increases yields materially. A GAAP item to keep in mind is that
+interest income from our portion of joint ventures shows up in income from securities, not interest income from loans. For these joint
+ventures, servicing fees for securities are paid out of the securities waterfall. So our interest income from joint ventures is net of servicing
+fees and our interest income from loans is gross of servicing fees.
+As a result, since our joint venture investments have been growing faster than our direct loan investments, GAAP interest income will be
+lower if we directly purchase loans outside of joint ventures by the amount of the servicing fees, and GAAP servicing expense will
+decrease by the corresponding offsetting amount. The important part of discussing interest income is the payment performance of our
+loan portfolio.
+At September 30, almost 80% of our loan portfolio by UPB made at least 12 of the last 12 payments was 74% at June 30 and compared
+to a fraction of this at the time we purchased the loans. Our NPL purchases over the last 12 months increased materially relative to RPL
+purchases. Previous increases in housing prices helps maintain payment and prepayment patterns and leads to decreases in the present
+value of expected reserves and the related income recognition of $1.9 million of unallocated loan purchase discount reserves under CECL
+in the third quarter, as well as reserve releases under CECL in each of the previous 6 quarters.
+More than 50% of our full loan payoffs in the third quarter and continuing into Q4 were from loans that were materially delinquent when
+they paid off. While loans that become regular paying produce higher total cash flows over the life of the loan, the extended duration,
+and because we purchased loans at discounts, that can reduce percentage yield on the loan portfolio and related interest income.
+Loans that do not migrate to regular monthly pay status typically have materially shorter durations. We're seeing that prepayments from
+property sales, especially for non-regular paying loans is continuing or even accelerating. Prepayment from rate term refinancing, as you
+might imagine, slowed in Q3 for refinancing eligible loans. Our weighted average cost of funds in Q3 was higher than Q2 by
+approximately 80 basis points. Some of this comes from the issuance of our fixed rate unsecured notes in late August of 2022.
+Given inflation and Fed rate increased expectations, we'd expect our cost of funds on adjustable rate repurchase agreements increase
+over time, all of our other debt is fixed rate, including our unsecured notes. Net income attributable to common holders was negative $16
+million or $0.71 a share. There are several items of note that had a material impact on earnings in the third quarter. To make a little
+easier to follow, we have a table that ties GAAP income to operating income on Page 16 in the presentation, as well as in our 10-Q.
+Operating earnings was $3.1 million or $0.14 a share. Taxable income net of preferred dividends was $0.26 per share. Taxable income is
+very instructive of the current cash economics of the portfolio. Taxable income was primarily driven by continued prepayment and related
+loan purchase discount capture from nonperforming loans and increasingly monthly payment performance from nonperforming loans
+and regular performing loans, somewhat offset by higher interest expense and 60 million less loans and securities on the balance sheet.
+Our acceleration of discount allowance related to credit performance and cash flow velocity was $1.9 million versus $1 million in Q2, but
+versus $3.9 million in Q1. We expensed approximately $2.9 million related to GAAP fair value accrual of the warrant put rights from our
+Q2 issuance of preferred stock and warrants versus $3.6 million in Q2 and $3.2 million in Q1. This number will continue to materially
+decline in Q4 as well.
+And a few onetime unusual items. A large one, but one that brings down significant savings going forward is the repurchase of 66 million
+face for our outstanding preferred shares and retirement of the associated warrants on common shares and the warrant put rights. This
+requires us to recognize a $5.7 million charge from the acceleration of deferred issuance costs and issued discount, as well as $8.8
+million charge for the acceleration of expense related to the warrants and warrant put rights.
+The total onetime charge is approximately $14.5 million or $0.64 a share. This repurchase more than offsets the cost of the $110 million
+secured note issuance in Q3 on a go-forward basis. As a result of the repurchase of preferred shares and less average equity, going
+forward, the management fee will also be reduced by approximately $2 million a year.
+We recorded a loss on investments in affiliates of $500,000 or approximately $0.02 a share as a result of the flow-through of the
+mark-to-market decline in the price of our common shares owned by our manager and servicer in Q3. Our manager receives a significant
+portion of their fee in shares and changes in market value of the shares floats through to us based on our 20% ownership interest
+percentage.
+Our servicer also owns a significant number of shares. Book value was $13.75 at September 30 versus $14.98 at June 30. Book value
+decreased primarily as a result of the acceleration of deferred issuance costs through repurchase of the preferred and the extinguishment
+of the associated warrants and put rights. We also paid a common dividend of $0.27 per share and preferred dividends of $0.05 during
+Q3. Book value change is noncash other than the payment of the dividend and the warrant repurchase.
+There is a table on Page 17 that details the change in book value. We do not mark-to-market our ownership interest in our manager and
+servicer and have close to a 0 basis for these on our balance sheet. In late August, we issued $110 million of our 8.875% unsecured notes,
+a significant portion of which was used to repurchase preferred shares and the associated warrants and put rights. The remainder is to be
+used for general corporate purposes and investments as we see some opportunities starting to present themselves, which we think will
+become more so over the next few quarters.
+At September 30, we had approximately $73 million of cash, and for Q3, we had average daily cash and cash equivalent of approximately
+$62 million. We had approximately $58 million of cash collections in the third quarter. As I mentioned earlier in this call, at September
+30, we also had a significant amount of unencumbered securities from our securitizations and joint ventures, as well as unencumbered
+mortgage loans. Approximately 79.6% of our portfolio by UPB made at least 12 of their last 12 payments compared to a fraction of this at
+the time of loan acquisition. This increased from 73% in Q1 and 74.2% in Q2 despite buying significantly more NPLs and RPLs since the
+third quarter of 2021.
+On Page 5, an overview of our loan portfolio. Purchased RPLs represent about 89% of our loan portfolio at the end of Q3. They
+represented 96% at the end of Q3 last year. We primarily purchase RPLs that have made less than 7 consecutive payments and NPLs
+that have certain loan level and underlying property specifications that our analytics suggest lead to positive payment migration,
+property sales and prepayment on average. We typically buy well-seasoned lower LTV loans.
+On Page 6, you can really see this that we continue to buy and own lower LTV loans. Our overall RPL purchase price is approximately
+41% of the current property value. We've always been focused on loans with lower loan-to-values with certain threshold levels of
+absolute dollars of equity and in target geographic locations. This has become even more important for RPLs and NPLs in the last 6
+months to 9 months.
+On Page 7, in Q3 and Q4, we significantly increased -- 2021, we significantly increased our NPL purchases. NPLs on average have shorter
+duration than RPLs. For NPLs on our balance sheet, our overall purchase price is 47% of property value. As a result of the low
+loan-to-value and higher absolute dollars of equity on average for our NPL portfolio, we have accelerated prepayment on NPLs as
+borrowers can turn significant equity into cash, especially in a volatile economic environment.
+Under CECL, this can lead to reserve capture from the acceleration of unallocated credit reserve from the loan purchase discount. As I
+mentioned earlier, for both RPLs and NPLs, purchasing aged loan, low LTV loans at more than 50% discounts to property value provides
+a natural hedge to housing price declines and recession as resulting increases in CPR and CDR shorten duration and increase
+corresponding yields. At September 30, approximately 78% of our loans and their underlying properties were in our target markets. This
+is up from 72% a quarter ago.
+California continues to represent the largest segment of our loan portfolio, although it is a smaller percentage than in 2021 due to rapid
+prepayment. In 2021, in California was nearly [30%] of our portfolio, it's now approximately 22% of our portfolio. However, California has
+been nearly 40% of all prepayments. 80% of our California mortgage loans are primarily in Los Angeles, Orange and San Diego counties.
+Florida represents approximately [17%] of our portfolio, in Southeast Florida, it's approximately 75% of that. Significant prepayments
+from property sales have continued there. We purchased an NPL portfolio of approximately $85 million in late Q3 of 2021, in which all of
+the loans are secured by properties in Miami-Dade, Broward and Palm Beach counties in Florida. Since servicing transferred to our
+servicer, Gregory Funding in Q4 of '21, these loans have far outperformed expectations, both in prepayment from property sales, but even
+more so in monthly payment reperformance. We continue to see demand for homes in our price ranges in our target markets.
+On Page 9, you can see that at September 30, almost 80% of our loan portfolio made at least 12 of the last 12 payments compared to
+74.2% at June 30, almost 70% have made at least 24 of the last 24 payments. More than 81% have now made at least 7 consecutive
+payments. This compares to a minimal fraction of that at the time of purchase.
+Significant increase in monthly performance is more notable given that since Q3 of '21, we primarily purchased low LTV NPLs and not
+RPLs. Historically -- as I mentioned earlier, historically, we have seen that when our purchase loans reach 7 consecutive payments,
+there's a 92% chance that they get to 12 consecutive payments.
+In subsequent events in late October, we co-invested with 3 third-party institutional investors and a joint venture to purchase almost
+$300 million UPB of very low LTV [sloppy pay] mortgage loans. The purchase price, including all joint venture formation expenses was
+86.7% of UPB and only 40% of the underlying property values of $653 million. We own approximately 17.5% of the joint venture. Our
+loan servicer, Gregory Funding, is a loan servicer for the joint venture and was also the due diligence provider to the joint venture. On
+November 3, we declared a cash dividend of $0.27 per share to be paid on November 29, 2022 to holders of record on November 15,
+2022. Our taxable income in 2022 so far is higher than cumulative 2022 distributions.
+On Page 11, some financial metrics. Average loan yields, excluding the accelerated income from CECL-related credit reserve releases
+were primarily unchanged. Average yield and beneficial interest declined primarily due to significant loan yield performance. For debt
+securities and beneficial interest, remember that yield is net of servicing fees and yield on loans is gross of servicing fees.
+Debt securities and beneficial interest is how our interest in our JVs are presented under GAAP. As our JVs increase as they did in the last
+3 years relative to loans, the GAAP reporting shows lower average asset yields by the amount of servicing fees. We would expect loan
+yields to decline a little in Q4. We expect this for loans consolidated on our balance sheet for loans held in joint ventures that show
+securities and beneficial interest. Since we purchased loans at a discount, the increased reperformance of delinquent loans materially in
+excess of expectations can extend duration, reduce yield.
+The significant absolute dollars of equity for our loans on average accelerated prepayment from home sales on delinquent loans, which
+released reserves under CECL, which also reduces yield over time. This -- in the future over time. This reperformance increases total cash
+flow, but it can reduce yield. The rise in interest rates strangely has accelerated the sale of properties for our delinquent loans with
+certain absolute dollar amounts of equity and certain underlying demographics of the borrower.
+Leverage continues to be low, especially for companies in our sector. We ended Q3 with asset level debt at 2.7x, average asset level debt
+for the quarter was 2.5x. Our total average debt cost was higher in Q3 versus Q2, but this is primarily the result of rising base rates for
+repurchase agreements and the issuance of our unsecured notes in August.
+Fixed rate debt is currently approximately 60% of our total debt and is increasing as a percentage as our repo debt pays down rapidly.
+Our total repurchase agreement related debt at September 30 was approximately $463 million, down from $509 million at the end of
+June. $237 million was non-mark-to-market, non-recourse mortgage loan financing, $226 million is financing primarily on Class A1
+senior bonds in our joint ventures. We also, as you can see at the bottom of Page 12, have a significant unencumbered assets.
+And with that, if anybody has any questions, I'm certainly happy to answer to the extent I know the answer.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And we'll take our first question this afternoon from Kevin Barker of Piper Sandler.
+ 
+Bradley Michael Capuzzi
+Piper Sandler & Co., Research Division - Research Analyst
+It's actually Brad Capuzzi on for Kevin Barker. I just had a quick question, what do you expect for run rate operating EPS relative to the
+operating income reported today?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+To some extent, it depends on kind of movements in swap rates, but -- and SOFR, but we have increased our balance sheet materially at
+the end of October and rates have gone up a little bit. That being said, prepayments on delinquent loans continued pretty much at the
+same level, perhaps even a little higher than what we saw. So I wouldn't expect that, that much difference other than there'll be some
+fluctuations based on what I'll call, December prepayments are -- December prepayments tend to be a little less predictable. We've had
+Decembers were prepayments were really high, and we've had Decembers where prepayments were average. So -- but we'll run a
+thought probably in another 2 to 3 weeks looking for homes that are listed to give us a feel for December 31 prepayments.
+ 
+Bradley Michael Capuzzi
+Piper Sandler & Co., Research Division - Research Analyst
+Awesome. And then one follow-up. I know you touched on this a little bit, but can you quantify the impact of higher short-term rates and
+when the offsets from the higher asset yields are starting to flow through?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Sure. The higher -- the Ford joint venture that we bought at the end of October has higher yields. In fact, it's significantly higher yields in
+a recession than it has in a boom economy because of the LTVs and locations and the amount of equity and what would cause
+prepayment rates -- prepayment rates would change. But the -- so we'll see an increase in yield from that investment.
+Existing yields should go down, I would say, marginally, not considerably just because (inaudible) performance. And I would say,
+obviously, our securitization funding is -- that doesn't change, we'll see some increase in our debt securities funding costs based on
+changes in SOFR, but even that has a lag effect because of royalties.
+So a lot depends on how many more assets we put on between now and the end of the quarter. That being said, we've been -- we're
+pretty patient only buying things that we really can't resist because we think there's going to be the opportunity sets going to increase,
+not decrease over the next 3 months to 4 months.
+ 
+Operator
+We'll go next now to Eric Hagen of BTIG.
+ 
+Ethan Siavosh Saghi
+BTIG, LLC, Research Division - Analyst
+You've got Ethan Saghi on for Eric tonight. Just a couple from me. What do you see as catalyst for RPL spreads to tighten right now? Is
+there anything specific to the behavior outlook for RPLs, which would support more tightening as compared to other mortgage credit?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Sure. Yes. So let me kind of separate RPLs a little bit from what I'll call new non-QM origination. RPLs, especially in large pools are
+trading actually tighter than where the structured finance market is trading. Fannie sold a pool of RPLs -- [sold 4] pools of RPLs, we
+bought the sloppy pay pool. But the 2 regular paying pools traded in a yield of below [6s] back in -- and this was in late September, early
+October.
+And those were kind of $300 million, $400 million, $500 million pools that -- and they were lower LTVs. So in loan land, there's clearly a
+distinction being made between what I call lower LTVs and higher LTVs. And for example -- and one of the things we're seeing in the
+non-QM space a little bit in loans is we're seeing that kind of the LTVs are going up and the properties -- it seems that the aging LTVs are
+really [85 to 90s, not 80s]. So there's a little more, what I'll call, property credit risk in those than in kind of larger very seasoned RPL
+pools.
+That being said, RPL pools of smaller amounts, spreads are much wider, although still tighter than where we would necessarily expect
+them. The structured finance market is a little bit broken. This -- the unrated market, which is more kind of NPL, RPL is -- most of the
+investors have outflows. So that's kind of a market that doesn't have much liquidity.
+One of the reasons why we spend so much time working with rating agencies be able to do deals with 40% NPLs as AAA-rated structures
+is because we could see that coming in, and that's why we did 2 rated deals early in the year -- in middle year, April and June rated NPL
+deals. The rated market is also a bit choppy and illiquid, although there's definitely a difference between who the issuer is. We've seen --
+we have a group of what I'll call regular investors who know our shelf and know how we think and also who co-invest with us in joint
+ventures, and they still have been kind of regular buyers in our securitization structures.
+But the credit spreads widened dramatically, and I'm not sure it necessarily reflects what the true credit -- the probability of AAA RPLs
+not getting paid in full are pretty remote, absent high LTVs. For us, our LTVs in our securitizations and loans are in the 40s, high LTVs for
+us is [55%]. So -- and purchase price to LTV is [39% to 40%]. So it's in the pool we just bought in our joint venture. So we're kind of
+making sure we buy things that we're almost indifferent as to what happens in the economy.
+ 
+Ethan Siavosh Saghi
+BTIG, LLC, Research Division - Analyst
+How sensitive do you think distressed or reperforming borrower -- borrowers will be to lower home values? Does the fact that they've
+bonded in the past make them more sensitive to certain factors now?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes. That's -- yes, RPLs, the R stands for reperforming, which means sometimes in the past 15 years, they were not paying. And they tend
+to be a little more -- a little more multiplier effect than a brand-new loan. The other thing is that if you look at our loans, our loans have
+an average origination date, it's about 15 years or 16 years ago for kind of pool high.
+Our portfolio goes from, say, 1994 origination all the way through 2022 origination. But on average, they have -- they were originated
+back in 2007. So one of the things we see significantly is, especially in a declining home price environment is acceleration of selling by
+empty nesters. And so if you look at our portfolio, the percentage of empty nesters is about 50% of our portfolio.
+And by 2028, if our portfolio is stagnant, the percentage of empty nesters is 70% of our portfolio. So -- and they are much more sensitive
+to declining home prices, because if you were a borrower who had previous delinquency, and HPA in the last 3 years caused you to have
+significant equity that you didn't previously have, in a declining home price environment, you actually accelerate the probability of selling
+your home to make sure you capture that equity.
+ 
+Operator
+We'll take our next question now from Matt Howlett of B. Riley.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Question, did I hear you correctly what the yields are being negatively impacted by the phenomenon of an NPL carrying and being longer
+duration given it's performing?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes. The -- when loans become regular paying, they have -- they can become -- they don't always become longer direction, but they -- I
+would say, on average, they become a little longer duration than, say, a loan that stays delinquent, because the -- in today's market a
+loan that keeps paying is less likely to refinance than it would have, say, 2 years to 3 years ago or even 12 months -- 9 months ago.
+So in today's interest rate environment, a loan that becomes a 12-month, 24-month paying is less likely to do a rate term refi. So -- but
+because of the -- what I'll call, like I mentioned before, the kind of the empty nesters scenario, we still see a significant amount of
+prepayment from property sales of performing loans. It's just not quite as predictable as it is for more delinquent loans.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Got you. Okay. I was just -- typically, that's a good thing for your business model, you get...
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes, it's -- one of the things -- one of the oddities of kind of the last 6 months is typically, you -- a nonperforming loan becomes
+performing becomes more valuable, now a nonperforming loan becomes performing somehow becomes less valuable.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+That's absolutely incredible. Okay. It just takes you longer to I guess just -- I mean, collection, I mean it doesn't really destroy the
+long-term value of it, it just takes you a little bit longer, and how I think about it right?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Right. In fact, when they're reperforming, you get over the life of loan, you get more total cash flow. And you collect the [arrears] from the
+delinquency just like you do when it doesn't perform, but you collect more cash flow than you would have if it didn't perform, but you
+collected over a long period of time on average, which a year ago was probably not a distinguishable difference.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Right. Good. Interesting dynamic. Larry, I mean you were active in October, it's great to see the deals. When I think of in the next or call it,
+just 2 quarters, I mean, we've heard from some other people that are in your space, anything sort of pipelines are clogged and things are
+going to get just sold out from originators that can't securitize, can't get things out. I'm assuming that's -- when I look at your business
+with NPLs as RPLs, I guess it sort of kick out loans, whatever you want to call it.
+I mean, but the sense is there's going to be a lot of supply. But do you intend -- that's great to your business? Do you think that's going to
+happen? I mean or do you think at some point, there'll just be more loan sales from banks, from Fannie, Freddie? And then where prices
+are going, do you feel like you're going to just need to use less leverage already under levered, but do you feel like you can start to buy
+things even with no leverage at some point?
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+The answer is yes. We think the opportunity set is actually forming. Certainly, on the origination side, we think there's going to be some
+opportunities to be a, what I'll call, lifeline or to be -- to potentially acquire an originator who can do specific things, like if nothing else
+work on refinancing, some delinquent borrowers and things like that.
+But we also are seeing, for example, in commercial land, we're seeing the community banks basically exit like commercial bridge
+business and the commercial bridge with renovation financing line of business. And we're seeing that business being harder and harder
+for people to get financing facilities or even originators to fund material amounts of it.
+Having a permanent balance sheet and having joint venture partners, we can aggregate a significant amount of that. And that is rapidly
+becoming what I would call an unlevered double-digit yield business with points and fees. And so we're spending a lot of time. That's
+something we've done for years and years and years and years, but the -- it got so competitive at rates that we didn't understand in '20 --
+late 2020, 2021 and early 2022 that we kind of step back a little. But that's something where we think there's going to be significant
+opportunity.
+It's -- we can see it coming. We're starting to see some opportunities that we're evaluating with our joint venture partners. And we've had
+3 or 4 joint venture partners interested in it reached out to us about being able to expand that. So we think that's going to be an
+opportunity set as well. And we think that you will see -- despite what the Fed said yesterday, we talk to borrowers every day. The
+recession has already started for a lot of borrowers. And so we think there's going to be some delinquency opportunity -- purchase
+opportunities that will start to kick in probably still 3 months or 4 months away, but it's coming.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Yes. I forgot about Great Ajax' capabilities come -- with Gaea in the commercial space, and that could be just significant with all the
+bridge loans what we're seeing...
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+We've had a couple of private equity firms reach out to us about structuring joint ventures where they can put money to work and pay
+fees to Great Ajax and to Gaea to help put assets together and oversee them for them and things like that as well as that's really Great
+Ajax comes in. Yes.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+So that's a significant opportunity. And the first thing you said with the origination strategy that could be interesting, too. I mean it's
+exciting time of your business. You're always sort of counter-cyclical and it's -- you're really positioned to take advantage of this. I mean
+it's nice to see you're cleaning up the balance sheet, too. That put your ability to spend, that's sort of accounting drag, that's going to go
+lower, right, as you extinguish some of that -- I mean, that fair value address...
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes. Yes. Well, let's put it this way, we did $110 million of notes. Just the $66 million of preferred that we retired more than offset 100% of
+the interest on the $110 million of notes.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Unbelievable. That's...
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+We'll acquire even the preferred and the retiring put options, that by itself more than covers just the interest on the notes. Plus, we have
+cash left over from that for acquiring things.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Right. Well, mainly for the -- working on the balance sheet during this time, we'll wait for an update, but we look forward to the progress
+you're making.
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes. That being said, with the economic environment and the broking markets, it's not quite as fun as it used to be.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+Right. I hear that where the yield curve is and with the Fed being aggressive, I certainly hear that.
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Yes. Yes. But one thing we've definitely heard from our borrowers is that the recession has already started.
+ 
+Operator
+(Operator Instructions) And Mr. Mendelsohn, it appears we have no further questions this afternoon. I'll turn the conference back to you
+for any closing comments.
+ 
+Lawrence A. Mendelsohn
+Great Ajax Corp. - Chairman & CEO
+Thank you very much, everybody, for joining us on the Great Ajax third quarter 2022 earnings call. I apologize I was difficult to
+understand with my voice. But I appreciate you putting up with it. And thanks again for being on. And if you have any questions, feel free
+to reach out to us. We're happy to discuss anything we can. And with that, have a good evening.
+ 
+Operator
+Thank you, Mr. Mendelsohn. Again, ladies and gentlemen, that does conclude the Great Ajax Corporation Q3 2022 earnings conference
+call. We'd like to thank you all so much for joining us, and again, wish you a great evening. Goodbye.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

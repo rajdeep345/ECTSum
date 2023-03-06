@@ -1,0 +1,965 @@
+CORPORATE PARTICIPANTS
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+ 
+Andrew Schaeffer
+Mid-America Apartment Communities, Inc. - Senior VP, Treasurer & Director of Capital Markets
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+ 
+Robert J. DelPriore
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Administrative Officer & General Counsel
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+CONFERENCE CALL PARTICIPANTS
+ 
+Aaron Randall Hecht
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+ 
+Alan Peterson
+Green Street Advisors, LLC, Research Division - Analyst
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ 
+Anthony Franklin Powell
+Barclays Bank PLC, Research Division - Research Analyst
+ 
+Austin Todd Wurschmidt
+KeyBanc Capital Markets Inc., Research Division - VP
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+ 
+Chandni Luthra
+Goldman Sachs Group, Inc., Research Division - Associate
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+ 
+Neil Lawrence Malkin
+Capital One Securities, Inc., Research Division - Analyst
+ 
+Nicholas Gregory Joseph
+Citigroup Inc., Research Division - Director & Senior Analyst
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+ 
+Richard Charles Anderson
+SMBC Nikko Securities America, Inc., Research Division - Research Analyst
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior Research
+Analyst
+ 
+Wesley Keith Golladay
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+PRESENTATION
+ 
+Operator
+Good morning, ladies and gentlemen, and welcome to the MAA Third Quarter 2022 Earnings Conference Call. (Operator Instructions).
+Afterwards, the company will conduct a question-and-answer session.
+As a reminder, this conference call is being recorded today, October 27, 2022. I will now turn the call over to Andrew Schaeffer, Senior
+Vice President, Treasurer and Director of Capital Markets of MAA for opening comments.
+ 
+Andrew Schaeffer
+Mid-America Apartment Communities, Inc. - Senior VP, Treasurer & Director of Capital Markets
+Thank you, Reza, and good morning, everyone. This is Andrew Schaeffer, Treasurer and Director of Capital Markets for MAA. Members of
+the management team also participating on the call with me this morning are Eric Bolton, Tim Argo, Al Campbell, Rob DelPriore, Joe
+Fracchia, Tom Grimes and Brad Hill.
+Before we begin with our prepared comments this morning, I want to point out that as part of this discussion, company management will
+be making forward-looking statements. Actual results may differ materially from our projections. We encourage you to refer to the
+forward-looking statements section in yesterday's earnings release and our 34x filings with the SEC, which describe risk factors that may
+impact future results. During this call, we will also discuss certain non-GAAP financial measures. A presentation of the most directly
+comparable GAAP financial measures as well as reconciliations of the differences between non-GAAP and comparable GAAP measures
+can be found in our earnings release and supplemental financial data. Our earnings release and supplement are currently available on
+the -- for Investors page of our website at www.maac.com. A copy of our prepared comments and audio recording of this call will be
+available on our website later today. After some brief prepared comments, the management team will be available to answer questions.
+I will now turn the call over to Eric.
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+Thanks, Andrew, and good morning. MAA posted solid results for the third quarter as strong demand for apartment housing across our
+portfolio drove a 16% increase in leasing traffic volume as compared to last year's third quarter. Higher leasing traffic supported
+continued solid occupancy and rent growth as was detailed in our earnings release. While as expected, we are seeing a return to more
+normal seasonal leasing patterns with slower leasing velocity that is typical during the coming holiday season, it's clear that leasing
+conditions have held up stronger than expected over the back half of this year, and we are carrying solid momentum into calendar year
+2023.
+We will have more details to share about our expectations for next year when we provide earnings guidance for 2023 as part of our fourth
+quarter earnings release. But absent a severe recession taking place with the resulting weakness in the employment markets, we expect
+the demand for apartment housing across our portfolio to continue to be strong. At this point, we've not seen any evidence of weakness
+in the drivers of demand for apartment housing as it applies to our Sunbelt portfolio. Of the leases written in the third quarter, 15% of our
+new residents were relocating to the Sunbelt from coastal markets. This is comparable to the trends we saw last year. It's also worth
+noting that the move-outs we had in the third quarter, only 5% were moving out of the Sunbelt. This is also consistent with last year's
+trends.
+As noted earlier, leasing traffic is high and resident turnover or move-outs remain well below long-term trends. And importantly, we are
+seeing no signs of stress in terms of affordability with rent-to-income ratios on the leases completed in Q3, remaining consistent to Q3 of
+last year in the 22% range and resident payment practices remaining very strong with over 99% of bills rent being collected.
+As detailed in the earnings release, we are nearing full completion on several of our new development projects, and we have recently
+started construction on a new property located in Tampa, Florida. In addition, we expect to start construction during the fourth quarter
+on a new property located in the Research Triangle Park in Raleigh, North Carolina.
+During the third quarter, we also closed on 2 acquisitions where we had initiated negotiations and due diligence earlier in the year. The
+transaction market has become increasingly choppy as rising interest rates and economic uncertainty have presented more challenges.
+And as a result, seller activity has slowed. We are actively monitoring conditions, but are not currently under contract at the moment with
+any additional acquisitions.
+Before turning the call over to Tim to recap more details associated with our property operations, I did want to acknowledge the
+retirement that -- the announcement that we made last week concerning the planned retirement of Tom Grimes, who has been with our
+company for the past 28 years. Tom has been a large part -- played a large part of supporting MAA as long and established record of
+strong performance and steady growth. I'm grateful for Tom's contributions to our company, and we all wish him well.
+As outlined in last week's release, we have a strong team of leaders at our company with extensive experience, expertise and a record of
+strong performance we are well positioned for continued progress as we move forward into 2023.
+That's all I have in the way of prepared comments, and I will now turn the call over to Tim.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Thank you, Eric, and good morning, everyone. Same-store performance for the quarter was once again strong and ahead of our
+expectations. We saw broad-based strength and pricing performance across the portfolio. During the third quarter, with blended
+lease-over-lease pricing achieved up 13.9%. As a result, effective rent growth or the growth on all in-place leases for the third quarter
+was 16.7% versus the prior year and 5.6% sequentially from the prior quarter. Based on our forecast for in-place rents at the end of 2022,
+we expect our earned in or baked in rent growth for 2023 to be in the 6% range before considering any new rent growth that may occur in
+2023.
+Alongside the robust pricing performance, average daily occupancy for the quarter remained strong at 95.8%. We have continued to
+achieve pricing better than our previous expectations in the early part of the fourth quarter with blended lease-over-lease pricing for
+October to date at a very seasonally strong 8.3%. Average physical occupancy for October to date is in line with expectations at 95.7%.
+Additionally, on average, we are achieving growth rates on signed renewals of around 10% for the fourth quarter.
+Despite projections that supply will likely remain elevated in 2023, that we think at similar levels to 2022, various demand indicators
+remain strong and we expect our region of the country to continue to benefit from population, household and job growth.
+During the quarter, we continued our various product upgrade initiatives. This includes our interior unit redevelopment program and our
+installation of smart home technology that includes mobile control of lights, thermostat and door locks as well as leak detection
+monitoring. In addition, our broader amenity based and more extensive property repositioning program continues to make great
+progress. The value to residents provided by these programs can be particularly impactful when new supply is being delivered into the
+market. On average, we are seeing new development being delivered in our markets with monthly rents that are $350 or about 22%
+higher than the average rent of our current portfolio. This helps drive the value opportunity associated with our repositioning programs.
+For the third quarter, we completed 2,305 interior unit upgrades and installed 652 smart home packages. In 2022, we plan to complete
+over 6,000 interior unit upgrades and approximately 23,000 smart home packages. By the end of the year, we expect our total number
+of smart units to approach 70,000. For our repositioning program, leases have been repriced at the first 8 properties in the program that
+are now complete, and the results have exceeded our expectations. We have another 8 projects that are currently in various stages of
+construction and unit repricing.
+Those are all in my prepared comments. I'll now turn the call over to Brad.
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Thank you, Tim, and good morning, everyone. Despite the challenges in the transaction market, the team continues to make good
+progress in executing our disposition plan for the year. In addition to the 2 Fort Worth properties we sold in the second quarter, we closed
+on the sale of a 396 unit community in Maryland earlier this month. We have one more disposition property located in the Austin market
+that we expect to close in the fourth quarter.
+Total expected proceeds for all 4 disposition remains at the midpoint of our guidance of $325 million with an NOI yield of 4.3%,
+generating a total expected IRR for these 25-year-old assets of 17.8%. The slowdown in transaction volume that started in the second
+quarter continued in the third quarter as dislocation in the capital markets increased over the quarter. Most buyers remain on the
+sidelines and with only a limited number of properties coming to market, price discovery will take some time. However, as we've seen in
+previous cycles, when deals begin to come to market, the evaluation of counter-party risks will drive decisions, with buyer financial
+strength and speed of execution being attractive key differentiators.
+During the third quarter, we were able to opportunistically use those strengths to close on 2 compelling newly constructed properties for
+a total of $213 million, generating an initial stabilized NOI yield of 4.7%, which we expect to increase further through our operating
+platform capabilities. These investments not only provide a higher immediate NOI yield than what we are selling, but they also give us
+more scale and higher demand, higher growth markets, where we expect to generate higher organic growth over the long term,
+especially on an after-CapEx basis. Due to their locations near other MAA communities, both investments also provide additional margin
+expansion opportunities that we will fully harvest over the next few years.
+We continue to make progress in building out our development pipeline, while our under-construction pipeline remained at $444 million
+at the end of the third quarter. Earlier this month, we started construction on a $197 million, 495-unit project in Tampa, bringing our
+total active under-construction projects today to $641 million, representing 2,254 units.
+Predevelopment work is nearly complete on our Raleigh project, and we expect to start construction this quarter. With the scheduled
+completion of our Windmill Hill property in Austin, during the fourth quarter, we expect to end 2022 with approximately [2,310] units
+under construction at a total cost of $723 million.
+Also during the third quarter, we purchased a land parcel for a potential late 2023 start of a 500-unit development in the Denver, MSA.
+We now own 7 and control 5 development sites with total entitlements in place for approximately 3,700 units. As we've indicated in
+previous quarters, the timing of planned construction starts can change as we work through the local approval and the construction
+bidding processes, but we are hopeful we can start a number of these projects over the next 18 months.
+Having said that, our balance sheet strength gives us the option to be patient and our construction timing, if it's warrant. Our disciplined
+approach to asset allocation, including site selection and land valuation will continue to be an integral part of our capital deployment
+decision process. Our construction management team continues to do a tremendous job actively managing our projects and working
+with our contractors to keep the inflationary pressure surrounding labor and material costs from causing a meaningful increase to our
+overall development costs or our schedules to help mitigate some of the potential cost escalation and schedule expansion that is
+prevalent in the market today, we are working with our contractors to make commitments to purchase materials much earlier in the
+process.
+Today, our biggest challenges involve securing labor, obtaining cabinets and electrical components and securing building permits. Our
+team has been able to work around these issues on the majority of our projects to stay on schedule.
+In line with the performance of our overall portfolio, operating performance at our development communities in their initial lease-up is
+strong, with results at each community well ahead of our pro forma expectations. Demand remains strong and the competition from
+other new supply is not impacting our lease-up performance. During the third quarter, our Jefferson Sand Lake Community in Orlando
+reached stabilization and due predominantly to the strong rent performance, we expect our stabilized NOI yield to be between 7.8% and
+8%, exceeding our original expectation by over 25%.
+That's all I have in the way of prepared comments. So I'll turn it over to Al.
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+Thank you, Brad, and good morning, everyone. Reported core FFO per share of $2.19 was $0.12 above the midpoint of our guidance for
+the quarter. About [$0.75] or $0.9 of the outperformance came from revenues, stronger-than-expected rental pricing trends continued
+into the quarter, producing 14.6% same-store revenue growth, which was over 200 basis points above our expectation.
+Remaining core FFO per share outperformance primarily came from overhead and other nonoperating items during the quarter, which
+were slightly favorable to expectations.
+Same-store operating expense growth for the third quarter was impacted by continued inflationary pressures as well as a challenging
+prior year comparison. If you recall, operating expenses grew only 1.5% during the third quarter of last year. Real estate taxes made up
+the biggest portion of the variance from our expectations for the third quarter this year. We received a significant amount of information
+during the quarter, particularly in Florida, reflecting some pressure in both values and millers rates as compared to our expectations. We
+will continue to aggressively challenge values where we can, but we now expect our real estate tax expense to be at the higher end of our
+previous range.
+Revised guidance for the year discussed more in a moment, reflects these expense pressures, but they continue to be more than offset by
+the strong revenue performance.
+Our balance sheet remains stronger than ever, providing both protection and opportunity as we move through this volatile market
+environment. In August, we received an upgrade from S&P to an A- credit rating. We're now rated A- by both S&P and Fitch and continue
+to have positive discussions with Moody's, which we believe will eventually lead to an upgrade.
+We also completed the early renewal of our unsecured credit facility at very attractive pricing levels during the quarter, and upside facility
+from $1 billion to $1.25 billion despite a challenging financing market. In addition, we expanded the size of our commercial paper
+program from $500 million to $625 million to reflect the increase in our credit facility. These 2 programs provide significant low-cost and
+flexible capital development program and our future capital needs.
+At the end of the quarter, we had over $1.2 billion of combined cash and borrowing capacity available. Our leverage remains historically
+low. Net debt adjusted EBITDA rate of only 3.97x. Our debt balances also have significant protection from rising interest rates, as over
+97% of our debt is fixed at an average interest rate of 3.4% and with an average maturity of 8 years.
+Finally, given the third quarter outperformance and expectations for the remainder of the year, we are increasing both our core FFO and
+same-store guidance for the full year. We increased our full year range for core FFO by $0.20 per share at the midpoint to a range of
+$8.37 and $8.53 per share or $8.45 at the midpoint, which now represents a 21% growth over the prior year. This increase is primarily a
+result of higher revenue growth as the strong pricing trends continued into the third quarter with the projected impact of prior year
+comparisons and seasonal trends coming later than originally projected.
+We now expect same-store revenue growth for the year to be 13.5% at the midpoint, primarily driven by 125 basis points increase and our
+effective rent growth expectation for the year over our previous guidance. Our revenue projection for the year continues to be built on
+strong pricing performance and stable occupancy were growing impact from prior year comps and normal seasonal trends during the
+fourth quarter. We're now seeing the beginning of this impact, albeit a few months later than originally projected. We expect average
+blended lease pricing to be in the 7% to 8% range for the fourth quarter, which for context is on top of a record high 16% growth captured
+in the fourth quarter of last year.
+We also narrowed the expected range for same-store operating expenses for the full year, effectively increasing the midpoint by 25 basis
+points from last year's guidance -- from last quarter's guidance, excuse me, primarily reflecting the pressure from real estate taxes that I
+mentioned earlier. The overall impact of these changes is an increase to our same-store NOI growth guidance for the year by 200 basis
+points to a midpoint of 17%.
+So that's all we have in the way of prepared comments, Reza. We'll now turn the call back over to you for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+We will now open the call now up for questions. (Operator Instructions) And we'll take our first question from Nick Joseph with Citi.
+ 
+Nicholas Gregory Joseph
+Citigroup Inc., Research Division - Director & Senior Analyst
+Just given your experience recently in the transaction market, particularly on the sales, but as you look to acquire maybe if there's
+interesting opportunities and kind of the positives you mentioned in terms of being a certainty a buyer. How are you thinking cap rates
+have trended? And then how are you changing your underwriting standards for any future potential opportunities?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Nick, this is Brad. I'd say we've certainly seen cap rates come up here in the third quarter as we've seen interest rates really rise very
+quickly. Now interest rates are regularly over 6%. We don't have a whole lot of data points frankly, in the third quarter. Second quarter,
+we commented we saw cap rates in the [37%] range. For what we did see close in the third quarter, call it, 4.5% is really where we saw
+cap rates. But again, not a whole lot of trades there. And I would say that what we've seen -- for what has traded is there's been some
+characteristic about the property really that has allowed the buyer really to take advantage frequently of previous debt rates through
+loan assumptions, while taking advantage of the rent profile today.
+So I would say that what has traded so far, in my opinion, is not reflective of where the market is going. Most of what we're hearing today
+is new assets that are being priced. BOVs are going out today 5% or more in terms of the cap rate. So I would expect to see cap rates rise
+from where they are today. Where they shake out, that's hard to say. But given where interest rates are, over 6%, given where we are
+starting to see seasonality come back into play, which we did in last year. The appetite for a significant level of negative leverage from a
+buyer's perspective, I think that appetite is dissipating a bit. So my sense is that we'll continue to see cap rates rise a bit next year. But I
+think it will be mid next year before we really start to see some transactions come to market and transactions to clear. So I think it's going
+to take some time to really get visibility into what that looks like.
+ 
+Nicholas Gregory Joseph
+Citigroup Inc., Research Division - Director & Senior Analyst
+That's very helpful. And then maybe just tying that environment to the new starts and any plans for starts. How do you think about kind
+of underwriting or starting the project today given maybe the uncertainty of where the acquisition cap rate and trying to price a net risk
+premium on development?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Yes. I mean I'll back up and just start with, we have purposefully sat out of the acquisition market over the last couple of years. The last
+deal we purchased was in 2019 because really the spreads between development yield and acquisition cap rates had gotten really large
+over the last few years. So we have purposefully focused our capital on development. Where we sit today with cap rates of 4.5%, perhaps
+moving up to 5%, I think you're going to get back to a more normal 100, 125, 150 basis point spread between cap rates and development
+yields.
+So I think there'll need to be some movement going forward. And all of that is really dependent upon the quality of the development that
+you have where it's located, what the rent trajectory looks like on that asset. But clearly, I think for starts going into next year on the
+development side, I think you're likely to see a drop off in the construction starts. Developers, we obviously are active in the JV market
+partnering with developers. We are certainly hearing that equity partners on deals are backing out. Some of the pipeline, I think, is
+shrinking as you go forward from here because those yields do need to go up a bit. So we're hopeful at this point that some of that starts
+to manifest itself through construction costs. But as you know, just like land costs, it's a little sticky. It takes time for that to manifest
+itself down into the cost, but we are certainly hopeful that yields expand a bit on the development pipeline.
+ 
+Operator
+Our next question will come from Neil Malkin with Capital One.
+ 
+Neil Lawrence Malkin
+Capital One Securities, Inc., Research Division - Analyst
+Great quarter. Congrats. First, high level, Eric, good to talk with you. I think last quarter -- last 2 quarters, you kind of started your
+comments by saying you expect given the favorable demand trends that rent growth or same-store top line trends will continue to be
+nicely above trend for, I don't know if it was like '23 or the foreseeable future. But maybe can you just comment on if you still think that's
+the case? And if, I guess, a more uncertain macro cloud over the general U.S. and global economy maybe has changed that in the near
+term?
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+Well, thanks, Neil. What I would tell you is that as we start to think about the next year 2023, I'm pretty encouraged still about our ability
+to continue to drive top line performance that's going to be well above our long-term averages. As Tim alluded to, based on where we sit
+today, we think the earn-in to next year based on the rent trajectories that we've captured over the last number of months is baked in
+next year is going to be 6% and then you start to think about what sort of market rent growth we're going to get on top of that next year.
+And as we sit here today and think about the drivers of demand surrounding the employment markets, the stress of single-family
+affordability and these net continued positive migration trends that we see across our markets, we continue to see an expectation lease I
+have a positive rent growth next year on top of the earn-in that we're getting.
+Now there is more discussion surrounding the prospects for a recession. I think generally, the thought at the moment is that if it happens,
+it tends to be -- it will likely be not particularly severe and not particularly prolonged. Certainly, that's the hope we have. And we also are
+hearing that the idea that it's going to have a huge negative effect on the labor market, in the employment market in general, is not likely
+to occur. So who knows exactly what's going to happen. But as we sit here today, we continue to feel pretty positive about the outlook
+going into next year.
+And we are -- there are a lot of things that we're doing to prepare for the potential for a more negative outlooks, particularly pushing rent
+growth is something that we always do as we think we may be heading into a downturn. Of course, the balance sheet is in really great
+shape, and we're keeping a lot of capacity available to deal with opportunities that might emerge in a more recessionary environment.
+And we think that we're going to be well positioned for whatever we likely are going to see next year. But to your question, I mean, as we
+sit here today, it's hard to see anything at the moment that suggests to us that any meaningful pullback on the demand trends that we're
+seeing is likely to take place.
+ 
+Neil Lawrence Malkin
+Capital One Securities, Inc., Research Division - Analyst
+Okay. Great. And then real quick, did you guys give your loss to lease, I apologize if I missed it.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Well, Neil, this is Tim. We talked about the 6% sort of earned in that we think we have next year. If you look at kind of -- I think the
+question you're probably asking is sort of where our rents sit today here in September compared to are all in place rents that's roughly
+3.5% from where we sit today.
+ 
+Neil Lawrence Malkin
+Capital One Securities, Inc., Research Division - Analyst
+Okay. And then the other -- last one for me is maybe for Brad. When you think about the elevated supply or delivery environment over the
+next 12 months plus you look at the much more difficult permanent financing environment, LTVs, terms, et cetera. And then you also
+layer on sort of the -- what you expect to be rising cap rates. I mean maybe just talk -- give a sense for like how your capital allocation
+priorities or playbook looks heading into '23, particularly given the current cost of -- or the -- your current share price?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Yes. Well, I'll certainly talk about the external piece of that. As we sit here today, as I mentioned in my comments, we have really spent a
+lot of time developing our ability to deploy capital externally, both through acquisitions and development. And we are in a really good
+spot for that. We control, as I mentioned, 3,700 units, both owned and sites that we just have under contract. So in the land basis of
+those, as I mentioned, we've been very disciplined in picking sites and we've lost out on sites because, one, the location wasn't the best
+location in a market and ones that are likely to stress more if things get a little bit shaky in the economy or the land price was too high.
+So we feel really good about where we stand today in that regard. And so we have optionality on those projects given the size of our
+balance sheet. It's not a problem for us to continue to work those sites get to a point where we're ready to pull permits. And if the
+financing environment is such that it doesn't make sense for us to pull on those or our capital is better used in the acquisition market.
+We'll certainly lean into that.
+Just for perspective, in the acquisition side of things, after the last recession for a 3-year period, 2010 to '12, we executed on almost
+10,000 units, single transactions, 9,500 units. And if we were able that similar type environment plays out over the next year, 2 years, 3
+years. that's 10,000 units and at today's pricing even at a discount, that's $3 billion to $4 billion. And so that's what we're really
+preparing for is for an environment where we're able to execute on opportunities. It may or may not be that size of opportunities. But to
+your point, the amount of construction that started in 2020, 2021 in our region of the country was significant.
+And as you mentioned, the cost to refinance that, the cost to extend loans, banks are not going to be willing to do that. They want to
+clear these loans off their books at this point. So I think you will see, as you get into next year, a number of these merchant developers
+will need to transact. And I also think the basis of these developments that went under construction in 2020, 2021 still have profit in
+them. So I do think a market will be made on these assets, and there will be an opportunity for us to step in and execute in that area.
+ 
+Operator
+And our next question comes from Alexander Goldfarb with Piper Sandler.
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Just going back to Nick Joseph's question on underwriting, I think you guys quoted a 17% levered IRR on the transactions in the quarter.
+So one is, curious what the unlevered IRR is. And then second, more importantly, you guys Sunbelt over the past decade or so has
+benefited big time from cap rate compression. Certainly, as your comments just said, everyone expects cap rates to come up. So how do
+you think IRRs are going to -- how are you underwriting IRRs over the next sort 5 years of investing, given that the past decade has just
+been this incredible dual tailwind to both cap rate compression and rent growth? So first, what the unlevered IRRs were on the deals sold
+in the quarter and then two, the latter part, how you're underwriting new deals without the benefit of the compression tailwind?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+I'll start with that, and Eric can jump in if he needs to. The unlevered IRR on what we expect to sell this year is just under 13%. So still a
+really good IRR generated on those assets, which I'll also mention just, by the way, our 25-year-old assets to generate those IRRs.
+In terms of cap rate compression, yes, we've benefited from that over the last few years. And that will not obviously be the case going
+forward. But I think that's -- indicates really a healthy environment where we get back to the point where location of assets really
+matters, and that will drive the value of an asset. And I think that benefits us long term because I think we've got some of the best
+located assets in the best markets in our region of the country. And I think that differentiation between cap rates based on location and
+markets will absolutely benefit us as we go forward from here.
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+And Alex, this is Eric. And I'll add to what Brad is saying there that cap rates in a given market and cap rates across this region. It's a
+function of 2 things. It's a function of obviously what's happening with interest rates and how asset pricing is being reconfigured, if you
+will. But to some degree, cap rates are also a function of sort of the demand-supply dynamic for capital -- investment capital wanting to
+deploy in apartment real estate. And you get a lot of buyers in the market trying to chase a few sale opportunities is going to head
+downward pressure more so on cap rates.
+And what I would tell you is that this region of the country that we do business in, these markets continue to show very strong demand
+dynamics leading to job growth, population growth, household formation trends. Those variables were present before COVID, and they
+were strong during COVID. And so as a consequence of that, I think that as you begin to think about how cap rates may change, I would
+argue that we may not see cap rates move up as much across a number of our markets as you might think. And we may -- and I would
+argue that they're not going to move up as much as you might see in other markets or other regions of the country because of the rent
+growth prospects and the demand dynamics that we are seeing that are so positive across this region of the country.
+And then to your other point about IRR, candidly, it's not something that we spend a lot of energy focusing on. Most of the modeling that
+we do is built on kind of a 10-year model. And to try to think about what an extra cap rate would be appropriate in 10 years from now is
+who knows. And what we're really looking to do is compare the opportunity to deploy capital, create a stabilized yield on that capital that
+is complementary to the existing yield. We're getting off the existing asset base and then also obviously look at it on an after-CapEx
+basis, so as we think about the opportunity to continue to grow the dividend. And as we look at an opportunity in front of us at the
+moment, certainly, the development continues to make a lot of sense. We're going to be very thoughtful and careful with that. As we've
+talked about in the past, we're not going to see our development pipeline get more than about 3% or so of our enterprise value. So we're
+going to keep it at a very manageable level.
+But we have a lot of dry powder that we're keeping available at the moment because should the opportunity on the acquisition front
+really start to pick up and present itself in a big way, we'll be ready to jump on that and we've demonstrated in the past that a lot of value
+opportunity in that sort of focus.
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Eric, that's helpful. So the second question plays into that. A lot of market talk about concern about supply in the Sunbelt, it seems that
+over time, the Sunbelt has handily handled supply, maybe with the exception of like the Houston, for example. So maybe you could just
+talk a little bit more about some of the supply that you're seeing in the market. Do you see it just sort of dispersed across your markets?
+Do you see it more concentrated in certain submarkets? And are there any areas where you could see yourself maybe next summer going,
+yes, this market or that market, we have felt a supply impact?
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+Well, broadly speaking, on the supply picture, I mean, what we see right now based on the data that we're looking at suggests that 2023
+deliveries are going to be very comparable to what we saw in 2022. And actually based -- when you do an NOI-weighted analysis against
+our portfolio, it's actually down just slightly in '23 versus '22. So I don't think that -- we're not sitting here today looking at numbers that
+suggest to us that we're going to see a big lift in the supply deliveries next year relative to what we've been experiencing for the last year
+or 2, particularly last year or '22, I should say.
+So we -- because of some of the challenges that we've seen with construction labor and materials and permitting and all that goes into
+predevelopment, we're just -- we just don't see supply likely picking up, broadly speaking, in a huge way next year in '23 as compared to
+what we've experienced in '22. The other thing that I will tell you, to your point, Alex, is, yes, I mean, I've heard about new supply worries
+for 28 years since I've been here. And it's -- and I will tell you, it's never been a problem. It can create some moderation here and there
+across the portfolio, given markets, given submarkets from time to time. But it's never been such an issue for us that we haven't been
+able to work through it. And one of the things that we've always done with our strategy is we work very hard to do what we can to
+mitigate some of the supply pressure it does occur from time to time. That's one of the reasons why we are diversified the way we are in
+both secondary as well as in large markets.
+We have a very affordable price point broadly in our portfolio. The new product coming in to the market is generally running 25%, 30%
+higher rents than what we are charging that creates some room for us, if you will, in terms of being able to weather that pressure, not
+only that, but also creates a tremendous opportunity on the redevelopment front. So we're -- as we sit here today, we are not particularly
+nervous about supply levels next year as we go into 2023.
+ 
+Operator
+We will take our next question today from Austin Wurschmidt with KeyBanc Capital.
+ 
+Austin Todd Wurschmidt
+KeyBanc Capital Markets Inc., Research Division - VP
+Eric, you and the team have referenced being open to a large transaction I think probably over a year now and have been historically. And
+I'm just curious what you think the benefits of additional scale are to the company at this point? And what really would you be trying to
+achieve strategically from a portfolio allocation standpoint through a potentially larger deal?
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+Well, it's hard to put a number on or quantify what additional financial benefits may come from scale. We feel like, frankly, at the point
+we are at the moment that we're fairly efficient in terms of what we're able to do. Certainly, put more assets against this existing
+platform, there's going to be at the margin, some additional opportunity that comes from that, but it's not something that we're candidly,
+actively trying to initiate, if you will, right now.
+For us, right, our focus really is the opportunity to drive increasing scale in a very disciplined fashion through the development effort that
+we have and through emerging opportunity for one-off acquisitions that we've done a lot of over the years. And we think that with our
+development pipeline headed towards $700 billion of active construction with emerging opportunities surrounding acquisitions that we
+think are likely to pick up more so next year, it puts us in a position to put together fairly meaningful levels of external growth that we
+think we can capture just through those processes that we have without the need to go out and do something more strategic in nature.
+We're always open to those ideas and we'll continue to monitor it, but it's not something that we feel compelling need to do in any way
+right now.
+ 
+Austin Todd Wurschmidt
+KeyBanc Capital Markets Inc., Research Division - VP
+Got it. And then I'm curious, where do you guys expect market rent growth across your portfolio to end the year? And just to be clear, I'm
+focused on sort of your broader submarkets, not the MAA portfolio specifically. And then do you think next year should be higher, lower
+or sort of in line with 2022?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Austin, this is Tim. The market rent growth we've seen to date is about 7% or so, when you strip out sort of the baked in and everything
+else. It's hard to say that we expect rent growth next year to be at the level that we've seen this year, which certainly has been between
+this year and '21 then record levels. But as Eric laid out a little bit ago, we don't see in the near term, anything changing too much from
+the demand standpoint, supply kind of is what it is, like we talked about. So we think we're still in a period where we can see some better
+than average, if you will, but likely not to the extent we're seeing the last 12 months or so.
+ 
+Austin Todd Wurschmidt
+KeyBanc Capital Markets Inc., Research Division - VP
+That's fair. And then just last quick clarification. What's embedded in the 8.3% blended lease rate for October between new and
+renewal? And then presumably, should we assume, I think you said 7% to 8% for all of 4Q that you don't expect a lot of movement there
+through the balance of the year?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+So as we said, the October new lease is 5.7%, renewal is 10.7% and the comment we did make around the rest of the year as we're seeing
+on the renewal side, somewhere around that 10% for what we've signed so far.
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+I'll just follow up that the forecast that we've put out does imply a 7% to 8% blended for the fourth quarter. You're right, we don't expect
+it to move much, number one. And remember, there's -- most of the leases have been signed in the second and third quarter already
+anyway.
+ 
+Operator
+And we will take our next question today from Nick Yulico with Scotiabank.
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+I wanted to go back to the 15% of move-ins or relocations from the coast. I think it's surprising to hear people wouldn't expect that the
+numbers are still strong on that versus a year ago. And so I guess what I'm wondering is if you have any insight on whether certain
+markets are benefiting more within your portfolio? And then from a relocation standpoint, what you've learned from where -- which
+coastal regions people are moving? And also maybe you could talk about do you have any insight on the job profile of the people who are
+moving.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Nick, this is Tim. Yes, we're at the 15% for Q3 for sort of move-ins from non-M&A states. That's been pretty consistent. It's kind of range
+from that 14% to 16% sort of range back to the beginning of 2021 or so. And so we're seeing it consistent. It's coming primarily from New
+York and California, some of that makes sense given they're the largest states. But particularly some of the markets that are benefiting
+are Dallas, Tampa, Nashville, Charleston, Phoenix, Savannah. Those are the largest ones, and that's been pretty consistent. And we are
+seeing our -- the quality of resident, if you will, and the income levels have been pretty strong. Our rent-to-income ratio stay consistent
+now for the last couple of years, around 22%. So we are seeing more sort of professionals, finance and tech and that sort of thing coming
+into our markets.
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+And is there any insight on that -- that's helpful, Tim. Any insight on whether these people are working remotely or in physical in-person
+jobs in your cities?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+It's hard to say. We haven't seen any big significant changes that we've noticed at the property level. It's a little bit hard to tell, but I think
+it's -- there's certainly some, but not -- probably not quite to the level we saw like a year or so ago.
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+Okay. And then just following up on some of the supply questions. I mean as you look across your markets, over the next year, maybe you
+could just point out which markets you do see some incremental supply pressure that could be meaningful versus some other larger
+markets where the supply impact looks pretty manageable.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Yes. To point out a couple, we think we'll be on the higher side, likely are Austin and Charlotte would be a couple and Austin's a pretty
+interesting test case. It's had high supply now for a few years in a row. Expect that to continue, but it also ranks at the top in terms of job
+growth, in migration, household formation, population. So I think to the extent that demand side stays where it is. We don't -- despite
+that supply, we don't think it will have a significant impact. Dallas is one where supply has been pretty light, and we've seen that market
+come on pretty strong over the last few months. We think Dallas is one that can that can perform pretty well. The rest of the markets, it's
+pretty evenly spread, but also in Charlotte being the 2 that we'll probably keep our eye on a little more.
+ 
+Operator
+And we will go next to John Kim with BMO Capital Markets.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+I wanted to understand this dynamic. You had the strongest lease-over-lease growth rates this quarter among your peers, when you
+ended the quarter with the lowest loss to lease and that same dynamic has continued sort of like this quarter, low loss to lease, highest
+rent growth. I'm just wondering if there's a unique way that you calculate loss to lease or maybe there's a timing difference. And if the
+loss to lease today, it's roughly 3%, is that roughly where your lease growth will be going forward?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+So the loss release of 3.5%, the way that is calculated is basically just looking at the rents we did in September that went into effect in
+September as compared to all in-place rents right now, and that's 3.5%. And so we typically see that number. That's calculated in that
+way. It's going to be the highest in the summer when rents are strongest and the seasonality is the strongest. It will come down a little bit
+as you get into the fall and likely into the winter, assuming you're seeing that normal seasonality.
+So that -- in my opinion, that number is pretty volatile. I mean it's going to move around. And that's why one of the points we're making is
+with where we expect December to be in all of our in-place rents that will be there in December, if you just carry that through to 2023 and
+assume we don't get any more rent growth, you get to 6%. So to me, that's -- in terms of trying to figure out what it's going to do to
+impact 2023, that's kind of why we focus on that 6%.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+Okay. So it's in placement versus what you signed versus the market, which may or may not be the same number. My second question is
+the concept of rent control has almost been an overnight potential risk in Orlando, one of your top 5 markets. And I'm wondering if you're
+concerned that this may actually be tasked given it was just put on the ballot as a few weeks ago, and you may not have enough time to
+educate voters on the downfalls of rent control.
+ 
+Robert J. DelPriore
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Administrative Officer & General Counsel
+John, this is Rob. Yes, I think if it gets on the ballot, I think it's okay. The one court that's actually looked at the ordinance itself effectively
+said that they consider that it violates for a law. So even if it passes, ultimately, I don't think that it will be upheld as an effective
+ordinance. And then if you look at it for us, we've got 9 properties in Orange County, 7 in same-store, and it's about 4.4% of our third
+quarter same-store NOI.
+And we went back and looked at it as it were in place in 2022, and it would really only have an 18 basis point impact on same-store
+revenue and about a 17 basis point impact on total revenue. So overall, not that material to us as we think about it. So we think it
+probably doesn't pass, and we think it's not material to us overall anyway. And also that was in some of the highest growth rate rent
+increases that we've had over this period in Orange County compared to until recently, a relatively low CPI.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+Regardless if it passes or not, does it change the way that you look at how much you push renewal lease?
+ 
+Robert J. DelPriore
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Administrative Officer & General Counsel
+I mean if it passes will be guarded in how much we push renewal rates until there's a court decision that says that it's invalid.
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+And John, as I think you know, if it passes, it's only good for 1 year, and then they have to go through the process again. So again, we
+think that the downside risk to us is, frankly, fairly small in this topic.
+ 
+Operator
+We'll take our next question today from Brad Heffern with RBC Capital Markets.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+So there's been a big divergence in how single-family home prices have been trending and you have some areas in the Southeast that
+have been holding up well, but then you have markets like Austin and Phoenix where they're dropping significantly. Obviously,
+multifamily is different than single family. But I'm curious if you're seeing any differences in apartment demand in areas where you're
+seeing home prices show more weakness.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+This is Tim. Not necessarily. I mean we look obviously at the move-outs to home buying and that sort of thing, and it's become a much
+smaller piece of our turnover, and that's pretty consistent across the market. So with the recent move up in interest rates, I think that
+probably continues even if with prices have gone down, interest rates have gone up. So the total cost is not any less than it really was
+before. So right now, we're not seeing any change from what we've been seeing.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+Okay. What I was sort of getting at is, is there any sort of like underlying demand weakness in general for housing in a market like Austin
+or Phoenix that looks somewhat new?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Yes, we're not seeing traffic has been up across the board in pretty much all of our markets. We're not seeing any of the kind of doubling
+up. Our average occupant per unit is the same, whether you're looking at efficiencies, 1-bedrooms, 2-bedrooms, 3-bedrooms. So we're
+not seeing enough phenomenon of people trying to double up or anything like that. So as of right now, all the trends that we look at for
+that kind of thing have been pretty consistent.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+Okay. Got it. And then on the development starts that you mentioned for this quarter, can you talk about what the expected yield is on
+those?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Yes. This is Brad. Both of those are 5.5%, which is what we have been consistently underwriting recently. But I will say for both of these
+deals. We feel really, really good one, about the location of those assets. And then two, just about our ability to outperform that. As we --
+I indicated in my comments, the outperformance on our recent Jefferson Sand Lake project. Certainly, that's a little bit different because
+of the cost basis, but there are some characteristics there that I think carry over to all of our developments.
+And number one is that we're very conservative in our rent growth projections on these assets significantly below what the market rent
+growth projections are over the first 3 or 4 years, which gives us a level of conservatism. Number two, I would say that as we expect over
+the next year or so, costs could come down on the construction side, which means we are less likely to dip into contingency and things of
+that nature on our projects. If we're able to save those expenses on these projects, that's a, call it, a 40 basis points improvement in yields
+on that. And then I would say the third thing is that our taxes that we have underwritten on these projects are reflective of today's
+valuation. So to the extent we get some relief in that area. It's a lagging -- kind of a lagging item. But if we get some relief in that area,
+we also will see some relief on our expense pressure on the tax side. So we feel really good about where we've underwritten those assets
+and our ability to really improve the yields from the conservative numbers that we underwrote.
+ 
+Operator
+We will take our next question today from Rich Anderson with SMBC.
+ 
+Richard Charles Anderson
+SMBC Nikko Securities America, Inc., Research Division - Research Analyst
+First of all, congrats to Tom. As I get older, I get increasingly envious when I hear retirement. So congratulations. I also hit you. My first
+question is somewhat related to loss to lease, but not entirely. We did kind of a quick analysis of the multifamily space at some point
+between second and third quarter to compare your rent versus the average rent within your markets, including all competitors and so on.
+And you sit at about 7% above the average market rent. I don't know if you agree or disagree with that, but that's where we came on
+MAA.
+I'm wondering if you think that in a recession being above the market average is a comfortable place to be if people start to reduce their
+cost structure in a recessionary environment and they might dial down to lower quality and so on so that they can continue to have their
+own apartment, is that a pressure that you're worried about at all? You're seeing at all where you guys are operating perhaps a cream of
+the crop level versus some of your competition, but could be -- put you in a vulnerable spot if we do get into a deeper type of recession.
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+Rich, this is Eric. I would tell you, I mean, frankly, we think that our price point in the markets where we do business is exactly where we
+want to be. I wouldn't -- 7% above average, I wouldn't call a cream of the crop. Cream the crop is going to be to all the new stuff that's
+been built in the last 2 or 3 years, which is going to be 20% to 30% higher than the market average. If we had a portfolio of nothing. But
+that -- yes, I'd be more nervous about it.
+But what we typically see is a trade down from the really high-end product to our more affordable product to then go significantly below
+the market average, you start to get into a different submarket and you start to get into less amenities and you start to get into a product
+that is going to, I think, not be as appealing, if you will, to a lot of the resident profile that we serve.
+And I think that what we are likely to see if we find ourselves in a recession where people are really starting to think about how to lower
+their housing cost as you're going to see people in the very top end of the market doubling up in our properties. And I think that, that's
+what we've seen in the past and what we would likely see again if we found ourselves in a deep recession.
+ 
+Richard Charles Anderson
+SMBC Nikko Securities America, Inc., Research Division - Research Analyst
+Okay. Good enough. And then the second question is early in the calls mentioned new rents to your point, new developments coming in
+at 22% -- rents 22% above where you guys are, which invites the opportunity to do upgrades to your portfolio. But that strategy only
+works if that 22% higher rent is actually working.
+In other words, those developments that are happening and coming to market are leasing up effectively and quickly. Are you still seeing
+that, whether it's you or somebody else are developments meeting expectations? Or is that starting to wane a little bit? And then if that is
+the case, maybe the idea of this being an opportunity for you to upgrade your existing portfolio, maybe takes a bit of a backseat.
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Rich, this is Brad. I'll address the part of that, which is the current lease-up dynamics in the market. We're certainly not seeing pressure
+and struggles from the development community in terms of the lease-up performance of assets that are in lease-up. I mean our -- the 5
+properties that we have right now that are in lease-up, if they're an example the lease-up velocity continues to be very, very strong. And
+those are the products, by the way, that are competing directly with the new supply in the market. velocities are strong. Traffic is still very
+good in our markets.
+And then the rents on those assets continue to outperform. So if that's a proxy for what we're seeing in the market, we're just not seeing
+in our region of the country struggling fundamentals yet even on the new development side. So we're not seeing developers under
+pressure, fire selling their -- or leasing their properties and offering multiple months concessions. We're not seeing that at this point.
+Everybody is pretty disciplined. The fundamentals still appear to be very, very strong in the lease-up properties.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Rich, I'll add one point to that. The areas we're actually doing some unit interior renovates this year and the ones we're looking at for next
+year, it's actually a little bit wider debt kind of in that 25% to 27% range on the comps we're looking at. And we're not looking to get to
+that rent. We're -- as you know, we're kind of usually getting in that 9% to 10% range. So still creates that gap that we think we can
+execute on.
+ 
+Operator
+We will go next to Chandni Luthra with Goldman Sachs.
+ 
+Chandni Luthra
+Goldman Sachs Group, Inc., Research Division - Associate
+I just have one. How do you think about the outlook for real estate taxes next year, I mean you talked about Florida a little bit. But last
+quarter, you had spoken about expectation of rollbacks in Texas. So what are you seeing there right now? And how do you think about
+real estate taxes going into 2023?
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+Yes. This is Al. I can touch on that. So as we talked about, really in our portfolio, Texas, Florida and even Georgia, they are the primary
+areas of our taxes and our pressure that we've been saying together. They're somewhere around probably a little bit over 2/3 of our tax
+cost. And the primary pressure comes from Texas and Florida that you just mentioned.
+And so for the full year, that certainly we're looking at Texas is probably a little over half of that 2/3. So you see the significance there. We
+spend a lot of time working on challenging the values as we talked about when we're from informal to formal. So a lot of pressure on
+that. I think -- and so -- the change this quarter though was really about information coming in, in Florida. We got a lot of information
+late and they typically do that and it caused us to believe that the values were a little higher than we thought they were going to be in
+Florida and the miller rates so we're seeing rollbacks not quite what we're expecting.
+So I would say that in general, across the portfolio, we talked about high assessments with rollbacks, that's still occurring. And we are
+seeing that occur, not quite what we'd expected that caused that increase that we put in the guidance. As we look into next year, I think
+it's important to think about there's 2 main components you got to look at 1 -- it's obviously a backward-looking process. And so you're
+going to have one positive impact maybe the change in cap rate environment that we talked about that this morning. But the other side
+is they're looking at a really strong top line revenue growth this year when they set the values.
+So both those coming together, what we would say is as we look forward next year probably looks a lot like this year with maybe a little
+bit of upward bias because of that strong revenue performance. But as we move into 2024, and pass some of the comments Brad was
+saying on the acquisitions and development, you would expect that the things settle down and we make a little bit of moderation at that
+point because of the stabilized cap rate and rent growth environments.
+ 
+Operator
+We will take our next question today from Rob Stevenson with Janney.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Al, why the $0.16 range for fourth quarter FFO per share, seems wide sitting here basically November 1 with a limited number of leases
+rolling through year-end? What drives you towards the low and high end of that range?
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+I think we moved that, Rob, we certainly do that each quarter as we look at it. And just really, I think it would be something significant
+occupancy really at this point. I mean I think -- or some unforeseen item that we didn't anticipate.
+So I think to your point, -- the rent pricing that is the biggest piece is pretty certain and depending on -- excuse me, performance is pretty
+certain. Even if the pricing moves around from that expectation on the tip of the spear, the few leases in the fourth quarter, so that would
+have a less impact. It would have to be something in occupancy or in significant surprise in expenses. We don't expect that. And we did
+continue to narrow our range showing that there's a little more certainty, but I just felt that was prudent to leave that at that level.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Okay. And in terms of the expenses, are you having any material hurricane expenses here in the fourth quarter?
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+We're -- you saw in the release, we had -- in the third quarter, we incurred about $1.6 million of expenses for that. We were very fortunate
+in our portfolio there. I think had minimal impact from that. We'll have some cleanup costs and some water intrusion and some roofing
+things. But expense incurred $1.6 million which you saw it's not -- it's in -- it's in operating expenses outside of same store. You see that
+disclosed in the press release. We'll have a little bit more capital items. But together, the cost are going to be pretty significant. We are
+very fortunate.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+All right. And are you seeing any uptick in the last 30, 60 days in either bad debt or delinquencies in the portfolio?
+ 
+Albert M. Campbell
+Mid-America Apartment Communities, Inc. - Executive VP & CFO
+We're -- I'll let Rob talk about the details if he wants to. But we have very good performance really going all the way back to COVID. The
+biggest spread was worse point about 200 basis points of delinquency. We have been, for the last several quarters, very good, though
+we've almost our normal long-term range, which is about 40 to 50 basis points. We call it 60 to 70 basis points now. So we've been
+performing very well, not quite to where we were pre-COVID but certainly performing very well.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Just one point there, Rob, to is just our current resident receivable balance is about September 30 is about $5 million compared to $5.3
+million at June 30. So kind of as Al said, I mean, trending down in the right direction.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+All right. And then last one for me. Why only 658 smart homes in the third quarter versus more than 9,000 in the second quarter and
+2000 to 3000 expected in the fourth quarter? Was it a supply of the devices issue? Was it something else that sort of drove the sort of
+lull in the third quarter on that?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Yes, there is a little bit of supply chain issues there and getting -- there's a couple of different models out there and kind of getting some
+of the new ones in that we think will happen in the fourth quarter. We had preplanned everything we did in the first couple of quarters,
+which is why it was skewed that way, but we expect to get a little more normal time line here in the fourth quarter and then certainly into
+2023 as well.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+All right. Tom, you'll be missed, wish you all the best.
+ 
+Operator
+We will move next to Alan Peterson with Green Street.
+ 
+Alan Peterson
+Green Street Advisors, LLC, Research Division - Analyst
+I was just hoping to follow Eric's comments on the trade down dynamic. Tim, based on the conversations you're having with your field
+level personnel, are you starting to notice that trade-down occur in your portfolio in any given market?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Not necessarily. I mean I will say, actually, if you look at our blended pricing for Q3 more of our B-style assets or which you might
+consider the B assets in our portfolio actually did a little bit better in terms of blended pricing. So we're not seeing our existing portfolio.
+The turnover was a little higher in some of our secondary markets that have some B assets, but we're also replacing those with residents
+where the rent to income ratio has not changed. So I think to the extent we are seeing it here and there, we're able to quickly replace it
+with residents that have that strong affordability.
+ 
+Alan Peterson
+Green Street Advisors, LLC, Research Division - Analyst
+Awesome. And then in regards to the price sensitivity, what markets are you seeing the most price sensitivity? Would it be those
+secondary markets that are seeing a little bit higher turnover versus the rest of the portfolio? Is it -- are there any other primary markets
+that are flashing maybe a yellow versus red right now?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+No like I said, in the secondary markets, the pricing performance has been pretty strong and the B type asset has been pretty strong. I
+mean, we are seeing some moderation. Most of it's driven by seasonality. Phoenix is one that's moderated a little bit, but it has had a
+really strong rent growth now for 2 to 3 years straight. But the demand fundamentals, as we talked about, are really strong. Supply kind
+of is what it is at a similar level. But outside of Houston and D.C., which we talked about, have been a little bit weaker markets, all the
+other ones are hanging in pretty consistently with what they've been doing.
+ 
+Operator
+We will take our next question today from Wes Golladay with Baird.
+ 
+Wesley Keith Golladay
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+Congratulations, Tom. I just have a quick question on the -- more the private developer. What are they saying today yields have been
+quite volatile. But if rates were to stay where they're at today, where do you think your required yield would be for a new development?
+And when I look at Mid-America, I think best-in-class balance sheet operations, you trend had imply fixed cap cost of capital may be
+around 7%. I mean at a high level, I'm thinking if things stay where they're at, it has to be in the high single digits. Would you agree with
+that?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+This is Brad. I would say that's probably a little higher. I mean I think what developers are generally trying to solve for is return on cost, a
+year 1 return on cost on their development, similar to what we're looking at on a stabilized yield. But those are trending up to over 6% at
+this point. I think aside from construction costs, really what the developers have been hit with is interest rates have gone from call it,
+3.5%, 4% and now they're probably double that. So their interest expense have gone up tremendously on their projects.
+Really, in the -- from the underwriting perspective because of the seasonality we're seeing that didn't see earlier this year, I suspect when
+they go back in at this point, and get construction cost price updates they may not increase quite as much as they have been, but their
+rent growth when they update those at this point is showing seasonality. So their yields are probably under pressure from that. And then
+also just the interest expense line item.
+So developments, I was at a conference last week with quite a few developers in their is a general sense that most projects at this point
+that are not kicked off really are being pushed out. Land timing is being pushed out. Projects are being shelved at this point. So I think
+there's just a broad recalibration going on in the market. And it's hard to say what developers are looking for in the private side, but it's
+definitely higher than what it has been and it's going to be somewhere return on cost in the 6 to mid-6% range, I suspect.
+ 
+Operator
+We will go now to Barry Lou from [Mizuho Group].
+ 
+Unidentified Analyst
+This is Barry on for [Haendel]. First of all, congratulations on an impressive quarter. I just wanted to get some clarity on the renewal rates
+you cited. I know correctly that it was 5.7% in October, but expecting 10% in the fourth quarter overall.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+No. The 5.7 was the new lease rate in October. Renewals were 10.6.
+ 
+Unidentified Analyst
+Got it. Okay. And on the typical seasonality being pushed back, do you see weaker demand and recent traffic kind of a potential
+headwind in Q1 and Q2?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+We've not seen any lag or any reduction in leasing traffic. We talked about our traffic in Q3 was up, our leads are up. So the seasonality
+will just be relative to Q2 and Q3, yes, traffic will be lower and leads will be lower than what we see in those quarters, but no different
+than we typically expect to see in the winter season. So there's nothing to indicate anything different other than as we've talked about, I
+do think the seasonal or the normal seasonality returns more so this year, certainly that we did not see last year.
+ 
+Unidentified Analyst
+Got it. And my second question is on just bad debt trends. We've seen some of your coastal peers report an uptake. Is that kind of what
+you're seeing?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+What trend, you kind of cut out there for a second.
+ 
+Unidentified Analyst
+Just a trend in your bad debt portfolio, bad debt.
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+I think we just talked about a moment ago, I think we've had a very good performance in our bad debt. Our delinquencies for really the
+last year, 1.5 years. So I think we're a little above in delinquency. Our long-term rate, which is really low 40 to 50 basis points of rents
+historically, we call it, 60, 70 basis points range, but still very strong. Don't see an indication that says that's changing today or expect
+that change as we move into fourth quarter next year.
+ 
+Operator
+And we will go now to Aaron Hecht from JMP Securities.
+ 
+Aaron Randall Hecht
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Times relocating from the coast, are those renters typically more transient? And do they typically move to buy a home more quickly or for
+a trend in terms of those coastal renters come in?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+We haven't seen any indications that are more transient. I mean if you -- or certainly more transient to move back out of our footprint.
+We've talked about the move-ins from out of footprint, bringing in that 15% range now for a while. The move back out of our footprint is
+5% has been that way for a long time. So we don't see any trends that they're moving back to where they came from, so to speak, and
+haven't seen any significant trends and types of turnover, anything like that. So no indications of it.
+ 
+Aaron Randall Hecht
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Yes. I was saying more wealthy renter that's entering the market or looking for a holding purchase, but it doesn't sound like it. How is
+that 15% rate this quarter compared to like pre-pandemic over the last several quarters. Is that increase significantly?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+It was -- I would say, pre-COVID at range in that 9% to 10% range. So we have seen it pick up some, but it has now remained consistent,
+like we said for the last 2 or 3 years. And you're talking about just of our move in. So when you think about the number of units with
+turnover and all that, it's a relatively -- it's significant in terms of it's picked up, but it's still -- it's not driving the bulk of our demand or
+the bulk of our outperformance.
+ 
+Aaron Randall Hecht
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Great. And then on the property management technologies savings initiatives. Just wondering, are you guys taking property managers
+off of the property? Are they responsible for more than one to maybe there are managers there all the time. Some of these managers are
+changing in that format. I'm wondering if that's something you guys are looking at?
+ 
+Timothy P. Argo
+Mid-America Apartment Communities, Inc. - Executive VP, Chief Strategy & Analysis Officer
+Yes, we are testing and looking at some, if you want call it, pods or whatever, where we have some oversight roles at managing multiple
+properties, particularly ones that are within close proximity and with the new CRM we have in place that's helped enable that. And
+there's some other things we're looking at that will help enable that. But yes, and we talked about that a little bit on the last call. That's
+something that we're actively engaged in right now.
+ 
+Operator
+And we will take our final question today from Anthony Powell with Barclays.
+ 
+Anthony Franklin Powell
+Barclays Bank PLC, Research Division - Research Analyst
+A question on the multifamily development, redevelopment, I guess, one of your peers said that they are maybe pulling back on that next
+year due to some uncertainty and some timing. Just curious what you are you going to keep your schedule in terms of redevelopment
+next year? And are you still seeing kind of the returns that you expect in the October end?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Yes, this is Brad. So we've got, as I mentioned earlier, a number of properties between 4 to 6 that we can start next year. Those will
+probably be weighted mid to late next year is my sense. So we've got a little bit of time on those really to kind of figure out where the
+market is. And frankly, just to see if there's some reset on the construction cost side of these projects. So we've got some time under our
+belt from that.
+But as I mentioned in my comments, we have the ability to be patient on those. -- and the discipline that we use to help us find sites and
+really underwriting our deals will also be the same discipline that we use in determining when we -- when is the right time to start
+construction on these assets. So I'd say it's a little early right now to tell if that will push off at all. We do have the ability both from a
+timing perspective and then just also the balance sheet capacity to be able to hold those assets if we need to those land assets.
+ 
+Anthony Franklin Powell
+Barclays Bank PLC, Research Division - Research Analyst
+Maybe one more for me. In terms of -- what are you seeing in terms of land cost for new developments? I know you talked about cap
+rates and how those are moving? How are land costs trending? And how is that impacting your ability to do deals?
+ 
+Adrian Bradley Hill
+Mid-America Apartment Communities, Inc. - Executive VP & CIO
+Yes. I mean, land is probably the last component to adjust if there's an adjustment on the development side. construction costs, that
+takes a little while to manifest itself into the cost of the project and then land is the last thing that adjusts. And at this point, we're not
+really seeing any adjustment in land prices, and it will just take some time to really see if there's anything to that.
+ 
+Operator
+We have no further questions at this time. I will turn the call to MAA for closing remarks.
+ 
+H. Eric Bolton
+Mid-America Apartment Communities, Inc. - Chairman, President & CEO
+No closing remarks. We appreciate everybody hanging with us this morning, and we look forward to seeing a lot of you over the next few
+weeks with upcoming conferences. Thanks a lot.
+ 
+Operator
+This concludes today's program. Thank you for your participation. You may disconnect at any time.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

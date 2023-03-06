@@ -1,0 +1,708 @@
+CORPORATE PARTICIPANTS
+ 
+Andy Taylor
+Weyerhaeuser Company - VP of IR
+ 
+David M. Wold
+Weyerhaeuser Company - Senior VP & CFO
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+CONFERENCE CALL PARTICIPANTS
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+ 
+George Leon Staphos
+BofA Securities, Research Division - MD and Co-Sector Head in Equity Research
+ 
+Kurt Willem Yinger
+D.A. Davidson & Co., Research Division - Associate VP & Research Analyst
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+ 
+Mark William Wilde
+BMO Capital Markets Equity Research - Senior Analyst
+ 
+Michael Andrew Roxland
+Truist Securities, Inc., Research Division - Research Analyst
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+ 
+Susan Marie Maklari
+Goldman Sachs Group, Inc., Research Division - Analyst
+PRESENTATION
+ 
+Operator
+Greetings, and welcome to the Weyerhaeuser Third Quarter 2022 Earnings Conference Call. (Operator Instructions) As a reminder, this
+conference is being recorded. It is now my pleasure to introduce your host, Mr. Andy Taylor, Vice President of Investor Relations. Thank
+you, Mr. Taylor. You may begin.
+ 
+Andy Taylor
+Weyerhaeuser Company - VP of IR
+Thank you, Rob. Good morning, everyone. Thank you for joining us today to discuss Weyerhaeuser's third quarter 2022 earnings. This call
+is being webcast at www.weyerhaeuser.com. Our earnings release and presentation materials can also be found on our website. Please
+review the warning statements in our press release and on the presentation, slides concerning the risks associated with forward-looking
+statements as forward-looking statements will be made during this conference call. We will discuss non-GAAP financial measures, and a
+reconciliation of GAAP can be found in the earnings materials on our website. On the call this morning is Devin Stockfish, Chief Executive
+Officer, and Davie Wold, Chief Financial Officer.
+I will now turn the call over to Devin Stockfish.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Thanks, Andy. Good morning, everyone, and thank you for joining us. Yesterday, Weyerhaeuser reported third quarter GAAP earnings of
+$310 million or $0.42 per diluted share on net sales of $2.3 billion. Adjusted EBITDA totaled $583 million in the third quarter. This is
+approximately 52% lower than the second quarter and was largely driven by further softening in lumber and OSB pricing as cautious
+sentiment weighed on the near-term housing and macroeconomic outlook.
+Additionally, and to a lesser degree, third quarter results were also impacted by the work stoppage in our Washington and Oregon wood
+products and timberlands operations. The work stoppage commenced on September 13 and impacted our 4 lumber mills in the
+Northwest as well as a portion of our Western Timberlands operations. I'm pleased to report that as of last night, we've resolved the work
+stoppage, and we'll begin resuming operations next week.
+I want to acknowledge how important these jobs are to our employees, their families and our communities and how difficult this situation
+has been for all involved. We appreciate everyone who worked diligently over many months to come to an agreement that is fair and
+competitive for our employees, and importantly, that we believe is sustainable for our company throughout the business cycle.
+With the work stoppage resolved, we're focused on welcoming our employees back, supporting our customers and returning to full
+operating capacity in the Northwest as quickly as possible. We currently expect to ramp up to full operating posture over 7 to 10 days
+after returning to work.
+With that, I'll now turn to our third quarter business results. I'll begin the discussion with Timberlands on Pages 5 through 8 of our
+earnings slides. Timberlands contributed $107 million to third quarter earnings. Adjusted EBITDA totaled $168 million; a $3 million
+increase compared to the year ago quarter. And third quarter EBITDA decreased by $51 million compared to the second quarter. This was
+largely driven by lower sales volumes in the West, resulting from (inaudible) stoppage late in the quarter as well as lower average
+realizations in the West, partly due to less export volume being shipped in the quarter.
+Turning to the Western domestic market. Despite lower lumber pricing, log markets remained fairly stable in the third quarter as log
+demand was steady and log supply in certain areas was somewhat constrained by harvest and haul capacity. Although Weyerhaeuser did
+not experience these challenges, the impacts kept log markets tension for most of the quarter. As a result, our third quarter domestic
+sales realizations were comparable to the second quarter.
+Notwithstanding favorable weather conditions, our fee harvest and domestic sales volumes decreased compared to the second quarter
+as a result of the work stoppage that commenced in mid-September.
+It's worth noting that our Western log and haul activities are operated by a combination of Weyerhaeuser employees and outside
+contractors. As a result, a portion of our contract harvest and haul operations continued through the work stoppage. Our forestry and
+road costs were seasonally higher compared to the second quarter, and per unit log and haul costs were lower.
+Turning to our export markets. In Japan, demand for our logs softened somewhat in the third quarter due to a number of factors,
+including an increase of European lumber imports into Japan. Japanese log sales volumes decreased significantly compared to the
+second quarter due to the timing of shipments, combined with the reduction in log export activity resulting from the work stoppage.
+Sales realizations were slightly lower in the quarter. In China, demand for our logs softened modestly in the third quarter due to the
+ongoing impacts from disruptions in the Chinese real estate market as well as pandemic-related lockdowns.
+Despite softer demand, log inventories at the Chinese ports declined steadily from the elevated levels reported earlier in the year, as log
+supply headwinds persisted. These include restrictions on Australian log imports, Russia's ban on log exports and a reduction in
+European wood flow into China. Average sales realizations for our China export logs decreased moderately compared to the second
+quarter, and sales volumes were significantly lower as we continue to intentionally shift volume to the domestic market to capture better
+margin opportunities. Our third quarter sales volumes to China were further impacted by a reduction in log export activity resulting from
+the work stoppage.
+Moving to the South. Southern Timberlands adjusted EBITDA was comparable to the second quarter and year ago quarter. Despite
+adequate log supply and softening finished product pricing, Southern sawlog and fiber markets remained stable for the majority of the
+third quarter as mills maintain steady demand to mitigate risks from ongoing supply chain challenges. As a result, our sales realizations
+were comparable to the second quarter.
+Fee harvest volumes were also comparable as weather conditions were better than expected in certain geographies and affected our
+harvest activity for a portion of the third quarter.
+Forestry and road costs were seasonally higher and per unit log and haul costs were comparable to the second quarter. On the export
+side, our log exports to China out of the U.S. South remain paused due to ongoing rules imposed by Chinese regulators to address
+potential phytosanitary concerns on imported pine logs. As a result, we continue to redirect logs to domestic mills in the India market
+during the third quarter. We continue to view this as a temporary headwind and maintain a positive longer-term outlook for our Southern
+export business to China and other Asian markets.
+In the North, adjusted EBITDA increased slightly compared to the second quarter due to significantly higher sales volumes resulting from
+the seasonal increase in harvest activity that is typical in the third quarter. Our sales realizations were comparable.
+Turning to real estate, energy and natural resources on Pages 9 and 10. Real Estate and ENR contributed $48 million to third quarter
+earnings and $60 million to adjusted EBITDA. Third quarter adjusted EBITDA was comparable to the year ago quarter, but $47 million
+lower than the second quarter, primarily due to a reduction in real estate acres sold partially offset by an increase in royalty income from
+our Energy and Natural Resources business.
+Similar to recent years, our 2022 real estate activity has been heavily weighted toward the first half of the year. Although activity is
+moderating in response to broader macroeconomic uncertainty, we continue to see steady demand for HBU properties as buyers
+continue to seek the safety of hard assets, resulting in high-value transactions with significant premiums to timber value.
+Regarding our Natural Climate Solutions business, we continue to engage with high-quality developers for renewable energy and carbon
+capture and storage opportunities across our acreage. And we're encouraged by the recent passage of the inflation Reduction Act, which
+should drive incremental demand for these markets and further support our Natural Climate Solutions growth strategy. Additionally, we
+continue to advance our forest carbon pilot project in Maine and are well positioned for project approval over the next few months.
+Moving to Wood Products on Pages 11 through 13. Wood Products contributed $344 million to third quarter earnings and $395 million to
+adjusted EBITDA. Third quarter adjusted EBITDA was $517 million lower than the second quarter, largely driven by the decrease in
+lumber and OSB pricing during the quarter.
+Starting with the lumber and OSB markets. Benchmark lumber and OSB prices entered the third quarter having stabilized from
+significant declines earlier in the year as buyers reentered the market to bolster lean inventories. Buyer sentiment improved slightly
+following a brief decline in mortgage rates and in response to solid June housing starts data. This dynamic continued through most of
+July, resulting in a steady increase in benchmark pricing for both products.
+By early August, buyer sentiment once again turned cautious resulting from rapidly rising mortgage rates, housing affordability concerns
+and in response to unfavorable July housing starts data. Buyers remain cautious through the end of the quarter, largely limiting orders to
+necessity purchases. While OSB prices stabilized in September, lumber prices moved gradually lower throughout the end of the quarter.
+Although for context, it's important to note that lumber and OSB prices each remained at healthy levels on a historical basis. Adjusted
+EBITDA for our lumber business decreased by $271 million compared to the second quarter. Our average sales realizations decreased by
+28%, while the framing lumber composite pricing decreased by 30%.
+Our sales and production volumes decreased moderately compared to the second quarter largely driven by the impact of the work
+stoppage at our Washington and Oregon mills. Unit manufacturing costs were higher during the quarter and log costs decreased
+moderately.
+Adjusted EBITDA for our OSB business decreased by $231 million compared to the second quarter. Our average sales realizations
+decreased by 41%, while the OSB composite pricing decreased by 44%. Our sales and production volumes decreased slightly compared
+to the second quarter due to downtime for planned annual maintenance.
+Third quarter sales volumes were further impacted by ongoing rail challenges in Canada. Unit manufacturing costs were higher in the
+quarter and fiber costs were comparable. Engineering Wood Products adjusted EBITDA decreased by $7 million compared to the second
+quarter. Sales realizations were higher for most products in the third quarter, and we remained on allocation for most products
+throughout the quarter. Sales and production volumes were lower for most products due to downtime for planned annual maintenance.
+Sales volumes were further impacted by ongoing transportation challenges in Canada and labor constraints at certain facilities. Unit
+manufacturing costs were higher in the third quarter, and raw material costs were significantly lower primarily for OSB web stock.
+In distribution, adjusted EBITDA decreased by $7 million compared to the second quarter, largely driven by lower sales volumes for EWP
+and Specialty Products. Despite the quarter-over-quarter reduction, this was the strongest third quarter adjusted EBITDA result on
+record for our distribution business.
+With that, I'll turn the call over to Davie to discuss some financial items and our fourth quarter outlook.
+ 
+David M. Wold
+Weyerhaeuser Company - Senior VP & CFO
+Thank you, Devin, and good morning, everyone. This morning, I will be covering key financial items and third quarter financial
+performance before moving into our fourth quarter outlook. I'll begin with key financial items, which are summarized on Page 15. We
+generated approximately $560 million of cash from operations in the third quarter and nearly $2.7 billion year-to-date.
+We ended the quarter with a strong liquidity position with approximately $1.9 billion of cash and cash equivalents and total debt of just
+over $5 billion. Capital expenditures for the quarter were $94 million, which is a typical level for the third quarter. We returned $133
+million to shareholders through the payment of our quarterly base dividend and remain committed to growing this by 5% annually
+through 2025.
+We also returned $145 million to shareholders through share repurchase activity. And as of quarter end, we had $523 million of
+remaining capacity under our $1 billion share repurchase program. We will continue to leverage our flexible cash return framework and
+look to repurchase shares opportunistically.
+Adjusted funds available for distribution for the third quarter totaled $468 million, as highlighted on Page 17, and we have generated
+approximately $2.4 billion of adjusted FAD year-to-date. As a reminder, we will supplement our base dividends each year with an
+additional return of cash to achieve the targeted annual payout of 75% to 80% of adjusted FAD.
+As demonstrated in 2021, we have the flexibility in our framework to return this additional cash in the form of a supplemental dividend or
+a combination of a supplemental dividend and opportunistic share repurchase. While our return of cash for fiscal year 2021 was achieved
+mostly through base and variable supplemental cash dividends, our share repurchase activity this year has been more active. As a result,
+we anticipate share repurchase will represent a larger portion of our 75% to 80% of adjusted FAD cash return this year.
+That said, as a result of the strong cash generation throughout this year, we still expect a meaningful supplemental dividend to be paid
+in the first quarter of 2023.
+Key outlook items for the fourth quarter are presented on Page 18. As Devin mentioned, we will soon be returning to normal operating
+levels in our Washington and Oregon lumber and Timberlands businesses. That said, our fourth quarter outlook includes work stoppage
+impacts through October, followed by a 7- to 10-day ramp-up period to return to full operating capacity. In our Timberlands business, we
+expect fourth quarter earnings and adjusted EBITDA will be significantly lower than the third quarter.
+Turning to our Western Timberlands operations. Domestic log demand softened at the outset of the fourth quarter, resulting from
+reduced takeaway of finished products and elevated log inventories at mills. Regional log supply has improved from the prior quarter
+and is expected to remain ample for the majority of the fourth quarter, notwithstanding adverse weather conditions or supply chain
+constraints. As a result, we expect our domestic log sales realizations to be significantly lower compared to the third quarter.
+Our fee harvest and domestic sales volumes are expected to be lower in the fourth quarter largely driven by impacts of the work
+stoppage, and we now anticipate our full year harvest volumes in the West to be slightly lower than 2021. This reduction in volumes from
+prior guidance represents a harvest deferral that we expect to capture over several quarters after returning to normal operations.
+Per unit log and haul costs are expected to be lower in the fourth quarter. Forestry and road costs are expected to be significantly lower
+due to the seasonal nature of these activities.
+Moving to the export markets, we expect steady demand for our logs in the fourth quarter. As Devin mentioned, the work stoppage
+resulted in a temporary reduction in our log export activity. As a result, we expect lower export sales volumes compared to the third
+quarter. Additionally, we anticipate sales realizations for our export logs to be lower in the fourth quarter. In the South, we expect log
+demand to remain steady in the fourth quarter as mills continue to maintain elevated inventories to mitigate risks from ongoing supply
+chain and logistics challenges.
+As a result, we expect our sales realizations to be comparable to the third quarter. Fee harvest volumes are expected to be slightly higher
+as weather conditions have improved from the prior quarter. Because of better-than-expected weather conditions in the third quarter, we
+now anticipate our full year harvest volumes in the South to be slightly higher than 2021 compared to our prior outlook of moderately
+higher volumes. We expect slightly higher forestry and road costs in the fourth quarter and comparable per unit log and haul costs. In the
+North, fee harvest volumes are expected to be moderately higher compared to the third quarter. We anticipate significantly lower sales
+realizations due to mix. Turning to our Real Estate, Energy and Natural Resources segment. We expect fourth quarter earnings and
+adjusted EBITDA will be lower than the third quarter due to timing and mix of real estate sales and lower royalty income in our Energy
+and natural resources business. We continue to anticipate full year 2022 adjusted EBITDA of approximately $325 million, and we now
+expect basis as a percentage of real estate sales to be approximately 35% to 40% for the full year.
+For our Wood Products segment, we expect fourth quarter earnings and adjusted EBITDA will be lower than the third quarter, excluding
+the effects of changes in average sales realizations for lumber and oriented strand board. Following the reduction in pricing during the
+third quarter, benchmark prices for lumber and OSB entered the fourth quarter showing signs of stabilization.
+Buyers are maintaining inventories at or below target levels as sentiment remains cautious. In October, benchmark prices for lumber
+continued on a slight downward trajectory for the majority of the month before stabilizing and increasing slightly. Benchmark prices for
+OSB have remained fairly stable through October.
+As shown on Page 20, for both lumber and OSB, our current and quarter-to-date realizations are moderately lower than the third quarter
+averages. For our lumber business, we expect significantly lower log costs in the fourth quarter, partially offset by lower sales volumes
+resulting from the work stoppage in our Western mills in October, and we anticipate comparable unit manufacturing costs.
+For our oriented strand board business, we expect slightly higher sales volumes and significantly lower unit manufacturing costs,
+primarily due to less downtime for planned annual maintenance during the fourth quarter. Fiber costs are expected to be comparable to
+the third quarter.
+For our Engineered Wood Products business, we expect lower sales volumes in the fourth quarter. We also expect lower sales
+realizations for most products compared to the third quarter with solid section and I-joists pricing coming off record highs. This will be
+partially offset by significantly lower raw material costs, primarily for OSB web stock.
+As a result, we expect adjusted EBITDA to be lower in the fourth quarter, but still higher than any quarter in 2021. For our distribution
+business, we are expecting adjusted EBITDA to be lower than the third quarter due to lower sales volumes and realizations for most
+products.
+I'll now turn the call back to Devin and look forward to your questions.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Thanks, Davie. Before wrapping up this morning, I'll make a few comments on the housing and repair and remodel markets. Over the last
+several months, we've continued to see softening in new residential construction activity from the peak reported in April, particularly in
+the single-family segment.
+There have been notable reductions in new and existing home sales and home builder sentiment has turned more negative.
+Consequently, we expect near-term housing outlook to remain less favorable compared to the last couple of years, largely driven by
+several ongoing headwinds, including a rapid increase in mortgage rates, housing affordability challenges, high inflation and growing
+concerns about the economy.
+That all being said, homebuilder backlog should offer some additional support for building activity and wood products demand for the
+remainder of 2022 and into early 2023. And longer term, we continue to have a favorable view on housing fundamentals, given strong
+demographic trends, a significantly underbuilt housing stock, a healthy labor market and solid household balance sheets.
+Turning to repair and remodel. Despite softening in the housing market, repair and remodel activity remained fairly stable in the third
+quarter and continue to be supported by steady demand from the professional segment. Demand from the do-it-yourself segment has
+continued to come off the recent pandemic peaks returning to a more normalized pre-pandemic demand level. Although lower home
+sales activity ordinarily would be a drag on repair and remodel spending, we may, in fact, see some incremental spend on repair and
+remodel projects as homeowners elect to invest in remodeling projects in their existing homes if they're priced out of purchasing a new
+home in this more challenged mortgage rate environment. This should provide near-term support for additional repair and remodel
+activity, especially from the professional segment.
+Further, we remain optimistic on longer-term fundamentals supporting the repair and remodel segment, including an aging housing
+stock and favorable home equity levels. We expect these dynamics to support steady repair and demand for the balance of 2022 and into
+next year with activity levels comparable to pre-pandemic levels.
+In closing, we delivered solid results across our businesses in the third quarter despite increasing macroeconomic headwinds. And I'm
+incredibly proud of the continued focus and resiliency demonstrated by our teams. Their collective efforts have generated year-to-date
+adjusted EBITDA of $3.3 billion and adjusted funds available for distribution of $2.4 billion.
+Although near-term market conditions have moderated, we maintain a constructive longer-term outlook for the demand fundamentals
+that support our businesses. Looking forward, our balance sheet is exceptionally strong. We have a competitive cost structure, and we
+are very well positioned to navigate through a full range of market conditions. We remain focused on serving our customers and driving
+long-term value for our shareholders through an unmatched portfolio of assets, industry-leading performance and disciplined capital
+allocation.
+Now before we move to questions, I would like to briefly provide some details to help quantify the work stoppage impacts to our third
+quarter results and fourth quarter outlook. I'm sure that would have been a question, so we'll just go ahead and cover that now.
+Starting with Timberlands, it is important to note that the decrease in volume during this period is merely deferred, not lost. We will
+capture this deferred volume over the next year or so. And in the meantime, that volume will continue to grow on the stump.
+Additionally, I'd point out that in any given period, we have a base level of spend for items such as forestry, silviculture and roads that we
+maintain to ensure that we capture long-term value. So we've continued to incur those costs during the course of the work stoppage,
+which means our margins will be significantly lower during this period, but margins will then increase above typical levels in the future
+period when we ultimately harvest that volume.
+Taking all of that into consideration, the work stoppage resulted in approximately 360,000 tons of deferred volumes in the third quarter
+compared to our original plan. This translated to an EBITDA impact of approximately $25 million. But again, most of that will be
+recovered in future periods when the deferred log volume is harvested next year.
+Looking ahead to the fourth quarter, we expect Western Timberlands EBITDA will decrease by approximately $50 million from the third
+quarter, with approximately half of that decrease attributable to deferred volume from the work stoppage and the other half due to
+expected lower average sales realizations during the quarter due to general market conditions. We expect approximately 500,000 tons
+of deferred volumes in the fourth quarter resulting from the work stoppage.
+For Wood Products, the work stoppage lowered production volumes by approximately 60 million board feet in the third quarter, and we
+expect around 170 million board feet of impact in the fourth quarter. Given the more rapid pace of price erosion in lumber versus logs in
+the West, which compresses margins until log prices adjust accordingly, the last lumber production in September and October hasn't
+had a material impact on EBITDA in the third or fourth quarters.
+So with that, I think we can go ahead and open it up for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from Susan Maklari with Goldman Sachs.
+ 
+Susan Marie Maklari
+Goldman Sachs Group, Inc., Research Division - Analyst
+My first question, Devin, is you talked a little bit about some deflation in the input costs and wood products that you started to see in the
+quarter, and it feels like that could continue into the end of the year. As we do think about the cost structure coming down and given
+what is going on in housing broadly, can you talk about the ability to hold some of that price that you've seen in your EWP business over
+the last couple of years and perhaps what that could mean for profitability as we think about going through '23?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, sure, Sue. Yes. So I mean, certainly, we are going to see some, some of the input costs on the wood product side coming down. And
+so in particular, log costs in the West, OSB web stock, for instance, we may see a little bit of relief on some of the fuel costs related to
+transportation. So I do expect we'll see some of that come down over time.
+With respect to the lumber and OSB business, that's really primarily a supply-demand dynamic with the pricing we can talk further about
+where we think that's going to go over time. But on the EWP specific, I do think we'll be able to hold those prices reasonably well. There is
+-- as we saw during the last run up in housing here over the last couple of years, there is a structural, I think, undersupply of EWP. I do
+think as we move forward, there are some opportunities for us to take back some market share in the EWP space from Open Web, some
+other alternative products that builders were forced to move to when we were at the height of building activity earlier this year. So I do
+think we'll be able to hold those prices a little bit better as we move forward.
+ 
+Susan Marie Maklari
+Goldman Sachs Group, Inc., Research Division - Analyst
+That's helpful. And then moving over to Timberlands. You talked about the fact that overall demand there remains pretty healthy. Can
+you just talk about how you're thinking of valuations as we go into next year? And the supply-demand dynamics as we think longer term
+about what is going on with Timberlands and obviously, the tie-in there with natural climate solutions?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Sure. Well, as we think about the Timberlands market over the last 12 to 24 months, we have undoubtedly seen a lot of interest in the
+asset class. I think that's clear just in terms of the number of bidders that we see on deals, but also the prices that folks are paying for
+Timberlands deals.
+As we think about going forward, I think there are a few things that come into play. And as you mentioned, one of those is the interest in
+the Climate Solutions piece. I think that is driving increased interest in Timberland assets. Candidly, I don't know that folks are really fully
+underwriting all of those carbon and other alternative values at this point, but I do think it's a piece of the equation as people are trying
+to value those assets going forward.
+So I wouldn't expect prices to necessarily fall off of where they are. We are continuing to see a lot of interest in timberland acquisitions.
+And so we're expecting that to continue to be a very competitive market next year and going forward particularly if we do see carbon
+prices trend where we think they are over the next 3, 5, 7 years, I think that will be a tailwind for timberland values going forward.
+ 
+Susan Marie Maklari
+Goldman Sachs Group, Inc., Research Division - Analyst
+Okay. And then I'm going to squeeze one more in, which is just you mentioned, obviously, you've stepped up the buyback activity this
+year. You still have some more room remaining on the current authorization. Any thoughts on how you're thinking of continued buybacks
+given where the stock is trading relative to some of the other alternatives for capital?
+ 
+David M. Wold
+Weyerhaeuser Company - Senior VP & CFO
+Yes, Sue, you bet. Sure. I mean really, our thoughts there haven't changed substantially. We think about share repurchase as a useful
+tool in the right circumstances to return cash to shareholders. So as always, we start with that commitment to returning a significant
+amount to shareholders through the base, and then we can supplement that through the variable return in the form of share repurchase
+or in the supplemental dividend.
+So we'll continue to evaluate that amongst all of our other options above that 75% to 80%, we can use that cash for investing in growth,
+further debt paydown or additional share repurchase. So we'll certainly consider share repurchase as one of the opportunities available
+to us. We have stepped up the volume of that over the course of the year. So certainly, that indicates that we believe it's a useful way to
+do that. So we'll continue to evaluate our opportunities there moving forward.
+ 
+Susan Marie Maklari
+Goldman Sachs Group, Inc., Research Division - Analyst
+Good luck with everything.
+ 
+Operator
+Our next question comes from the line of Anthony Pettinari with Citi.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+On the impact from the strike, the deferred volumes that you discussed on the timberland side, is it accurate to say that the volumes that
+you lost in 3Q and 4Q of this year will mostly be recovered in 3Q and 4Q of next year? Or is it something that we could see more in the
+first half of the year? Or just wondering if there's any kind of finer point you can put on sort of the cadence of ultimately recovering those
+volumes over the next year?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Sure. Yes, our plan would be to sprinkle that in across next year. So it wouldn't be specifically targeted to Q3 or Q4. We would just add
+that into the overall harvest plan for 2023. And we'll provide a little bit more specifics on the magnitude of that as we provide our full
+year guidance on the earnings call in January.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+Okay. That's helpful. And then just a lot of materials companies have talked about a large buildup of customer inventories that have
+become kind of an impediment and negatively impacted demand. It might take a couple of quarters to work through. I think on the log
+side, you said mill customers have ordered pretty fully to compensate for supply chain issues. I'm just -- if I got that right. I'm just
+wondering, do you see any risk of if supply chain eases quickly that, that kind of inventory build becomes maybe a bit of a headwind for
+demand into the end of the year or in early '23? And then just maybe if you could -- maybe contrast that with inventory situation in Wood
+Products, especially lumber, that would be helpful.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, sure. So on the log side, I'm not sure that's a real material risk here in the near term. I suppose around the margins, if you saw
+trucking capacity and logging capacity flowing back into the system, maybe some mills would be more comfortable carrying lower
+inventories. But to be frank, that seems highly unlikely to me in the near term. There is a real challenge around getting trucking and
+logging capacity certainly across the South, but even to some extent in the West. So I suspect most mills are going to continue to carry a
+little bit heavier inventory levels to mitigate that risk. So I don't know that, that's a big issue on the Timberland side.
+On the Wood Products side, again, I don't know that mills necessarily have high levels of inventory. I can't obviously speak to our
+competitors, but for us, we're not carrying excess inventories, finished goods inventories across our mill set right now. So I don't think it's
+a meaningful risk there.
+The other thing I would say on the wood product side is, if you look across the channel in whole, I think most folks, particularly dealers,
+distributors are carrying relatively light inventories. Nobody is particularly interested in carrying heavy inventories given all the
+uncertainty in the macro environment.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+Okay. That's very helpful. I'll turn it over.
+ 
+Operator
+Our next question is from George Staphos with Bank of America.
+ 
+George Leon Staphos
+BofA Securities, Research Division - MD and Co-Sector Head in Equity Research
+Thanks for the details. Can you hear me okay? First question, and you talked about this during Davie's remarks, the ability for the
+company to flex its capital return with the parameters and guardrail that you have around your policy and strategy. Could you talk a bit
+about where you see the potential maybe to slow the regular dividend increase? We know the goal is 5% per year over time, given what
+could be a bit of a cyclical pullback in your markets over the next year? Or at this juncture, you feel that given what you know and
+recognizing it's a Board decision that 5% growth seems pretty reasonable, no matter where we are in the cycle? How would you have us
+think about that?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. No, that's a great question. I think first of all, as you said, that's ultimately a Board decision. So obviously, we're not going to get out
+in front of the board on that. But what I would say is, when we put out that 5% per year target, that was based on a lot of different
+modeling. As you know, the dividend -- the base dividend growth is largely going to be funded by the growth in our Timberlands and
+Real Estate, Energy and Natural Resources business.
+So as we think about it today, we've done several acquisitions on the Timberland side. We've done a lot of work around the debt structure
+to reduce our interest costs. So I feel like we are doing what we need to do to continue to grow that base dividend by 5% per year
+regardless of where we are in the business cycle.
+ 
+George Leon Staphos
+BofA Securities, Research Division - MD and Co-Sector Head in Equity Research
+Next question I had I mean, obviously, we're going again through a bit of a downturn directionally, it wouldn't be a surprise. But
+nonetheless, can you give us a bit more color in terms of what is happening with log realizations, why they're declining on the West,
+recognizing that Weyerhaeuser doesn't dictate the market with the work stoppages that would have deferred and did some of the harvest
+that would have been available in the market and the logs that would have been available in the market. So help me understand why
+even with the stoppage at least from your vantage point, some supply constraints. We're seeing log pricing and realizations down in the
+West and kind of what's going on there?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. So really a couple of things going on in the West, George. So first of all, with respect to the work stoppage, two things to keep in
+mind. First of all, nearly 2/3 of our log and haul is done by contractors. So we did still have logs feeding into the market even during the
+work stoppage. And the flip side is we also had four of the largest mills in the Northwest that were idle during the work stoppage. So it
+also hit on the demand side. So net-net, not sure it had a really significant impact one way or the other.
+I think what's going on with realizations in the West is really more of a function of what's going on with lumber prices. The West is
+fundamentally a tension wood basket. And I don't see that changing anytime in the foreseeable future. What's going to drive log prices is
+going to primarily be what's going on with domestic lumber prices and to some extent, the export markets as well. So as you've seen the
+lumber prices come down, you just hit a ceiling on what mills are willing and able to pay for logs. So that's going to be the primary driver.
+ 
+George Leon Staphos
+BofA Securities, Research Division - MD and Co-Sector Head in Equity Research
+And last one, and I'll turn it over. Can you give us a bit more color in terms of export markets, what we're seeing in terms of fourth quarter
+right now, why you would be -- if you would be positive on export, again, particularly from the West, recognizing that we're going through
+a global slowdown. China obviously got its issues and housing remains perhaps less able to tension so you have this potential supply.
+What's your outlook for export out of the West realizations and what's happening right now? Good luck in the quarter.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, sure. Well, I'll take that really in two different parts, so I'll start with Japan. There are some headwinds in Japan. As I mentioned,
+there's a fair amount of European glulam that went into the Japanese market here in Q3 into early Q4, that's a direct competitor with our
+customers and the dug for beams that they supply to the market.
+So a little bit of a headwind there. And obviously, with what the yen is doing relative to the dollar, that's an additional cost headwind for
+our customers. That all being said, I do think we have plenty of opportunity to move volume to Japan with the work stoppage. Certainly,
+their log decks have been a little bit depleted.
+And so we've got some volume that we need to get into that market to keep them up and running. Realizations, to those are going to
+flow up and down depending on what's going on in the domestic market, usually get a premium to domestic, but those two are
+correlated. So as we see the domestic market realization soften, you're going to see a similar move with Japanese realizations.
+On the China side, we have intentionally this year been flexing volume to the domestic market to capture better premiums as the pricing
+softens in the West, I think we do have opportunity to move more volume into China. Notwithstanding all the issues in China with real
+estate and lockdowns, et cetera, we still have solid demand for our -- from our customers for the dug for log, so we can, we believe, move
+some increased volumes over to China, and those realizations will likely be comparable to domestic.
+ 
+George Leon Staphos
+BofA Securities, Research Division - MD and Co-Sector Head in Equity Research
+Thank you, Devin. Good luck.
+ 
+Operator
+Our next question is from Michael Roxland with Truist Securities.
+ 
+Michael Andrew Roxland
+Truist Securities, Inc., Research Division - Research Analyst
+Just a quick one on guidance for timber prices in the U.S. South. You mentioned that you're expecting flat U.S. South timber pricing. Is
+that a deliberate or stumpage basis? What I'm trying to get at is I'm trying to get a sense of what's happening to underlying timber prices
+themselves. Timber market South and others have noted declining stumpage prices over the last 2 quarters. And that's following a
+number of quarters, even years where stumpage has gone up. So I'm just trying to get a sense of your guidance relative to -- your
+guidance relative to, I guess, stumpage pricing.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. So we guide on a delivered basis. So our model is overwhelmingly delivered as opposed to selling stumpage. And you're absolutely
+right. There has been a little bit of a disconnect in terms of the direction of pricing and delivered versus stumpage. I think that's really
+largely a function of in many geographies finding logging and hauling contractors has been challenging.
+And so I think that's put a little bit more pressure on the stumpage market as opposed to the delivered market. And I do think that our
+delivered model is always a competitive advantage. It gives us the ability to really drive efficiencies throughout the supply chain, log,
+haul, et cetera. In this market, I think that's even more so. And we're, I think, probably picking up a little bit more margin opportunity with
+the delivered model versus stumpage.
+ 
+Michael Andrew Roxland
+Truist Securities, Inc., Research Division - Research Analyst
+Got it. I appreciate the clarification. But it would be fair to say with stumpage coming down, obviously, that could put pressure on the
+liner prices at some point as well, particularly if you noted that whole and harvest cost will be coming down. So I think what do you think
+is driving the -- looking at the decline in stumpage pricing a function of what we're seeing in the overall housing market and some
+looseness in wood products. And how do you think that ultimately plays out to deliver pricing as well?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. So if you're thinking about the South in particular, ultimately, from a mill standpoint, what they care about is what's the cost to get it
+to the mill. And so as we bring delivered -- a delivered model to our customers, we think we can get that price higher than they can get it
+through stumpage because we can deliver more efficiencies through the supply chain.
+Our scale and the expertise that we have at the local level to drive log and haul costs down relative to competition, I think, is what allows
+us to keep that delivered pricing a little higher than where you'd find stumpage pricing in terms of direction. I don't know that log and
+haul rates are going to be going down. I do think there's a lot of competition for that. So it's really, again, I think, a competitive advantage
+for us, the scale and expertise that we bring to the log and haul space with our contractor base to keep those prices lower than what
+others can get when they're going out and doing stumpage deals. That's what's going to allow us to keep more of that delivered price
+and drive that to the bottom line.
+ 
+Michael Andrew Roxland
+Truist Securities, Inc., Research Division - Research Analyst
+Got it. That makes sense. Just one quick final question. Just on order files. Last quarter, you mentioned with respect to OSB, that order
+file normal, a little longer lumber and that EWP was an allocation given what's transpiring over the last couple of months, where do they
+stand now?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. On lumber and OSB, we're still in the normal range. It generally ranges 1 to 2 weeks in an ordinary environment. On EWP, we're still
+on allocation in spots. I think you're starting to see some open market purchases become available as we've seen a little softening in the
+single-family space, but still on allocation in spots.
+ 
+Michael Andrew Roxland
+Truist Securities, Inc., Research Division - Research Analyst
+Got you. Good luck for the balance of the year.
+ 
+Operator
+Our next question is from Mark Wilde with Bank of Montreal.
+ 
+Mark William Wilde
+BMO Capital Markets Equity Research - Senior Analyst
+Devin, I just want to say an opening. I mean a $395 million quarter in Wood Products is quite remarkable when you look back historically.
+So we're down a lot, but it's still a rather remarkable level, I think, by any standards.
+My question is first on the timberland side, can you just remind us in the West what your ability is to kind of flex just year-to-year kind of
+depending on market conditions. I know you want to continue to generate cash to cover that base dividend. You want to have some
+stability in terms of your contractors and keeping them employed. But what is your ability to kind of dial up and dial down depending on
+where the log market is?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, Mark, I would say, in general, 5% to 10% is really the most you can go one way or the other. In the West, unlike in the South, where
+building roads is not overly complicated. The regulatory process for getting a unit laid out is not terribly time-consuming.
+In the West, there's a lot more that goes into it. And so we generally try to have 4 to 5 quarters' worth of roads built. So we have some
+level of flexibility to flex up or down. But beyond that, you do start to run into some constraints, both from an available unit standpoint,
+but also the contracting capacity is there's a limit to it, particularly on cable logging and some of the towers.
+And so there are some limits in terms of how much you can flex up. And on the downside, obviously, you can always flex down as much
+as you want. But as a practical matter, you do need to make sure that you're keeping your contract workforce available so that they are
+there when you need them coming out of whatever dip. So as a practical matter, 5% to 10% is really the max you're going to go
+year-over-year or any particular period.
+ 
+Mark William Wilde
+BMO Capital Markets Equity Research - Senior Analyst
+Okay. And the other question I had is just you produce lumber up in BC, you produce lumber in the Pacific Northwest. You produce
+lumber kind of across the subs. I wondered if you could just give us a sense of how you see kind of regional profitability at the moment
+and also what you see kind of happening to those costs because low costs are coming down in BC and they're coming down in the Pacific
+Northwest, and it looks like that's probably going to carry into the first quarter.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, that's right. And I think, as you say, Mark, there are different cost structures depending on the region. No doubt, BC. is the most
+challenged from a cost standpoint. We are seeing a little bit of relief on the log side. October 1, log prices came down. I expect they'll
+come down a little bit further in Q1 of next year.
+But nevertheless, it's still a higher cost region to manufacture for a variety of reasons, but not the least of which is just the available
+timber supply in BC is challenged. And so I do think even as log prices come down in BC, it's going to be, frankly, a challenging place to
+make money. Now we've only got one mill in BC. It's our Princeton mill, it is top quartile, if not top decile cost structure mills. So I think
+that will give us maybe a little bit more latitude to drive profitability in a tougher market. But it's going to be challenging in BC. I think
+that's clearly the case.
+In the Northwest, we will see log prices adjust down. Mills are not going to pay more for logs than they can and still be profitable. I do
+think the Northwest is -- it's going to be tough for some folks to make money in a more challenged lumber environment. The last time we
+saw a dip in 2019, I think the costs have gone up since then. So that floor is probably higher than it was back in that last little dip in 2019.
+And it really just goes back to the point we've been making to be successful in this business, you have to have a good cost structure, and
+that's been really the focus of our strategy for a long time. So we've got some low-cost mills, some very efficient mills across our Pacific
+Northwest. So we'll be able to drive profitability, I think, regardless of where we are in the cycle just because our cost position relative to
+others in the industry.
+The South is a different story. As you know, Mark, just the cost structure there is -- it's a step change lower than those other 2 regions. So
+most producers, the vast majority of producers should be able to drive a profit in the south regardless of where we are from a lumber
+pricing standpoint.
+ 
+Mark William Wilde
+BMO Capital Markets Equity Research - Senior Analyst
+Okay. That's helpful. Good luck in the fourth quarter and next year.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. Thanks, Mark. And thanks for pointing out just the historical context. I do think it's a really important point to make, even though
+prices have come down a lot. At any time over the last decade pre-pandemic, we would have been very, very pleased with the pricing that
+we're getting across the products.
+ 
+Operator
+Our next question is from Mark Weintraub with Seaport Research Partners.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+Devin, you had talked about in your real estate business, kind of the appetite for hard assets, and you also kind of alluded to in
+timberland markets, we're certainly seeing that as well in carbon being a factor as well. Given the types of valuations that are being put
+on, particularly some of these more recent Southern deals that are coming to market, what's your best assessment of what a typical
+southern acre might be going for now versus what it was 2 years ago, 5 years ago or whatever timeline you think is appropriate to use?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, Mark, and you've been around the industry for a long time, so you'll appreciate this answer. I mean it's hard to give a value on a
+typical acre because they vary so much depending on stocking, depending on percentage planted pine versus markets, et cetera. So it's
+hard to give you a specific dollar value. But what I will say, and I think you can see this in the deals that have been done over the last 12 to
+18 months, we've definitely seen the values of timberlands going up. We've seen certainly some deals that are going north of $2,000 an
+acre that a few years ago, where you would have said maybe were $1,700 an acre deal. We've seen some mid-2000 high 2000 kind of
+deals lately that a few years ago would have been closer to that, too.
+So we've certainly seen some real, I think, price appreciation in the value of timberland deals, particularly, I would say, quality deals.
+When you see good, high-quality timberlands deals come to market. Those are getting very, very strong valuations these days.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+And is there anything strategically that this can enable you to do? Or how does this change capital allocation, obviously, share
+repurchases is part of this perhaps. But anything else that this dynamic where we're in tricky times from a fundamental perspective in
+certain respects. But timberland valuations in private markets seem to be extremely robust. How is that driving behavior on your part?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes, Mark. I think at a high level, I'm not sure it fundamentally changes how we think about things. We have been actively managing the
+portfolio and that is on the sell side and the buy side for a number of years. We are always looking for opportunities to improve the
+portfolio. And so when we have a buyer that is willing to pay us substantially more than we think the asset is worth, then we're happy to
+do those deals on the sell side, and that cash can be used for any of the capital allocation priorities that we have, whether that's
+additional timberland acquisitions, share repo, debt paydown, all of those things.
+So to the extent that this gives us an opportunity to create some capital to redeploy in other areas, that's certainly an opportunity for us. I
+will say just as a baseline, our view is that, in general, timberland values are going to go up over time. And there are a variety of reasons
+why we think that, whether it's our view on log prices over time, but really as much as anything on all of the alternative values that you
+can drive across timberland ownership. And so that also goes into the consideration as we think about the longer-term price appreciation
+of some of these assets.
+ 
+Operator
+Our next question is from Paul Quinn with RBC Capital Markets.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Maybe just start in your natural climate solutions. You mentioned your forest curbing pilot project and approvals over the next couple of
+months. What does that involve? And can you quantify any kind of potential economic upside from that?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. On the economics, Paul, this first project is really -- it's a smaller pilot project. The economics are not going to be material. The
+purpose of this first one was really to build out the internal expertise so that we don't have to contract it out, and we get to keep more of
+the economics ourselves. So that's -- that's really the primary purpose of this first one up in Maine.
+The process is pretty involved. We're running that through the American Carbon registry, and it involves a series of submissions,
+third-party reviews, feedback from those third-party reviews, changes to the submission. So it's a process that takes a number of months,
+and we've been working that through over the course of this year. But I do think we've gained some really good insights on how to make
+this process more streamlined and quicker both with our own internal work, but also with the third-party reviewers and the submissions.
+And so pleased with how it's going, and I think it really is going to set us up to start scaling this to start putting more and bigger projects
+through the pipeline.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Okay. Great. And then on Wood Products, I mean, Mark pointed at the $395 million in adjusted EBITDA, but I note that over half of that
+comes from EWP and distribution, which is typically late cycle, how sustainable is that momentum that you're seeing in EWP? And why
+are you guiding for volumes lower in Q4?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. So I mean the guide is really as much as anything, just a reflection of both kind of where we are seasonally, but also overall, just a bit
+of softening in the housing market. So -- maybe there's some upside there, we'll see. But generally speaking, EWP is very much a product
+that goes into single-family residential. And so -- as we think about how sustainable that is over time, again, there is a limit to how much
+EWP is out there. We've gone through a period where there just was not enough to cover the level of housing.
+During that period, we did see a number of builders that had to convert over to open web or even lumber and other products to meet
+their building needs. As the housing slows a bit, which I think realistically, we do expect that to happen, there will be some opportunities
+for us to try to convert some of that alternative back into EWP. It's just not a product where there is an overabundance of supply. And so I
+think that will help us hold both prices, but importantly, market share and be able to serve our customers even if we're in a (inaudible)
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Okay. And then just slipping a bonus question. Just on OSB, you've got cost significantly lower going forward. Just wondering why that is.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Can you say that again? I kind of missed the last part there, Paul.
+ 
+Mark William Wilde
+BMO Capital Markets Equity Research - Senior Analyst
+Sorry, on your guidance for OSB, you have costs significantly lower in the manufacturing side. I'm just wondering what that pertains to.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. It's primarily OSB, so the web stock input costs, as we've seen OSB prices go down. Most of the OSB that goes into our EWP product
+it does come from our internal mills and it's on a lag.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Yes. Sorry, Devin. I confused you. I'm talking about the OSB segment itself, the manufacturing cost of OSB. You've got that going down in
+Q4. Just wondering why.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. Sorry. Sorry, Paul. Yes. So for OSB, specifically, that's just because we have less annual maintenance. Q3, we had a number of mills
+that took their annual maintenance shut down, and we don't have that in Q4.
+ 
+Operator
+Our final question is from Kurt Yinger with D.A. Davidson.
+ 
+Kurt Willem Yinger
+D.A. Davidson & Co., Research Division - Associate VP & Research Analyst
+Great. Just one quick one for me. On the timberland side, the log pricing environment has been pretty favorable over the last 2 years, but
+there's also been some pretty meaningful increases on the cost side as well. As you look into 2023, are there any areas you expect to see
+some relief or I guess, buckets where you think you can take cost out there?
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+Yes. On the Timberland side, I would say the biggest driver overall has been fuel cost. That is something that plays in both on the haul
+side but also on the logging side. So that's had a real impact from a cost standpoint.
+To the extent that we see fuel costs come down over the next year to 18 months, that certainly will be a positive for us on the cost side.
+Beyond that, we've got a whole host of initiatives that are focused on driving down costs, whether it's -- we've got a transportation
+initiative to drive higher loaded mile. We've got a number of automation mechanization projects going on across timberlands to try to
+reduce overall labor cost. So we're always focused on that. But I would say in the near term, probably the biggest opportunity from a
+magnitude standpoint is around fuel costs.
+ 
+Kurt Willem Yinger
+D.A. Davidson & Co., Research Division - Associate VP & Research Analyst
+Got it. That makes sense. Appreciate the color and good luck here in Q4.
+ 
+Operator
+We have reached the end of the question-and-answer session. I would like to turn the floor back over to Devin Stockfish for closing
+comments.
+ 
+Devin W. Stockfish
+Weyerhaeuser Company - President, CEO & Director
+All right. Well, thank you, again, everyone, for joining us today, and thank you for your continued interest in Weyerhaeuser. Have a nice
+day. Thank you.
+ 
+Operator
+This concludes today's conference. You may disconnect your lines at this time, and we thank you for your participation.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

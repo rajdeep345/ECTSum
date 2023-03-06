@@ -1,0 +1,359 @@
+CORPORATE PARTICIPANTS
+ 
+Brian Dale Mitts
+NexPoint Real Estate Finance, Inc. - CFO, Executive VP of Finance, Secretary, Treasurer & Director
+ 
+Kristen Thomas
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+ 
+Matthew X. Goetz
+NexPoint Real Estate Finance, Inc. - SVP of Investments & Asset Management
+ 
+Paul Richards
+CONFERENCE CALL PARTICIPANTS
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+PRESENTATION
+ 
+Operator
+Good day, everyone, and welcome to the NexPoint Real Estate Finance Q3 2022 Conference Call. Today's call is being recorded.
+And now at this time, I'd like to turn the call over to Kristen Thomas. Please go ahead.
+ 
+Kristen Thomas
+Thank you. Good day, everyone, and welcome to NexPoint Real Estate Finance conference call to review the company's results for the
+third quarter ended September 30, 2022. On the call today are Matt McGraner, Executive Vice President and Chief Investment Officer;
+Brian Mitts, Executive Vice President and Chief Financial Officer; Matt Goetz, Senior Vice President, Investments and Asset Management;
+and Paul Richards, Vice President, Originations and Investments.
+As a reminder, this call is being webcast through the company's website at nref.nexpoint.com. Before we begin, I would like to remind
+everyone that this conference call contains forward-looking statements within the meaning of the Private Securities Litigation Reform
+Act of 1995 that are based on management's current expectations, assumptions and beliefs.
+Listeners should not place undue reliance on any forward-looking statements and are encouraged to review the company's annual report
+on Form 10-K and the company's other filings with the SEC for a more complete discussion of risks and other factors that could affect the
+forward-looking statements.
+The statements made during this conference call speak only as of today's date, and except as required by law. NREF does not undertake
+any obligation to publicly update or revise any forward-looking statements.
+This conference call also includes an analysis of non-GAAP financial measures. For a more complete discussion of these non-GAAP
+financial measures, see the company's presentation that was filed earlier today.
+I would now like to turn over to Matt McGraner. Please go ahead, Matt.
+ 
+Brian Dale Mitts
+NexPoint Real Estate Finance, Inc. - CFO, Executive VP of Finance, Secretary, Treasurer & Director
+Actually, it will be, Brian. Thanks, Kristen, and I appreciate everyone joining today. I'm going to kick things off going through our Q3 and
+year-to-date results. And then I'll touch on guidance for the fourth quarter and then turn it over to the team for some detailed
+commentary.
+Q3 results are as follows: Third quarter, we reported net loss of $0.54 per diluted share compared to net income of $1.17 per diluted share
+for the third quarter of 2021. The decrease in net income as a result of lower prepayments in Q3 and mark-to-market adjustments on the
+CMBS portfolio. Interest income increased 14% over Q3 2021, driven by a 76 basis point increase in average yield on investments. Interest
+expense increased 37%, driven by $102 million of additional borrowings and a 98 basis point increase in average rate.
+Earnings available for distribution was $0.48 per diluted share in Q3 compared to $0.51 per diluted share in the same period of 2021.
+Cash available for distribution was $0.50 per diluted share in Q3 compared to $0.62 per diluted share in the same period of 2021. The
+decrease in earnings available for distribution and cash available for distribution was the result of lower prepayments in Q3. We paid a
+dividend of $0.50 per share in the third quarter, and the Board has declared a dividend of $0.50 per share for the fourth quarter. Our
+dividend in the third quarter was 0.96x covered by earnings available for distribution and 1x covered by cash available for distribution.
+Book value per share decreased 4.2% quarter-over-quarter to $20.68 per diluted share, partially as a result of the mark-to-market
+adjustments in the CMBS portfolio. During the quarter, we originated or purchased 9 investments with $113 million of outstanding
+principal with a combined current yield of 8.3%. 4 investments were redeemed or sold with $27.5 million of outstanding principal for a
+total net loss of $731,000.
+Year-to-date results are as follows: For the 9 months ended September 30, 2022, we reported net income attributable to common
+shareholders of $0.71 per diluted share compared to net income of $3.02 per diluted share for the same period of 2021. This decrease is
+largely driven by mark-to-market adjustments in our CMBS portfolios.
+Earnings available for distribution was $2.25 per diluted share year-to-date compared to $1.35 per share -- per diluted share in the same
+period of 2021, an increase of 67.5%. Cash available for distribution was $2.69 per diluted share year-to-date compared to $1.57 per
+diluted share in the same period of 2021, an increase of 72.1%. Higher year-over-year earnings available for distribution and cash
+available for distribution for the year were driven by higher prepayments and requisite prepayment penalties in the first and second
+quarters. Our dividend for the year was 1.5x covered by earnings available from distribution and 1.8x covered by cash available for
+distribution.
+Now let's move to guidance for the fourth quarter. For fourth quarter, we're guiding to earnings available for distribution and cash
+available for distribution as follows: Earnings available for distribution of $0.53 per diluted share at the midpoint with a range of $0.48
+on the low end and $0.58 on the high end. Cash available for distribution of $0.52 per diluted share at the midpoint with a range of
+$0.47 on the low end and $0.57 in the high end. The increase in cash available for distribution and earnings available for distribution
+from the third quarter is driven primarily by new investments in the portfolio.
+So with that, let me turn it over to team for the detailed commentary.
+ 
+Matthew X. Goetz
+NexPoint Real Estate Finance, Inc. - SVP of Investments & Asset Management
+Thanks, Brian. The third quarter continued to show strong performance across each of our investments and asset classes. As of today,
+the portfolio is currently comprised of 83 individual investments with approximately $1.7 billion of total outstanding principal. The loan
+portfolio is 96% residential with 42% invested in senior loans collateralized by single-family rental and 54% invested in multifamily,
+primarily via Agency CMBS. The remaining 4% of the loan book is life sciences and self-storage.
+The portfolio's average remaining term is 5.6 years is 93% stabilized has a weighted average loan-to-value of 68.1% and an average debt
+service coverage ratio of 1.76x. The portfolio is geographically diverse with the bias towards the Southeast and Southwest. Texas, Georgia
+and Florida, combined for approximately 49% of our exposure on a geographic basis. All of our investments are current.
+Moving to the opportunities we were able to take advantage of during this quarter and shortly thereafter. Through today, we were able to
+close 11 new investments totaling $132 million with a weighted average unlevered yield of 9% and an average levered yield of 11.2%. $9
+million of mezzanine investments were made, collateralized by a stabilized self-storage property located near Miami, Florida with an
+unlevered yield of 11%. $21.5 million in 3 separate preferred equity investments collateralized by stabilized multifamily properties located
+in Plano and Fort Worth, Texas and Parkland, Washington at a weighted average estimated yield of 13.3%. A $15 million preferred equity
+investment also closed collateralized by stabilized life sciences CDMO property outside of Minneapolis, Minnesota yield of 10%. The
+tenant is well-capitalized group and signed a long-term lease at the property. $1.5 million of MSCR notes with an estimated leverage
+yield of 13.8% closed; and $85.1 million of CMBS, including the Freddie Mac B-Piece with an average unlevered yield of 7.6% and levered
+yield of 12.9% closed shortly after the quarter.
+In summary, we continue to find attractive investments throughout our target markets and asset classes, and we'll continue to evaluate
+these opportunities with the goal of delivering value to our shareholders.
+I'd now like to hand the call over to Paul Richards.
+ 
+Paul Richards
+Thanks, Matt. During the third quarter, the company was active in the primary bond market and was awarded a $70.5 million Freddie
+Mac floating rate B-Piece. An attractive yield at SOFR + 525 and a levered yields in the low to mid-teens, which has prudently levered via
+attractive price repo financing. The bond [bodes] a great geographical presence, prudent underlying loan leverage and as always,
+excellent sponsorship.
+We struck the entire CMBS portfolio by shocking cap rates and NOI growth to determine how far our cap rates could theoretically widen
+and interest rates could rise until the bond performance will deteriorate. The results were somewhat as expected. The vast majority of the
+portfolio has shown strong NOI growth over the past few years and refi risk is minimal even at these stressed rates. We continue to be
+sensibly leveraged on the repo at roughly 60% LTV at quarter end and have constant dialogue with our great repo lending partners on
+the state of the market and the repo CMBS portfolio.
+Lastly, touching on the continued performance of the SFR loan pool in the Q3 2022 loan pay down. All SFR loans are currently
+performing and demonstrated strong metrics in terms of rent growth in occupancies as the demand for single-family rental growth is still
+red-hot. The portfolio has one SFR loan payoff in the third quarter, which generated an IRR of 22% as compared to the original
+underwritten IRR of only 9%. Due to the early prepayment penalty, the investment was able to generate outsized net proceeds than the
+original underwriting ended roughly 1/3 of the original investment time horizon.
+To finalize our prepared remarks before we turn it over to questions, I'd like to turn it over to Matt McGraner.
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Thank you, Paul. As the team has mentioned, NREF's credit investments and primarily stabilize shorter-term lease duration assets with
+lower CapEx -- had and should continue to maintain dynamic pricing power in today's inflationary environment. Underlying NOI
+embedded in our stabilized SFR multi and storage collateral continue to outperform other property types, providing a resilient base of
+earnings for distribution and stable yields to our investors. Though moderately decelerating from historical peaks earlier this year,
+same-store NOI growth in multifamily SFR and storage are still pushing high single to low double digits.
+On the origination front, the team continues to put capital to work in our core property types at accretive yields. And in addition, we
+believe this market is right for us to generate more of our special situation, tactical type of investments for well-yield sponsors to take
+advantage of the lack of liquidity in the private markets, especially as it relates to multifamily portfolio transactions and single-family
+rental, particularly in the build to rent space.
+We're also pleased with the lack of transitional assets or business plans within our portfolio. Indeed, we're not -- we're thankfully not
+speaking to you today discussing transitional business plans on office or other longer-term duration assets.
+And finally, it's an exciting time for our business and that our portfolio enjoys a stable and transparent earnings stream for the next
+5-plus years, from which we can utilize our deep relationships and frankly, our own investment platforms across multi SFR storage and
+life sciences to continue to generate outside risk-adjusted returns to our investors.
+I thought I have -- for prepared remarks. Now we'd like to turn the call over to the operator to answer any of your questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And we'll first hear from Stephen Laws of Raymond James.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+I guess maybe Matt McGraner, maybe start with a bigger picture question. With mortgage rates going to 7%, where they are, can you talk
+about what impact you expect that to have on your SFR and multifamily, kind of -- as this rolls through, do you expect higher renewal
+rates? How do you expect to look at occupancy or expect increases there? Maybe talk about the buying a home becoming less affordable
+and how that benefits your SFR multifamily investments?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes, I think it's -- you're alluding to it, but you're exactly right. Everything that is doing right now is making home affordability any easier
+across the multifamily loan growth and then our equity portfolio. We're seeing retention rates -- retention rates go from 40% -- excuse
+me, 45% to 50% climbing to 55%, 56% in sort of the affordability workforce space, which is largely what our CMBS portfolio makes up as
+well.
+Same thing on the SFR piece, our platform there (inaudible) and our other platforms continue to see really high retention, especially
+again in that affordable space. And I would expect with the lack of construction financing out there, the supply is going to even decrease
+for developers. New starts have fallen off of a cliff in the second half of the year. And we think multifamily supply peaks in late '23. And
+'24 to '25 will probably be pretty good years for both equity investors in this space and on the credit side.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+Great. When we think about new investments, when you look at things on a relative attractiveness, money going to work in mezz, I
+appreciate, Matt, guess highlighting the new investments, some new private equity investments -- preferred equity investments to, I
+think. But can you talk about how those stack up from a return standpoint versus considering stock repurchases, just given the weakness
+here ahead of the quarter and where book value came in north of 20%?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. I think the idea is probably to balance it in a barbell strategy and do both. Thankfully, as you might recall in Q2, we had $150 million
+of pipeline for the rest of the year. Roughly $115 million of that has been soaked up. And so we're pretty pleased with the growth profile
+over the next 12 months from external investments. So -- to the extent that we stay at 75% of book value, that might be our first use of
+free cash flow on the margin. But otherwise, I think it'd be a barbell.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+Great. And my last question for now. On the 2 common stock investments, can you give us an update on those and how you're thinking
+about investment time line and returns or considerations of reallocating anything into cash flowing debt investments?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. I'll start with the storage piece, and I'll kick it to Paul to talk about the ground lease investments. So on the storage side, we're
+seeing within our own portfolio, pretty dramatic same-store NOI growth, eclipsing 25-plus percent and then in '22, '23, we think, could
+be low teens as well. Rents in kind of in the same realm. We just closed on the senior side of the portfolio at SASB right after Labor Day
+with JPMorgan at accretive levels. So we were sorting out the capital stack. That was the first piece. The second piece is ongoing with
+Extra Space discussions in terms of delevering their preferred. And I would expect that we would have a resolution there by year-end at
+an accretive level for the common equity. So pretty pleased with how the portfolio is performing and also pleased with the cap stack
+maneuvering that we've been able to achieve so far this year in this environment. Paul, you will talk about...
+ 
+Paul Richards
+Yes, definitely. On our ground lease investment right now, they're rolling on all cylinders right now. They have dry powder that are
+deploying at 4.5-plus percent cap rates on stabilized ground leases. So it's stabilized assets. So they have a very good runway into the
+[egress] of this year and next year to take advantage of what's going on in the marketplace, which is a lack of liquidity on the credit side.
+So they're able to fill that gap with [Visa] with the types of investments. So I think that they really have to stride at the right time. And
+with this dry powder, it's going to be good in the next 12 to 18 months. So I think in terms of exit, call it, 3, 4 years, maybe 2 to 4 years, but
+I think there's also a market possibly for an exit too -- since we have such a small piece of the equity as well. So it's -- I think we're -- I
+think it's a great time to be in this investment.
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. Particularly just to add to that, Stephen. These are both kind of bite-size check sizes and really great portfolios to the extent that we
+found the special sit or other use of proceeds that we thought was more accretive. We have a number of external parties, quite frankly,
+internal parties to monetize these 2 assets. So pretty good optionality.
+ 
+Operator
+Next we'll hear from Steven Delaney of JMP Securities.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+It was nice to be on with you on the call and also to be active from a research perspective. I was wondering you guys have had a great
+track record with the Freddie K-Series. We've been reading lately just trying to keep up with all the problems in the CLO market that
+Freddie is starting to crank up this Q-Series again with multifamily bridge loans. Just wondered if you're looking at that? I know you're --
+you prefer stabilized rather than transitional properties. But as this develops and expands, could you see yourself getting involved in the
+Q-Series as well as with the K that you've done so well with?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. Thanks, Steve. This is Matt McGraner. And pleasure to talk to you and appreciate the coverage. We have had a long history, as you
+noted, with Freddie and have iterated with them all in a number of entrepreneurial and creative things that they try to do. We'll continue
+to do that with the Q-Series. I think it's in the early stages. So to the extent that we think it's an attractive investment for this portfolio, we
+will look at it. But on the other things that we're doing with them, we'll -- I think, largely still prefer this stabilized property types, the
+K-Series.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+And with the K-Series, obviously, those are fixed rate term loans, mostly 10 years, I guess, in this move up in coupons. I suspect when we
+see reports from Walker & Dunlop, Arbor Realty, et cetera, that we're going to see a dramatic slowdown. So is it your expectation when
+you're sort of looking at the portfolio out into '23 anyway that there's going to be a big drop in issuance?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. I think that largely the K-Series that we've done have been floating. So we're actually benefiting from the (inaudible) Yes, the
+[LIBOR] moves. But you're right, you hit on the team that's going on right now. So to the extent that there's refi activity or purchase
+activity, most sponsors are floating today (inaudible) given that they don't want to put on fixed rate debt at 5.5% to 6% levels, and that's
+pretty material negative leverage if you believe cap rates are still sub-5% -- 4.5% to 5%, which we do. So most of the product, I think,
+over the next 6 months to 9 months will be skewed on the floating side, would be my guess.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Yes, it makes sense. And it depends on your view on the Fed, but [air] thinking here is that we're going to get a pivot sometime in the
+second half of '23, and we'll just then see how far we move back down the hill, so to speak.
+Just one last quick one. We're not -- it's -- we've got a major disruption as we've been talking about. We don't know how long it will last,
+hopefully -- hopefully not. But let's just say the -- this [mess] continues well through 2023. Do you think you could see some situations
+where there will be needs for rescue financing by borrowers or even seeing banks capitulate and be selling some loans at an attractive
+discount? I know we're not there now, but is that something you would be prepared to take advantage of if this thing gets really bad?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. So we -- if you go back to COVID, there was a great opportunity that lasted about 3 weeks to buy (inaudible) dislocated [securities],
+and we did as much as we possibly could, but there was just so much capital on the sidelines that soaked up pretty (inaudible) I do think
+an interesting research project for someone would be to go pull gateway office assets that are 40 years old or longer that are held by
+either CMBS or banks at the basis of whatever the per square foot basis of the loan is that I think probably are in trouble or will be in
+trouble that could be an interesting set of weakness, but I don't think you'll see us dip into that space, but I do think that's probably
+where the size of the trust probably first illuminate.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Yes. That's where we're seeing all the 4 and 5 rated loans with the commercial mortgage REITs, that's for sure is the office space.
+ 
+Operator
+Next, we hear from Jade Rahmani of KBW.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Do you have any view on home prices and where you think they will go in 2023? What would your guess or estimate be for magnitude of
+home price decline?
+ 
+Brian Dale Mitts
+NexPoint Real Estate Finance, Inc. - CFO, Executive VP of Finance, Secretary, Treasurer & Director
+Yes. Jade, it's Brian Mitts. From an SLR perspective, I think you got to distinguish it from housing itself. Obviously, housing prices, I think,
+are going to decline or decelerate and increase if not decline. But I think from the SFR perspective, we're seeing really strong rent growth
+and high occupancies. I think Invitation has reported already. But as Matt mentioned, within our private portfolio, which is quite large.
+We haven't seen a deceleration of rents. We've seen good NOI growth. So I think that we're not going to see the same type of decline in
+asset values in that context. So I think SFR has still got great fundamentals.
+I think if you look across our loan portfolio at the underlying assets, that's very similar. So we may see a little retracement just depending
+on kind of where cap rates go and where they're at is kind of anyone's guess at this point. Just the transaction volume is pretty thin across
+really all sectors. But it certainly hasn't moved in tandem with interest rates. And I think that you're not going to see the same type of
+value degradation in SFR [is all] in housing in general.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Okay. They did report Invitation Homes and their stock is down 8.5% today. Just -- definitely weakness in their results.
+ 
+Brian Dale Mitts
+NexPoint Real Estate Finance, Inc. - CFO, Executive VP of Finance, Secretary, Treasurer & Director
+Yes, their expenses, I think, were quite high and surprised to the downside on a core FFO or FFO decrease in our guidance. But I think the
+public markets and private markets were up so far, I think, are very disconnected as well.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Okay. Where do you think multifamily either prices in absolute nominal terms or cap rates to go also -- similar prices?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes, it's Matt McGraner. I think -- so we're marketing ourselves on the equity side portfolio, Sunbelt portfolio today. And bids are coming
+in and spot cap rates around 4.5% levels. There's a couple of data points out in the market on larger portfolios, $500 million plus that
+are non-Sunbelt or partially Sunbelt that are eclipsing 5% today. So kind of taking those 2 data points from what we see. And there's not
+a lot of transaction activity, as you know. But if you got to sell, it's probably a 4.5% to 5% cap rate today and then the bid sheets aren't as
+deep as they were certainly in the first half of the year.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Okay. And so to finance that you'd be in the 6s on a cost of debt or high 5s?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+It depends if you go fixed or floating. If you go floating, you're probably 200 over the SOFR rate. So yes, on a floating basis. And then on a
+fixed rate basis, the spreads to the 10-year largely been 150 to 175 is what we're seeing. Commission business on the agency side, they'll
+tight spreads probably 20 to 30 basis points on both floating and fixed.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+20 to 30 basis points?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Okay. And so what do you think the IRR is on those kinds of deals?
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+On a leverage basis, probably high single digits on a 5-year hold, if you have growth. If not, it's certainly less than that. There's too much
+negative leverage right now in the multifamily space. So something's got to give on an unlevered basis, which could -- where we think
+you'll probably see most of the activity in the latter half of the year or in the first half of the year, [all] these core funds that are buying
+core plus products. And I think that they're underwriting to an unlevered probably 6% or 7% return over a 10-year hold.
+ 
+Brian Dale Mitts
+NexPoint Real Estate Finance, Inc. - CFO, Executive VP of Finance, Secretary, Treasurer & Director
+Operator, are there any other questions?
+ 
+Operator
+There are no further questions at this time. I'll turn the call back over to our presenters for any additional or closing comments.
+ 
+Matthew Ryan McGraner
+NexPoint Real Estate Finance, Inc. - Executive VP & CIO
+Yes. I appreciate everyone's participation today, and I look forward to speaking to you next quarter. If you have any other questions, feel
+free to reach out to the team here, and we'll be happy to answer them. Thank you.
+ 
+Operator
+That does conclude today's conference. Thank you all for your participation. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

@@ -1,0 +1,640 @@
+CORPORATE PARTICIPANTS
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+ 
+Hannah True
+Highwoods Properties, Inc. - Financial Analyst
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+CONFERENCE CALL PARTICIPANTS
+ 
+Blaine Matthew Heck
+Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ 
+David Bryan Rodgers
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior Research
+Analyst
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+ 
+William Thomas Catherwood
+BTIG, LLC, Research Division - Director & REIT Analyst
+PRESENTATION
+ 
+Operator
+Greetings, and welcome to the Highwoods Properties earnings call. (Operator Instructions) As a reminder this conference is being
+recorded, Wednesday, October 26, 2022. I would now like to turn the conference over to Hannah True. Please go ahead.
+ 
+Hannah True
+Highwoods Properties, Inc. - Financial Analyst
+Thank you, operator, and good morning, everyone. Joining me on the call this morning are Ted Klinck, our Chief Executive Officer; Brian
+Leary, our Chief Operating Officer; and Brendan Maiorana, our Chief Financial Officer. For your convenience, today's prepared remarks
+have been posted on the web. If you have not received yesterday's earnings release or supplemental, they're both available on the
+Investors section of our website at highwoods.com.
+On today's call, our review will include non-GAAP measures, such as FFO and NOI and EBITDAre. The release and supplemental include
+a reconciliation of these non-GAAP measures to the most directly comparable GAAP financial measures. Forward-looking statements
+made during today's call are subject to risks and uncertainties. These risks and uncertainties are discussed at length in our press releases
+as well as our SEC filings. As you know, actual events and results can differ materially from these forward-looking statements and the
+company does not undertake a duty to update any forward-looking statements.
+With that, I'll turn the call over to Ted.
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Thanks, Hannah, and good morning, everyone. We had another excellent quarter with strong financial results, robust leasing activity and
+the third consecutive increase to our 2022 FFO outlook. Given continued investor uncertainty around the post-pandemic demand for
+office space, there are naturally questions about whether or not office landlords can sustain their operating performance. We have
+enjoyed consistent healthy demand for office space across our Sun Belt Portfolio for 7 quarters in a row after only 2 quarters of
+below-average new leasing during the first pandemic year of 2020.
+Customers and prospects have been making decisions on leasing space, and we have been benefiting from the flight to quality to our
+high-quality portfolio. In our portfolio since beginning of 2021, new customers, whether from organic growth, in migration or flight to
+quality, have generally offset those who downsize for work-from-home or hybrid work arrangements. Our portfolio occupancy has
+increased 40 basis points over those 7 quarters. During this time, we've averaged 322,000 square feet of second-gen new leases per
+quarter, 16% above our prior 10-year average. We've averaged 12.7% GAAP rent growth and 1.2% cash rent growth.
+We've averaged 5.9 years of term, in line with our long-term average, and we've averaged net effective rents, 1.5% higher than our
+average from 2018 and 2019. While our second gen leasing performance has been strong and consistent, the third quarter was especially
+noteworthy. New leasing volume of 518,000 square feet was our highest since 2014.
+Economics were robust on total volume more than 1 million square feet with an average term of 7.4 years, 1.5 years more than both our
+5-quarter and 10-year averages and net effective rents 22% above our 5-quarter average. We believe this performance validates our
+strategy of owning high-quality workplaces in the most dynamic and vibrant BBDs of our growing Sun Belt markets.
+With this strategy, we have consistently delivered solid metrics throughout the ups and downs of many business cycles and periods of
+changing office use patterns. While we don't have a crystal ball, there are obvious headwinds facing the U.S. and global economy. To
+mitigate the impact of these potential headwinds, we bolstered our liquidity and proactively addressed our largest pending lease
+expirations, including substantially backfilling our largest 2023 lease expiration. This derisks our forward leasing plan and leaves us with
+no remaining expirations, representing more than 1% of revenues until late 2024.
+Turning to investments. In the middle of August, we completed the previously announced acquisition of SIX50 at Legacy Union in
+uptown Charlotte for $203 million. We're seeing excellent activity at the recently completed building which is 80% leased, and we're
+confident in the long-term outlook. With this acquisition, in less than 3 years, since we entered the market, Charlotte now accounts for
+over 10% of our NOI. Occupancy in the rest of our Charlotte assets is 98%.
+During the quarter, we also sold a mixed-use land parcel in Richmond in our Innsbrook BBD for $23 million, recognizing a $9 million FFO
+gain. This sale will facilitate the development of retail, residential and hotel uses adjacent to our 1.6 million square feet in Innsbrook.
+Importantly, the value of our existing and future office will be significantly enhanced by a growing amenity base. As we have mentioned
+previously, our land bank has never been more attractive with full build-out of nearly $4 billion.
+The vast majority of this is master planned for mixed-use development, including office and is adjacent to existing or future Highwoods
+assets. We announced a 100% leased boutique office building at Morrocroft in Charlotte's’ South Park BBD. Our team creatively
+manufactured this opportunity to build a $12 million high-quality project on a surface parking lot that had previously not been considered
+for development.
+This quarter, we placed in service Virginia Springs II in Nashville at 100% leased. This $38 million development encompasses 111,000
+square feet and was started in late 2019 on a fully spec basis. The ability to deliver this project on time, on budget and 100% leased, at its
+scheduled stabilization date, despite the pandemic, is a testament to our development and leasing team and is a strong endorsement for
+the health of the Brentwood BBD.
+Our current development pipeline is $533 million at our share. Our Midtown West project in Tampa is now 92.5% leased and will move to
+our in-service portfolio next quarter, also in line with our original pro forma. Our 5 in-process developments represent a total investment
+of $476 million at our share and our combined 22% pre-leased. In Dallas, Granite Park Six, our 422,000 square foot office development
+in the Frisco/Plano BBD continues to have healthy leasing interest, with more than 3 years until projected stabilization.
+And 23Springs, our 642,000 square foot development in the uptown BBD, has a scheduled completion date in 1Q '25 and an estimated
+stabilization date in 1Q '28. We also have a strong pipeline of prospects for this project and continue to be confident about its long-term
+outlook. With rising interest rates and reduced debt availability, the investment in sales market has slowed to state the obvious.
+Fortunately, our balance sheet is in excellent shape with low leverage and no debt maturities until 2025. We have existing liquidity to
+complete our development pipeline while maintaining ample dry powder even without assuming any additional asset sales.
+Early in the third quarter, we announced our plan to exit Pittsburgh, albeit with no preset time table. While we are now preparing these
+assets for sale, given the uncertainty in the investment sales market, and our strong balance sheet, we can afford to be patient. Over the
+long run, operating with low leverage enables us to be opportunistic in seeking investments and improve the quality of our portfolio and
+increase our long-term growth rate. All the while staying true to our mantra of being disciplined allocators of our shareholders' capital.
+Turning to our results. During the third quarter, we delivered FFO of $1.04 per share, which included $0.07 per share of net land sale
+gains. The strong performance in the quarter gives us confidence to increase our 2022 FFO outlook again this quarter. The third
+consecutive increase since we first announced our outlook in February, even with $0.01 to $0.02 per share of higher anticipated interest
+expense in the fourth quarter. The new range implies a midpoint of $4.03 per share, up 3.5% from last year on an apples-to-apples basis,
+excluding land sales. In addition to healthy FFO growth, as we've often said and can be seen clearly in our financial results, we continue
+to generate stronger cash flows.
+To summarize, our markets, BBDs and portfolio have been resilient and continue to perform well as evidenced by our robust third quarter
+leasing and the derisking of our forward lease expirations. Our attractive development pipeline has seen strong prospect activity and is
+well positioned to deliver future growth in NOI, FFO and cash flow. Our land bank has never been more attractive and provides a pipeline
+of future growth opportunities.
+Finally, our balance sheet is well positioned to allow us to capitalize on new investment opportunities. This powerful combination,
+together with our track record of delivering consistent and compounding growth in earnings, cash flow and dividends, while maintaining
+low financial leverage makes us confident that we are uniquely positioned to grow, and we firmly believe the best days for Highwoods are
+ahead of us.
+Brian?
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+Thank you, Ted, and good morning, everyone. Our team delivered strong financial and operating results in the third quarter as we
+continue to provide our customers with the high-quality and commute worthy workplaces they need to retain, recruit and return talent.
+While we believe these metrics are definitive measures of past performance, 7 quarters in a row as Ted highlighted, what conclusions can
+we draw about the future of work and the value proposition our BBD workplace making, both in urban and suburban locations, presents
+to those who value culture, creativity and collaboration, whether it be 5 days a week or via some hybrid model. We can confidently
+conclude that the flight to quality is first and foremost, a flight to quality of life. This is first apparent in the acceleration of the great
+migration to the shorter commute, lower cost of living, open for business and temperate clime of our Sun Belt markets. It is seconded by
+millennials discovering the benefits of homeownership.
+Now the largest cohort of homebuyers whom the National Association of Realtors note are choosing the suburbs as their destination over
+85% of the time. Being students of history, we believe the geography and influences of household formation is a powerful leading
+indicator that has shaped economic activity and consumer decision-making for generations.
+Our balanced BBD portfolio is well served by both trends as our assets are in walkable, amenity-rich, mixed-use environments that
+deliver the best formula for a commute worthy workplace experience. In Nashville, where we signed 380,000 square feet and ended the
+quarter over 95% occupied, the team has been hard at work, Highwoodtizing our high-quality assets in Brentwood and in Cool Springs.
+We're a new Central Park with its food and beverage options, playground and live music venue led to our backfilling substantially all of
+our largest 2023 lease expiration. We also placed into service our 100% leased Virginia Springs II development in Brentwood, which we
+announced in 2019 as a 100% spec development, which delivered and stabilized on time and on budget without missing a beat
+throughout the pandemic.
+Cushman & Wakefield noted the Nashville market at large posted positive net absorption for the quarter and increased rents 4%
+year-over-year. While Nashville and Tennessee deserve to be at the top of many rankings, it is the great state of North Carolina, where we
+generate over 1/3 of our NOI, that is CNBC's #1 state for business in 2022.
+Additionally, Raleigh's #1 ranking by Bankrate is the best place to live in the United States and over $3 billion in annual R&D dollars
+deployed by its universities continues to drive growth for the Triangle region. The market posted positive net absorption for the fourth
+consecutive quarter and market rents increased 5% year-over-year per Avison Young. We signed 186,000 square feet of leases in Raleigh
+and ended the quarter 91.4% occupied. Down the interstate, in Charlotte, JLL reported that market rents are up 4.5% year-over-year and
+the market realized positive net absorption for the second consecutive quarter. We ended the quarter 94.3% occupied.
+With the acquisition of the 367,000 square foot SIX50 South Tryon Tower, we now own 2 million square feet of the most compelling and
+commute-worthy buildings or development sites in all 3 of our targeted Charlotte BBDs: Uptown, the South End and South Park. Notably
+in uptown, we are honored to have been chosen as the new home for the Atlantic Coast Conferences headquarters and the University of
+North Carolina's Kenan-Flagler Business School's new Charlotte campus, 2 tremendous additions to our legacy Union customer base.
+In South Park, we re-envisioned and rezoned Morrocroft this quarter and this work-placemaking is paying off with the announcement of
+a new $12 million, 100% pre-leased boutique office building. Four Morrocroft will deliver in 2024, along with new food and beverage
+options for the whole of Morrocroft on land, not previously envisioned or permitted for development. We've had a busy 3 years
+considering, at this time, in 2019, we own no assets in Charlotte.
+Looking to model our Charlotte growth and success in our newest market of Dallas, Texas, the region's continued performance provides
+positive tailwinds to our prospects there. Dallas has, once again, grown population and jobs quarter-over-quarter, now topping 8 million
+residents and over 4 million people employed, both all-time highs.
+For Moody's Analytics, office using jobs grew 8.3% year-over-year, with 93,000 new positions. With even the most conservative office
+density calculation, job growth like this produces real demand for office space across the market. As a reminder, we are under
+construction in partnership with NAIOP Developer-of-the-Year and Dallas-based Granite Properties on the 422,000 square foot Granite
+Park Six in Plano and the 642,000 square foot 23Springs development in Uptown.
+In summary, we believe the best and brightest are better together. We are hearing this from our customers and our continued
+performance bears this out. While office buildings are built out of concrete, steel and glass, the most solid of materials, talent now has
+the opportunity to be much more fluid with how it engages with the physical workplace and work week. We are focused on making our
+portfolio the most talent supportive and commute-worthy it can be. We believe in so doing, we'll create great value for our customers,
+Highwoods, and in turn, our shareholders.
+Brendan?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Thanks, Brian. And good morning, everyone. In the third quarter, we reported net income of $38.3 million or $0.36 per share and FFO of
+$111.6 million or $1.04 per share. The quarter included net land sale gains of $0.07, which were not included in our prior FFO outlook.
+Adjusting for the quarter-to-quarter fluctuations in land sale gains, term fees and credit reserves, the major drivers of the change from
+the second quarter to the third quarter were lower operating margins in 3Q, as we expected, a full quarter impact of the 2Q dispositions
+and higher average interest rates. These were partially offset by the contribution from the mid-quarter acquisition of SIX50 at Legacy
+Union in Charlotte.
+As expected, same-property cash NOI growth was negative in the quarter due to higher OpEx and straight-line rent. GAAP NOI growth
+was positive. And as we've stated before, when GAAP NOI growth is higher than cash NOI growth, it's often a forward indicator of an
+upward sloping future cash NOI trend.
+At the onset of the pandemic, our parking revenues and operating expenses fell sharply. Having slowly normalized over the past couple
+of years, we now believe 4Q '22 will be a good representation of stabilized levels of OpEx and parking on a go-forward basis. Our
+updated FFO outlook of $4.02 to $4.04 per share for the full year makes it 3 quarters of consecutive increases since we provided our
+original outlook in February.
+This includes $0.07 per share of net land sale gains in the third quarter, which were not included in the prior outlook, but also includes
+$0.01 to $0.02 per share of higher anticipated interest expense in the fourth quarter, driven by higher projected SOFR rates and the early
+repayment of our January 2023 bonds, which is offset by higher projected NOI. Excluding the third quarter land sale gains, the midpoint
+of the outlook is essentially unchanged from our prior outlook.
+The other line items in our outlook were largely unchanged other than some minor adjustments to G&A and straight-line rent. Ted
+mentioned that core FFO, which excludes land sale gains, is projected to be up 3.5% year-over-year at the midpoint of our updated 2022
+outlook. This annual growth matches our compound annual growth rate since 2019 and is close to the 3.9% annual growth we've
+delivered since 2010. In addition, our cash flows have continued to strengthen at a faster pace than FFO during the past few years.
+Now to our balance sheet. During the third quarter, we closed a $150 million delayed-draw unsecured bank term loan, which we used to
+help fund the acquisition of SIX50 at Legacy Union. This loan is scheduled to mature in May 2027 and bears interest at SOFR plus 105
+basis points, the same spread as the term loan we obtained in May.
+Early in October, we obtained an additional $200 million unsecured bank term loan with the same SOFR borrowing spread and a
+maturity date in the fourth quarter of 2025. We used the proceeds from this term loan, plus cash on hand and borrowings under our
+revolving credit facility, to repay without penalty a $250 million 3.75% unsecured bond that was originally scheduled to mature in
+January 2023.
+We now have no debt maturities until the fourth quarter of 2025. We have approximately $360 million remaining to fund our share of the
+current development pipeline. We have construction loans in place at our Dallas JVs that will account for $190 million of this future
+spending, leaving only $170 million remaining from additional sources. Our revolver balance adjusted for the early bond repayment is
+approximately $160 million, leaving us nearly $600 million of additional capacity.
+Our debt-to-EBITDAre ratio ticked up this quarter to 5.6x with our acquisition and the funding of our initial investment into our Dallas
+JVs and without meaningful disposition proceeds. To be clear, our plan is to fund our business on a leverage-neutral basis over the long
+term, which means we'll likely sell assets once the investment sales market stabilizes. Our load leverage affords us the flexibility to fully
+fund our development expenditures without the prerequisite of selling any assets or raising equity and still maintain low overall leverage.
+We estimate our net debt-to-EBITDAre ratio will remain under 6x without any dispositions or equity issuances.
+In summary, our balance sheet is in excellent shape with limited debt maturities and ample dry powder, giving us plenty of flexibility with
+our financing plans over the next several years and allowing us to be opportunistic with new investments.
+Operator, we are now ready for questions. Thank you.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions)
+And our first question comes from the line of Blaine Heck with Wells Fargo.
+ 
+Blaine Matthew Heck
+Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+So you guys had a very strong quarter from a new leasing perspective. Can you just talk generally about the types of tenants that are
+most active in your markets from a size and industry perspective?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure, Blaine, it's Ted. I'll start, and maybe Brian can chime in. We did. We had a very active quarter. In terms of our new leasing, we
+signed 36 new customers into our portfolio that we're bringing in over the next several months, really led by most activity is financial
+services and then led -- followed closely by health care and then technology in terms of count. So those have been the most active. And
+then after that, it's pretty diversified among several different categories.
+ 
+Blaine Matthew Heck
+Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+Great. That's helpful, Ted. And then can you just talk about your asset recycling initiatives. You talked about this a little bit in the
+prepared remarks, but I guess how should we be thinking about the timing and pricing on Pittsburgh sales, given that the transactional
+market seems to have grounded to a halt here? And how does that impact your willingness to invest incremental dollars in acquisitions
+or development?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure. Great question. I think in terms of the dispositions, I think you hit it on the head, just given the dislocation in the capital markets, I
+don't think we expect much in the way of dispositions in the near term. As I mentioned in my prepared remarks, we are prepping assets
+for sale, but we can afford to wait until the capital markets do come back.
+As that relates to acquisitions, look, I think we've proven over the years, we're pretty good stewards of our shareholders' capital and are
+pretty conservative investors. Brendan and his team stress test the balance sheet all the time. And even when you factor in our
+development spend that we've got coming up in the next several quarters, we do have some dry powder to be opportunistic in this
+environment but remain disciplined.
+Any acquisition we do, it would have to be -- we're going to be highly selective and it's going to have to be strategic. It's going to -- have
+to probably be one of the best assets in the best submarkets of one of our high-growth markets. We're going to look at replacement cost,
+what is a stabilized yield. Hopefully, we can get an asset with below-market rents that we can grow over time. So it'll have to be a highly
+strategic acquisition for us to do something.
+ 
+Blaine Matthew Heck
+Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+Great. Very helpful. Last one for me. Same-store NOI was negative this quarter for the first time since 2018, I think. Can you just talk
+about the drivers behind some of that weakness? And maybe expand on how we should think about the trend looking forward?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes. Blaine, it's Brendan. I'll take that. So that's right. It was negative this quarter. That was as expected. And as I think you saw in others,
+we did maintain our outlook on same-store for the year. So certainly, 3Q was as we expected. A lot of the reason for that is what we
+described in the beginning of the year where expenses were higher. And if you look at the Page 15 of the sub, that gives our same
+property breakdown. Overall, operating expenses were up $6.4 million year-over-year in the third quarter.
+Now you don't have this detail, but recoveries did help out some of that increased expense. So net of recovery, expenses were up $4
+million which is a big headwind on an NOI base of, call it, $115 million for the quarter. So that had a big headwind. And as we've talked
+about, we think that, that headwind probably dissipates sometime over the next few quarters because as expenses continue to move up,
+we're going to get back to the normalized expense levels where we were pre-COVID, which means our recovery rates will be much higher
+on any future increases in expenses. So we think that line item, that headwind will dissipate sometime over the next couple of quarters.
+And then the other impact which is really timing related is straight-line rent was much higher this quarter than it had been. So that was a
+headwind of about $1.5 million and that's a timing issue. That can either be a headwind or a tailwind, but balances out over time. So we
+think that also gets better over the next couple of quarters. So if I normalize for both kind of the higher expenses, net of recovery and the
+impact of higher straight-line rent. We think if you think -- if we look at the core of what's going on with same-store, those trends are very
+positive and that's very much in the long-term range of where we've grown at about positive 2.5% to 3% a year.
+ 
+Operator
+And our next question comes from the line of Jeff Spector with Bank of America.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+Two follow-up questions to that conversation. Brendan, how does that tie into cash leasing spreads, your last comments? How should we
+think about cash leasing spreads over the next, let's say, a year or 2?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes, Jeff, good question. So in general, I would just say for the average across our portfolio, our average in place annual rent escalators
+are about 2.5%. It's maybe been a little bit better than that on leases that we've signed over the past several quarters, but let's call it, on
+average about 2.5%.
+Our cash re-leasing spreads have been just a little bit lower than that. They've been positive, but just a little bit lower than that over the
+past several quarters, let's say, since the onset of COVID. So that means probably on a same-property basis, our top line is going to grow
+in the mid-2s. So I think that, that's a pretty good gauge going forward on a cash basis.
+Cash rent spreads it's difficult to say where they would be. We don't guide to that number because it can vary based on the leases that
+get signed. But we've been pretty consistently signing levels in the very low positive single digits. And that's probably a reasonable
+guidepost of where we think we'll be as we go forward over the next several quarters.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+Very helpful. And then just given the conversation around the balance sheet, Brendan, can you provide an update from what you're
+seeing on the capital markets? What are your -- how your most recent conversations going with your bankers?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes. Good question. So as you know, we just closed the term loan in October, which was a 3-year term loan with the one including the
+1-year extension, so we were very pleased to get that done. We think that worked really well for us. And that was something that made a
+lot of sense for us to do because it provides us that flexibility. So that is a short-term increase to liquidity, which if you think about the
+plan that we have, which is ultimately to sell assets, that gives us flexibility with those asset proceeds to pay down some of the
+short-term variable rate debt that we have.
+So we were pleased to get that done. We really don't have a lot of need for financing going forward. So I think it's no surprise that capital
+is less available now but we feel like we're in great shape, given we've got about $600 million available on our line of credit, and we have
+no maturities until 2025. So we don't have a lot of need to raise capital at this point.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+Okay. And then last for me, just Ted, on your opening remarks, I just want to confirm, just given all the concerns investors have, analysts
+have, over potential weakness in the economy, maybe we're seeing signpost of that now. Just to confirm, are you seeing any signposts
+into October of 10 slowing or changing leasing decisions over a concern of slowing economy this quarter in '23?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure. Look, I think we're off to a really good start this quarter from a leasing volume standpoint. I think tour activity still remains very
+strong. Now having said that, look, we've had a few decisions put on hold, right? A couple of deals that we thought we were going to
+make. Even last quarter, we had a few this quarter, we're hearing about a couple that they're not saying they're not going to do the deal,
+but they're just putting a little bit of a pause, whether that's a 30- or 60-day pause. And I attribute that to potential headwinds that are
+out there. But in terms of just leasing that we see coming through our funnel, it's continued the third quarter. The first month of this
+quarter, October has continued the momentum we've had last quarter.
+ 
+Operator
+And our next question comes from the line of Michael Griffin with Citi.
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+Maybe to expand on that leasing question just asked earlier. Have you noticed a difference in terms of kind of what tenants are asking for
+and sort of what they're looking for now relative to recent?
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+Michael, Brian here. Let me go ahead and take this one. So in general, yes, I would say that they are, across the board, highly focused on
+whatever real estate decision and investment they're making, typically in negotiations with us and securing a lease with being kind of a
+competitive edge to get their talent back to work.
+So it is a deliberate move to make sure they have the most compelling commute-worthy kind of component of the workplace to give
+people a reason to come back, and so they're leaning in on that. They're leaning on amenity. They're leaning in with us as -- to kind of
+partner to realize additional building amenities. We've had some great success. Take National, for example, where we just backfilled our
+largest 2023 expiration. We backfilled that into a collection of really kind of 3.5 buildings, one building is kind of -- 2 buildings are most
+connected, and we're completely repositioning that place with a new park and a playground and food and beverage and all these things
+that we think are about making it commute worthy and the market is responding.
+And so it's a very collaborative kind of conversation and effort that we're having with these customers to help them continue to retain,
+recruit and return their talent. So it's a little different. Not saying that people aren't out to get a deal because everyone is smart and savvy
+and they're well informed and well consulted. But as you may have heard on calls, it feels like years ago when you look at what a typical
+company is going to spend every year, 1% will be on their utilities, 9% will be on their real estate and 90% will be on their people. So
+they're realizing that they need their 90% in because they're 90% more productive when they're together, and that's kind of a universal
+chorus we've heard.
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+Got you. That's definitely helpful. Maybe a question now just on sort of capital allocation, just given the changing backdrop and
+macroeconomic sentiment, how does this change your strategies around external growth, including development funding going forward.
+Brendan, I know you mentioned about $170 million left to fund for development. Just kind of how should we be thinking about that?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Michael, this is Ted. Let me start out in terms of the capital allocation. I talked a little bit about acquisitions. Obviously, it has to be
+something pretty special for us on that side, and we'd have to be very comfortable with the pricing and all that. But with respect to
+development, look, I think the bar for development is higher today. We announced last night that we did the $12 million build-to-suit in
+Charlotte, a little boutique building that we're really excited about. We got that out of -- basically we're building it on a parking lot. So we
+had no basis to the land, which had gave us about a 50 basis point lift in the development yield.
+So that was very attractive to us.
+And we have a handful of other discussions going on with potential prospects, and every deal is different, right? So we take a pretty
+measured approach. We look at the market, the submarket, whether there is underdevelopment. But key for us is really stress testing our
+underwriting to see what yields would look like, assuming lower rents, longer lease-up times, higher TI, more concession packages. So
+we want to know -- or we want to go in any development with our eyes wide open. But I would say the bar is certainly higher today.
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes. And Michael, I'll just from a balance sheet perspective, so without regard for the merits of any additional investment, I think when
+we look at our balance sheet and stress test that, as I mentioned just in the prepared remarks, we don't think that we will be above 6x
+based on -- 6x debt to EBITDAre based on the planned development spending that we have going forward.
+So that's even without getting the corresponding NOI in the door from the development properties that are on the development pipeline
+as it stands right now. So I think we feel good about where we are from a balance sheet perspective: one, because overall leverage
+whether it's leverage as a percent of assets or debt to EBITDA, those are both low; and then also, as I mentioned earlier, we just don't
+have any debt maturities until late 2025 with a lot of capacity available on our line. So I think we're in good shape from a balance sheet
+perspective. So we do feel like we've got dry powder if there is some additional investment opportunity that we believe is compelling.
+ 
+Operator
+And our next question comes from the line of Rob Stevenson with Janney Montgomery Scott.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+(technical difficulty)
+About sublease space in your markets? Is it stable, increasing, decreasing? And how rational some of the competitors that maybe have
+large vacancy issues that you don't are being in terms of pricing concessions and length of lease and stuff like that?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Rob, it's Ted. Maybe I'll start and then Brian can jump in. Look, sublease space is still elevated, I think, in most of our markets. And that's
+what happened during the pandemic, and that's what happens when the economy slows. Some of the sublease space is definitely
+competitive.
+We've lost probably a handful of deals, maybe over the last year or so to a competing sublease space. But you got to remember that not
+all sublease space is competitive. Some of it has short term in nature. TIs may or may not be provided. Renewal options are not going to
+have. So it's not ideal. It's not the ideal situation for a lot of companies. So -- and also, a lot of it is lower quality assets and lower quality
+submarkets as well. So while it's elevated, we compete with some of it, but not all sublease space.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Okay. And then thoughts on using some of that dry powder you've been talking about to potentially buy back stock if it stays in the mid-
+to high 20s?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure, Rob. It's something certainly, in the last few quarters, we talked to our Board about virtually every quarter. So just an overall
+statement, we want to protect our strong balance sheet and really don't want to lever up to buy our stock. It's certainly compelling. We
+understand the question.
+But given capital markets today, maintaining liquidity it's pretty important as well. So it's something we contemplate, it's something we
+think about. We, obviously, look at it with respect to our development spend and our uses of capital as well. So it's definitely not off the
+table, but it's not something that we necessarily think we're going to be doing at this point.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+I mean, I guess the other question would wind up being is how high of a cap rate would you have to buy something to make it more
+attractive than buying your own portfolio of BBD assets back at the implied cap rate that you're currently at?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Right. No, that's -- it's a math exercise, right, to a certain degree. We're looking at it in the long term as well, what are our long-term
+uses. And again, it's something that we can contemplate but not necessarily want to lever up to do it. But it's certainly a compelling
+valuation. It's something we think about.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Okay. And then last one for me, Brendan, what's the thought on swaps or anything else on the variable rate portion of the debt? I know
+it's not huge in terms of the overall debt position. But how are you thinking about that? And where is the pricing on that versus the
+risk-reward type of situation for you guys?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes. Good question, Rob. It's probably not something that's front burner for us as it stands now because, again, the plan is to have
+disposition proceeds come in the door and fund kind of our investment activities on a leverage-neutral basis over time. So if we swap
+some of that floating rate exposure to fixed that hampers our ability to then freely use those disposition proceeds to pay down that debt.
+So it does reduce the flexibility that we have.
+So I think that, that is probably something that we will continue to look at but is, I would say, not front burner. I will mention that we do
+have interest rate caps on the construction loans for the Dallas JVs that are in place. We haven't drawn on those loans yet. We're still
+funding the equity piece, but we do have some protection with respect to rising SOFR rates there with the interest rate caps that we have
+on those Dallas JVs.
+ 
+Operator
+And our next question comes from line of Ronald Kamdem with Morgan Stanley.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Just a couple of quick ones. Going back to the dispositions, I know you guys stressed on Pittsburgh a little bit. Maybe can you talk a little
+bit more about what the environment is like and potential sales there?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure. Just not a lot of visibility in the transaction market today, Ron. I think most people are in the price discovery mode. We are seeing a
+couple of deals get done. Having said that, we've seen a couple of assets that are tied up and either have closed or recently have closed
+that are very high quality, a little bit of a discount, roughly 10% or so. But in general, just given the illiquidity or the lack of liquidity in the
+debt markets, it's really an impact of the transaction environment. So as I said, we've got several assets that are teed up for dispositions,
+but we're in no hurry. We're not forced to selling anything in this environment. So we can afford to be patient.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Great. And then my last one was just going out on leasing. Obviously, a pretty good leasing quarter. Maybe can you update us if you
+haven't already on some of the larger lease expirations and the activity that you're seeing on those spaces?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Sure. So going into next year, we only have 2 leases greater than 100,000 square feet. One of those is what we talked about. It's the
+Tivity Health in Nashville that expire at the end of February '23. And as we mentioned in our prepared remarks and Brian mentioned it,
+we've substantially backfilled that already. So we're excited about that. There will be some downtime, but we're excited about where we
+came out on that.
+And then the only other one is about 137,000 square foot customer in Raleigh that expires at the end of January, and we're downsizing
+them. They went through a merger with another company, and they're going to be downsizing the Raleigh operation. So we extended
+them. We'll be downsizing them by about, I think, 75,000 feet, if I remember right. But we already have strong prospects for a vast
+majority of that. So we think the downtime is going to be pretty nominal on that. So other than that, we don't have anything below
+100,000 square feet in 2023.
+ 
+Operator
+(Operator Instructions)
+And our next question comes from the line of Dave Rodgers with Baird.
+ 
+David Bryan Rodgers
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+My questions follow a little bit on the same line. So maybe Brian, I'll start with you. Can you talk about the tenor of discussions just on the
+renewals that you're having? It sounds like some new leases may be put on hold, but you had a great quarter. So curious on the renewal
+specifically. Are people still typically looking to downsize a little bit more if they are staying with you? And then what's the downtime on
+Tivity?
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+So Dave, I'll take the second one first. Downtime will be about most of the year as the building is repositioned and we do the work
+outside. So I think January 1 is when they're planning on moving and they may get a little earlier there. And then back to your first
+question on renewals, folks are -- I think in the whole, we have more expansions and contractions. There's always kind of a one-off story
+of a merger and some other things and how folks are going to use space. We are the beneficiary of being in growth markets. And so if you
+look at corporations and the mix that Ted highlighted, who is growing and who's doing the deals, professional services, financial services,
+engineering firms.
+I think we're seeing the infrastructure bill now starting to get through the system and putting a lot of these folks to work. They are
+looking for some more TI to commit to longer term. So you look at that term we had this year that while we're very happy with that, we're
+optimistic that we'll continue around that same area for the coming quarters. Because, again, these folks are committed to this space,
+the ones that are making the decisions.
+We still have a few that might kick the can on the renewal side, generally going to might be bigger organizations that are looking at kind
+of a multiple city, multiple market kind of strategy? But we've actually had a few that thought they wanted to downsize. They gave us the
+heads up, got in and then came back and said, "No, we're just going to keep the whole thing." So again, I think it comes back to the
+calculus of what percentage of their spend is really just on this real estate when they're really talking about getting their people back
+together.
+ 
+David Bryan Rodgers
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+Great. And then maybe -- I don't know if this is for Brendan or Ted. But any comments on Asurion and the sublease there. Obviously
+doesn't affect you guys from a long time from a direct standpoint. But do you share any sublease proceeds? And you had discussions with
+them about how they plan to use the asset in the future?
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Yes. Really, they've announced publicly, I think, they're putting roughly 90,000 square feet on the sublease market. But at the same
+time, we're not -- I don't think they've totally decided what they're doing yet. So I think those plans are still evolving. So we really don't
+have a whole lot of details on it thus far. And that's really not too different from Bridgestone, down the street. A couple of quarters ago,
+Bridgestone announced they're putting a few floors on the sublease market as well. And I don't think they've been actively subleasing it
+despite the public announcement that they're going to do it. So I think time will tell.
+ 
+David Bryan Rodgers
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+All right. Great. That's helpful. Maybe one more. On the acquisition at SIX50, can you talk about the opportunity there? It looks like it's
+got some opportunity for lease-up, maybe some rent roll? If you covered it earlier, I missed some of the early portion of the call, I
+apologize.
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+No, Dave, we didn't hit it earlier. It's Brian. One of the extra hats I get to wear is the Charlotte market leader. So SIX50 has already
+improved with regard to its leasing from the moment we got it under contract. So from under contract to close, it improved and it's
+leasing up since we've closed. It's physically connected to our Bank of America Tower, and they share kind of parking and some executive
+parking. And so it was a natural fit, first and foremost. That is basically the epicenter for those who know Charlotte -- the epicenter of
+where activity is in all of Charlotte, basically uptown in South End has moved to the South Tryon formerly in the Stonewall intersection.
+So we feel pretty good about that pickup and the building is filling up.
+In fact, I'll give you a little story on the building. We had Robin Hood in there with 2 floors, right, and they put it on the sublease market,
+and they've already been filled back up. So -- and we're going wrap with one of them for an extension to of who that would be. So we
+think it's a great combination to the tower next door.
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+The only thing I would add is on the Bank of America building, which we bought in late 2019, I think when we bought, it was roughly 90%
+leased and then COVID hit. So leasing had been slow at Bank of America during the COVID period than coming out. But I think Brian and
+the leasing team have had a great success this year. I think BofA is close to 98% today. So we're just seeing a lot of activity on that end of
+downtown Charlotte.
+ 
+David Bryan Rodgers
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+That's really helpful. And I'll just extend one more. Sorry, one obscure question for Brendan. I know you had talked about using
+Pittsburgh and really reallocating that to Dallas, and I realize that's a big picture comment. But if you were to actually use those funds, if
+Pittsburgh still had a gain going forward, could you use that gain to buy out your partner because you can't use it on a development to
+trying to figure out if that's a one-for-one swap or something else has to happen in that transition?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+So yes, good question, Dave. No, that wouldn't be -- we would have to deal with the game from it. I'm assuming you're asking from a
+taxability standpoint, given that our normalized taxable income is roughly in line with our $2 per share dividend. So there's not a lot of
+natural room to absorb capital gains into the normal $2 per share annual dividend. But we do have tax strategies that are out there.
+So I think even if we got proceeds from Pittsburgh, realize the capital gain there. I think we have enough strategies to be able to offset
+that. Those aren't unlimited, but I think for the near term, we've got strategies that where we'd be able to get disposition proceeds with
+capital gains and be able to generally freely use those dollars for reinvestment or debt reduction or what have you.
+ 
+Operator
+And our next question comes from the line of Tom Catherwood with BTIG.
+ 
+William Thomas Catherwood
+BTIG, LLC, Research Division - Director & REIT Analyst
+Brendan, looping back on operating expenses, I just want to try to put the pieces together here. Obviously, as we got into '22 guidance,
+as you had talked about earlier, you had mentioned the expected increase in operating expenses. First 2 quarters, we did not see that. It
+is obviously ramped as you talked about in the third quarter and you expect that fourth quarter run rate to kind of be the new normal
+going forward.
+Just by our back of the envelope, it looks like that's another maybe 150 basis points increase in operating expense margin, which maybe
+is $2 million of OpEx before you hit your kind of your recovery limit -- recoverability, which should carry you into '23. Kind of 2 parts then,
+one, what was the main reason for that lag in the operating expenses really ramping up in '22? And then kind of math-wise, are we at
+least putting the pieces together in a logical and reasonable way?
+ 
+Brendan C. Maiorana
+Highwoods Properties, Inc. - Executive VP & CFO
+Yes. Thanks, Tom. I appreciate the question. So for the first part of your question, why didn't we see the sort of corresponding pick up
+kind of early in '22, why is it sort of taken to the third quarter? So I would say there's a few different things that are going on, but I'll distill
+it down to -- utilization rates have picked up kind of since the summer and even were a little bit higher post Labor Day. So that has driven
+operating expenses higher. And then certainly, we've seen some inflationary pressure on operating expenses.
+So the combination of those 2 items have largely driven operating expenses to a level where we feel like they are reasonably well
+normalized as we kind of sit here. Certainly, if inflation continues to be high, then that's likely to filter its way into operating expenses
+going forward. But as I mentioned that we feel like, on a go-forward basis, we're reasonably well protected because operating expenses
+are kind of getting back to pre-COVID levels, which means we're protected with expense stops for the most part across the vast majority
+of those buildings. So that's why it's probably taken a little bit of time to kind of get back to where normalized levels are.
+Now with respect to how that's going to play out in terms of operating margins going forward and then how you think about that on
+same-store, that's -- it's a little bit different. So I think from an operating margin perspective, it's probably fairly stable as we go forward
+from here or at least the fourth quarter. I think that is a fairly stable level. In terms of kind of comparing year-over-year with recoveries
+and OpEx, there is the comparison to the prior year impact. So that probably becomes still a little bit of a headwind.
+I would say OpEx net of recovery is still probably a little bit of a headwind, albeit fairly modest in the first half of next year, that is the first
+quarter, that's probably the case and then should normalize kind of over the next few quarters. So hopefully, that's helpful. It is -- there's
+a lot of detail that's in there, but I do feel like we've kind of gotten to the point where operating expenses are roughly normalized and
+parking revenues are roughly normalized. So we feel like we're in a pretty stable environment as we go forward from here.
+ 
+William Thomas Catherwood
+BTIG, LLC, Research Division - Director & REIT Analyst
+Got it. Got it. I appreciate all those pieces and color, Brendan. And then last one for me. This might be looking out a little bit further, but
+you placed the last Virginia Springs development into the stabilized portfolio this quarter. It's obviously fully leased up. The next kind of
+opportunity there is the YMCA site. What is the kind of status on either entitling or rezoning that asset? And what are your expectations
+of when you can start either marketing that or getting shovels into the ground over there?
+ 
+Brian M. Leary
+Highwoods Properties, Inc. - Executive VP & COO
+Thomas, thank you for asking that question. Our leader in Nashville, Alex Chambers, is chomping at the bet to get going. So it's in
+Brentwood, Tennessee, which is a very high barrier to entry market. The BBD that we're in is even higher. So we feel like we do have
+something unique in that YMCA site. We do have a little bit of a tail for the YMCA to finish up their operations there and to move to their
+new location. We are in design right now.
+One of the great evolutions that we've had on that master plan is that while we still have the 3 office buildings, we've master planned
+going into the underwriting to purchase that. We have found the ability to add a strong retail component that is being met with great
+response from the local market. And so we think that will really add a differentiating mixed-use factor to that commute-worthy value
+proposition. So we're working with an Brentwood right now. We're going to file the site plan this month and ideally being in a position to
+go as soon as we're ready next year. But thanks for the question.
+ 
+Operator
+And there are no other questions. I'll turn the call back over for any closing remarks.
+ 
+Theodore J. Klinck
+Highwoods Properties, Inc. - President, CEO & Director
+Thanks, everyone, for being on the call this morning. As always, if you have any follow-up questions, please feel free to reach out. And we
+look forward to seeing you all in a couple of weeks out in San Francisco. Thank you.
+ 
+Operator
+Thank you. That does conclude the call for today. We thank you for your participation and ask that you please disconnect your lines. Have
+a great day.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

@@ -1,0 +1,503 @@
+CORPORATE PARTICIPANTS
+ 
+Jeffrey Norman
+Extra Space Storage Inc. - SVP of Capital Markets
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+CONFERENCE CALL PARTICIPANTS
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+ 
+Juan Carlos Sanabria
+BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst
+ 
+Michael Goldsmith
+UBS Investment Bank, Research Division - Associate Director and Associate Analyst
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+ 
+Samir Upadhyay Khanal
+Evercore ISI Institutional Equities, Research Division - MD & Equity Research Analyst
+ 
+Smedes Rose
+Citigroup Inc., Research Division - Director & Senior Analyst
+ 
+Spenser Bowes Allaway
+Green Street Advisors, LLC, Research Division - Senior Analyst of Net Lease, Gaming and Self-Storage
+ 
+Todd Michael Thomas
+KeyBanc Capital Markets Inc., Research Division - MD & Senior Equity Research Analyst
+PRESENTATION
+ 
+Operator
+Good day, and thank you for standing by. Welcome to the Extra Space Storage Third Quarter 2022 Earnings Call. (Operator Instructions)
+Please be advised that this call is being recorded. I will now turn it over to Jeff Norman, Senior Vice President of Capital Markets. Please
+go ahead.
+ 
+Jeffrey Norman
+Extra Space Storage Inc. - SVP of Capital Markets
+Thank you, Hope. Welcome to Extra Space Storage's Third Quarter 2022 Earnings Call. In addition to our press release, we have
+furnished unaudited supplemental financial information on our website. Please remember that management's prepared remarks and
+answers to your questions may contain forward-looking statements as defined in the Private Securities Litigation Reform Act. Actual
+results could differ materially from those stated or implied by our forward-looking statements due to risks and uncertainties associated
+with the company's business.
+These forward-looking statements are qualified by the cautionary statements contained in the company's latest filings with the SEC,
+which we encourage our listeners to review. Forward-looking statements represent management's estimates as of today, November 2,
+2022. The company assumes no obligation to revise or update any forward-looking statements because of changing market conditions
+or other circumstances after the date of this conference call.
+With that, I'd like to now turn it over to Joe Margolis, Chief Executive Officer.
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Thanks, Jeff, and thank you, everyone, for joining today's call. We had another strong quarter with same-store revenue growth of 15.5%,
+driven by strong rental rate growth, partially offset by lower year-over-year occupancy. We felt expense pressure across many line items,
+resulting in total same-store expense growth of 12.6% and same-store NOI growth of 16.4%.
+We continue to be busy on the external growth front, adding 40 stores gross to our third-party management platform, closing over $100
+million in bridge loans in closing a number of acquisitions, most notably the purchase of Storage Express. We view Storage Express as a
+strategic opportunity to acquire not only an attractive portfolio with operational upside but a remote storage platform.
+We believe this will unlock an additional growth channel for Extra Space to acquire and integrate smaller properties that lend
+themselves to a remotely managed model. Our strong property NOI plus our external growth efforts resulted in core FFO growth of
+19.5%. Core FFO includes an add-back of $0.05 per share for estimated property damage and tenant insurance claims related to
+Hurricane Ian.
+We are happy to report that all of our people remain safe during the storm, and we are proud of the way our team has rallied around our
+employees and our customers in Southwest Florida to assist them with cleanup and restoration efforts. Core FFO in the quarter was
+slightly ahead of our expectations, driven by stronger-than-anticipated interest income and non-same-store NOI, partially offset by
+lower-than-expected same-store NOI.
+In September, we started to experience a return of seasonality, putting some pressure on occupancy and new customer rates, which were
+both modestly lower than our third quarter forecast. As we evaluate our standard metrics to measure demand, we see the moderation we
+have typically expected in the fall that did not occur in 2021. While traffic is lower year-over-year, demand is in line with pre-COVID
+levels.
+Fundamentals remain strong, just not as off the [chart] strong as they have been in the last 6 quarters. As a result, we have tightened our
+same-store revenue, NOI and core FFO guidance ranges, eliminating scenarios that assumed only minor seasonality on the top end of
+the range, as well as more bearish scenarios, which we do not believe will materialize. This revision results in a $0.05 or a 60 basis point
+decrease at the midpoint of our FFO range.
+We never liked the idea of having to reduce our outlook, but we are also careful to maintain perspective. Our 2022 implied same-store
+revenue growth is the highest in the history of our company. And this is on the back of 2021, which was our second highest revenue
+growth year. Our implied 2022 FFO growth at the midpoint is 21%.
+Our balance sheet is healthy. We have access to capital and our external growth platforms are positioned to grow on an asset-light basis.
+As we contemplate future potential economic landscapes, including additional inflation and/or recession, we are well positioned to
+continue to produce solid results due to our resilient need-based asset class, diversified portfolio and best-in-class team and platform.
+We are having a great year, and we look forward to finishing strong in the fourth quarter.
+I would now like to turn the time over to Scott.
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Thanks, Joe, and hello, everyone. We had a strong third quarter, $0.01 ahead of our own internal FFO projections. While same-store
+revenue was generally in line with our expectations for the quarter, we did have higher-than-expected bad debt expense. The bad debt
+increase was primarily driven by lower collections from auctions. In other words, our customers' ability to pay for storage doesn't appear
+to have changed as much as an auction buyer's willingness to pay for auctioned goods.
+We experienced outsized year-over-year growth in most of our expense line items, and I think some additional detail may provide helpful
+context. In the third quarter of 2021, we had same-store payroll expense of negative 9% and property tax growth of negative 4.5% which
+drove total Q3 2021 expense growth of negative 4%. If we evaluate our third quarter expenses on a 2-year stack, average payroll expense
+growth was approximately 5.2%, average property tax expense growth was 3.1%, and total -- and average total annual same-store
+expense grew 4.2% a year.
+Turning to the balance sheet. During the quarter, we completed an accordion transaction in our credit facility, adding $600 million of
+unsecured debt across 2 tranches. We capitalized the Storage Express transaction with $125 million in OP units at an average price per
+share of $201.84, with the remainder drawn on the revolving credit facility. This resulted in a net debt-to-EBITDA of 4.6x at the end of the
+quarter without the benefit of the additional EBITDA from Storage Express given the late quarter close.
+The revolver draws caused our variable rate debt to exceed our typical range of 20% to 30% of total debt at quarter end. Subsequent to
+the end of the quarter, we swapped $200 million of our variable rate debt to reduce our floating interest rate exposure to approximately
+35%. Additionally, our bridge loan balances provide a hedge against increases in variable rate debt, effectively reducing the percentage
+to approximately 31% of total debt.
+We will continue to take steps to reduce our variable rate debt further. Our commitment to the investment-grade bond market has not
+changed, and we expect to utilize this market again once conditions normalize. As Joe mentioned, we tightened our 2022 guidance.
+Given the outsized growth and unique customer trends we have experienced over the past 2 years, we've had a wider-than-normal
+guidance range throughout the year, to capture all of the different scenarios that we believe were possible.
+As we've moved through the fall, the moderation has been more pronounced than we projected at the high end. However, it was also not
+as severe on the low end, resulting in the tighter range. The reduction in same-store NOI guidance is partially offset by
+higher-than-expected interest income due to larger bridge loan balances and higher interest rates as well as an expected later
+modification date of the NexPoint preferred investment.
+We've also increased our forecast for management fees and other income. Interest expense estimates have increased -- have increased
+due to debt associated with Storage Express, other acquisitions, additional bridge loans and an increase in benchmark rates. Given our
+total investment activity year-to-date, we've increased our acquisition investment guidance to $1.65 billion, all of which is closed or under
+contract.
+After these adjustments, we have tightened our core FFO range, which is now estimated to be between $8.30 and $8.40 per share and
+implied increase of approximately 21% year-over-year. We still anticipate $0.20 of dilution from value-add acquisitions in C of O stores in
+line with last quarter's estimate.
+We are having a great year and we continue to be optimistic about our ability to maintain healthy growth in 2023 as we see storage
+fundamentals normalizing to historical levels. With that, operator, let's open it up for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from Jeff Spector with Bank of America.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+Great. First question is on just some of the comments on seasonality, right? I guess Joe, can you provide any other stats or any other
+details to give investors comfort that again, this is just normal seasonality, especially given you're right, your team normally forecast
+really well. So clearly, the market is somewhat surprised by the decrease at the top end of the guidance.
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Sure. Well, thank you for the compliment. We do normally take pride in our forecast. I think it's important to understand we're in an
+environment where customer behavior is very different. We have no history of data about how customers react coming out of a pandemic.
+And therefore, we gave wider-than-normal ranges because we had less confidence in our ability to exactly predict how customers would
+perform. .
+What we see on fundamentals, though, we do see slowing in demand in rates and other metrics compared to the last 6 quarters or so.
+But if you look at pre-pandemic numbers, things look very strong, and we're very comfortable with the state of the business.
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Yes, Jeff, maybe just to clarify one point. The slowing in demand is year-over-year. It's very clear that it is still as good as it was
+pre-pandemic and very consistent with historical norms at this time of the year in terms of searches on our website, calls that we're
+receiving at the stores and our rentals on a monthly basis.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+And to confirm this is through October?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+So what we have in October, maybe just to give a bit of an update for October. Our October numbers, our occupancy is down about 30
+bps from September, so not significantly different from the end of September, and our rates have been steady through the month of
+October.
+ 
+Jeffrey Alan Spector
+BofA Securities, Research Division - MD and Head of United States REITs
+And then my second question is -- do you still stand by your comment that you're ending '22 strong, which bodes well as we enter '23? Or
+again, to confirm, are you seeing any negative signpost that would change that comment?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+No, I think if you look at our guidance range, that will give you an indication of the range of where we believe we'll end 2022. Anywhere in
+that range is better than long-term historical storage averages. So we still believe we're going to end the year strong and be set up well
+for 2023.
+ 
+Operator
+Our next question comes from Michael Goldsmith with UBS.
+ 
+Michael Goldsmith
+UBS Investment Bank, Research Division - Associate Director and Associate Analyst
+From our work, your web -- Extra Space's web asking rates or street rates have been down year-over-year through the quarter. At the
+same time, your occupancy rate maybe hasn't had as much pressure as others. So clearly, the goal here is that you're looking to
+maximize revenue. But how do you think about managing the pieces, occupancy, street rates and ECRIs? And how does your current
+position and strategy allow you to maximize revenues kind of through this normal seasonality into next year?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So your statements are correct, right? We're trying to maximize revenue by using all the tools available, whether that's occupancy rate,
+discount, marketing expense, days to reserve, all the different levers we can do and it's done on a unit size in each store basis, not on a
+portfolio basis or a market basis. So we're trying to maximize revenue for whatever unit type and whatever store giving the performance
+and data we have on that particular unit type in the store.
+When you roll all of that up together onto a portfolio basis, we are certainly now favoring occupancy at the expense of rate. So we're
+giving up a little bit of rate to have a little higher occupancy because we believe in the long term that will create the best long-term
+revenue growth for the portfolio.
+ 
+Michael Goldsmith
+UBS Investment Bank, Research Division - Associate Director and Associate Analyst
+And by creating long-term revenue growth, you mean bring people in, get them into the system and get them on the ECRI program. Is
+that correct?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Certainly, ECRI is a very important factor there, and it's also trying to attract as many longer-term customers who have a longer lifetime
+value than a customer who's going to come in maybe at a higher rate, but spin out after 2 or 3 months.
+ 
+Michael Goldsmith
+UBS Investment Bank, Research Division - Associate Director and Associate Analyst
+That's helpful. And then as my follow-up question, housing turnover has been under pressure for a number of different reasons. Did you
+see any impact of the housing market on your results? Were there increase interest from renters? And then does the impact of kind of
+housing turnover in the housing market? Is that -- does that have as much of an impact now? Or will that have a larger impact kind of
+during peak leasing season when people kind of start moving up again?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Overall, a strong housing market is beneficial to self-storage, and we would prefer a strong housing market than a weak housing market.
+That being said, there's lots of different drivers of demand for storage, and we see solid demand in good and bad housing markets.
+And the best example of that is during the great financial crisis where the housing market was arguably in much worse shape than it is
+now, and we didn't see any drop in demand because we had demand from other types of transitions, other movements that made up for
+the slowdown in housing transitions.
+ 
+Operator
+Our next question comes from Todd Thomas with KeyBanc Capital Markets.
+ 
+Todd Michael Thomas
+KeyBanc Capital Markets Inc., Research Division - MD & Senior Equity Research Analyst
+First, I just wanted to follow up on the outlook and the reforecast here for the balance of the year. Can you talk about the occupancy
+decrease, it sounded like that fell short in the third quarter relative to what you had budgeted previously? It looked like average
+occupancy increased from 2Q to 3Q, which I think is a typical seasonally. So where was the shortfall specifically, I guess, what fell short of
+budget? And then within the quarter, when did you start experiencing some of the softness that you're starting to see?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Yes, Todd, it's Scott. So I would tell you it's later in the third quarter. Certainly, post Labor Day, July and August were good for us, we are
+[ahead] of our forecast. Post Labor Day, I think what changed is I think you saw that seasonal occupancy go back more to the norm than
+what we've seen in the last 2 years. And we've been saying this was a possibility for 2 years.
+I think it came a little quicker than we were expecting when it did come, and as a result, it impacted rates. So I think the thing that's
+impacted us most is the rate that we are going to charge new customers and the impact on the fourth quarter. So not necessarily
+occupancy but much more new customer rate coming in and seeing a little bit of deceleration there in terms of our rate.
+ 
+Todd Michael Thomas
+KeyBanc Capital Markets Inc., Research Division - MD & Senior Equity Research Analyst
+Okay. And then in terms of the sort of heightened focus on occupancy relative to rate, is there still -- are you still sort of throttling back on
+move-in rates and increasing promotions in order to stimulate demand? Or has some of that stabilized?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+So our promotions year-over-year were actually down slightly in the third quarter, and we're not using promotions right now. We've used
+rate more as the conversion tool. And our rates in October were flat to slightly up from where they were in September. So continues to be
+what we're seeing in September.
+ 
+Todd Michael Thomas
+KeyBanc Capital Markets Inc., Research Division - MD & Senior Equity Research Analyst
+Okay. That's helpful. And then if I could just ask about Storage Express and the growth opportunity that you see by way of making
+acquisitions through that platform. What's the -- I guess a couple of questions. One, what's the time frame to begin capitalizing on
+growth through new investments? Is it something that you -- that we might expect to see you capitalize on in the near term? And then as
+we think about that remote storage model, how much of EXR's portfolio today do you see the potential to roll that out across?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So I would say the growth opportunity -- the external growth opportunity in Storage Express is not in the near term. What's in the near
+term, I think, is internal growth by getting them -- getting Storage Express, I shouldn't say them, onto the Extra Space, pricing ECRI,
+customer acquisition platform, and we think we can improve the existing assets performance. That is nearer term.
+Until we can do that, get them on our platforms, we won't aggressively pursue external growth. So that's more of a second stage. And I
+think that there's a small number of Extra Space Storage that mostly things we run as [annex] is now that we may be able to improve the
+performance of using the Storage Express model.
+What may be more interesting is the ability to look at modest-sized stores within our existing footprint that we don't really look at now.
+ 
+Operator
+Our next question comes from Juan Sanabria with BMO Capital Markets.
+ 
+Juan Carlos Sanabria
+BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst
+Maybe just following up on Todd's question on Storage Express. It definitely seems like you've talked to in your opening remarks about
+the strategic opportunity to widen the opportunity set and maybe acquire assets that you otherwise wouldn't have. But to what extent, I
+guess, do you weigh more secondary tertiary locations where you can remote manage them and cut operating overhead to do so, but
+manage that against maybe weaker demographics that are in place for your existing portfolio?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So -- weaker demographics than our existing portfolio, we wouldn't expect to have similar demographics in more secondary or tertiary
+markets. We wouldn't expect to have the same rate growth, but we wouldn't expect to pay the same amount on a price per pound for the
+asset. So it's all about proper underwriting, getting compensated for the risk you're taking and understanding. We look at our portfolio,
+which is about 10% in tertiary markets now. We look at the performance of primary, secondary, tertiary market, how their CAGRs
+compare over rolling 10-year periods every year.
+And we understand that tertiary markets can be more volatile, but they also can provide very good returns. So I think it's about investing
+at the right basis making sure you're underwriting each deal properly, understanding that in many of those markets, you're the only REIT
+that -- we could be the only REIT that operates, which gives you somewhat of an advantage.
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Juan, the other thing I would emphasize is some of these remote assets will be in our core markets. So it's not just a tertiary market
+strategy here. This is expanding our existing footprint in what we kind of operate today as an [annex] and then running those much more
+efficiently.
+ 
+Juan Carlos Sanabria
+BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst
+And then just -- any comments on supply, I mean I would assume that you've seen delivery delays this year and maybe the -- what's
+coming on next year may be coming down as well. But just a view, again, going back to Storage Express between what the pipeline looks
+like in some of these secondary or tertiary markets that have been arguably some of the hottest housing markets in some cases and
+maybe getting outsized attention relative to history? How that risk reward is between the primary versus secondary and tertiary from a
+supply perspective?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Yes. So the first part of the question, overall, we don't have any new information or data, our view is still that storage deliveries are
+moderating, not going to 0, not dropping off the cliff, but they are moderating, there are continuing headwinds in terms of costs and
+interest rates and entitlement issues and availability of debt, and that's going to be good for the industry.
+We have not done a -- we study supply in the markets that we're active. We have not yet done a tertiary market supply analysis. We're just
+not at that stage yet. When we're ready to start growing this platform, we'll find the right markets. We'll have our guys do all the research
+they always do, and we'll make sure we understand all the dynamics of the market before we put our investors' dollars into that market.
+ 
+Juan Carlos Sanabria
+BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst
+Great. If I can sneak in one quick one on the third quarter new customer rate. How did that trend throughout the quarter? And if you
+could just give us the year-over-year changes to where [kind of to speed on what] changed and kind of what pace throughout the third
+quarter?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+So in July, we saw rates down about -- or achieved rates. This is achieved rates on new rentals. They were down about 7%, 8% in August
+and then low double digits in September. So we averaged about negative -- just about 10% negative in the third quarter.
+ 
+Operator
+Our next question comes from Spenser Allaway with Green Street.
+ 
+Spenser Bowes Allaway
+Green Street Advisors, LLC, Research Division - Senior Analyst of Net Lease, Gaming and Self-Storage
+I just wanted to go back to the topic of demand for a second. So you mentioned that demand is roughly in line with pre-COVID levels. But
+given that work from home or the decluttering cohort is a relatively new demand driver for the sector, this would seem to imply that the
+other more traditional demand drivers are contributing less than average. Am I thinking about that the right way?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So the kind of work-from-home decluttering demand, that was more of a 2020 -- [summer] 2020 into 2021, maybe experience. We're
+back to more -- today, we're back to more traditional demand drivers for new demand.
+ 
+Spenser Bowes Allaway
+Green Street Advisors, LLC, Research Division - Senior Analyst of Net Lease, Gaming and Self-Storage
+For new demand. Correct, yes. But I'm just thinking, so as we -- because I'm just looking at occupancy right across the sector, and we're
+starting to see occupancy return closer to the historic average that we've seen within the REIT portfolios for some time. And that would
+seem to suggest that, that work-from-home customer has decided to reclutter their house, right?
+So I understand that it might not be contributing to new demand. But as we think about where occupancy is trending, there's arguably a
+new user base, right, within your portfolio. So I'm just wondering how you guys kind of think about the different demands tool, I guess
+currently?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So I think you're only partially right. I think some of those work-from-home folks have stopped using storage. But I think there is a cohort
+of them that continues to use storage, and you can see that in our length-of-stay statistics, where during COVID, we had a real sharp
+increase in customers in our stores who have been with us for more than a year, more than 2 years. .
+Lately, we've seen that decline a little bit, but we're still at above historic averages. So that is telling us that some of those customers --
+just like some of every customer that comes in, some small percentage of them become that kind of permanent or quasi-permanent
+customer. And I think that happened during COVID as well.
+ 
+Spenser Bowes Allaway
+Green Street Advisors, LLC, Research Division - Senior Analyst of Net Lease, Gaming and Self-Storage
+Yes. No, that's what I'm saying, I guess. What I'm saying is I think we're saying the same thing, so that a portion of that new customer
+base, right, work-from-home is staying, which I think most of us would agree that that's the case. Then my point is that we shouldn't see
+occupancy fall back to the historic average, but should be somewhat elevated? And I was just curious if you guys agree that moving
+forward, occupancy would be perhaps slightly higher than your historic average because of that new cohort using your facilities?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Sorry if I misunderstood, but you're saying good. I'm glad we're on the same page. So I think we can operate our stores at whatever
+occupancy we want, right? We can adjust the other metrics to get there. And -- but I do agree with you. I think we learned during COVID
+that we can maximize revenue by operating stores at incrementally higher occupancy than we have historically.
+ 
+Operator
+Our next question comes from Smedes Rose with Citi.
+ 
+Smedes Rose
+Citigroup Inc., Research Division - Director & Senior Analyst
+I just wanted to ask you a little more, and I'm sorry, if maybe I misunderstood this, but in your core FFO, where you added back, I think,
+$0.05 or $0.06 associated primarily with Hurricane Ian and the uptick in tenant reinsurance or the claims. Will you, in turn, get paid back
+for those claims? Or is that sort of add back to get to your core FFO? I mean is there like basically a claim on those earnings and you
+won't be recouping them? I just wanted to understand that a little bit better.
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+So $3 million of that is losses from tenant reinsurance. So those are claims made by our customers that we'll be paying out. We're not
+getting it back. We add it back because we don't think it's part of the core number. And again, that's an estimate based on the data we
+had. Obviously, all those claims have not been filed. People are still kind of digging out down there.
+The other piece of the loss, the $3.2 million. That is for property loss and our loss number is actually higher than that because that is net
+of the estimated -- the property insurance proceeds that we think we will receive. And again, those numbers are the best guess to date.
+Go ahead.
+ 
+Smedes Rose
+Citigroup Inc., Research Division - Director & Senior Analyst
+I guess -- I mean why would you include the -- I guess the profits from the tenant reinsurance program, but you wouldn't include the
+subsequent claims from that piece of business? I mean isn't that just part of your business? I mean it's unusual, right? But I just -- I don't
+really get the add back from that portion.
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Just we didn't view it as core. We didn't view it. We viewed it as nonrecurring, much more onetime is the way we viewed it.
+ 
+Smedes Rose
+Citigroup Inc., Research Division - Director & Senior Analyst
+Okay. And then you talked about leverage being like a little skewed just because you've capitalized the Storage Express transaction, but
+we don't have the earnings from it. Have you guys talked about what you expect the first year's contribution to be on that acquisition?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+We haven't publicly. We've said that it was a market cap rate that going in was going to be lower. We felt like it was stabilized around [6]
+and the first year, obviously, lower than that, but stabilizing around 6 .
+ 
+Smedes Rose
+Citigroup Inc., Research Division - Director & Senior Analyst
+Is that stabilization time frame like 2 to 3 years? Or what's the typical?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Yes. It's in between 2 and 3 years. And it's an interesting one conceptually for me to try to understand yield, right? Because what we're
+doing is taking the cost for an entire business platform; software, people, trucks and office buildings, et cetera, et cetera, and saying the
+existing stores produce a return on all of that.
+And obviously, we didn't buy it for that. We bought it for a strategic [reason] because that platform can produce what we believe is future
+growth for us. So that's how we came up with those numbers. I wouldn't compare it to the acquisition of a building that produces a yield
+because we're really buying more than just 106, 107 buildings.
+ 
+Operator
+Our next question comes from Samir Khanal with Evercore.
+ 
+Samir Upadhyay Khanal
+Evercore ISI Institutional Equities, Research Division - MD & Equity Research Analyst
+Scott, sorry if I missed this, but maybe talk about sort of changes in the average length of stay that you may be seeing at this point here
+as we think about the ability to push rates onto the existing customers?
+ 
+P. Scott Stubbs
+Extra Space Storage Inc. - Executive VP & CFO
+Yes. We saw similar to what I think most storage operators saw and that is our average length of stay has gotten longer. If you look at our
+tenants in our properties today, 35-ish -- 34, 35 months in terms of customers that are in there today. If you look at the tenants that have
+been in our properties over 2 years, that number continues to grow. It's north of 60%. So people continue to stay longer.
+ 
+Samir Upadhyay Khanal
+Evercore ISI Institutional Equities, Research Division - MD & Equity Research Analyst
+Okay. Got it. And then just shifting to the -- I don't think we've talked about the transaction market, but maybe talk about sort of
+unlevered IRRs and targets and how much maybe cap rates have moved, given higher [interest] rates?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So the transaction market has certainly changed. Cap rates are expanding as interest rates rise, which is natural. There's fewer
+participants. We see lots and lots of deals that are not getting closed, including us. We've walked from over $526 million of deals that we
+had under LOI based on what we thought new pricing should be.
+I don't think there's really any way to say with any precision what new cap rates are, how much cap rates have expanded. We -- it's very
+deal dependent. You need to wait for -- [a lot of transaction just not occurring], we need to wait and see how it shakes out. But certainly,
+the direction is clear.
+ 
+Operator
+(Operator Instructions) Our next question comes from Ronald Kamdem with Morgan Stanley.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Just 2 quick ones. You talked about sort of the pricing that achieved pricing in 3Q and so forth, which was helpful. I'd love to move over to
+sort of ECRI. Maybe can you comment on what you guys are seeing there? Are you still pushing it as aggressively as you were historically?
+What the tenant feedback has been?
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+So COVID and the restrictions the states put on our ability to increase rents, coupled with the rise in street rates created that unusual
+situation of an extra-large gap between what street rates were and what people were paying. And we have largely made up that gap. So
+we will not see -- well, we still will see attractive ECRI going forward, we're not going to see those outsized increases that we experienced
+over the last year or so.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Great. That's helpful. And then going back -- Sorry, did I get you all.
+ 
+Unidentified Company Representative
+Nope, not at all.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Going back to the guidance, I think your opening comments, I think you talked about sort of the ranges, bear-case off the table, but
+bull-case off the table. But just sort of wondering because it's pretty unusual for you guys to do that.
+What changed, right? Over the past 3 months and so forth? Was there anything specific to cause the bull-case to be off the table? Just --
+just trying to figure out what changed when you were redoing the numbers? A little bit more color there would be helpful.
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+And I think Scott referenced earlier that after Labor Day, we saw somewhat of a change in customer behavior and a return to seasonality.
+And our kind of wider-than-normal guidance at the top end, at the bottom end had different assumptions about where that will occur.
+And now that we've seen it begin to occur, we can narrow that guidance with more comfort that we know how customers are behaving.
+ 
+Operator
+At this time, I would now like to turn it back to Joe Margolis, CEO, for closing remarks.
+ 
+Joseph Daniel Margolis
+Extra Space Storage Inc. - CEO & Director
+Thank you, and thank you, everyone, for your time today and your interest in Extra Space. If I could leave you with a couple of thoughts,
+it's that 2022 is going to be another exceptional year. Even with slowing growth in rates and very difficult comps, revenue growth is very
+strong, and we expect it to be solid in 2023 as well.
+Storage is better positioned than most, if not all asset classes to endure future inflation or [recession] or whatever type of economic
+slowdown we face. So we are very excited and confident of heading into (technical difficulty)
+ 
+Operator
+Thank you for your participation in today's conference. This does conclude the program. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

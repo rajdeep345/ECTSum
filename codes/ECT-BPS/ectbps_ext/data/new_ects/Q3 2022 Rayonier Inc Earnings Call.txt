@@ -1,0 +1,624 @@
+CORPORATE PARTICIPANTS
+ 
+Collin Philip Mings
+Rayonier Inc. - VP of Capital Markets & Strategic Planning
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+ 
+Douglas M. Long
+Rayonier Inc. - SVP of Forest Resources
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+CONFERENCE CALL PARTICIPANTS
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+ 
+Ketan Mamtora
+BMO Capital Markets Equity Research - Building Products Analyst
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+PRESENTATION
+ 
+Operator
+Welcome, and thank you for joining Rayonier's Third Quarter 2022 Teleconference Call. (Operator Instructions) Today's conference is
+being recorded. (Operator Instructions)
+Now I will turn the meeting over to Mr. Collin Mings, Vice President, Capital Markets and Strategic Planning.
+ 
+Collin Philip Mings
+Rayonier Inc. - VP of Capital Markets & Strategic Planning
+Thank you, and good morning. Welcome to Rayonier's investor teleconference covering third quarter earnings. Our earnings statements
+and financial supplement were released yesterday afternoon and are available on our website at rayonier.com. I would like to remind you
+that in these presentations, we include forward-looking statements made pursuant to the safe harbor provisions of federal securities
+laws.
+Our earnings release and Forms 10-K and 10-Q filed with the SEC list some of the factors that may cause actual results to differ
+materially from the forward-looking statements we may make. They are also referenced on Page 2 of our financial supplement.
+Throughout these presentations, we will also discuss non-GAAP financial measures, which are defined and reconciled to the nearest
+GAAP measures in our earnings release and supplemental materials.
+With that, let's start our teleconference with opening comments from Dave Nunes, President and CEO. Dave?
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Thanks, Collin. Good morning, everyone. First, I'll make some high-level comments before turning it over to Mark McHugh, Senior Vice
+President and Chief Financial Officer, to review our consolidated financial results. Then we'll ask Doug Long, Senior Vice President,
+Forest Resources, to comment on our U.S. and New Zealand Timber results. And following the review of our timber segments, Mark will
+discuss our Real Estate results as well as our outlook for the remainder of 2022.
+Before discussing our results for the quarter, I'd like to first highlight the acquisitions in the U.S. South that we announced yesterday
+afternoon concurrent with our earnings release. Specifically, we announced that we've entered into 2 separate agreements to acquire
+approximately 172,400 acres of high-quality commercial timberlands located in Texas, Georgia, Alabama and Louisiana for an aggregate
+purchase price of $474 million from Manulife Investment Management, a leading timber investment manager.
+Approximately 80% of the acreage consists of fee ownership, while the remaining 20% consists of a long-term lease. We are very excited
+about these additions to our portfolio as they comprise a well-stocked and highly productive timberlands located in some of the
+strongest market -- timber markets in the U.S. South. It's extremely rare to come across an acquisition opportunity with this unique
+combination of quality, scale and fit with our existing portfolio.
+For the acquired fee lands, 72% are plantable with an average expressed site index of 73 feet. This translates to a sustainable yield of
+approximately 670,000 tons per year or 4.8 tons per acre per year which is well above industry average productivity levels. The fee
+properties also have a mature age-class profile and an extraordinarily high level of merchantable timber inventory. The average
+plantation age is 18 years and the average stocking is 54 tons per acre, of which 66% is grade product.
+Based on these factors, along with the expected contribution from the leased properties, we anticipate an annual average harvest level of
+approximately 860,000 tons from the acquisitions over the next decade and an increase in our U.S. South sustainable yield of 11% to 7
+million tons per year.
+In addition to strong productivity characteristics and inventory stocking, the properties are also located in some of the best markets in the
+U.S. South. Specifically, based on TimberMart South composite stumpage pricing, the acre weighted average market ranking of the
+acquisitions is 4.9 out of 22 markets, representing an average composite price that is roughly 30% above the median composite price in
+the U.S. South in the third quarter of 2022. Putting all of this together, we expect that the acquisitions will contribute average annual
+adjusted EBITDA of roughly $25 million to our Southern Timber segment over the next 10 years with additional upside potential from
+higher and better use real estate sales and natural climate solutions.
+This represents a timber only EBITDA multiple of 19x, which compares favorably with public market trading multiples, the implied
+multiple on the NCREIF Timberland Index and multiples which we've seen other U.S. South assets transact recently. We expect to close
+the acquisitions before year-end, and we anticipate financing the acquisitions with cash on hand as well as a $250 million term loan
+through the Farm Credit system.
+As discussed in the past, our strategy to acquire high-quality properties located in strong markets, as we believe this improves optionality
+and ultimately contributes to better long-term financial returns. Following these acquisitions, our U.S. South timberland portfolio will
+total 2 million acres of which 72% will be in the top quartile markets as measured by TimberMart-South composite stumpage pricing.
+We believe that the U.S. South overall is well positioned to capture increased market share of North American lumber production as well
+as global fiber and wood chip markets. We further believe that the strongest regional markets in the U.S. South are well positioned to
+capture favorable relative pricing gains for both sawlog and pulpwood products going forward, given their competitive and diverse
+customer mix, balanced timber inventories relative to demand and strong pricing tension.
+In sum, we believe that these acquisitions represent an excellent fit with our capital allocation strategy and a compelling use of our
+balance sheet capacity. We look forward to integrating the properties into our portfolio and managing them for long-term value creation.
+Now I'd like to switch gears and discuss our third quarter results. We achieved earnings per share of $0.15 and adjusted EBITDA of $65
+million in the third quarter. Adjusted EBITDA was 44% below the prior year quarter as 2 significant development transactions drove
+exceptionally strong real estate results in the prior year period.
+Notably, total adjusted EBITDA in our timber segments increased 14% versus the prior year quarter as favorable results in our Southern
+Timber segment more than offset a lower contribution from our New Zealand Timber segment. Drilling down further on our Operating
+segments, our Southern Timber segment generated adjusted EBITDA of $37 million in the third quarter, which was 50% above the prior
+year period.
+Weighted average net stumpage realizations increased by 18%, driven by strong demand for both pulpwood and sawtimber, while
+favorable logging conditions further contributed to a 27% increase in harvest volumes. More broadly, our Southern Timber segment
+continued to benefit from our concentration and scale in some of the most tensioned log markets across the U.S. South as well as strong
+contractor relationships which have allowed us to successfully navigate a challenging supply chain and cost environment.
+In our Pacific Northwest Timber segment, we achieved adjusted EBITDA of $13 million up 1% from the prior year quarter. The
+year-over-year increase was primarily attributable to 13% higher weighted average log prices, partially offset by higher costs and an 11%
+reduction in harvest volumes. Our operations in the region continued to benefit from favorable supply-demand dynamics as domestic
+lumber markets, export markets and pulpwood markets competed for a limited supply of logs.
+In sum, our U.S. Timber segments continued to generate strong financial performance and pricing gains in the third quarter, driven by
+favorable end market demand as well as localized supply tension and both segments remain on pace to achieve record full year adjusted
+EBITDA.
+Conversely, our New Zealand Timber segment continues to contend with a challenging operating environment particularly in the export
+market. Third quarter adjusted EBITDA of $16 million declined 22% from the prior year period. While port inventories in China have
+gradually declined to a more normalized level, demand continues to be constrained by lockdown measures in response to COVID-19
+outbreaks as well as a slowdown in the construction market.
+In our Real Estate segment, we generated adjusted EBITDA of $8 million, down from $64 million in the prior year period as the prior year
+period benefited from the closing of 2 significant development transactions. While we expect that the timing of land sales will remain
+lumpy quarter-to-quarter, we remain encouraged by the continued strong pricing for rural land in our markets as well as the positive
+momentum across both our Wildlight and Heartwood development projects.
+As Mark will discuss in greater detail later in the call, we remain on track to achieve our full year adjusted EBITDA guidance of $310
+million to $330 million with our Southern Timber and Pacific Northwest Timber segments, both expected to post record years in 2022.
+With that, let me turn it over to Mark for more details on our third quarter financial results.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Thanks, Dave. Let's start on Page 5 with our financial highlights. Sales for the third quarter totaled $195 million, while operating income
+was $41 million and net income attributable to Rayonier was $21 million or $0.14 per share. On a pro forma basis, net income was $22
+million or $0.15 per share after adjusting for a $1.1 million timber write-off related to a fire in Washington.
+Third quarter adjusted EBITDA was $65 million, down considerably from $115 million in the prior year period, which, as Dave mentioned,
+was driven by an exceptionally strong real estate contribution in the prior year period. On the bottom of Page 5, we provide an overview
+of our capital resources and liquidity.
+Our cash available for distribution, or CAD, for the first 9 months of the year was $159 million versus $204 million in the prior year period.
+The decrease was primarily driven by lower adjusted EBITDA, higher cash interest paid, higher cash taxes and higher capital
+expenditures. Note that cash taxes were elevated in the first 9 months of the year due to the required timing of estimated tax payments
+for our New Zealand subsidiary following the full utilization of its NOLs in 2020. A reconciliation of CAD to cash provided by operating
+activities and other GAAP measures is provided on Page 8 of the financial supplement.
+We closed the third quarter with $261 million of cash and $1.3 billion of debt. Our net debt of approximately $1 billion represented 18% of
+our enterprise value based on our closing stock price at the end of the third quarter. As Dave noted, we anticipate closing on a new
+5-year $250 million term loan through the Farm Credit system in the fourth quarter to partially fund our pending acquisitions. The
+balance will be funded with cash on hand, including $16 million of restricted cash earmarked for like-kind exchange. We expect to swap a
+portion of the new term loan to fixed. Taking into account the new term loan spread over SOFR, estimated patronage payments and
+estimated swap rates, we expect that the all-in effective cost of the new term loan will be in the range of 4.5%.
+On a pro forma basis, this should translate to a total weighted average cost of debt of approximately 3% and a weighted average
+maturity on our debt portfolio of approximately 6 years. Following the completion of the acquisitions, we expect to maintain liquidity of
+approximately $350 million, including $300 million from our revolving credit facility and approximately $50 million of remaining cash on
+hand.
+I'll now turn the call over to Doug to provide a more detailed review of our third quarter Timber results.
+ 
+Douglas M. Long
+Rayonier Inc. - SVP of Forest Resources
+Thanks, Mark. Good morning. Let's start on page 9 with our Southern Timber segment. Adjusted EBITDA in the third quarter of $37
+million was $12 million above the prior year quarter. The year-over-year improvement was primarily driven by a significant increase in net
+stumpage pricing, higher harvest volumes and higher non-timber income partially offset by higher overhead and other costs. Strong
+customer demand and drier weather conditions across most of our operating areas allowed us to execute on our harvest plan with
+volume increasing 27% versus the prior year quarter.
+Average sawlog stumpage pricing was roughly $33 per ton, a 19% increase compared to the prior year period. The improved pricing
+reflects robust demand from sawmills which continued to benefit from healthy margins as well as competition for chip-n-saw volume
+from pulp mills.
+Pulpwood net stumpage pricing also improved significantly from the prior year quarter, increasing 19% to nearly $23 per ton. This
+increase was driven by a favorable shift in our geographic mix versus the prior year period, coupled with strong end market demand and
+competition among mills to secure supply. Overall, weighted average stumpage prices improved 18% year-over-year to nearly $26 per
+ton.
+We continue to believe there has been a step change in log prices in many of our markets as compared to the past several years. That
+said, we have also seen our net stumpage realizations moderate in certain markets relative to early 2022 as mill inventories have
+normalized and higher costs have compressed margins on delivered log sales.
+As previously discussed, Southern log exports remain constrained by the Pine Wood Nematode policies implemented by China earlier
+this year. For now, our U.S. South log export program has pivoted to Vietnam and India. And while we are excited about the potential to
+further expand our presence in these markets over the long term, both are relatively small markets compared to China currently.
+Also of note, third quarter non-timber sales of $7 million were up over $1 million versus the prior year quarter.
+Moving to our Pacific Northwest Timber segment on Page 10. Adjusted EBITDA of $13 million was similar to the prior year quarter as
+higher net stumpage realizations and non-timber income were largely offset by lower harvest volumes and higher costs. Volume
+declined 11% in the third quarter as compared to the prior year quarter due to constraints around contractor availability as we lost 1 crew
+to early retirement and let another crew go that was not meeting our safety expectations.
+At nearly $118 per ton, our average delivered sawlog price during the third quarter was up 10% from the prior year quarter, driven by
+continued strong demand from domestic lumber mills as well as a favorable species mix with a higher proportion of Douglas-fir volume.
+Meanwhile, third quarter pulpwood pricing of $51 per ton climbed 62% over the prior year quarter, reflecting strong end market demand
+coupled with supply constraints due to fewer residuals and increased competition from pulp mills or a limited supply of smaller-sized
+logs. Overall, we've been very encouraged by the trajectory of pulp wood prices in the Pacific Northwest over the past several quarters.
+Moving to New Zealand. Page 11 shows results and key operating metrics for our New Zealand Timber segment. Adjusted EBITDA in the
+third quarter of $16 million was $4 million below the prior year quarter. The decline in adjusted EBITDA compared to the prior year
+quarter was largely driven by lower net stumpage realizations and higher costs, partially offset by higher carbon credit sales, higher
+harvest volumes and favorable foreign exchange impacts.
+Average delivered export sawtimber prices of $123 per ton declined 18% as compared to the prior year quarter, reflecting reduced
+demand from China. While we've been encouraged by the gradual reduction of log inventory levels in China, offtake from ports has
+remained weak due to COVID-19 containment disruptions and weaker construction activity. Most sawmills are running well below
+capacity due to lack of new orders and are reluctant to build inventory in the current market environment. Furthermore, the Chinese yuan
+has depreciated against the U.S. dollar, making all U.S. dollar-denominated imports, including our logs, more expensive. Collectively,
+these factors will likely continue to negatively impact export log demand in our New Zealand business for the balance of the year.
+Despite these near-term headwinds, we expect that log inventories in China will continue to normalize which should ultimately translate
+to a gradual improvement in export pricing. Longer term, we remain optimistic that ongoing supply side constraints, including a reduced
+flow of European salvaged logs into China, the continued ban on Australian log imports by China and the ban on Russian log exports,
+which commenced at the beginning of this year, will collectively translate to a more favorable export market backdrop once demand
+picks back up.
+Shifting to the New Zealand domestic market, demand has remained relatively steady due to strong construction backlogs, although the
+framing and industrial markets have started to cool more recently. Despite relatively favorable market conditions, domestic sawtimber
+prices declined 18% versus the prior year quarter, largely driven by a sharp decline in the New Zealand dollar / U.S. dollar exchange rate.
+Excluding foreign exchange impacts, domestic saw timber prices decreased 8%, reflecting weaker competition from the export market.
+Domestic pulpwood prices in New Zealand were likewise impacted by foreign exchange rates--, declining 24% on a U.S. dollar basis
+compared to the prior year quarter.
+Excluding foreign exchange impacts, domestic pulpwood prices declined 14%, reflecting less competition from export markets for
+lower-quality logs. While log markets in New Zealand have been challenging, non-timber income in New Zealand, which primarily
+reflects carbon credit sales has continued to bolster our financial results generating $6.4 million of revenue in the third quarter.
+Our decision last year to defer the sale of carbon credits has paid off as carbon pricing has increased above 2021 average pricing levels.
+Going forward, we plan to remain opportunistic in our sale of carbon credits depending on carbon market conditions and our pricing
+expectations.
+Lastly, in our Trading segment, we posted a slight operating profit in the third quarter. As a reminder, our trading activities typically
+generate low margins and are primarily designed to provide additional economies of scale to our fee timber export business.
+I'll now turn it back over to Mark to cover Real Estate results. Mark?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Thanks, Doug. As detailed on Page 12, following a strong first half of the year and consistent with our expectations, the contribution from
+our Real Estate segment was relatively light during the third quarter. Real Estate sales totaled $12 million on roughly 1,800 acres sold at
+an average price of nearly $5,100 per acre. Our real estate results also benefited from a $4.5 million gain attributable to Rayonier from
+the sale of a multi-family apartment complex in Bainbridge Island, Washington which was held in a joint venture acquired as part of our
+merger with Pope Resources in 2020.
+In total, Real Estate segment adjusted EBITDA in the third quarter was $8 million. Drilling down, Sales in the improved development
+category totaled $2 million.
+In our Wildlight development project north of Jacksonville, Florida, we closed on $800,000 of sales during the quarter, consisting of 13
+residential lots for an average base price of roughly $65,000 per lot. In our Heartwood development project, south of Savannah, Georgia
+we closed on $1.5 million of sales during the quarter, consisting of 10 residential lots at an average base price of roughly $44,000 per lot
+as well as a 15-acre commercial health care site for roughly $67,000 per acre. The sale of the health care site is notable as it is the first
+takedown by St. Joseph's Candler for a multiphase medical campus, which we expect will grow over time. We believe collaborating with a
+high-quality healthcare provider early in the development of Heartwood offers a number of strategic benefits and will serve as another
+catalyst for this project.
+Overall, we are encouraged by the momentum that continues to build across our Wildlight and Heartwood development projects and
+expect that both projects will continue to benefit from favorable migration and demographic trends as well as relatively affordable price
+points.
+Turning to the rural category, sales totaled $7 million, consisting of approximately 1,800 acres at an average price of roughly $3,800 per
+acre. While we are encouraged by the strong pricing and HBU premiums that we've continued to generate in our rural land sales
+business, we are starting to see indications that some rural buyers are hesitant to transact given the increase in interest rates and recent
+financial market volatility. That said, we continue to see solid demand from cash buyers that are not reliant on mortgage financing.
+Overall, we continue to expect that the space, privacy and recreational opportunities offered by rural properties will continue to attract
+buyers in a post-pandemic environment.
+Now moving on to our outlook for the balance of the year. As noted in our earnings release, we are on track to achieve our prior full year
+adjusted EBITDA guidance of $310 million to $330 million. With respect to our individual segments, in our Southern Timber segment, we
+still expect full year harvest volumes consistent with the 6.4 million to 6.6 million ton range we provided in August.
+While we remain encouraged by the step change in pricing that we've registered across most of our operating areas in the U.S. South, we
+expect that our weighted average log pricing will soften a bit in the fourth quarter as compared to the third quarter. Overall, we continue
+to expect record full year adjusted EBITDA in our Southern Timber segment with results in line with our prior guidance range of $156
+million to $162 million. Note that this guidance does not reflect any contribution from the pending acquisitions that Dave discussed
+earlier.
+In our Pacific Northwest Timber segment, we now expect full year harvest volumes toward the lower end of the 1.6 million to 1.7 million
+ton range we provided in August. While we have seen some pullback in log pricing in response to the decline in lumber prices, we expect
+continued favorable pricing for both pulpwood and sawtimber in the fourth quarter as compared to the prior year, albeit partially offset
+by ongoing cost pressures.
+Similar to our Southern Timber segment, we continue to expect a record year in our Pacific Northwest Timber segment with adjusted
+EBITDA towards the higher end of our prior guidance of $59 million to $63 million.
+In our New Zealand Timber segment, we now expect full year harvest volumes toward the lower end of the 2.6 million to 2.7 million ton
+range we provided in August. As Doug discussed, while log inventory levels in China have been trending lower, demand remains
+constrained due to various headwinds. Accordingly, we now expect full year adjusted EBITDA toward the lower end of our prior guidance
+of $55 million to $60 million.
+In our Real Estate segment, we expect full year adjusted EBITDA toward the lower end of our prior guidance range of $74 million to $79
+million, primarily due to the delayed timing of a few transactions as well as a modest slowdown in rural land sales activity.
+I'll now turn the call back to Dave for closing comments.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Thanks, Mark. Overall, I'm encouraged by our third quarter results, particularly given the challenges presented by ongoing cost
+pressures, the recent slowdown in U.S. housing market and continued headwinds in China as it relates to our export business. Despite
+these challenges, our U.S. Timber segments remain on track to deliver another record year in 2022. We believe these results continue to
+underscore the relative strength of the markets in which we operate as well as our commitment to active portfolio management and the
+operational flexibility afforded by our pure-play timber REIT model. Moreover, we expect that our pending U.S. South acquisitions will
+further bolster our competitive positioning.
+Our Southern Timber segment has historically been the most stable component of our cash flow profile and more recently, has also been
+the fastest-growing component. Despite the slowdown in the housing market over the near term, we believe the addition of significant
+lumber manufacturing capacity in the region leaves the U.S. South very well positioned for long-term pricing and cash flow growth,
+particularly in our core markets where we enjoy uniquely favorable supply-demand dynamics. As such, we're very excited to be in a
+position to deploy capital to meaningfully expand our presence and sustainable yield in the region.
+In addition to our focus on achieving important financial goals and ongoing portfolio management activities, we also continued to
+advance initiatives related to emerging opportunities associated with ecosystem services and natural climate solutions as well as the
+disclosure of our environmental, social and governance practices.
+To this end, we released our 2021 sustainability report and supplemental carbon report in August. All said, I'm very pleased with how our
+teams continues -- how our team continues to come together to maximize the potential of our existing assets, evaluate and execute on
+growth opportunities and navigate an ever-evolving economic landscape in an effort to build long-term value for our shareholders. This
+concludes our prepared remarks, and I'll now turn the call back over to the operator for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Anthony Pettinari from Citi.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+On the Southern Timberlands acquisitions, the 5% EBITDA yield that you estimate does that assume a certain level of log price
+improvement over the next decade? Is it low single digits or maybe something higher given the strength that you've seen recently? And
+then I'm just wondering, is it possible to talk overall when you look at the overall Timberlands market, sort of how Timberland cap rates
+have responded to the higher rate environment to the extent you have any sort of general observations there?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Sure, Anthony. This is Mark. I'll take that. I mean as it relates to the forecast for EBITDA for the acquisitions, we didn't assume any
+material price improvement from current levels. I mean we've essentially modeled the acquisition on kind of a 2- or 3-year look back in
+terms of where our average pricing has been and then kind of rolled that forward more just sort of a base inflationary rate to kind of get
+to a nominal forecast. But we haven't assumed any lift from current pricing. And in fact, I think we modeled it below where current
+pricing has been in this year because that's obviously been significantly elevated relative to prior couple of years. As it relates to timber...
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+I'm sorry. Please go ahead.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+As it relates to timber cap rates, as we think about timber values and just kind of the impact of the current inflationary environment, I
+guess I'd make a couple of observations. Timberland is generally viewed as a very effective inflation hedge. And somewhat related to that
+is that timberlands are generally valued on a long-range DCF basis using real rather than nominal discount rates. I mean if you look back
+over the last 20 or 30 years, U.S. South timberlands have very consistently been valued at around a 2.5% EBITDA cap rate, and that's
+really been irrespective of where interest rates have been at any point in time.
+So to some extent, I think this reflects the notion that timberland is going to deliver kind of a base real return plus some inflationary
+component of return over the long term. So to the extent that the higher rates we're seeing today are reflective of higher inflation
+assumption, I'd argue that that's not necessarily going to impact timberland cap rates to the same extent, certainly not on a one-to-one
+basis relative to market interest rates. 10-year TIPS yield is currently around 1.5%. It's moved up significantly in the last couple of months,
+but not significantly elevated from a longer-term historical perspective. So I'd say that the values that we've seen in recent timberland
+transactions have certainly suggested that we have not seen an increase in cap rates, if anything, I think cap rates have continued to
+compress. And I think to some extent, that's reflective of the perceived carbon optionality that's embedded within timberlands today.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Yes. And Anthony, if I could just tack on to that. I mean, you sort of hit on the key issue on this, which is really strong cash flow properties
+from this. And that's based on strong markets, really good productivity from both the soils and percent plantable but then also very high
+stocking level at 54 tons per acre on the fee lands and on an average age of 18. So it's a very unique property in that respect. And you end
+up -- that ends up driving out $145 of EBITDA per acre. And that is substantially higher than our already sector-leading returns that we
+did last year of $68 of EBITDA per acre.
+And with our anticipated 2022 performance where we see a 30% improvement that gets you to $89 of EBITDA per acre. And those
+compare to NCREIF averages over the last 5 to 10 years that are in the $45 to $50. And so it's just very much a unique asset from a cash
+flow generating standpoint. And then on adding on top of that is just the fit relative to our existing footprint, which gives us lower
+execution risk, lower overhead costs in terms of managing it. And we really don't think you could have dialed in a better fit with our asset
+base and our desire to go after quality than this.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+Okay. That's very helpful. And those log price assumptions on the acquisition seem very conservative given the strength that you're
+seeing in the South. Maybe if I could just sneak one, last one in. On leverage, so you'll be below 4.5 turns on a pro forma basis and you
+don't have any maturities for a number of years. I'm just wondering if you could talk about sort of capital allocation into '23 and maybe
+the opportunity to deleverage given we may be in a tougher housing environment.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes, sure Anthony, this is Mark. I'll take that. As we think about capital allocation going forward, we're certainly going to be at a higher
+leverage level post these acquisitions than we've been at for the last 18 months or so. I'd say in the wake of the Pope Resources merger,
+we had taken leverage up to a level that was actually above kind of where we're going with this transaction but we are able to delever
+pretty effectively thereafter through large dispositions as well as our at-the-market equity offering program that we put in place in late
+2020. So we continue to believe that we have a lot of levers at our disposal to manage the balance sheet.
+And so while we're going to be more limited from a capital allocation capacity standpoint, post these transactions, we still feel pretty
+good about where the balance sheet is at. Obviously, all of our debt was fixed we're entering into a new $250 million term loan to
+partially fund this acquisition. Obviously, in a higher interest rate environment, so our weighted average cost of debt will go up modestly
+from 2.7% to around 3%, but still very attractive overall cost of debt and very -- still very attractive and conservative balance sheet from
+our vantage point.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+I'd also add that we have a fair bit of flexibility to kind of work on that, and that's something that's in our playbook in terms of things that
+we can do, levers we can pull to try to bring that down. It's part of the reason why we left some of that debt floating, just giving ourselves
+a little bit of flexibility going forward.
+ 
+Anthony James Pettinari
+Citigroup Inc., Research Division - Director & US Paper, Packaging & Building Products Analyst
+Okay. That's helpful. I'll turn it over.
+ 
+Operator
+Our next caller is Ketan Mamtora from BMO Capital Market.
+ 
+Ketan Mamtora
+BMO Capital Markets Equity Research - Building Products Analyst
+First question on China. The weakness that you're seeing, are you seeing signs of stabilization in terms of the demand trends you are
+seeing? Or are you seeing trends worsening there?
+ 
+Douglas M. Long
+Rayonier Inc. - SVP of Forest Resources
+Ketan, this is Doug Long. I'll take that one. With the COVID lockdowns, it's very hard to basically focus on the trends that are happening
+because you never know at any point in time where things are going. But we have seen a gradual reduction the current inventories at 3.7
+million cubic meters at the end of October, which is about 800,000 cubic meters less than September. And so we're kind of seeing a
+balance here now, which is good to see of the incoming and the outgoing basically. And so radiata pine inventory is around 2.8 million,
+which is about 70,000 cubic meters less than last month.
+So like I said, it's fairly balanced, but the demand has softened over the year, and it really does depend on whether these lockdowns
+impact us or not. So I'd say the COVID lockdowns are hard to predict, and they really do exacerbate the economic slowdown right now,
+but we are at a supply balance right now, which is a good thing, and we do see it gradually coming down. So I think the good thing is that
+the incoming volume has actually been less than the demand. So we're seeing that balance come down. So I think it's positive, and we're
+just waiting for this COVID-lockdown to open up and hopefully see some restocking and things happen from there.
+ 
+Ketan Mamtora
+BMO Capital Markets Equity Research - Building Products Analyst
+Got it. That's helpful, Doug. And then switching to the M&A landscape again. So in general, are you guys seeing kind of increased
+interest in sort of M&A sort of opportunity here? I mean, just yesterday, there was a pretty big announcement of an acquisition focused
+mostly to capture the carbon offset market. So are you seeing signs that these kind of alternative revenue streams are starting to get
+priced into sort of valuation?
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+This is Dave. I don't think that we're explicitly seeing that priced into transactions as much. I do think that we are seeing an increased
+flow of capital into the space with that as a consideration. And so I think from our vantage point, we see that probably having more of an
+effect of having compression in the discount rate to factor in that -- that additionality that you have. And keep in mind, carbon prices are
+still very low. And so I don't think that they're high enough for folks to explicitly factor that in from a valuation standpoint. But I think
+more and more people are thinking about that as an option that they have going forward as they look at new acquisition opportunities.
+And we certainly do as well. I mean, we factor that into our thinking, but it's not really moving the needle from a pricing perspective at
+this juncture.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Ketan, then it's not really just the carbon value in forests. It's really the whole range of opportunities that exist around competition for
+land use and competition for fiber. So be it solar installations or carbon capture and storage opportunities, sustainable aviation fuels,
+bioenergy, wood pellets, just the whole range of opportunities that exist for timberlands as we enter a trajectory towards a low-carbon
+economy. And so I think it's -- we tend to kind of focus just on the carbon, but I think there are a whole range of other opportunities
+around ESG and decarbonization that have impacted timberland -- or the perception of timberland values.
+ 
+Ketan Mamtora
+BMO Capital Markets Equity Research - Building Products Analyst
+Got it. That's very helpful. I'll turn it over.
+ 
+Operator
+(Operator Instructions) Mark Weintraub with Seaport Research Partners.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+First question, the $25 million EBITDA over the next 10 years, is that something you expect to be getting to pretty quickly? Or is that
+something that's going to ramp up over time? And maybe similarly, and speaking to the harvest the 860,000 tons on average over the
+next 10 years, similar. Is that something you expect to getting quickly? Or is that something that ramps up over time?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes. We would actually expect to get to that very quickly, Mark. These are very well-stocked properties with a very mature age class, an
+average plantation age of 18 years, which is kind of a well-above average. And so we would expect to get to that pretty much right out of
+the gate.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+Okay. Great. And has it been -- has the harvest volumes been at those levels in the last couple of years? Or is this a step-up from where
+harvest levels had been?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+I can't speak to where the harvest volumes have been. We don't generally -- when we're underwriting timberland acquisitions, it tends to
+be very much forward-looking and not necessarily backwards looking. And so generally speaking, though, when you see properties like
+this that are very well stocked, it's because they've been operating below a sustainable yield for some period of time to allow for that
+inventory stocking. So again, I don't have a great sense of where they've been from a harvest standpoint over the last 3 to 5 years. But we
+-- modeling kind of where the inventory stands today, we have a very good sense of where they'll be in the next 5 to 10 years.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+And Mark, that's another reason why it's important to understand sort of the markets that you're in. Sometimes you'll see a property that
+has higher stocking, but it might be for a very good reason that they've got weak markets. And in this case, these are markets that we
+operate in currently we're very familiar with them. We're very familiar with the downstream customers. And so we have a lot of
+confidence from an execution risk standpoint on the ability to bring that volume to market. And so that's where -- that familiarity is pretty
+important. But yes, we're getting started. And I wouldn't expect much this year because this isn't going to likely close until pretty close to
+the end of the year. But certainly, we expect to come out of the gates in 2023, right? And...
+ 
+Douglas M. Long
+Rayonier Inc. - SVP of Forest Resources
+I would just add to that, that just since the announcement, we've seen quite a bit of interest already and wanting to know how we're
+going to manage the property and if we're going to have stumpage sales because during the sales process, the harvest had been wind
+down. So to Dave's point, there's not a lot of contracts to take over when we do close. But there's already been significant customer
+demand in a very short period of time wanting to know when sales will resume off the property. So I do believe to Mark's point earlier that
+going into the new year, we'll be able to move pretty quickly.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+That's helpful. That's exactly kind of what I was trying to understand. And then lastly, if we think about this from a CAD perspective so if
+we start with our $25 million or so of EBITDA. As you think about the CAD, what are the offsets? And so what do I end up with as a likely
+CAD.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Mark, I guess there are couple of different ways to look at that. I mean, obviously, part of the transaction is being financed with a new
+$250 million term loan that will have sort of a known cost attached to that and the balance is being funded with cash on hand. A couple
+-- the ways that we kind of thought about the CAD accretion. One way to look at it would just be to apply kind of opportunity cost of that
+cash. We could invest that cash in interest-bearing securities and we'd get a known return on that, but we wouldn't get any inflation
+protection.
+Another way to look at it is that cash on hand was largely raised through the ATM program at an average price of about $36.50 a share.
+And so as we kind of thought about the CAD per share accretion, we really thought of that as equivalent to equity issuance. That a
+portion of the deal was essentially funded with equity issuance through the ATM program. And on that basis, it's modestly CAD accretive
+on a per share basis.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+Okay. And I assume relatively minimal capital-type needs against the $25 million?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes, I'd say that they're fairly typical for what we would see for Southern Timberland. So it's going to be in the range of the kind of CapEx
+per acre that we would see for existing portfolio, perhaps a bit higher kind of at the front end because obviously, when you're harvesting
+more heavily, you have higher reestablishment CapEx but generally in line with the rest of our portfolio.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+Great. And 1 last one. On the ATM, do you -- are you able to execute on that immediately? Does this transaction have to be closed before
+the ATM can be reenergized?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Well, I mean, essentially, we had an ATM program authorization that was put in place in 2020 that we're largely through at this point.
+We've raised $299 million under the $300 million authorization that we had in place at the time.
+ 
+Mark Adam Weintraub
+Seaport Research Partners - MD & Senior Research Analyst
+Okay. So you'd have to issue a -- have a new one. Can you share with us if you're planning to do another ATM? And how you felt about
+that as a way of raising capital?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes. I mean I think from an SEC standpoint, I can't really comment on any prospective offerings.
+ 
+Operator
+Our next caller is Paul Quinn with RBC Capital Markets.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Just a question around the acquisition and congratulations. But just trying to break out this lease. My understanding is the South Georgia
+property that's got 8 years left on the lease. So I'm just wondering where that additional 860,000 tons go for the next 10 years? What's
+the volume breakdown over the following 10 years?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes. We haven't provided a specific volume breakdown. There could be some sensitivity around that specifically, but recognize that we
+provided some information around the value attribution to that lease. And so it was roughly 3.5% or 4% of the overall value in the
+transaction. And so I wouldn't say that it's a significant driver of EBITDA and cash flow kind of given that value attribution to the lease.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Okay. So the 3.5% to 4% value attributed to the lease. How do you get to that?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+If you look at the supplemental presentation that we put out, it provides some information in terms of the value ascribed to the lease
+versus the value ascribed to the fee properties. So it's about $500 per acre that's in the lease and about $3,300 per acre that was in the
+fee properties.
+ 
+Paul C. Quinn
+RBC Capital Markets, Research Division - Director of Paper and Forest Products & Paper and Forest Products Analyst
+Okay. That's helpful. And is the inventory stocking materially different in the lease stuff as opposed to fee simple?
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+Yes, the inventory stocking is different in the lease. I mean, generally speaking, when you have these long-term timberland leases, you
+have to manage them to a certain kind of endpoint in terms of average plantation age or average stocking. But generally speaking, the
+fee properties, I would say, are much more heavily stocked than the lease properties.
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+Okay. Great. That's all I had. Best of luck.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Yes. And Paul, that was one of the reasons that we said-- if you sort of spend some time in that supplemental deck, we wanted to make
+sure that we segregated the attributes of those just so people could understand them a little bit better.
+ 
+Operator
+Our next caller is Buck Horne with Raymond James.
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+I was just wondering if you could maybe characterize how competitive the bidding process was for this particular deal, kind of what you
+were seeing out there in the marketplace? Was there anything specific to your bid that made it more or less attractive to Manulife?
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+I mean that's -- I can't speak for Manulife or their -- or their client base. I think that we had the benefit at some level of participating in a
+number of transactions this year and getting a sense based on our own bidding relative to successful bids as to where the market was.
+And as you know, there were a couple of transactions by our peers that we looked at very closely, and it's one of the reasons in our
+supplemental materials we've sort of laid some of that out on a side-by-side basis. So we had a -- we had a general sense of kind of
+where the market was. And we always have some feel for where the capital flows look and where people have particular interest in
+particular geographies. And you look at a footprint of an asset and you're going to have a sense of what players might be interested in
+different pieces of that. And so that's something that we do every time there's a transaction that's out there.
+ 
+Mark D. McHugh
+Rayonier Inc. - Senior VP & CFO
+I think it's fair to say, Buck, that it was -- this is a highly coveted asset. It's an extraordinarily high-quality asset that I'm sure many parties
+were interested in.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Yes. And I think from our standpoint, it's easily once a decade or once a couple of decade type of opportunity to have something that's
+that good of a fit with your existing footprint and in our minds, kind of it was, to Mark's point, probably the premier offering this year and
+was sort of well regarded that way.
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+All right. Very helpful. Appreciate the color there. And I'm curious how you're thinking about sawtimber pricing looking ahead versus the
+pulpwood market? Housing is probably in for a rough spell here with mortgage rates where they're at, lumber prices seem to be relatively
+stable, but could that lead to some softness in sawtimber pricing. And I'm curious how you think pulpwood will hang -- or manage
+through the soft housing environment? Could it remain more resilient during this tough economic period?
+ 
+Douglas M. Long
+Rayonier Inc. - SVP of Forest Resources
+Yes, I'll take it, this is Doug. You're right. I mean, we've seen a little bit of softening in the lumber markets, but it's -- there's a couple of
+things. One, as we've talked about before, the fast increases that we've seen possibly in the lumber market hasn't flowed all way back to
+the timberland owners and vice versa, it is muted coming back down the other way.
+So it hasn't been a drastic swing like we've seen in lumber pricing. And there's a lag effect that does happen through there. But we have a
+strong pulpwood markets can help provide a floor to kind of offset reduction in sawlog demand. And it's really due to that natural hedge
+of residuals. So if lumber demand slows down, there's fewer chips on the market, and then we have opportunity for more pulpwood kind
+of to your point.
+And another thing that's kind of new that we haven't seen in the past necessarily when we've had kind of some reductions like this and
+that's the strengthening pellet demand. And just this year in 2022, it's expected to be up about 11% or 4.7 million tons across the globe,
+which is pretty significant. And then they're forecasting another 4 million tons in 2023. So a lot of growth in pellets and that's helping
+basically also to hedge some of the softness we're seeing.
+And for the first time, we're seeing pellets exported from the U.S. South to Asia, and that's new this year, the first shipments of that and
+we're currently tracking about 3.2 million tons of new capacity builds in pellets in the U.S. South. So there's some underlying strength in
+there in the pulpwood that we believe that will help offset if there's any of that. But like I said, right now, we haven't seen any real
+structural shifts in sawlogs, both in the Northwest or the South. We have seen some weakening in pricing, but at the same point in time,
+particularly in the Northwest, we've seen pulp really climb and really is offsetting that sawlog [pricing] that we're seeing right now.
+ 
+David L. Nunes
+Rayonier Inc. - President, CEO & Director
+Buck, the other thing I'd add to that in the context particularly of this -- these transactions is that keep in mind that the U.S. South has a
+material cost advantage relative to other producing regions for lumber. And so even in a declining lumber environment, we feel that the
+U.S. South is very well positioned to gain market share. And we've tried to lay some of that out in our supplemental deck looking at both
+that relative cost position, but also looking at scenarios where even with a substantial decrease in new home construction, you're still
+going to see U.S. South softwood lumber production that was equivalent to where we were in the pre-pandemic level back in 2019. And
+so that was something that gave us some comfort from a risk mitigation standpoint as we thought about those -- as we thought about
+those market conditions going forward.
+ 
+Operator
+Thank you. There are no further questions at this time. I'll now turn the call back over to Collin.
+ 
+Collin Philip Mings
+Rayonier Inc. - VP of Capital Markets & Strategic Planning
+All right. This is Collin Mings. I'd like to thank everybody for joining us. Please contact us with any follow-up questions.
+ 
+Operator
+Thank you. This concludes today's conference call. You may go ahead and disconnect at this time.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

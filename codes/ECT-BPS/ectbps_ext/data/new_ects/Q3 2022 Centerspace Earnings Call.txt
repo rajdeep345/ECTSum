@@ -1,0 +1,507 @@
+CORPORATE PARTICIPANTS
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+ 
+Joe McComish
+Centerspace - VP of Finance and IR
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+CONFERENCE CALL PARTICIPANTS
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+ 
+Connor Mitchell
+Piper Sandler & Co., Research Division - Research Analyst
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior Research
+Analyst
+ 
+Wesley Keith Golladay
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+PRESENTATION
+ 
+Operator
+Hello, and welcome to the Center space Q3 2020 Earnings Call. My name is Lauren, and I will be coordinating your call today. (Operator
+Instructions) If you I will now hand you over to your host, Joe McComish, Vice President, Finance, to begin. Joe, please go ahead.
+ 
+Joe McComish
+Centerspace - VP of Finance and IR
+Center space's Form 10-Q for the quarter ended September 30, 2022, was filed with the SEC yesterday after the market closed.
+Additionally, our earnings release and supplemental disclosure package have been posted to our website at centerspacehomes.com and
+filed on Form 8-K.
+It's important to note that today's remarks will include statements about our business outlook and other forward-looking statements
+that are based on management's current views and assumptions. These statements are subject to risks and uncertainties discussed in
+our Form 10-K filed for the year ended December 31, 2021, under the section titled Risk Factors and in our other filings with the SEC.
+We cannot guarantee that any forward-looking statement will materialize, and you are cautioned not to place undue reliance on these
+forward-looking statements. Please refer to our earnings release for reconciliations of any non-GAAP information, which may be
+discussed on today's call. I'll now turn it over to Mark Decker for the company's prepared remarks.
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Thanks, Joe, and good morning, everyone and thanks for joining us. With me this morning is Anne Olson, our Chief Operating Officer; and
+Bhairav Patel, our Chief Financial Officer. Strong fundamentals continue in the rental housing business and 2022 will likely go down as
+one of the best years on record. Against that backdrop, Centerspace has performed well, and I'm delighted to report that core FFO per
+share is up 17% quarter-over-quarter and 11% year-to-date.
+I'm also happy to share that our guidance for the full year is for at least 10% core FFO growth, and the top line story remains
+encouraging. The capital markets have been volatile with a 10-year up over 130 basis points since we last got together or almost 50%
+from mid-2s to over 4%. The speed of this move paired with the continued inflation in materials and labor as well as a return to
+pre-COVID seasonality have caused us to trim our guidance from August.
+Finding ways to contain costs and improve processes while maintaining strong customer service is the top focus for us today. All that
+said, if we zoom out a little, Centerspace has an outstanding business and the housing we provide meets the basic need. Our business is
+remarkably consistent as represented by 2022 being our fourth straight year of same-store NOI and per share core FFO growth. But we
+do believe profitability and efficiency remain an opportunity to improve and drive value, and it's one of our key strategic pillars to do so. I
+know we can.
+Turning to investments. We've been more active over the last few months than we were for most of the year. We invested $95 million in a
+brand-new community in Denver called Lyra, adding 215 homes in the tech center submarket. And through the end of October, we've
+purchased around $29 million of our common stock. Lyra is a community we've tracked since predevelopment, and we ended up with the
+opportunity to get a community that just opened in April and experienced a strong lease-up at a price we believe is below replacement
+cost.
+Similarly, the shares we purchased in late September and October were made at historically wide NAV discounts and low multiples. The
+market is in turmoil, and we don't believe the fundamentals embedded in the business are reflected in the current price of our shares. We
+feel great about both investments, which were executed through the lens of how do we improve the portfolio, earnings quality and per
+share results.
+Going forward, we expect to be in an opportunistic environment, and we'll continue to be aggressive while carefully minding our liquidity
+position. None of these results would be possible without a strong team, and I want to thank everyone at Centerspace for their hard work.
+And with that, Anne, would you please provide a quick operations update.
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Thank you, Mark, and good morning. Revenues continue to drive growth with third quarter revenues increasing 11.1% over the same
+period in 2021. During the third quarter, our same-store new lease rates increased 7.5% on average over the prior leases and same-store
+renewals achieved average increases of 8.7%. On a blended basis, this is third quarter rental rate growth of 8.2%.
+While we are starting to see seasonality in leasing velocity, our Mountain West same-store portfolios remain strong with double-digit
+new lease rates in Denver, Billings and Rapid City during the quarter. Our non-same-store portfolio achieved increases of 7.7% on
+average over prior leases with renewals up 9%, while retaining over 60% of our residents. As we move into the fourth quarter and have
+lower expirations, occupancy is trending positively.
+Our expense guidance for the remainder of 2022 reflects the volatility we are experiencing in areas such as utilities and uninsured losses
+as well as our experience year-to-date on labor and materials. Maintaining our communities remains a top priority for us and inflationary
+pressures have driven cost of repair and maintenance significantly this year. We particularly see the impacts in plumbing, flooring and
+painting.
+Internally, salary and benefits costs have increased year-to-date 6.7% over the prior year, which is in line with CPI increases for wages
+and salaries through June. Expense trends vary widely by markets, but across the board, we need to advance efficiencies and contain
+expense growth as we head into 2023. It remains a great year for us.
+Year-to-date net operating income has increased 10.3% over 2021 as we manage to optimize revenue during the last 18 months of
+historic rent increases. We're up to the challenge of providing great homes during times of expense pressure. Now I'll turn it over to Brad
+to discuss our overall financial results.
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Thanks, Anne, and good morning, everyone. Last night, we reported core FFO for the quarter ending September 30, 2022, of $1.15 per
+diluted share, an increase of $0.17 or 17.5% from the same period last year. The growth in earnings was fueled by another strong quarter
+of same-store NOI growth, which increased by 11.4% versus the same period last year. G&A and property management expenses for the
+quarter were $4.5 million and $2.6 million, respectively, for a combined total of $7.1 million. That included $234,000 related to software
+implementation, which was excluded from core FFO as the implementation is expected to be completed by the end of the year. Excluding
+the implementation costs on a combined basis, G&A and property management expenses increased by $1 million or 16%, which was
+mainly a result of seeing our support functions to service a larger portfolio, mainly due to our significant acquisition of the KMS portfolio.
+The KMS acquisition and other acquisitions since the third quarter of last year have increased our revenues by approximately 25% on an
+annualized basis.
+At the end of the third quarter, we acquired Lyra apartments for $95 million. We funded the acquisition by drawing down on our line of
+credit, increasing the balance of the line to $171.5 million at the end of the quarter. As of the end of the quarter, the weighted average
+maturity of our debt was 6.3 years and weighted average interest rate was 3.45%. As of October 31, we had repurchased a total of
+427,000 shares or approximately 2.3% of our diluted shares at an average price of $67.25 per share for net consideration of
+approximately $29 million.
+Turning to guidance, which is presented on Page S 17 of the supplemental. We are updating our guidance for both same-store NOI
+growth and core FFO per share, mainly driven by continued expense pressures across the portfolio. Despite increasing our same-store
+revenue growth guidance by 25 basis points at the midpoint, our same-store NOI guidance is now lower by 75 basis points, driving a
+$0.03 reduction in the midpoint of our core FFO guidance.
+We saw similar expense increases in our nonsame-store portfolio, which was a larger contributor to the reduction of our core FFO
+guidance. A large portion of the increase, however, was driven by larger-than-projected unreimbursable losses of $450,000 in turn
+costs, which were significantly higher as some of these units turned for the first time under our ownership.
+The acquisition of Lyra contributed another $0.02 worth of reduction to the midpoint of our core FFO guidance. Offsetting these
+reductions were lower than projected G&A expenses driven by reduced incentive-based compensation and lower interest expense. In
+summation, the changes are discussed resulted in a reduction of $0.07 to the midpoint of our core FFO guidance to $4.46 per share.
+As I complete my first year at Centerspace, I'm continually impressed with the commitment to constant improvement across the
+organization. I'm confident in our team's ability to navigate the challenges of the coming months and look forward to the years ahead.
+And with that, I will turn it over to the operator to open it up for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions)
+Thank you. Our first question comes from Brad Heffern from RBC Capital Markets.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+On the Lyra acquisition, what is the expected stabilized cap rate there I think you mentioned that you think it's a discount to replacement
+value. So any sort of quantification you can give there? And then when is it expected to stabilize?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes. So we bought that at a going in plus or minus 4.25% on our underwriting, which has some pretty conservative rent growth rates and
+it is stabilized. So it's over 90% occupied.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+OOkay. I guess why is there the $0.02 of dilution there in the fourth quarter if it's stabilized already?
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Brad, this is Bhairav. So with respect to the $0.02, that's driven by the rate of interest on the line of credit, which we drew down to fund
+the acquisition. So that rate of interest is higher than the stabilized cap rate that Mark mentioned, that's what's driving the dilution.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+Okay. And so do you have an expectation that there's going to be really strong rent growth with that particular property as kind of the
+lease-up leases roll off? Or I guess, how does that transition from being dilutive to accretive.
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes. We do believe it will have strong growth. Again, we didn't underwrite particularly strong growth, but that is what we're seeing in
+Denver broadly. And we do believe this asset is well positioned in the submarket. So when we look at it on a more than 90-day basis and
+we think about driving margin, portfolio quality, long-term earnings growth, we're quite confident this asset will run faster than many of
+our other assets, and we may sell some of those assets to fund this over time. But we also think we bought it at less than it would cost to
+build it. So I am mindful -- I think your question is spot on, we take earnings as a consideration, but long-term earnings growth is also a
+consideration.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+Okay. Got it. And then you mentioned in the release, the noncontrollable unreimbursable expenses. I guess can you walk through exactly
+what that is? And is there any quantification you can give as to how much that that's affecting overall expense growth?
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Yes. This is Bhairav. So the nonreimbursable losses, the reference to that was particularly in regard to the non-same-store portfolio
+where we've seen more incidents in the third quarter as well as at the beginning of the fourth quarter. Overall, I think just the impact of
+those incidents would be about $400,000 or a couple of pennies that would impact the core FFO guidance as you kind of think about it
+on a whole year basis.
+ 
+Operator
+Our next question comes from John Kim from BMO Capital Markets.
+ 
+Unidentified Analyst
+Robin Amlan here with BMO Capital Markets. Just wanted to grasp your building blocks to 23. What's the current loss to lease and
+earn-in. And could you perhaps walk me through how you calculate in?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes, go ahead. Could you say the last part of the question again, so what's earn-in? And what was the last part of the question?
+ 
+Unidentified Analyst
+Yes. It appears to do it differently, just wanted to ask if you can welcome through how you calculate it, you get to earn in?
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Yes. I mean I can take that part first. I mean, overall, if you look at the loss to lease, and we're modeling all our leases as they kind of
+come up for expiration. So depending on whether it's being renewed or we're kind of rolling into a new lease, we would just assign the
+market rent at that point, depending on whether we believe that's being renewed or it's a new lease. We roughly use about a 50%
+renewal rate, and that's how we kind of run that through the model.
+And with respect to the loss to lease, I mean, as of September, it was at about 6.5% to 7%. We've captured a lot of that loss to lease as
+we kind of went through the summer months. But the market rent kind of keeps changing. So as we kind of try to project out 2023, we
+run a curve based on seasonality and that would be expected to increase as we kind of enter the summer months.
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+And this is Anne. Given that we do have a pretty significant nonsame-store portfolio, if we look at the whole portfolio, the last lease is
+closer to 8%, that 6.5% to 7% is on samestore only.
+ 
+Unidentified Analyst
+Okay. Looking at repairs and maintenance, what were some of the major drivers for the increased cost? Did perhaps turnover have an
+impact?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Anne, do you want to take that?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes, sure. Thanks. Yes. Turnover was one of the main drivers of our overall expense increase. R&M, separate than turnover is also a big
+driver. What we're seeing there is really increased costs related to skilled trades and specialized services like pool servicing, HVAC,
+plumbing, we operate in very tight labor markets, and this is a lot of demand.
+We have over 40% of our leases turning. And so when we look to our vendors, it's a lot of work for them, and they're having trouble
+finding staff and costs are increasing really pretty significantly. On the repairs and maintenance side, another driver that we're seeing is
+security costs. Particularly in our urban assets, we've increased security as a way to enhance the resident experience and really make sure
+that we can keep our lease rates rising and retain our residents. So we are seeing some increased costs on the security side in repairs and
+maintenance.
+ 
+Unidentified Analyst
+Okay. And just given the higher turnover there. Was there anything that's do that as far as moveouts -- move-out reasons?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes. The largest reason that we see for move outs is relocation. That's really outpaced buying a home, particularly in the third quarter.
+There are -- we did have a pretty significant amount of move-outs, a little bit over 5% of our move-outs were eviction related. If you recall,
+particularly in Minnesota, we have now -- this year was the year the diction moratorium came off and also all rental assistance has now
+dwindled and tapered off. And so we have seen a pretty significant amount of evection-related move-outs. Those typically do drive
+turnover costs as well because those units are usually not in very good condition. We have a lot of damage write-offs related to those --
+and also, we saw a pretty big spike in legal fees connected to those evections, in the third quarter, in particular.
+ 
+Operator
+Our next question comes from Rob Stevenson from Janney Montgomery.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Anne, can you talk about your ability to contain utility costs as the weather gets colder, how successful have you guys been in
+sub-metering, RUBS, et cetera? And what your -- have you guys hedged on gas prices and stuff like that?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes. I can. And then maybe Bhairav can talk a little bit about how we're looking at utility costs and potential to hedge. We have RUBS
+across our portfolio. However, that is water, sewer gas and common area electric. We had not included in RUBS heat costs, gas costs
+historically. However, that is being rolled out across the portfolio now. So there's always a trade-off there. We operate in a lot of markets
+where it's not common to have RUBS at all, much less not include heat and the rent.
+So we are rolling that out right now and new leases starting in November. We'll see the renewal leases come on. So as we work through
+2023, we think that there's going to be a much less impact on increased utility costs and also an enhancement to our other revenue as
+we offset those. But for this year, that takes time as we go through the lease roll and given that we ramp that up this year and are
+starting it now, we really won't see those full impacts until 2024 but are planning on doing everything we can to bring those down into
+2023. Bhairav, do you want to comment on the hedge?
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Yes. I mean I think as we kind of think about controlling utilities costs, I mean the most effective strategy is what Anne laid out in terms of
+being able to pass some of these along. In certain markets, we are not able to hedge it just based on the regulations in place in those
+markets. But mostly as we kind of think about utilities offsetting it with. Passing it down would be the most effective strategy plus
+hedging in this environment with volatility being where it is, even if we were able to hedge the cost of doing so would be extremely high
+in this environment. So it's something that we can evaluate, but it's unlikely that it's something that we will be able to implement in the
+near future.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Okay. And then are you guys seeing any -- absent the eviction stuff, which probably been on your radar screen for a while, but are you
+seeing any uptick in normal delinquencies and bad debts throughout the portfolio or in certain markets?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Generally, no. I mean, Anne, do you want to give some detail on that?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes. I would say generally no. In fact, I think we're fairly pleased with the way that our delinquency has come down post-COVID and really
+feel like we're returning to kind of pre-COVID levels. Our incomes continue to be very high on our new applications across the portfolio.
+And so those rent-to-income numbers are good. We feel really good about the credit quality of our tenants.
+ 
+Robert Chapman Stevenson
+Janney Montgomery Scott LLC, Research Division - MD, Head of Real Estate Research & Senior
+Research Analyst
+Okay. And then last one for me. Any changes on returns or volume of redevelopment that you're planning on doing here given some of
+the cost pressures that you talked about on the repairs and maintenance side? I assume that's flowing through redevelopment as well.
+Are you getting the returns that you need to get there or want to get there? Or is it situation where you put a pause on that? How are you
+guys thinking about the redevelopment process?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Anne, do you want to take that one?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes. I can't. I think our thought on redevelopment is we want to remain nimble. So we are constantly looking at as costs rise, as
+unforeseen circumstances happened during those projects, what the rental rates are, how it's impacting vacancy, how long it's taking to
+renew those units. And our goal is to be able to kind of turn it on and off as the market will bear it. So I do think that going into next year,
+we're going to really have heightened scrutiny on whether or not we can continue to get the premium.
+We feel very good about the projects we've undertaken year-to-date and what has been completed this year. In fact, during 2022, we did
+kind of accelerate a couple of our projects and with nonrenewals and really took back a lot of units, which had about a 60 basis point
+impact on our overall occupancy in the third quarter.
+So right now, we feel really good about it. But with the cost of capital where it is and also the potential for some moderation of overall
+market rent growth. I think we're going to have to be very careful headed into next year. We have very good plans and great underwriting
+that we feel good about that, that underwriting can change quickly, and we want to be able to change with it.
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Rob, I'd just add on top of that. If you think about work from home and folks can't buy a house, that maybe they are planning and rents
+going up everywhere, so a perception of value -- the value add tends to still work. But it is something we're looking at carefully across the
+board, as Anne outlined.
+ 
+Operator
+Our next question comes from Connor Mitchell from Piper Sandler.
+ 
+Connor Mitchell
+Piper Sandler & Co., Research Division - Research Analyst
+I have 2 questions. The first one relates to the repairs and maintenance. You guys mentioned that it's a pretty tight labor market. So are
+there any additional steps you could take maybe bring in outside teams other than -- or outside of your markets to maybe help with the
+labor pressure and help fight the cost a little bit? Or any other steps you could take to lower your repair and maintenance cost?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes, I'll start and, Anne, maybe you can check on. But I'd say generally, some -- in particular, in the Mountain West, you just have more,
+I'd call them islands for labor. So if you think about, let's say, Dallas versus Denver, I mean, one, Dallas has 10 million people in it. And
+two, if you draw a circle of a 4-hour drive around Dallas, you're into several other large metros. If you do that same thing in Denver, you
+can't find another similar size city and that would get worse if you went to, say, Rapid City or billings, which are our other 2 Mountain
+West markets.
+So I think the difficulty in labor there is -- I mean those are super tight markets on an absolute and relative basis, and it's exacerbated by
+some of those kinds of factors. But -- so I'd just ask you to consider that. But with that, Anne, why don't you elaborate, please?
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes. We actually have used labor from other markets to travel into markets where we're having difficulty. Particularly on the value-add
+side, we might use a contractor from one of our -- team from one of our larger markets and send them to a smaller market. simply given
+the cost pressure that that's less expensive to do than higher end market. So that is something that we look at. It is a way that we have
+been able to either get large projects accomplished, which otherwise may not have gone forward and/or reduce costs across that.
+But our vendors and contractors are having the same issue with labor that I think everyone is, which is very hard to find skilled workers.
+And a lot of the R&M costs are related to things like we talked about plumbing, pool maintenance, HVAC. So specialized services, there's
+a really high demand on those, and we've seen costs in those areas really skyrocket.
+ 
+Connor Mitchell
+Piper Sandler & Co., Research Division - Research Analyst
+Okay. I appreciate the color. And then my second question is on the current use of capital. And I know you guys mentioned that some
+acquisitions now may be tougher potential with the rising rates. So should we expect any further acquisitions or maybe turn to additional
+stock buybacks or other uses of capital?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes. So I guess a couple of thoughts on that, Connor. First, we're clearly headed -- I mean, price discovery is a very real and evolving
+thing, and that's driven by really -- a pretty significant lack of volume. And if you think about how assets are sold in the apartment space,
+I mean, a lot of them are kind of flow oriented. So funds have time lines, what have you.
+Most of that flow oriented business is gone, and it's really about situational deals where there's some sort of circumstance or situation
+that would cause someone to sell right now because while there's a lot of capital on the sideline, it's all kind of waiting and seeing. So I
+think what that means is there will be some interesting situations where someone's inclined to do this, inclined to go to market.
+And those might be good opportunities to take advantage, but there's not going to be, I don't think, a lot of volume, at least not in the
+next little while. What is coming out for sale, I mean, we're seeing what we think are pretty good prices. Now if you went into like
+Rumpelstiltskin mode and just fell asleep in 2017, and I told you those prices, they would feel great. They would probably feel high. But
+relative to where we've been in the last few years, they're off quite a bit, 75 to 100 basis points probably.
+So I don't think it's the case that multifamily is going to start trading at 7 caps because long-term capital is currently trading or fetching
+6s because there's just too much capital out there, and this is a relatively good asset when you're considering alternatives. And if you are
+a believer in inflation, which I am and I think our numbers would evidence that it's real.
+So to answer your question, we're going to be as opportunistic as we possibly can be, and we're going to really mined our balance sheet,
+which was in great shape coming into this, and we hope to exit in great shape as well.
+ 
+Operator
+Our next question comes from Wes Golladay from Baird.
+ 
+Wesley Keith Golladay
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+Do you have any plans for dispositions to lock in this arbitrage? I know you said the market is not quite as robust as it is now with the
+public equity versus private is probably still a pretty wide gap? And then the second part of the question is with that mindset that
+inflation is high and is likely to remain higher. Are you going to look to permanently finance -- term out that line of credit?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+The simple answer to the question is yes to both. But to elaborate a little bit, yes, I mean, we're looking -- we look every quarter at our
+assets, and we really try to discern what we think long-term capital expenditures are going to be and kind of look at it after-everything
+cash flow.
+And it is often the case that a newer asset like Lyra might look quite attractive, and that was just completed in April versus some of our
+older properties, which might have a much higher stated cap rate but a much lower kind of after everything cap rate cash flow. And it's
+also the case that some of those assets might trade at cap rates that are pretty high and can get neutral or positive leverage.
+So when we consider some of our older assets, it might be the case that, that works well for us. So yes, we're evaluating that. We'll
+continue to evaluate that. And I would also expect us to put on some longer-term financing for Lyra. And candidly, it won't be as exciting
+as I thought it would be because when we agreed to price on that asset, we were looking at 10- to 12-year money in the high 4s , call it,
+4.75% range. And today, that money from the agencies is probably mid-5s plus, mid-5% to 6% and it changes every day because
+treasury is moving around.
+And the unsecured market, which would be our favorite market is kind of priced out of -- priced in a way that would discourage you from
+going. So I think for us, unsecured capital today would be mid-6s. And that's -- if you look at the rated -- investment-grade rated
+multifamily bonds, they're in the mid-6s the SFRs or low to mid-6s if you look at kind of UDR to DSFRs. And we would be off of those. So
+all of that would probably drive us to the secured market. And I would expect to see us pick some debt there.
+ 
+Wesley Keith Golladay
+Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+Okay. Yes. I think this moved kind a lot of the soft guard. I just go back to the noncontrollable unrebursable expenses this quarter, do you
+have typically every year, I guess, what's the delta that is truly abnormal when we look at the model next year, you should probably look
+to take out some of that $400,000. And then on the other revenue, once again, it's a little bit outsized this quarter. Can you elaborate
+what's going on there? And what should we not pull forward to the next year's model?
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Sure. I'll take that. On the unreimbursable losses, again, as I said, those were on the non-samestore portfolio, the $400,000 number that
+I quoted. And that truly seems to be over than what we had expected. So truly unexpected unreimbursable losses driven by incidents in
+that non-samestore portfolio. Coming back to your question on revenue this quarter, in addition to the scheduled rent growth, we've seen
+growth across all the categories.
+Collections are much better and alluded to a much more normalized collections rate that we have hit upon in the third quarter and
+overall year-to-date. So that contributed a bit to the revenue increase year-over-year. Last year in the same quarter, we actually had
+lower collections. So that's driving the year-over-year increase. And concessions have been lower. That's also driven some of the
+year-over-year increase, and then other revenue is higher. Some of it's driven by RUBS, some of it's driven by some door fees and revenue
+sharing agreements that we've signed. And we've had higher application fees and administrative fees and all those things that are
+driving other revenue as well in the third quarter.
+ 
+Operator
+Our next question comes from Buck Horne from Raymond James.
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+I guess, Mark, I'm still struck on the acquisition timing a little bit. And I guess my question is really kind of why now on Lyra and kind of
+also why now on stock repurchases when there's a lot of signs out there that rent growth is decelerating pretty rapidly at a market level,
+maybe more than just normal seasonality this year, got a lot of recessionary type indicators flashing warning lights out there. As you said,
+there's just a huge amount of kind of price discovery that's still evolving right now. What gave you the confidence to kind of go ahead and
+go forward with Lyra and also to kind of lever up to do stock repurchases? Yes, I'm just kind of wondering why now? And was there
+something specific to the deal?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Good question. I guess the truth of it is, we'll know the bottom in hindsight, and we certainly were trying to call the bottom, but it is our
+goal to be an active participant kind of throughout the cycle. And -- this was the submarket we really liked in Denver and asset quality
+that we feel confident in. We know this group who built this well and look to financing it on the front end. So we like the asset and felt
+like we understood it very well and felt like we understood that there wouldn't be a lot of surprises. Who knows the risk when you buy
+something is you learn after you close, but so far, so good on that score.
+And we were quite confident that pricing had really moved from kind of earlier in the year. Now it may continue to move. I don't actually
+know. I mean there's a whole lot of equity out there kind of in wait-and-see mode. And my guess is they'll -- if you have lots of negative
+leverage, you'll use less leverage, and there's lots of buyers out there that can do that.
+So why now was, we liked the asset, we liked the submarket. We felt great about it. Candidly, we would have locked the pricing of our
+debt better, and it wouldn't have been dilutive as it currently is. But we're not really playing a 90-day game. We're playing a multiyear
+game. And on that basis, this made a lot of sense. I'd say similar on the stock. I mean, we have a view of what our NAV is. We update that
+quarterly. We talk about it nearly daily. And we have confidence in the business and believe that over the long term, these assets are
+worth more than we're currently paying for them. So -- sort of why now.
+ 
+Buck Horne
+Raymond James & Associates, Inc., Research Division - SVP of Equity Research
+Just a couple of quick follow-ups. Kind of on -- as the portfolio stands today and with some newer assets, how do you think about the
+recurring CapEx run rate of the portfolio now? It looks like samestore CapEx was still elevated even with R&M and turn costs also going
+up. Is there a higher level of CapEx to expect out of the portfolio? Or did the newer assets kind of bring down that run rate?
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes and no. I mean as you know, we added that older portfolio, the KMS portfolio, which has been -- has worked very well relative to how
+we expected from a cash flow perspective. Those are very old assets that have real CapEx needs and they'll be in the same store next
+year. So when you think about what we've talked about over time, in particular with respect to NOI margin, with shrinking that CapEx and
+lowering the age of portfolio, I mean, just mathematically, the reality is KMS is a bit of a step back there.
+Now our other goals are distributable cash and efficiency of the enterprise from a G&A and property management perspective. So we're
+serving a lot of masters there. But I think -- and Bhairav can probably comment in detail. But the CapEx affiliated with KMS coming into
+the same-store pool will certainly overwhelm.
+I mean the other assets we bought, the [Mint 3] assets, NoCo and obviously, Lyra are all built in the last 5 years. So they should have
+relatively low CapEx in the near term. But the KMS that's 2,700 units, so our homes.
+ 
+Bhairav Patel
+Centerspace - Executive VP & CFO
+Yes. And plus, we budgeted some acquisition capital in the KMS portfolio. So as you look at same-store year-over-year as we enter into
+next year with KMS in the portfolio, some of it will be covered as part of acquisition capital. So the run rate shouldn't go up materially as
+we kind of start spending some of those acquisition capital.
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Yes. And that number was $40 million, which we've gotten less of it out this year than we planned because it's been hard to get work
+scheduled.
+ 
+Operator
+Thanks, Buck -- we now have a follow-up question from Brad Heffern from RBC Capital Markets.
+ 
+Bradley Barrett Heffern
+RBC Capital Markets, Research Division - Analyst
+I was just curious, Anne, if you had any leasing stats and occupancy numbers that you could give for October.
+ 
+Anne M. Olson
+Centerspace - Executive VP, COO, General Counsel & Secretary
+Yes, not quite yet. I mean we did see -- I will say what I'm seeing so far as we close out October and get the final documentation into the
+system is still really strong renewals. We did -- we have seen a seasonal drop-off in traffic. We were down from August to September,
+close to 20% in traffic, again in October, down about 15% in traffic. That is absolutely completely normal for us. And what we're seeing is
+just routine seasonality there.
+So what we're expecting, given some of the preliminary October numbers is that the new lease rates are going to come down, they
+always do in the fourth quarter and that the renewals will remain strong for the first couple of months.
+ 
+Operator
+We currently have no further questions. I'll now hand you back over to Mark Decker for closing remarks.
+ 
+Mark O. Decker
+Centerspace - President, CEO, CIO & Trustee
+Super. Thanks. Well, we appreciate everyone's continued interest in the company, and I'll be at NAREIT in San Francisco in a few weeks
+and hope to see some of you there. So thanks very much, everyone, and have a good week.
+ 
+Operator
+This concludes today's call. Thank you for joining. You may now disconnect your lines.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

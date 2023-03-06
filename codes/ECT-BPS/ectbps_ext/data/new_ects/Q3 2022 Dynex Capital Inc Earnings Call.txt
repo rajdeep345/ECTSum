@@ -1,0 +1,561 @@
+CORPORATE PARTICIPANTS
+ 
+Alison G. Griffin
+Dynex Capital, Inc. - VP of IR
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+ 
+Robert S. Colligan
+Dynex Capital, Inc. - Executive VP, CFO & Secretary
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+CONFERENCE CALL PARTICIPANTS
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+ 
+Jason Michael Stewart
+JonesTrading Institutional Services, LLC, Research Division - Senior VP & Financial Services Analyst
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+PRESENTATION
+ 
+Operator
+Good morning. My name is Dennis, and I will be your conference operator today. At this time, I would like to welcome everyone to the
+Dynex Capital Third Quarter 2022 Earnings Conference Call. (Operator Instructions) I would now like to turn the conference over to
+Alison Griffin, Vice President of Investor Relations. Please go ahead.
+ 
+Alison G. Griffin
+Dynex Capital, Inc. - VP of IR
+Thank you, Dan. Good morning, and thank you all for joining us today for the Dynex Capital's Third Quarter 2022 Earnings Call. The press
+release associated with today's call was issued and filed with the SEC this morning, October 24. You may view the press release on the
+homepage of the Dynex website at dynexcapital.com as well as on the SEC's website at sec.gov. Before we begin, we wish to remind you
+that this conference call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of
+1995. The words believe, expect, forecast, anticipate, estimate, project, plan, and similar expressions identify forward-looking statements
+that are inherently subject to risks and uncertainties, some of which cannot be predicted or quantified. 
+The company's actual results and timing of certain events could differ considerably from those projected in or contemplated by those
+forward-looking statements as a result of unforeseen external factors or risks. For additional information on these factors or risks, please
+refer to our disclosures filed with the SEC, which may be found on the Dynex website under Investor Center as well as on the SEC's
+website. This conference call is being broadcast live over the internet with a streaming slide presentation, which can be found through a
+webcast link on the homepage of our website. The slide presentation may also be referenced under quarterly reports on the Investor
+Center page. 
+Joining me on the call is Byron Boston, Chief Executive Officer and Co-Chief Investment Officer; Smriti Popenoe, President and Co-Chief
+Investment Officer; and Robert Colligan, Executive Vice President, Chief Financial Officer. And with that, it is my pleasure to turn the call
+over to Byron.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Thank you, Alison, and good morning. And let me start the call off with a few messages, a few thoughts for our shareholders and then
+Rob and Smriti will take over with the more specifics. So to our shareholders, as I mentioned in the past, this is an incredible moment in
+history across all major asset classes. Prices have fallen and volatility have materially increased, especially during the last 2 to 3 weeks of
+the quarter. And even though all asset managers are in the same storm, I want you to know we're not all in the same boat. The Dynex
+Capital boat was built to withstand a storm. We have been preparing for this type of environment for years. We have managed through
+markets like this before, and it is our experience and flexibility that will guide us through to the other side of this complex market cycle. 
+Given these challenges and complexity, I want to maintain our tradition of transparency and open dialogue by simplifying my takeaways
+on the quarter to 5 key points: First, our portfolio is solid. Dynex is prepared for this market. Several years ago, we proactively moved up
+in credit and up in liquidity, and we further increased our focus on liquidity after March 2020. Our portfolio is government-guaranteed
+and is backed by U.S. borrowers and U.S. real estate. Agency mortgage-backed securities are second in liquidity only to U.S. treasuries,
+and mortgage-backed securities have a history of being a very liquid and very efficient corner of the fixed-income markets, even in
+turbulent markets like the one we are in now. Second, our liquidity position is strong. Most of our liquidity is in cash, the most liquid asset
+evolved, but we also have unplanned agency securities that are easily financed or sold. 
+As the markets took a decisive move toward chaotic volatility, we have been able to manage our balance sheet with confidence. We also
+have enough capital to be opportunistic when the markets come, and we take advantage of this great return environment. Third, our
+strategy was built for this. The core tenant of Dynex's investment strategy is preparation and flexibility. And over the past several years,
+we have said repeatedly that we believe surprises are highly probable. We began talking with our investors about the increasing
+complexity of global markets as far back as 2014. 
+We understand through our experience that the global risk environment, by its nature, is too complex to allow us to predict what will
+happen. But that doesn't mean we can't prepare, which is what we've done. Fourth, our management team has experience and
+discipline. And in this volatile market environment, more than ever, you need an experienced and trustworthy team at the helm. We have
+proven the value of experience in the past as we've reacted to other market events in a very thoughtful manner, as shown in our
+long-term results.
+We manage our business for the long term. And just as we've done in the past, we're determined to guide you, our shareholders, through
+this disruptive market environment. And as always, we're committed to providing transparency and insights into our strategy as we guide
+the Dynex ship through this storm to the unimaginable sunshine that will come out tomorrow. With that, I'm going to turn the call over to
+Rob and Smriti and let them give you more details.
+ 
+Robert S. Colligan
+Dynex Capital, Inc. - Executive VP, CFO & Secretary
+Thank you, Byron, and good morning all. The company reported a comprehensive loss of $2.20 per common share and a negative total
+economic return of 12.9%. The negative total economic return was driven by declines in the value of our mortgage-backed securities and
+TBA positions exceeding the increasing value of our interest rate hedges as spreads widened significantly this quarter, especially in the
+month of September. Spreads are near historically wide levels, driven by recent economic policy and geopolitical risks. We believe our
+portfolio will recover a significant amount of value when the flows into mortgage-backed securities improve or simply as pay-downs
+occur over time. Smriti will cover market activity, including spreads, in her comments. 
+Earnings available for distribution, or EAD, was $0.24 this quarter. G&A expenses and EAD include a one-time cost of $2.7 million or
+$0.06 of severance costs related to the CFO transition during the third quarter. At Dynex, our key strategies include the management of
+interest rate risk, liquidity management and protecting shareholder value. We accomplished this through thoughtful asset selection and
+hedging activities. This quarter, we're highlighting the benefit of our hedging activities as our earnings available for distribution
+calculation does not incorporate the positive impact of the company's interest rate risk mitigation strategies because our primary
+hedging instrument is interest rate features. If the company used interest rate swaps instead of futures, the hedge benefit of the swap
+would be included in both the net interest spread and earnings available for distribution. 
+Through September 30, Dynex has over $500 million of hedge gains, primarily on futures interments. These realized hedge gains are
+recognized immediately for GAAP reporting but are deferred for tax and are amortized into REIT taxable income over the hedge period of
+approximately 10 years. The benefit of interest rate hedge gain amortization was approximately $9 million or $0.21 for the third quarter
+and is estimated to be $12 million or $0.25 per common share for the next 5 quarters. The total amount of gain to amortize into REIT
+taxable income can go up or down depending on the company's hedge position and movements in rates in subsequent quarters.
+Since hedge gains are a component of REIT-taxable income, they will be part of the company's distribution requirements, along with
+other ordinary gains and losses. As we move into the fourth quarter, we expect hedge gains will be supportive of the dividend in 2023
+and beyond, even if net interest income and earnings available for distribution decline due to rising financing costs. Please see the
+additional disclosures in our release and be on the lookout for our 10-Q, which will have additional information and will be filed next
+week. I'll now turn the call over to Smriti for her comments on the quarter.
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Thank you, Rob, and welcome, everyone. As a long-time sailor, I can certainly appreciate Byron's analogy of a boat navigating a storm.
+I've done that in real life with my family aboard our sailboat, and during my 25-plus years of experience in the fixed-income markets, I've
+often felt that sailing offers important lessons to me as an investor. I'll structure my comments today on our path through the storm, how
+we're navigating it, our short-term views and strategy, and then I'll turn to our long-term outlook. The storm we are in represents a
+transition from an era of low inflation, low-interest rates, financialization, leverage, globalization, peace, and a global pandemic. On the
+other side of the storm is an environment where the amount and mix of all of these factors will be different, and there won't be new
+factors to contend with. 
+We believe the storm and its effects will present excellent long-term investment opportunities, but we have to navigate through the
+storm first. We prepared for this environment with the highest level of liquidity in over 5 years and the highest allocation to the most
+liquid instruments backed by U.S. real estate, agency-guaranteed residential mortgage-backed securities. Our TBA position has given us
+flexibility and maneuverability to adjust risk. The financing markets are functioning in an orderly manner. Our counterparties have access
+to liquidity, haircuts are stable. And from our perspective, there currently do not appear to be any signs of financing dislocation. We can
+trade our highly liquid futures hedges 24/6. Our balance sheet is mark-to-market daily, so there is no mystery about the value of our
+positions at the end of each day. 
+We had anticipated that as global central banks withdrew liquidity and raised interest rates to combat inflation, the price of government
+bonds and risky assets would adjust down. This price adjustment has been underway since September 2020. Treasuries and
+mortgage-backed securities have led the way, and most of it has been orderly until this last quarter. So the storm really intensified in late
+September and early October. You can see this in Agency RMBS spreads, which widened dramatically in September and have continued
+the widening trend into the fourth quarter, now standing at levels within a few basis points of the peak spreads seen in March 2020, as
+shown in our slide deck on Page 10. 
+Simultaneously, the entire yield curve has shifted up. As of last Friday, the 2-year is 157 basis points higher, and the 10-year is 125 basis
+points higher, just since June 30. This type of interest rate volatility has not been seen in the bond market since the early 1970s. You can
+see this represented in the chart in the slide deck on Page 24. As the year has progressed, the ride has really gotten rougher. Now here's
+what's unique about what's happened. In the traditional Fed tightening cycle, the yield curve inverts, the carry in Agency RMBS is
+negative, and it's usually not a great investment environment until the next Fed easing cycle, but it is different this time. Mortgage rates
+have been rising higher and faster than financing costs, causing spreads to widen to historically wide levels, making this the best
+investment environment in Agency RMBS since the great financial crisis, and we expect this to continue. 
+Now the recent moves are happening for several reasons. First, the structure of the Agency RMBS market is different. The largest
+noneconomic buyer of agency RMBS, that is, the Fed, is stepping back, creating net supply into the market. And unlike at any other time
+since the 1970s, there is no going away buyer. There's no GSEs. The banks are also out of the market, and they have no appetite for MBS
+because their loan portfolios have grown. So now, the marginal bid for mortgages is now being driven by relative value players. This is
+money managers. They are facing outflows. So the technical demand picture for MBS is the poorest it has been in several decades. 
+Second, there has been selling of Agency RMBS by many types of accounts, including non-U.S.-based investors. Domestic money
+managers continue to face net outflows from fixed income, and MBS are a liquid asset, and they are being sold first. So we expect this to
+continue. And finally, we're seeing higher-than-normal levels of supply for the environment because loan sizes for next year are getting
+baked in. origination pipelines are getting flushed, and we're seeing some cash-out activity that's keeping volume elevated. We do expect
+this to reverse course over the next few months. So as the storm intensified, we used our instruments, our principles of risk management,
+disciplined top-down analysis and a focus on capital preservation. 
+In our last call, we discussed our strategy as being prepared for this rough ride with liquidity and dry powder as we entered an
+environment of higher returns standing ready to deploy capital in what we saw as a persistent opportunity in Agency RMBS. We have
+also repeatedly discussed the idea that we are in an environment where surprises are highly probable, and that we must be ready to
+adjust as those occur. That posture and mindset has not changed. As the right became rougher here in October, with no shortage of
+unexpected surprises from across the Atlantic, we made some tactical adjustments to the portfolio. Those reduced interest rate
+sensitivity and some spread risk. And you can see the direct results of that on Pages 11 and 12 on our slide deck. The book value decline
+we experienced in the third quarter is a function of these market moves, and mostly attributable to the gap wider by about 50 basis
+points in Agency RMBS spreads in late September. 
+Post quarter end, as spreads have continued to widen about 15 to 20 basis points across the coupons that we own, book value at the end
+of last week was down about 8% to 10% versus the quarter end. Our liquidity is estimated at $430 million, and leverage to total capital is
+approximately 7.2x. For your information, the book value during the quarter traded up as high as 7% up from the second quarter end
+before ending the quarter down 15%. This should give you some idea of the volatility in spreads as well as the rebound potential in the
+portfolio. So now, with the existing position, we hold more than enough liquidity and capital to withstand the spread shock that we saw
+in 2008. 
+As you can see on Chart 10, that is another 40 to 50 basis points wider from here in nominal spreads on the current coupon. We also
+stress our portfolios to include haircut increases and other unanticipated calls on liquidity. We are keenly aware of the potential for
+counterparty stress as well as the actions of other players in the market. And for those reasons and more, our view on the risk
+environment has shifted to a more cautious stance going into year-end. We've also rolled about 20% of our repo book over year-end, and
+we continue to term out financing to minimize year-end issues. Let's now look ahead. What usually comes after storms is some type of
+calming of disease. It's important to look and plan ahead with an intermediate-term view to steer the boat to its destination. 
+At some point, the Fed will signal a pause or stop tightening. When that happens, there will be a period of lower volatility and evaluation.
+This is where we see a target-rich environment, which persists for some time. Agency RMBS returns are already in the high teens and low
+20s, and we're really looking forward to getting to that target-rich environment, but we're not there yet. The key is being able to navigate
+through this rough ride in the near term to get to the longer-term stronger fundamental and technical environment. So we see at least 4
+positive catalysts for Agency RMBS in the intermediate term. The first one, very simply, is the raw return in Agency RMBS. This can be a
+major catalyst. 5.5% to 6.5% base case yields, we haven't seen those in at least 15 years.
+These are great returns relative to a lot of other risky assets today and will likely be great returns in the future once you adjust for liquidity
+and credit risk. Second, lower net supply in the future. We are approaching a seasonal winter slowdown. Mortgage rates are at or near
+7%. This will eventually slow originations to at least 50% of current levels, shrinking the overall net supply, forming a technical tailwind.
+Third, any decline in the realized volatility is also a tailwind for RMBS and will take spreads tighter. And finally, if a recession indeed
+materializes, Agency RMBS will be the credit risk-free asset to own versus riskier corporate and consumer back debt. 
+A few other points on the intermediate term. At current levels, MBS offer almost 200 basis points of spread over treasuries at nominal
+interest rates that have not been seen for credit risk-free asset in decades. These returns require less leverage to earn mid-teens or higher
+returns. Going forward, the mortgage market will be operating without a stabilizing agent, such as the Fed or the GSEs. This means
+spread volatility could be higher, but at the same time, returns will be higher. This is why we're calling the opportunity persistent.
+And finally, the demand for income remains strong. Global demographics still favor income-producing investments, and especially in the
+absence of a permanently rising stock market, investors may finally seek fixed-income instruments at these higher yields. This is what
+can eventually turn the tide of money manager selling as inflows return into bond funds. So for now, while we've positioned the portfolio
+to a more neutral stance, we're also thinking about what the catalyst is for adding risk as we navigate through this near-term poor
+technical backdrop to the longer-term stronger fundamental and technical backdrop for mortgages. 
+An additional word on our positioning. We expect to be active across both our assets and our hedges over time. You can think of it as the
+position designed to weather the storm that will change as time goes on. The beauty of a flexible strategy with TBAs in the position is our
+ability to change as the market changes. As we continue to evolve our portfolio structure, we will provide additional timely disclosures to
+be fully transparent as we transition to a more long-term position. Until then, you can see by the numbers. We've moved to shield the
+portfolio from large moves in interest rates and cut our spread risk. I remind you to grade us by our long-term total economic
+performance and that EAD alone is an incomplete metric to assess economic performance or dividend stability. As Rob mentioned,
+substantial hedge gains exist in the portfolio to support our forward dividend. 
+A final word on the dividend and forward returns on Page 13 of the deck. As of last week, the weighted average market forward yield of
+our portfolio is approximately 5.4%, and we are hedged with treasuries yielding about 4.2%. This produces 120 basis points of net spread
+at 8x leverage to common, a forward ROE of about 15%. This is the foundation of the economic return that supports our dividend. It will
+not be evident in earnings available for distribution because that does not include the benefit of our futures. It will show up mostly in
+book value and in taxable income. In addition, just the current portfolio will add $0.70 per share in book value for every 10 basis points of
+spread tightening from these very wide levels, further boosting the forward return. Any incremental return will be driven by adding assets
+during this persistent and attractive investment opportunity in Agency RMBS, for which we are prepared. We expect to eventually return
+to a diversified portfolio over time as new opportunities evolve. 
+I'd like to leave you with the following thoughts. We are liquid, and we are prepared for the storm that we are in. We expect the rough
+ride to continue for some time, and we've moved to mitigate interest rate risk and preserve capital as we navigate through this
+short-term transition to what we believe will be a highly favorable investment environment. MBS spreads are wide and returns are in the
+19% to 25% range on the margin. While this is a target-rich environment, we would like to see the levels of macro risks subside to change
+and add significant risks. In the intermediate term, we expect MBS to outperform many other asset classes as fundamentals and
+technical shift. This is the environment when book value can be recovered. We take our responsibility of capital stewardship very
+seriously, and the team and I remain focused on making the next decision to maximize value on your behalf. I'm truly grateful for your
+trust and confidence. And with that, I'll turn it over to Byron.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Thanks, Smriti. Let me remind you again this is a historical moment that is evolving as we transition to a new global economic market
+and geopolitical environment. I want to also remind you that we have built Dynex Capital to expand the surprise market gyrations that
+we're encountering during this transitional period. We're committed to providing long-term attractive returns to our investors, and our
+focus on these long-term returns has not wavered in this environment. Take note of our track record as displayed on Slide 15. Dynex has
+proven to be a better cash-generating alternative to many other debt and financial alternatives through all cycles over the past 15 years.
+This is not our first storm, and this will not be our last. And just as in the past, we're prepared to remain patient and disciplined until the
+sun comes out. 
+Finally, we're in the boat with you. Both management and the Board are comfortable owning both Dynex Capital's common and
+preferred stock as we ride out this current transitional period in history. The stormy environment will evolve, this transitional period will
+end, and we will have the flexibility to adjust our posture to a more offensive stance to take advantage of these truly attractive return
+opportunities. So with that, operator, we can open the call up for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And your first question is from the line of Doug Harter with Credit Suisse.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+As you guys looked and balanced kind of the short term and the intermediate to long term, can you go to how you kind of arrived at that
+7x leverage that you talked about and that you are at currently?
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Doug, I didn't quite hear that. State it over again?
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+Sure. Kind of as you guys look to balance kind of the short term versus the attractive intermediate to long term, can you just talk about
+how you kind of arrived at the current leverage level?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Yes. So it's a function of 2 things, right? The level of spreads where they are today relative to where we think they could go, that's the first
+thing. We're being very respectful of the technicals in the mortgage market and the probability here. I think as I said on the call, the
+catalyst for things to go tighter are fewer than the catalyst for things to go wider in the near term. So that 7x leverage reflects the ability
+of the portfolio to really withstand substantial further widening in spreads. And we believe that's the appropriate position as we navigate
+the next few months. So the things that we take into account, where are spreads today, where could spreads go in the near term, how
+much liquidity and capital do we want to have to be positioned with that? How much leverage do we want going into that? And then
+finally, as I mentioned, sometimes in the storm is when you can actually get most of your opportunities. We want to make sure that we're
+positioned in a way that we're not hampering our ability to take that offensive posture when the opportunity does come.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+And when that opportunity comes, I guess, where would you feel comfortable taking leverage, kind of when you think that some of those
+catalysts are starting to play out?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Yes. Look, that's like the $90,000 question, which people have been asking us since July, right? And we have actually faced a lot of
+pressure from our investors and others saying, "When are you going to take leverage up? How much are you going to take leverage up?"
+And I think the right answer to that is it depends. It depends on what the market is doing at that time. And what I can tell our investors
+and I can tell you, and you've seen us do this now, time and again, is when the opportunity presents itself, we will take advantage of it. It's
+going to be in the context of the broader macro environment. And if we believe the risk-return trade-off is positive, that leverage will go
+up, right? So it's always going to be made in the context of that decision. And what I can tell you right now, we said in the deck. We think
+we have somewhere between 2 and 4 turns of incremental dry powder. That's what we hope to deploy, but we'll do it slowly, and we'll do
+it prudently.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Let me add one other thing. Yes. I mean one other thing on this, Doug. You heard Smriti tell you how broad our book value swung during
+the quarter. And so we're sitting here, and the world starts to change, the environment changes, and we're looking at a book value that
+could potentially going to be materially higher than where we sit. That's going to have a material impact on where leverage happens to
+be. We'll take that into account in terms of how we're managing the portfolio. So we're not sitting here thinking in terms of a static
+moment in time. You can see how much volatility that's in the marketplace now.
+But really take note about that big win in book value because we were up book value solidly at the end of August, right? And so it's pretty
+fascinating to see this. With the book value up that high, the leverage goes down immediately. The 1 2 turns potentially. So very
+important that we're thinking in terms of a top-down approach, where, if spreads are held at 20 to 30 basis points tighter, leverages had
+to down. We're not going to wait until they get there to make the appropriate adjustments and investors as we think about it. So just to
+add that little piece in there to give you some more clarity.
+ 
+Operator
+Your next question is from the line of Bose George with KBW.
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+Actually, just sticking to the theme of leverage. Obviously, with spreads wider here, your market-to-market leverage has increased,
+impact of the envelope is that the market-to-market leverage is around 95% now. And you noted that there is the risk that spreads widen
+further. With that backdrop, how willing are you or what's kind of the range you're willing to let your market-to-market leverage kind of
+run-up to, and I mean, is there -- because I guess the concern is there's some level at which you might want to deliver. And that clearly
+sort of removes some of the up side when spreads tighten. So just kind of how you're thinking about that.
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Yes. So Bose, we did talk about the adjustments that we made in the portfolio. As of the end of last week, our leverage is actually down.
+From quarter-end leverage, the total capital that we disclosed was 7.2x during my comments. So we have taken the opportunity to
+actually not take the write-up on the entire portfolio to further spread widening. And I think that's what we believe is the right approach
+here coming into what we still see is going to be a rough ride here through year-end. And again, in terms of like how high would you let it,
+that type of decision at this point is almost like a day-to-day moment-to-moment decision. If we believe the market environment requires
+further deleveraging, we're going to do that, right? But as of now, we're operating with enough liquidity and capital, more than enough
+liquidity and capital to withstand basically a spread widening out to the peak of 2008 and beyond. So the liquidity position will be able to
+withstand that. Whether or not we actually choose to allow it to do that is a function of where we actually see the market environment
+evolving.
+Now in the intermediate term, we are saying the environment is going to improve for all the reasons I outlined in the call, right? You've
+got raw returns that are really outstanding. You've got supply that's coming down. And ultimately, unfortunately, the people who are
+selling bonds in this market are selling what we own. And when all this is over, they're going to want them all back. So at that point, it's
+going to be nice to have that. So it's a delicate line walking to say you want to -- you don't want to be in the position of giving up a lot of
+that upside when it eventually comes. But you got to get there. You got to make it there intact, and we're very, very cognizant of the risks
+involved with that. And so we haven't allowed our leverage to float up. We've made that adjustment, and that's part of how we're
+navigating this. And Byron, I think you want to add.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Yes, let me add something to this. From the last 2 questions, Bob's and Doug, as this -- when we say we went up in credit and up in
+liquidity, we increased liquidity on the balance sheet such that from 50 basis points on the team here, this ride, we've sat here and we've
+had plenty of liquidity not to worry about making adjustments to the portfolio because leverage is moving around or because margin
+costs have come in. We've been very easily actually managing our balance sheet. And Smriti have a problem saying this easily because
+they feel the stress that the investment team, as all investment teams do in the world with this type of market volatility. But in terms of
+the way I'm listening to your line of question around leverage, leverage will pressure those companies that don't have enough liquidity
+because they will scramble as leverage is moving to meet their liquidity. And if you look at their internal operations, they'll be scrambling.
+We don't have that issue because we went up in credit and up in liquidity. You can see all the decisions we made over the years. to have
+enough liquidity to deal with a surprising environment. 
+And the real key is that as leverage moves around, we may make very tactical decisions, but it won't have anything to do with needing
+liquidity. It will have something to do with the risk posture we're taking. Your best example is March 2020. They operated in exactly the
+same way. We had a ton of liquidity. We didn't worry about any type of margin calls. We adjusted the portfolio of 2 or 3x within that major
+storm and by the end of the year, everything was fine. So if you need a benchmark, go back and look at how we made decisions in 2020.
+Look how we made them in 2019 before 2020, and look how we made in 2020. Thank you.
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+Okay. Great. That's helpful. And then actually just one on the funding markets. Any changes you're seeing there, volatility, haircuts,
+anything to comment on?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+The answer to that is no. The Agency RMBS repo market has been very, very stable. We've had 0 haircut issues. The market is functioning
+in a very orderly manner. So no issues there.
+ 
+Operator
+Your next question is from the line of Trevor Cranston with JMP Securities.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+A question on the change in sensitivities you guys are showing as of October versus where you were at the end of the quarter. Can you go
+into some detail on what the changes you've made to hedge portfolio and the asset composition or that have kind of led to that material
+change, particularly in the rate exposures?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Right. Yes. So a big portion of that is a combination of 2 things. It's a combination of hedges that we put on and second, a reduction in
+the credit spread sensitivity. So some reduction in the level of assets, some increase in the level of hedges. And Trevor, what we're doing
+is making these adjustments sort of in real-time. And what we commit to do on this call is as we make those adjustments and we
+complete making those adjustments, we'll actually give more detail around exactly what those moves were over time. So suffice it to say,
+what we're really trying to demonstrate in those 2 slides is: number one; as it relates to interest rate sensitivity, that's substantially down
+versus quarter end; and then as it relates to sensitivity to credit spreads, that's down some, right? But on a percentage basis, less than
+the interest rate sensitivity in the book.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Okay. Got it. And then the question was on the coupon composition of the portfolio, given how much rates have moved, obviously, the
+coupon's to show in the portfolio as of September 30, anyways, are all trading at meaningful discounts. I guess on the margin as you
+guys are deploying capital, can you talk about like if you guys are looking at deploying into current coupons or if you're still kind of
+focused on more discount securities?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Yes. And that's a great question. And one of the things that -- the principles that you've probably seen us now follow for a few years is
+you want to generally try to have instruments that are, I'm going to say, hedgeable in that you know the duration or you're trying to
+estimate the duration as well as possible. The amazing thing about the coupons that we have owned and continue to own is that right
+now, with everything trading below a $95 price, most of those coupons are fully extended. And so the duration of those is not hard to
+estimate. And that's a really nice position to have in this volatile interest rate environment.
+So I'm very comfortable positioning us in that manner until we get through this transitional peer now. As we go through the transition,
+we're evaluating all kinds of things, right? So yes, current coupons, we are evaluating that. There's risk and reward associated in the
+current coupon, as well as the lower coupon. So the trade-off is always going to be what's the incremental return that I'm getting or the
+risk that I'm taking. And yes, current coupons offer more return, but there's a different type of risk that's involved, and there will be a time
+and a place to put that risk on the balance sheet. We haven't felt like that's appropriate yet, but that is exactly the type of offensive
+thought process that we're going through at the moment.
+ 
+Operator
+Your next question is from the line of Jason Stewart with JonesTrading.
+ 
+Jason Michael Stewart
+JonesTrading Institutional Services, LLC, Research Division - Senior VP & Financial Services Analyst
+I wanted to ask about the cost to operate in a sort of defensive lower leverage environment and how you guys are thinking about that.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+When you say the cost to operate, Jade, do you mean just the overall cost of running the business?
+ 
+Jason Michael Stewart
+JonesTrading Institutional Services, LLC, Research Division - Senior VP & Financial Services Analyst
+Correct.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Our cost levels are basically the same in terms of just, it hasn't increased in cost for having this type of market volatility where the cost
+comes on our time. Our focus level is at a materially higher level in terms of our personal time and how much time we're focused on the
+markets. You go from kind of normal workdays to a 24/7 type of environment, but in terms of just the cost fronting the business. We have
+a long-term perspective. And we're putting the right amount of money into our business to ensure that we are in great shape 1, 2, 3, 5
+and 10 years, short term, medium and long term. 
+So we're making some major changes in terms of our technology platform and other different areas that were really a year from now, 2
+years from now, proved extremely beneficial. Furthermore, back to us believing that surprises are highly probable and the world has
+become more complex, we started to make these types of technology changes to put us in better shape to manage this type of market
+environment, the exact market environment. So this environment doesn't have any impact in terms of the overall cost of doing business.
+Our focus on the long term is still exactly the same. We're investing in people, processes and technology to build a sustainable
+organization over the long term. We believe that the world needs a solid asset management team like Dynex Capital, especially
+cash-generating vehicles such as this. So I hope that gives you some insight.
+ 
+Jason Michael Stewart
+JonesTrading Institutional Services, LLC, Research Division - Senior VP & Financial Services Analyst
+No, that's great. I think that's perfect. I wanted to ask you 2 other quick questions. One, any expected changes that you guys think come
+out of FHFA given this environment?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Great question. Yes. I mean, I think this is the environment in which they open up the credit box, to potentially change the affordability
+picture for -- as mortgage rates are up here at 7%. We're looking at the loan size issue. Obviously, that is something that will come up
+here towards year-end. Those are 2 big factors. Nothing in the news so far that we can see where there's been movement towards
+opening up that credit box. We're looking at the November elections. That's going to be something that we're focused on as potential
+signaling of how this might evolve over the next 2 years. So right now, I think nothing is on the radar as far as we can see in terms of any
+major changes here.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Can I add one other thing? This is just a buying comment. You asked it out in public, so I'm going to make a comment. As a country, the
+agency security is a phenomenal asset for the United States. I would like our government and our FHFA to make Freddie Mac temporary
+stabilizing agencies for this market. They don't have to grow the portfolio like they did before, but it's ludicrous to have these
+organizations sitting there when they could actually be a stabilizing agent and ensuring that these markets trade smoothly. The
+mortgage market has traded anything but smoothly over the last few months. They can play a minor role. They could have played a
+minor role in March 2020, and I think it would have been a lot easier. 
+So as you talk to government regulators, bring that issue up. I worked at Freddie Mac. I know a role they can play. They don't need to play
+the big portfolio role they played before, but they can play a stabilizing agent in terms of how the agency mortgage market trades. And I
+would hope that one day, our regulators, FHFA or whoever else, will understand that.
+ 
+Jason Michael Stewart
+JonesTrading Institutional Services, LLC, Research Division - Senior VP & Financial Services Analyst
+Last one for me. How are you guys looking at buybacks on common or preferred versus investment opportunities? I mean, both present
+pretty good opportunities in my view right now.
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Long-term returns at 19% to 25% marginal returns are -- buybacks make sense when your investment opportunities relative to your cost
+of capital are inverted. That's not the case right now. And so again, this is an investment environment in which we're going to want to
+hold and deploy capital.
+ 
+Operator
+Your next question is from the line of Eric Hagen with BTIG.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+Just a couple more on the relative value within the coupon stack and how you guys think about managing liquidity, just in light of the
+paydown differential for securities across the stack and how you mix that with TBAs and pools. And then on the funding side, is there any
+value in borrowing with longer-term repo right now? Can you comment on the liquidity that you see for repo along the yield curve?
+ 
+Smriti Laxman Popenoe
+Dynex Capital, Inc. - President & Co-CIO
+Yes. I'll answer your second question first, Eric. We -- I think the idea that you can borrow across term is something that we've used very
+flexibly and well here at Dynex. And it continues to be sort of a mainstay of how we get through the quarter-end and so on and so forth.
+So there is a term premium that is currently being charged in the markets to go through year-end. It is actually not as big as the term
+premiums that we've seen in the past for the year-end turn. But there is a premium, and I think that's a big piece. The other thing that
+you're seeing is substantial amounts of uncertainty in the repo market with respect to when the Fed will make their 75 basis point hike
+move or the 50 basis point hike move or 75%. So there's a lot of just price discovery that's going on for November and December and
+beyond with respect to the magnitude of rate hikes. So -- but none of that has prevented us from: a, being able to term out our financing;
+or b, just the availability of financing. So we are able to term things out. Financing is available. We've not seen any issues with respect to
+haircuts or anything like that. We are seeing a term structure to those interest rates, as you would expect. 
+But again, not a problem with respect to actually how we operate. So your first question regarding relative value in (inaudible). So here's
+really how we're thinking about it. The first principle is just the principle of risk management. When you have coupons that are fully
+extended, and the prepayment risk is more or less baked into the price, they're much easier to hedge. So holding the lower coupons
+primarily is just simply a function of saying, I can -- I know what the duration is, and I'm able to hedge those instruments with
+instruments that are like that, like futures and so on and so forth.
+So that's the primary driver of owning coupons that are below par. Now over time, that will shift. That will shift because the carry-in
+higher coupons is higher. It will shift because of many other reasons, prepayments on the lower coupons could shift, it becomes lower, so
+on and so forth. So that is sort of the next decision to be made. And as you know, like in these higher coupons, you have more
+prepayment risk. You have more extension risk. You have more contraction rate. There's more convexity. So that relative value at this
+point is still sort of a thought process that we're going through. The higher coupons do offer more current returns. But the hedgeability of
+them, all of that is still in question because we're still in a transitional period.
+Anyone who bought higher coupons in this move, as you've gone from 2.5% to 4%, and you thought you could hedge them with whatever
+duration your model said, that's been a very, very difficult trade. And for us sitting in the lower coupons with a more extended profile,
+that's been sort of a big stabilizer as we've gone up in interest rates here. It's also much more exacerbated when you see rates up spreads
+wider in the current coupon versus the lower coupon. So as we're thinking about relative value, the #1 thing is, can I hedge it, and how
+can I hedge it? That's first because we're still in the transitional period. The time to have the relative value discussion, of course, is all the
+time. But you then -- once you're approaching the end of that transitional period, that's when we'll be thinking through more about
+where do we play off and how we play often.
+Now don't get me wrong. We're thinking about this all the time, but that's kind of the way we're approaching this. It's not an environment
+where you can just sit here and say, "Well, let me just own the highest coupons because that's what I think is fundamentally the right
+thing to do. You can't have that discussion without understanding that that's a macro risk decision, and that's what's really driving the
+way we're thinking right now.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+That's good. I appreciate that. With respect to the comments around the dividend and such, are we hearing that your dividend will most
+likely be characterized as a return of capital for both 2022 and '23? And any guidance, I suppose, on that.
+ 
+Alison G. Griffin
+Dynex Capital, Inc. - VP of IR
+Yes. Thanks, Eric. No, we're not saying that at all because the hedge gains, in particular, that would all be ordinary income and will be
+part of the distribution calculation. So yes, we're not saying that at all. And we're going to provide -- continue to provide color on our
+hedge gains and the impact on that to the portfolio to financing into taxable results so everyone can understand where we are, we can be
+transparent, people in your seat can model out where we are and kind of understand the direction that we're going in.
+ 
+Operator
+Your next question is from the line of Christopher Nolan with Ladenburg Thalmann.
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+Are you continuing to issue any shares into the fourth quarter here?
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Did you say... Are we...
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+Issuing shares?
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+With our price this fall. This type of chaotic market, Chris, I appreciate you asking this question. This type of chaos says you hunker down
+on all aspects of the balance sheet, and you wait out the storm. That's the purpose. We pulled this analogy of the boat out for a very
+strong reason. Smriti is a sailor, and Tom Akin, who was CEO before this is a sailor. We're serious. In a storm, you hunkered down the
+bulk, put down anchor, and you wake the storm out. This is on both sides of the balance sheet here. And so no, the short answer is I
+couldn't answer that to say the period now. As of right now, we're in a storm. If the storm took an interesting twist mid-September. That's
+the other key point here is that if you lead them to a zone where we are patient on all aspects of the balance sheet. So you want to make
+sure everyone understands this point about what we're seeing. We've talked about a whole tone, coupons or vol. The bottom line is
+mid-September with the chaotic British situation along with the labs inflation number, created complete chaos and market trading
+across the globe, treasuries, mortgages, corporate, whatever you want to mention. 
+And in a situation like that, a smart bolder hunkers down and weights the storm out. That's what we're doing in Dynex. If you want to
+take away any message from here, you say, they'll weigh the storm out. They have a boat that's built for a storm, and we got the ability to
+weigh the storm out because we built the boat with plenty of liquidity starting multiple years ago.
+ 
+Operator
+And at this time, there are no further questions. I will now turn the call back to Byron for any closing remarks.
+ 
+Byron L. Boston
+Dynex Capital, Inc. - CEO, Co-CIO & Director
+Thank you all. I really appreciate you being here. Thank you for the questions. Stay tuned. We'll be transparent. We're hunkered down,
+and we really appreciate all of our shareholders in the company. Thank you very much, and we look forward to chatting with you at our
+next call.
+ 
+Operator
+This concludes the Dynex Capital Third Quarter 2022 Earnings Conference Call. Thank you for your participation. You may now
+disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

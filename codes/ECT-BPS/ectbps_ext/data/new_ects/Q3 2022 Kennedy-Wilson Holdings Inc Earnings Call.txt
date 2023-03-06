@@ -1,0 +1,303 @@
+CORPORATE PARTICIPANTS
+ 
+Daven Bhavsar
+Kennedy-Wilson Holdings, Inc. - VP of IR
+ 
+Justin Enbody
+Kennedy-Wilson Holdings, Inc. - CFO
+ 
+Mary L. Ricks
+Kennedy-Wilson Holdings, Inc. - President & Director
+ 
+Matt Windisch
+Kennedy-Wilson Holdings, Inc. - EVP
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+ 
+BingYi Ma
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+PRESENTATION
+ 
+Operator
+Good morning, and welcome to the Kennedy-Wilson Third Quarter 2022 Earnings Conference Call. (Operator Instructions) Please note
+this event is being recorded.
+I'd now like to turn the conference over to Daven Bhavsar, VP of Investor Relations. Please go ahead.
+ 
+Daven Bhavsar
+Kennedy-Wilson Holdings, Inc. - VP of IR
+Thank you, and good morning. This is Daven Bhavsar. Joining us today from Kennedy-Wilson are Bill McMorrow, Chairman and CEO;
+Mary Ricks, President; Matt Windisch, Executive Vice President; and Justin Enbody, CFO.
+Today's call will be webcast live and will be archived for replay. The replay will be available by phone for 1 week and by webcast for 3
+months. Please see the Investor Relations website for more information.
+On this call, we will refer to certain non-GAAP financial measures, including adjusted EBITDA and adjusted net income. You can find a
+description of these items, along with the reconciliation of the most directly comparable GAAP financial measure, and our third quarter
+2022 earnings release, which is posted on the Investor Relations section of our website.
+Statements made during this call may include forward-looking statements. Actual results may materially differ from forward-looking
+information discussed on this call due to a number of risks, uncertainties and other factors indicated in reports and filings with the
+Securities and Exchange Commission.
+I would now like to turn the call over to our Chairman and CEO, Bill McMorrow.
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+Thanks, Daven. Good morning, everybody, and thank you for joining us today. Yesterday, we reported our third quarter results, which
+showed that our business and our portfolio continued to perform very well against the challenging macroeconomic environment
+stemming, in large part, from elevated global levels of inflation and the actions taken by the world's central banks.
+Our $22 billion in assets under management is comprised of over 37,000 multifamily units and 27 million square feet of commercial
+properties. Within our portfolio, we have many drivers that will contribute to our future growth. These include organically growing our
+multifamily net operating income, further expansion of our debt and industrial portfolios and the near-term completion of our $3 billion
+development pipeline, which is expected to produce $92 million of incremental NOI to KW, 83% of which we expect to be stabilized by
+the end of 2024. These areas of growth should meaningfully add to our $473 million of estimated annual NOI, which is up 9% for the
+year and up 15% from Q3 of '21; and to our $5.6 billion of fee-bearing capital, which has increased by 12% for the year and by almost 50%
+in the last 2 years.
+Roughly 2/3 of our NOI are from sectors where we are seeing strong cash flow growth, which include our apartment and logistics
+business, along with our loan portfolio in the Shelbourne Hotel. We continue to see impressive revenue growth of 9% from our
+multifamily same-property portfolio where top line rents outpaced inflation as the high cost of homeownership is boosting demand for
+rental housing.
+The logistics market continues to see positive rental growth rates driven by low vacancy across the U.K. Our global logistics portfolio,
+which now totals almost 11 million square feet, continued to remain almost fully occupied with occupancy at 99%. And our floating rate
+credit platform has continued to benefit from rising rates and a significant pullback from many of the larger traditional lenders as we
+continue to see a very robust pipeline of opportunities from institutional quality borrowers. The average spread on our floating rate loans
+is over 400 basis points. And in total, the platform is generating a return of 15% to KW.
+In Q3, we continued our strategic focus on multifamily debt and logistics. These sectors accounted for 100% of our $700 million of
+investments in the quarter. We grew our Mountain State presence by adding 260 units of best-in-class wholly owned apartment
+community in Albuquerque. And as part of this acquisition, we assumed debt with a fixed rate of 3.64% with 7 years left to maturity.
+In our coinvestment portfolio, our key acquisitions included $234 million of U.S. and European logistics assets and $320 million in loan
+originations. Our dispositions totaled $683 million in the quarter. Our largest consolidated sale was 178-unit urban apartment
+community in Oakland, which we sold for $56 million at a 4% cap rate and generated a $25 million gain on sale. The IRR on this sale was
+21% and resulted in a 2.5x equity multiple.
+We also sold $51 million in the Western United States retail and $43 million in U.K. office assets, which were all consolidated and which
+generated $10 million in gains. And in our coinvestment portfolio, we completed $525 million dispositions in which we had a 15%
+ownership interest.
+As I've discussed in the past, we have a long-term track record and experience of investing through many decades which has taught us
+some important lessons in navigating a period like we see today.
+First, our diversified portfolio is built to succeed across all cycles. 62% of our portfolio is comprised of multifamily, logistics and debt
+investments. These have been some of the best-performing sectors where we have seen strong growth. And in the case of multifamily
+and logistics, rents are still significantly below market, which creates an ability to continue growing our cash flows.
+Second, a long-term principle of our capital and hedging strategy has been to protect against changes in interest and currency rates.
+While we are predominantly a fixed rate borrower, we increased our interest rate protection levels earlier in the year to manage any risk
+related to our floating rate debt. As of September 30, 2022, 97% of our debt remains either fixed or hedged, and we have also hedged
+87% of the carrying value of our European investments. We have minimal debt maturities in 2023 totaling $311 million, approximately
+60% of which we currently plan to pay off using asset sales and existing cash.
+During the quarter, we restructured a number of our foreign currency hedges, generating $73 million of cash to KW while still
+maintaining a strong hedge position. Of note, since 2013, we have generated over $240 million of cash from realizations on our currency
+hedges.
+Finally, we have forged very important relationships with large strategic institutional partners that have invested successfully with us,
+particularly over the past decade. They continue to be well capitalized and remain active with Kennedy-Wilson. And with almost $4
+billion of unspent nondiscretionary committed capital in our announced platforms, we continue to evaluate ways of taking advantage of
+the new opportunities that may present themselves in the next 12 to 18 months.
+I'd now like to turn the call over to our CFO, Justin Enbody, to discuss our financial results in more detail.
+ 
+Justin Enbody
+Kennedy-Wilson Holdings, Inc. - CFO
+Thanks, Bill. Our Q3 results demonstrated the resilience of our portfolio. During the quarter, GAAP EPS totaled $0.12 a share. Adjusted
+net income, which adds back noncash expenses, such as depreciation, totaled $69 million or approximately $0.50 per share. Q3 adjusted
+EBITDA totaled $166 million. Year-to-date, we've generated GAAP EPS of $0.31 per share, adjusted net income of $196 million, or
+approximately $1.43 per share, and adjusted EBITDA of $444 million.
+We continue to see further improvement in our consolidated quarterly revenue, which is up 22% year-over-year and almost 3% on a
+sequential basis. Including unconsolidated investments, our share of recurring NOI, loan income and fees increased by 17% to $130
+million in the quarter from Q3 of last year. In our consolidated portfolio, which is essentially all held at fair value, increases in interest
+rates and currency fluctuations resulted in an approximate 2% decrease in asset values during Q3. However, this was offset by an
+increase in net asset values from the mark-to-market on the associated property level debt.
+Turning to our balance sheet and debt profile. As Bill mentioned, we're very focused on managing our interest rate risk, primarily through
+being a fixed rate borrower and also through the use of interest rate hedges on our floating rate debt. The extreme fluctuations in rates in
+Q3 resulted in a $38 million increase in the value of our hedges for our consolidated portfolio, and this is included in other income on our
+P&L. Our interest rate hedges have a weighted average maturity of 2 years.
+Looking ahead to our debt maturities, in total, less than 10% of our debt matures before 2025, all of which are nonrecourse
+property-level financings. We also have a strong handle on our near-term debt maturities. In 2023, we currently plan to pay off over half
+of our maturities with proceeds from asset sales, a significant portion of which have already been completed. Lastly, our effective interest
+rates stood at 4% with a weighted average maturity of 5.9 years.
+At quarter end, we have $720 million in liquidity, which includes $420 million of consolidated cash and $300 million of availability on our
+$500 million line of credit. Post quarter end, we paid our line of credit down by an additional $25 million.
+With that, I'd now like to turn the call over to Matt Windisch to discuss our multifamily portfolio.
+ 
+Matt Windisch
+Kennedy-Wilson Holdings, Inc. - EVP
+Thanks, Justin. Our global multifamily portfolio now comprises 56% of our estimated annual NOI. That's up from 42% back in 2018. In
+the U.S., strong demand for rental housing resulted in blended leasing spreads of 13% in Q3. This, in turn, resulted in another quarter of
+solid same property NOI growth of 9%. The strongest performance came out of our Mountain West portfolio, which is our largest
+apartment region, where revenue increased by 13%. The affordability of this region, coupled with other high-quality and amenity-rich
+communities, continues to attract renters, with rents increasing by 13% on new leases and 15% on renewals.
+While the Mountain West has been a big beneficiary of in-migration, there also continues to be solid job growth by well-known
+companies. For example, in September, Micron Technology broke ground on a new $15 billion chip manufacturing facility in Boise, which
+they expect to create over 17,000 local jobs. And in Arizona, both Intel and Taiwan Semiconductor are underway on large-scale,
+multibillion-dollar expansions. In New Mexico, Netflix and NBCUniversal have both built studios within the last year, and Intel is in
+process on a multibillion dollar expansion as well. With average rents in the Mountain West totaling $1,523 per month, rents continue to
+remain very affordable compared to higher-cost states, which we think bodes well for the long-term growth of this region.
+As Bill mentioned, our key wholly owned acquisition in the quarter was a 260-unit multifamily community in Albuquerque where we now
+own over 1,700 units. This value-add acquisition includes plans to renovate a majority of the units and a variety of other amenities. And
+again, we were able to assume attractive below-market fixed-rate debt at 3.64% as part of the purchase. The Albuquerque acquisition
+was part of our recycling plan as we sold an older urban asset in Oakland during the quarter.
+Our Northern California market rate portfolio is now our smallest region with only 3 assets in the same property pool. In California, we
+saw the end of the eviction moratorium and related government relief programs in the quarter, which resulted in higher bad debt and
+property level expenses compared to Q3 of '21. We view a part of this increase as temporary as we begin to recapture units from
+nonpaying tenants and focus on increasing occupancy by year-end.
+Overall, our U.S. market rate portfolio has an average loss to lease of 11% which, to put into context, could result in another $22 million of
+NOI to KW over time if captured. We've renovated over 1,000 units thus far in '22 at an average cost of $13,000 and a 25% return on cost.
+And we still have over half of our units that have yet to be renovated, providing us a good runway for growth.
+Our Vintage affordable housing portfolio also had a strong quarter. Rents, which are directly tied to the change in area median income,
+increased by 6%. And occupancy improved to 97.5%, up from 96.6%. During the quarter, we stabilized Vintage at Sanctuary in Nevada,
+bringing our portfolio to over 9,100 stabilized units with another 2,100 in development, which will require minimum equity from KW to
+complete. Our Vintage portfolio stands to benefit from growing area median incomes in our markets with the majority of the units
+located in the Pacific Northwest and the Mountain West.
+In Dublin, same-property occupancy improved by 5% to over 98%, which resulted in same-property NOI growth of 7%. Demand for rental
+housing in Ireland remains very strong, especially relative to supply as there is currently an extremely low availability of units to rent in
+Dublin. This strong demand in structural undersupply of housing bodes well for the approximately 1,000 units which we will start
+delivering next year in Dublin.
+Turning to our investment management business. An important source of growth for KW has been our global debt platform where we are
+originating loans with strong sponsors. Given that 86% of the loans are floating rate, rising rates have improved the earnings, which are
+a combination of interest and asset management fees from our debt platform, from the low teens initially to high teens today unlevered.
+During the quarter, we completed $320 million in new fundings at an average spread of 430 basis points and an average LTV of
+approximately 55%. We had minimal repayments of $30 million in Q3. Post quarter end, we completed another $165 million of new
+originations, bringing our platform to $2.6 billion in loan investments, of which KW holds a 7% interest. We currently have additional
+capacity of $3 billion in capital to continue growing this business as opportunities arise.
+With that, I'd like to turn the call over to our President, Mary Ricks.
+ 
+Mary L. Ricks
+Kennedy-Wilson Holdings, Inc. - President & Director
+Thanks, Matt. Similar to the growth of our debt platform, this year, we've seen rapid expansion in our logistics footprint globally, which
+has been an important component of building our investment management platform. In Q3, we acquired $150 million of logistics assets
+in Europe and $84 million in the U.S., in which our ownership share was 14%. These acquisitions added 7 assets across 2.1 million square
+feet and expands our industrial portfolio to 110 assets, totaling almost 11 million square feet, with total assets under management of $1.6
+billion.
+83% of our logistics portfolio is located in the U.K. where fundamentals remain strong. U.K. prime rental growth in 2022 has been 13%,
+above 2021 levels. We are seeing significant demand for good quality warehouse space from occupiers who are looking to address and
+improve their supply chain resilience. U.K. vacancy stood at 3.7% with many submarkets at below 2%, putting continued upward
+pressure on rent.
+This year, we have completed 300,000 square feet of industrial leasing in Europe with in-place rents increasing by 22%. Our occupancy
+remained solid at 99% with in-place rents 29% below market, which positions us well to continue delivering strong industrial rental
+growth.
+As capital markets and investment volumes fluctuate, we continue to discuss with our strategic partners, which include insurance
+companies and sovereign wealth funds, different ways we can capitalize and continue growing our industrial platform which may include
+acquiring assets with no initial leverage. Our well-capitalized partners are committed to this asset class long term, and we look forward
+to growing our industrial platform in the coming years.
+Currently, our investment management platform has $3.8 billion of nondiscretionary capital, which we look to deploy across all our
+announced platforms. This will add significantly to our existing $5.6 billion of fee-bearing capital today, which has grown by 12% thus far
+in 2022.
+Turning to our office portfolio. We saw improvement in office occupancy from Q2, with our stabilized occupancy totaling 94.7% at KW
+share. These occupancy gains and lower bad debt drove same property revenue by 3% and NOI by 2% in the quarter. 2/3 of our office
+NOI comes from Europe, primarily in the U.K. and Dublin, where our portfolio has a strong tenant profile and an attractive weighted
+average unexpired lease term of 5.4 years.
+Leasing activity in the U.K. remains focused on better quality assets, offering best-in-class space. Across our European portfolio, we
+completed 31 commercial lease transactions in the quarter across approximately 475,000 square feet with a 12-year weighted average
+lease length. We are seeing continued strong demand into Q4 and currently have a pipeline with over 500,000 square feet of lease
+transactions in legals, which represents approximately $5 million of rental income to KW.
+In Dublin, our office portfolio boasts a strong 97% occupancy. Similar to the U.K., we continue to see occupier demand for newer
+constructed office assets with leading environmental, wellness and intelligent building technologies. I'm happy to report that we
+stabilized 20 Kildare Street in the quarter at rents ahead of business plan, adding over $3 million of NOI. This 65,000 square foot office
+building, which is well located across from the Shelbourne Hotel, was developed to both a LEED and WELL gold accreditation. In total,
+our global development and lease-up portfolio is expected to add $92 million to our estimated annual NOI and we anticipate that 83% of
+this will be in place by the end of 2024.
+And finally, the Shelbourne Hotel had a strong summer as the ease of COVID restrictions and pent-up travel demand to Europe resulted
+in pre-COVID levels of revenue and NOI of over $5 million in Q3. The hotel outperformed expectations in Q3, with July and September
+being record months as occupancy averaged over 90%. 72% of our guests in 2022 have come from North America. We are seeing strong
+forecasted room revenue for the remainder of 2022 and look forward to closing out a solid year of recovery for this iconic hotel.
+And with that, I'd like to pass it back to Bill.
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+Thanks, Mary. In closing, I'm very pleased with how KW is positioned today, and I remain very positive about the growth opportunities
+that exist across our business, including in our value-add multifamily portfolio, future growth of our debt and logistics platforms and the
+completion of the developments. I'm extremely confident in our team's ability to uncover opportunities that may arise as we have always
+maintained an opportunistic approach to investing and have a proven track record of creating value during periods of uncertainty.
+I'd like, in closing, to thank the global KW team and our shareholders, partners, and our Board for their support of Kennedy-Wilson.
+And with that, I'd like to open it up to any questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question will come from Anthony Paolone with JPMorgan.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+My first question is, I guess, 2 parts. One, can you go around your product types and regions and perhaps comment on where you think
+cap rates or values have gone year-to-date? And two, somewhat related to that, you've talked about all the capital that you kind of have
+committed on the sidelines, if you will. Just where your appetite is to kind of deploy it into this market or if you want to wait, just your
+general pulse as regard as it relates to just putting out more money right now.
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+Well, Tony, thank you for the questions, good questions. I mean, I think we've said on last quarter's call that we're being very patient with
+the use of our capital right now. The one part of the business that we see great opportunities in right now is the growth of the debt
+business. And on the equity investing side, there's always a time lag between when you go into these periods of time and when the
+opportunities show up. And so it's kind of our belief that really the equity opportunities are not going to show up really this year, but we'll
+be into next year before that happens.
+And as we pointed out on the call, we've got a big commitment to, I would say, the final 15 months of the majority of our development
+pipeline, which we started working on really back 5, 6, 7 years ago. And as you can see from the comments that Mary made, we've been
+able to stabilize things like Kildare Street and Clara in Boise, Idaho, at well above cap rates that you could be buying out.
+As far as the cap rate environment, there's not a lot of empirical evidence at this point in time about what's really going on with cap rates.
+So I would say that there still is a great amount of capital that's available to invest. The only piece of evidence that we have really on our
+own backyard is really the apartment building that we sold in the third quarter close in August, but we sold that at a 4% cap rate. Now
+I'm not concluding from that that's where cap rates are. But I think there is somewhat of a feeling that people are willing to absorb the
+lower cap rates to get higher quality properties today and just take the view, in some cases, that they're not even going to leverage these
+purchases, and they're going to wait until the capital markets return to something of a normal nature.
+The other point I would make about cap rates is that's just one way to look at any real estate investment. But it comes as no surprise to
+anybody on this call that costs have gone up over the last 1.5 years. And so on virtually any project that you might be finishing today, if
+you were starting that same project, you would be looking at at least 20% to 30% higher levels of cost. And so the replacement cost --
+and I think one of those very important decisions that we made throughout the COVID period of time and really even into this year was
+that we bought out a lot of the raw materials, we entered into basically fixed price contracts on the construction. And so we're finishing
+properties not only at cap rates that are higher than what we underwrote at the beginning of time, but we're finishing these properties at
+cost levels that, as I said, I'm repeating myself, if you started them today, you'd be paying 20% to 30% more to build that same property.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+Got it. If I could just ask one more. Just with regards to the dividend, if we go into a period of time where perhaps you're seeing less in the
+way of gains and promotes and things like that, that you've typically had in the past, do the normalized property operations, as they sit
+today, provide enough cash flow and cushion to just keep the dividend where it is?
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+Yes. I mean we were comfortable with where the dividend level is right now. As you know, we just approved yesterday, I guess it was, a
+dividend to be payable in January. And it's obviously something any company looks at every quarter, but we're comfortable with where
+we're at cash flow-wise and the sales and so on that we have in the pipeline to see that sustained.
+ 
+Operator
+(Operator Instructions) Our next question will come from Wendy Ma with Evercore.
+ 
+BingYi Ma
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+Just want to get some color about some trends that may impact the multifamily demand. So how should we think about the
+return-to-office trend, the impact on your Mountain West portfolio? And also given some risk views about some big tax firms considering
+layoffs or some hiring freeze. How do you think that will impact the demand for your multifamily portfolio, especially in California?
+ 
+Matt Windisch
+Kennedy-Wilson Holdings, Inc. - EVP
+Thanks, Wendy. This is Matt. So on your first question with regards to the Mountain West, we've been investing in the Mountain West for
+almost a decade now. And we've always had a view that the lower-priced rents, the affordability, the lifestyle made sense in terms of
+investing there. And that region prior to the pandemic was outperforming our other regions. During the pandemic, you saw really an
+incremental increase in demand for those regions and we saw a very strong outperformance. Now that we're towards the end of the
+pandemic, we're still seeing very strong demand in those regions, but it's normalizing back to kind of where it was pre-pandemic in terms
+of the outperformance. .
+So as we mentioned in our prepared remarks, you've got a lot of job creation going on in a lot of these cities. You still have the
+affordability and you still have the lifestyle. So from our perspective, we're not seeing any letup in demand that's happening in those
+particular regions. And we still have a significant loss to lease across the board there. So we're very comfortable with those investments
+and continuing to find opportunities in those markets.
+With regards to California, we talked about Northern California a bit being weak this quarter, but that was really driven by the eviction
+moratorium coming off and occupancy temporarily dropping. We actually did see pretty good lease trade out in those markets, so it was
+really occupancy driven. And as we recover occupancy back to our more normal levels of 95%, 96%, we expect that region to perform
+quite well over the next year.
+ 
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to Bill for any closing remarks.
+ 
+William J. McMorrow
+Kennedy-Wilson Holdings, Inc. - Chairman & CEO
+Yes. Well, listen, thank you, everybody, for your continued interest in Kennedy-Wilson, and thank you for joining the call today. Have a
+great day. Thanks. .
+ 
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

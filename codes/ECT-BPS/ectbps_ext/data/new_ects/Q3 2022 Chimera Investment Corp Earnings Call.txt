@@ -1,0 +1,282 @@
+CORPORATE PARTICIPANTS
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+ 
+Subramaniam Viswanathan
+Chimera Investment Corporation - CFO
+ 
+Victor Falvo
+Chimera Investment Corporation - Head of Capital Markets
+CONFERENCE CALL PARTICIPANTS
+ 
+Kenneth S. Lee
+RBC Capital Markets, Research Division - VP of Equity Research
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+PRESENTATION
+ 
+Operator
+Good day, ladies and gentlemen, and welcome to the Chimera Investment Third Quarter 2022 Earnings Conference Call. (Operator
+Instructions) At this time, it is my pleasure to turn the floor over to your host, Victor Falvo, Head of Capital Markets. Sir, the floor is yours.
+ 
+Victor Falvo
+Chimera Investment Corporation - Head of Capital Markets
+Thank you, operator, and thank you, everyone, for participating in Chimera's Third Quarter 2022 Earnings Conference Call. Before we
+begin, I'd like to review the safe harbor statements. During this call, we will be making forward-looking statements which are predictions,
+projections or other statements about future events. These statements are based on current expectations and assumptions that are
+subject to risks and uncertainties which are outlined in the Risk Factors section in our most recent annual and quarterly SEC filings.
+Actual events and results may differ materially from these forward-looking statements. We encourage you to read the forward-looking
+statement disclaimer in our earnings release in addition to our quarterly and annual filings.
+During the call today, we will also discuss non-GAAP financial measures. Please refer to our SEC filings and earnings supplement for
+reconciliation to the most comparable GAAP measures. Additionally, the content of this conference call may contain time-sensitive
+information that is accurate only as of the date of this earnings call. We do not undertake and specifically disclaim any obligation to
+update or revise this information. I will now turn the conference over to our CEO and Chief Investment Officer, Mohit Marria.
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Good morning, and welcome to the Third Quarter 2022 Earnings Call for Chimera Investment Corporation. Joining me on the call today
+are Choudhary Yarlagadda, our President and Chief Operating Officer; Subra Viswanathan, our Chief Financial Officer; and Vic Falvo, our
+Head of Capital Markets. After my remarks, Subra will review the financial results, and then we will open the call for questions.
+Before we begin, I would like to congratulate all the Chimera employees and members of our Board of Directors, past and present, as we
+celebrate our 15th anniversary as a New York Stock Exchange listed company. I'm very proud of the team we have built and very much
+appreciate all their contributions to the company. While elevated market volatility in the third quarter has led to higher rates and wider
+spreads, putting further pressure on our book value, we believe this has created several opportunities for Chimera on both sides of the
+balance sheet.
+In particular, to the end of October, we've been able to increase our cash position, increase the amount of non-mark-to-market financing
+and either added or committed to add new investments to our portfolio. It has been a busy period for us, which I will discuss in more
+detail in a moment. But first, let me describe the overall market and how that translates to our portfolio and expectations. The capital
+markets have been volatile this year, buffeted by global conflicts, high inflation, a rapidly rising interest rate environment and a
+weakening U.S. economy. Inflation, which Federal Reserve officials have believed to be transitory in nature last year has turned out to be
+persistent with the consumer price index reaching 8.3% on a year-over-year basis in September.
+As a result, the Federal Reserve raised interest rates 75 basis points at each of their July and September meetings, bringing total
+tightening of short-term interest rates to 300 basis points over the first 9 months of this year. The magnitude and velocity of the Fed
+tightening has put downward price pressure on all fixed income products, including treasuries, corporate bonds and mortgage-backed
+securities. Higher rates across the capital markets have flowed through to the consumer with a rate of 30-year conforming mortgages
+rising to 7.04% at quarter end versus 3.18% 1 year ago. Higher mortgage rates have substantially slowed down new home purchases and
+eliminated refinance activity. As reported in September, sales of existing homes declined for 8 consecutive months to the lowest level in
+the past decade. As a result, we believe this year's mortgage rate shock to the consumer will have an impact towards slowing down the
+economy and ultimately lead to lower rates as many consumers will have less disposable income to spend.
+Chimera's portfolio of residential mortgage credit is unique and differentiated amongst our peers. It is well seasoned and has
+experienced many interest rates and economic cycles. We have approximately $1.2 billion of non-agency RMBS and which is largely
+comprised of opportunistic purchases made after the previous housing crisis. This portfolio has provided double-digit returns for a long
+period of time for our portfolio, and we expect it to continue into the foreseeable future. And since 2014, we have amassed an $11.8 billion
+portfolio of residential mortgage loans with substantially different characteristics then available through typical mortgage banking
+channels used by banks and traditional mortgage-backed security investors.
+Our loan portfolio consists of 115,000 loans with an average loan balance of $102,000. The loans are an average 15-year season and an
+average loan to value at origination was 83%. Importantly, 88% of our loans were originated in 2007 or earlier, which means
+homeowners have been making mortgage payments on their homes for 15 years or more. And the portfolio is geographically diverse with
+only 3 states having geographic concentrations above 5%. Overall, this portfolio is different. The small loan size equates to low monthly
+mortgage payments. The age of the loans has afforded many of the homeowners a reasonably long period of time to capture home price
+appreciation and/or mortgage amortization and there is a long and demonstrated history of monthly mortgage payments paid by the
+homeowner. All of these factors are very important features when evaluating a mortgage borrowers paying ability.
+Our seasoned reperforming portfolio is the cornerstone of our business and we believe our portfolio of seasoned reperforming loans will
+continue to outperform the market. We believe market conditions with higher interest rates and wider mortgage spreads presents new
+accretive investment opportunities. Since the beginning of the year, we have been scaling into new investments. We believe our patience
+and investment discipline throughout this year will benefit our shareholders over the long term.
+Now I will take you through our recent activity. During the third quarter of 2022, we committed to purchase $687 million of residential
+mortgage loans, $211 million of this total settled in October. We expect to close $476 million loans into a long-term non-mark-to-market
+structure, which we anticipate will generate double-digit returns. Due to the delay in settlement, we expect to see the full benefit of these
+loans in 2023. We Additionally, we purchased and settled on $66 million of business purpose loans during the third quarter of 2022. As
+we have mentioned in the past, we like the loan characteristics associated with business purpose loans. They have short duration and
+provide good spread income for the portfolio. In total, we committed to purchase $753 million loans in the third quarter.
+As of the end of the quarter, 96% of our capital was allocated to residential credit assets. Securitizations remain the primary source of
+financing of our loans.
+In September, we sponsored CIM 2022-R3. Our rated securitization of seasoned reperforming residential mortgage loans with a principal
+balance of $370 million. Securities issued by CIM 2022-R3 with an aggregate balance of approximately $284 million were sold in a
+private placement to institutional investors. These senior securities represented approximately 77% of the capital structure. We retained
+subordinated notes and certain interest-only securities with an aggregate balance of approximately $86 million. We also retained an
+option to call the securitized mortgage loans at any time beginning in September of 2027. Our average cost of debt for this securitization
+is 5.80%. As of the end of the quarter, securitized debt represented 72% of our total financing with an average cost of 2.7% and 98% of
+our securitized debt is fixed rate. Largely because of securitization this quarter, we reduced our overall recourse financing by $328
+million. On the remaining 28% of our financing we have kept a portion of our secured credit financing in either non or limited
+mark-to-market facilities.
+This quarter, we extended a maturing $489 million non-mark-to-market facility by an additional 29 months to February of 2025. We
+continue to believe these facilities are valuable components of our liability structure. The third quarter experienced a significant increase
+in interest rate volatility. Given the market outlook for higher rates for an extended period, we entered a $500 million 2-year and a $385
+million 5-year interest rate swap. These swaps complement the $1 billion swaption we entered in Q2 so that we may partially hedge our
+borrowing cost over a longer period. We expect to manage our derivative hedge position in conjunction with our asset and liability
+framework. In total, during the third quarter, we entered into $885 million pay-fixed interest rate swaps.
+And post quarter end, we ended October with approximately $350 million of cash on our balance sheet, entered an additional $1.1 billion
+of pay-fixed interest rate swaps. Entered a new 2-year non-mark-to-market secured financing facility for $250 million to finance retained
+securities from our securitizations and sponsored $145 million CIM 2022-NR1 with existing loans from our warehouse. These transactions
+have further strengthened Chimera's liability and liquidity position since quarter end. Throughout 2022, we have managed our balance
+sheet to lock in long-term funding while seeking opportunities to have higher-yielding mortgage assets to our portfolio. We have
+maintained a lower recourse leverage and stuck to our discipline of carrying non or limited mark-to-market financing for many of our
+subordinate credit assets.
+And while markets have been challenging since the beginning of the year, we have closed or committed to acquire $1.6 billion of loans,
+completed 5 securitizations totaling $1.6 billion, repurchased $50 million of our common stock, entered nearly $3 billion hedge
+transactions to protect against further increases in interest rates and expect to add new credit financing partners bringing on non and
+limited mark-to-market facilities to nearly 50% of secured financing. We believe our credit portfolio is strong, and we'll continue to
+outperform other mortgage assets in the marketplace. Chimera is a strong believer in securitization. It provides us with stable,
+nonrecourse long-term financing. We have taken many steps to bolster our balance sheet so that we can weather the current economic
+storm. We believe we are well positioned to take advantage of the new market opportunities and that our patient and investment
+discipline will benefit our shareholders over the long term.
+I will now turn the call over to Subra to review the financial results for the quarter.
+ 
+Subramaniam Viswanathan
+Chimera Investment Corporation - CFO
+Thank you, Mohit. I will review Chimera's financial highlights for the third quarter of 2022. GAAP book value at the end of third quarter
+was $7.44 per share, and our economic return on GAAP book value was negative 13% based on the quarterly change in book value and
+the third quarter dividend per common share. GAAP net loss for the third quarter was $205 million or $0.88 per share. On an earnings
+available for distribution basis, net income for the third quarter was $63 million or $0.27 per share. Our economic net interest income for
+the third quarter was $104 million. For the third quarter, the yield on average interest-earning assets was 5.5%.
+Our average cost of funds was 3% and our net interest spread was 2.5%. Total leverage for the third quarter was 3.9:1, while recourse
+leverage ended the quarter at 1.1:1. For the quarter, our annualized economic net interest return on average equity was 14.8%. And our
+annualized GAAP return on average equity was negative 26.5%. And lastly, our third quarter expenses, excluding servicing fees and
+transaction expenses, were $15 million, consistent with previous quarter.
+That concludes our remarks. We will now open the call for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And our first question comes from Ken Lee from RBC Capital Market.
+ 
+Kenneth S. Lee
+RBC Capital Markets, Research Division - VP of Equity Research
+A lot going on in terms of the financing side between the -- extending the non-mark-to-market and the rate swaps you've been entering
+into. Just wondering if you could talk a little bit about how you think funding costs could trend over the near term given all these
+changes? And importantly, how responsive would funding costs be to rising rates?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Ken, this is Mohit. That's a good question. As we enter 2022, the expectations of the Fed from where it started to where it was going to
+end with the magnitude of about 3 to 4 rate hikes. Obviously, as we mentioned in the opening remarks, they've gone much further. And
+yesterday, went an additional 75 basis points for the Fed funds rate to be at 4%. And as a result of how quickly the expectation of where
+the Fed is going to change, is why we started laddering into swaps and hedges to protect our financing costs over the last 2 quarters and
+even post quarter end.
+So the mass majority of our recourse borrowings are floating rate in nature. So any adjustments in the index and the Fed fund rate
+translates into an increase in financing costs. But these hedges will lock in over the next 2, 3 years locked in rate with the spreads that
+this finance on. But from a spread perspective, in terms of the asset we're looking to finance, there are still ample cash at those spreads
+to finance those assets. So it's more the benchmark rate as opposed to the spread, that's a bigger concern for us.
+ 
+Kenneth S. Lee
+RBC Capital Markets, Research Division - VP of Equity Research
+And I appreciate -- just one follow-up, if I may. I appreciate the discussion on the RPLs and realizing that much of the resi loans are very
+seasoned. But I wonder if you can just talk about the potential impact of a slowing housing market and the potential home price declines
+in terms of resi loan valuations or non-agency valuations.
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Sure. So the big differentiator for us on our loan portfolio is the vast seasoning that the portfolio has. The origination in LTV was 83%. So
+if you assume that 85% of the portfolio was originated prior to 2007, there's been 15 years of natural amortization, coupled with some
+pretty strong HPA. So we think the updated or HPI adjusted, amortized adjusted LTV on the portfolio is closer to 50%. So from a credit
+performance standpoint, that gives you a lot of equity to play with and if you look at the average loan balance of $102,000, the monthly
+mortgage payment is sub-$800 a month. And if you just compare that to the change in mortgage rate from the start of the year to now,
+for a $400,000 mortgage, that mortgage payment adjustment would be $900. So these borrowers have gone through different interest
+rate cycles, different credit events, so we think there's going to be really not a material change given the lack of housing alternatives that
+these borrowers have.
+ 
+Operator
+And our next question comes from Trevor Cranston from JMP Securities.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Can you guys talk a little bit about how the high level of volatility in the rates market has impacted your investment appetite just given
+the risk that there could be a big move in rates and spreads between the time period when you acquire loans and when the securitization
+takes place?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Trevor, again, a good question and one we addressed on sort of other calls as well. Like our approach is not to necessarily aggregate
+loans in mini bulk size that we buy bulk production and warehouse them to transfer servicing and ultimately to securitize. So the period
+of time from committing to a trade to funding a trade to securitization, we sort of look at it from a 60- to 90-day basis from a turnaround
+perspective. So we try to limit how much exposure we have to spread in rates adjusting. Now this year has been unique, given how
+quickly rates have moved in Q3. The 2-year it moved 130 basis points, a 5-year moved 100 basis points and the 10-year moved 90-ish
+basis points. So it made it a bit challenging environment on top of the amount of issuance in the new issue market. But again, we do take
+warehousing risk and use that as much as possible with a quick turnaround that I just mentioned.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Okay. Got it. And then in the post quarter update, you mentioned the $476 million of loans, I think you called it, they were going to be
+placed into a long-term non-mark-to-market structure. Can you explain exactly what that is? And why are you utilizing that versus
+securitization?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Sure. So as you just touched upon and as I just mentioned to the prior question, given the challenges within the new issue market
+currently, like we acquired these loans where we have also locked in a 5-year tenure financing arrangement, which will be on a
+non-mark-to-market basis achieving a similar advance rate that you would get via a securitization. So we thought this was a better
+outcome to produce better returns for the company.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+And are structures like that something that you think could be more available in the near term if the new issue market doesn't necessarily
+look as attractive?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Yes. I mean I think, again, given the challenges the new issue market is facing, these structures could become more commonplace. And if
+and when the market returns on the securitization front, we will sort of balance that out on a go-forward basis.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Okay. Got it. And then last thing, can you provide a update on book value quarter-to-date?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Sure. I mean, again, we've had this question in the last 2 quarters. And each time you've sort of presented it. It's been very vastly different
+by the time quarter has ended. Since the end of the quarter, rates have moved about 30 basis points parallel across the curve. Spreads
+are marginally wider. I would suspect book value to be down between 2% to 3% since quarter end.
+ 
+Operator
+(Operator Instructions) And our next question comes from Bose George from KBW.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+This is actually Mike Smyth on for Bose. My first question is, can you provide an update on your asset acquisition pipeline kind of the
+overall level of competition in the space. I'm wondering if any of your loan origination partners has stepped away kind of given the uptick
+in volatility. And then as a follow-up, can you just remind us how many loan origination partners you have? And then if any are shutting
+doors or facing solvency issues, just kind of given the moving rates.
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Sure, Mike. As far as sourcing assets, it's not a problem. I think as we've sort of highlighted, we've been defensive trying to maintain low
+leverage while adding accretive assets. Since the start of the year, we acquired $1.6 billion of loans. And obviously, we've also done 5
+securitizations to fund a lot of those transactions. We are going to bid loans to where the securitization exit is and/or where we can find
+other long-term sources of financing for those loans. We don't have a flow agreement with anybody. We buy to what makes the most
+economic sense from an ROE perspective for the company. So again, we have no commitment with any particular originators in terms of
+sourcing on a flow basis any assets. We have everybody I reckon call to sort of pick and choose the collateral that we like. So hopefully,
+that answers your question.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+Yes, that's helpful. And then maybe just one more. Can you talk a little bit about where levered ROEs are on new investments? And then
+kind of how you're thinking about the balancing act between going on offense, buying back stock and maintaining a strong liquidity
+position?
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Sure. So let me start with the ROE question. As we mentioned on the loans that are looking to settle here in Q4, the $476 million, we
+mentioned double-digit returns on that investment. I think the vast majority of the mortgage ecosystem can produce pretty attractive
+levered returns. But given the backdrop of higher rates, still impeding inflation and Fed being active, we're going to maintain a pretty
+disciplined approach to deploying capital. I think maintaining liquidity is the biggest focus here as we have done throughout the year. We
+started the year with 1.0 turns of recourse leverage. We're at 1.1 now and rates have moved to the tune of 300 to 400 basis points across
+the curve. But at the same time, we want to be just as in deploying accretive capital given how attractive some investments look. But on
+the aggregate, lever return should be in the mid-teens at least for us to sort of deploy capital and we see plenty of opportunities there as
+it stands now.
+ 
+Operator
+And there appears to be no further questions at this time. I would now like to turn it over to management for any closing remarks.
+ 
+Mohit Marria
+Chimera Investment Corporation - CEO, CIO & Director
+Thank you, operator, and thank you, everyone, for joining us on our call today. We look forward to speaking to you next year.
+ 
+Operator
+Thank you. This does conclude today's conference. We thank you for your participation. You may disconnect your lines at this time, and
+have a wonderful day.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

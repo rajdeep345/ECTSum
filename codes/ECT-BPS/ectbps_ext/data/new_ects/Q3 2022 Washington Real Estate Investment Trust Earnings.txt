@@ -1,0 +1,524 @@
+CORPORATE PARTICIPANTS
+ 
+Amy Hopkins
+Elme Communities - VP of IR
+ 
+Grant Montgomery
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+ 
+Susan Lilly Gerock
+Elme Communities - Senior VP of Information Technology & Chief Information Officer
+CONFERENCE CALL PARTICIPANTS
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+ 
+Michael Robert Lewis
+Truist Securities, Inc., Research Division - Director & Co-Lead REIT Analyst
+ 
+Young Min Ku
+Wells Fargo Securities, LLC, Research Division - Associate Equity Analyst
+PRESENTATION
+ 
+Operator
+Welcome to the Elme Communities Third Quarter Earnings Conference Call. As a reminder, today's call is being recorded. At this time, I
+would like to turn the call over to Amy Hopkins, Vice President, Investor Relations. Amy, please go ahead.
+ 
+Amy Hopkins
+Elme Communities - VP of IR
+Good morning, everyone, and thank you for joining us for our third quarter earnings call. On the call with me today are Paul McDermott,
+President and Chief Executive Officer; Steve Riffee, Executive Vice President and Chief Financial Officer; Susan Gerock, Senior Vice
+President and Chief Information Officer; Grant Montgomery, Vice President and Head of Research; Drew Hammond, Vice President, Chief
+Accounting Officer and Treasurer; and Steven Freishtat, Vice President, Finance.
+Today's event is being webcast through the Investors section of our website at elmecommunities.com, and a replay will be available this
+afternoon. We will have a slide presentation in conjunction with our prepared remarks, and those slides will also be available on our
+webcast replay.
+Before we begin our prepared remarks, I would like to remind everyone that this conference call contains forward-looking statements
+that involve known and unknown risks and uncertainties, which may cause actual results to differ materially. We undertake no duty to
+update them as actual events unfold. We refer to certain of these risks in our SEC filings. Reconciliations of the GAAP and non-GAAP
+financial measures discussed on this call are available in our most recent earnings press release and financial supplement, which was
+distributed yesterday and can be found on the Investors page of our website. And with that, I'd like to turn the call over to Paul.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Thank you, Amy. Good morning, everyone, and thank you for joining our third quarter 2022 earnings call. Much has changed in just a few
+months both in the broader financial markets as the Fed continues to try to control rising inflation and for our company as we break from
+our path and move on from being a Wash REIT.
+Becoming Elme Communities represents the start of a new trajectory, positioning us to capitalize on the opportunity to be a
+differentiated provider of multifamily homes. It marks the culmination of our multifamily portfolio transformation, geographic expansion
+and technology forward infrastructure transformation.
+I am pleased to report a very strong third quarter, which Steve will discuss in more detail. But first, I'd like to cover the progress that we
+have made in our transformation and how the launch of our resident-focused brand fits into the execution of our growth and operational
+strategy. We have made the break from a business-to-business commercial company and become a business-to-consumer provider of
+apartment homes. We focus on the largest and most underserved renter cohorts.
+In fact, 97% of our apartment homes are affordable to households that earn the area median income. 20% of our apartment homes are
+now located in the Sunbelt. We're targeting economies with diverse, innovative industries that drive outsized job creation, wage growth
+and end migration. Our portfolio's allocation in the Atlanta and Washington markets enables our participation in growth while also
+providing relative insulation during economic downturns.
+Atlanta's regional economy is projected to fare well in the face of increased macroeconomic headwinds in 2023, maintaining job growth
+of approximately 1% and positive economic traction according to Oxford Economics. Longer term, job and GDP growth of 1.8% and 2.4%
+from 2022 to 2026 are projected to continue Atlanta's track record of national outperformance.
+Washington's job growth in 2023 is also projected to continue at pace, growing 1.4% according to Oxford Economics, continuing its long
+history of countercyclical outperformance during periods of national economic stress. Both markets are projected to grow more than the
+national average in 2023.
+We've targeted a deep, underserved and undervalued base of mid-market demand. Mid-market renters comprise the largest share of
+apartment demand in each of our markets, yet only a limited share of new supply is affordable for these renters. Thus, the demand is
+deep and competition from new supply is limited.
+Mid-market renters are underserved on multiple levels as the quality and maintenance level of physical assets, service and overall
+resident experience in this apartment market segment is often of a lower caliber. Additionally, we see that they are undervalued as
+residents at these price points, see a lower standard of care for their space and received a lower level of respect. In turn, residents place a
+lower level of trust in service providers.
+We see the opportunity to elevate what a home can be for our residents and our new name represents a combination of the words
+Elevate and home. Our new mission is to elevate the value living experience and create a place our residents are proud to call home by
+continuously focusing on service, efficiency and innovation. Our vision is to be the most trusted owner and operator of residential
+communities by elevating the standard for value living.
+Our clarified vision and mission statement support our strategy to deliver what the deepest cohorts in the apartment market need and in
+turn, to create value for our stakeholders. Delivering a superior value living experience starts with making the most of every dollar spent
+at our community. It means providing customer service that goes beyond responding to resident inquiries. It means anticipating the
+needs of our residents and empowering our teams to add value with every interaction. It means knowing what our residents value and
+providing amenities that meet their needs.
+It means investing in smart home and building automation that is impactful and makes sense at mid-market price points. It means
+ensuring that on-time rent payments are reported to the credit bureaus to help build resident credit scores. It means delivering
+industry-leading environmental performance for value-oriented community. All of this means we are committed to producing strong
+recurring results for our investors.
+While redefining our mission and launching our new resident-focused brand are important to executing our growth and operational
+strategy, the work that was done to get us where we are today goes much deeper than our brand ethos. Becoming Elme communities
+marks the culmination of a multiyear effort to transform nearly every aspect of our business.
+I would now like to turn it over to Susan Gerock, our Chief Information Officer and key leader in our infrastructure transformation to talk
+about our progress and how the changes that we've made position us to deliver greater value for our stakeholders.
+ 
+Susan Lilly Gerock
+Elme Communities - Senior VP of Information Technology & Chief Information Officer
+Thanks, Paul, and good morning, everyone. We have spent the past year designing a technology forward, streamlined, efficient,
+cost-effective and highly scalable operating model and technology platform that will deliver a better experience for our residents as well
+as efficiencies and capabilities that will drive better value for our stakeholders.
+Efficiency is critical to making the most of every dollar we and our residents spend. We prioritized efficiency when making operational
+decisions during our infrastructure transformation from maximizing our operating margins to making sure we are doing everything we
+can with the resources we have to provide ease of living for our residents. We are focused on improving what makes a difference in what
+we can provide most competitively.
+So what have we achieved thus far? First, our ongoing focus on revenue maximization through daily pricing strategies are achieving
+better rents than we underwrote in our acquisition portfolio. Second, given that we already control all our leasing and portfolio
+management in-house, onboarding the first set of communities has only strengthened our ability to manage leasing decisions by
+removing the middleman and providing a closer connection with our community teams.
+Third, we've recruited outstanding new talent, including key portfolio level operational positions. Our team has already begun to
+successfully onboard our communities. Fourth, we have harnessed the power of data as we implemented our new and improved
+technology platform. by providing access to more data through our reorganized streamlined infrastructure and technology platform.
+We've reduced friction, improved our analytical capabilities and better positioned our company to execute on our mission of raising the
+bar for mid-market price points while growing profitably.
+The significant changes that we have implemented has set us up to deliver growth. And while we are already seeing benefits of our
+transformation, we believe that the real payoff is still ahead of us. I would now like to turn the call back to Paul.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Thank you, Susan. As Susan highlighted, our infrastructure transformation positions us to capitalize on the opportunity to be a
+differentiated provider of multifamily homes. We are targeting a deep, solid and underserved base of mid-market demand. This strategy
+is already delivering remarkable results, and we expect to generate strong returns for investors as we continue our geographic expansion
+into new markets over time.
+With that said, investment discipline is foundational for this company. And as the Fed's most recent shift to more restrictive policies
+added another layer of uncertainty, we pivoted and ceased negotiations to acquire 2 assets. We do not believe that many sellers have
+realistically adjusted their price expectations to the shifting macro outlook. And while we have the capacity to acquire $125 million of
+additional multifamily communities, we will remain prudent about growing further in this environment until the capital market
+conditions improve.
+I would now like to turn the call over to Steve to discuss our operating trends, third quarter performance and growth outlook.
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+Thank you, Paul, and good morning, everyone. Today, I would like to cover the operating trends that we are experiencing and how those
+trends and the growth that we have captured to date provide us with confidence in our 2023 outlook. I will also cover our third quarter
+results, guidance for the remainder of 2022 and updates to our guidance for 2023.
+I will start with touching on highlights for our growth outlook. As Paul and Susan discussed, changing our company name, unveiling our
+mid-market resident-focused brand and beginning to bring our communities in-house, culminates in the start of a new trajectory for our
+company. All of this coincides with a record growth outlook.
+We expect to deliver historic NOI and core FFO growth in 2023, with same-store NOI growth of 10% at the midpoint of our guidance
+range and core FFO growth of 14% at the midpoint, the strongest in over 20 years. We have several reasons to feel confident in our ability
+to deliver this growth and to continue to deliver solid results beyond 2023.
+First, our focus on value-oriented price points provide stability across outperform Class A in both of our operating markets. Second, as
+Paul highlighted, our portfolio's allocation to the Washington Metro provides stability during downturns. And the Atlanta region is
+projected to fare well in the event of increased macroeconomic headwinds in 2023. Third, we have a well-positioned balance sheet with
+low leverage and strong liquidity.
+We've prioritized the strength of our balance sheet throughout the transformative capital recycling we completed as well as through the
+pandemic and maintain our investment-grade debt rating. It will continue to serve us well as we knew we had to be prudent through all
+we executed.
+Fourth, we anticipate operating cost efficiencies in 2024 after our community onboarding process is complete. These efficiencies should
+provide us with another gear for increasing profitability beyond the near horizon and have not been factored into our record growth
+expectations for 2023 as we complete the internalization process. All in all, we believe that we are well positioned to grow even further
+should the capital markets backdrop improve.
+In keeping with historical trends, the third quarter was our highest volume leasing quarter, and lease rate growth remained in the double
+digits throughout the quarter following the early August peak. Effective new lease rate growth was 10.5% and effective renewal asset
+growth was 10.1%, which went to 10.3% for the same-store move-ins that took place during the third quarter.
+For non-same-store move-ins that took place during the third quarter, effective new lease rate growth was 13.8% and effective renewal
+lease rate growth was 18.4%, which went to 16.3%. Overall, we captured very strong lease rate performance, which will carry over into
+2023. Lease rate growth in October has moderated, but remains historically high, with effective blended lease rate growth of 7.1% for our
+same-store portfolio and 9.7% for our non-same-store portfolio.
+October traffic and application volumes reflect solid demand for our value-oriented community. We are currently sending out renewal
+rates of 10% to 12% on average with high renewal acceptance rates indicating that our pricing power remains strong overall, given the
+significant growth in market rents in our regions.
+Same-store occupancy averaged a strong 95.6% during the quarter end and increased to 95.7% post quarter. Retention was 60% during
+the quarter, which was in line with a year ago and above our historical average. Our revenue maximization strategy prioritizes lease rate
+capture during the busiest leasing months, and we are now focused on maintaining occupancy as we head into the winter months.
+Strong demand and retention support a healthy forward occupancy trend as we head into the winter months. Due to the rising cost of
+homeownership, our renewal and retention rates improved, while move-outs related to home purchases represented the most notable
+drop compared to the prior year and sequential period. The percentage of same-store move-outs related to home purchases declined by
+over 5% year-over-year and nearly 4% on a sequential basis.
+Looking forward, we are positioned with historically high embedded growth, which we expect will drive outsized revenue and NOI growth
+in 2023. Our mid-single-digit earn-in and our loss to lease of over 8% as of September 30, provide confidence in our outlook for rent and
+NOI growth as the market environment shifts from the very strong trends that we are experiencing today.
+We are on track to deliver same-store multifamily NOI growth of 10% at the midpoint of our guidance range and stronger annualized
+growth for the 3 Atlanta communities acquired this year, with the vast majority of that growth already embedded in our portfolio.
+On the expense side, we believe we've conservatively incorporated additional inflation pressure in our 2023 expectation on top of the
+level that we're incurring in 2022. Our expectations for greatest cost pressure are soon to be in non-control expenses driven by higher
+real estate taxes and utility costs.
+Additionally, we assume that payroll and repairs and maintenance expenses, which represent the largest components of our controllable
+expenses will increase further due to ongoing inflationary expectations. We anticipate that our ability to implement expense controls will
+improve over the course of the year after our properties are fully onboarded, plus operational and other expense controls should have a
+larger impact on 2024. This provides us with confidence in our growth outlook.
+Now moving on to renovations. During the third quarter, we renovated approximately 100 units for a return on investment of a little over
+13%, excluding the rent growth that we achieved on comparable unrenovated units. And if you included total rent increases in your ROI, it
+would look more like 22%.
+While we expect to be closer to our historical renovation run rate of approximately 600 units per year in 2023. Our renovation program
+offers flexibility to change the pace as the environment shifts. Over the past year, while market rent growth has been at record-setting
+levels, we've eased off our pace of renovations, benefiting from double-digit rent growth and preserving renovation opportunities for
+when market rent growth reverts towards historical levels.
+I will now cover our third quarter results, which were in line with our expectations for stronger rent growth momentum in the second half
+of this year. Core FFO was $0.23 per diluted share, reflecting a year-over-year increase of 15%, driven by strong growth in rental income.
+Multifamily same-store NOI grew 10.4% over the prior year due to higher base rent and lower concessions, partially offset by higher
+repairs and maintenance and payroll expenses.
+Third quarter repairs and maintenance expenses were higher in part due to increased turnover compared to the prior year period. We
+expect full year same-store multifamily operating expenses to increase by approximately 5% overall. We expect multifamily same-store
+NOI growth to accelerate in the fourth quarter because of the very strong lease rate growth we captured during the summer leasing
+season. Average effective monthly rent per home for the quarter increased 10.6% compared to the prior year period on a same-store
+basis and over 3.5% sequentially.
+Again, the acceleration in growth reflects the impact of the very strong lease rate growth we captured during our busiest summer leasing
+months. Other NOI, which represents Watergate 600, grew 6.2% in the third quarter compared to the prior year, driven by higher rental
+and parking income. Watergate 600 has a high-quality institutional tenant base and a 7-year weighted average lease term.
+Now, turning to guidance. First, I will point out that we are confident that our growth is underway, and therefore, we pre-released 2023
+guidance on September 27. I will not reiterate all those points, and they can be found in our press release, but I will point out the
+following key highlights of our 2023 outlook.
+Core FFO for 2023 is expected to range from $0.96 to $1.04 per fully diluted share, which implies approximately 14% growth
+year-over-year based on the midpoint of the 2022 and 2023 core FFO guidance ranges, the highest since 2000. We expect most of this
+growth to be driven by rent growth, much of which has already been captured in our existing leases which supports our ability to grow
+our dividend if we make that capital allocation decision to do so in the future.
+Same-store multifamily NOI growth is expected to range from 9% to 11%, which reflects year-over-year growth of 10% at the midpoint,
+further building on the double-digit NOI growth expected in the second half of 2022. Non-same-store multifamily NOI is expected to
+range from $12.75 million to $13.75 million in 2023, which now excludes the impact of the prior 2022 assumed acquisitions guidance.
+While this guidance range does not reflect the impact of potential acquisitions, we have more than $650 million of availability on our line
+of credit as of quarter end, and we are running at lower than our targeted leverage levels. We will continue to evaluate acquisition
+opportunities in our target markets, and we'll pursue further acquisitions when they create additional value for our shareholders.
+G&A, net of core adjustments is expected to range from $26.25 million to $27.25 million, which reflects a small year-over-year increase
+of less than 2% at the respective midpoints due to temporary costs associated with transitioning our community level operations
+in-house. We expect G&A to decline in 2024 and then to remain stable as we scale our portfolio when the time is right to do so.
+With that said, I will also update our outlook for the balance of the year. We are reiterating the midpoint and tightening our '22 core FFO
+guidance range of $0.87 to $0.89 per share. We are reiterating the midpoint and tightening our full year same-store multifamily NOI
+growth guidance to 8.75% to 9.25%. At the midpoint, this represents 11.5% NOI growth for the fourth quarter. NOI growth for same-store
+and Trove combined is expected to be between 12.5% and 13%. We are reiterating the midpoint and tightening our guidance range for
+nonsame-store multifamily NOI to be between $22.25 million and $22.75 million. Other same-store NOI, which consists solely of
+Watergate 600 is expected to range from $13.25 billion to $13.75 million.
+Our FFO guidance range assumes that no further acquisitions are completed this year compared to prior guidance, which assumed $125
+million of acquisitions. This adjustment did not impact our 2022 or our 2023 core FFO guidance. Incorporating our updated assumption
+regarding acquisitions, we expect our net debt to adjusted EBITDA to be below 5x at year-end.
+G&A net of core adjustments for severance and structuring costs is now expected to range between $26 million and $26.5 million, which
+reflects a slight increase in the midpoint. Our G&A guidance excludes the impact of transformation investments for our future platform
+and our full integration, which we now expect to be approximately $10 million, a decline of $1 million compared to our prior guidance.
+Interest expense is now expected to range between $24.5 million and $25 million, which is lower than our prior guidance due to the
+removal of our previous $125 million acquisition assumption during the second half of the year.
+We expect our core AFFO payout ratio for the year to be in the mid-70s, and we are establishing an AFFO growth profile that should
+provide us with additional flexibility to grow the dividend. And with that, I will now turn the call back to Paul.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Thank you, Steve. Becoming Elme communities represents much more than just a name change. It's the start of a new growth and value
+creation trajectory. We are now in the final phase of our infrastructure transformation and have successfully begun transitioning property
+level operations in-house. We are delivering historical growth, have a strong balance sheet, a revamped operating platform and a clear
+strategy and mission, meeting the needs of the deepest renter cohorts.
+Yet we are trading at one of the highest implied cap rates. The tailwinds we pursued in our transformation support strong growth over
+the coming years. While the value we created is currently being masked by the challenging macro environment, we are well positioned
+given our geographic mix and mid-market renter focus, and we are confident in our ability to continue to deliver profitable growth. Now
+operator, I'd like to open it up for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Your first question for today is coming from Anthony Paolone with JPMorgan.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+I guess first question is, you mentioned in the press release about evaluating opportunities that will create additional value, but also
+talked about not doing acquisitions. So can you just maybe elaborate a bit on what some of the other if there are just other things you're
+considering or what those might be?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Tony, it's Paul. When we talked about the acquisitions or the lack thereof going into the fourth quarter, we've talked to a number of
+different investors. And what we're seeing out there and even our levered competitors, there's really a lot of pricing and yield discovery
+taking place.
+And as for our team, we're repricing risk. We are moderating some of our growth assumptions. We talked to the levered folks that they're
+experiencing obviously higher interest rates. They're seeing their leverage decrease by 5% to 10%. And we're also seeing folks increasing
+the residual cap rate on the back end by plus or minus 50 basis points.
+Interestingly, also, we're seeing a lot of folks shy away from large deals. We're seeing transactions, Tony. I think that we feel like now is
+the time for patience and discipline. We think the cap rates are coming to us. And we will move when we see the right opportunity. The
+opportunities that we passed on had more to do with the renovations and the yields.
+And when we look at those, a big part of our renovation story is maintaining that affordability gap. And just for a moment, I'd like Grant
+to comment on the affordability and kind of its importance to our portfolio.
+ 
+Grant Montgomery
+Sure, Paul. It is really central, and we are maintaining that. It's been expanding within the Washington region. There's a 26% premium
+for new products over our in-place effective rents. And in Atlanta, it's even higher, 33%. And so that's in the $650 to $700 range, which
+really provides quite a bit of price insulation and differentiation of our product versus the new product that's coming online.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Thanks, Grant. And Tony, I just again want to reiterate, like Steve said in his remarks, that we are still -- we still do have a pipeline. We
+are still underwriting opportunities. We just increased our metrics for what we need going in, in this environment. We think it's the right
+thing to do. But I want to assure you that when we do see the right opportunity, we will do our best to execute on it.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+And then I guess along similar lines, but on the other side of this, with Watergate, it actually seems like the asset is performing pretty
+well and pretty steadily. So is the idea to keep that for now, for a lack of liquidity in the office market? Or how should we think about that?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+The Watergate, it has almost 7 years of [walk] on it. And Tony, when we look at our portfolio in its totality, probably by year-end, it's
+expected to be less than 10% of our total NOI. We are seeing traffic on it. We did increase occupancy during the course of this year. I'd like
+to see a few more data points on DC office right now. It's a -- as you said, it's not a very liquid dynamic in the investment sales market
+right now, especially in D.C. office. And so it is a noncore holding, and it is something that we would like to monetize. But we want to wait
+and make sure we can create the most value for our shareholders.
+ 
+Operator
+Your next question is coming from John Pawlowski at Green Street.
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+I just have a few quick questions on the transformation. Paul, is the senior management team that will oversee the internal operating
+platform fully built out now and fully hired both at the corporate and regional level? Or is there more hiring to do?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+There is some additional hiring to do over the next 6-plus months. We've incorporated that hiring into our 2023 guidance. We just
+started, John, onboarding the properties last weekend, and I'm happy to say the first few coming on at the execution was successful. But
+we plan on onboarding properties from now through mid-next year. And I'm sure we'll be adding additional personnel as that goes. But
+like I said, all of that is baked into our G&A numbers and our guidance for 2023. Steve, anything you want to add there?
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+Yes. And I would say, obviously, at the community levels, they'll be coming on more and more as we bring on more properties. We have
+obviously had to get ahead of this as we're onboarding properties. So we have beefed up our regional teams. Just added additional
+Director of Operations, regional managers, regional maintenance managers. And we've positioned our accounting team to take over
+what third-party accounting folks have done before, and our IT is replacing their IT.
+So those things are done. But as Paul said, they'll -- as we incrementally have more people coming on board and relieve the middleman
+will be replacing them with a few more of our people.
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+Okay. Does any of this work trickle into 2024? Or will it be fully dug by the end of next year?
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+Well, we do -- we'll be on -- not into 2024. We should have everything that we currently own today on board by the summer of 2023.
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+Okay. Last one for me, and then I'll jump back into the queue. Steve, what are your expectations for revenue and expense growth within
+the 10% midpoint of NOI growth next year. I apologize if I missed that earlier.
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+Well, I think we talked about overall some facts that go into it. And I can talk about how we might think that will blend over the course of
+the year or 2. I think it starts out a little stronger in the year, and we would expect it to bend down a little bit later. We reported a loss to
+lease of 8.3 at quarter end. We're now getting into November, which is a seasonably, a little bit lower pricing. And we're only seeing
+seasonal patterns, no weakness other than that. And we're still in the 7s as we look at -- as we begin November on that.
+We have a pretty strong earn in. We feel really good. About 2/3 of our leases expired in our second and third quarter, and we've got
+tremendous trade-outs during those quarters, which provide revenue growth. On top of all of that, and I'm going to throw it to Grant just
+to add a little color here. We're seeing, say, on blended across the Atlanta D.C. markets, a real page expectation of 3% revenue growth.
+But how we play is even a little stronger than that. And if Grant, if you could add a little color to that.
+ 
+Grant Montgomery
+Sure, Steve. I think it's sort of 2 prongs on those. One would be submarket selection. There is quite a lot of variability. There's as much
+variability within a market as between markets. and many of our submarkets that we have been in and played in, in Washington
+historically or that have moved into recently Atlanta, are expected to significantly outperform the average for the region.
+And then additionally, if you look at how the vintages of apartments perform and those that were really central to our strategy. Those
+have outperformed historically, as we said in the script. Over the last year, for example, the vintages that we really focus on in Atlanta
+have outperformed the market, a new product by over 200 basis points and in Washington, D.C., over 340 basis points.
+So we think there may be some additional upside based on our strategy and our submarket selection beyond what you may see it at a
+whole regional level.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Then I would take it from there and say we've really focused going into the winter months on occupancy, and we've actually even grown a
+little bit since quarter end, and it's very strong. And when you think about the real strong rental growth we've captured in this market up
+to now, we're putting our renewals out right now at 10% to 12%. And we're expecting even the winter months high single-digit rent
+growth, et cetera then.
+And so yes, and we do believe it will tail off towards December of 2023 and start out higher in the year and kind of average down. And
+then in terms of just our leasing patterns and our volumes and activity, they're very strong. They're historically higher than we've seen in
+October and early November before. And I think that that carries really well in terms of strength.
+So we look at all of this, and we're expecting with the earn-in, in a healthy occupancy going into the winter months. We stress test it, and
+we certainly don't have the kind of rental growth in '23 that we've modeled in '22, but we feel really good about it.
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+Okay. But for 2023 NOI growth guidance, are we talking like 8.5% revenue and 6% expense growth gets you to 10% of those the types of
+ranges you guys are thinking through?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Amy, you have the revenue growth, right? Yes, I think we projected our expense growth to be about 7% on top of what we've experienced
+this year, which is 5%. And I think the categories that we think will be the highest for next year are going to be your payroll because we're
+offering incentives to get people to change jerseys and come over to our team and then real estate taxes and utilities. So we've left room
+for those kinds of increases in there.
+ 
+Operator
+(Operator Instructions) Your next question for today is coming from Young Ku at Wells Fargo.
+ 
+Young Min Ku
+Wells Fargo Securities, LLC, Research Division - Associate Equity Analyst
+I just wanted to go back to your comments regarding acquisitions. You talked about adjusting return requirements on your end. Could
+you maybe talk about how big the gap is between what you're willing to pay for versus what the seller's expectations are taking?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Looking at acquisitions, maybe we can talk about cap rates to start out. And I think that they are clearly varying by submarket to
+submarket and vintage to vintage. When I look at the effects of that, the core and the core plus cap rates, we haven't seen as much
+movement. But on the value add, because a lot of the buyers are very dependent on leverage, we've definitely seen some movement on
+the cap rates.
+And for the B value-add cap that is the space that we play in. We've seen those move up to 100 basis points. And that's -- again, that's
+unlimited quarterly data. Everybody's pipelines are down and transaction volume is down. But it's not for us, at least, it's not just about
+cap rates. It's about our going-in basis, as we've talked about, the opportunity to create value based on geographic demographics. Also
+what the residual looks like at the back end for us.
+But we really see -- as I said earlier, we really see the market coming to us. I do acknowledge that there are some bid-ask gaps out there
+still, but we believe that, again, most of the sellers and a lot of these value-add sellers that are either on floaters or are on shorter-term
+paper. We think there's going to be ample volume next year, but we do see it at higher cap rates than we've experienced over the last 24
+to 36 months.
+ 
+Young Min Ku
+Wells Fargo Securities, LLC, Research Division - Associate Equity Analyst
+And so I mean you guys still have $125 million in capacity earmarked for acquisitions and also mentioned that the implied cap rate is
+higher versus peers. Is stock buyback something that you may consider instead of an acquisition?
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+This is Steve. This is how we're thinking about it. I mean the big picture is the capital markets are unsettled right now and they just
+haven't adjusted yet to the post fed actions thinking long term here. Debt prices, equity prices assets. The macros have disrupted the
+equity markets and the macro regarding us have masked the value we've created with historic growth, a new trajectory, a strong balance
+sheet.
+So we think we should let that settle. Further, I'd say asset prices, as Paul was talking have just not adjusted fully yet, but we think cap
+rates are coming to us, and we're positioned to create even further value when they do. I mean the way we think about it is having
+historical growth, a strong balance sheet, liquidity, it's right where we should be if we're heading into more economic uncertainty or even
+a recession.
+And I think it will serve us really well as the equity prices and the asset values adjusted are fully discovered. Regarding share
+repurchases, we only would look at them, and we do model them all the time, but we only do them on a leverage-neutral basis. And right
+now, it actually doesn't pencil out as our best, most likely option in the near term. And then finally, I think if you think about our
+transformation, scale is our friend and making us -- and scale makes us more profitable. So getting smaller, it really doesn't make us
+stronger right now.
+ 
+Young Min Ku
+Wells Fargo Securities, LLC, Research Division - Associate Equity Analyst
+And just one last regarding Watergate. Like you said, there are 7 years of term left. It's a good property. I just wanted to get a sense of
+what the fiscal utilization of that property has been just to get a sense on how sticky the in-place leases are.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+We are, I believe, in the low 90% occupied, 92%. We've got good traffic, as I said, Young, coming through there. And our tenants, the
+tenants that -- our largest tenants that has been there, has been there for quite some time. It's actually who we acquired the building off
+of. So we feel confident about future utilization. We would just -- we would like to take advantage of some of the traffic we've seen as
+well as building us some time for the D.C. office market recovery.
+ 
+Operator
+Your next question is coming from Michael Lewis at Truist Securities.
+ 
+Michael Robert Lewis
+Truist Securities, Inc., Research Division - Director & Co-Lead REIT Analyst
+My first one for Steve, kind of a guidance question, I guess. But what are you thinking about for the term loan next year? And what do you
+anticipate the interest rate would be to refinance that?
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+We have a really good debt maturity ladder, but the $100 million is due in July of next year. We were working on some potential portfolio
+deals that don't pencil out now that might come back to us later. So we were keeping that option open. Right now, what we've assumed
+in our guidance is that we'll refinance the term loan. It is swapped to fixed. I think you noted in your notes, Michael, to 2.3% through July.
+I think we'll plan on refinancing it in a short enough term that we can prepay it without penalty. I anticipate that we will have
+opportunities to acquire, and we'll probably have to assume some debt, so we're going to want some debt that we can repay. Looking at
+what that pricing might be, what we're assuming is low 5s after the fixed period.
+ 
+Michael Robert Lewis
+Truist Securities, Inc., Research Division - Director & Co-Lead REIT Analyst
+And then my second one about -- I guess it's coming back to the question about the acquisitions, right? So the company obviously has
+come a long way. I like the rebranding. But when I look at the third quarter composition of the portfolio, you're still 80% DC, Virginia,
+Maryland apartment, you're about 10% office. There's no acquisitions in the 2023 guidance, although it sounds like there may be some.
+I'm just kind of curious like how much acquisition volume do you think you ultimately need to do to put this portfolio where it needs to
+be? And eventually, you'll have some proceeds from office, you have some dry powder right now. So I think you could do it. The
+transaction market, I understand is a little bit comes up. But what's the total volume of deals do you think you need to do to get this
+portfolio where you ultimately want it to be?
+ 
+Stephen E. Riffee
+Elme Communities - Executive VP & CFO
+I think I'll start and let Paul talk about it strategically. This is Steve. I think there's more than one way to get there. And clearly, there's
+disruption, so we're waiting for prices to settle, et cetera. I think when we rolled out in our webcast June a year ago, we targeted to be like
+40% in the Sunbelt. We're 20% there today, and we've done a pretty good job of allocating. So how do you do that?
+Well, one thing is you scale when you grow and you continue to use new capital and go there. Another way is once you have asset prices
+settled down in rediscovery, you also do some recycling, et cetera. But a third way, and we actually were in pretty good discussions, and
+they might come back to us when the capital markets make sense, but we were looking at NAV to NAV unit deals.
+And we had some opportunities that could have moved us there really quickly. So I think we just need to let things play out, and I think
+the options will present themselves, and we'll do the right capital for the right opportunities at the right time. But today, all we're saying
+is we need to make sure that we only create shareholder value. We were solving for 3 things from the very beginning, in addition to
+keeping the balance sheet strong.
+Number one is, we wanted profitable growth, and we're delivering historic growth for next year, okay? And the second thing was really
+we wanted to geographically diversify. We made -- we got the 20%, and we just talked about some of the options in the playbook that
+you just asked so well about. The third thing is scale. And we think scale can help us. We saw some ways to scale faster before the capital
+markets got worse because of the Fed. And I'm not sure the Fed is going to do this forever. So I think those opportunities may represent
+themselves.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Michael, it's Paul. I do expect some type of settling in the second half of '23. To Steve's point, the Fed is not going to do this forever. We
+are keeping in touch with the folks that we had those conversations with. And as well, I don't want to -- because we've pushed pause, I
+don't want anyone thinking for a moment that we're not still actively touring properties, visiting the submarkets that are on our target list
+and maintaining our dialogue with both the brokers and the owners in those respective submarkets.
+The only thing I'd add to really what Steve said in terms of scale is that everything that we've gone through right now, we've always said,
+look, we'd like to -- we can double the size of the company. Well, now we've built out the infrastructure to do that. And I think now it's just
+a matter of executing on the right opportunities at the right time. I said it earlier, patience and discipline is the order of the day. I think
+the ground is still moving under our feet and a lot of -- particularly, a lot of sellers want to see where the Fed shakes out as well as
+buyers.
+And so I'm confident that we're going to -- we are going to see either from a one-off basis or from a portfolio basis opportunities in '23 to
+scale. We're just not -- we're not predicating everything on that at this moment, just given the dynamics that are taking place in the
+marketplace.
+ 
+Operator
+The next question is a follow-up question coming from John Pawlowski.
+ 
+John Joseph Pawlowski
+Green Street Advisors, LLC, Research Division - MD of Residential and Health Care
+Can you just remind us if there are any known move-outs of Watergate 600 for next year?
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+I don't believe there are, John. I'll double check on that, but I don't believe there are.
+ 
+Operator
+And if there are no further questions, I'd like to turn the floor back over to management for any closing comments.
+ 
+Paul T. McDermott
+Elme Communities - Chairman of Board, President & CEO
+Thank you. Again, I'd like to thank everyone for your time and interest today, and we look forward to speaking with many of you over the
+next several weeks. Thank you.
+ 
+Operator
+Thank you, ladies and gentlemen. This does conclude today's event. You may disconnect your phone lines at this time, and have a
+wonderful day. Thank you for your participation.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2023 Refinitiv. All Rights Reserved.

@@ -1,0 +1,439 @@
+CORPORATE PARTICIPANTS
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+ 
+Ken Adler
+Annaly Capital Management, Inc. - Head of Agency
+ 
+Sean Kensil
+Annaly Capital Management, Inc. - VP of Annaly Capital Management
+ 
+Serena Wolfe
+Annaly Capital Management, Inc. - CFO
+CONFERENCE CALL PARTICIPANTS
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+PRESENTATION
+ 
+Operator
+Good morning and welcome to the Annaly Capital Management Third Quarter 2022 Earnings Conference Call. (Operator Instructions)
+Please note, this event is being recorded.
+I would now like to turn the conference over to Sean Kensil, Director of Investor Relations. Please go ahead.
+ 
+Sean Kensil
+Annaly Capital Management, Inc. - VP of Annaly Capital Management
+Good morning and welcome to the third quarter 2022 earnings call for Annaly Capital Management.
+Any forward-looking statements made during today's call are subject to certain risks and uncertainties, including with respect to
+COVID-19 impacts, which are outlined in the Risk Factors section in our most recent annual and quarterly SEC filings. Actual events and
+results may differ materially from these forward-looking statements. We encourage you to read the disclaimer in our earnings release in
+addition to our quarterly and annual filings.
+Additionally, the content of this conference call may contain time-sensitive information that is accurate only as of the date hereof. We do
+not undertake and specifically disclaim any obligation to update or revise this information.
+During this call, we may present both GAAP and non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is
+included in our earnings release.
+As a reminder, Annaly routinely posts important information for investors on the company's website, www.annaly.com. Content
+referenced in today's call can be found in our third quarter 2022 investor presentation and third quarter 2022 financial supplement, both
+found under the Presentations section of our website. Annaly intends to use our web page as a means of disclosing material nonpublic
+information, for complying with the company's disclosure obligations under Regulation FD and to post and update investor
+presentations and similar materials on a regular basis. Please also note this event is being recorded.
+Participants on this morning's call include David Finkelstein, President and Chief Executive Officer; Serena Wolfe, Chief Financial Officer;
+Ilker Ertas, Chief Investment Officer; Ken Adler, Head of Mortgage Servicing Rights; and Mike Fania, Head of Residential Credit.
+And with that, I'll turn the call over to David.
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Thank you, Sean. Good morning and thank you all for joining us on our third quarter earnings call. Today, I'll provide an update on the
+macroeconomic landscape, our financial results this quarter and our positioning heading into year-end. Ilker and Serena will then discuss
+our portfolio activity and financial performance.
+Now beginning with the macro backdrop in what continues to be a historically challenging year, the third quarter brought about a further
+sell-off in the bond market, and mortgage spreads widened to crisis era levels. Persistently high inflation readings, rapid and sustained
+Federal Reserve rate hikes, tightening financial conditions, elevated volatility, geopolitical turmoil and rising financial stability risks have
+weighed heavily on markets.
+Now to put this in historical perspective, the total return for the Bloomberg US Aggregate Bond Market Index was negative 14.6% in the
+first 3 quarters of 2022, far worse than the negative 2.9% in 1994, the previous worst year in the history of the index. In light of the
+continuation of this difficult environment, Annaly experienced a negative economic return of 11.7% for the quarter.
+The Federal Reserve has signaled that it is determined to continue tightening monetary policy until inflation approaches its target, a
+commitment that has been echoed by virtually all Fed speakers since Chair Powell's Jackson Hole speech at the end of August. This has
+caused a meaningful repricing of the rate path, with markets currently expecting the hiking cycle to end at a Fed funds rate of nearly 5%
+compared to expectations of just 3.5% at the end of June. This led to a sharp selloff in interest rates and exceptionally high levels of
+volatility.
+A consequence of volatility has been extremely weak investor demand for fixed income products, particularly for Agency MBS. In fact, the
+third quarter represents only the third time in the past 10 years in which banks and mutual funds to critical private sector holders of
+mortgage securities and loans have reduced their Agency MBS holdings simultaneously.
+In light of the sharp selloff in rates and widening in MBS spreads, the Freddie Mac primary mortgage rate rose to 6.94% as of last
+Thursday, more than doubling in 2022 and contributing to the abrupt slowdown in housing market activity.
+Home price appreciation very likely peaked for the cycle and has begun to reverse course in many parts of the country. Given the
+mortgage affordability shock from high home prices and rapidly rising rates, we now expect the housing market to correct, potentially
+erasing the entire appreciation seen this year by early to mid-2023.
+Now although prices could fall meaningfully from their recent highs, homeowners have built up substantial equity cushions. Lending
+standards have been conservative. And given low rates on existing mortgages, homeowners are unlikely to default unless labor markets
+weakened considerably from here.
+And despite volatility in interest rate and mortgage markets, funding conditions continue to be healthy as Agency MBS repo, Residential
+Credit and MSR facilities remain readily available. Our financing rates have risen certainly but are commensurate with other benchmark
+short-term interest rates. And while high volatility could drive an increase in repo haircuts, we have seen limited evidence of this thus far.
+The favorable financing conditions are driven by the high balances of investor cash and short-term interest rate products, best seen by
+the elevated bank reserve balances and reverse repo participation at the Federal Reserve. And notwithstanding Fed portfolio runoff
+reaching its steady-state run rate of up to $95 billion per month, financing conditions should maintain support as cash remains ample.
+Now shifting to our portfolio. Our focus is on prudently managing our liquidity, leverage and risk profile in the current environment. We
+continue to position ourselves defensively given sustained volatility and have strong liquidity with more than $6 billion in unencumbered
+assets, including $4.3 billion in cash and Agency MBS, which represents over 50% of our common equity as of quarter end.
+During the quarter, we maintained our economic leverage at 6.5 turns until mid-September when the sharp market selloff over the last 2
+weeks of the quarter brought our leverage up roughly half a turn to end the quarter at 7.1 turns. While we're comfortable with our current
+portfolio positioning, we expect our leverage to trend modestly lower over the longer term, reflective of our target capital allocation.
+With respect to portfolio mix, we modestly grew each of the 3 strategies with our total assets increasing to $86.2 billion as we selectively
+deployed capital from common equity issuance on the quarter. While the majority of new capital was committed to Agency, our capital
+allocation in the sector decreased 4 percentage points to 67% as the Agency portfolio absorbed the vast majority of the increase in
+leverage to end the quarter.
+Turning to Residential Credit. In light of deteriorating housing market fundamentals, portfolio growth was focused on opportunistic
+additions of securities that are less susceptible to home price declines. Though we believe our whole loan portfolio is well positioned to
+withstand further weakness in the housing sector, we have tightened our already stringent credit standards, and we expect this pace of
+securitizations to moderate in the near term. Nevertheless, we remain the largest nonbank issuer of prime jumbo and expanded credit
+MBS this quarter. This has largely been a result of our whole loan correspondent channel, which recently achieved over $2 billion in
+aggregated loans since inception in April 2021.
+Now with respect to our mortgage servicing rights business, we have now fully scaled our platform, having more than tripled our
+portfolio size year-over-year. The MSR portfolio benefits from stable cash flows in the low prepayment environment and helps to hedge
+the risks of a further slowdown in housing activity. Although we were the second largest purchaser of MSR in 2022 as of the end of the
+quarter, we expect to be measured with respect to future growth considering the sector's relative attractiveness in our risk parameters.
+Now, overall, we anticipate market challenges will persist over the near term and we'll maintain our defensive posture until volatility
+subsides. While spreads across our investment strategies are historically attractive, again, we're focused on preserving liquidity and
+optionality against additional market turbulence. And when the outlook improves, we're well positioned to take advantage of
+opportunities across our 3 businesses.
+Now, lastly, before handing it off to Ilker, I wanted to take a moment to provide some perspective on where we sit today. We understand
+that 2022 has been an immensely challenging period in financial markets. We recently marked 25 years as a public company, and I was
+reminded of Annaly's resilience throughout numerous volatile market events such as long-term capital in 1998, the 2008 financial crisis,
+the taper tantrum and, most recently, the financial market dislocation at the onset of COVID. Annaly has proven our ability to
+successfully navigate through these episodes and market turbulence, and we are confident that our business model will emerge from
+this current period stronger than ever.
+Now with that, Ilker will provide a more detailed overview of our portfolio activity for the quarter and outlook for each business.
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+Thank you, David. As you discussed, after a brief respite in the first half of the quarter, interest rate volatility resumed its march higher,
+risk sentiment turned negative, and Agency MBS sharply underperformed interest rate hedges, with spreads widening 25 to 30 basis
+points. Meanwhile, non-Agency spreads also saw considerable volatility throughout the quarter but ended Q3 roughly unchanged, and
+MSR valuations remained relatively stable.
+Starting with Agency portfolio activity. Our holdings grew by roughly $3 billion in market value as we patiently deployed the equity raise
+during the quarter, purchasing meaningfully fewer assets than implied by constant leverage on new capital. We continued to rotate the
+portfolio up in coupon, significantly reducing our holdings of 3s and below while adding to our positions in 4.5s and 5s, which benefit
+from lower sensitivity to spread movements and better carrier.
+Our purchases were predominantly in pools, and we reduced our TBA holdings by $3.5 billion. During the quarter, specified pools
+outperformed TBA as investors gravitated toward a better combination of specified collateral given the elevated volatility. Additionally,
+with TBA rose softening, pools provide incremental (inaudible) across nearly all coupons.
+Lastly, with the mortgage universe firmly out of the money from a refi perspective, seasoned cash flows are in strong demand. The
+embedded HPA should provide extension protection, benefiting our portfolio which is, on average, over 3-year season.
+In terms of prepays, our portfolio paid 9.8% CPR in Q3, a slowdown from 14.9% CPR in the prior quarter, primarily driven by higher rates.
+We expect a slow prepaid environment to persist over the near term as seasonal turnover declines and cash-out refinances diminish due
+to elevated rates and declining HPAs.
+In our hedge portfolio, we maintained a defensive posture consistent with prior quarters. We added over $5.5 billion notional of primarily
+longer-dated swaps to match the expansion of our assets as rates continue to rise. Additionally, we added over $7 billion in treasury
+futures hedges at the front end of the curve to maintain protection as our short-term maturity swaps rolled down.
+Turning to our Residential Credit business. The economic market value of the resi portfolio ended Q3 at $5.1 billion, a modest increase
+over Q2. As David briefly touched on, portfolio growth was largely driven by the increase in our NPL/RPL structured securities positions,
+an area of the market that has very high credit enhancement and is collateralized by loans from seasoned borrowers with significant
+equity who are less exposed to negative HPAs.
+In residential whole loans, we settled $900 million of expanded credit loans in Q3 and sponsored 3 securitizations, generating $120
+million market value of retained OBX bonds. We expect future whole loan purchases to moderate given increasing borrower rates and
+seasonal factors, which will likely reduce housing market transactions.
+With respect to our MSR business, we continue to grow our MSR holdings with the purchase of one bulk package representing roughly
+$150 million in market value. In light of the fragility of the housing market, it's important to note that our portfolio consists of very high
+credit quality, 760 FICO, 68% LTV, sub-3% coupon collateral, which has benefited from steady rising interest rates this year. Our MSR
+portfolio paid 4.3 CPR in the third quarter, providing very attractive and stable cash flows while serving as a hedge to slow turnover
+speeds in the deep discount MBS universe. Year-to-date, through the third quarter, we have grown our MSR portfolio by over $1.2 billion
+in market value to nearly $1.9 billion.
+As the market stands today, spreads across our investable asset classes look very attractive from a historical perspective. However, to
+reiterate David's point, our focus in this period of elevated uncertainty will be to preserve liquidity. In MSR market, we anticipate that
+originators will continue to monetize MSR given pressure on margins and cash requirements. We will be patient to further grow our
+portfolio given expectations for ongoing supply while cognizant that MSR have been more resilient to the cheapening experience in other
+sectors.
+In Residential Credit, we will be patient about adding further exposure given the decelerating housing market. In Agency MBS, the
+widening experience year-to-date has been particularly acute. Nominal spreads on production coupon mortgages are in excess of 150
+basis points and auction adjusted spreads are over 50 basis points. As mentioned, these are levels not seen since prior crisis episodes
+such as COVID and the 2008 financial crisis.
+However, the differences with those periods versus today are: first, repo financing remains widely available; second, comparable assets
+such as corporate credit are meaningfully tighter; and third, the backdrop for Agency MBS is more attractive. With mortgage universe
+way below par, asset convexity is much better. And with higher rates slowing housing activity, supply should contract materially.
+Lastly, the possibility of a broader economic slowdown has increased, and Agency MBS has historically outperformed comparable fixed
+income products during recessionary periods.
+Our outlook is optimistic for each of our 3 businesses over the medium term, but we will remain patient to grow the portfolio until we see
+evidence of volatility subsiding.
+With that, I will hand it over to Serena to discuss the financials.
+ 
+Serena Wolfe
+Annaly Capital Management, Inc. - CFO
+Thank you, Ilker. Today, I will provide brief financial highlights for the quarter ended September 30, 2022, and discuss select
+quarter-to-date metrics.
+Consistent with prior quarters, while our earnings release discloses GAAP and non-GAAP earnings metrics, my comments will focus on
+our non-GAAP EAD and related key performance metrics, which exclude PAA. Additionally, our per share metrics are adjusted for our
+1-for-4 reverse stock split effective in September 2022.
+Our book value per share was $19.94 for Q3, which decreased by $3.65 per share for the quarter, primarily due to higher rates, spread
+widening and the continued declining valuations on our Agency portfolio, along with lower credit valuations, albeit more modest
+declines in comparison to the Agency book.
+Our swap in futures positions supported book value, providing a partial offset to the Agency declines mentioned above, contributing
+$6.93 per share to the book value during the quarter, and our MSR position added $0.09.
+As noted in our Q2 earnings call, while our futures book does not offset higher repo rates in EAD, the derivatives are fully reflected in
+economic returns. And in Q3, they serve their function, with futures alone having contributed 60% of the hedge benefit to our book value.
+After combining our book value performance with our third quarter dividend of $0.88, our quarterly economic return was negative 11.7%.
+We generated earnings available for distribution of $1.06 per share. EAD continued to outpace our dividend, though we experienced the
+beginning of the moderation in EAD that we have discussed on our recent earnings calls, with EAD per share reduced by $0.16 compared
+to last quarter. The lower EAD for the quarter is primarily related to the continued rise in repo rates, causing repo expense to more than
+triple during the quarter as well as lower expected TBA dollar roll income, which declined by approximately $0.17. EAD did benefit from
+our improved swap net interest benefit on higher received rates of $0.33 per share, reduced premium amortization ex PAA on lower CPRs
+of $0.13 and continued growth in MSR-related income, increasing by $0.06 per share compared to Q2.
+Given the challenges David and Ilker referenced in the current environment and the impact on EAD of the composition of our hedging
+portfolio noted above, all things equal, we currently expect Q4 earnings to be roughly in line with the third quarter dividend.
+Average yields ex PAA were 37 basis points higher than the prior quarter at 3.24% due to lower CPRs and a meaningful decline in
+amortization. Additionally, the portfolio generated 198 basis points of NIM ex PAA, down 22 basis points from Q2 driven by the reduced
+TBA dollar roll income and higher repo rates. Net interest spread does not include dollar roll income. Therefore, the decrease was more
+muted, down 6 basis points at 1.70% compared to Q2.
+Now turning to our financing. David provided color on our views of the robustness of the funding markets. However, we continue to see
+uncertainty about the pace of future rate hikes, with multiple liquidity within the repo market continuing to trade to Fed dates or shorter.
+Because of this uncertainty, bilateral repo markets continue to price term markets more cautiously, resulting in wider term premiums.
+Access to term markets remain intact. However, we do not expect a meaningful shift in our positioning until we feel the Fed has reached
+the end of its hiking cycle. As a result, as we messaged in prior quarters, we continue to maintain a shorter dated book over the near term
+versus prior years. The quarter-over-quarter, weighted average repo maturity was up 10 days compared to Q2 at 57 days.
+Turning to our Residential Credit financing strategy. Our discipline in accessing the securitization market throughout the year has kept
+our net exposure to our unsecuritized whole loan book appropriately sized, with only $805 million on the balance sheet to end the
+quarter. 92% of our gas consolidated whole loan portfolio is term-funded through our residential securitization, with a weighted average
+financing rate of 3.05%, approximately 450 basis points below the current non-QM cost of funds.
+As the securitization market slowed in October and the cost of funds to access the securitization market has steadily risen, we remain
+well positioned with significant warehouse capacity, approximately $1.4 billion, across multiple partners with staggered renewal dates.
+Given our favorable positioning, we will continue to monitor the securitization market and are prepared to be opportunistic.
+Shifting to MSR financing. We drew on our MSR warehouse facility during the quarter for $250 million, and after quarter end, executed
+the accordion for a total facility of $500 million. To reiterate our message from last quarter, we put this facility in place primarily for
+liquidity purposes and expect to maintain lower leverage on this business.
+Overall, the upward trend in interest rates impacted our total cost of funds for the quarter, rising by 44 basis points to 154 basis points in
+Q3. Meanwhile, our average repo rate for the quarter was 225 basis points compared to 81 basis points in the prior quarter. Our activity in
+the securitization market also impacted funding costs, increasing the weighting of securitizations on the composition of cost of funds,
+along with higher effective rates previously referenced above of 3.05% compared to 2.73%, resulting in an increase of 5 basis points to
+cost of funds.
+Finally, swaps positively impacted cost of funds during the quarter, as previously mentioned, by 85 basis points, more than twice the
+benefit in comparison to Q2.
+Lastly, as David mentioned earlier, Annaly maintained an abundant liquidity profile with $6.1 billion of unencumbered assets, down
+modestly from the prior quarter at $6.3 billion. Much of the reduction in unencumbered assets was due to the pledging of a portion of our
+MSR to the previously mentioned warehouse facility and higher leverage levels on Agency MBS.
+With that, we will turn it over to questions, operator.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And our first question will come from Bose George of KBW.
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+Can I start just asking about mark-to-market book value so far this quarter?
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Sure, Bose. So obviously, the turbulence continued into October, notwithstanding the fact that we did pick up a few percentage points
+this week. But nonetheless, as of last night, book was off 6% to 7% at roughly 18.60%.
+ 
+Bose Thomas George
+Keefe, Bruyette, & Woods, Inc., Research Division - MD
+Okay. Great. And then your current dividend implies a net ROE of around, I guess, 17.5-ish. And is that an attainable economic return on
+your portfolio?
+And then just in your comments, you noted that EAD next quarter will be more in line with the dividend. But when you think about the
+dividend, should we really be focusing more on the economic return versus the EAD just given your treasury futures?
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Sure, Bose. And to your point, we discussed this with you last quarter, actually. Economic return or economic earnings is how we think
+about it. And just to review Serena's comments, as she mentioned, we do expect to earn the dividend this quarter. Earnings available for
+distribution is moderating. And also to Serena's point, swap income is becoming an increasing portion of that EAD as short rates are
+increasing. And futures do impact or benefit the economic income or economic return but don't flow through EAD. So there's some
+noneconomic factors that may bring EAD down. But nonetheless, to the point of moderation, there are real economic factors that are
+influencing earnings. For example, as we sit here today, leverage will likely be lower. Financing costs are going up, and some swaps are
+rolling off. So we do have to take those into consideration.
+And with respect to the actual earnings yield, as you mentioned, we're right around 18% on quarter end book. It's above the peer set as it
+has been really since the onset of COVID, and it's above where we've been historically. And we'll obviously take a look at that as the
+market evolves and make a determination as to what the appropriate yield should be. And as we've said consistently, we expect to
+maintain a competitive yield with the peer set but also sustainable and in line with our historical average payout ratio.
+So to give you a summary, we feel good about Q4. We'll see how rates evolve over the next number of months and always look at the
+dividend in conjunction with our Board and come up with the appropriate payout ratio.
+ 
+Operator
+The next question comes from Doug Harter of Credit Suisse.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+Can you talk about how you're thinking about leverage, balancing kind of near-term volatility versus kind of the wide level of spreads and
+kind of what you might be looking for in order to either take up or take down leverage from here?
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Sure. So we did take down leverage somewhat modestly as we started the quarter. Where we sit today is around 6.75 turns, and we feel
+good about it. Agency MBS as well as other sectors we invest in is historically cheap, but also volatility is historically high. And the
+technical factors associated with Agency specifically in terms of Fed runoff and where flows are coming from have also been somewhat
+negative.
+So what we're looking for in terms of how we're managing the portfolio is a decline in volatility and money to flow into fixed income, and
+particularly Agency MBS. So we're comfortable with the current leverage level currently. It is elevated to where we've been. But at the
+end of the day, assets are cheap, and we do expect there to be a decline in volatility. And with spreads at historically wide levels, we're
+certainly comfortable with where we're at now.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+I guess in that construct, with -- knowing that there is volatility, I mean, why not kind of lean into that, let leverage kind of creep higher
+and sort of take a longer-term view and absorb near-term volatility?
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+So let's talk about the last 6 weeks and what we've gone through with the market and just to frame out how we're thinking about things.
+And candidly, Doug, there has been virtually no good news over the past 6 weeks for fixed income investors, beginning with the Jackson
+Hole speech in late August where -- that was probably one of the most hawkish speeches we've seen from the Fed in quite some time.
+And then subsequent to that, we moved into September. We get a strong payrolls number. Then CPI ticks up from 5.9 to 6.3, again, not
+good news. We go into the September Fed meeting where the dot plots exceeded what the market was pricing with the 4.375 rate at the
+end of the -- at the end of 2022 projected as well as reinforcing that hawkish tone.
+And then we get into late September, and we have the U.K. gilt debacle, which led to 140 basis points selloff in gilts over the course of
+about 5 days, which is, for a very developed market like the U.K., is stunning and then the Ministry of Finance intervention. And then we
+move into October with September payrolls showing very strong results, 3.5% unemployment rate as well as 5% year-over-year wage
+gains. And then following that, September CPI at 6.6%, which is obviously -- core CPI, which is obviously quite high. And all of this
+explains, I think, why we had a trough to peak selloff across U.S. yields of about 120 basis points and 35 basis points wider MBS spreads.
+So we have to be respectful of all of that.
+Now we're sitting here at the quarter end with $4.3 billion in cash and Agency MBS unencumbered, but we feel like we want to maintain
+our liquidity until we get out of this and we get some better news. We do expect things to turn. Obviously, the economy, we've seen signs
+of slowing but remains resilient with a strong labor market and underlying inflation, which we haven't seen turn yet. And so we need to
+really see a turn before we would incrementally add to our portfolio. Does that help?
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+Very helpful.
+ 
+Operator
+Next question comes from Rick Shane of JPMorgan.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+So I'm very intrigued by the hedge mix on Page 11, and I find it particularly interesting in the context of what we've seen from mortgage
+rates. And we've had this incredible event, which is that between December '21 and today, we basically reset the channel markers in
+terms of mortgage rates from a low to a high. And those extremes were the lowest and highest in more than 20 years.
+You've seen your hedge ratio shift -- or your hedge composition shift fairly significantly. As we approach potentially a peak in terms of
+mortgage rates, how would we expect this to shift? I'm particularly concerned about the swap ratio and adding a lot of duration there in
+an environment where you might actually start to see speeds pick up at some point in the future.
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+Sure. So I'm assuming you're asking, are we hedging too much? Are we, like, putting, like, too many hedges, is that -- that seems to be
+my understanding.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+No. I think -- yes, but I think the real question is, from our point of view, not being as sophisticated at this as you are, how do you mitigate
+that risk of being overhedged if rates do start to shift? And is that what we're seeing in terms of this mix shift on the hedge portfolio?
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+Sure. If you look at recently the performance of mortgages, you will see a correlation with the rates. And the correlation is that as rates
+sell off, mortgages underperform. So we expect this short-term negative correlation to persist. This is opposite of what it used to be in
+the long run. Usually at risk-off days are market's rally days. But we are in an environment, which David really described like very nicely in
+the previous question that we are in a very different environment that risk-off environments are like market selloff environment. That
+explains a little bit of our high realizations, but I see your point, and we have been looking into that. And the point when we realize that
+correlation is turning off, we will do the appropriate actions.
+But to reiterate, we do not take interest rate positions right now. We are trying to fully hedge. And we are cognizant that correlation is on
+the other side of the system. Does that help?
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+It does. And it's actually -- actually, it puts language around some of the things that we're seeing that struggle to -- we struggle to
+explain as well in terms of risk on, risk off as well.
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+Yes. It has been like this episode has been an environment where risk-off is coming with the rate selloff. So that's why it's particularly
+difficult for the financial players in the system that -- especially that you hear a lot on the financial news that 60-40 portfolio and all that
+kind of stuff. All they are really trying to describe is that this correlation break the other way around, and that's why it is very difficult.
+ 
+Operator
+(Operator Instructions) And the next question comes from Trevor Cranston of JMP Securities.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Question on the composition of the Agency portfolio. You guys have obviously been moving up in coupon as the current coupon has
+increased substantially over the course of the year. Can you talk about sort of how much liquidity and float there is, say, like above 5%
+coupons today? And kind of on incrementally with the current coupon where it is, right now, kind of what coupons you'd be sort of
+looking to move into within the Agency portfolio?
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+Yes. That's a good point. The liquidity above 5%, which are like 5.5% and 6s are [already at 10] related. In fact, like, the movements are
+so fast that we have been skipping coupons. Like David and I have been doing this, like, over -- like, 25 years. We have never seen like
+coupons skipping like this. Production coupons skip from 2.5 to 5 like in a very, very short period of time. And now even [5 stars] [$96]
+price.
+There is not that much liquidity in 5.5s and above, but that's the wrong word to say. There is not that much flow in 5.5s and 6s above. So
+that's why like when we say up in coupon, we usually mean 5s. And we shifted most of our lower coupon exposure into 5s, and it's like
+$96 price. And especially with the concern that Rick was raising in the previous question, we really like that price point, $96 to $98 price
+point. And I think where we stand right now, that will probably be most of our focus going forward.
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Yes. And Trevor, one more point about market liquidity. I think everybody has heard about some of the dislocations that have been
+exhibited in markets. And yes, liquidity is constrained, whether it's treasuries or Agency MBS or out the spectrum. But this is largely a
+function of volatility. And when volatility does subside, liquidity will certainly improve. But nonetheless, you have to be very gentle with
+your approach to managing fixed income portfolios in the current environment.
+ 
+Trevor John Cranston
+JMP Securities LLC, Research Division - MD & Equity Research Analyst
+Yes. Okay. That makes sense. And then one question on the MSR. Obviously, valuations continued to move higher this quarter. Can you
+talk sort of theoretically for low coupon MSR, kind of where you view the cap in terms of valuation? And if there's a point somewhere soon
+where the duration of it could actually become positive.
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Yes. I'll start, and Ken can certainly add. We are certainly in the context of that cap. If you just look at the increase in valuation on the
+quarter, it's only 1/10 of a multiple, and we had roughly 100 basis point increase in rates across the curve. And the MSR CPR went down
+roughly 30%. So you're starting to see that crest here. And Ken, feel free to...
+ 
+Ken Adler
+Annaly Capital Management, Inc. - Head of Agency
+And your point -- I mean, look, the cash flows are fully extended. There's only so slow the pools can pay, but the certainty of them paying
+slower continues as rates rise. So on an option-adjusted basis, it gets more favorable.
+The other point is when you own MSR, you manage lots of cash balances. So as rates rise, you earn the service or the owner of the MSR
+earns more return on those cash balances. So that negative duration, particularly in the front end of the curve, continues. So there's
+always going to be that negative duration.
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Yes. That float effectively provides more income as short rates do rise, obviously. And another point to note in terms of the construction
+of our MSR. We feel very good about what we own. We've achieved a lot of growth over the past year. And the overall MSR is 400 basis
+points out of the money, and the credit is quite good.
+So with respect to how housing evolves, we think that asset is going to perform very well for us.
+ 
+Ilker Ertas
+Annaly Capital Management, Inc. - CIO
+And to add to both David and Ken, this discount MSR is, like, may not be hedging interest rate risk anymore, but it is still hedging the
+turnover risk in the mortgage market. And turnover risk is the biggest risk after volatility subsides in the mortgage market. We like where
+we stand on the discount MSR.
+ 
+Operator
+This concludes our question-and-answer session. I would like to turn the conference back over to CEO, David Finkelstein, for any closing
+remarks.
+ 
+David L. Finkelstein
+Annaly Capital Management, Inc. - President, CEO & Director
+Thank you, Andrea, and thanks, everybody, for joining us this morning. And good luck over the next number of months, and we'll talk to
+you soon.
+ 
+Operator
+The conference has now concluded. Thank you for attending today's presentation, and you may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

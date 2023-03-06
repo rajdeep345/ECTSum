@@ -346,11 +346,7 @@ def test():
 	logging.info(f'Speed: {(doc_num / time_cost)} docs / s' )
 
 
-def predict(examples):
-	# embed = torch.Tensor(np.load(args.embedding)['embedding'])
-	# with open(args.word2id) as f:
-	#     word2id = json.load(f)
-		
+def predict(examples):		
 	embed, word2id = None, None
 	vocab = utils.Vocab(embed, word2id)
 	
@@ -436,20 +432,28 @@ if __name__=='__main__':
 		test()
 	elif args.predict:
 		logging.info("PREDICTING")
+		
+		# NOTE: Pre-processing code needs to be changed depending on the input format
+		# get_DocLines() is specially written to preprocess new ECT files (with a new format)
+		lines = get_DocLines(args.filename)
+		
+		# If you are giving as input preprocessed ECT files from ECTSum test set (one at a time),
+		# comment out the previous line, and uncomment the following lines
+		# f_in = open(args.filename, 'r')
+		# lines = f_in.readlines()
+		# lines = [line.strip() for line in lines]
+
 		examples = []
-		with open(args.filename) as f_in:
-			lines = f_in.readlines()
-			lines = [line.strip() for line in lines]
-			processed_lines = getProcessedLines(lines)
-			assert len(lines) == len(processed_lines)
-			num_lines = []
-			for i in range(len(processed_lines)):
-				if '[NUM]' in processed_lines[i]:
-					num_lines.append(lines[i])
-			entry = {}
-			entry['doc'] = '\n'.join(num_lines)
-			entry['sent_weights'] = '\n'.join(['1' for line in num_lines])
-			examples = [entry]
+		processed_lines = getProcessedLines(lines)
+		assert len(lines) == len(processed_lines)
+		num_lines = []
+		for i in range(len(processed_lines)):
+			if '[NUM]' in processed_lines[i]:
+				num_lines.append(lines[i])
+		entry = {}
+		entry['doc'] = '\n'.join(num_lines)
+		entry['sent_weights'] = '\n'.join(['1' for line in num_lines])
+		examples = [entry]
 		predict(examples)
 	else:
 		logging.info("TRAINING")

@@ -1,0 +1,681 @@
+CORPORATE PARTICIPANTS
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+ 
+Mark DeRussy
+SBA Communications Corporation - VP of Finance
+CONFERENCE CALL PARTICIPANTS
+ 
+Batya Levi
+UBS Investment Bank, Research Division - Executive Director and Research Analyst
+ 
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc., Research Division - Research Analyst
+ 
+Brendan James Lynch
+Barclays Bank PLC, Research Division - Research Analyst
+ 
+David Anthony Guarino
+Green Street Advisors, LLC, Research Division - Senior Analyst of Data Centers & Towers
+ 
+David William Barden
+BofA Securities, Research Division - MD
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+ 
+Jonathan Atkin
+RBC Capital Markets, Research Division - MD & Senior Analyst
+ 
+Landon Hoffman Park
+Morgan Stanley, Research Division - Research Associate
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+ 
+Nicholas Ralph Del Deo
+MoffettNathanson LLC - Senior Analyst
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+PRESENTATION
+ 
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the SBA Third Quarter Results Conference Call. (Operator
+Instructions) As a reminder, this conference is being recorded.
+I would now like to turn the conference over to our host, Mark DeRussy, Vice President of Finance. Please go ahead.
+ 
+Mark DeRussy
+SBA Communications Corporation - VP of Finance
+Good evening, and thank you for joining us for SBA's Third Quarter 2022 Earnings Conference Call. Here with me today are Jeff Stoops,
+our President and Chief Executive Officer; and Brendan Cavanagh, our Chief Financial Officer.
+Some of the information we will discuss on this call is forward-looking, including, but not limited to, any guidance for 2022 and beyond.
+In today's press release and in our SEC filings, we detail material risks that may cause our future results to differ from our expectations.
+Our statements are as of today, October 31, and we have no obligation to update any forward-looking statements we may make.
+In addition, our comments will include non-GAAP financial measures and other key operating metrics. The reconciliation of and other
+information regarding these items can be found in our supplemental financial data package, which is located on the landing page of our
+Investor Relations website.
+With that, I will now turn it over to Brendan to discuss our third quarter results.
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Thank you, Mark. Good evening. We continued our very strong 2022 with another outstanding quarter. Our third quarter results were
+well ahead of our internal expectations and have allowed us to again increase our outlook for our full year results.
+Total GAAP site leasing revenues for the third quarter were $587.3 million and cash site leasing revenues were $575.6 million. Foreign
+exchange rates represented a benefit of approximately $600,000 when compared with our previously forecasted FX rate estimates for
+the quarter, but they were a headwind on comparisons to the third quarter of 2021, negatively impacting revenues by $3.3 million on a
+year-over-year basis.
+Same tower recurring cash leasing revenue growth for the third quarter, which is calculated on a constant currency basis, was 4.9% over
+the third quarter of 2021, including the impact of 4.2% of churn. On a gross basis, same tower growth was 9.1%. Domestic same tower
+recurring cash leasing revenue growth over the third quarter of last year was 8% on a gross basis and 4.8% on a net basis, including
+3.2% of churn.
+Domestic operational leasing activity, or bookings, representing new revenue placed under contract during the third quarter was very
+solid again, with meaningful contributions from each of our largest customers. The combination of our strong third quarter leasing
+activity level and faster-than-anticipated commencements of new amendments have allowed us to increase for the second consecutive
+quarter our outlook for new 2022 domestic site leasing revenue from organic lease-up.
+During the third quarter, amendment activity represented 58% of our domestic bookings, with 42% coming from new leases. The big 4
+carriers of AT&T, T-Mobile, Verizon and DISH represented over 94% of total incremental domestic leasing revenue signed up during the
+quarter. Domestically, we also experienced less churn than we had projected due to timing of merger-related decommissionings being
+later than we had previously estimated. Our reduced 2022 domestic churn amounts are expected to shift to 2023.
+Internationally, on a constant currency basis, same tower cash leasing revenue growth was 5.4% net, including 8.4% of churn or 13.8%
+on a gross basis. International leasing activity was very good again as we had our best quarter of the year in terms of new revenue signed
+up. In addition to strong customer activity levels across many of our markets, we continue to see healthy contributions from
+inflation-based escalators.
+In Brazil, our largest international market, we had another very strong quarter. Same tower organic growth in Brazil was 13.6% on a
+constant currency basis. As anticipated, international churn remained elevated in the quarter due primarily to carrier consolidations and
+Digicel's previously announced exit from Panama.
+During the third quarter, 81.1% of consolidated cash site leasing revenue was denominated in U.S. dollars. The majority of non-U.S.
+dollar-denominated revenue was from Brazil, with Brazil representing 12.5% of consolidated cash site leasing revenues during the
+quarter and 9.2% of cash site leasing revenue, excluding revenues from pass-through expenses.
+Tower cash flow for the third quarter was $464.1 million. Our tower cash flow margins remain very strong as well, with a third quarter
+domestic tower cash flow margin of 84.8% and an international tower cash flow margin of 67.3% or 91.3%, excluding the impact of
+pass-through reimbursable expenses.
+Adjusted EBITDA in the third quarter was $446.8 million. The adjusted EBITDA margin was 67.3% in the quarter, impacted slightly by
+outsized services revenue. Excluding the impact of revenues from pass-through expenses, adjusted EBITDA margin was 72.2%.
+Approximately 95% of our total adjusted EBITDA was attributable to our tower leasing business in the third quarter.
+During the third quarter, our services business again produced new record level results, with $88.3 million in revenue and $22.8 million
+of segment operating profit. We also continue to replenish and build even higher our services backlogs, finishing the quarter once again
+at a higher level than the prior quarter, notwithstanding our record third quarter results. Based on this backlog, our strong third quarter
+and the continuing high activity levels by our customers, we have raised our outlook for full year site development revenue by $26 million.
+Adjusted funds from operations, or AFFO, in the third quarter was $339.4 million. AFFO per share was $3.10, an increase of 15.1% on a
+constant currency basis over the third quarter of 2021. During the third quarter, we continued to expand our portfolio, acquiring 131
+communication sites for total cash consideration of $54.9 million. We also built 113 new sites in the quarter.
+Subsequent to quarter end, on October 11, we closed on the previously announced acquisition from Grupo TorreSur, adding 2,632 sites in
+Brazil for cash consideration of $725 million. In addition, subsequent to quarter end, we have purchased or are under agreement to
+purchase 34 sites in our existing markets for an aggregate price of $28.5 million. We anticipate closing on these sites under contract by
+the first -- excuse me, by the end of the first quarter of next year.
+In addition to new tower and other assets, we also continue to invest in the land under our sites. During the quarter, we spent an
+aggregate of $9.1 million to buy land and easements and to extend ground lease terms. At the end of the quarter, we owned or
+controlled for more than 20 years the land underneath approximately 72% of our towers and the average remaining life under our
+ground leases, including renewal options under our control, is approximately 36 years.
+Based on results and activities during and subsequent to the third quarter, we have updated our outlook for full year 2022. We have
+increased our outlook across all of our key metrics due to outperformance in the third quarter, lower churn expectations as a result of
+timing and the earlier closing of the GTS acquisition. These items were partially offset by higher interest costs and higher estimated cash
+taxes from the outlook previously provided with our prior quarter earnings release.
+We are very pleased with our third quarter and year-to-date performance and excited for a strong finish to 2022.
+With that, I will now turn things over to Mark, who will provide an update on our balance sheet.
+ 
+Mark DeRussy
+SBA Communications Corporation - VP of Finance
+Thanks, Brendan. We ended the quarter with $12.4 billion of total debt and $12.1 billion of net debt. Our net debt to annualized adjusted
+EBITDA leverage ratio was 6.8x, below the low end of our target range. Our third quarter net cash interest coverage ratio of adjusted
+EBITDA to net cash interest expense was 5.3x, equaling the last 2 quarter's all-time high.
+Subsequent to quarter end, we used cash on hand and borrowings under our revolving credit facility to fund the GTS acquisition closing.
+As a result, as of today, we have $995 million outstanding under our $1.5 billion revolver. The current weighted average interest rate of
+our total outstanding debt is 2.9%, with a weighted average maturity of approximately 4 years. The interest rate on 90% of our current
+outstanding debt is fixed.
+During the third quarter, we did not purchase any shares of our common stock as we allocated capital for the closing of the Brazilian
+acquisition. We currently have $504.7 million of repurchased authorization remaining under our $1.0 billion stock repurchase plan. The
+company's shares outstanding at September 30, 2022, were 108 million compared to 109.5 million at September 30, 2021, a reduction of
+1.4%. In addition, during the quarter, we declared and paid a cash dividend of $76.7 million or $0.71 per share. And today, we announced
+that our Board of Directors declared a fourth quarter dividend of $0.71 a share, payable on December 15, 2022, to our shareholders of
+record as of the close of business on November 17, 2022.
+With that, I'll turn the call over to Jeff.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Thanks, Mark, and good evening, everyone. As is appropriate on Halloween, we are pleased to present a treat of an earnings report. The
+third quarter exceeded almost all expectations and benefited from the significant level of wireless deployment activity by our carrier
+customers.
+Notwithstanding the broader challenging macroeconomic environment, our business was extremely busy, and we were able to again
+increase our full year outlook across all key metrics. We raised our full year outlook for total revenue by $49 million after raising it by $64
+million last quarter. Domestic organic contributions to leasing revenue growth in the third quarter were the highest for the year, and our
+outlook implies an even higher contribution in the fourth quarter. Our services business produced the highest quarterly contribution of
+revenue and gross profit in our history, and we again grew our services backlog. Our rate of return on invested capital was 10.6% for the
+quarter, the highest in at least 10 years. It really was a remarkable quarter.
+In the U.S., each of our carrier customers remain busy during the quarter as they have throughout the year, building out their networks
+through the deployment of new spectrum bands. T-Mobile was our most active customer during the quarter, continuing their nationwide
+deployment of 2.5 gigahertz and 600 megahertz spectrum. Verizon, AT&T and DISH were, again, very active in the quarter, with
+5G-related new lease and amendment signings.
+Site leasing revenue growth from domestic new leases and amendments has been strong this year, growing throughout the course of the
+year. We expect the contribution to revenue growth from domestic leases and amendments to be good again next year as well based on
+the strength of the organic leasing activity during 2022.
+Internationally, we had our best organic leasing quarter of the year. During the third quarter, we saw more of a shift toward upgrades at
+existing sites, with 63% of new business signed up in the quarter coming from amendments to existing leases and 37% coming through
+new leases. International leasing activity was again led by strong contributions from Brazil and South Africa, our 2 largest markets. Brazil
+has performed very well this year. Not only has lease-up been above our internal expectations for the year, but we have also had larger
+contributions from CPI-based escalators while maintaining a relatively stable foreign exchange rate.
+In addition, we closed on the previously disclosed GTS acquisition of over 2,600 sites earlier in October. The integration of these sites has
+only recently begun, but is proceeding smoothly and ahead of plan. As a reminder, these sites have 2.1 tenants per tower, and we believe
+there are opportunities for growth, particularly with recent 5G spectrum auctions in Brazil as a driver. These sites do contain some legacy
+Oi leases, but a smaller percentage than the rest of our portfolio.
+With regard to Oi, we have begun conversations with some of the carriers that are absorbing the Oi wireless business to discuss potential
+mutually beneficial and efficient arrangements around the integration of these networks. We still anticipate total churn of approximately
+$20 million to $30 million associated with the Oi merger on our legacy sites, plus an additional estimate of approximately $3 million
+associated with the GTS or Grupo TorreSur sites. These numbers do not include any potential impact to pass-through reimbursements as
+those items will be neutral to tower cash flow. We also continue to produce revenue from tenancies associated with Oi's wireline
+business, which is unaffected by these mergers. We have a strong relationship with our Brazilian customers and look forward to working
+with them through this process.
+With respect to our balance sheet due to early refinancings completed over the last few years and some well placed interest rate swaps,
+we have positioned ourselves well to address more challenging debt markets. We ended the third quarter with a net debt to annualized
+adjusted EBITDA leverage ratio of 6.8x, below our target range at our lowest level in years. And even with our large fourth quarter
+Brazilian tower acquisition, we expect to be at or below 7.0x at year-end. We have only 1 $640 million debt instrument maturing between
+now and October of 2024, representing approximately 5% of our debt outstanding. That instrument matures in March of 2023. And
+while interest rates are certainly higher today, we still have great access to incremental and refinancing debt capital given the strength of
+our cash flows.
+We expect to refinance our pending first quarter maturity during the next several months. During periods with an elevated cost of capital
+and increased interest rates, it is even more imperative to continue our disciplined and opportunistic approach to investing capital. We
+are fortunate to be in a strong industry benefiting from the continued growth in wireless, but also having the strength of significant free
+cash flow generation, largely fixed cost and scaled operations. It is during times like these that we really appreciate the strength of our
+underlying business.
+We're very pleased with the third quarter performance. As indicated by our updated outlook, we are also well positioned to finish out
+2022 on a high note. We will be providing our initial 2023 outlook on our next quarterly earnings call. But based on this year's organic
+leasing activity and the significant network projects ahead of our customers, we anticipate our leasing results to continue to be strong
+into next year. We will continue to be disciplined in our approach to capital allocation, focused on maximizing returns for our
+shareholders.
+I want to thank our customers and team members for their support and contributions to our success, and we look forward to a strong
+finish to the year.
+And with that, Caroline, we are now ready for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from the line of Jon Atkin from RBC Capital Markets.
+ 
+Jonathan Atkin
+RBC Capital Markets, Research Division - MD & Senior Analyst
+So I was interested in 2 topics. One is what you might be seeing in terms of seller expectations or just general observations about
+domestic M&A and what's going on with TCF multiples. And then secondly, in your conversations with your U.S. customers interested in
+-- or to what degree infill or densification or cell splitting starting to come up as opposed to overlays, which I think has been driving the
+majority of the growth ex-DISH so far.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes, I'll take the last one first, Jon. We're still, at least with respect to SBA and its assets, in the capacity stage and the overlay and the
+initial deployment of mid-band spectrum. While we fully expect densification to come, capacity for us continues to be the current driver.
+Now we take that as a good thing because that really just lengthens out the extent of the activity time line for us.
+In terms of seller expectations, they're changing some. They have not fully reset to the degree that the public company multiples have
+compressed. What that means for SBA is there'll be a lot of things that we take a pass on unless the price is right. We loved what we did
+in Tanzania. We loved what we did in GTS. There's a lot of things that we passed on because those expect -- there's still a gap in those
+seller expectations. But they have started to move actually down.
+ 
+Jonathan Atkin
+RBC Capital Markets, Research Division - MD & Senior Analyst
+And then lastly, just on international M&A and tuck-in opportunities, build-to-suits, what's your appetite for that at the moment?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+We like build-to-suits provided they're the right terms. Tuck-in acquisitions and, for that matter, new markets would all fall into kind of
+the same comment I made about finding things that are right for us. And we're only going to do things if we believe that it's right for us
+from a price and a growth perspective. And as -- if we do things, great. If we don't, you'll see what happened in the third quarter, which is
+that we delever pretty quickly until we do see those right capital allocation opportunities.
+ 
+Operator
+Our next question comes from the line of Michael Rollins from Citi.
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+Curious if you could just share a little bit more details of the backlog. And are you still seeing an extended book-to-bill where it's just
+taking longer for that backlog to get into the actual revenue numbers? And then separately, on just data centers and Edge opportunities,
+any updates on how you're looking at the opportunities, how some of your tests are coming along?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes. I don't know. Brendan, correct me if I'm wrong, but I don't know that we've had any changes in the book-to-bill.
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Nothing material. I will say that actually, if you noticed on our bridge for domestic contributions from new leases and amendments, that
+we did up that contribution for 2022. It was 66 last quarter and 67 now. And that change is really largely due to a slight acceleration in
+timing, and that's mostly around amendments that just kicked in a little bit quicker than we had projected. But it's a pretty small change
+relative to the big picture. I don't think there's been any material move that you would point out.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+And on the Edge business, Mike, we've actually seen some great progress, but it's still -- it's great from where we started, which was, of
+course, at 0. But it's not really material. I would say we probably have either in operation or under construction 30 to 40 of these
+facilities. And the primary demand for them has been Edge computing and fiber and cable regeneration. But what we found to be the key
+to success in this area is really the state of and the location of the tower site because where it's ready to go and it's close to or on top of
+existing fiber makes all that much more attractive. So on an absolute basis, yes, we've seen a lot of growth. On a financial basis, it's still,
+of course, very small. But we're encouraged by what we've seen.
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+And within that context, is there a base expectation of the value enhancement? So if you look at what these 30 to 40 sites could do from
+an incremental cash flow, incremental value perspective, is there a number that we all should be keeping in mind as the opportunity set?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+No, because it's still small. What I will tell you, though, is that we're really happy with the incremental return on invested capital for these
+projects. And at its core, that's what I think you have hired us to do. So we're very happy with that. And as long as we can make that
+return on invested capital, albeit small, perhaps, for at least a little while, we're going to keep doing it.
+ 
+Operator
+Our next question comes from the line of Rick Prentiss from Raymond James.
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+It certainly is nice to get treats versus tricks tonight, so thanks, Jeff. First question I would like to get into is, there's been a lot of debate
+out there. When you look at the U.S. business, it sounds like you have good visibility still. The leading indicator of services business
+sounds strong with record backlog. But we get the questions of aren't the carriers trimming CapEx budget if you look at '23 versus '22?
+Not a perfect indicator CapEx. Potential for a recession in the U.S. Interest rates are high. Does anybody need to go borrow to pay their
+CapEx? Help us understand how you're feeling, it sounds quite positive, Jeff, as far as looking exiting '22 strong and then looking into '23
+strong.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Well, keep in mind, because of the nature of the business, where you sign things up today, but you don't begin to recognize revenue until
+later, that we're today already shaping next year's financial results. So that's a point of confidence. The other thing I would say is that we
+track to the tower which of our customers have upgraded their mid-band spectrum on our sites. And the number is actually fairly low
+across the board for us at this point.
+And our customers will do what they will do. But knowing what this means for them in terms of the amount of money, frankly, for, first of
+all, what they spend on the spectrum, the, at least as reported, competitive differences between some of them from a spectrum
+perspective and others, where they are on our towers and the fact that the CapEx numbers that you get from them are extremely broad,
+we feel next year is going to be pretty good.
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+Okay. Other question. Obviously, you closed Grupo TorreSur. How should we think about the funding for that business in this
+environment? And as we look into '23, how much more interest expense should we be kind of already starting to think about from our
+side, even though you haven't given guidance yet, but thinking about what that headwind might be? And do stock buybacks come back
+on the radar as we get into this year or early next year?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes. Well, Grupo TorreSur is funded. I mean that you say, think about the funding, that's already funded. That got funded from cash on
+hand and our revolver. So the next thing we're looking at is the refinancing of the $640 million ABS instrument in March where we've got
+that teed up, ready to go. I don't want to speculate too much on the interest increase. There will be, of course, an interest increase. I
+mean, Brendan, what's that instrument bearing today?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+The one that's getting paid off is just below 3.5%. So you should expect that, that will be significantly higher.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Well, let's put a little parameters around that. I mean we're thinking it's going to have a 6 handle on it, Ric. But then keep in mind, we're
+going to be producing over $1 billion of AFFO. We don't have another debt instrument due until October of 2024. So we're going to be in
+great shape. We're going to have capital to invest and it's either going to get -- we're either going to see value in portfolio acquisitions
+based on my earlier comments. We may or may not. We're going to be -- continue to be opportunistic around stock repurchases. Or third,
+and I would say this is somewhat unlikely given the first 2, you're going to see a big decline in our leverage ratio.
+ 
+Operator
+Our next question comes from the line of Simon Flannery from Morgan Stanley.
+ 
+Landon Hoffman Park
+Morgan Stanley, Research Division - Research Associate
+This is Landon on for Simon. I was wondering if you could expand on any specifics domestically from what you're seeing from DISH or any
+of the other carriers in terms of where you think they're at in their deployments.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes, I don't want to get too granular. All of the -- well, let's say, T-Mobile, Verizon and AT&T all still have work to do with us based on our
+analysis of where they are with their mid-band spectrum. Some of those are further ahead than others. And I think the answer to that
+question has been well reported.
+And then DISH has really got a lot of business signed up, and their focus right now is getting all that on air to meet the June 2023
+requirements, which based on everything we can tell, they're in a very good position to do. And then we expect them to come back and
+begin to work on the 2025 requirements.
+So while it's varied landed in terms of which of those are busiest, and I don't think they want me actually commenting on that, I will tell
+you that there is a high level of busyness from all of them. And they all, at least based on our analysis, still have a lot to work, a lot of
+work left to do on our portfolio.
+ 
+Landon Hoffman Park
+Morgan Stanley, Research Division - Research Associate
+And then just 1 follow-up on the Edge deployment commentary. Can you maybe describe what these sites look like, the 30 to 40 that are
+in operation or under construction and build costs, size of the facilities? And maybe what percent of your sites do you think are potentially
+eligible over time to have such deployments?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes. I think they're mostly 6x12- or 10x20-foot shelters that look like the traditional wireless shelter that certain carriers have used
+historically. They've got air conditioning. They've got a lot of logistics to check temperatures and alarms and things like that. They
+basically are for racks of equipment, and they start out with 2 or 3 rack capacity and can be expanded beyond that. And Brendan, what
+are we -- what's our average cost on those?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Well, it depends on the size and the scale, obviously. The deployment there for something along the lines of what Jeff described, you're
+looking at somewhere in the $100,000 range. But if we do a bigger, more fulsome Edge computed through data center where it's a
+bigger operation, it can be as much as $400,000 or $500,000.
+ 
+Landon Hoffman Park
+Morgan Stanley, Research Division - Research Associate
+And how much power do you have -- would you have going to those facilities?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes, they're not -- at that size, they're not being sold on a traditional data center power basis. A lot of the uses today are for regeneration
+of signal for cable and fiber companies. And that's not really how that's priced and sold.
+ 
+Operator
+Our next question comes from the line of Walter Piecyk from LightShed.
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+Jeff, just going back to Rick's question, can you give us or define what low means in terms of the number of cell sites at mid-band? Are
+you talking like sub-10%, sub-20% something in the ballpark?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+The most populated of the carriers would be in -- their satisfaction rate on our towers would be in the 50%-ish range and others are
+below that.
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+Got it. And then Comcast has this radio from Samsung. It does 2.5 and it has low band in there. I guess first part of the question is, have
+you had any type of meaningful dialogue with Comcast and Charter about helping them with their offload strategy? But then more
+importantly, I guess, when that inevitability does happen, if you look at like 3 scenarios, 1 where they just said, hey, we have a radio that
+just does CBRS in the antenna that goes along with that. Scenario 2 is we're doing low band and CBRS, so that's probably a different
+type of antenna, maybe larger. And then the third alternative is the low band that they have is deeper, meaning like rather than 5
+megahertz in Comcast's case, they go out, they lease some additional low band and they're using 10 megahertz of spectrum.
+Would the leases differ between those 3 scenarios? Because I've seen that, if you recall, over the past many years that you would argue
+that like, hey, when someone put on the spectrum, we get more money. So for a new leaser or a new tenant, would it be the same way
+where if they came to you with 1 of those 3 alternatives, that there would be different pricing?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Just based on the nature of the spectrum that's being transmitted?
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+Yes. And nature. Yes.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Probably. Probably not. Probably it's all going to be based on the way the equipment looks. And based on your description of the third
+alternative, the lower band, deeper lower band, I mean as you're describing it, I'm envisioning that's going to be the most intensive on the
+equipment side. So it would be based on that, Walt, as opposed to the fact that they're transmitting their own. I mean even though CBRS
+is shared and not necessarily owned, we wouldn't differentiate somebody's use of CBRS versus their use of their own spectrum, I don't
+believe. I don't think we ever have. Let's put it that way.
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+And has there been any meaningful discussions up to this point?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+We're always in discussions with Charter and Comcast. But I would say that those scenarios that you lay out, for my personal opinion, I
+think they're still somewhat in the future if they.
+ 
+Walter Paul Piecyk
+LightShed Partners, LLC - Partner & TMT Analyst
+Got it. Yes. Understood. They will, I believe, hopefully.
+ 
+Operator
+Our next question comes from the line of Batya Levi from UBS.
+ 
+Batya Levi
+UBS Investment Bank, Research Division - Executive Director and Research Analyst
+Can you remind us the overall financial impact of the GTS side, if there are any changes to the original expectation, and how much
+revenue was pulled forward? And network services, you mentioned the strength and you added more to the backlog. Could we expect a
+similar performance next year on that segment?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes. GTS, the numbers aren't any different than what we gave last quarter. So the total revenue on an annualized basis is expected to be
+approximately USD 72 million. The impact from the pull forward of closing a little bit early was about $3 million.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes. And in terms of services, I mean we have a backlog that supports a fourth quarter performance similar to what we enjoyed in the
+third quarter. That's not what we've guided to because we exceeded our expectations so greatly in Q3, and Q4 has some holidays and all
+that. And in terms of next year, we really wouldn't hazard a guess until we have the benefit over the next 4 or 5 months prior to when we
+give out full year 2023 guidance.
+ 
+Operator
+Our next question comes from the line of Nick Del Deo from MoffettNathanson.
+ 
+Nicholas Ralph Del Deo
+MoffettNathanson LLC - Senior Analyst
+First, just looking at the change in guidance. What's the jump in other revenue in the U.S. coming from? Is that decommissioning fees or
+something similar? And how much of that was in Q3 versus what you expect in Q4?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes. It was -- almost all of the jump is related to Q3, I would say. And it is related largely -- it's a variety of things. But cash basis
+revenues, a portion of that, a big chunk of that is related to what we might call holdover fees, extra fees that are paid for somebody
+staying on the tower that's coming off, but they stay longer than they should. It also includes internationally payments from Digicel. We
+mentioned Digicel is a big contributor to the churn number internationally, which they are, but they've actually continued to make a
+number of payments. And so those payments are showing up basically in other now.
+ 
+Nicholas Ralph Del Deo
+MoffettNathanson LLC - Senior Analyst
+Okay. That's great. And I guess I also wanted to ask about expense trends that you're observing in the U.S. Obviously, the majority of your
+OpEx is ground rent escalators on that are fixed. So that takes a lot of risk off the table. But what are you seeing and expecting as it
+relates to the rest of your expense base, like corporate, field operations and so on?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+We are seeing definitely some inflationary pressure there, Nick. And we're going to be giving out average compensation increases next
+year at a higher rate than we've given in the last couple of years. But when you look at -- I think we're -- our SG&A is only like 6% of cash
+SG&A, 6% of revenue. I mean it just really doesn't matter on the overall financial numbers. But we'd be lying to you if we said that we
+were immune to that kind of stuff. But for us, it's just so much smaller of a percentage than it is for a lot of other companies.
+ 
+Nicholas Ralph Del Deo
+MoffettNathanson LLC - Senior Analyst
+Okay. Okay. That's great. And if I can squeeze in one last quick one. Obviously, as we look at the growth overseas, the value of the
+CPI-linked escalators are really showing their value in the current environment. Are there any caps on major contracts that we should be
+cognizant of? Or are you guys uncapped on that front, and hence, essentially totally protected?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+We're largely uncapped. I'm trying to think if there are any -- there may be 1 or 2 somewhere out there. But for the most part, it's not
+capped.
+ 
+Operator
+Our next question comes from the line of Greg Williams from Cowen.
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+I just have 2, if I may. Can we talk about your Latin American churn? If I look at your guidance, it should be still up here in these 8% levels.
+I'm just trying to figure out how much of that spills over into 2023. Do we remain at these 8% levels over the next few quarters given the
+Oi cadence and the consolidation churn in Digicel, et cetera?
+Second question is just on the service revenue -- actually, the service margin profile. How do you expect that to pan out? Are we shifting
+from maybe permitting to more construction? I think you hit a margin close to 26% and wanted to see where that shakes out over the
+next few quarters.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes. I mean I'll take the latter question first, and Brendan, you can do the American churn. We're executing very well, Greg, on both the
+traditional permitting and zoning side of the business, as well as the construction side. So the margin differential that you saw years ago
+between those 2 lines of our services business, they're not exactly the same, but the gap has closed tremendously.
+So we still get a better margin on the zoning and the permitting side of things than we do on the construction. So the mix of that will
+impact the margins. But I mean I don't think it's going to be a hugely different margin next year. I think based on the way the work will
+flow and how we expect things to come in for business that has -- I mean the first business that we typically see for any kind of new
+interest is going to be on the zoning and permitting side. So I think it's not going to change a whole lot.
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes. And then, Greg, on the international churn piece, I would expect that the next couple of quarters, a few quarters probably, will be in
+a similar range in terms of that percentage that you're looking at because of the timing of when some of the stuff started.
+The 1 thing I'd also caveat about next year is just this obviously only takes into account what's happened now, and there's -- the 1 big
+thing that's out there that we're in the midst of conversations about is related to the Oi consolidation in Brazil. And as of today, there's
+nothing to report on that. But as we continue to have conversations, depending on where those end up, that may influence what next
+year's numbers look like.
+ 
+Operator
+Our next question comes from the line of Dave Barden from Bank of America.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+I got a bunch, Jeff, for you. I think the first most important is, what are you going as for trick or treating tonight with your kids? The
+second...
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+I'm going as a grandfather.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+I'm still interested in the costume. So the second question is, you kind of highlighted the leverage being below the target. There was a
+time when you guys implemented your dividend that you thought maybe a lower leverage target would be the right target. I wondered if
+you would want to have a little bit of a conversation about how you're thinking about target leverage. And given that there's not a ton to
+do on acquisitions and you didn't do stock buybacks, even though stock has been pulling back, whether there's been some sort of change
+there.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+There really hasn't been a change there. I mean clearly, we've maintained our target but have operated almost entirely at the low end
+now for some time. And I think that's going to continue to be the case, if not dropping below. But the dropping below, if that happens, is
+going to be more a function of our dissatisfaction with poor capital allocation opportunities and some financial theoretical belief that this
+is the optimum leverage level given our access to capital.
+And one of the thing, and you may be driving at this, Dave, we're not going to turn into a high dividend relative to AFFO company. We
+just don't think that's the right thing to do. We will grow our dividend probably as faster, faster than, well, certainly our peers and maybe
+anybody else in the REIT industry as we have the last couple of years. But it's still going to be lower as a percentage of AFFO because we
+like the flexibility that it provides.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+Okay. Great. And then the second question I had was one of the things that distinguished you guys from peers has been a pivot to fixed
+rate debt. Obviously, that changed a little bit with GTS. I think someone asked earlier about the plan for the GTS that you guys talked
+about the refinancing of the ABS, but I don't -- what is the plan for the variable rate debt in the portfolio? I guess this is one for Mark. Are
+you going to go -- are you going to lock in higher fixed rates? Or are you going to try to ride it out in the meantime?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+It will be a mix of both. We have -- as you probably have noticed from our prior ABS financings where we have the opportunity to raise
+more than the amount to be refinanced, we have been rated for issuance well above $640 million. We're trying to figure out exactly how
+far above that, that we go. So there'll be some reduction in the revolver from that, and then the rest of it is going to occur pretty quickly
+from cash flow.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+Perfect. Okay, good. And then my last question, if I could, please, Jeff, is I've always kind of considered you a little bit of a Brazilian policy
+wonk. Now that the election is over, what do you think is next in terms of implications for the telecom industry, currency, et cetera?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Well, we all know that Lula is left of Bolsonaro, but he has gotten elected by a coalition of not only the more leftist, but also some more
+centrist populations as well. At the same time that Lula got elected President, the Congress down there got actually more to the right. So
+you're going to have a classic draw between the President and between Congress, and Congress has a lot of power in Brazil.
+So I think for us, it's going to continue to be kind of a good business environment without a lot of policy changes. That's -- I mean I think
+the -- whatever -- and I don't know that he would have proposed anything. But assuming, for hypothetical purposes, that Lula proposed
+some things that would be very much to the left and detrimental to business, I don't think that's going to happen because of the
+Congress.
+ 
+Operator
+Our next question comes from the line of David Guarino from Green Street.
+ 
+David Anthony Guarino
+Green Street Advisors, LLC, Research Division - Senior Analyst of Data Centers & Towers
+Jeff, I wanted to make sure I'm understanding your enthusiasm for domestic new leasing activity next year, especially compared to one of
+your peers that gave '23 guidance that implies a step-down from macro tower new leasing activity. So I guess the question is really your
+'22 guide this year for $67 million in new leasing activity, do you think we're going to look back on that as a high watermark? Or do you
+think that there's actually room for that to grow going forward?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+I'm glad you asked that question because when we're conveying good feelings about next year, it's exactly around that number for 2022.
+That same calculation and that same thing that we will be posting when we start our bridge for next year -- next earnings release, that's
+really what we're speaking to. So I think I just answered your question.
+ 
+David Anthony Guarino
+Green Street Advisors, LLC, Research Division - Senior Analyst of Data Centers & Towers
+All right. I can read through that. And second one then switching gears on it. Given the volatility and the pretty rapid change we've seen
+this year in a lot of foreign currencies, maybe not the experience in Brazil, but certainly a lot of other markets, have you reconsidered how
+you underwrite the risk for international investments relative to what you might have been doing at the start of the year?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Not really, because the rate of currency movement has largely been matched off by the CPIs in those countries. And all of our revenues in
+those countries are escalated based on CPI. There'll be some minor exceptions to that, plus or minus. But in general, that relationship
+has helped.
+ 
+Operator
+Our next question comes from the line of Brendan Lynch from Barclays.
+ 
+Brendan James Lynch
+Barclays Bank PLC, Research Division - Research Analyst
+Maybe on the debt, again, given the macro environment, has your ability to tap into the secured debt market changed recently? And do
+you think that will continue to remain a primary source of funding going forward?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes, Brendan, we do think that it will remain a primary source of funding for us. Our ability to tap into it has not really been impacted. It's
+really just a question of cost. That's the only question mark. But the access to capital and having plenty of capital available to us in those
+markets still remains very strong.
+ 
+Brendan James Lynch
+Barclays Bank PLC, Research Division - Research Analyst
+Okay. Great. And then just 1 other question. It looks like your discretionary CapEx guidance came down by about $35 million for the year.
+Is that related to labor availability or supply chain constraints or other rising costs that might be leading to a slowdown in development
+projects?
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+No. It's mostly just timing of some smaller acquisitions and when we think they're going to close.
+ 
+Operator
+Our next question comes from the line of Brandon Nispel from KeyBanc.
+ 
+Brandon Lee Nispel
+KeyBanc Capital Markets Inc., Research Division - Research Analyst
+Two, if I could. Jeff, you guys talked about commencements coming in a little bit quicker than expected. But could you update us on the
+backlog of unsigned lease applications? Where do you stand today relative to a year ago and last quarter?
+Then for Brendan, obviously, international CPIs have been high, but have come down a little bit, at least in Brazil. I guess if we put
+estimates aside today, inflation stayed where it's at, what should we be looking for, for that escalator next year?
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Yes, in terms of our backlog for leases, new leases and amendments, we are just a tad off of where we were at the end of second quarter,
+which was one of the highest that we've had in many, many, many years. So we're still looking at a very, very strong backlog, which has --
+underlies a lot of our optimism going forward. And Brendan, I'm going to let you handle the second question.
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes. I mean you're asking me to predict the CPI for next year in Brazil, which it's hard to do with certainty, especially given the recent
+elections and all that, we have to kind of see how that all settles out. But I think high single digits is a reasonable assumption today, and
+perhaps it could be higher than that. But I would target somewhere in that 8% to 10% range.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Well, I mean there's going to be a forward curve out there. I mean when we do planning around those things because nobody has an
+accurate crystal ball on that, we rely on the published consensus forward curve.
+ 
+Brendan Thomas Cavanagh
+SBA Communications Corporation - CFO & Executive VP
+Yes. I mean the big thing though, Brandon, for us is some of it comes down to timing. Obviously, we have concentrated periods at which
+our leases escalate. So depending on where things are during those windows of time, it has either a greater or lesser impact on our
+specific numbers.
+ 
+Operator
+And there are no further questions in the queue at this time.
+ 
+Jeffrey A. Stoops
+SBA Communications Corporation - CEO, President & Director
+Great. Thanks, Caroline, and thank you all for joining us. We look forward to our next release in February where we will talk about 2023.
+And happy Halloween.
+ 
+Operator
+And ladies and gentlemen, that does conclude our conference for today. Thank you for your participation and for using AT&T
+conferencing services. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

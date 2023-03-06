@@ -1,0 +1,425 @@
+CORPORATE PARTICIPANTS
+ 
+Bryan Wulfsohn
+MFA Financial, Inc. - Senior VP & Co-CIO
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+ 
+Gudmundur Kristjansson
+MFA Financial, Inc. - Senior VP & Co-CIO
+ 
+Harold E. Schwartz
+MFA Financial, Inc. - Senior VP, General Counsel & Secretary
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+CONFERENCE CALL PARTICIPANTS
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+PRESENTATION
+ 
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the MFA Financial, Inc. Third Quarter 2022 Conference. (Operator
+Instructions) As a reminder, this conference is being recorded. I would now like to turn the conference over to our host, Hal Schwartz.
+Please go ahead.
+ 
+Harold E. Schwartz
+MFA Financial, Inc. - Senior VP, General Counsel & Secretary
+Thank you, operator, and good morning, everyone. The information discussed on this conference call today may contain or refer to
+forward-looking statements regarding MFA Financial, Inc., which reflect management's beliefs, expectations and assumptions as to
+MFA's future performance and operations. When used, statements that are not historical in nature, including those containing words
+such as will, believe, expect, anticipate, estimate, should, could, would or similar expressions are intended to identify forward-looking
+statements. All forward-looking statements speak only as of the date on which they are made.
+These types of statements are subject to various known and unknown risks, uncertainties, assumptions and other factors, including those
+described in MFA's annual report on Form 10-K for the year ended December 31, 2021, and other reports that it may file from time to time
+with the Securities and Exchange Commission. These risks, uncertainties and other factors could cause MFA's actual results to differ
+materially from those projected, expressed or implied in any forward-looking statements it makes. For additional information regarding
+MFA's use of forward-looking statements, please see the relevant disclosure in the press release announcing MFA's third quarter 2022
+financial results. Thank you for your time. I would now like to turn this call over to MFA's CEO and President, Craig Knutson.
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+Thank you, Hal. Good morning, everyone, and thank you for joining us here today for MFA Financial's Third Quarter 2022 Earnings Call.
+Also with me today are Steve Yarad, our CFO; Gudmundur Kristjansson; and Bryan Wulfsohn, our Co-Chief Investment Officers and other
+members of senior management. The third quarter of 2022 offered no respite from the extremely difficult prior 2 quarters and was
+another historically challenging period across all financial markets. Bond markets continue to be very volatile with rates backing up in
+the third quarter and agency mortgage spreads touching near all-time highs not seen since the great financial crisis, which you'll recall,
+in 2008, for a time, it was not certain that Fannie or Freddie credit was good. Equity markets experienced a particularly volatile third
+quarter. Although the S&P 500 was down only 5% for the quarter, it was up 14% through mid-August and then down 17% over the
+second half of the quarter.
+Inflation numbers continue to disappoint with stubbornly high prints despite considerable action already taken by the Fed. Although the
+Fed has been consistently clear that their sole focus is on inflation, market participants seem to seize on random and sometimes tenuous
+signals to anticipate a pivot or a pause, driving yields down and stocks up for a short period until it becomes obvious that this temporary
+euphoria was ill-advised at which point we retrace levels in stocks and bonds. With the War still ranging in Ukraine and recent financial
+stresses in the U.K. and Japan, this market volatility is not likely to subside soon. As a result, financial market investors have generally
+remained on the sidelines, even as spreads and yields have moved in many cases to historically wide levels. Now admittedly, the
+conspicuous absence of the Fed is an active buyer in the market today as they have been for nearly all of the last 15 years, called into
+question any notion of what an average or normal spread is or what was observed over that time period.
+But even looking back prior to 2007, many of the levels that we see in the market today look quite attractive. Recent agency mortgage
+spreads as wide as plus 190 versus 10-year treasuries effectively puts a floor on non-Agency RMBS, which explains even wider spreads on
+credit products today. In fact, there were only 4 times in the last 36 years that agency MBS spreads have been wider 1986, 1998, 2000
+and 2008. And except for 1986, all these periods coincided with systemic and unique financial market crisis and all 4 x overlap with
+periods of falling rates, whereas the dislocation we see today is largely a function of rapidly rising rates. I referred to 1994 during our first
+quarter earnings call earlier this year, when the Fed raised rates 6x for a total of 250 basis points and then another 50 basis points in
+February of 1995. During this time, 10-year yields rose 240 basis points from $5.63 just prior to the first increase to a peak of 803. Agency
+mortgage spreads widened from 72 basis points just prior to the first Fed action to a peak of 116.
+That's a 44 basis point widening in late April of '94 and then Agency MBS rallied through the summer and finished the year in the low
+hundreds. Contrast this with today when similar Fed tightening and almost identical increases in 10-year yields have led to over 130 basis
+points of agency spread widening from the beginning of the year, tights in the 50s. A more recent rising rate widening for Agency MBS
+would be the taper tantrum in 2013. Agency mortgage spreads had widened early in 2013 from plus 41 in January, and we're about plus
+70% versus 10s before Chair Bernanke's announcement that the Fed would begin tapering asset purchases at some future date set off
+the taper tantrum, which we all remember set off a sell-off in treasury and push mortgage spreads wider. 10-year yields rose from 192
+just before the announcement to 3% in early September and agencies widened, but only by 25 basis points to plus 95% in early July, and
+they were back inside of plus 70 by September.
+Some of my recollection of the taper tantrum was much more dramatic than these actual numbers suggest. And again, this puts today's
+spread environment in context. While the magnitude of Fed hikes has exceeded some expectations, the direction was foreseeable. Our
+team at MFA took steps to preserve capital and manage our duration beginning in the fourth quarter of last year when it became clear
+that the Fed would need to move more dramatically than previously expected. We had $900 million of interest rate swaps at year-end
+last year. And as rates rose and duration extended, we increased this position to $2.4 billion at March 31 and again to $3.2 billion at June
+30. This swap book has a weighted average fixed pay rate of 1.69%. So not only does this lock in what is now considered a cheap funding
+cost, but we also benefit from a positive carry from the floating rate received leg, which is now approximately 200 basis points with
+yesterday's Fed action priced in.
+We deliberately slowed our loan acquisition pace beginning in the first quarter of the year, and at the same time, we've continued to
+execute securitizations throughout the year, 9 securitizations and over $2.7 billion of UPB. Through our swap position in these
+securitizations, we have now effectively locked in 99% of our asset-based financing costs. Taken together, these steps mitigated our book
+value decline. Although MFA was certainly not immune to book value diminution, our relative book value performance versus many in
+the peer group was considerably better. It's also worth noting that a significant portion of MFA's book value decline is due to fair value
+marks on loans on our balance sheet, the vast majority of which we will likely hold until payoff or maturity. As of September 30, the
+market discounts to unpaid principal balance on our $6.8 billion of purchased performing loan portfolio is approximately $668 million.
+We have securitizations that are also marked below par by approximately $325 million. Netting these 2 discounts produces a potential
+book value increase of approximately $343 million or $3.37 per share, assuming the loans and liabilities all pay off at par. This amount
+would be offset by any realized losses on loans, but expected losses are relatively low, particularly on our purchased performing loan
+portfolio. We have also prioritized liquidity for all of 2022, and we ended the third quarter with approximately $434 million in cash. while
+holding a substantial portion of our equity in cash obviously creates a drag on overall ROE. This is not the time to swing for the fences. --
+having a sizable liquidity position provides a cushion and volatile market and gives us the ability to take advantage of opportunities that
+arise. We've also fortified our balance sheet as we show on Pages 6 and 7 of our presentation. We've increased non-mark-to-market
+financing. As of September 30, 71% of our financing is non-mark-to-market and our recourse leverage was only 1.7x at quarter end.
+Our loan financing agreements are term financings and 65% of this financing has a maturity date greater than 6 months. The borrowing
+spreads and haircuts on existing loan financing is fixed for the term of the financing agreement. Typically, we extend these agreements
+for another year, a couple of months before their term expires. And despite market volatility, financing is available for multiple
+counterparties, and we continue to field calls from other significant bank lenders eager to provide financing. Finally, I'd like to talk a little
+bit about housing and residential mortgage credit. Clearly, the selloff in rates and widening in mortgage spreads has had a profound
+impact on mortgage rates and housing activity has slowed dramatically. We're beginning to see some modest home price declines at
+least month-over-month in some parts of the country. After a dramatic -- after the dramatic home price appreciation over the last 2
+years, this should not be a surprise.
+However, as we show on Page 8, our loan portfolio has considerable embedded HPA, which combined with amortization has lowered the
+current LTVs in most cases, to the mid-50s. So to summarize how MFA is positioned, we continue to maintain substantial liquidity. We
+have fortified our balance sheet with non-mark-to-market financing, fixed rate financing through swaps and securitizations and term
+financing agreements for our loan products. And our loan portfolio has benefited from seasoning and home price appreciation and has a
+low LTV, so borrowers have substantial equity in their properties. And I'll now turn the call over to Steve Yarad to discuss additional
+details of our financial results.
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+Thank you, Craig. On Slide 4 of the company update presentation, we present a snapshot of our Q3 2022 results. MFA's GAAP earnings
+were negative $63.4 million or $0.52 per common share. Distributable earnings were $28.2 million or $0.28 per common share. Net
+interest income for the third quarter was $52.3 million. Book value declined modestly during the quarter, with GAAP book value down
+6.8% to $15.31 per common share, while economic book value was down 8.3% to $15.82. We ended the quarter with a leverage ratio of
+3.6x. Recourse leverage, which excludes securitized debt was 1.7x at September 30, 2022. And with that, I'll turn the call over to
+Gudmundur.
+ 
+Gudmundur Kristjansson
+MFA Financial, Inc. - Senior VP & Co-CIO
+Thanks, Steve. Turning to portfolio acquisitions. Loan acquisitions declined modestly to $710 million in the quarter as we continue to be
+selective in our investment activities and to require higher yields on the capital that is deployed. We continue to find the best
+opportunities in business purpose loans organically sourced through our leading nationwide EPO originator, Lima One, where we funded
+$520 million of new originations and rehab draws in the quarter. We also selectively acquired $179 million of non-QM loans in the
+quarter. The new acquisitions were an attractive yield of approximately 8%. And with the strong credit characteristics with average LTV
+of about 67% and average FICO score of plus 743.
+The portfolio size was relatively unchanged as portfolio runoffs and asset valuation declines largely offset acquisition volumes. Lima One
+continues to thrive under MSA's ownership and has established a reputation as a leading nationwide BPL originator with strong
+origination volume, excellent credit performance and prudent underwriting. Lima's trailing 12-month origination volume is approximately
+$2.5 billion compared to $900 million at the time of acquisition on July 1, 2021. Lima originated approximately $640 million maximum
+loan amount in the third quarter, modestly up from approximately $600 million in the second quarter. About 3/4 of the third quarter
+origination was short-term RTL loans. Continuing the trends we have seen throughout the year of stronger demand for short-term
+products versus the more rate-sensitive longer-term rental loans. The credit performance of Lima originated loans owned by MFA
+continues to be excellent with 60-plus day delinquent loans of less than 2%.
+All year long, we have been focused on the impact of higher rates, tighter monetary policy and potentially softer economic conditions on
+our portfolio. To get ahead of that, we have throughout the year, proactively managed the risk reward profile of Lima's BPL originations
+by tightening underwriting standards, increasing risk-based price adjustments and increasing loan coupons in general. As a result, the
+credit quality of our portfolio, which was excellent before, has improved further in the year, while our average origination coupon has
+increased. As an example, the average FICO score on Lima's 2022 RTL vintage of approximately 750 has increased by about 10 basis
+points and 20 basis points compared to the 2021 and 2020 Vince, respectively.
+And the average coupon in our origination pipeline has increased by 400 basis points this year and is currently over 10%. At the same
+time, smaller BPL originators that are dependent on whole loan sales to third parties have been impaired by the market volatility, which
+has created an opportunity for Lima to grow market share while maintaining prudent credit standards. The result has been a fairly steady
+pipeline of increased credit quality. We are starting to see some softening in borrower demand due to higher rates and tightening of
+underwriting standards and expect origination volume to decline in the fourth quarter. We continue to be focused on liquidity and
+availability of financing to support our BPL origination. And to that end, expanded our RTL financing capacity in the quarter by
+approximately $650 million, of which about 65% is on non-mark-to-market terms.
+In addition, RTL loan paydowns of about $148 million exceeded draws of about $107 million in the quarter. I will now turn the call over to
+Bryan, who will discuss MFA's securitization activities and portfolio credit performance.
+ 
+Bryan Wulfsohn
+MFA Financial, Inc. - Senior VP & Co-CIO
+Thanks, Gudmundur. We have made significant progress in our plan to obtain a greater share of our financing through securitization.
+Over the last 12 months, we have issued $3 billion of nonrecourse securitized debt through 12 securitizations. The securitizations issued
+cover many of our loan types from non-QM and SFR to RPL and RTL. 2022 has been a challenging year to be an issuer as spreads
+required from bond investors have pushed wider materially. To start the year, non-QM and SFR, AAA spreads were in the low 100s and
+moved 150 basis points wider by June. In August and September, there was a short-lived respite, which we took advantage of to issue a
+noncitization with AAA spreads in the high 100s just before spreads widened out again to the mid-200s. As Craig has previously
+mentioned, every time we would feel disappointed about our execution, spreads were perceived to lead even wider in subsequent peaks,
+which in hindsight made our levels look great.
+We will continue to be a regular issuer in the market as we believe non-mark-to-market securitization financing provides significant
+benefits to our portfolio. Moving to our portfolio's credit performance. Delinquencies continued to improve across the portfolio over the
+third quarter. The percentage of loans 60-plus days delinquent in September for the 9 QM and S4 portfolio was 2%. The RTO portfolio
+was 6%. The RPL portfolio exhibited 18% with almost half of those loans delinquent making payments. In the portfolio of loans
+purchased NPLs, 41% of the remaining loans are 60-plus days lengthy. However, about 30% of those borrowers are making payments.
+We are laser-focused on our remaining nonperforming loans as momentum has shifted in home prices. Our asset management team is
+working to make sure our time line to resolution remain as short as possible as protracted time lines can be costly.
+As a mitigant, our portfolio maintains a low LTV aided by the significant HPA experience over the past 2 years, which helps limit potential
+losses. Relating to modifications, we have adjusted our loss mitigation waterfall to take into account the current mortgage interest rate
+landscape. To receive a modification, borrowers in most cases, will now see an increase to the mortgage rate, which was not the case in
+the years following the financial crisis. Lastly, we have been successful in reducing our REO portfolio by 141 properties to 412 since the
+beginning of the year, taking $20 million of net gains as we remain aggressive moving properties in an increasingly tricky housing
+market. And with that, we'll turn the call over to the operator for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And we will begin the queue with Bose George with KBW.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+This is actually Mike Smyth on for Bose. Thanks for taking the question. First one, given where you can aggregate and securitize loans,
+where levered ROEs on new investments? And then kind of as a follow-up, how are you thinking about kind of the balancing act between
+offense buying back stock and maintaining liquidity?
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+So I'll let probably Gudmundur talk about the ROEs on securitized, and then I'll talk about use of cash.
+ 
+Gudmundur Kristjansson
+MFA Financial, Inc. - Senior VP & Co-CIO
+Yes. So as Bryan pointed out, securitization execution has gotten more challenging throughout the year. But what we've done, as I
+explained throughout the years, raised our coupons and our yield requirements. And so right now, on the SFR side, we're originating
+coupons around 8.5% to 9%. So the yield that we're targeting there is probably an mid-8s. Securitization execution is mid- to high 7% in
+terms of costs. So when you do the math and in terms of the amount of bonds you could sell, you could say that the ROE is probably low
+double digits or around 10%. But the thing is we are also being quite cautious in the way where we approach it.
+We need to make sure that we're pulling in loans with high enough yields to basically be able to absorb some of the volatility in spreads
+-- and that's really how we're thinking and think about yields thereof been 10% and 10.5%. The securitization and execution, there is also
+quite challenging. And if you were to do a deal, it probably cost you about 8.5% to 9%. So you're earning about 100 basis points of
+spread probably, but your asset yield is 10%. And so the ROE on that is probably mid-double digits. But importantly, if you think about
+the RTL execution, we said on the call, obviously, that we expanded our financing capacity in terms of warehouse setups and expanded
+also a non-mark-to-market component of that. So we do have the ability to hold those loans on a warehouse where the cost of funds is
+substantially lower.
+You can think warehouse cost of funds are probably anywhere from swaps so for plus 250 to 280, something like that, -- and then with
+SFR right now at 3.75%, the cost of funds there is close to 6.5%. And so if you're creating loans that yield 10%, you got a decent amount
+of spread there, and then you continue to just do the math. If the Fed hike is another 100 basis points. The cost of funds go to 7.5%, still
+quite attractive spread relative to the ads that we have. So we think we'll continue to do securitization, as Bryan pointed out, from a
+liquidity and risk management perspective.
+But clearly, at the time being, there is -- it's more advantageous, especially in the shorter product to hold on warehouse if you do have
+those non-mark-to-market term of facilities. And just the last piece on the kind of the financing side of that. I just want to emphasize
+that, as Craig pointed out in his remarks, we have $3.2 billion of interest rate swaps, and that almost 100% offset the variable funding on
+our warehouse facilities. And so as the index that increases with SFR, we're going to receive on the floating side on those swaps on the
+option side.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+Great.
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+And Mike, in terms of the -- how are we thinking about deploying cash? I mean we're obviously cautious, right, with the volatility that
+we've seen this year, and this is in the first earnings call, you've heard that on because I've listened to a bunch of them, too. So we're
+prioritizing liquidity, we're shoring up the balance sheet. Everything is on the table every day. So as we deploy cash, it could be into
+assets. It could be into buying stock -- but I think we're probably more focused on liquidity than necessarily rushing to make investments
+these days.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+Great. That's good color. And then maybe just one on BPL. Obviously, that sounds pretty short duration. Just wondering who's providing
+the permanent financing to a lot of these borrowers? And have you seen any changes in credit availability on that front?
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+When you say, financing, you're thinking about our counterparties that we borrow from?
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+No, I mean like the underlying borrower for like a Lima One loan on like, say, RTL, who's providing the person on that.
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+You mean the takeout when they sell when they flip the property?
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+Yes, exactly.
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+Okay. Okay. Sorry, follow. So yes, I mean, just the same as has always been, look, if you have an experienced borrower, keep in mind,
+most of the people we deal with or borrowers to Lima One are highly experienced real estate investors. And they'll have strategies around
+repositioning properties, whether it's single-family, multifamily, They'll be doing low construction, low rehab or medium lot of rehab.
+Some of the strategies will be around selling the property as we have other strategies will be around renovating and then refinancing to a
+rental property rental strategy. And so the exit there can be a few different things. If it's a sale of a property, then there's an end buyer,
+right?
+And that buyer maybe borrowing Fannie, Freddie loan to acquire the property. If the strategy of the real estate investor is to retain the
+property and add to his rental portfolio, he will most likely refinance that into some sort of a rental strategy loan. And Lima also makes
+those loans, so we tend to do some of those refinancing in-house. It could also be away from us from some of the sort of the competitors
+out there. But it is -- those best financing is widely available. The price is obviously higher than it has been in years past, but it's widely
+available.
+ 
+Operator
+We'll now go to the line of Steven Delaney with JMP Securities.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+I'd like to start with the interest spread. It looked like it went up nicely to 164 basis points compared to about 130 in the second quarter.
+I'm just trying to reconcile that with your distributable EPS coming in at $0.28 versus 46%, I know you're keeping a lot more cash that
+probably implies lower leverage. But is there anything else in there that I'm missing anything that was more onetime in nature, given the
+improvement in spread and versus the decline in distributable EPS?
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+So Steve, one thing -- This is Stephen Yarad. One thing I'll point at you, Steve, is the spread includes the impact of the swap benefit,
+whereas the net interest expense that we report for GAAP doesn't. So that's one of the reasons you're seeing the full benefit of the swaps
+being in a net received position now reflected in that cost of funds and therefore in the spread, whereas the net interest expense that
+we're required to report the GAAP, the dollar value of that doesn't show that. So it's somewhat of a geography issue on our income
+statement. So that's one thing I'd point out to you that might help to reconcile that a...
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+That is very helpful. Yes. Okay. Just because the -- yes, if you're getting that in GAAP, but you're not getting that benefit from the swap in
+your distributable is what you're saying?
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+Well, that's not quite right. You are getting the carry on the swaps in the distributable. It's a geography issue in the income statement.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Okay. Well, my follow-up with that afterwards, Steve, if you don't mind. Lima One, I just wanted to be clear. I heard that I think you did
+$500 million in originations in the third quarter. I heard comments that, that will likely go down. Can you make any estimated range of
+where you would think that would be quarterly going forward over the next 2 to 3 quarters?
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+Yes. Steve, yes, that's right. I mean we -- as I said, based upon our proactive approach to managing our pipeline, and we've been raising
+rates throughout the year and tightening underwriting, reducing LTVs and things of that nature. Frankly, we were surprised how well the
+pipeline held up through the third quarter because, again, we were raising rates aggressively and pulling in some high coupons. But
+we're seeing some softening in the pipeline. And I think I said that -- so on a maximum loan amount, Lima originated about $640 million
+in the third quarter. So that includes like the total amount that is subject to draws and things of that nature. For the fourth quarter, I
+would expect originations probably to decline to like probably in the 400, maybe low 400s based on what we're seeing close.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Okay. So still some business there and coupons north of 8%, but just slower pace.
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+Well, the coupon is now, as I said -- and Craig mentioned and I mentioned in the current pipeline, the weighted average coupon is over
+10%. And so our view is, yes, these are great loans to make, but we are very cognizant of the fact that the volume is coming down
+because the rates are higher, but also because we're being more selective in terms of the credit exposure we take.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Got it. Got it. And Craig, just to go back, I think Mike was trying to touch on this. I mean it seems you guys have done a great job reacting
+to this, 99% fixed-rate financings. I mean, I don't see how you can have your balance sheet in any better position and your credit metrics
+are holding up. The market is not rewarding this. I think that a lot of that is macro and not specific to MFA at all. But in any event, you're
+trading 60% of book the yield is 18%. You're trying to maintain liquidity. Can you share with us any thoughts as to how you and the Board
+are looking at this in terms of the balance of how you're delivering value to shareholders and what's the best way to do that? And I guess
+my point is, are all 3 of those things, important factors and kind of on the table for discussion, the dividend, if you will, and the liquidity.
+How has all that come out and when you're looking at things going forward?
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+Sure, Steve. And I appreciate you recognizing what we've done on the balance sheet and on the rate hedging side. In terms of how we
+deploy capital, as I said on a prior question, all things are on the table every day. I mean we are somewhat limited in how much stock we
+could buy back right under a plan. There's a limit, a daily limit. But clearly, that's one of the things that we think about. And by the way,
+we have bought over $100 million worth of stock back this year, and it obviously it hasn't helped a whole lot which is a little frustrating. In
+terms of dividends, I know there was this notion of liquidity. I mean, at the end of the day, our cash position on September 30 was about
+$435 million. So with the current dividend level, we can pay that dividend for 2.5 years with that cash.
+Dividends are not a liquidity issue. It's more of an earnings issue. And obviously, our distributable earnings in the third quarter were
+below the current dividend level, although our distributable earnings in the aggregate have covered the dividend over the last 4 quarters
+despite the lower Q3 print. Lower distributable earnings should not necessarily come as a surprise given the rate environment that we're
+living through. And given this backdrop, we've prudently reduced our asset acquisition pace given recent and persistent rate volatility.
+And so maintaining that substantial liquidity position has been a priority for us. And so we could have made more investments, right? So
+while marginal investments might look cheap and we've seen that over and over this year that marginal investments that look cheap get
+cheaper and they get cheaper again.
+So it's difficult to make the case that this will change in the near future. But if we had invested -- let's just say we invested $150 million at
+the beginning of the third quarter. And let's say that we levered at 4x and let's say that we could earn a 15% ROE, we might have added
+$0.05 or $0.06 to our distributable earnings, but our book value would likely be down 3x that much on those same investments. So I
+think it's great to have sort of 2020 hindsight, but I think that's been part of our thought process this year is as cheap as things look, it's
+difficult to really have conviction. And I think I've heard that across almost all the other earnings calls I've listened to, yes, things look
+really cheap. But in this market environment, liquidity and a strong balance sheet are really the -- at least in our opinion, those are the
+most important things. So I don't know if that helps, Steve.
+ 
+Operator
+(Operator Instructions) We'll now go to the line of Eric Hagen.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+I'm curious on 2 non-QM related questions. What are the triggers that would maybe support you having to buy loans out of the
+securitization trust for, I guess, non-QM BPL. And how do you think the funding for delinquent loans once you bring them back on to your
+balance sheet on a warehouse line, for example, could differ versus a performing loan. And then a lot of non-QM loans have prepayment
+penalties, but it almost seems counterintuitive in a market like this to enforce the penalty. Are there prepayment penalties for your
+non-QM loans -- how are you guys thinking about the turnover and the kind of ability for borrowers to potentially refinance if they needed
+to or wanted to?
+ 
+Gudmundur Kristjansson
+MFA Financial, Inc. - Senior VP & Co-CIO
+Sure. Thanks for the question, Eric. So for one, in our non securitizations, if loans go delinquent, they don't come out of the securitization,
+they stay there. So the only reason that loans will be required to be bought out of the securitization is that somehow there was like an
+underwriting defect found, which then we would have that right to put that loan back to whomever the originator would be…
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+Could be breaches we have portfolio (inaudible)?
+ 
+Gudmundur Kristjansson
+MFA Financial, Inc. - Senior VP & Co-CIO
+So by performance, loans don't have to be bought out. And that's sort of the same for BPL securitizations as well. And to your question
+about prepaid penalties, yes, the loans made to investors do have prepayment penalties, and you are correct if loans are valued at a
+discount, right, why would you necessarily -- if that's the sole reason that kept the borrower from prepaying a loan, why would you
+enforce that prepayment penalty? And the answer is you could sort of look at it selectively. But that's not really -- those prepaid penalties
+aren't at a level where they would really restrict the borrower from making that refinance or sale of a property decision. But if that -- if a
+borrower came to us and said, I would make this move. But for this prepayment penalty, we would evaluate that at the time.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+Got it. That's helpful. Can you describe any sort of servicing advance obligation for the non-QM securitizations and just how that
+obligation for servicing and supporting the trust, just kind of works in general?
+ 
+Stephen D. Yarad
+MFA Financial, Inc. - CFO
+Yes, sure. So our securitizations don't have advancing for P&I, right? So the only advances that would take place would be protective
+advances in the case if a loan were to go delinquent. So that would be sort of taxes in insurance and property preservation. And that sort
+of comes off -- would come off the waterfall and it's not sort of a direct expense, you would say, of MFA.
+ 
+Operator
+And with that, we have exhausted all questioners in queue. Please continue.
+ 
+Craig L. Knutson
+MFA Financial, Inc. - President, CEO & Director
+All right. We've exhausted everyone. Thank you very much for your interest in MFA Financial. We look forward to our next update when
+we announce fourth quarter results in February. Happy holidays to everyone.
+ 
+Operator
+Ladies and gentlemen, that concludes our conference for today. Thank you for your participation and for using AT&T Event Conferencing.
+You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

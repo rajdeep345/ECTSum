@@ -1,0 +1,469 @@
+CORPORATE PARTICIPANTS
+ 
+Jonathan Hackshaw
+Information Services Corporation - Senior Director of IR & Capital Markets
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Jesse Pytlak
+Cormark Securities Inc., Research Division - Analyst of Institutional Equity Research
+ 
+Paul Michael Treiber
+RBC Capital Markets, Research Division - Director of Canadian Technology & Analyst
+ 
+Scott Fletcher
+CIBC Capital Markets, Research Division - Research Analyst
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+ 
+Trevor Reynolds
+Acumen Capital Finance Partners Limited, Research Division - VP of Research & Equity Research Analyst
+PRESENTATION
+ 
+Operator
+Good day, and thank you for standing by. Welcome to the ISC Q3 2022 Earnings Conference Call and Webcast. (Operator Instructions)
+Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to our host, Jonathan Hackshaw, Senior Director of Investor Relations and Capital Markets.
+Please go ahead.
+ 
+Jonathan Hackshaw
+Information Services Corporation - Senior Director of IR & Capital Markets
+Thank you, Chris, and good morning, everyone, joining us today. Welcome to ISC's conference call for the quarter ended September 30,
+2022. On the call today with me are Shawn Peters, President and CEO, and Bob Antochow, Chief Financial Officer.
+This morning, Shawn will start us off by taking you through an overview of the quarter and the year-to-date. Bob will then provide some
+financial and operating highlights before passing the call back over to Shawn for some closing remarks. Before we begin, we would like
+to remind everyone that we will only be summarizing results today. The company's financial statements and MD&A have been filed on
+SEDAR and are available on our website. We encourage you to review those reports in their entirety.
+I would also like to remind you that any statements made today that are not historical facts are considered to be forward-looking
+statements within the meaning of applicable securities laws. The statements may involve a number of risks and uncertainties that are
+described in detail in the company's SEDAR filings. Those risks and uncertainties may cause actual results to differ materially from those
+stated. Today's comments are made as of today's date and will not be updated except as required under applicable securities law.
+Today's conference call is being broadcast live over the Internet and will be archived for replay shortly after the call on the Investors
+section of our website.
+With that, I would now like to turn the call over to Shawn Peters.
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Thank you, Jonathan, and good morning to everyone joining us for today's call. Just a few comments before I turn the call over to Bob for
+some financial remarks.
+The third quarter of 2022 was really as we expected. In our guidance early in the year, we said we expected strong first and second
+quarters coming off of 2021 with transaction levels in our registry operations trending back towards pre-pandemic levels in the second
+half of the year. And that's exactly what we've seen.
+In our Registry Operations business, we saw that trend take shape as Saskatchewan real estate level stabilized as demand normalized
+and higher interest rates took effect. Volumes in the land registry now reflect normalized and seasonal levels, but still above
+pre-pandemic levels and noticeably with higher average land values. We also saw high-value transactions return to a more seasonal
+average. And all the indicators suggest that this trend to more seasonal norms will continue in the fourth quarter. Registry operations
+also continues to see positive stable results for the quarter and year-to-date from the new property tax services business acquired in
+June.
+Our services business continues to grow faster than expected, both through increased transactions and new customer gains. We continue
+to transition and onboard customers to our new registry complete platform, which provides customers with additional services and us
+with new revenue streams.
+We implemented our regular annual price increases across regulatory and corporate solutions for noncontract based customers in the
+third quarter, which had a positive impact on revenue. Revenue also grew during the quarter as a result of product offerings within
+regulatory solutions and recovery solutions, both of which are new products from the acquisition of UPLevel.
+In Technology Solutions, results were down in the quarter compared to last year because of fewer external revenue-generating
+opportunities. We've noted before the technology solutions experienced a contraction during COVID as new procurements weren't as
+active.
+However, this is rapidly changing, and we're seeing renewed activity in the market, which has translated into an active new business
+pipeline. So we're actively completing our current solution implementation projects and are focused on securing new clients from that
+pipeline of opportunities, which we expect to positively impact 2023.
+Overall we're very pleased with the third quarter, which was one of ongoing operational accomplishments and financial performance
+consistent with our expectations. And that continues to demonstrate the strength and stability of our business as well as the benefits of
+the diversification that we've achieved.
+I'll now turn the call over to Bob to discuss some financial highlights.
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Thank you, Shawn, and good morning, everyone. As Shawn said, our third quarter results were very strong, driven by a number of factors,
+but more specifically. Revenue was $48.8 million for the quarter, an increase of 18% compared to the third quarter of 2021. This was due
+to continued transaction and customer growth and services, specifically in the Corporate Solutions division, along with $1.6 million of
+revenue contributed from the UPLevel business that was acquired in February of this year.
+Registry Operation's newest division, Property Tax Services acquired through the Reamined acquisition on June 1, 2022, also contributed
+to the increased revenue for the quarter in the amount of $3.8 million. This was offset by a $1 million decline in land registry revenue
+during the quarter as Saskatchewan real estate levels returned to more normalized seasonal levels.
+Net income was $7.8 million or $0.44 per basic and $0.43 per diluted share compared to $9.7 million or $0.56 per basic share and $0.54
+per diluted share in the third quarter of 2021. The decrease in net income is due to increases in people and technology costs,
+accompanied by $1.4 million in increased share-based compensation from increases in the company's share price during the quarter
+compared to a quarter-over-quarter decrease in the prior year. These more than offset increased revenue in services and registry
+operations overall.
+EBITDA, earnings before interest, tax and depreciation, was $15.8 million compared to $17.5 million for the same quarter in 2021 due to
+increases in people and technology costs and increases in share-based compensation, partially offset by increased revenue overall, and
+in particular, EBITDA contributed from acquisitions made earlier in the year. EBITDA margin was 32.5% for the quarter compared to
+42.3% in 2021.
+The change in margin year-over-year was driven by increased services revenue, which has a lower margin profile and by the positive
+impact of the transition of services customers to the registry complete platform, which drives a change in revenue recognition to
+accounting on a gross, lower margin, instead of a net higher margin basis. While the accounting change has no impact on EBITDA, it
+does impact the margin.
+Adjusted EBITDA was $17 million for the quarter compared to $17.3 million in 2021. Adjustments consists primarily of merger and
+acquisition and share-based compensation expenses, which when removed, show a stable quarter -- year-over-year as the increases in
+revenue were offset by increased investments in people and technology as we scale the business for further growth and to maintain our
+customer service standards. As a result, adjusted EBITDA margin was 34.9% compared to 41.8% in 2021, with the change coming from
+increased services revenue at a lower margin and lower revenue overall in the land registry in the quarter.
+Free cash flow for the quarter was $11.6 million, a decrease of 13% compared to the third quarter of 2021. This was a result of lower
+results of operations after increased investments in people and technology and increase in share-based compensation expense.
+Turning to our balance sheet. With respect to our debt, as of September 30, 2022, the company had $76.5 million of total debt
+outstanding compared to $41 million as at December 31, 2021. This increase was a result of additional borrowings related to the
+acquisition of Reamined in the prior quarter, but was offset by a $5 million prepayment to our facility during the current period. Further
+details on our debt and credit facilities can be found in our MD&A and financial statements.
+After all of this, as of September 30, 2022, we held $32.9 million in cash compared to $40.1 million as at December 31, 2021. Compared
+to our cash position of $27.2 million at the end of the second quarter, you can see that our cash position continues to grow and provides
+for debt repayment due to the strong free cash flow nature of our business.
+Before I turn the call back over to Shawn, I'd like to finish by highlighting that we also announced yesterday that our Board of Directors
+approved a quarterly cash dividend of $0.23 per share. That dividend will be payable on or before January 15, 2023, to shareholders of
+record as of December 30, 2022.
+I will now turn the call back over to Shawn for some concluding remarks.
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Thanks, Bob. As I noted in my opening remarks, both our Registry Operations and Services segments have performed very well in the first
+9 months of 2022. And overall, the third quarter and year-to-date have progressed in line with our expectations. As we look ahead, we're
+actively monitoring the impact of interest rates and inflation on our current business. So we've begun to see these emerge in salaries and
+certain other costs.
+And based on the performance of the Saskatchewan land registry to date and as we noted in our MD&A, Saskatchewan is not immune to
+the impacts of those interest rate increases and ongoing inflationary pressures.
+However, our housing market continues to fare better than many other regions in the country. Therefore we expect the land registry will
+continue to trend to pre-pandemic levels for the balance of 2022, but we'll still finish above 2019 levels. And revenue from property tax
+services is expected to remain consistent for the last quarter of 2022 and the balance of the contract.
+For services, we expect new customer acquisition and customer transactions to continue to deliver growth for the remainder of 2022,
+supported by our initiatives to bring all of our customers and services onto our new leading platforms. Our focus on adding
+complementary products and new software offerings like registry complete and now recovery complete, help ensure we're not only
+meeting, but are exceeding our customers' needs. Our investments in people, technology and new opportunities, including potential
+acquisitions are what's facilitating the continued growth of our business.
+In Technology Solutions, as noted earlier, we're excited about the current state of our opportunity pipeline as there's a revived and
+refreshed interest as jurisdictions and other authorities are returning to initiatives not previously advanced due to COVID-19. We expect
+this will start to translate into new business wins in 2023.
+And with all of that in mind, we're reiterating our annual guidance for 2022 for revenue to be between $188 million and $193 million; net
+income to be between $29 million and $33 million and EBITDA to be between $59 million and $64 million, and we expect to finish the
+year around the middle of those ranges. Longer term, we're in a business that's focused on the years and not just the quarters ahead. The
+manner in which we've diversified our business means that we remain extremely well positioned in most economic environments.
+Here in Saskatchewan, we've historically underperformed the broader Canadian economy, but all the signs, including the investment
+dollars for projects like BHP's Jansen Potash Mine and the unique opportunity for Saskatchewan products to fill certain supply gaps
+caused by current geopolitical events, point to a strong Saskatchewan economy over the next few years. Our services business touches
+Canada from coast to coast, and our competitive pricing, first-class customer service and new technology platforms really position us
+well for growth.
+And finally, our Technology Solutions business is seeing signs of recovery following the COVID-19 pandemic, and I remain very excited
+about the potential for this business. There's no question in my mind that there's further success ahead for ISC and all of its stakeholders.
+So with that, I'll now turn the call back over to Jonathan.
+ 
+Jonathan Hackshaw
+Information Services Corporation - Senior Director of IR & Capital Markets
+Thank you, Shawn. Chris, we'd now like to begin the question-and-answer session.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from the line of Paul Treiber, RBC Capital Markets.
+ 
+Paul Michael Treiber
+RBC Capital Markets, Research Division - Director of Canadian Technology & Analyst
+Just trying to get a better understanding of your outlook for '22 or in other words, Q4. The -- you had -- Q3 was stronger than consensus,
+but the outlook for '22 is unchanged. Like do we -- should we take that as -- is it conservatism in the outlook or do you expect a step -- a
+little bit of a step down in growth for Q4?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Hello, Paul, it's Shawn. Thanks for the question. Yes, we really do see Q4 trending down back to the pre-pandemic levels, particularly in
+the Saskatchewan registry operations part.
+We still think services is going to continue to grow in Q4, but Q4 is historically our slower quarter anyways. And so with that, plus the fact
+that we think it's going to trend back down or continue to trend a bit back down, we think that's what's going to put us in the middle of
+those ranges.
+ 
+Paul Michael Treiber
+RBC Capital Markets, Research Division - Director of Canadian Technology & Analyst
+And bigger picture, how do we think about the cyclicality of regulatory in corporate solutions? What have you experienced in those
+businesses in prior downturns? And then is there any way that cyclicality could be mitigated by a registry complete?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. So that part of the business has less cyclicality, I would say, than our registry operations business has. We certainly have some
+cyclicality related to the collateral management part, which tends to follow sort of auto financing and auto incentive plans. And then we
+have the corporate side, which tends to follow year-end filings and those types of things. But there's a little less in there.
+Could that be mitigated by registry complete? Absolutely. I think that we'll still see the same cyclicality, but the fact that we're offering
+new products on that platform will sort of help balance that out a bit. But overall, in services, we see much less cyclicality than we do in
+registry operations.
+ 
+Paul Michael Treiber
+RBC Capital Markets, Research Division - Director of Canadian Technology & Analyst
+And then lastly, just in regards to Technology Solutions, and it sounds like you're gearing up for a stronger contribution from external
+parties and clients in '23. Is it the team there, it seems like they've been focused on internal projects over the last couple of years or so.
+How -- can you describe what they've been working on? And then when they sort of shift back to external projects, how will you address
+those projects internally that need to be addressed?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Great question. So a couple of things in there. Absolutely, that our technology team is also focused on internal projects. As you know,
+that's one of the reasons we bought ERS back in the day was to provide support internally, and that allowed us to exit external support
+contracts and say, so we use our team for internal projects as well.
+During the last 2 years, we have been executing against current external contracts. So we did have a number of contract wins in 2019 and
+leading into the pandemic. So those are typically 18 to 24 month projects anyways, and that gave us some work to do during the
+pandemic. And we're now just sort of getting to the point where we're starting to wrap a number of those up and then looking for the new
+opportunities.
+In the meantime, though, what would they work on internally? So in Saskatchewan, all of our registry operations are supported by that
+technology solutions team largely out of Dublin. And so any of our system improvements and we do continually make system
+improvements to our registry platforms in Saskatchewan, that would be their primary focus.
+And I guess I'd make one last comment. We also sort of sized the team appropriately during COVID and ran fairly lean in that team
+during that time. And so to address that going forward, we'll be looking to continue our investments in people, particularly in Technology
+Solutions.
+ 
+Operator
+Our next question comes from Scott Fletcher of CIBC World Markets Inc.
+ 
+Scott Fletcher
+CIBC Capital Markets, Research Division - Research Analyst
+I was wondering if I could just get a comment on competition in the services space and whether the transaction growth that you're seeing
+is from -- is predominantly from expansion with the existing customers and the transition to the complete platform or if you're actually
+taking some share and adding competitors' customers as well?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. It's really both, Scott. Part of it is just the increase in transactions across our current customer base. That's driven by a good, strong
+activity in the markets that we participate, along with us offering new products to those current customers, but there's also new customer
+wins. So we are also taking market share.
+ 
+Scott Fletcher
+CIBC Capital Markets, Research Division - Research Analyst
+And next question is a standard one, I think, but I'd love to get an update on the M&A pipeline, some commentary on what valuations are
+looking at and whether internally you're allocating any more resources towards the M&A opportunity?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. So as part of our restructuring in February, we put an executive in charge of M&A, that's Laurel Garven. And we continue to remain
+focused on that. We've done 2 acquisitions this year, as you know, and we're always looking for the right company with the right products
+and the right services at the right time. I would say that the pipeline continues to be very active. We're pleased with what we're seeing in
+there. But we're applying our normal level of diligence to it to ensure it is the right company at the right time.
+From a valuations perspective, I don't think we've seen much shift over the last year. We did see a little bit of shift during COVID where
+strong cash flow businesses were looking for a little higher multiples. And I haven't really seen that come off yet in the businesses that
+we're looking at, although I heard anecdotally that valuations are starting to come down a bit. We just haven't seen it necessarily in what
+we're looking at.
+ 
+Scott Fletcher
+CIBC Capital Markets, Research Division - Research Analyst
+And one last one. I did want to ask, could you help -- could you just help us understand why specifically the Saskatchewan real estate
+market has sort of held in better than the rest of the country? Just so we can sort of understand if that will continue into '23?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. It's a good question. Saskatchewan has not historically had the same fluctuations and swings as a lot of the rest of the economy or
+the rest of the country. And as you know, most of the news reports are focused on Toronto or Vancouver markets, so primarily on those.
+And that's where you see the wild swings. We've just never really seen that.
+Saskatchewan is a very diversified economy. And so the impact sometimes of recessions is not as dramatic here. And particularly, I think
+as we go into this one for the reasons I cited and you can sort of look at any economic report on the potential for Saskatchewan, I think
+we're really well positioned over the next couple of years based on our commodities and the investments in the province, and that drives
+activity in the real estate market.
+Now that's offset a little bit by the increases in interest rates and that's, I think, why we're seeing a bit of a return with a slightly more
+normalized transaction levels. But again, it really holds up well because I think the economy is fairly diversified. And so we don't have the
+same wild swings that other parts of the country do. And we're also not in an overinflated housing market, so.
+ 
+Operator
+Our next question comes from Stephen Boland of Raymond James.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+Can you remind us about -- I know there are some sort of inflation adjustment in your pricing that gets negotiated, I believe, with the
+government. Can you just remind me of that process and when it takes place and how that occurs, just with what we've seen with
+inflation this year?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Sure, Stephen. It's Bob here. Thanks for the question. Yes, we've got a CPI factor in our MSA agreement. It doesn't apply to all fees like ad
+valorem, but any of the flat fees, it does get applied to, and it's based on the Saskatchewan CPI. And so that exercise, usually it's in July
+where that price increase gets applied to the different transactions. It varies by registry in terms of what it's applied to. But typically it's
+beginning to mid-July, where the price increase gets applied.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+So that would have helped, I presume, this quarter for some of the registries as you mentioned. But -- and what's the -- is it like a June to
+June annual or is it calendar 2021 or calendar 2022. How does it -- what's the time period that the CPI gets -- like basically applied?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes. More -- yes, June, so it gets applied in July and then continues on for the year. So -- if that helps. So it's based -- we haven't seen the
+-- the expectations are obviously with what's going on with inflation. That expectations that will be higher than what the typical average
+has been over the last number of years.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+So we should -- if things kind of hold through here from July 1st to the end of June next year, there will be a good portion of your business
+that re-prices upward, I presume. I guess that's -- you said parts of it, but the majority of the pricing are -- you give a little bit of an
+impact?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes, yes. The biggest part of our fees come into ad valorem charge, which is the 0.3% on the land values, right? And so that part depends
+on the average selling price of land. So there wouldn't be -- that is -- that percentage remains the same. So the impact -- so you can't
+apply it to the entire revenue, if that makes sense, so.
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. I might add a couple of things there, Stephen, too. So as Bob said, it is June to June. So what we would have seen in this quarter is
+the previous year's CPI impact, so that's not as large. If you're looking ahead to next year, we'd anticipate there'd be a larger CPI
+adjustment applied, but that wouldn't take effect until next June.
+And as Bob said, across sort of flat fee products. So that's typically in the Personal Property Registry. Those are all flat fee products, in
+the corporate registry, it's flat free products. And in the land registry, it's a mix of ad valorem and flat fee, but as Bob said, ad valorem
+being sort of the bulk of that, probably 60% to 70% of the land revenue with ad valorem.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+The second question I have is on the Recovery Solutions business. You mentioned that volumes are up, but it's being offset by higher
+redemption rates. Could you explain that? I'm not familiar with that terminology, redemption rate.
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Sure. So basically debtors, when the -- we go to claim the asset, they have an option to redeem it, pay out the loan. And what we're
+seeing -- before we take the market, we make most of the -- most of the return for us comes on selling the asset where we get a
+commission. And what happens under the redemption, there's a notice period, the debtor has an opportunity to redeem it. And that --
+and we just earn a flat fee in the case of the redemption versus a commission, which is much larger typically. And so with -- there appears
+to be increased funds available that debtors are able to afford to redeem the vehicles versus resulting in a sale.
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Anecdotally we're seeing that, Stephen, because of the strength in the used car market. So people are choosing to redeem their -- the
+vehicle, sell it themselves as opposed to letting it go to auction.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+And lastly, you've given guidance for Q4 for the remainder of 2022. What -- as you start looking at building your guidance for 2023, what
+kind of leading indicators do you kind of factor in to get to that guidance? So I mean, I'm not asking for 2023 guidance, but what's --
+besides the Saskatchewan government, you're looking at unemployment? What are the main things that we should look at to build our
+forecast for next year?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes, that's a great question. We do fairly extensive modeling on the Saskatchewan economy to try to predict the real estate market.
+There's a lot of things that affect both our land registry, our corporate registry and our personal property registries.
+So we'll look at things like auto forecasts for resales because that affects our PPR. We'll look at general economy, things like sort of
+overall expected performance of the province because that will drive new businesses in Saskatchewan, which affects our corporate
+registry. It also allows existing businesses to continue, if there's a strong economy, which drives renewals in our corporate registry.
+And in our land registry, when we're trying to figure out real estate transactions, we look at several factors. So in migration to the
+province. So what's the expected population change in the province? Again, do we see it or are the forecast that it would be a strong
+economy? What does inflation look like?
+All of the types of things that would attract people to Saskatchewan and/or put them in good financial -- a good financial position to buy
+a new house or upgrade a house. So it's really driven by what's the general economy expected to be in Saskatchewan, along with some
+people stats.
+ 
+Stephen Boland
+Raymond James Ltd., Research Division - MD & Equity Research Analyst
+Okay. And when would we expect 2023 guidance? There's -- I can't remember when you issued it last for 2022.
+ 
+Jonathan Hackshaw
+Information Services Corporation - Senior Director of IR & Capital Markets
+Hello, Stephen, it's Jon. We typically issue guidance within the first quarter. I mean, in the past, when we started it, we started reissuing
+guidance this year. It's typically January, February, around there, but we haven't set a date for that yet. But as you know, historically, we
+typically trend to what our history is. So hopefully that helps you get an idea of where the -- where it may land.
+ 
+Operator
+Next, we have Jesse Pytlak from Cormark Securities.
+ 
+Jesse Pytlak
+Cormark Securities Inc., Research Division - Analyst of Institutional Equity Research
+Coming back to the guidance, it obviously implies a pretty big step down in Q4 margins. Just wondering if you could maybe walk us
+through more some of the assumptions that you've built into that. Is that really just more of a revenue mix situation or there's some
+costing that we should be aware of?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. So maybe I'll start and then Bob can jump in. I'll start on the revenue side. Yes, I think that's part of it. Jesse, as we said, we do expect
+transaction levels to return to normal seasonal levels. Q4 is one of the slower quarters. So that's #1.
+#2, we expect high-value transactions, which are very -- have a big margin impact to return back to normal levels as we saw here in Q3.
+And so that's sort of the revenue mix part of it. That's certainly driving it. There are some additional investments in costs, which I'll let
+Bob talk about.
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Sure. Yes, Jesse, one of the factors that we talked is the gross versus net change, which increases revenue and cost of goods sold with no
+impact to EBITDA. So as we bring on more customers to registry complete, that is going to -- eventually we're going to get there, but still
+anticipate some of that impact for Q4.
+The other item, as we've mentioned, is we continue to invest in people and technology as we grow the business. So we're starting -- that
+investment started earlier in the year, but now we're seeing it reflected in the numbers as we get more months of those increases in
+place.
+ 
+Jesse Pytlak
+Cormark Securities Inc., Research Division - Analyst of Institutional Equity Research
+And then maybe just moving on to kind of pricing on the services business. I think you mentioned putting in some price increases for the
+noncontract based customers. What proportion of your overall customer mix would be these noncontract based customers. And then
+how does the pricing work for our contract-based customers?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes. So most of our customers, our larger customers that make up a majority of the revenue are on contracts. And so those contracts
+typically 1 to 4 year periods. And of course, the renegotiation of the price happens when those contracts expires. The noncontract piece is
+a much smaller proportion. And roughly the price increases have been 5% to 15% depending on the service. But as I mentioned, it's a
+smaller percentage of the revenue compared to the contract-based customers.
+ 
+Jesse Pytlak
+Cormark Securities Inc., Research Division - Analyst of Institutional Equity Research
+And then maybe just for the contracted customers, can you give us maybe just any sense on how renewals look? Is there kind of a big
+cohort that might be coming for renewal quite shortly? Or is it kind of spread evenly throughout the 4-year period?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes. It's really spread evenly over the period. Yes.
+ 
+Operator
+Our next question comes from Trevor Reynolds of Acumen Capital.
+ 
+Trevor Reynolds
+Acumen Capital Finance Partners Limited, Research Division - VP of Research & Equity Research Analyst
+Just a couple of follow-ups here. On the recovery complete rollout, are you able to just kind of talk us through how that's gone?
+ 
+Robert Jeffrey Antochow
+Information Services Corporation - CFO
+Yes. I think the -- as we talked about last quarter, rolling it out initially, I think the rollout to the customer that we selected as part of that
+has gone very, very well. We'll continue to advance that with our other customers. But right now we're sort of focused on that one
+customer and making sure we've got everything in place, but it's gone remarkably well.
+ 
+Trevor Reynolds
+Acumen Capital Finance Partners Limited, Research Division - VP of Research & Equity Research Analyst
+And then just on the pace of activity in the recovery business. I know you guys talked about, obviously, the redemption rates being high.
+But just the pace of delinquencies that you're seeing, has that -- did that pick up quite a bit through the quarter or where does that sit?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Well, I think as we talked about before, this is sort of that countercyclical business. And so during a recession or tough times, you expect
+that to go up. We have seen some slight increases in transaction levels. But for the reasons Bob talked about a lot of the activity has
+turned back to redemptions. That strong used car market has meant people are redeeming the vehicles, then selling themselves to pay
+off the loan versus letting it go to default.
+We do expect that we'll probably continue to increase the overall transactions, but it's probably more into 2023 where we'll start to see
+the real impact of that.
+ 
+Trevor Reynolds
+Acumen Capital Finance Partners Limited, Research Division - VP of Research & Equity Research Analyst
+And then just the last one here, just on escalators. What does that look like in the Reamined property taxes business there?
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Escalators in the contract pricing, you mean?
+ 
+Trevor Reynolds
+Acumen Capital Finance Partners Limited, Research Division - VP of Research & Equity Research Analyst
+Yes, just on that contract.
+ 
+Shawn B. Peters
+Information Services Corporation - President & CEO
+Yes. Those are all contracted over the next. So that's just sort of a normal CPI increase over the life of the contract.
+ 
+Operator
+Thank you. That concludes our Q&A segment. I'll now turn it over to Jonathan Hackshaw, Senior Director, Investor Relations and Capital
+Markets for closing comments.
+ 
+Jonathan Hackshaw
+Information Services Corporation - Senior Director of IR & Capital Markets
+Thank you, Chris. With no further questions, we would like to once again thank everybody for joining us on today's call for all the
+questions. And we look forward to speaking with you again when we report our fourth quarter and year-end results later into 2023. Have
+a good day.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

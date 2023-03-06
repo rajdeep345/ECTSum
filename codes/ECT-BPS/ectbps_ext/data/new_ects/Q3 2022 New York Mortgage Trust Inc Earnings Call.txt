@@ -1,0 +1,533 @@
+CORPORATE PARTICIPANTS
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+ 
+Kristine R. Nario-Eng
+New York Mortgage Trust, Inc. - CFO & Principal Accounting Officer
+CONFERENCE CALL PARTICIPANTS
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+ 
+William John Kilichowski
+Crédit Suisse AG, Research Division - Research Analyst
+PRESENTATION
+ 
+Operator
+Good morning, ladies and gentlemen, and thank you for standing by. Welcome to the New York Mortgage Trust Third Quarter 2022
+Results Conference Call. (Operator Instructions) This conference is being recorded on Thursday, November 3, 2022.
+A press release and supplemental financial presentation with New York Mortgage Trust's third quarter 2022 results was released
+yesterday. Both the press release and supplemental financial presentation are available on the company's website at
+www.nymtrust.com. Additionally, we are hosting a live webcast of today's call, which you can access in the Events and Presentations
+section of the company's website.
+At this time, management would like me to inform you that certain statements made during the conference call, which are not historical,
+may be deemed forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+Although New York Mortgage Trust believes the expectations reflected in any forward-looking statements are based on reasonable
+assumptions, it can give no assurance that its expectations will be attained.
+Factors and risks that could cause actual results to differ materially from expectations are detailed in yesterday's press release and from
+time to time in the company's filings with the Securities and Exchange Commission.
+Now at this time, I would like to introduce Jason Serrano, CEO and President. Jason, please go ahead.
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Thank you very much. Good morning. Welcome to New York Mortgage Trust's 2022 Third Quarter Earnings Call. I'm joined this morning
+by our CFO, Kristine Nario. I'll be referring to the supplemental which is posted on our website for additional details.
+The U.S. economy activity was pressured in the third quarter by rising interest rates, concerns over tightening monetary policy, near
+double-digit inflation and geopolitical instability. Thus far, in 2022, equity markets have been challenged with the Fed's decision to raise
+interest rates by 75 basis points in 4 consecutive meetings, taking the federal funds rate to its highest point since 2008 with expected
+additional rate hikes in the upcoming months, alongside of a growth -- growing concerns of a potential near-term recession.
+Accordingly, fixed income markets have been impacted. The yield on the 2-year treasury increased to 4.22% at the end of the quarter, an
+increase of 349 basis points from last year. Rate hikes by the Fed contributed to the treasury curve and [burning]. At the end of
+September, the spread between the 2- and 10-year treasury yield closed at negative 39 basis points compared to 79 basis points positive
+at 2021 year-end.
+As was the case for credit-sensitive assets across markets, pricing for many assets within our investment portfolio during the third
+quarter declined, particularly so in the final weeks of the quarter. Due to these factors, we anticipate markets and the pricing will
+continue to experience volatility through the year-end and into 2023. So the question is how do we navigate this risk while keeping a
+proactive stance to seek opportunities. I hope to demonstrate that our portfolio-managed decisions and financing plans over the last 18
+months were designed to stay short, nimble and liquid.
+Before I dive into these points, I'll start with a brief review of the third quarter financial results and then pass over to Kristine for further
+details.
+Now speaking from Page 7. Due to the macro factors discussed, we incurred an un-depreciated loss per share of $0.27 and
+un-depreciated book value decline of 8.3%, ending the third quarter at $3.89. This decline was related to mark-to-market changes of our
+portfolio against higher rates, which we believe is recoverable over time. We saw a tremendous opportunity to buy back our shares in the
+quarter given a sharp selloff in the market. In all, we repurchased 5.5 million shares at an average price of $2.62 during the third quarter.
+We added 2.1 million shares to this amount in the first days of October at a price of $2.23. At these levels, we believe repurchases are
+highly accretive, particularly in light of our short duration portfolio and ability to generate cash. Thus, we expect to continue with share
+repurchase in Q4 should our common stock continue to trade at a significant discount to our un-depreciated book value.
+As we announced in late September, we are focused on monetizing the value created against our timely multifamily property
+acquisitions, mostly aggregated in 2021. We were able to recognize $14 million of realized gains from our first property sale. More on that
+in a minute. Alongside of $18 million in other asset sales. Investment activity was significantly reduced in the quarter, primary or in the
+origination market, coupons were frankly not repriced fast enough. Unfortunately, second market sellers refer to primary market activity
+for their pricing levels and a feedback loop that locked the market in the third quarter. In fact, we are still very much there today and I will
+have further details about that.
+Shortly after the Jackson Hole and Powell pivot (inaudible), if you will, we found an attractive entry point to a $242 million loan
+securitization. This allowed us to reduce our repo mark-to-market exposure and recourse leverage, which now stands at industry-leading
+low of 0.5x at the company and 0.4x at the portfolio level.
+With that, I'll pass it over to Kristine for more details on our financial results. Kristine?
+ 
+Kristine R. Nario-Eng
+New York Mortgage Trust, Inc. - CFO & Principal Accounting Officer
+Thank you, Jason. Good morning, everyone, and thank you again for being on the call. Our financials now showed on Slide 9 covers key
+portfolio metrics on a quarter-over-quarter comparison. As Jason mentioned earlier, un-depreciated book value per share ended at
+$3.89, down 8.3% from June 30 and translated to a negative 5.9% economic return on un-depreciated book value during the quarter.
+The company had un-depreciated loss per share of $0.27 in the third quarter. The fair value changes related to our investment portfolio
+continued to have a significant impact on our earnings and book value. We recognized $0.34 per share of unrealized losses, primarily due
+to an increase in interest rates and credit spread widening that resulted in a decline in the fair values of a majority of the assets in our
+investment portfolio. More on this point in a minute.
+Consistent with our efforts to further strengthen our balance sheet, we completed a securitization of residential loans, as Jason
+mentioned. With the completion of this securitization as of September 30, the company's recourse leverage ratio and portfolio recourse
+leverage ratio decreased to 0.5x and 0.4x, respectively, from 0.7x and 0.6x respectively as of June 30.
+In addition, it is worth mentioning that only 23% of our total financing arrangements, including CDOs or securitization structures is
+subject to mark-to-market margin call risk, down from 33% at June 30.
+We paid a $0.10 per common share dividend, which was unchanged from the prior quarter. While our financing costs were higher in the
+third quarter due to rising interest rates, the contribution of adjusted net interest income to EPS during the quarter was at the same level
+as a year ago at $0.08 per share as a result of our low utilization of leverage.
+Moving on to Slide 10. I will focus my commentary on the main drivers of third quarter financial results. We had GAAP net interest income
+of $14.2 million or $0.04 per share for the quarter. Excluding the $16 million or $0.04 per share of interest expense on mortgages
+payable related to our consolidated real estate, our adjusted net interest income, as mentioned earlier, contributed $0.08 per share in
+earnings. During the quarter, we opportunistically disposed off investment securities in our portfolio, generating in total realized gains of
+$20.6 million or $0.05 per share.
+Also, as Jason mentioned, during the quarter, we successfully disposed off a property in one of our consolidated joint venture structures
+at a 2.18x multiple, earning NYMT a net gain of $14 million, which is included in net -- which has included net of losses incurred from
+other investments and other income of $4 million.
+Also, as previously discussed, the [star-grade] volatility witnessed in the third quarter caused prices in a majority of the assets in our
+investment portfolio to significantly decline. This resulted in $128.1 million or $0.34 per share of unrealized losses incurred in the third
+quarter. Of the $128.1 million of unrealized losses, $67 million or $0.18 per share are attributed to residential loans held in securitization
+vehicles. Unlike some of our peers, we do not mark our liabilities to fair value. Therefore, there is no corresponding unrealized gain
+recognized on our securitization liabilities to offset and realize losses on the assets held in the securitization.
+In correlation to our decision to significantly curtail our investment activity in the quarter in light of extreme volatility, our G&A and
+portfolio operating expenses were down $4.1 million in the quarter as compared to the second quarter.
+The final point to highlight is our adjustments to add back depreciation expense and operating real estate and amortization of lease
+intangibles to calculate un-depreciated earnings. As previously announced, we are actively considering opportunities to monetize the
+appreciated value of our consolidated JV investments, therefore, meeting the held-for-sale criteria for GAAP purposes. On a go-forward
+basis, we would expect depreciation and amortization to reduce significantly as the majority of these assets are held for sale and capital
+gains to be the main driver of earnings related to this portfolio.
+I will now turn it over to Jason to go over the market and strategy update. Jason?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Thank you, Kristine. Talking from Page 12. The U.S. housing market underpinned by a multi-decade low of U.S. units available for sale is
+now slowing. Units of new and existing homes trending below 2019 levels are now turning below 2019 levels due to an average monthly
+mortgage pay that's 60% to 90% below previous year's payment, depending on the market. So the raising of interest rates have caused
+affordability levels today to actually experience the worst that the market has seen in over 2 decades with a 60% to 90% rise in multi
+payment.
+Now what we highlighted here last quarter was a transmission mechanism for the market going from the first quarter of 2022 to 2023.
+So we've updated that. Everything pretty much is going as we outlayed last quarter, in that the first half of 2022, we saw a par plus
+efficient financing market. The securitization market was very robust and many deals could get done at really the tightest levels that
+we've seen in this market in quite some time.
+In the third quarter 2022, after the second quarter fall off of securitization activity, discount and inefficient financing became the norm. In
+that time period throughout the entirety of the third quarter, we have paused our pipelines where we had about $1 billion of pipeline that
+we could have invested into in the third quarter. And with that, we were able to forgo some mark-to-market and also lower coupon
+assets on our balance sheet that would be better off if we would have waited to invest in those assets today.
+So the plan has worked. However, in the fourth quarter, as we discussed in last quarter's conversation, we're seeing a dislocated market
+with wide bid-ask spreads. That feedback loop I mentioned earlier where the primary market levels are not adjusting fast enough higher
+is causing the secondary market to reference those points and cause a larger bid-ask spread, which is locking the markets.
+So what we expect to happen is capitulation in early 2023 with deep discount assets being available, where financing is not required
+given the underlying returns, meaning go-forward yield expectations. And at that time, we expect to be aggressive and liquid to invest
+into these markets. Now we're able to do that through, first, with our operations, where we didn't engage in high fixed cost
+entanglements which would have allowed us to -- would have forced us to continue buying assets into the market to support the cost
+that we have on our balance sheet.
+So with that and the flexibility and nimbleness that we've provided, our portfolio also was managed to preserve book value in higher
+rates or more volatility. In this case, we favored shorter term duration assets, which help minimize the mark-to-market loss and also
+reduce the requirement to use repo leverage, mark-to-market repo leverage, for our balance sheet.
+Now the timing is going to be everything here on when to start redeployment efforts in a significant manner. We need to exhibit patience.
+The bid-ask spreads, the market capitulation could take longer than initially discussed at the beginning of 2023 and we will wait until
+that happens. We are already seeing evidence of this where there's trades that are in the market that are failing based on too big of a
+discount being required by the market, in particular, in the SFR space, single-family residential -- single-family rental opportunity. We're
+seeing a 15% to 30% discount to current values being priced in some market and very little trading.
+It looks like sellers want to sell at 15% discount and buyers want to buy at a 30% discount to current values in the single-family rental
+markets. So that's just an example of some of the lack of trading that's happening because of a large bid-ask spread.
+Now the execution of this particular market environment is going to be key based on asset management and ability to roll up your
+sleeves and deal with the underlying discounts even purchasing and being able to unlock value through asset management plans. This is
+something we are very adept at doing and have various amounts of experience over 2 decades managing discounted assets to trust
+environments and look forward to optimizing our portfolio in that environment.
+Now going over to Page 13. The investment strategy. As I mentioned, $119 million was invested in the third quarter. Much of that was
+actually draws from previous loans that we funded. So when I mentioned we curtailed investment activity, it was significant. We were
+able to basically hold up over about $1 billion investment activity. And that was decided due to a portfolio management decision of
+waiting for a better opportunity given what we saw earlier in the third quarter. The paradigm shift significantly curtailed our investment
+pipelines in all core strategies, both in single-family [BPL], rental and fix-and-flip as well as within the multifamily sector.
+Now again, our focus is acquiring assets on a levered basis. We believe that the market will come around to be able to do that and
+generate double-digit returns without the use of leverage. However, we also recognize that the market's definition of liquidity at some
+point in 2023 will change to be really unrestricted cash. And for our purposes and how we've dealt with our debt management, we
+believe that the -- our definition of unrestricted cash, which is going to be truly unrestricted cash, we'll be able to put into higher-yielding
+opportunities to grow our earnings per share.
+To discuss that point, turning to Page 14. Our portfolio financing strategy to optimize cash was more or less a de-risking mechanism from
+mark-to-market financing. Portfolio financing exposure for mark-to-market repo exposure equals 23% as of the third quarter.
+Mark-to-market repo percent of asset portfolio is only 14%. We currently carry, as Kristine mentioned, 0.4x portfolio recourse leverage.
+But the story goes beyond just the portfolio financing. It goes also within our corporate borrowing strategy. We have 3 bonds that are
+standing on our balance sheet today. A $100 million unsecured fixed, which is due in 2026, and 2 junior subordinated debt deals that are
+due in 2035. Company recourse leverage of 0.5x is the result. I mention this because there are no maturity walls that we have to contend
+with and reserve cash back in case of dislocated markets for corporate activity.
+So when I -- when we mention that we have unrestricted cash, we truly believe that it is unrestricted and can be used in this market
+environment. Evidence of that, in the third quarter, we had margin calls about $50.2 million. Now this is very low relative to the $369
+million cash we had on our balance sheet in the second quarter, also low with respect to $4.3 billion of portfolio that we have in our
+balance sheet. So we're able to manage this margin call risk and we expect it to actually -- the exposure to repo leverage to decline in the
+fourth quarter with an additional securitization that is being priced.
+Now going to Page 15, balance sheet summary. We left this page in there from last quarter. It puts it all together and it provides a nice
+summary of our portfolio assets and debt. On the left side, bridge loans was leading opportunity. Again, over 18 months ago, we decided
+to invest into this space as a trade, not a business in that we were focused on utilizing our cash for short-term opportunities that would
+have fast reinvestment criteria, enable us to invest into higher-yielding or more dislocated assets in the future.
+And also on the multifamily side, we focused on both JV and mezzanine lending, both are shorter dated opportunities, shorter duration
+opportunities for us to invest in. On the joint venture side, we saw an opportunity in 2001 to buy underlying properties. We thought that
+would be a shorter dated opportunity in that the environment wouldn't last forever to have double-digit rental rate increases per year. So
+we see an opportunity to monetize our portfolio today. On the mezzanine lending, various debt that was issued below the senior debt,
+which we find incredibly accretive to our portfolio.
+On the right side, our securitization debt, as Kristine mentioned earlier, we do not mark-to-market our underlying securitization notes
+that would offset unrealized losses on our portfolio that are underlying those loans. In that case, we -- the majority of our financing is
+through the securitization debt structure. And as I mentioned earlier, we have very little corporate debt on our balance sheet and no
+maturity wall to speak of.
+Now turning to Page 16. Single-family portfolio overview. Our single-family portfolio is stable. Our highest credit risk category in the
+sector that we have here is within our RPL. As you can see, the FICO scores are quite low and also the fact that these borrowers had been
+somewhat delinquent in previous time. But to date, our portfolio of 60%-plus delinquency ratio has declined by 3.15% since the
+beginning of 2021. When you're aligned with the borrower with a 62% LTV, plenty of equity and able to work with the borrower on
+sustainable payment plans, you should expect this result. We have securitized 99.5% of this portfolio to date.
+In bridge lending and rental and performing loan opportunities, these were the areas that were pretty robust, allocations over the last
+couple of quarters in areas that we saw an opportunity to pause and reset for a dislocated opportunity.
+Turning to multifamily. On the multifamily business, rental unit demand continues to be elevated in the short term, particularly in the
+south and southeast. The demand for rental units is outpacing the supply due to the high migration, particularly in Florida and Texas.
+Nationally, rents continue to increase at a slower rate with the southeast outperforming.
+This opportunity here on our senior lending relating to our mezzanine loan opportunity, we've seen senior lending advance rates decline.
+In other words, banks are not advancing the same proceeds they did on senior loans as they had in the past. The difference is roughly a
+10-point decline in advance rate. So it's taking a 75% LTV to a 65% LTV as an example, and in this case, it provides a nice opportunity to
+fit a second lien or mezzanine financing behind that first lien with larger equity position for us today.
+We see this opportunity as a core strategy. However, we are also recognizing that the underlying rates which you could lend at aren't
+moving as fast as we'd like. We'd like to see this lending rate around anywhere north of 13%, closer to 15%. And we think it's a process
+that is happening to achieve those types of lending rates, but they're not quite there yet in the market. We think we'll be able to see that
+in 2023 or perhaps even in the later part of this quarter. On the joint venture side, as we discussed, we're in a monetization effort on the
+portfolio.
+On the multifamily and mezzanine lending, we have 2 loans that were prepaid and redeemed in the quarter. $19 million total, 17.66%
+lifetime IRR on these assets as well as a 1.42 multiple. Now this is exactly what we expected to see in our lending. Our coupons were
+around 11.9%, as you can see on average, but because of the minimum payoff multiples we do, we're able to achieve a higher return. This
+asset class and sector has been extremely stable. We have only one loan that is delinquent and we expect a full payoff at par. Again, we
+believe this sector has been highly accretive to our balance sheet and we continue to add value over time.
+Now on the multifamily joint venture side, we have listed out the 19 properties that remain in our portfolio. As we mentioned earlier, we
+had one sale of a Houston property last quarter, which achieved a 66.3% IRR or 2.8x multiple. Now these are assets that we underwrote
+to a 13% to 17% IRR. Obviously, the return here is well beyond our expectation. We had significant rental growth in our portfolio, as you
+can see, labeled on the top left corner here. In 2021, we had a 16% growth in our portfolio. In 2022, we had a 17% growth and we are still
+seeing rental growth in our portfolio, again, looking at the cities, mostly in the south, southeast part of the United States. So we feel
+we're fairly confident that we'll be able to produce further gains in this portfolio and hence, the reason why we're looking to monetize
+these 19 assets.
+Now I would like to wrap up my comments here with the following. The company is focused on opportunities in a market undergoing a
+landscape change and offering deep discount pricing due to the inefficiencies that we're seeing in the securitization market. And we
+believe the success in the new environment will be achieved through organic creation of liquidity, tactical asset management and
+prudent liability management for book value protection.
+I thank you for your time. At this time, I'll pass it over to the operator to open up the call for Q&A. Thank you.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from Doug Harter with Credit Suisse.
+ 
+William John Kilichowski
+Crédit Suisse AG, Research Division - Research Analyst
+This is John Kilichowski on for Doug. My first question, could you just give us an idea of the pacing of future JV equity transactions?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. So we are currently engaged on a couple of properties. We are looking at individual sales, we're looking at portfolio sales and
+looking at strategic opportunities. So the pace is really undetermined. The market, as I mentioned earlier, is in flux and that includes even
+property transactions. In flux meaning that there is more of a wait-and-see approach to 2023 than willing to put more capital to work in
+2022. And I think that's across a lot of sectors, credit sectors in this market. But we do have a pipeline of sales that we're working on at
+the moment. The pace is really mediated by the market, really hard to make a firm comment on that.
+ 
+William John Kilichowski
+Crédit Suisse AG, Research Division - Research Analyst
+And I guess just the return opportunity on those, do you think they're similar to what you saw at the [Bridge Houston] property?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+I think they are going to be some maybe more, some maybe less. It's hard to say. Again, this market is -- with the rate increases, one
+thing that is in our favor here, despite rate increases, the reason why cap rates is still quite low in this market is that the market is
+supported by agency financing on the senior debt side. So they have a budget to put to work for senior financing against properties just
+like this, which has allowed the cap rate to stay quite low relative to other markets. That has been a tailwind to this market for quite
+some time. And that stability and the financing is there, where you don't have that in residential credit.
+Yes, so from that perspective, it's hard to comment on exactly what the returns look like. We know that from our -- from GAAP
+perspective, we have these assets marked as depreciated and amortized, lower depreciation amortized costs as well. On a depreciated
+basis, we hold it at cost basis. And we feel like we, given the rental rate increases we've experienced in these portfolios that they're more
+valuable today and we hope to demonstrate that over the course of the year.
+ 
+William John Kilichowski
+Crédit Suisse AG, Research Division - Research Analyst
+And do you have a book value update quarter-to-date?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes, we're seeing basically less than 1% decline in our portfolio on a book value basis.
+ 
+Operator
+The next question comes from Christopher Nolan, Ladenburg Thalmann.
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+Quick question. For the JV exits, is the plan to remain exposed to multifamily through mezz lending?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes, that's right. We saw an opportunity in 2021 to add exposure in the equity space. We did so because of the migration that was
+experienced, that we were seeing. That was quite obvious. And the rental -- the lack of supply and demand that was there. Supply was
+obviously -- new construction was held off for quite a bit and is now catching up. So we saw an opportunity to put some money to work
+there. We felt like when we were underwriting the mezzanine loan opportunities, we saw better upside with same downside protection in
+the JV space, equity space. So hence, that's why we looked in that space.
+Today, we see better opportunity in pref or in mezzanine lending. And because of that, with a larger equity cushion, given I just
+mentioned earlier that the senior lending has pulled back slightly, and therefore, we can fit in with higher equity exposure or equity
+cushion loss. So with a -- with our performance of -- in the history of underwriting this market for us, we've never experienced a loss in
+this asset class. It's been a fantastic strategy. We have great underwriting and sourcing capabilities. So we do expect to continue putting
+money work in the space.
+The timing of it is a little more up in the air depending on capitulation for a higher rate kind of lump, but that's something we're looking
+to continue doing.
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+And given where we are in the cycle, is this mezz lending sort of a form of hard money lending?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+I wouldn't call it hard money lending. I mean this is traditional second lien mezz lending that has been a part of the multifamily market
+for quite some time. I would say hard money lending comes into play where you shorten the duration or the maturity of the loan to a year,
+and it could look more like a loan-to-own opportunity where you're providing the sponsor some bridge capital, and you're waiting to see
+if they can formulate whatever plan they need to pay you off at a 1-year maturity.
+The market is not there yet and we don't pursue that in the near term. We do know that there is about $130 billion of bank loans, senior
+loans that will be coming due over the course of 2023. And that provides an opportunity given that bank loan senior funding was done at
+a higher LTV than it's available today. So there will be needs for a second component to finance these assets. And given the run-up in
+rental yields and some appraisal values, we see that the assets could support that additional debt, which is, quite frankly, equal to the
+same senior level debt they had from 2 years ago.
+ 
+Christopher Whitbread Patrick Nolan
+Ladenburg Thalmann & Co. Inc., Research Division - EVP of Equity Research
+And final question. Is it fair to say, given your comments in terms of preparing the market for an investment opportunity in coming
+quarters that we should see the recourse leverage levels decrease further?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+That's right. Yes. We're looking at moving a portfolio within our BPL rental strategy into securitization in the coming days. That will
+significantly reduce our mark-to-market exposure due to rebuild financing as well as focus on assets that do not require leverage. Now
+we do have a revolver -- 2 revolver securities within our short dated BPL loan strategy that we continue to utilize and we want to keep
+funded. So that we should expect to be active there. But for the most part, what we do see, some incremental leverage opportunities, our
+focus is going to be on the non-mark-to-market side of the equation for financing.
+ 
+Operator
+The next question is from Bose George with KBW.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+This is actually Mike Smyth on for Bose. So it sounds like you're pretty cautious in terms of capital deployment. Can you just kind of talk
+through how you're thinking about the balancing act between buying back more stock versus maintaining a strong liquidity position?
+And then as a follow-up, can you just remind us how much remaining authorization you have left on the buyback?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. So I'll start with the liquidity situation. So the -- what we've done over 18 months is built over $1 billion of short duration BPL loans.
+The goal there was to be able to utilize that market, those assets into a higher-yielding market. So it was a great cash utilization strategy
+for us, given the high coupons, short duration aspect of those portfolios. And we see an opportunity to rotate that capital into -- we hope
+to see as a better buying opportunity in 2023.
+So today, we see a better opportunity as it relates to our share price and buybacks versus the investable market today, simply because of
+the discount we currently trade at. And we do have to weigh that with liquidity and expected capitalization efforts in 2023.
+But as I said earlier, we do expect to continue engaging and buying back shares in the market if levels stay around lows that we've been
+purchasing at. And that is something that we're going to continually monitor and look at. In previous calls, we weren't as forthcoming
+simply because we were still debating the value proposition there versus assets that we saw in the market. But once the third quarter
+securitization market sort of being very much less liquid and efficient, the meter turned towards our buyback literally as a primary
+strategy in the third quarter. We spent more money there than we did in new investment activity, given the majority of what we invested
+in in the third quarter was related to a drawdown from previous loans that we actually funded.
+So we will continue looking at our shares and our share price and discount to book value as an opportunity. We think it's highly accretive.
+And that could change depending on share price as well as the market opportunity offering from a large bid-ask spread to shortening up
+and becoming more of a buyers' market. So it's something we're balancing and we'll continue to follow.
+ 
+Kristine R. Nario-Eng
+New York Mortgage Trust, Inc. - CFO & Principal Accounting Officer
+And to answer your question with how much is left over. So as of 9/30, that's about $178 million with the trades that we settle early in
+October, that will be taking you down to $176 million.
+ 
+Michael Edward Smyth
+Keefe, Bruyette, & Woods, Inc., Research Division - Research Analyst
+And maybe just one on the dividend. Can you just talk through how you're thinking about the dividend? It looks like, especially given the
+context of the comments you made on remaining defensive, it looks like the ROE on the existing book implies like a breakeven ROE of
+10% to 11%? Is that something you think you can generate just given your defensive posture? Or any other color on the dividend would be
+helpful.
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. So as we said earlier in previous calls, our dividend policy is kind of an 18-month forecast on not only our interest income but also
+some realized activity we see on our balance sheet. Today, we believe we can support the $0.10 based on, as Kristine mentioned earlier,
+our interest. Net interest income generated about $0.08 of EPS on top of potential liquidations in the future for additional realized gains.
+A component to our dividend policy for quite some time now has been the principal component on sales or realized activity to meet our
+dividend obligation. And that still continues today.
+We, over the past 5 years, really have not been a story of NIM. That is the full focus of what we are looking to -- and how to (technical
+difficulty) over a leverage play on assets with short-term liabilities to pay dividends. It's always been a component of looking at not only
+the interest income on assets we're generating, but also on principal activity through discounted purchases or realized activity.
+So the fact that we're -- we've already announced the $0.10 dividend and looking at the 18-month forecast, we feel that we can support
+that dividend over time. Now the market, obviously, the key component here is whether or not we can reinvest our BPL, short-term
+duration loans into the market. It's a higher-yielding opportunity. That's something we expect to do. And the goal there, just in today's
+market where coupons in that space are generally 150, 200 basis points higher than it was 1.5 months ago, 2 months ago. So at a
+minimum, we could reinvest and continue into the BPL space to earn a higher return than we had earlier. But we think there may be
+better opportunities in 2023.
+So for us, we wanted to stay liquid. We wanted to be able to be active in a dislocated market and be able to put money to work at
+compelling risk-adjusted returns. So with that, we think that the bridge from the BPL book to the opportunity or just even higher coupon
+BPLs, will continue to allow us to support our dividend.
+ 
+Operator
+The next question is from Jason Stewart at JonesTrading.
+ 
+Unidentified Analyst
+This is [Matthew] on for Jason. What is the quarterly operating expense run rate that you guys have for operating real estate going to look
+like after the next chunk of asset sales? And then how should we model that to get to 0 once the sales are complete?
+ 
+Kristine R. Nario-Eng
+New York Mortgage Trust, Inc. - CFO & Principal Accounting Officer
+Well, in terms of operating expenses, there will still be operating expenses left in the property. But if you take a look at what's really
+driving that operating expense on real estate, it's depreciation and amortization with GAAP accounting being held for sale. Depreciation
+and amortization on a majority of those properties will be essentially 0. What's going to be left over is multifamily property on a
+consolidated JV structure that we have where we own less than 20% of common equity. There will still be depreciation, but to a lesser
+extent as it compares to prior quarters.
+ 
+Unidentified Analyst
+And then with that cash, is the plan to pay off repo debt outstanding or continue to invest it?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. So the cash is going to be invest. The repo debt payoff will occur through a securitization that we're looking to complete. So if we're
+successful in that deal, which is out at the moment, we will be able to pay down debt through transparence of terms securitization
+leverage. And the cash will be utilized for investment opportunities.
+ 
+Unidentified Analyst
+Got you. And then one quick follow-up. What is the cap rate that you guys are looking to get or have got on some of these sales for the
+assets?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. I mean it -- cap rate, if you spend time in the multifamily space, there's probably 3 or 4 definitions of what cap rate means. Cap rate
+traditionally is obviously your rental income versus your cost basis and minus the expenses there. But because of rental rate increases
+that you're seeing across the market, there is catch-up that needs to be applied into some of the formula that you're looking to sell. So if
+you have leases that are rolling in the next 6 months that are up 10%, that's part of your cash flow. Therefore, the cap rate number really
+becomes very difficult to understand because it doesn't incorporate that, given current cash flow.
+If I simply answer your question, caveating those points, you're around 5.2%-5.5%. But the loss to lease is a significant component of
+your cash flow on a pro forma basis, that has to be modeled in as well. So that is our opportunity.
+ 
+Operator
+The next question comes from Matthew Howlett with B. Riley.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+My question is, you got the company as well positioned as really anyone out there with the leverage and the excess cash and potentially
+some more capital coming in the door. When you look at the pace of capital deployment in 2022, I know you don't have a crystal ball, but
+you could obviously deploy it overnight, given all the different asset classes you look at. I mean what are some of the things as asset
+prices decline? What we saw during the last recession was things went down, they went down further and further. What can you tell us in
+terms of when you feel like it's time to start really getting aggressive?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Right. So the first point that you mentioned, if you found value in today's markets, particularly in BPL rental or fix-and-flip or short dated
+loans, you can really own the market today. There are various originators that would love somebody to show up with $250 million of cash
+to invest in this market. And the problem is that the loans that they're producing just aren't attractive relative to the term rates that we
+see in the market today. But there is much difference than a year ago. Anybody with capital can step in and take a big market share that
+exists in this market.
+We're also looking at the fact that we're quite possibly could call peak housing third quarter of 2022, and that's evident, obviously, in the
+affordability measures that are one of the worst levels in 20 years. So I think there's a lot -- there will be some significant buyer's remorse
+that it may experience from Q3 activity. And I think that is part of our opportunity for 2023 in that if you've not efficiently financed those
+assets in 2022, we believe that the 2023 financing environment could be even more difficult and even less efficient than it is today.
+So your question on timing, it's really a function of when we can generate our double-digit kind of equity type of returns without the use
+of leverage. That's -- in a much broader and much deeper stress scenario, that's what basically helped the housing market cure, is when
+rental yields became 13%, 14%. And you could earn that just by buying a home and not utilizing any leverage. While similar kind of
+outcomes that we would expect in some of these loan products where financing is not available or very inefficient, where the -- there
+were maybe shopping of portfolios, not getting done in 2022 and 2023 is a capitulation on the sale.
+What causes some of those capitulation is financing. And warehouse lines, they are typically structured 364 days. And the roles on that
+financing facilities for loans, we expect obviously could be pressured in that you have less financing dollars that will be provided, advance
+rates will be lower, likely if it's an aged portfolio. And if you're over levered there and do not have enough liquidity to take those assets off
+your warehouse line, that becomes a distressed opportunity. And that is something that we expect to see in some parts of this market,
+particularly within the origination channels in the market today.
+So for those reasons, we're kind of at hold until where we see that capitulation. We see loans and houses being shopped and trades
+failing or not being consummated because the discount required by the market is larger than the pain points of the seller. But over time,
+we believe that some of those sellers will run out of time and will provide an opportunity for us to invest in this market.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+So I think I hear what you're saying. You're going to buy this stuff unlevered double digits. Potentially maybe over time, watch them go
+up, maybe put financing them over time. But in the meantime, NYMT is going to operate with effectively very limited recourse leverage
+until you get the securitization closed.
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+That's right. We purposely designed -- I mean there were various opportunities to issue corporate debt in 2021 at pretty attractive levels.
+We weighed that on a 5-year time line, which comes pretty quickly, especially when you're investing in 3- to 5-year assets. We didn't want
+to have a maturity wall structure. We'd rather have the financing on a secured basis with respect to our assets and matched to our assets,
+which is why we utilize mark-to-market repo leverage, 1-year facilities on our BPL fix-and-flip loans because of the short duration.
+We do -- again, as I mentioned earlier, we have 2 securitizations are outstanding there. We can recycle some of those assets, but we also
+have those assets on repo currently. And we think that is a good use of leverage there and ties well with the asset. But the goal is to stay
+very liquid, stay nimble and look for these opportunities. Now that's what we currently see today.
+However, various things will come into this market landscape and some of the discounted opportunities may not be realized. What we
+can do and we'll do in that time frame, if, for example, the expectation of the Fed pushing interest rates higher to curb inflation, which
+really the only way you do that is through higher unemployment rates. If that doesn't come to fruition, and we have a paragon of
+inflation, well, then some of our expectations on these dislocated opportunities will not come into play.
+But as I said earlier, the market, given the liquidity situation of various market players, the market is for anybody's taking. You can come
+in and you can be one of the largest buyers of these markets today with the capital and with the understanding of on how asset manage
+these assets. So we can step into the market with the same type of asset classes that we're in today at higher rates or wait for this
+dislocation to occur, and we believe that our capital is better spent waiting for dislocation at this moment.
+ 
+Matthew Philip Howlett
+B. Riley Securities, Inc., Research Division - Senior Research Analyst
+I would agree and you guys are in a really good position with all the expertise in the various business classes. Appreciate it.
+ 
+Operator
+The next question is from Eric Hagen of BTIG.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+How are you guys thinking about the warehouse funding for whole loans, your ability to source additional warehousing going forward,
+just the fungibility of those assets in general? Do you also have a breakdown of the type of collateral, which is on warehouse right now?
+And if I can just tack on another question, just what's the unfunded commitment in the BPL portfolio right now?
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Yes. So warehouse funding-wise, we have proposals in front of us to upsize our warehouse lines. I think it's not something that we're
+concerned with at all given the availability to take the upsized request for proposals. We have a significant amount of capacity in our
+current warehouse line today. So given the repo loans to securitizations and reducing our repo balances there, the commitments we have
+from our warehouse lenders were kept the same. We have not reduced those. So we can re-lever those warehouse lines up if we felt like
+that was an opportunity to do so.
+Again, our plan is not to do that. We see opportunity to do otherwise. But there's really no -- we don't see any issues on buying large
+portfolios and utilizing warehouse leverage for that.
+As it relates to our BPL activity, we are generally funding around, I think, about $73 million a quarter. We expect that to occur for the next
+few quarters. But obviously, we expect it to also taper off given the -- for purposes of BPL distress or BPL bridge loans, we have a
+seasoned portfolio in that a lot of our ramp, if you look at our investment activity, the ramping of our portfolio really occurred in the
+fourth quarter of 2021 into the first quarter of 2022. So these are 18-month loans on average.
+We've already kind of moved forward in time about 6 months. And we also have focused on a strategy of buying loans that had low
+utilization or low construction requirements. And our goal was to buy loans that would have very easy concepts to move forward in the
+plan for the operator. We have a chart in our supplemental that shows that activity. We have many assets where there was no
+requirement for repairs. So we limited the kind of ground-up construction and high repair situations, which then correlates to low
+go-forward draws for our portfolio.
+ 
+Kristine R. Nario-Eng
+New York Mortgage Trust, Inc. - CFO & Principal Accounting Officer
+And to answer your question in terms of what's in the warehouse lines, it's predominantly our BPL bridge loans. There's some, obviously,
+rental loans that's in there. That's the DSCR. But we are looking to move them into a securitization that's being priced. There's also our
+performing loan book or scratch and dent that's there. Our RPL portfolio are predominantly all securitized. It's about 99.5% of that
+portfolio is in securitization structures.
+ 
+Operator
+At this time, I would like to turn it back to Mr. Serrano for closing remarks.
+ 
+Jason T. Serrano
+New York Mortgage Trust, Inc. - President, CEO & Director
+Well, thank you, everybody, for taking the time today to be on our earnings call -- 2023 for earnings call. Thank you very much and have a
+great day.
+ 
+Operator
+Thank you for your participation in today's conference. This does conclude the program. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

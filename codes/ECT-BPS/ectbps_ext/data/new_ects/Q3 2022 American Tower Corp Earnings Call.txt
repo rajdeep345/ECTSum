@@ -1,0 +1,775 @@
+CORPORATE PARTICIPANTS
+ 
+Adam Smith
+American Tower Corporation - SVP of IR
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+CONFERENCE CALL PARTICIPANTS
+ 
+Batya Levi
+UBS Investment Bank, Research Division - Executive Director and Research Analyst
+ 
+David William Barden
+BofA Securities, Research Division - MD
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+ 
+Matthew Niknam
+Deutsche Bank AG, Research Division - Director
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+ 
+Simon William Flannery
+Morgan Stanley, Research Division - MD
+PRESENTATION
+ 
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the American Tower Third Quarter 2022 Earnings Conference Call. As a
+reminder, today's conference call is being recorded. (Operator Instructions) I would now like to turn the call over to your host, Adam
+Smith, Senior Vice President of Investor Relations. Please go ahead, sir.
+ 
+Adam Smith
+American Tower Corporation - SVP of IR
+Good morning, and thank you for joining American Tower's Third Quarter 2022 Earnings Conference Call. We have posted a
+presentation, which we will refer to throughout our prepared remarks under the Investor Relations tab of our website,
+www.americantower.com. On this morning's call, Tom Bartlett, our President and CEO, will discuss current technology trends and how
+we are positioned to benefit from continued wireless technology evolution. And then Rod Smith, our Executive Vice President, CFO and
+Treasurer, will discuss our Q3 2022 results and revised full year outlook. After these comments, we will open up the call for your
+questions.
+Before we begin, I'll remind you that our comments will contain forward-looking statements that involve a number of risks and
+uncertainties. Examples of these statements include our expectations regarding future growth, including our 2022 outlook, capital
+allocation and future operating performance. Our collections expectations associated with Vodafone Idea in India, the Stonepeak
+transaction and the expected value and future investment activities of our U.S. data center business, our expectations regarding the
+impacts of COVID-19 and any other statements regarding matters that are not historical facts.
+You should be aware that certain factors may affect us in the future and could cause actual results to differ materially from those
+expressed in these forward-looking statements. Such factors include the risk factors set forth in this morning's earnings press release,
+those set forth in our Form 10-K for the year ended December 31, 2021, as updated in our upcoming Form 10-Q for the 9 months ended
+September 30, 2022, and in other filings we make with the SEC.
+We urge you to consider these factors and remind you that we undertake no obligation to update the information contained in this call to
+reflect subsequent events or circumstances.
+With that, I'll turn the call over to Tom.
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Thanks, Adam. Good morning, everyone. As is typical for our third quarter call, my comments today will center on the key technology
+trends we're seeing across the wireless landscape and how our distributed tower portfolio is positioned to benefit from next-generation
+network deployment and generate sustained resilient growth despite ongoing macroeconomic volatility. Additionally, I'll provide an
+update on the CoreSite portfolio of assets, our latest view on the evolution of the Mobile Edge and the progress we are making in
+advancing our Edge strategy, which aims to leverage our distributed tower and land assets. In combination with our interconnected data
+center portfolio to drive incremental value as network technology evolves.
+Since the start of 2019, 5G spectrum auctions, mainly in the mid band have collectively driven over $155 billion in purchase price
+proceeds across our served market. These acquisitions of large swaths of new spectrum have kicked off what we believe will be at least a
+decade-long period of network investments aimed at delivering on the promises of 5G's faster and lower latency applications.
+We anticipate this will result in $5 billion of incremental annual customer CapEx spend in the United States, on average, as compared to
+the levels we saw throughout the 4G cycle. Additionally, in the U.S. The visibility we gained through the comprehensive MLAs we put in
+place with AT&T, T-Mobile, DISH and most recently, Verizon supports our expectation that these investments will drive a near-term
+acceleration in organic new business growth and a sustained level of elevated tower activity over a multiyear period.
+As we saw during the rollout of 4G, we expect this investment cycle to play out in 2 broad phases. The first being a coverage phase
+through which carriers prioritize upgrading their existing footprint to maximize the percentage of the population having 5G access and
+begin to benefit from the cost efficiencies associated with their network technology upgrades.
+Over the last year, we've seen carriers leveraging our presence in nationwide scale to efficiently and aggressively upgrade equipment on
+our sites, both here in the United States and in several markets across our international footprint to meet those 5G build-out objectives.
+In the second phase as consumers adopt advanced 5G-enabled mobile devices and applications, carriers will invest in additional capacity
+through network densification to facilitate increased mobile data consumption and optimized customer experience. We saw this second
+phase play out after 4G was launched in the United States around 2010.
+By coupling the provision of higher bandwidth speed and improved network capabilities with the proliferation of advanced smart
+connected devices with improved user interfaces, 4G unleashed innovative applications, such as video streaming, mobile gaming as well
+as industry redefining application, which is mobile-enabled ride sharing and transportation.
+The introduction of these new data-intensive applications contributed to an annual consumption growth rate of nearly 50% from 2013 to
+2018, requiring carriers to meaningfully invest in the densification of their network.
+Similarly, we expect our customer's 5G network anticipating delivery times of 5x to 10x lower latency and increased download speeds up
+to 100x to further unlock new capabilities, facilitate consumer and enterprise innovations, enable use cases that will necessitate further
+proliferation of connected devices and drive higher network throughput.
+Consider emerging augmented and virtual reality technology as an example. Video streaming exploded primarily because of the
+advancements achieved through 4G, driving extended densification investment in order to provide users with adequate network quality.
+Currently, video streaming bandwidth requirements range from a few megabits per second to about 8 megabits per second for HD and
+up to 25 megabits per second for 4K, depending upon the resolution, eventually working to 50 and closer to 100 megabits per second for
+8K videos.
+Depending on compression schemes and the device requirements, looking ahead to the theoretical max specs for potential future
+applications of mix reality, we would expect multiple gigabits per second. Again, that is gigabits with the G.
+Compared to 4G, 5G will offer enhanced resolution, rapid refresh rates, real-time raw midstream with low latency and provides 3x more
+bits per Hertz spectrum efficiency in the 5G mid band. Even when factoring in all these benefits, we believe rapid mobile data
+consumption growth along with the shorter propagation characteristics of mid band spectrum will necessitate a massive 5G densification
+phase of network investment, greater than what we realized in 4G.
+As a result, we expect this future capacity phase to support sustained growth in our tower business. At the same time, we expect the
+applications driving these densification efforts to present new neutral host infrastructure opportunities aimed at minimizing latency and
+reducing traffic burdens on middle mile network.
+This is a good segue into a discussion about our CoreSite data center activity and the progress we're making in advancing our Edge
+strategy to support these networks of the future. While the tower business certainly remains healthy and staggered deployment of
+network generation rollouts across our geographically diverse footprint provides solid runway for growth over the next decade, we
+remain focused on identifying new opportunities for value creation through the platform expansion pillar of our stand and deliver
+strategy.
+A key element of this pillar is identifying new opportunities that leverage our portfolio of communication assets and our capabilities in
+managing and redeveloping distributed real estate to provide new multi-tenant neutral host infrastructure model that support the
+demands of next-generation networks and applications.
+As we previously communicated, the most apparent opportunity of scale that we see over the next decade is out of the Mobile Edge
+which ultimately solidified our decision to acquire CoreSite at the end of 2021. We still believe this acquisition further positions us to take
+advantage of the emerging digital transformation enabled by 5G.
+Having now owned CoreSite for more than 3 quarters, we couldn't be happier with the performance we're seeing across the business and
+the use cases driving leasing activity, which we expect to serve as growth catalysts well into the future. Importantly, we're extremely
+encouraged by the consistently positive customer feedback on this acquisition. Customers continue to view CoreSite as a strong operator
+in hybrid IT solutions provider with a high-quality ecosystem, which under the American Tower umbrella can now provide more
+predictable scalability and future incremental value through our combined platform, capabilities and expertise.
+So far in 2022, CoreSite has achieved solid new business volumes, a reflection of the strong demand for the company's interconnection
+and cloud on-ramp rich ecosystem, where over 80% of revenues are derived by customers with a variety of interconnections to at least 5
+different and independent customers.
+This strong demand demonstrates the differentiated value proposition and resiliency of these strategically located and well-integrated
+assets. We are pleased to see strong new business volumes from enterprises, prioritizing digital transformation to the implementation of
+hybrid IT solutions. Leading the migrations from an on-premise data centers to co-location data centers in major metros. We are also
+encouraged to see accelerating demand from leading digital platform, seeking to extend compute functionality closer to their users to
+enable automation, collaboration and address latency-sensitive applications and early indicators supporting our Edge evolution thesis.
+Critical to CoreSite's interconnection-rich ecosystem value proposition is its open cloud exchange platform or OCX. OCX provides
+CoreSite customers with quick scalability and represents an essential element as we seek to expand the ecosystem to more distributed
+points of presence as the Edge develops.
+Today, through this automated Layer 2 Ethernet software-defined networking platform, we connect our customer communities within
+and between our U.S. data centers, and we connect cloud providers to CoreSite's nationwide portfolio. We continue to invest in improving
+the platform's features and building out the functionality and reach to enable high-performance, hybrid architectures more quickly and
+securely and at a lower total cost of operation than alternative solutions.
+More recently, we launched Layer 3 enhanced network services, including virtual routing, cloud connect hearing to service providers and
+cloud-to-cloud connectivity to leading cloud providers. These enhanced functionalities simplify an enterprise's network hardware or
+management resources at a lower total cost of ownership.
+Through continued innovation over time, CoreSite division is to provide customers with single port access to their entire digital supply
+chain, which we will also expect to be leveraged and extended as the distributed interconnected edge ecosystem develops over time.
+While the distinctive characteristics of CoreSite's portfolio, including its enhanced capabilities accorded to its OCX platform represent the
+critical attribute in advancing our Edge strategy, we also see tremendous value in CoreSite's development pipeline. CoreSite continues to
+execute on opportunities to redeploy their cash flow towards high-yielding development project. Customers require additional scale
+across our footprint. And consequently, over 20% of our data center development under construction is now pre-leased.
+We also recently announced the acquisition of a purpose-built data center in Southern Florida, MI2, which will be connected to our
+existing Miami facility, expanding and strengthening our Southeastern footprint where we have also integrated our legacy data centers
+in Atlanta and Orlando into the CoreSite ecosystem.
+As we look further out, we expect workloads to become even more distributed and localized. Therefore, we see the importance of an
+interconnection hub like CoreSite, increasing as customers look to future-proof their digital businesses to secure flexible and scalable
+solution enabling agile interoperability as businesses shift to more customized hybrid multi-cloud IT environment and importantly,
+require an extended edge computing presence to support evolving low latency applications.
+In turn, the Mobile Edge is emerging as a critical area in the convergence of wireless and wireline network. Over the past year, this 5G
+deployments in the U.S. have continued at a rapid pace, we've seen elevated emphasis from select wireless carriers with respect to their
+edge compute strategies and the forging a partnership with cloud and enterprise technology platforms to better prepare for the network
+demands of the future.
+We see all of this as incremental data points in support of our vision for forthcoming demand of VA. In our view, much like the adoption of
+the shared tower model, this digital ecosystem over time will be most efficiently provisioned through a distributed neutral host,
+multi-tenant interconnected edge infrastructure model reducing the capital intensity and total cost of ownership among MNOs, cloud,
+landline and enterprise players and critically, facilitating a seamless universal customer experience for end users.
+Our tower portfolio, coupled with our U.S. data center business, represents a distributed portfolio of real estate with accessibility to
+robustly interconnected core network and native access to cloud on rent. We believe the combination of these platforms will be critical as
+data processing extends from the Core to the Edge. With that migration, more distributed and localized points of presence, along with
+transit costs and low latency considerations, will become essential over time, providing American Tower and CoreSite, the potential to
+win across multiple edge layers.
+To date, our team has identified over 1,000 sites within our existing U.S. tower portfolio that we see as shovel-ready candidate for Mobile
+Edge deployment based on location, parcel footprint, land control and existing fiber and power access. Over the next several months, we
+plan to break ground on our first 1 megawatt edge facility and an owned tower site to build upon our understanding of market demand
+and customer requirements.
+Designed a blueprint that can be rolled out at scale as the Edge ecosystem developed and demonstrates the differentiated value
+proposition at American Tower and CoreSite can offer potential customers. As always, any future development will go through our
+disciplined approach to evaluating the market opportunity and economic returns of Edge deployments at scale as well as an evaluation
+of the best way to finance future deployment which could potentially include strategic partnerships, financial sponsors or both.
+In short, the strategic partnerships emerging between the MNOs and cloud service providers, the evolution of latency-driven edge
+leasing activity within our CoreSite side portfolio and our interactions with the architects, the low latency networks of the future have only
+strengthened our conviction. The Edge will represent a meaningful opportunity to drive incremental value to our assets over the long
+term.
+Although this architecture will take time to develop, American Tower is positioning itself as a critical future provider and partner for
+cloud, MNO and enterprise customers as wireless and wireline network convergence accelerates over time. In the meantime, we'll seek
+opportunities to advance our learnings, including through the development of an Edge application integrator and our participation in
+various trials in Edge industry form.
+We are proactively taking the necessary steps to understand emerging trends, network requirements and customer needs, all aimed at
+strengthening our option to win at the Edge over the long term.
+In closing, demand for wireless connectivity continues to grow across the globe where despite the dynamic challenges we've all
+navigated over the past several years, the need for reliable wireless and broadband access has been elevated in importance as a means
+to advance global economies and the populations they serve.
+With carriers aggressively deploying their valuable spectrum assets, we will begin to realize the true capabilities of 5G. And with that, we
+expect to see new innovations that will change the way we live for the next decade and beyond. Our effort to build scale across our global
+footprint of macro tower assets for over the past 2 decades, combined with our continuous focus on platform expansion and innovation
+has positioned American Tower to support our customers in meeting the continued acceleration in mobile data demand, while leading
+the way in the development of new infrastructure model that will be essential in meeting the needs of applications of the future and drive
+incremental value on our assets over time.
+With that, let me turn the call over to Rod to go through our third quarter results and updated full year 2022 outlook. Rod?
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Thanks, Tom. Good morning, and thank you to everyone for joining today's call. As you heard from Tom, we are very encouraged by the
+technological trends that we believe will drive continued secular growth in the industry and a long runway of growth for American Tower.
+Before I walk through the details of our Q3 results and revised outlook, I will first touch on several key trends and developments from the
+quarter, including the evident strength of leasing demand across our footprint and renewed collections volatility in India.
+First, we continue to see 4G and 5G investments driving strong demand across our footprint, which translated into solid gross leasing
+growth in the quarter and we expect this trend to continue and further accelerate particularly in the U.S. as we approach 2023. We
+complemented sequential growth in organic leasing with nearly 1,600 newly constructed sites internationally earning on average, low
+double-digit returns on day 1, driven by those same trends.
+Additionally, demand for hybrid IT solutions optimally suited for our U.S. data center portfolio remains healthy. This resulted in another
+strong quarter of leasing results, fueled by digital platforms and the continuation of enterprises moving their IT infrastructure from
+on-premises to interconnection-rich co-location facilities with direct cloud access, such as CoreSite.
+Next, we closed on Stonepeak's initial $2.5 billion investment in our U.S. data center business in August which was upsized by another
+$570 million after quarter end at the same valuation in terms. This further highlights the differentiated characteristics and value of the
+CoreSite portfolio while establishing a partnership through which we will execute on our U.S. data center strategy.
+Also, we signed a new comprehensive MLA with Verizon at the end of August, which is expected to allow Verizon to efficiently accelerate
+their 5G network deployment over a multiyear period. This agreement is yet another data point, illustrating the fundamental long-term
+criticality of our portfolio as our customers seek to leverage our scale and capabilities to rapidly deploy nationwide 5G and further
+provides tangible evidence that our U.S. business should have a solid runway of growth over the next several years.
+Additionally, we executed a new multimarket MLA with Airtel Africa, our largest customer in the region. Under this new long-term
+agreement, we've secured attractive terms across our existing Nigeria, Kenya, Uganda and Niger portfolio along with a contractually
+committed, attractive build-to-suit pipeline to support Airtel Africa's 5G deployment, among other opportunities.
+Importantly, with Airtel Africa, we share a focus on advancing wireless connectivity in a sustainable manner, which is represented in this
+agreement through a commitment to deploy low-carbon sites and expand our digital communities program. Our agreements with both
+Verizon and Airtel Africa, 2 of our largest customers is the latest demonstration of the value our global scale and operational capabilities
+as a company, both in markets and across borders, can unlock to provide mutually beneficial solutions for American Tower and our
+partners.
+With that, I'd like to take a moment to address some uncertainty related to collections arising out of our India operations and how this
+event has affected our results for Q3 and revised outlook for 2022. In Q3, collections from Vodafone Idea or VIL, fell short of our billings.
+And the customer has also communicated an expectation for that trend to continue through the balance of this year. As a result, we
+found it prudent to take certain reserves associated with VIL in Q3 and against the anticipated Q4 billing shortfall in our revised
+guidance.
+Consequently, our full year expectations now include approximately $95 million in additional revenue reserves, about half of which was
+booked in Q3. It also includes the removal of a $30 million bad debt reversal that was assumed in our prior guidance. Together, these
+result in a reduction in adjusted EBITDA and attributable AFFO of $125 million.
+At this time, our revised outlook for net income does not assume any additional impairment charges associated with the goodwill and
+intangibles that we currently have on the books associated with VIL as the shortfall in cash flows is being viewed as temporary. It should
+also be noted that VIL did express a commitment to revert back to 100% payment at the start of 2023 and repay outstanding
+pass-through balances, which could potentially provide an opportunity to reverse certain reserves we've taken in the future.
+VIL has also laid out a set of strategic steps that we will closely monitor on its path to more stabilized and consistent payment including
+the conversion of its AGR interest into equity held by the Indian government. However, until then, we expect continued uncertainty in
+collections for VIL and I have reflected those risks in our revised outlook. In the meantime, we are actively working with VIL on the path
+forward, which could potentially include converting a portion of its existing AR into optionally convertible notes, which we believe can
+better secure our receivables. We will incorporate new developments that unfold over the next several months into our guidance for 2023
+on this February's call.
+With that, please turn to Slide 6, and I'll review our Q3 property revenue and organic tenant billings growth. As you can see, our Q3
+consolidated property revenue of $2.6 billion increased by over 10% and over 14% on an FX-neutral basis as compared to the prior year
+period. Growth was primarily driven by solid organic leasing, execution on our international new build program in contributions from our
+U.S. data center business, partially offset by headwinds of approximately 2% associated with revenue reserves taken in India during the
+quarter, as discussed, and another 2% from Sprint related churn.
+Moving to the right side of the slide, you can see we achieved consolidated organic tenant billings growth of 2.6% for the quarter. In the
+U.S. and Canada, as expected, net organic growth was slightly positive at 0.3%, including a sequential step-up in gross organic new
+business of $38 million, a meaningful acceleration from $31 million in Q2 in our highest quarter since Q1 of 2020.
+As we have indicated throughout the year, we expect this acceleration to continue into Q4 and even further in 2023, where a large
+portion of our growth will be contractually committed through our comprehensive MLAs. Escalators were 2.8%, which, consistent with
+last quarter, were impacted by certain timing mechanics within our MLAs. Though for the full year, we expect escalators to come in right
+around 3%, consistent with historical trends.
+This growth was offset by the impact of Sprint churn, which continues to drive over 4% of negative headwinds year-over-year and will
+step down in Q4 as the largest tranche of contractual Sprint churn will have lapped in our year-over-year growth metric.
+On the international side, organic growth was 6.1%. Starting with Europe, we saw growth of 6%, which is now at a more normalized level
+with Telxius largely in the prior year base. In Africa, we generated organic tenant billings growth of 6.8%, modestly higher than prior
+expectations due to some delays in anticipated churn, now pushed to later in the year. Growth also included another strong quarter of
+gross organic new business standing at 7.5%, putting Africa on track for its best organic new business year on record, and continuing
+past quarter trends, we saw the strong organic leasing activity complemented with an active new build program constructing just over
+250 sites in the quarter as we see 4G coverage and densification initiatives continue to drive strong top line growth and returns on our
+capital deployments across the region.
+Moving to Latin America. Organic growth was 8.2%, which includes approximately 9.7% from escalations. Growth through organic new
+business and escalations was partially offset by another quarter of elevated churn primarily associated with certain decommissioning
+agreement, which we expect to further accelerate in Q4 as highlighted on previous earnings calls.
+In APAC, we saw organic growth of 1.9%, in line with our expectations, which comes alongside a continuation of solid new build activity
+with 1,200 sites constructed during the quarter.
+Turning to Slide 7. Our third quarter adjusted EBITDA grew nearly 6% or over 8.5% on an FX-neutral basis to over $1.6 billion with strong
+revenue growth and cost controls, partially offset by the negative impacts of Vodafone Idea revenue reserves and Sprint related churn,
+together representing approximately 6% headwinds to growth.
+Adjusted EBITDA margin was 61.5%, down 170 basis points year-over-year driven by the lower margin profile of newly acquired assets,
+the conversion impacts of Vodafone Idea reserves and Sprint churn along with higher pass-through revenue resulting from fuel costs.
+Moving to the right side of the slide, attributable AFFO, and attributable AFFO per share decreased by approximately 3% and 5%,
+respectively, with each including a 3% headwind associated with FX. Growth was meaningfully impacted by the Vodafone Idea reserves
+and Sprint related churn, combining for an over 8% offset to otherwise strong and resilient performance across our global operations.
+Let's now turn to our revised full year outlook, where I'll start by reviewing a few of the key high-level drivers. First, performance remains
+solid across our portfolio as demand for wireless connectivity and the rollout of next-generation networks are fueling strong new
+business volumes across our regions. Together with the straight-line benefit from our recently executed MLAs along with pass-through
+increases primarily related to power and fuel, we're raising our property revenue and adjusted EBITDA guidance for the year.
+Second, we have revised our FX assumptions using our standard methodology, which has resulted in outlook to outlook headwind of $45
+million, $22 million and $13 million for property revenue, adjusted EBITDA and consolidated AFFO, respectively.
+Finally, and as noted earlier, we have incorporated approximately $125 million in incremental reserves relative to our prior outlook
+associated with Vodafone Idea. This includes $95 million in revenue reserves split between Q3 and Q4 and the removal of our previous
+assumption for incremental bad debt reversals of around $30 million. As I mentioned, Vodafone Idea has communicated its intention to
+resume full recurring payments in 2023. However, at this time, we believe these adjustments to be appropriate for the current year.
+With that, let's discuss the details of our revised full year expectations. As you can see on Slide 8, we are raising our property revenue
+outlook by $70 million at the midpoint. This outperformance includes straight-line upside of approximately $65 million, primarily
+associated with our recently executed Verizon and Airtel Africa MLAs and $77 million in higher pass-through revenue driven by fuel costs,
+along with various nonrecurring benefits, including accelerated decommissioning-related settlements in Latin America, which we now
+expect to total approximately $85 million for the full year.
+Our guidance raise was also supported by a recurring revenue upside across several of our segments helping to contribute to some
+modest revisions to our organic tenant billings growth outlook, which I'll touch on shortly. This outperformance was partially offset by the
+$95 million in incremental revenue reserves related to Vodafone Idea and $45 million in FX.
+Moving to Slide 9, you will see our organic tenant billings growth expectations. While we are reiterating our prior outlook on a
+consolidated basis and for the U.S. and Canada as well as APAC segment, we are slightly revising our expectations for International,
+Europe, Latin America and Africa.
+For international, we are raising our organic growth to approximately 6.5%, up from approximately 6% previously. In Europe, we have
+adjusted our organic growth expectations to greater than 8% from approximately 9% in our prior outlook, where we expect new business
+commencements to shift further into 2023.
+In Latin America, we are increasing our organic growth expectations to greater than 7%, up modestly from approximately 7% in our prior
+guidance, reflecting a continuation of the CPI-linked escalation benefits in the region. In Africa, we are increasing our organic growth
+expectations to greater than 7%, up from approximately 6.5% in our prior guidance, reflecting the delays we're seeing in anticipated
+churn, as I mentioned earlier.
+As a reminder, in Latin America and Africa, consistent with prior assumptions, we anticipate consolidation-driven churn events to drive a
+sequential decline in growth as we exit the year resulting in what we expect to be approximately 4% and 5.5% organic tenant billings
+growth in Q4, respectively, with some carryover impacts as we head into 2023.
+Lastly, in the U.S. and Canada, where we are reiterating our prior organic growth outlook, we expect to see Q4 organic tenant billings
+growth of around 4%, with further improvement in 2023, backstopped by the contractual visibility afforded through our comprehensive
+MLAs with the big 3 carriers plus DISH.
+Moving to Slide 10. We are raising our adjusted EBITDA midpoint by $30 million as compared to our prior outlook, where we're seeing a
+high conversion of property revenue outperformance delivered through prudent cost controls and continued elevated services volumes,
+providing meaningful upside as compared to our previous expectations. These benefits are partially offset by the $125 million associated
+with incremental reserves assumed for Vodafone Idea, as previously discussed along with $22 million in FX.
+Turning to Slide 11. We are lowering our attributable AFFO guidance by $40 million or $0.09 on a per share basis. This adjustment is
+attributable to the Vodafone Idea reserves we have taken, which is translating into approximately $0.27 per share of downside, offsetting
+what was otherwise very strong performance across our business, which represented approximately $0.20 per share outperformance on
+an FX-neutral basis.
+Moving to Slide 12. Let's start by taking a look at our capital deployment expectations for the year, which are slightly updated compared
+to our prior outlook and continue to reflect our focus on driving sustained AFFO per share growth and shareholder returns. Within our
+capital deployment plan, we are reiterating our expectations to dedicate approximately $2.7 billion, subject to Board approval towards
+our 2022 dividend.
+With regard to CapEx, we are reducing our total midpoint by $45 million, with redevelopment decreasing by $35 million and start-up
+decreasing by $10 million, the result of some timing adjustments and savings as compared to our prior plan. We continue to assume the
+construction of approximately 6,500 new sites globally and roughly $300 million towards our U.S. data center business, largely
+associated with development spend.
+As we've highlighted in the past, we continue to generate exceptional returns through our discretionary CapEx program, which remains
+largely financed through the redeployment of locally generated cash flows. We view our ability to allocate nearly $1.8 billion towards
+accretive high-yield projects as a strategic benefit after years of building scale and credibility with our global customer base in a
+compelling way to further build scale and drive accretion for years to come.
+Finally, although we have not incorporated into our revised guide, I'd like to highlight that with the additional capacity we currently have
+as we outpace our delevering plan, we expect to opportunistically restart our share buyback program. Given recent market performance
+and the strong fundamentals we anticipate in our business over the long term, we see this as a great opportunity to further drive
+shareholder value, particularly against other forms of capital deployment in our current line of sight.
+Moving to the right side of the slide, I'd like to take a moment to review the progress we have made since the start of the year to shore up
+our balance sheet and liquidity position, particularly in light of the market volatility and unprecedented rise in rates occurring over the
+past several months.
+As you recall, we closed the CoreSite acquisition using our bank facilities and term loans, temporarily moving our leverage to 6.8x and
+our floating rate exposure to 31% at the end of 2021. Since that time and against the challenging backdrop, we have strategically termed
+out short-term borrowings through common equity, private capital and senior unsecured note offerings, all at solid terms and pricing.
+Today, our leverage stands at 5.5x ahead of plan with floating rate exposure of around 20%, in line with our long-term target.
+Looking ahead, we continue to believe this profile is appropriate given the predictable and contractual nature of our cash flows while
+providing us exposure to prepayable debt, which offers us financial flexibility as we execute on our delevering path, and access to the
+typical low rate short-term curve. In addition, a meaningful portion of our floating rate debt is euro denominated, which provides us a
+natural hedge and diversified capital structure while also offering prepayable debt at terms more competitive than those currently
+available in the U.S.
+Although we anticipate 2023 as it appears today, we'll present certain growth challenges stemming from the current rate environment,
+we feel comfortable with our proven approach to balance sheet management. This includes our ability to manage our upcoming 2023
+maturities where we expect our diversified sources of capital and solid liquidity position to provide near-term financing flexibility,
+allowing us to opportunistically access the markets against a healthy and constructive backdrop.
+In short, we believe our investment-grade balance sheet and the long-standing policies we've established position us well to navigate
+various economic cycles, including the challenges we're all facing today. And although we may see certain growth headwinds in the near
+term, we believe our investment-grade credit rating and continued access to diversified sources of capital coupled with our focus on
+maintaining robust liquidity will serve as a more meaningful competitive advantage over the next several years.
+Finally, on Slide 13. And in summary, we had a strong Q3 across our global business with solid operating performance, accelerated
+leasing and resilient demand even in the face of a challenging economic backdrop. During the quarter, the long-term critical nature of
+our portfolio of assets in positioning to drive sustained and compelling growth was further highlighted through key customer agreements
+with Verizon and Airtel Africa and the closing and subsequent upsizing of our Stonepeak partnership in our U.S. data center business.
+Although we will likely experience some growth pressure in the near term associated with the continued rise in interest rates, we see our
+investment-grade balance sheet, liquidity and diversified sources of capital as a key competitive advantage as we execute on our growth
+strategy over the next decade and beyond.
+As we look ahead and over the long term, we are excited about the positioning of our global portfolio of communications assets as our
+customers augment and extend their networks to meet exploding data-driven demand and believe our global scale and proven
+capabilities have us positioned to drive incremental sustainable growth and value creation for our shareholders for years to come.
+With that, I'll turn the call back over to the operator for Q&A.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from the line of Simon Flannery, Morgan Stanley.
+ 
+Simon William Flannery
+Morgan Stanley, Research Division - MD
+Tom, it was good to hear your discussion about the opportunities from 5G and particularly from CapEx capacity additions as well as the
+favorable comments around near-term and medium-term U.S. leasing trends. Can you square that with the CapEx trajectory at the likes
+of Verizon and T-Mobile where they're expecting a significant step down? I know it's not a one-for-one relationship. But how do you
+expect this to evolve? Because I think there's a sense here that there will be some deceleration as we've seen sort of in prior 4G cycle. So
+what's the offset to those lower CapEx numbers?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Simon, having seen the trends from the carriers for many, many years. I mean there's always volatility in their overall spend. It will largely
+be a function of device penetration and application development that will require the further densification that we believe in the -- in
+their deployment as well. So it's not a kind of a one-for-one type of a -- I think a relationship with our overall growth. And also keep in
+mind that with our agreements that we have in place, we have these broad comprehensive agreements which really locked in a lot of that
+revenue growth for us.
+And so 70%, 80% of our revenue growth, we have tremendous visibility into as a result of those master lease agreements. And I would
+expect the carriers, as I said, to be investing in their market if that demand develops. And I would expect, given the benefits of 5G that
+each and every one of us are going to be using significantly more levels of spectrum, if you will, over time. So as said it's not a
+one-for-one. Our MLAs do give us that kind of visibility. And over time, I would expect higher levels of CapEx being spent on 5G, just as
+we saw being 4G versus 3G?
+ 
+Operator
+Next question comes from the line of David Barden, Bank of America.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+Two, if I could. The first, Rod, just digging into the biggest moving part in the guidance, the Vodafone Idea relationship. I guess 2 pieces
+to that. One is, is there's been a lot of press about them versus, say, (inaudible), and maybe trying to renegotiate tower rates to "soften"
+the impact on costs? And then could you kind of talk about what you're willing to give on that front?
+And then Also, you talked about converting your accounts receivable to notes. I mean historically, towers have never been impacted by
+bankruptcies. How is converting accounts receivable to notes a better option than just kind of continuing the way you are as a tower
+company with your counterparty there.
+And then I guess the last piece maybe, Tom, on capital allocation, the conversation about buybacks, I'm sure, is welcome, but there's
+been a lot of conversation over the last 2 years about AMT's ambitions in Europe and scaling there, and there's obviously some pretty big
+deals and I think that obviously cost of capital is a huge issue, your equity where it is as an issue. Could you categorically rule in or rule
+out what your position on expanding in Europe is right now?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Yes, Rod, why don't you start and take the first couple and then I'll take the third.
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes, that sounds good. Thanks for the question. I hope you're doing well. So regarding India and Vodafone and kind of their current
+situation, their desire to renegotiate some MLAs, I don't want to get into too many of the terms and conditions. Certainly not want to talk
+about things that haven't happened yet in the future. But I can tell you, they are in a predicament with their balance sheet, which
+everyone knows about, there's been a lot of press regarding that. So they're looking for a number of things from us in terms of supporting
+them. Discounts may be one of them, we'll certainly talk about that with them kind of over time.
+But I don't want to get into the details in terms of what we may or may not be willing to do. If we were to provide any kind of a discount or
+just run through our churn numbers and would be in our guidance. I don't expect any changes to our organic tenant billings guidance for
+this year (technical difficulty) negotiation or renegotiation with Voda. So -- and if anything changes next year, we'll update you for next
+year.
+I guess shifting David, to the note, we did convert 200 -- or we have the option to convert $200 million of our existing accounts
+receivable. This is not a new investment into Voda. I want to make sure that, that's clear. With existing accounts receivable that's on the
+balance sheet, we have signed an agreement where this $200 million could become a convertible note but that is contingent on some
+conditions happening in India, both the government converting their near-term interest into -- I think everyone is aware of that playing
+out.
+So that have to happen first. And if that does happen, then we could convert $200 million of our existing accounts receivable into a
+convertible note. The reason that's interesting to us, number one, is it helps shore up Voda a little bit. It basically moves the account
+receivable and, let's say, an MLA default into more of a financial interest and it helps them get some equity and maybe some additional
+debt on their book. So we want to support them and help them through this difficult time. So that certainly is one reason.
+The other thing having this note, it does have predefined payment time frame in it, which is a little bit more certain than what you might
+see in typical accounts receivable that's hanging on the balance. And then we also have the option at our option to convert it to equity,
+which is another way for us to liquidate that favorable balance. So I think it increases our flexibility. It increases the probability in the near
+term to convert it to cash, and that's really the reason we're interested in doing it. So -- and it helps Voda. So all those things, we did
+really looked at it and it makes a lot of sense for us, and I think it makes sense in terms of our willingness to support them.
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+And I guess, Dave, just regards to your last question on Europe and the opportunistic buyback program that Rod talked to. First of all,
+with regards to our Telxius asset base and integration, we're really very pleased with what we've experienced over the last year. I mean
+you've seen the growth rates and the success that we've had there and the relationship that we've actually built with Telefonica.
+So that's all gone incredibly well. With regards to further scaling, we do have a sizable build-to-suit program that we are in the midst of,
+and we see even more a build-to-suit opportunity coming forward, I think particularly in Germany.
+With regards to further M&A, we stepped away really just due to the sellers' expectations of value. There's just a significant delta
+between the bid and the ask at this time. Now over time, that may change. There's just a lot of volatility economically or obviously, you all
+know around the world. And so there's just a significant amount of space between the bid and the ask.
+And so we've really stepped away from those. We're always asked to participate in them. And so you always see in the media that
+American Tower is doing this or that but -- and I know you well know that we're incredibly disciplined in terms of how we look at
+valuation. And given the terms and conditions of some of these transactions as well as the expectations of -- from a pricing perspective,
+we just don't see the value creation in those opportunities at this time.
+As I said, maybe that will change over time. I would hope over the next 12, 18 months, you might see some change there. But right now,
+not. And so we're going to continue to knock the socks off the organic growth, working with our customers in the region drop in. Our
+build-to-suit program, which has been an incredibly terrific way for us to be able to grow inorganically within the business, as Rod said,
+some very attractive yields. And really support our customers in the market and enjoy the growth that way.
+ 
+Operator
+Our next question is from Greg Williams, Cowen.
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+I have two. One is how much of the raise in guidance the $142 million in straight line was related to the Verizon MLA, if any? And second
+one is just dovetailing off of the M&A discussions, what is your appetite for M&A that's not tower-related? Now that you think about
+augmenting your data centers, we've heard possible Asia data centers are of interest or even U.S. fiber. And I'm just curious of your
+thoughts.
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Rod, why don't you take the first one, and then I'll take the second.
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. Thanks, Greg, for the question. So the straight line increases that you see in our outlook here, we have an increase of straight line of
+about $65 million built into our property revenue guide. That's really split between the new Verizon deal as well as the deal over in Africa
+with Airtel Africa. I don't want to break down that in too much detail and give you the piece parts, but it's really those two deals that
+make up (inaudible).
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+And Greg, with regards to M&A on the data center side, as we said all along, we are very focused on developing the U.S. market. I mean
+CoreSite's got a terrific presence in the United States. And with our tower portfolio here in the United States, we want to be able to enjoy
+the benefits of the CoreSite activity, as I highlighted, and as Rod highlighted himself, but also really be able to bring together this overall
+notion that we have in terms of developing that edge capability that we'll be realizing out the sites themselves -- at our tower sites
+themselves.
+And so when you're seeing all this, again, noise about buying data centers and things outside of the United States, that's not where we're
+looking. That's not where our focus is. And if you take a look at the capital that's being spent on the business because we do have a fair
+amount of development going on within the -- within CoreSite, within the data center activity. It's largely driven just from the cash flow
+that the business is generating. So the $200 million to $300 million that we're investing back into the data center business in terms of
+providing more capability going forward, not just in our OCX platform, but also in space itself is just being driven by the $300-plus
+million of AFFO that the business is generating itself. So U.S. is our chessboard as we speak, relative to our data center activity.
+ 
+Operator
+The next question is from Batya Levi from UBS.
+ 
+Batya Levi
+UBS Investment Bank, Research Division - Executive Director and Research Analyst
+Can you provide a little bit more color on the carrier activity that you're seeing in Europe, given the macro backdrop, I think some carriers
+are pulling back on CapEx. How do you think this will drive the growth into next year? And another question on AFFO, I know we'll get
+full guidance next year, but a lot of moving parts going into '23 with U.S. accelerating, but higher interest costs and FX. Can you provide
+a general view on your expectations for your AFFO into next year?
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. Thanks, Batya. I'll give you a quick update on Europe here. So we are seeing really strong growth in Europe as you've heard us talk
+about consistently throughout the balance and the activity is really split across the markets and across the carriers. So we're seeing good
+activity with all the carries there. I don't want to talk specifically about carrier to carry, but I will just call out that we are seeing 101 begin
+to build a (technical difficulty) there. We are beginning to see leasing activity. We certainly expect that to ramp up towards the later part
+of this year and be a much more meaningful contributor next year. The one thing we'll see, we are pulling back our guide a little bit in
+Europe with organic tenant billings growth.
+That really is just a delay in terms of timing on some certain leases that we have in our pipeline. We're seeing that kind of shift up a little
+bit into -- later into Q4 and even some of the things later into Q4 shifting into next year. So that's really what you're seeing from that
+perspective. And remind me the second part of your question, was AFFO guidance...
+ 
+Batya Levi
+UBS Investment Bank, Research Division - Executive Director and Research Analyst
+Yes, into '23 if you have a general guidance that you expect the AFFO per share to grow double digits. How should we think about '23?
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. I think -- I mean, I think you should think about '23 is a challenging year for us. I think everyone knows the interest rising rapidly
+here, probably more rapidly than most people expected as we head into the end of this year. That is a noticeable material headwind for
+us in the AFFO line heading into the next year. So that will be a challenge. That certainly will take us off of our target AFFO growth.
+I don't want to get into too many specifics. But I think you guys have probably enough information to kind of work the numbers. And
+when you look at the rate of increase on interest line for us with the interest rates rising, that will be a challenge. When we get -- the
+other challenge for next year is the timing of equity raise, we'll have the full new equity to 10 million shares kind of running in the
+numbers next year with rolling in half of this year.
+So the comp is a difficult comp from that perspective. I do think when you get out to '24 and beyond, we are seeing really good support
+for leasing revenue in the U.S. and around the globe. Particularly in the U.S., you've heard us say we've acceleration of new business from
+co-location and amendment activity. That acceleration continues. We expect to end this year very strongly coming in very close to that
+$150 million of co-location new business in the U.S. And we're seeing that accelerate into next year on a run rate basis, which is also
+underpinned by our long-term MLAs.
+So we have really high visibility into next year. So we expect to see a meaningful step-up in U.S. co-location and amendment revenue into
+next year.
+And that puts us firmly on track for our long term and particularly to the U.S. organic tenant billings growth averaging 5% from '23 out to
+'27. And that includes some impacts from the Sprint churn, which is about 100 basis points. So without that, you'd be at about 6%. We're
+firmly on track for that beginning next year and going forward because of that nice acceleration, that strong demand we're seeing in the
+U.S.
+ 
+Operator
+Question is from Michael Rollins, Citi.
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+Just curious, as you're looking out over the next 12 to 24 months, can you frame just some of the friction points around whether it's
+market consolidation that you're seeing or some of just structural issues for maybe things that customers are working through? And just
+how to think about the magnitude and timing of those headwinds, maybe relative to some of the other things that you've noted around
+the build-to-suit opportunities and the organic improvement in demand?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Michael, let me -- maybe I'll -- I can start with that, Rod. I mean that's kind of an open-ended question there. You have when you start to
+think about what's going on around the world. I think the backdrop here is still the technology, right? And the backdrop is still the
+demand for broadband wireless. We've seen it through several technology cycles, and that's really driving the ongoing capital that all of
+our customers are looking to commit over the next several years.
+And so that provides, I think, a real stable platform for growth. And as Rod kind of went through all the numbers, we're seeing that,
+right? And we're seeing 5G being deployed in more and more markets. We've seen the growth rates accelerate here in the United States.
+We expect that to continue into 2023. You've seen the strong growth coming from many of our other markets as well, particularly in
+Europe and Africa, really a lot of significant activity going on in the market.
+You've also seen our customers aligning themselves more closely with us. These longer-term strategic master lease agreements that we
+put in place, the one that we've talked about with Verizon, the other one that we've talked about with Airtel. I mean these are long-term
+contracts with well-capitalized companies.
+There are still spots of churn that we have going on in the market. A lot of activity in Latin America with some consolidation, particularly
+in Brazil and Mexico that Rod kind of walked through. And so we'll see a heightened level of churn in Latin America over the next 12 to 18
+months.
+We've seen some consolidation going on in Africa. But then again, we've been able to really largely work through all of that churn and
+still sizably increase the growth in each one of those markets. So I don't see any seismic shifts if you will, over the next 12 to 18 months.
+Yes, we are in a rising interest rate environment. We're in an inflationary time around the world. The good news is that we have long-term
+contracts in those very high inflationary markets. We've got escalators based on CPI and inflation in those areas.
+The other element, I think, within our business is we're well diversified. And so while we're perhaps taking a market that might be
+growing slower in another market, we'll be increasing the growth. And so it's offsetting some of the shortfall that you might see in other
+markets. I mean we've talked about this in the past. Our carriers invest kind of like a sine wave, right? I mean it's heavy investment and
+then they -- it's less investment as they're tuning their network and then it's a higher investment. We continue to see that. We've seen
+that through 1G, 2G, 3G, 4G, and we'll see that through 5G.
+Our customers aren't going to be building the networks before they see the demand. And so that's going to be a function of device
+penetration. It's going to be a sign of application development. I mean I talked about the two phases. You well know this, in terms of
+network deployment, first getting the coverage and then we're going to see further densification and sales splitting as their customers
+are utilizing the network.
+And with higher band spectrum, we're going to see an even increased level of densification just because of the propagation
+characteristics of the bands. So I do think that kind of a long rambling answer for you, perhaps. But I mean, the core is the underlying
+technology and the desire for our customers and their countries themselves and their citizens to really be able to significantly increase
+their overall usage in wireless data. And so as a result, that provides, I think, a real kind of protection for us particularly when we're
+looking at these long-term agreements.
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Michael, this is Rod. I'll just add...
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Hopefully, that answers your question.
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. And Michael, I'll just add, in terms of the churn, the near term, one thing that you will see is our churn rates are actually coming
+down from Q3 to Q4. So globally, we -- in our 2.6% Q3 organic tenant billings growth, there was about 5.5% -- 5.4% that was
+cancellations or churn. That's going to step down to about 4% in Q4, which will end up driving our organic tenant billings growth for Q4,
+up from that mid-2s up to over -- well over 4%, certainly, which is really good. And that 4.4% in Q4 is what helps us drive that 3% for the
+full year.
+And in the U.S., you're seeing that churn drop in the U.S. So the good news here is we're through the big bulk -- the initial bulk of Sprint
+churn. You're going to see organic tenant billings growth for Q4 in the U.S. at around 4%, which will be getting us back to where we
+really want to be longer term.
+And then in the international markets, we do have some, as Tom was saying some churn events, some elevated churn. Those churn
+events will be temporary as certain countries go through a little consolidation. But you will see from Q3 to Q4, churn will step up by about
+100 basis points, going from about a little under 5% to up into the 5s churn in the international markets.
+And the only thing I'd call out specifically is in Latin America, you will see -- that's where a bulk of that temporary churn will begin to hit.
+So you will see a step up in our churn rates in Latin America going from about 5% in Q3, up to a little over 8% in Q4. And that's all the
+normal churn that we've all talked about that you guys know is coming. Some of that will persist into next year as well, particularly in
+Latin America.
+ 
+Operator
+Our next question is from the line of Rick Prentiss, Raymond James.
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+I want to follow-up on a couple of questions. One following up on Simon's question about CapEx. If we think about the U.S. Is part of the
+reason maybe you guys are so confident that the U.S. leasing goes up in 4Q and then goes up and accelerating to '23, possibly to do with
+the timing? Your Verizon MLA, your positioning of when you were getting contracts from DISH and that visibility that you talked about,
+Tom. Just trying to think, is some of this that -- it's very visible to you, it's really kind of more timing related?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Well, yes, I mean, Rick, absolutely. And as I mentioned with Simon, given kind of the MLA structure we have in place, it's kind of
+irrelevant in terms of that capital spend. from our perspective, right? I mean because we already have the kind of the rates and the
+pricing kind of locked in for a long-term period. Now having said that, when I back up, I also believe that, that capital is going to be spent
+over time. And that could be a timing issue as well.
+It's all a function of customer demand and application development and device penetration. And so when you have those all locked in,
+you're going to see our customers physically spending on their networks because they have to. They're not going to want to see any
+decline in quality of service. And so they're going to want to meet this demand and stay ahead of the curve as they traditionally have.
+And so -- but from an AMP perspective, you're exactly right, timing is not that relevant to us just because of the construct of the
+agreements that we have in place.
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+Right. And if you're not seeing any air pocket out there -- that's been some of the concern in the marketplace because of high interest
+rates or because of inflation, maybe turns into recession, at least on the U.S. side with the carrier spend. With you, it sounds like...
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+No, we haven't. We have not.
+ 
+Richard Hamilton Prentiss
+Raymond James & Associates, Inc., Research Division - Head of Telecommunication Services Equity
+Research & Research Analyst
+Okay. And last question for me is a follow-up on some of David's questions. The stock buyback. What would trigger that? What else has
+to happen to trigger the stock buyback? That obviously will require some funding that could affect back on to the interest rate side. And
+second question with that is, was your $570 million upsizing from Stonepeak kind of expected in the guidance also?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Well, I mean, from our standpoint, and then I'll let kind of Rod step in here. We continue to look at the opportunities to delever as well as
+to look at supporting our equity. And given the movements candidly in the equity, I think that there's some opportunities there to be able
+to generate some value. And so it will be a balance between the 2. We talked about M&A and M&A kind of given the delta between the
+bid and the ask kind of around the world.
+I think that's less focus, candidly, at this point in time. And so we'll look at our NAV and we'll look at it versus our share price. And well, as
+we always have, look at the kind of the most attractive ways of being able to drive AFFO per share.
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. And Rick, maybe I would add to that, just from a leverage standpoint, we ended the quarter here at 5.5x levered post the CoreSite
+acquisition, we were as high as 6.8x. So I'll just remind you and everyone else we have. We did start out higher than our target leverage
+range, which is 3x to 5x. We work through plans with the rating agencies to delever (technical difficulty) our investment-grade credit
+rating. That is critical to us. That's very important. We take leverage very seriously. That's why we've been able to delever as quickly as we
+have, going down from that 6.8 to 5.5.
+I'd also tell you that the 5.5 is -- we're comfortably lower than the delevering plan that we've agreed with the rating agency. So that puts
+us in a pretty good position. The plans that we've agreed with the rating agencies did not contemplate or include the $570 million. So
+that additional capacity that we have to either further delever well, well ahead of the delevering plan or we can put it to use in a different
+way.
+So that's what we'll be looking at. When you think about the $570 million from Stonepeak, that is in our guidance in terms of the
+mechanics and the way it runs through our numbers. But it's important to point out that it is a benefit when it comes to our ability to
+delever.
+And then, of course, when we think about what we do with that capacity or any other capital capacity that we have available to us, we'll
+always put a share buyback up against our own internally generated net asset value of the company and what we look at in terms of the
+share value. We're also balancing the analysis around the cost of debt and how we drive better AFFO per share accretion, either paying
+down our revolving credit lines or buying back shares.
+So there's a lot of math as you know, that goes into that. So we expect to be flexible and opportunistic as we evaluate what we do with
+our capital. And I do think that you could see us do both continue to delever at a furious pace as well as buy back some shares when we
+think that's appropriate.
+ 
+Operator
+And we have a question from the line of Matt Niknam, Deutsche Bank.
+ 
+Matthew Niknam
+Deutsche Bank AG, Research Division - Director
+Just one housekeeping and one broader question. On the housekeeping side, maybe just to go back to the Stonepeak $570 million raise.
+How does that impact the minority adjustments? I think it's been about $50 million typically between consolidated and proportionate
+AFFO. Just wondering how that may change in light of the incremental funding from Stonepeak.
+And then secondly, I think you've kind of answered this in terms of the U.S., but I'm wondering more broadly, as you think about tighter
+financial conditions, stronger U.S. dollar, weaker foreign currencies, is that weighing at all on any international customers or regions
+investment plans just given some of the lower presumable purchasing power as they head into 2023?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Rod, do you want to cover the MI question and I can talk more broadly?
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes. So we took in another $570 million from Stonepeak as an additional investment into our CoreSite business. So the original
+investment of $2.5 billion gave them basically a current ownership of about 22%, almost 23% of the business there. And then with their
+additional $570 million, that's going to pop up to about 28% to 29% ownership. And that is for the pieces of those investments that are
+actually equity from day 1.
+You may recall from some of our disclosures. There are some pieces of those investments that are preferred, which will convert to equity,
+their mandatory converts over a full year period. So they will convert to equity. When that happens, then their ownership will jump up
+from the 28% to 29% up to about 36%.
+The way to think about the MI impacts here, when you get to Q4 and hit the run rate, you're going to see about $150 million of Q4 exit run
+rate for the European minority and then you'll see about $60 million or so for the Stonepeak minority interest. That will all run through
+kind of the minority interest section. On these preferred notes that we have with Stonepeak, you'll see another $45 million that will be
+interest that will run through the interest line, but you want to keep that in mind as well.
+So that puts us at a run rate of about a little over $200 million of MI as we exit Q4, $200 million, $210 million.
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+And Matt, on the second question, relative to the impact of what's going on around the world, on our customers outside of the United
+States. Interestingly enough, we haven't seen anything of significance that would give me the sense that they're going to be slowing
+down on their build programs around the world. Now who knows what that might look like going into '23 and '24.
+But they have the same level of energy that we've seen over the last 12 to 18 months. Now we are also protected just because of the
+diversification of markets and diversification of customers. And so as a result of that, we are actually able to kind of avert a particular
+issue in one area or another.
+And also keep in mind, as I mentioned in my remarks that our customers have spent almost $160 billion on spectrum. And so they don't
+-- they want to monetize that $160 billion and be able to get out into the market as fast as they possibly can. So we are seeing, as I said,
+the continued kind of robust deployment of capital in the markets. And we continue to support them. And we see also -- again, a lot of
+build-to-suit activity in the market as well, which is also an indication of their willingness and ability to spend.
+ 
+Operator
+And our final question comes from the line of Phil Cusick, JPMorgan.
+ 
+Unidentified Analyst
+This is Richard for Phil. Just wanted to follow up in Latin America. You're expecting a little bit higher churn. Will that impact any new
+activity? Or can you still see new activity growth continue through their -- despite the higher churn? And then also on the services side, it
+remains pretty solid. Are you seeing anything changing the trajectory of the services business? Or do you think it will continue to stay
+pretty steady?
+ 
+Thomas A. Bartlett
+American Tower Corporation - President, CEO & Director
+Rod, why don't you take those two?
+ 
+Rodney M. Smith
+American Tower Corporation - Executive VP, CFO & Treasurer
+Yes, sure. Thanks, Tom. Richard, I think when you talk about Latin America, we are expecting higher levels of churn, but pretty consistent
+levels of kind of that gross new biz. And we're also complementing that with higher levels of escalator, which are driven by local CPI in
+the region.
+So those two things are pretty solid. We'll see where inflation goes and how the trajectory of our escalator in that region may change over
+time. But there is solid kind of consistent new activity in Latin America despite the fact that there is a little consolidation churn happening
+in some of the markets there.
+And then when it comes to services, we're having another great year in services. We're going to be up in the mid $200 million, we raised
+our guidance at the gross margin level by about $20 million. So we are going to be in that mid $200 million range for services revenue.
+That continues to come through at really nice margins in the mid-50s, 54%, 55% at the gross margin level. So our services business is
+performing exceptionally well and has proven to be very resilient. And that is because the U.S. carriers continue to be very active. I'm not
+going to guess in terms of where it's going to go in coming years. But to the extent that the activity levels stay high, we'll continue to see
+really high services.
+Well, there's a chance that could pull back as the timing of activity from the carriers kind of ebb and flow from quarter-to-quarter. So
+we'll see what happens next. But we're going to be up in the mid-200s this year in services. All the carriers are active, and we're
+maintaining really healthy margins in the mid-50s.
+ 
+Operator
+And that concludes questions.
+ 
+Adam Smith
+American Tower Corporation - SVP of IR
+Great. Thank you, everyone. If you have any questions, please feel free to reach out to the Investor Relations team. Have a great day.
+ 
+Operator
+And ladies and gentlemen, that concludes our conference today. Thank you for your participation and for using AT&T conferencing
+service. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

@@ -1,0 +1,288 @@
+CORPORATE PARTICIPANTS
+ 
+Etan Bluman;Senior VP,Finance & IR
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+ 
+Mark J. Langer
+Urban Edge Properties - Executive VP & CFO
+ 
+Scott Auster
+Urban Edge Properties - Senior VP & Head of Leasing
+CONFERENCE CALL PARTICIPANTS
+ 
+Brian Spahn
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+ 
+Paulina A. Rojas-Schmidt
+Green Street Advisors, LLC, Research Division - Analyst of Retail
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+PRESENTATION
+ 
+Operator
+Good morning, and welcome to the Urban Edge Properties Third Quarter 2022 Earnings Call. (Operator Instructions) As a reminder, this
+conference is being recorded.
+It is now my pleasure to introduce your host, Etan Bluman. Please go ahead, sir.
+ 
+Etan Bluman;Senior VP,Finance & IR
+Good morning, and welcome to Urban Edge Properties Third Quarter Earnings Conference Call. Joining me today are Jeff Olson,
+Chairman and Chief Executive Officer; Mark Langer, Chief Financial Officer; Danielle De Vita, Executive Vice President of Development;
+Rob Milton, General Counsel; Scott Auster, Senior Vice President and Head of Leasing; and Andrea Drazin, Chief Accounting Officer.
+Please note today's discussion may contain forward-looking statements about the company's views of future events and financial
+performance, which are subject to numerous assumptions, risks, and uncertainties in which the company does not undertake to update.
+Our actual future results, financial condition and business may differ materially. Please refer to our filings with the SEC, which are also
+available on our website for more information about the company.
+In our discussion today, we will refer to certain non-GAAP financial measures. Reconciliations of these measures to GAAP results are
+available in our earnings release and supplemental disclosure package in the Investors section of our website.
+At this time, it is my pleasure to introduce our Chairman and Chief Executive Officer, Jeff Olson.
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+All right. Thank you, Etan, and good morning, everyone. I am pleased to announce another strong quarter with FFO as adjusted of $0.30
+per share, an 8% increase over the third quarter of last year and a 7% increase year-to-date. This increase is primarily attributed to NOI
+growth and the acquisitions of Woodward Town Center outside of Washington, D.C. and the shops at Riverwood in Boston.
+The shopping center industry continues to benefit from strong demand from a broad set of retailers, especially throughout the suburbs
+around New York City. Just in the past year, we have increased our occupancy from 93% to 95%, a notable growth rate following the
+pandemic. We had visible NOI growth coming from our signed but not yet open pipeline, which has increased to $28 million,
+representing approximately 12% of our current NOI. We also have 1 million square feet of leases under negotiation, representing an
+additional 10% of annualized NOI.
+Our team is energized and committed to getting our portfolio back to our prior occupancy levels of 97% to 98%. Our properties are
+predominantly situated in the first-ring suburbs within the D.C. to Boston corridor, the most densely populated supply-constrained
+market in the United States. Leading retailers continue to expand and are focused on growing their omnichannel offerings within our
+core markets. We are thrilled that Target recently executed a 139,000 square foot lease at Bruckner Commons in the Bronx. Over the
+past 5 years, we have transformed a [deeded] 1970s era Shopping Center, previously anchored by Kmart, Toys"R"Us and a local grocery
+store into a dominant destination that will be anchored by Target, Shoprite, Burlington, Marshalls and 5 Below.
+We have redesigned the facades, walkways, and outdoor seating areas, making this property one of the most attractive shopping centers
+in the area. Target will solidify the center's position as one of the most important retail nodes in the Bronx, and we have more upside
+coming from leasing the remaining 41,000 square feet of space adjacent to Target and the 43,000 square foot former Toys Box. We
+currently have $261 million of active redevelopment projects underway and expect to generate a 10% unlevered return on this
+investment.
+Our tenant coordination team is the busiest they have been in years, preparing to open over 50 new stores within our portfolio. As
+approximately 90% of these projects are associated with executed leases, there is minimal speculative risk. Notably, the $26 million
+project to relocate Kohl's into Bergen town center is 2 quarters ahead of its original schedule as Kohl's will hold its grand opening
+tomorrow. The store looks great, and we are excited to reactivate 134,000 square feet of space that has been vacant for almost 2 years.
+We look forward to seeing other new anchor stores open in the coming quarters, including Shoprite and Marshalls at Huntington, Sector
+66 at Las Catalinas, Nemours Children's Health at (inaudible) and Ralph's Grocery Store and Walgreens at Montehiedra.
+We are keeping a close eye on inflationary pressures and the potential impact on consumer spending. The macroeconomic environment
+and the associated rising cost of capital will make the prospect of near-term acquisitions challenging. We are also cognizant of the
+impact these same pressures could have on our retail tenants. However, we would also note that the majority of our rent comes from
+tenants that are traditionally in recession-resilient categories, and our overall tenancy is weighted towards well-capitalized national or
+regional retailers. Given current market conditions and considering the economic challenges that may arise in 2023, our plan is to protect
+our balance sheet and carefully scrutinize future capital and redevelopment spending to ensure appropriate yield hurdles are met.
+Additionally, we will be performing an intensive review of G&A as we finalize our 2023 budget to ensure we are taking measures to run
+the business as efficiently as possible. We are excited to welcome (inaudible) as our next Chief Operating Officer. Jeff, Mark, and I worked
+together for many years at Equity One, and he has a unique skill set covering a range of disciplines, including acquisitions, leasing,
+construction, legal, and development. He's a great leader and values our culture of transparency, community, and growth. We look
+forward to having Jeff meet with the investment community in the new year after he starts, and we will certainly have him with us during
+our Investor Day, we plan to hold this spring.
+On the governance side, we continue to refresh our Board with outstanding talent. I am pleased to welcome [Mary Baglivo] and [Kathy
+Sandstrom] to our Board of Trustees. Mary was previously the CEO of the Americas for Saatchi and Saatchi, and Kathy was a Senior
+Managing Director at Heitman, one of the largest real estate investors in the United States, both on the private and public side.
+I will now turn it over to our Chief Financial Officer, Mark Langer. Thanks, Jeff. Good morning. I will discuss drivers of our third-quarter
+results, outline key assumptions within our newly announced guidance for 2022, and we'll close with comments on our balance sheet
+and liquidity.
+First, in terms of our third quarter results, we had a very good quarter with FFO as adjusted of $0.30 per share, achieving same property
+NOI growth of 3.4% compared to the third quarter of last year or 1.5% when including properties and redevelopment. NOI growth this
+quarter benefited from the recovery of amounts deemed uncollectible in prior periods of $2.5 million versus $1.9 million we received in
+the third quarter of last year.
+Turning to the fundamentals. Same-property leased occupancy increased 180 basis points year-over-year, likely one of the highest
+growth rates in the strip sector. As compared to the second quarter, the same property leased occupancy rate is down 20 basis points,
+predominantly due to the anticipated expiration of 145,000 square foot anchor lease at our well-located property in Totea, New Jersey.
+Having anticipated this vacancy, we are already in discussions with multiple users to backfill the space.
+During the quarter, total portfolio shop occupancy increased 40 basis points to 83.7% as we executed deals with quality tenants,
+including Shake Shack, First Watch, Golf Tech and Dunkin', among many others. One side note on our same property occupancy. Given
+the redevelopment taking place at Bruckner Commons, the asset is not currently in the same property pool, but the target lease will
+increase consolidated occupancy by 90 basis points.
+Overall leasing spreads this quarter were negative 1.1%. The negative spread was driven by the renewal of a strong anchor at one of our
+assets where we agreed to accept a lower rent in exchange for control rights and renewal terms we obtained at some of our other
+locations with this tenant. As we have mentioned in the past, our smaller portfolio size makes our spreads more volatile. To this point,
+spreads on new leases we have executed since the end of the third quarter, including the Target lease are slightly above 100%, given
+Target is paying twice what Kmart was paying on comparable space.
+Jeff noted the $28 million of gross rents we expect to realize from leases signed but not yet rent commenced. This is up from $23 million
+we reported last quarter and reflects $7.3 million of new rents from recently executed leases, including Target at Bruckner, while $1.8
+million of rents commenced during the period, resulting in a net increase of $5.5 million. We have updated our disclosure related to the
+timing of the signed but not open pipeline, highlighting that we expect about $600,000 in Q4 of this year with an additional $10.9
+million coming next year. Details can be found on Page 22 of our supplement.
+In terms of our balance sheet and liquidity, we ended the quarter with total cash of $152 million and have no amounts drawn on our
+recently expanded and recast $800 million line of credit, which has a new maturity date of February 2027. We continue to explore all
+options related to refinancing our $300 million Bergen mortgage maturing in April, which is the bulk of our total $329 million of
+maturities coming due in 2023. We are currently evaluating a range of options, including a new mortgage, using our line of credit,
+obtaining a term loan are using a combination of unsecured debt, along with secured financing on other unencumbered assets.
+About 9% of our total debt aggregating $160 million is floating rate of which 6% or $107 million is currently unhedged. We have minimal
+and very manageable maturities in 2024 and 2025, amounting to 144 and $52 million, respectively.
+As Jeff mentioned at the outset, we have issued guidance for 2022 and expect to continue issuing annual guidance in the future. For full
+year 2022, we expect FFO as adjusted to range from $1.17 per share to $1.19 per share. This range considers rents commencing from our
+signed, but not open pipeline, higher interest expense from our variable rate debt and recoveries from amounts uncollectible in prior
+periods. We have outlined our key assumptions related to our FFO guidance in our earnings release.
+We plan to provide guidance for 2023 when we report our full year results in early 2023. However, at this time, I'll note a few items that
+should be considered. Based on our mortgages maturing next year and the unhedged portion of variable rate debt, we expect interest
+expense on in-place debt will increase $10 million to $11 million next year, considering the current SOFR Curve. The ultimate increase will
+largely depend on the financing obtained for Bergen Town Center.
+Looking at our receivables, we expect only minimal collections during 2023 on accounts previously deemed uncollectible as we now
+believe that the bulk of collections we were estimating have been realized, including another $1 million to $2 million, which we are
+expecting in the fourth quarter of this year.
+In terms of at-risk tenants, top of the list for us given their bankruptcy filing is Regal Theaters, where we have 1 location generating
+approximately $2 million in annual gross rent. Regal has not accepted or rejected the site yet, but we are proactively marketing this
+space, given the uncertainty of their business.
+Regarding Bed Bath & Beyond, we learned that 1 location we have with an early 2023 exploration will not be renewed and we are actively
+in the market talking to potential replacements. It is too early to mention new tenant names, but we feel good that we will be able to
+replace the approximate $1 million in gross rent Bed Bath generated at this property.
+In closing, we are grateful for the dedication and execution provided by the UE team again this quarter and we look forward to meeting
+with many investors in 2 weeks at the Nareit Conference in San Francisco.
+I will now turn the call over to the operator for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) The first question we have is from Ronald Kamdem from Morgan Stanley.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Just a couple of quick ones. Just going back to the comments on the 97% to 98% occupancy. I'd just like to dig into that a little bit more.
+What gives you confidence in that, is that the pipeline, is it the activity? And what are you doing maybe differently with the leasing team
+to have conviction to get there?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+I mean, historically we have averaged in that range. So point 1 is we've been there before and have stabilized there before. Point 2 is that
+we do have a million square feet of leases under negotiation right now and that's really what gets you there. And we feel good about
+where we are on executing many of those leases and I should note that the rent spreads on the million square feet under negotiation are
+averaging about 20%.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Great. And then just on the earnings guidance and obviously appreciate sort of providing that. Could you just talk little bit about what the
+assumptions for bad debt is in that same store NOI, how should we think about that?
+ 
+Mark J. Langer
+Urban Edge Properties - Executive VP & CFO
+Yes. Sure, Ron. So as I said in my prepared remarks, the biggest wildcard has been the amounts that we're receiving on prior
+uncollectible estimates and we think there'll be about $1 million or $2 million in that, that will offset kind of the normalized expense level
+that you've seen. So the key assumption that's implied in guidance is that will collect about $1 million to $2 million on past due.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Okay. Got it. And then the last one if I could. So just on the G&A, so the guidance for this year, I see $40.6 million to $41.6 million and you
+talked about just re-looking at the G&A. Can you just provide a little bit more color on that? I know there's been some management
+changes. Just can you just dig into what are you guys thinking, like what are you trying to take out?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+When we provide guidance for 2023, we'll be more specific. But just in terms of the management changes that were made, there's
+probably a couple of million dollars of G&A savings right there.
+ 
+Operator
+(Operator Instructions) The next question we have is from Brian Spahn from Evercore ISI.
+ 
+Brian Spahn
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+Jeff, I was wondering if there's any color you can provide Just on conversations you're having with retailers, what your sense is of how
+they're viewing real estate expansion plans as we head into a potential recession here?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Yes. I mean, our conversations have led us to believe that they're still expanding at a rapid pace. Our goal is to get this million square feet
+of leases that are under negotiation signed. But so far, the tenants have not given us any indication that they are planning to slow down
+their expansion plans. When you look at our pipeline of a million square feet under negotiation, some of the names that are most notable
+would include TJ Maxx, Ross, Sephora, Lidl, Burlington, buybuy -- among others. Not buybuy BABY. So we have Scott Auster, who is our
+Head of Leasing. And Scott, maybe you can comment on it because you're more in the weeds on this than I am.
+ 
+Scott Auster
+Urban Edge Properties - Senior VP & Head of Leasing
+Yes. Thanks, Jeff. The only thing I would add to that is we did have a full leasing team meeting earlier this week on Tuesday. And at the
+top of the meeting, we asked our agents, whether they have lost any particular deal just because of the macroeconomic headwinds? And
+we've only lost 1 and that was a restaurant deal where the operator lost their capital partner because they were getting a little bit worried
+about the economy. And that's across a pretty expansive and robust pipeline that we have in place right now. So that suggests really that
+the retailers haven't pulled back at all and that the demand is still there. And I'd say also the demand is across all different category and
+classification. It's anchors, it shops, it's mom-and-pops, it's franchisees, it's national tenants. So from my vantage point, there's no
+discernible soft spot in the leasing environment right now.
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Look, the consumer remains very strong today. And as long as the consumer is strong, I think retailers will continue to expand. I heard
+this great quote from a banker last week that I'll mention here. And he said, "Americans are watching the economic forecast for a
+thunderstorm, but seeing it's still sunny outside, they are headed out to surf the waves anyway." And that's the state of the consumer
+today. And let me be clear, I mean, we, as a company, are not surfing. We're preparing for a slowdown. We're prioritizing our balance
+sheet as we recently expanded and renewed our line of credit, and we're placing a high emphasis on getting these leases under
+negotiation executed.
+ 
+Brian Spahn
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+Yes. I guess just on the 1 million square foot pipeline, I think that's consistent with the number from last quarter. I guess what I'm trying
+to understand, are there any changes to the pipeline at the composition? Are deals taking longer to get done? Just anything, any
+noticeable changes in the negotiations there?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Not right now. I mean 80% of the tenants in the pipeline are national and regional operators. So I would say -- I mean, and there are
+some ins and outs. The pipeline does change each quarter. I mean, we moved some of the pipeline as leases are executed into SNO. And
+some of the SNO pipeline gets removed as leases are delivered to tenants, but no material changes, and it's across a variety of retail
+categories.
+ 
+Brian Spahn
+Evercore ISI Institutional Equities, Research Division - Research Analyst
+Got it. Okay. Last one, just on the transaction market. I mean I realize deals are limited, but where do you think bidders are underwriting
+deals today, I guess, from an unlevered IRR perspective?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Yes. I think some are underwriting unlevered returns close to the double digits, call it 9% to 10%, which is implying cap rates are probably
+up 75 to 150 basis points. But to your point, there's such little activity taking place, and I think it's going to take some time for people to
+recognize either that there's a new environment that we're in, which has a higher cost of capital or that cost of capital goes down because
+interest rates change.
+ 
+Operator
+(Operator Instructions) the next question we have is from Paulina Rojas from Green Street.
+ 
+Paulina A. Rojas-Schmidt
+Green Street Advisors, LLC, Research Division - Analyst of Retail
+So blended re-leasing spreads were negative this quarter, and you explained how it was driven by one anchor renewal. And so I get that
+this is very volatile. But taking a little more of a longer perspective, where do you see the mark-to-market of your portfolio? What should
+we expect for average blended releasing spreads in the interim, not just next quarter or necessarily the next -- let's think about maybe
+the next 12 to 24 months?
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Yes. I mean when you blend it all together, I mean, you're probably somewhere in the 5% to 10% range, including option exercises, et
+cetera. But again, I would point to the 1 million square feet of leases under negotiation, which are the ones that are most active at the
+moment, and the re-leasing spread there is 20%.
+ 
+Paulina A. Rojas-Schmidt
+Green Street Advisors, LLC, Research Division - Analyst of Retail
+Okay. And starting physical occupancy, so it only climbed, I think, 10 basis points in the quarter, which given how why wide you're leased
+but not open spread is, was a little surprising to me. I know your portfolio is difficult in the sense that often see change doesn't
+necessarily correlate with base rent increases. But how do you think about the cadence of physical occupancy going forward?
+ 
+Mark J. Langer
+Urban Edge Properties - Executive VP & CFO
+Yes. It's a good question because I'll point out exactly to your question in terms of some of the nuances about our portfolio. We actually --
+as we look going forward, given that Kohl's, Jeff mentioned the opening of Kohl's, we also have a Shoprite at Huntington opening in this
+fourth quarter. So we actually think you're going to see there's 150 basis points increase in physical occupancy from those. But the
+nuance is we have a vacant warehouse that we purchased intentionally vacant to lease that's going to enter the same property pool in
+the fourth quarter. So we're hard at work just about working on executing a lease. But even if that lease gets executed, it will come in
+with no physical occupancy in Q4. So the uplift you'll see Paulina net-net is maybe about 30 to 40 basis points on a physical basis, even
+though there's 150 basis points of a real tailwind coming from the 2 anchors.
+ 
+Operator
+(Operator Instructions) At this stage there seem to be no further questions. I would now like to turn the floor back over to Jeff Olson for
+closing comments.
+ 
+Jeffrey S. Olson
+Urban Edge Properties - Chairman & CEO
+Great. Thank you very much. We appreciate your interest in UE and look forward to seeing many of you in San Francisco.
+ 
+Operator
+Ladies and gentlemen, that then concludes today's conference. Thank you for joining us. You may now disconnect your lines.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

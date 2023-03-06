@@ -1,0 +1,441 @@
+CORPORATE PARTICIPANTS
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+ 
+John Stilmar
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+CONFERENCE CALL PARTICIPANTS
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+PRESENTATION
+ 
+Operator
+Good afternoon, and welcome to Ares Commercial Real Estate Corporation's Conference Call to discuss the company's Third Quarter
+2022 financial results. As a reminder, this conference call is being recorded on November 2, 2022. I will now turn the call over to John
+Stilmar from Investor Relations. Please go ahead.
+ 
+John Stilmar
+Good afternoon, and thank you for joining us on today's conference call. I'm joined by our CEO, Bryan Donohoe; Tae-Sik Yoon, our CFO;
+and other members of our team.
+In addition to our press release and the 10-Q that we filed with the SEC, we have posted an earnings presentation under the Investor
+Resources section of our website at www.arescre.com.
+Before we begin, I'll remind everyone that comments made during the course of this conference call and webcast and the accompanying
+documents contain forward-looking statements and are subject to risks and uncertainties. Many of these forward-looking statements can
+be identified by the use of words such as anticipates, believes, expects, intends, will, should, make, and similar such expressions. These
+forward-looking statements are based on management's current expectations of market conditions and management's judgment. These
+statements are not guarantees of future performance, condition or results and involve a number of risks and uncertainties. The
+company's actual results could differ materially from those expressed in the forward-looking statements as a result of a number of
+factors, including those listed in SEC documents.
+Ares Commercial Real Estate Corporation assumes no obligation to update any such forward-looking statements.
+During this conference call, we will likely refer to non-GAAP financial measures. We use these as a measure of operating performance,
+and these measures should not be considered in isolation from or as a substitute for measures prepared in accordance with generally
+accepted accounting principles. These measures may not be comparable to like-titled measures used by other companies.
+Now I'd like to turn the call over to our CEO, Bryan Donohoe.
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Thanks, John, and good afternoon, everybody. This morning, we announced third quarter distributable earnings of $0.39 per share, an
+increase of 5% from the third quarter of last year, which exceeded our quarterly regular and supplemental dividends paid of $0.35 per
+share. The growth in our distributable earnings was driven primarily by the benefits of rising interest rates and some modest prepayment
+fees received. Looking forward, we expect that rising interest rates will continue to have a positive impact on our earnings potential due
+to our floating rate loan portfolio and the hedges we have in place on our liabilities.
+Now let me touch on a few macroeconomic factors influencing our market. The Federal Reserve is continuing to tighten monetary policy
+with an unexpected pace of increases in market rates to combat inflation, which we believe has increased the likelihood of a recession.
+These complex macro crosscurrents are driving volatility across most major asset classes, including commercial real estate. Additionally,
+these factors are impairing capital formation, as both the capital markets and bank lending have meaningfully retrenched, resulting in
+significantly expanded risk premiums.
+We believe these conditions are likely to persist for the foreseeable future, and will be challenges for our industry. Because of all this, the
+sourcing, informational benefits and deep financing relationships that we derive as part of the Ares platform will be even more important
+for us in this type of environment.
+We have been focused on property types such as multifamily, industrial and self-storage that have strong underlying rent growth
+dynamics, which have muted or outpaced the recent growth in market interest rates. This has been particularly true since we exited the
+COVID time period at the end of 2020.
+In terms of deployment during the third quarter, we were highly selective. We closed $50 million of floating rate investments across
+multifamily and self-storage properties, and $28 million of AAA-rated newly issued CRE liquid debt securities. Across both public and
+private market opportunities, we believe that our new investments are in property types and markets with strong underlying demand
+drivers to counteract higher rates and risk premiums, while also possessing more conservative structures and wider spreads.
+By way of example, during the third quarter, we originated a senior whole loan secured by a portfolio of well-located multifamily
+properties in the Sunbelt with a well-regarded repeat sponsor. The all-in spread on the home loan was 80 basis points higher than our
+post-pandemic average spreads for multifamily home loans and with a greater equity subordination and enhanced structural terms,
+further driving the attractiveness of the loan.
+Supported by these attributes and the breadth of Ares' capital markets relationships, we were able to arrange highly efficient senior
+financing with an insurance company on this loan with ACRE retaining a $20.6 million mezzanine investment. We view this mezzanine
+investment as similar in concept to underwriting and holding a first lien loan on our balance sheet and financing a portion of the loan
+with one of our nonrecourse financing sources.
+We also took advantage of what we believe are compelling opportunities in the CMBS markets by purchasing $28 million of newly issued
+AAA-rated CRE securities, backed by a pool of senior floating rate mortgages. We believe these securities are highly attractive
+investments, with weighted average credit spreads of 245 basis points, resulting in unlevered yield today in excess of 6% at current SOFR
+rates, all backed by a diversified pool of underlying commercial real estate properties with LTVs of 30% to 40%.
+Despite the slower market, we had $167 million of repayments during the third quarter. This level of repayments was in line with our 6
+quarter average and included a $30 million hospitality loan, was a risk-rated 4 loan 1 year ago and was repaid at [par] during the third
+quarter.
+For the fourth quarter, we remain selective on new investments and expect to maintain a strong liquidity position.
+Now let me turn the call over to Tae-Sik to walk through our quarterly financial highlights for further details on our portfolio and capital
+position.
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Great. Thank you, Bryan, and good afternoon, everyone. This morning, we reported GAAP net income of $644,000 or $0.01 per share and
+distributable earnings of $21.3 million or $0.39 per share. The primary driver of the difference between our third quarter GAAP EPS and
+distributable EPS is approximately $19.5 million or about $0.36 per share in CECL provision we recorded during the quarter. This
+provision served to increase our overall CECL reserve to $51.9 million or approximately 1.9% of the total commitments of our loan
+portfolio, which I will cover shortly in more detail.
+Overall, our distributable earnings for the third quarter were supported by the positive benefits of rising interest rates and the continued
+contributions from our proactive approach to liability hedging that we put in place in early 2021 when market interest rates were
+materially lower than they are today, and allowed us to lock in 1-month LIBOR at 21 basis points.
+Turning to our portfolio. We ended the quarter with a loan portfolio consisting of 98% senior loans and an outstanding principal balance
+of $2.5 billion across 70 loans. During the third quarter, we collected 99% of our contractual interest due and added 1 new loan to
+nonaccrual status. The 3 loans on nonaccrual status represents about 4% of our overall portfolio as of September 30, 2022.
+In terms of our other credit quality metrics, 90% of our loan portfolio had a risk rating of 3 or better, which declined from 94% last
+quarter and primarily reflects the negative migration of 4 loans during the third quarter. More specifically, the risk ratings on 3 loans,
+each backed by office properties, were downgraded from 3 to 4 due to our outlook on their respective business plans and our
+macroeconomic viewpoint of their respective submarkets.
+In addition, the risk rating of 1 residential loan changed from 4 to 5. Here, we expect the sale of the underlying property in the fourth
+quarter below our carrying value, resulting in a loss of approximately $2.4 million should the transaction be consummated.
+In terms of our overall CECL reserve, we increased our total reserve by $19.5 million as of the third quarter of 2022, and our total CECL
+reserve now stands at $51.9 million or 1.9% of our total loan commitments.
+Turning to our capitalization and liquidity. Our borrowing base remains highly diversified across 8 various financing sources. And
+importantly, none of these financing structures have spread-based mark-to-market provisions. We have received no margin calls on our
+liabilities.
+We are also on a very strong liquidity position with approximately $156 million of available capital as of November 1. This includes cash
+and amounts available for us to draw under various debt facilities. Additionally, we have $130 million of cash in our FL3 securitization
+that can be used to finance new transactions at borrowing spread of (inaudible) a significant discount to today's market. This healthy
+level of available capital should benefit us as we selectively invest in an increasingly attractive spread environment, while maintaining a
+significant level of liquidity due to uncertain market conditions.
+Let me now provide an update on our portfolio positioning and the potential earnings benefits from future increases in short-term
+interest rates. 98% of our portfolio, as measured by outstanding principal balance, is comprised of floating rate loans indexed to either 1
+month LIBOR or SOFR, resulting in our portfolio being positioned to benefit from further increases in the respective indices. None of our
+LIBOR floors, which provided us with significant incremental revenues from the past 2 years, are currently in effect, which means that
+98% of our assets are currently sensitive to further increases in base interest rates.
+In comparison, as we hedge -- as we have hedged a meaningful portion of our floating rate debt through interest rate swaps or borrowed
+on a fixed rate basis in the case of our term loan, about 1/3 of our liabilities are not sensitive to increases in base interest rates. This
+means that ACRE is well positioned to benefit from today's rising rate environment. For example, on a pro forma basis, if LIBOR was 100
+basis points higher than the actual September 30, 2022 levels and all other aspects of our portfolio remain constant as of the same date,
+our annualized distributable earnings as of the third quarter of 2022 would have been higher by approximately $11 million or $0.20 per
+share on a pro forma basis.
+Finally, this morning, we announced a fourth quarter 2022 regular dividend of $0.33 per common share, as well as a continuation of our
+supplemental quarterly dividend of $0.02 per common share.
+So with that, let me turn the call back over to Bryan for some closing remarks.
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Thanks, Tae-Sik. We recognize the challenges that rising interest rates and future economic uncertainty are expected to have on certain
+real estate properties. We believe Ares Commercial Real Estate remains well positioned to navigate the changing economic landscape.
+Our balance sheet continues to be in great shape with moderate leverage, no spread-based mark-to-market sources of financing and a
+strong level of available capital.
+While the competitive landscape remains highly favorable, we are finding opportunities to invest in higher-yielding opportunities with
+better structural terms. We expect to remain highly selective in order to preserve our strong liquidity position during what we expect
+could continue to be a volatile period.
+With that, I'll ask the operator to open the line for questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) The first question we have on the phone lines comes from Steven Delaney of JMP.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+I'm curious on the securities purchases. Do you -- as you look at that market opportunity, are you looking at -- obviously, you mentioned
+CMBS, so you're also looking at CLOs given how those have been -- have blown out and also the floating rate feature there, just curious.
+And maybe just while, and to make the response easy, also, you're buying those at an attractive rate. But are you using a bit of repo
+financing to get yourself to sort of a target low double-digit return?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes, absolutely. Thanks for the question, Steve. I think we actually think there's some compelling structural features within the CLO
+market as well. So between the two, we're somewhat agnostic, and you can certainly see a little bit of both. Thus far, we have not sought
+to lever those. So it's kind of a combination of both yield and liquidity thus far. There are some features in the market that we've been
+hesitant to utilize leverage against effectively mark-to-market securities like this. So that's something we've been somewhat hesitant to
+do with the volatility around us. We're exploring various structures to mitigate some of that, but it's certainly an attractive period of time
+to be up in the stack where spreads have candidly widened more than some of the mezzanine bonds as well.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Okay. Great. And one quick follow-up. I couldn't find the article, but I recall in looking at commercial mortgage alert over the last 4 to 5
+weeks, that there was a mention of sort of a resurgence in Freddie Mac Q-Series, and I believe in one of the articles that referenced ACRE
+specifically. And I'm just curious, I know you like multifamily, is that something you're looking at as a financing alternative to do a
+Q-Series deal with Freddie?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes. I'm not familiar with the article. To date, we have not explored the space. But in times of volatility, that has been somewhat of a safe
+harbor and also an interesting yield play. That clearly tightened over the last 5 or so years to where it was less interesting to us as a broad
+platform, not even specific to ACRE. It's not outside the realm of possibility, but not something we've explored to date.
+ 
+Operator
+Your next question comes from Jade Rahmani of KBW.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Just broadly speaking, in the office space, do you think that it's primarily an issue of liquidity or lack thereof driving these heightened
+CECL reserves that the commercial mortgage REITs are taking as well as, in a few cases, loans at maturity default? Or do you think
+there's a more fundamental reassessment of office going on and that's adding to the valuation multiple decline that we're seeing?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+It's a good question, Jade. I think there's some crosscurrents in the space, clearly, where in certain markets and in certain assets, there's
+just less demand on the rental side. That's counteracted by certain assets where, despite the volatility, you've got high degrees of cash
+flow or longer-term leases that are part of the attractive part of the office sector in times of more normal liquidity and a little bit more
+equilibrium.
+I think that, as I said, I think there's crosscurrents where there's some regulatory and other pressures to reduce office exposure in the
+banking sector. So that's flowing through. And all of that contributes as your question points to towards how CECL treats this.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+The CECL reserve, firstly, I want to confirm nearly all of it was a general reserve, only the $2.4 million was loan-specific. But more broadly
+speaking, did you review every loan and near-term upcoming maturities and the risk of maturity default there and take that into account?
+What are you expecting on the loan maturity side?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Sure, Jade. Thanks for that question. Yes, this is Tae-Sik. So to answer your first question, yes. Of the $19.5 million, we mentioned that
+there was one loan that had the $2.5 million in terms of specific. Again, the change in the $19.5 million, just to clarify, was not all due to
+that $2.5 million, that $2.5 million already -- I'm sorry, $2.4 million already had a $1.5 million general reserve prior quarter. So that
+specific net change was really just the $900,000. But the remainder of the $19.5 million that you mentioned, that is all due to sort of
+changes in the general reserve under CECL.
+And then to answer your second question, clearly, one of the factors that go into the CECL model is the maturity data loan. So when a
+loan is 3 years out versus 3 months out, it does have a different impact on the CECL model. It definitely also has an impact on our outlook
+of what that property will be performing at the time of the maturity. And obviously, the closer you get to maturity, the more specific and
+the more precise, if you want to call it, we can be about it. So to answer your question, yes, the maturity date is definitely taken into
+consideration as part of the overall CECL reserve analysis.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+And on the 4 risk-rated, 4 bucket, $234 million, how many loans is that? And over what period do you expect some kind of resolution?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes. Again, if you look at the 4 rated loans, I believe there are 6 of them. And in terms of when they will be resolved. The good news is
+there is just a few that have sort of near-term maturities. But certainly, all 6 are the focus of various intense asset management led by our
+team. We are in very, very close dialogue with each of the borrowers about the progress of the business plan, restructuring some of the
+loan terms if necessary.
+But again, I think they are all in various stages of completing their business plans. But the good news is there are a couple with some
+near maturities. The others do not have near-term maturities, but they are all being very, very actively pursued in terms of working very
+close to borrowers to make sure that we do everything we can to work with the borrowers to meet their business plans.
+ 
+Operator
+Your next question comes from the line of Rick Shane with JPMorgan.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+I think Jade is honed in on the same issue that I am, which is that when we look at the portfolio, they're obviously in the next 3 months
+some pretty significant maturities. And then when you extend that to 6 months, an even greater percentage of the portfolio is maturing.
+One question, and I apologize, I should know this, but I'm just looking at the slide deck, I can't remember off the top of my head. Is the
+maturity date that you're showing, the original maturity date or the fully extended maturity date?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+The date we're showing is the initial maturity date. Some as we mentioned...
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+So should we assume that for most loans that are shown there with you can calculate pretty easily is a 3-year initial maturity probably do
+have at least 1, if not 2, extensions available?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Yes. I would say our standard loans do have built-in extensions. Generally 1 or 2 -- 1-year extensions. But most often, they are
+accompanied by some level of requirements that are necessary for them to be met, whether it's LTV, debt yield, certainly no existence of
+default, potentially payment of fees, different interest rates. But generally, there are built-in requirements about debt yield or LTVs.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+Got it. And I understood that there is a toll that you can extract for those extensions, and that's frankly just part of the business -- is part
+of the business model, not to dismiss that. When you are looking specifically at those loans within the portfolio, what's noteworthy is
+given the changes in the market and where you've been concentrating in terms of originations, disproportionately the pending maturities
+are in the office space, which I think is, generally speaking, of greater concern right now. Do you believe that these sponsors are in
+position, both financially in terms of the covenants and also from a willingness to extend? Or do you think that there are going to be -- we
+saw recently a deal from a competitor of yours, do you think that, that type of activity is just going to pick up?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+So I think we absolutely deal with each situations differently. I think if you look at our historical practice, we have been very -- working
+again very closely with each borrower to make sure we give them every opportunity to continue to meet their business plans. I'd say most
+often, we have asked for some level of concessions in order to provide an extension of their loans, right? Whether that is some sort of fee,
+whether that's an increase in the interest rate, and probably most often, some material contribution of additional equity capital to show
+their continued sponsorship in the deal.
+But again, our goal is to continue to work with each of our borrowers to give them every opportunity for success. We want them
+committed, both from an effort perspective, as well as capital perspective. At this point, I would say there are situations where, again, it's
+ongoing discussions. I don't think we have situations where we have borrowers ready to throw us the key, if you want to call it that way.
+But certainly, borrowers do behave as an economic animal, and we do understand the situations in which they may be motivated to do
+so. And so again, we evaluate each of these situations very uniquely, individually. It depends on the borrower, it depends on the building,
+it depends on the submarket, it depends on so many different situations that it's hard to give a generic response. But again, I do think we
+do work very closely with each borrower to make sure that we have the best solution for us and for them.
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes. Maybe I'll just add on to that, Tae-Sik, if I could, which is another avenue, I kind of intimated is when we do have higher cash flowing
+assets, right, and if you think about one of the benefits of office product is longer duration leases than you might see, for instance, in the
+apartment complex, that additional cash flow to the extent we're working through a period of illiquidity in the space can be rerouted
+through our cash management structure and pay down the loan or use it or held this additional collateral. So I think Tae-Sik did a good
+job of covering all the different avenues in which we actively manage in the space. And certainly, the macro overlay is a challenge, but
+one we're working through on an asset-by-asset basis.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+Got it. And look, I will make the observation that strategically over the decade that we've followed you, the behavior has always been to
+work with borrowers. I mean, I think there are ends of the continuum in terms of aggressive resolution versus really partnering with
+borrowers. And I'm not opining which I think is better or worse. I think it depends upon the lender. But I think that the long history of your
+company is to really try to work with the sponsors and keep them in the properties.
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+I think that's right. Obviously, at Ares, we have our DNA in credit, and we know certainly have the ability across the spectrum to step into
+those situations in which there is value add that comes from the broader company expertise. But at the end of the day, our charter, if you
+will, is to be a lender to these borrowers, to work with them through some of the cloudier times and get to a better environment and
+really maximize value at the asset level, and that creates kind of some win-win situations, and certainly, some brand loyalty there. But I
+think your take is correct.
+ 
+Richard Barry Shane
+JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+Yes. You don't want to be running a hotel in White Plains ever again?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Not during COVID at least.
+ 
+Operator
+We now have Doug Harter from Credit Suisse. Please go ahead.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+Can you just talk about a little bit more about the decision to allocate capital to AAA CMBS? And kind of except, obviously, a lower risk,
+but lower return and how that compares and how you're thinking about the timing of holding that capital versus deploying it into loans
+at likely higher returns?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes. It was really a balance of the risk spectrum. And clearly, there's been a slowdown in transaction activity throughout the real estate
+space. We're coming off of a record transaction volume year last year. So still enough to do. And we actually are pretty happy with the
+lending environment. We're seeing great opportunities. So it's a fair question.
+We just felt the relative value to be able to print those tickets when we did with the additional upside, as we said on the first question
+about the potential to lever those if given the right structure into a pretty interesting overall yield. But the combination of the unlevered
+yield plus the liquidity, that is inherent in those securities, made it something that was fairly compelling at the time. Again, we don't see
+it as changing the mandate here, right? We are going to be first mortgage lenders to commercial real estate borrowers in the top
+markets, et cetera, that you've heard us talk about previously. But at the time, given the dearth of transactions and a few of the
+crosscurrents we've mentioned, we felt it was pretty compelling.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+Makes sense. And then, Tae-Sik, I think you said that the CLO or one of the CLOs has had $130 million of cash. What is the timeframe for
+reinvestment? Or what is -- how much longer is there on the reinvestment rights for that CLO?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Sure. We mentioned that we have about $130 million of capacity that we could put into the CLO. This is our FL3 securitization. And again,
+one of the benefits of that securitization is we've managed to extend that revolving period for a number of times, again, really taking
+advantage of that, that there's really one participant who holds all of the investment-grade notes in that CLO.
+So we still have a decent amount of time to put in some additional collateral. We're still also hopeful that even when that expires, we'll
+continue to be able to renew it. I think we are, right now, in our third revolving period. And so we do anticipate and hope that we can
+continue to do it. But clearly, we're hopeful that we can put the $130 million to work very soon well within the allotted time period of the
+replacement period.
+ 
+Douglas Michael Harter
+Crédit Suisse AG, Research Division - Director
+And I guess, what limitations would there be for deployment there? Or would we expect that kind of the first $130 million of the loans you
+do would kind of go into that CLO?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Yes. So one of the limitations, of course, is that the owner of the investment-grade notes has the right to approve. We have obviously
+worked with them over the many years to make sure that the collateral we do put that, we put in FL3 is consistent with our thesis and
+their thesis. So we don't certainly anticipate having challenges of identifying the right type of assets that go into it. But Bryan, do you
+want to add?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes. I would just add that I think the reason we set up this partnership a few years back was because I think we are like-minded. And
+when we speak to that investor, which we do clearly regularly. And first of all, I think you cite one of our true priorities is to use that
+liability structure given the in-the-money nature of it. But we have a like-minded viewpoint on the market landscape. And when we think
+about the opportunity set in front of us as commercial real estate lenders, they share the view that, that it is a very compelling time to
+take advantage of the dislocation.
+So, one, it's a priority for us; and two, it's something that we will approach in concert with this partner that we've put in place for a
+number of years.
+ 
+Operator
+(Operator Instructions) We have our next question from Eric Hagen with BTIG.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+How are you finding in your conversations, both with sponsors and in your underwriting, the impact of hedging interest rate risk against
+the backdrop of higher rates and volatility? How would you say the hedging of that risk has filtered into CRE values in the way that you
+guys reserve for credit?
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Yes, it's a good question. It's been a pretty amazing like dynamic. I think you saw in our commentary and some others, the velocity of the
+rate change has been pretty significant. I would say as we converse with borrowers throughout our broad portfolio, it really is being
+handled both, I would say, systematically as well as taking into account the expected further duration of the asset.
+When you take the risk premium associated with rate caps plus the way they're functioning today, which is effectively just prepaying
+interest in certain ways, we're trying to be logical and reasonable about how we do that, while making sure that we protect interest rates
+to the downside to the extent that the pivot we're all hearing about in real time doesn't necessarily come to be. So it's a conversation
+we're having quite often.
+And our view, clearly, as Tae-Sik has mentioned today and in prior quarters, we've generally taken advantage of rates in certain
+environments. Right now, I think it's both defensive and really focusing on the underlying credit of the asset. But Tae-Sik, I don't know if
+you have anything to add there.
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Yes. Bryan, I think those are (inaudible) my thoughts. One of the other challenges, obviously, is a few years ago, it was very inexpensive
+for borrowers to buy interest rate protection. It is something that we have generally required. Sometimes, it was met with a little bit of
+resistance. But I think even those counterparties, those borrowers, obviously look back on it as having done the right thing. I think as
+Bryan mentioned, today, with the rate volatility and the absolute higher rates, it's obviously much more expensive to put in a cap or any
+other types of interest rate protection. And I think borrowers, fortunately, see the value of doing so. So I think there's less resistance to
+doing it, but there is more of a monetary limitation to the cost of putting in interest rate protection.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+Right. That's helpful. In the case where a loan does get extended, does the borrower need to execute a new, call it, at-the-market interest
+rate cap?
+ 
+Tae-Sik Yoon
+Ares Commercial Real Estate Corporation - CFO & Treasurer
+Yes. That's a great question. I mean, that is certainly a very, very live question that we face every day. And again, we do push it very hard.
+That is one of the things that we want to make sure that we and the borrowers are protected against further increases in interest rates.
+And again, I don't think there is a resistance in terms of wanting to do so. But again, it may come down to affordability of what those
+interest rate caps and other protection mechanisms will cost to put in place.
+So it is certainly something that we push very hard for. But again, it's all part of the overall negotiation of what we would seek to have in
+place in order for us to consent to an extension.
+ 
+Operator
+Thank you. We have no further questions, and I'd like to turn the call back over to Bryan Donohoe for any final remarks.
+ 
+Bryan Patrick Donohoe
+Ares Commercial Real Estate Corporation - CEO
+Thank you very much. I just want to express my gratitude to the team for their commitment this quarter and throughout, and certainly
+our thanks to our investors for their continued support. Thank you for the time today.
+ 
+Operator
+Ladies and gentlemen, this concludes our conference call for today. If you missed any part, an archived replay of this conference call will
+be available approximately 1 hour after the call ends through November 30, 2022 to domestic callers by dialing 1 (866) 813-9403 and to
+international callers by dialing +44 (204) 525-0658. For all replays, please reference the conference number 933476. An archived replay
+will also be available on a webcast link located on the homepage of the Investor Resources section of our website.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

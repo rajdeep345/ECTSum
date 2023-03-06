@@ -1,0 +1,490 @@
+CORPORATE PARTICIPANTS
+ 
+Jack Switala
+KKR Real Estate Finance Trust Inc. - Principal, Capital Markets & Head of IR
+ 
+Kendra Decious
+KKR Real Estate Finance Trust Inc. - CFO & Treasurer
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+CONFERENCE CALL PARTICIPANTS
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+ 
+Kaili Wang;Citigroup Inc., Research Division;Senior Research Associate
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+ 
+Steven Louis Debartolo
+Wells Fargo Securities, LLC, Research Division - Associate Analyst
+PRESENTATION
+ 
+Operator
+Good morning, and welcome to the KKR Real Estate Finance Trust Inc. Third Quarter 2022 Financial Results Conference Call. (Operator
+Instructions) Please note this event is being recorded.
+I would now like to turn the conference over to Jack Switala. Please go ahead.
+ 
+Jack Switala
+KKR Real Estate Finance Trust Inc. - Principal, Capital Markets & Head of IR
+Thanks, Operator, and welcome to the KKR Real Estate Finance Trust earnings call for the third quarter of 2022. As the operator
+mentioned, this is Jack Switala. Today, I'm joined on the call by our CEO, Matt Salem; our President and COO, Patrick Mattson; and our
+CFO, Kendra Decious.
+I would like to remind everyone that we will refer to certain non-GAAP financial measures on the call, which are reconciled to GAAP
+figures in our earnings release and in the supplementary presentation, both of which are available on the Investor Relations portion of
+our website. This call will also contain certain forward-looking statements which do not guarantee future events or performance. Please
+refer to our most recently filed 10-Q for cautionary factors related to these statements.
+Before I turn the call over to Matt, I'll provide a brief recap of our results. For the third quarter of 2022, we reported GAAP net income of
+negative $48.4 million, or negative $0.70 per diluted share.
+Distributable earnings this quarter were $34.4 million, or $0.50 per share. The rising interest rate environment served as the primary
+driver behind our strong distributable earnings, supporting a dividend coverage ratio of over 1.1x relative to our $0.43 per share Q3
+dividend.
+Book value per share as of September 30, 2022, was $18.28, a decline of 5.6% quarter-over-quarter. This was driven by an increase in
+our CECL allowance, by $1.16 per share, to $1.66 per share. This increase was primarily driven by higher reserves on watch list loans.
+Finally, in September, we paid a cash dividend of $0.43 per common share with respect to the third quarter. And based on yesterday's
+closing price, the dividend reflects an annualized yield of 10.2%.
+With that, I'd now like to turn the call over to Matt.
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Thank you, Jack. Good morning, everyone, and thank you for joining us today.
+KREF generated another quarter of strong distributable earnings of $0.50 per share, equating to greater than 1.1x dividend coverage
+ratio. Our earnings continue to benefit from rising interest rates, and we expect further increases in base rates to serve as a tailwind for
+KREF's earnings heading into the fourth quarter and 2023.
+To put this in context, we have stated in our supplement that a 100-basis point increase in base rates from 3.04% at quarter-end would
+result in an increase of $0.21 in annualized distributable earnings per share based on our 9/30 portfolio, with all else being equal. The
+forward rate curve is projecting more than 100 basis points of increases, with 55 basis points already realized to date.
+The macro environment has continued to deteriorate, which has caused a corresponding negative impact to commercial real estate
+values. This was further accelerated by the September Federal Reserve meeting. Real estate values are declining in real time as the
+market digests the higher cost of capital, combined with potential slowing demand and a recession.
+KKR's integrated real estate business, which manages over $60 billion of AUM, affords us a robust view of the current operating
+environment. While valuations are changing, fundamentals across most of our portfolio remain strong and are characterized by high
+occupancy and rent growth. Nearly half of our portfolio is secured by multifamily and another 19% is in the high-growth segments of
+industrial and life science. Over 70% of our originations are secured -- of our 2022 originations are secured by either multifamily or
+industrial properties.
+However, 27% of our portfolio is secured by office properties, and this sector has the added risk of uncertainty around long-term tenant
+demand given work-from-home preferences. Over the past quarter, we have witnessed a significant decrease in liquidity in the office
+sector as well as capitulation by owners.
+In response to this, we have materially increased our CECL reserve and added 3 loans to our watch list, for a total of 5 loans. In addition,
+we now have 2 loans which are risk-rated at 5 and have increased our dialogue with those sponsors. We will use our extensive experience
+across our KKR platform to optimize these resolutions.
+I'll conclude my comments by discussing our market positioning. KREF was built for times like this. Our conservative lending strategy is
+concentrated in growth property types and geographies and owned by institutional investors. Our portfolio is financed with best-in-class,
+non-mark-to-market facilities.
+Since the beginning of the year, we have been transitioning to a more defensive posture. To highlight a number of these steps we have
+taken, we raised approximately $345 million of net primary proceeds through common and preferred equity offerings as well as our ATM
+program. We increased our revolver to $610 million and extended its term to 5 years and added nearly $2.5 billion of
+non-mark-to-market financing year-to-date, and we currently stand at 76% of total outstanding secured financings. That leaves us today
+with over $900 million of liquidity, which does not include $370 million of unlevered senior loans on the balance sheet.
+While this market has a favorable lending environment, as we stated on the last call we will continue to operate KREF with lower
+leverage and higher liquidity and anticipate only originating loans to match repayments.
+With that, I'll turn the call over to Patrick.
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+Thank you, Matt. Good morning, everyone. I'll focus today on our efforts on the capital and liquidity front and provide an update around
+our CECL reserve and watch list loans.
+As discussed in the past, creating a diversified liability structure built on non-mark-to-market financing has been a top priority for KREF.
+And I'm pleased to note that since the beginning of Q3 last year we have added over $4 billion of non-mark-to-market financing capacity,
+including 2 CRE CLOs, 5 bespoke facilities, an upsize of our secured Term Loan B and an extension and upsize to our corporate revolver.
+Specifically, in the third quarter, with the help of our partners in KKR Capital Markets, we entered into a new $266 million bespoke nodal
+note financing facility in connection with one of our loan originations, and we completed a second upsize on one of our existing
+matched-term financing facilities from $750 million to $1 billion. Subsequent to quarter-end, we closed a new $125 million
+matched-term nonrecourse facility. And importantly, as of quarter-end, 76% of financing remained fully non-mark-to-market.
+The resilient financing we developed, much of which has been done on a bespoke basis, buffers us during times of capital markets
+volatility.
+In addition to the fully non-mark-to-market features associated with these structures, we've also achieved an attractive cost of capital
+relative to other means of financing that can be sourced today. As the CLO market has cooled over the past 9 months and the spreads in
+the CLO market have widened, our mix of alternative sources of financing away from some of the more public capital market sources
+remains a major differentiator for KREF.
+In terms of capital management strategy, KREF is preserving flexibility in operating at the lower end of our target leverage range given
+the broader market backdrop. Our debt-to-equity ratio was 1.9x, and total leverage ratio was 3.6x as of quarter-end, and we expect to
+maintain total leverage in the mid-3s over the coming quarters.
+Our approach to managing the balance sheet allowed us to start the fourth quarter with a record level of liquidity in excess of $900
+million. Additionally, at quarter-end KREF had $370 million in unencumbered senior loans on the balance sheet.
+Turning to our CECL reserves and watch list. This quarter, we recorded an increase in our CECL reserve of $81 million, to $115 million, or
+156 basis points based on the funded loan portfolio. As a reminder, the change in reserves is unrealized, is noncash. It does not reduce
+distributable earnings in Q3. However, if such amounts are deemed nonrecoverable in the future, we would recognize a loss through our
+cash metric of distributable earnings.
+We have 5 loans on the watch list as of quarter-end, all of which are secured by office properties. And consistent with past quarters, we
+highlight those loans in our earnings supplement.
+2 loans were downgraded to a risk rating of 5 and account for nearly half of the $115 million in total CECL reserves. We have not disclosed
+the individual CECL reserves around the 5 rated loans in order to not disadvantage us as we continue discussions with our sponsors and
+other market participants.
+Some additional details on the 5-rated loans. First, the Philadelphia loan is secured by a 4-building portfolio comprised of approximately
+600,000 square feet of office and includes a 500-space parking garage. Recovery from the COVID-19 pandemic and return to office in
+the Philadelphia market has been relatively slow compared to some other major U.S. cities. Current occupancy at the property is
+approximately 50%, down from the low 60s at closing.
+The loan's initial maturity date is May 2023, but in recent conversations the sponsor has indicated it does not want to continue the
+business plan. The loan remains current, however, and KREF is evaluating alternatives to maximize value, including a potential sale of
+the loan or properties.
+Second, the Minneapolis loan is secured by a 1.1 million-square foot, 2-building Class A property. Our loan supported the refinance,
+remaining CapEx and subsequent lease-up of the property from an occupancy of 62% at closing to an occupancy rate of 88% today. NOI
+from the property generates a current debt yield of over 8%, fully covering the debt service on our loan.
+However, the loan has an upcoming final maturity date in December 2022, and the sponsor has indicated an inability to refinance the
+loan given current market conditions. We're continuing to dialogue with the sponsor and are considering a number of options.
+With regard to the broader portfolio, 89% of our loan portfolio remains risk-rated 3 or better, and we collected 100% of scheduled
+interest payments across the entire portfolio in Q3 and through the first payment period in Q4.
+In summary, KREF finished the quarter with a $7.7 billion total funded portfolio, which has grown by approximately 33% on a
+year-over-year basis.
+We originated 2 senior loans in Q3, for a total of $458 million, and have over $400 million in loans under exclusivity. This quarter and
+subsequent to quarter-end, we sourced and closed 2 new non-mark-to-market and matched-term financing facilities and completed a
+second upsize on one of our existing non-mark-to-market facilities to $1 billion.
+Finally, we repurchased approximately 600,000 shares of common stock at a weighted-average price per share of $17.42 in Q3, for a
+total of over $10 million. Over the last 2 reported quarters and subsequent to quarter-end, we have been opportunistic in utilizing our
+share repurchase program, with year-to-date purchases of 2.1 million shares for a total of $36 million.
+Our record liquidity puts us in a strong position to efficiently manage in this current environment and to further capitalize on the market
+opportunities ahead of us.
+Thank you for joining us today. Now we're happy to take your questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) And the first question will be from Jade Rahmani, with KBW.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+There's definitely indications that credit is turning. Do you agree with that? How do you expect the cycle to play out? And specifically,
+what I'm interested in understanding is, with rates this high and credit spreads extremely wide, many borrowers are going to have
+difficulty refinancing at today's levels. So in my view, modifications become very important, which means capital wherewithal, you noted
+the $900 million of liquidity; working with lenders, I know KREF has a high percentage of non-mark-to-market financing; and assessing
+borrower commitment to the property. o as you approach credit overall in asset management, is that going to be your primary focus? And
+can you also touch on upcoming loan maturities, which I believe you spell out in the slides? Is that all-encompassing about what you
+expect for the remaining part of this year and next year?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Great. Jade, thanks for the questions. It's Matt. I can take it. And then, Patrick, if you want to jump in on the second point around the
+repayment profile?
+First of all, just with the credit dynamics, I think it's a little bit market- and property type-specific. If you look at most of our portfolio, it's
+in growth markets, and obviously, multifamily being the largest component of that, but we have positions within industrial and life
+science as well. And we're still seeing strong growth there, strong rental, strong tenant demand. And so I'm not sure that will be a big
+part of a default cycle, if you will.
+I agree with your point that there could be modification discussions there over time, but we're really not seeing just from a property
+fundamental or a cash flow perspective anything that would lead us to suggest that there was sort of issues in those markets.
+I think office is different. And as we've highlighted certainly within our prepared remarks, the lack of liquidity there and the uncertainty in
+that particular sector is very high. And as it relates to workout strategies, it's going to be very fact-dependent. If there's a sponsor that's
+operating the property well and is willing to invest more capital, then certainly we'd be very open-minded to modifications and
+extensions, because we think that could maximize value. If the opposite is true on either one of those, then obviously we're going to have
+to create our own liquidity for that potential position.
+And so I think we've got a range of options available to us as we kind of go through this credit cycle. But again, it will be very kind of
+fact-dependent on individual property circumstances.
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+Jade, I'll take the second part of that question with regard to the maturities that are coming up. And we have a page in our supplement,
+Page 21, which details the loan maturities.
+And as you asked, what we're reflecting here are the final maturities. So in 2022, you can see that $194 million is the Minneapolis loan,
+which we talked about on the opening remarks. But you can see a lot of the maturities are backdated. A lot of the portfolio has been
+originated over the last couple of years. And so that's reflective on this chart.
+So as we look out into 2023 and 2024, it's relatively light in terms of upcoming final maturities.
+ 
+Operator
+And the next question will be from Stephen Laws, from Raymond James.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+Maybe to follow up on the office stuff, can you talk about how those are financed? Are any in CLOs? Or are they all on credit facilities?
+And assuming the latter, how are your discussions with those counterparties going with regards to credit mark, advance rates, things of
+that nature?
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+Sure. Stephen, it's Patrick. I'll take that question. So these loans are financed across a variety of our facilities. I think, as we've talked
+about repeatedly, we're very focused on a diversified financing structure. So as you might assume, our office loans and our portfolio in
+general is really diversified in where these loans reside.
+On the office sector, in particular, we're financing some of those assets in the CLO, some of our non-mark-to-market facilities. We also
+have some assets that are unencumbered right now. So obviously, a lot of flexibility there.
+In terms of discussions, not a lot to date. I think if you look at the performance, and as we've noted, 100% of the interest payments have
+been collecting. So the loans are paying -- are performing. As we get closer to these maturity dates, both on the extension and final, I
+expect us to have increased conversations. But given the liquidity that we discussed, we feel well positioned to kind of manage through
+those discussions, regardless of what the outcome is.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+And Matt, I want to shift over to a comment because there's a couple of things going on, right, with benefits of higher rates, and
+obviously any repayments on CLOs can be replaced at wider accretive spreads. On the flip side, a lot of concern over portfolio
+performance, going forward.
+When you think about kind of in reference to your statement of a 100-basis point increase would add $0.21 annualized NII, what type of
+portfolio deterioration does it take to offset that? I mean, in an oversimplified way, if those office assets are 11% and you just take out 11%
+of interest income, that's still not $0.21 per share. So I'm kind of curious how you think about those 2 opposing forces as you look out over
+portfolio performance, going forward.
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Stephen, happy to cover that. We think that the portfolio performance should be pretty resilient here as it relates to convexity to
+increasing interest rates. And we have modeled a number of scenarios, especially as it relates to what you're bringing up in terms of
+some of these 5-rated loans, and we still think that the coverage certainly versus the dividend will be quite strong even when factoring in
+the existing watch list assets, of those 5-rated loans.
+So listen, it's a very good market right now to be investing. Agree with your comment on, just the existing portfolio, we're going to have to
+watch that closely. But I think it's mostly going to be concentrated in this office sector. And again, that's one of the smaller pieces of our
+overall portfolio. And a lot of that is located in growth markets, and we still feel pretty good about it despite the overall office market.
+And one thing I'll highlight is we got a repayment on an office loan that we had just recently. So there's still some liquidity out there for
+the right assets in the right markets.
+ 
+Stephen Albert Laws
+Raymond James & Associates, Inc., Research Division - Research Analyst
+And I'll [ask] my final question. You mentioned attractive new investments. And I know, I believe as Patrick mentioned, kind of mid-3s
+leverage, going forward. So that's kind of part of the equation. But how do you balance those attractive returns on new investments
+versus the stock buyback, which you've been pretty active with obviously year-to-date?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+I think it's a fair question. And I think you've seen us do both recently, right, where it's not just one or the other, where we think they're
+both attractive. We think it's the right thing to do from a fiduciary and shareholder perspective to try to buy back shares when they look
+very attractive. And obviously, the other component that we're weighing here is just liquidity, right, overall liquidity in a market like this.
+So that takes precedent and always will take precedent. But to the extent we've got excess liquidity, then that's when we're really
+evaluating the relative value between making a new loan and buying back stock.
+The other component really is through some of the existing financing facilities that we have. As you mentioned, to the extent we have
+open spots, if you will, in the CRE CLOs, those are very attractive opportunities to create accretive returns.
+So it may just be like where do we have liquidity and where can we finance it that's kind of weighing into the decision whether we buy
+back stock or make a loan.
+So hopefully, that answers a little bit of the question. But there's no hard-and-fast rule in terms of IRR. We're looking at the return on
+either and comparing them.
+ 
+Operator
+The next question is from Donald Fandetti, from Wells Fargo.
+ 
+Steven Louis Debartolo
+Wells Fargo Securities, LLC, Research Division - Associate Analyst
+This is Steve on for Don. Can you talk about your expectations for multifamily performance going forward, with rates going up and the
+macro softening? And then secondly, what property types are you still seeing attractive lending opportunities, if any?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Just to start out on the multifamily side, as I mentioned earlier, we're still seeing very strong performance really across the board there in
+terms of high occupancies, good leasing environments and strong rental growth.
+The growth has come off a little bit from the peak. So where we were seeing, call it, double-digit type of growth in year-over-year
+re-leasing spreads -- re-leasing rents, that's really come down to, call it, high single digits in some of these growth markets. So whether
+that's a function of the Fed activity or whether that's a seasonally kind of adjusted issue, it's unclear at this point. But I'd say there's a
+little bit of growth coming out of that market, but still very strong.
+And values are changing there, of course, just like all real estate values are adjusting to the new cost of capital or the new interest rate
+environment. So I'd say the values are, call it, down 10% to 15% in some of these growth markets.
+And in terms of just where we're focused lending, honestly, it hasn't shifted that much over the course of the last few years. I would say,
+certainly, we're much more focused on these growth areas in terms of property types. So you'll continue to see us lend in multifamily,
+industrial and life science, which we think are kind of the strongest from a tenant demand perspective.
+But just given the market environment and the competitive landscape, what we're doing is very much -- it's very much a lender's market
+today. So the loans that we're creating today are lower leveraged, they're higher returns, they have more structure. And you're, at some
+points, lending on less transition as well; you've got higher starting occupancy or cash flow per unit of debt.
+So certainly a good market, but I think you'll continue to see us focus on these growth segments.
+ 
+Operator
+And the next question will come from Steve Delaney, from JMP Securities.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Your $81 million CECL reserve addition in the quarter, can you comment on any part of that that was specific on any of your 5-rated
+loans? Or should we view it all as just general unallocated reserve?
+ 
+Kendra Decious
+KKR Real Estate Finance Trust Inc. - CFO & Treasurer
+Steve, it's Kendra. Thanks so much for the question. Maybe taking a step back for a second to talk about how we create the CECL reserve.
+So we take a very conservative approach, I think as you've seen in the past. The CECL reserve is evaluated and adjusted each quarter and
+considered on a loan-by-loan basis. And individual facts and circumstances are taken into account when considering the future possible
+estimated losses. And most loans are calculated using historical loss rates, third-party model and macro scenarios. Others do take into
+account other factors to estimate possible losses, which are based on what we know currently, and those factors could evolve over time.
+We personally look at the reserve individually, but probably more so holistically in terms of where it sits vis-a-vis the entire portfolio. So
+we really think of it more, as I said, on a holistic basis.
+And Patrick mentioned in his comments earlier with respect to a couple of the 5-rated loans, in particular, we prefer not to disclose more
+on the build currently to protect some of our commercial interests.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+Totally understand not to show your hand, obviously, when you're negotiating with a sponsor or a borrower. That makes sense.
+On Page 3 of the deck, you say that 100% of interest was collected in the third quarter. Does that include 5-rated loans where there's still
+maybe an interest reserve on the loan that has not yet been exhausted?
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+Steve, it's Patrick. I'll take that question. So 100% was collected in the third quarter. We've obviously had the October payments. We've
+collected 100% there. Regardless of whether the loan is risk-rated 3, 4 or 5, in some cases, right, there's interest reserves on all of these
+loans. We have a 5-rated asset that doesn't require an interest rate reserve. It's covering its debt service. Obviously, that was collected.
+We have other 3-risk-rated loans that may have a carry reserve just given where they are in the business plan, and those were sort of
+collected.
+All of the loans have some form of structure to allow us to -- either there's cash flow in place or structure to hold cash to cover any
+interest shortfalls, and those get replenished now and then as we sort of project what future shortfalls are.
+So hopefully, that addressed your question.
+ 
+Steven Cole Delaney
+JMP Securities LLC, Research Division - MD, Director of Mortgage & Real Estate Finance Research & Equity
+Research Analyst
+That does. And lastly, on the new life science focus and the 2 new loans that you made, with that product, obviously, we noted they were
+construction loans. So pretty early in the process. Do you normally find significant pre-leasing commitments in place for the specialized
+properties such as that? Or should we view these as more spec buildings?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+I can jump in on that one. It's Matt. On the construction lending we've done, there's a range. Some are for lease-up. Some, there's an
+actual tenant in place. On these particular 2, these are both lease-up strategies and obviously located in very strong markets and really
+catering to the most institutional and largest companies within the life science segment.
+ 
+Operator
+The next question is from Eric Hagen with BTIG.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+The first one is, can you just discuss how you stress loans during the underwriting process for both NOI growth and a takeout through
+refinance or an asset sale? Like, what are the variables that you're using and thinking about, especially with respect to interest rate risk
+management for the sponsor?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Eric, it's Matt. I can take that. Well, just first of all, our loans obviously have interest rate caps in place. So that's probably the #1 mitigant
+in terms of the existing portfolio to stresses on cash flow or coverage.
+But just in terms of how we're underwriting today, we're really just looking at the current rent environment and the current occupancy
+environment and trying to stabilize at a debt yield that's well north of today's cap rates, because our view is those are gravitating higher
+over time as the equity market kind of adjusts to, again, the new interest rate environment. So our base case really doesn't give credit for
+kind of future rent growth.
+Of course, we're looking at the sponsor's underwriting, and that will typically, certainly in the growth areas of multifamily and industrial,
+those will typically include some type of future rent growth. But we're really just looking at it today.
+And then we put on -- I mean, really, it's market-dependent and property type-dependent, but we're putting on a range of declines in
+both rent and occupancy and of course stressing cap rates as well to try to consider downside scenarios. And you've seen over the course
+of this year certainly the entire market, and we're included in this, really start to decrease leverage pretty materially, just given where we
+think values could go. So it's been, to some extent, a debt-led decline in kind of market leverage availability.
+So hopefully, that gives you just a little bit of context of how we're underwriting things. But certainly, we look at primarily debt yield, but
+we'll also look at coverage in a market like this and make sure we're stabilizing at north of a 1.0x coverage on these adjusted all-in
+coupons.
+ 
+Eric J. Hagen
+BTIG, LLC, Research Division - Research Analyst
+Got it. That's helpful detail. And then at a very high level, if investors have the option, if you will, to concentrate towards assets which are
+nearly stabilized versus construction assets, where do you think they're getting the better relative value? Like, especially when you factor
+in the liquidity and the funding for one versus the other in this environment, like, where do you think shareholders or investors are picking
+up the better value? How do you guys think about that?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Sure. Well, we certainly put a higher premium on construction lending, just given the nature of the future funding, like you're saying. Not
+all our dollars are getting into the ground day one, and obviously there's incremental risk associated with building an asset as opposed to
+in place. And construction overall is a small piece of our portfolio.
+So I'd say, on a whole, like most of what we do, just given the nature of KREF, is going to be predominantly built assets that create a
+mostly funded loan. But when we see opportunities for development on certainly in markets that we like, with really, really strong
+sponsors, and have that financing kind of built in with that, which we have in the case of the 2 loans we had this quarter, those can be
+very attractive opportunities. But again, they come at a premium, and they will always be a small piece of the overall portfolio.
+ 
+Operator
+And the next question is from Kaili Wang, from Citi.
+ 
+Kaili Wang;Citigroup Inc., Research Division;Senior Research Associate
+Most of my questions have been asked and answered. But just in terms of share repurchase, how should we think about the pace of that,
+going forward?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+It's Matt. I can jump in. Thank you for the question. I think what you've seen over our history really is we've been really a market leader in
+terms of buying back shares. You saw it at the outset of COVID, obviously. We highlighted what we've done over the course of this year.
+And as I mentioned, I think Stephen asked the question earlier, we're continuing to evaluate what's the relative value of share buybacks
+versus making a loan. And sometimes, again, making the loan equation is going to factor in where we have financing available and what
+type of returns we're able to generate through that.
+And then finally, again, the biggest piece of this puzzle right now is really liquidity and just making sure that we've got liquidity and
+running at a lower leverage point to, one, just be defensive in a very volatile market environment, but 2, be positioned for opportunities
+that are going to come out of this volatility.
+So we'll continue to weigh these, but hopefully our track record gives you some indication of how we think about share buybacks.
+ 
+Operator
+And the next question is a follow-up from Jade Rahmani, with KBW.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+On the Minneapolis office, last quarter it was risk-rated 2, and now it's risk-weighted 5. What really changed? Was it the interest rate
+shock and the timing of the upcoming maturity? And what does your dialogue with the borrower currently suggest?
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+Jade, it's Patrick. I'll take that question. Yes, timing is a real big factor here. Each of these loans is going to have a different sort of
+approach to them.
+Just for a little bit more context, this was an asset that was under contract in the spring for a good premium relative to our debt. That
+contract fell out over the summer. And now we're at a maturity date in December. And so I think what you're seeing here in terms of the
+risk rating is a reflection of the fact that there's likely going to be a near-term event here, just given that maturity.
+All of the options are on the table, including extending the loan, but they're not free options. And if we -- there aren't free options. And so
+as we get to this maturity date, if we feel like there is a better approach to maximize shareholder value, we're going to explore that path.
+And so we're in dialogue with the sponsor, and expect us to continue to dialogue throughout this process as we think about financing, as
+we think about how do we maximize the return back to KREF.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+You mentioned, Matt, that multifamily values in growth markets you believe are down 10% to 15%. What would you say is the case for
+office? Clearly, big bifurcation in the office space, but maybe if you could generalize. And also for commercial real estate prices overall.
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Well, I think the challenge in office today is nobody knows, right, in that there's just not a lot of liquidity outside of the highest, maybe the
+highest end, very Class A or trophy type of assets. And that's the challenge, right, and that's I think why we're talking about this
+Minneapolis asset, right, where it's just where is there liquidity, at what level.
+So it's hard for me to say exactly where the office market is generally. But listen, if growth markets are down 15%, you can obviously
+guess that office is going to be down significantly more than that, just given the uncertainty there.
+But I think, like you say, the whole real estate markets are adjusting to this new interest rate environment, but I wouldn't want to
+speculate on just, like, what's the overall U.S. real estate value decline. That would be a tough one to figure out.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Okay. Some other questions we've all, I believe, gotten on the space in general. But where does margin call risk stack rank in terms of
+issues you're managing to?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Patrick, I can jump in there if you want. For us, it's not a big factor for us. I mean, the vast majority of our portfolio is financed on a
+non-mark-to-market basis. We have a lot of liquidity. And we certainly haven't seen that any margin calls -- I haven't heard of any, nor
+have we experienced any through this cycle.
+One can imagine that you could see that if the market continues to be volatile. But just given our positioning and how we choose to
+finance our portfolio, it's not a big concern of ours.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+And in terms of the access to capital, clearly some positive initiatives or additions in the quarter, the new asset-specific financing
+facilities. Where do things stand in terms of talking to non-U.S. banks? Are they interested in gaining exposure to dollar-denominated
+U.S.-based assets? And is that an area that could help create accretive financing opportunities?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+Go ahead, Patrick.
+ 
+W. Patrick Mattson
+KKR Real Estate Finance Trust Inc. - COO & President
+I was going to say, there's several different paths I think that we've got in this market. I think one of the areas of growth potentially is in
+that non-U.S. institution. And so if we look at this past year and where we've seen some of the growth in our financing capacity, it's come
+from that. That's not the only area, but we think it is one of the areas that could help support this market.
+ 
+Jade Joseph Rahmani
+Keefe, Bruyette, & Woods, Inc., Research Division - Director
+Matt, did you have anything to add?
+ 
+Matthew A. Salem
+KKR Real Estate Finance Trust Inc. - CEO & Director
+No, I think that's well said.
+ 
+Operator
+Ladies and gentlemen, this concludes our question-and-answer session. I would like to turn the conference back over to Jack Switala for
+any closing remarks.
+ 
+Jack Switala
+KKR Real Estate Finance Trust Inc. - Principal, Capital Markets & Head of IR
+Well, great. Thanks, Operator, and thanks, everyone, for joining us today. Please reach out to me or the team here if you have any
+questions. Take care, everyone.
+ 
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

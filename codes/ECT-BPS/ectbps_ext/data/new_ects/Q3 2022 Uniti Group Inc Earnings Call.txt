@@ -1,0 +1,439 @@
+CORPORATE PARTICIPANTS
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+ 
+Paul Bullington
+Uniti Group Inc. - Senior VP, CFO & Treasurer
+CONFERENCE CALL PARTICIPANTS
+ 
+David William Barden
+BofA Securities, Research Division - MD
+ 
+Frank Garrett Louthan
+Raymond James & Associates, Inc., Research Division - MD of Equity Research
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+ 
+Simon William Flannery
+Morgan Stanley, Research Division - MD
+PRESENTATION
+ 
+Operator
+Welcome to Uniti Group's Third Quarter 2022 Conference Call. My name is Gigi, and I'll be your operator for today. A webcast of this call
+will be available on the company's website www.uniti.com, beginning today and will remain available for 14 days.
+Forward-looking statement disclaimer. The company would like to remind you that today's remarks include forward-looking statements
+and actual results could differ materially from those projected in these statements. The factors that could cause actual results to differ
+are discussed in the company's filings with the SEC.
+The company's remarks this morning will reference slides posted on its website and you are encouraged to refer to those materials
+during this call. Discussions during the call will also include certain financial measures that were not prepared in accordance with
+Generally Accepted Accounting Principles. Reconciliation of these non-GAAP financial measures to the most directly comparable GAAP
+financial measures can be found in the company's current report on Form 8-K dated today.
+I would now like to turn the call over to Uniti Group's Chief Executive Officer, Kenny Gunderman. Please go ahead, Mr. Gunderman.
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Thank you. Good morning, everyone. Starting on Slide 3. Our results for the third quarter were once again strong as the demand for our
+mission-critical fiber infrastructure continues to grow. We achieved our sixth consecutive quarter of elevated new sales bookings, which
+we now consider the new norm. As importantly, we also had another strong quarter of gross install activity with a mean time to deliver of
+less than 100 days.
+Consistent bookings balanced between anchor and lease-up along with installs that can be turned up quickly in our industry-leading
+monthly churn of 0.2% demonstrate that our strategy is sound and that we're executing on it well. To reiterate, our strategy continues to
+focus on buying and building mission-critical fiber infrastructure and then leasing infrastructure to anchor customers in the 5% to 10%
+cash yield range and additional lease-up customers, driving cumulative cash yields above 10%.
+This strategy has resulted in Uniti becoming the second largest independent fiber operator in the country with 134,000 route miles and a
+long runway for profitable growth.
+As Slide 4 demonstrates, Uniti continues to track well on these shared infrastructure economics. We're building new fiber largely for our
+wireless customers and then successfully adding additional tenants with very high margins and minimal CapEx, resulting in a cumulative
+cash flow yield today of 22%, a more than threefold increase from the anchor yield on these projects.
+Slide 5 illustrates that the majority of new bookings continue to be lease-up in nature. And along with our intentional focus of balancing
+wholesale, non-wholesale and anchor lease-up opportunities, has resulted in outsized margin enhancement, AFFO growth and a
+business that remains relatively immune to swings in the economy.
+Turning to Slide 6. High-capacity long-haul routes are needed by all of our customers, including wireless carriers, hyperscalers,
+international carriers, MSOs and large enterprises to connect their disparate markets, data centers and PoPs. Today, dark fiber in North
+America is an approximately $1.5 billion annual market opportunity and is expected to grow about 10% annually over the next several
+years.
+A growing component of our wholesale strategy is wavelength services, which represent a $2 billion annual revenue opportunity today in
+North America and is expected to grow approximately 7% over the next several years. We're selectively lighting more long-haul routes to
+provide wave services and capitalize on growing demand while maintaining the same discipline on anchor and lease-up economics.
+For example, we recently announced 2 new long-haul routes that will offer wavelength services and multiple terabit spectrum services to
+key markets in our Southeast footprint. This is in addition to our previously announced Miami to Tampa route. The anchor cash yields are
+approximately 10% and we have a clear line of sight to a combined cash yield of low to mid-teens once leased up over the next few years.
+Having an own national network is a meaningful competitive advantage for Uniti, especially given that it would take billions of dollars
+and many years to build a new national network. We estimate there are only 5 truly owned national networks and 2 independent fiber
+providers with national networks in the U.S. today, with Uniti being one of them. Thus, our ability to deploy dark fiber and wave services
+present Uniti with a unique growth opportunity with minimal competition.
+The resulting economics of our national wholesale business are very attractive with high margin, passively managed revenue, virtually no
+churn, long-term contracts that routinely have escalators built into them and minimal CapEx requirements.
+Before turning to our enterprise business, I'd like to comment briefly on lit wireless backhaul. Lit backhaul is a terrific way to lease up
+existing network or build new network with attractive yields for wireless carriers. However, the contract lengths are typically shorter than
+that of dark fiber and there's some pricing pressure on returns.
+As such, Uniti has always considered managing return risk as a strategic imperative and we manage that risk by offsetting reterm
+discounts with lease-up on the networks, additional business from the wireless carriers and upselling bandwidth. As an example of this
+focus, today we're announcing that we recently retermed approximately 1,100 lit backhaul sites with one of our major wireless customers
+resulting in a net price increase of approximately 20% as we upgrade these sites to 10 gig, and we're extending the contract term from a
+blended 2.5 years remaining to 8 years remaining.
+We're actively working with another of our major wireless carriers to reterm an additional 1,200 lit backhaul sites. Together these 2
+agreements represent over 60% of our existing lit backhaul portfolio and provide stability and increased visibility for our earnings going
+forward.
+Now turning to Slide 7. Although enterprise sales represent less than 5% of our total revenue today and will likely always represent a
+minority percentage, it remains a critical element of our lease-up strategy. Enterprise new sales bookings and install activity during the
+third quarter were again both very strong. And we expect these trends to continue as we further capture market share in our existing and
+new metro markets. As a result of our consistently strong bookings activity, enterprise recurring revenue was up 16% during the quarter.
+Slide 8 is an example of how we're executing to increase market share in markets with existing fiber and where we're currently offering lit
+services. Birmingham is the largest metro area in Alabama and the 50th largest metropolitan statistical area in the U.S. It's a very
+attractive Tier 2 market which we originally entered in 2017 with a large greenfield build. Today we have an extensive fiber network there
+with almost 27,000 strand miles of dense fiber. And despite our growth over the years, our enterprise market share is still only
+approximately 5%. Homewood is an affluent neighborhood of Birmingham. And for less than $1 million of capital, we can expand our
+already robust network to reach an additional 600 attractive enterprise customers.
+These investments not only expand our market share, but will result in very attractive economics for Uniti, resulting in cumulative cash
+yields of approximately 50% and IRRs of 30%. These type of investments are only available to providers like Uniti with an extensive
+network already in place.
+Equally exciting and as we've mentioned before, we own metro fiber in nearly 300 markets nationwide which represents terrific capital
+and margin-efficient growth potential for enterprise, wireless backhaul and even small cells. We only recently acquired most of these
+markets on our 2020 settlement with Windstream. So we're just beginning to capitalize on the opportunity.
+Given the proven success of our anchor and lease-up strategies and the attractive economics of these enterprise opportunities, with
+payback periods of almost half the initial contract term and cash yields of 50% plus, we continue to actively prioritize these metro
+markets for expansion in both 2023 and beyond.
+In looking at our national wholesale network and our 300 metro markets combined, we estimate that less than 5% of our total 8 million
+strand miles of fiber are actually lit. This virtual blank canvas provides us with a terrific runway for disciplined growth without the burden
+of legacy declining products.
+With that I'll now turn the call over to Paul.
+ 
+Paul Bullington
+Uniti Group Inc. - Senior VP, CFO & Treasurer
+Thank you, Kenny and good morning, everyone. We are once again pleased with how our businesses performed during the quarter, with
+robust booking and install levels driving in-line consolidated revenue and better-than-expected adjusted EBITDA.
+While non-recurring revenue at Uniti Fiber was lower than expected during the quarter, recurring revenue both at Uniti Fiber and Uniti
+Leasing was strong. Uniti remains well positioned to weather current macroeconomic conditions, given our robust level of long-term
+revenues under contract, our declining capital intensity and the work we have done to strengthen our balance sheet and push out our
+debt maturities.
+As a result of the strength of the quarter and our expectations for the fourth quarter, we are increasing the midpoint of our 2022 outlook
+for consolidated revenue and adjusted EBITDA.
+Please turn to Slide 9 and I'll start with comments on our third quarter. We reported consolidated revenues of $283 million, consolidated
+adjusted EBITDA of $225 million, AFFO attributed to common shares of $112 million and AFFO per diluted common share of $0.43. Net
+loss attributable to common shares for the quarter was approximately $156 million or $0.66 per diluted share which includes a $216
+million goodwill impairment charge related to our Uniti Fiber segment that was driven by an increase in the macro interest rate
+environment.
+At Uniti Leasing, we reported segment revenues of $209 million and adjusted EBITDA of $203 million, both of which were up 5% from
+the prior year. Accordingly, Uniti Leasing achieved an adjusted EBITDA margin of 97% for the quarter.
+Turning to Slide 10. Our growth capital investment program continues to provide positive results for Uniti. Over the past 6 years, our
+tenant has invested approximately $1 billion of tenant capital improvements in our network. Uniti continues to invest its own capital in
+long-term value accretive fiber, largely focused on highly valuable last-mile fiber, including fiber in commercial parks and
+fiber-to-the-home.
+Collectively, these investments have resulted in 18,800 route miles of newly constructed fiber and 23% of the legacy copper network
+being overbuilt with fiber. Based on the investments made to date and our expectation that Windstream will utilize most, if not all, of the
+GCI program, we expect that nearly half of the legacy copper network will be overbuilt with fiber by 2030.
+During the third quarter, Uniti Leasing deployed approximately $72 million towards growth capital investment initiatives, with the
+majority of the investments relating to the Windstream GCI program. These GCI investments added 2,250 route miles of fiber to Uniti's
+own network across several different markets.
+As of September 30, Uniti has invested approximately $460 million of capital to date under the GCI program with Windstream, adding
+around 13,500 route miles and 731,000 strand miles of fiber to our network. These investments will be added to the master leases at an
+8% initial yield at the 1-year anniversary of Uniti making such investment. They are subject to a 0.5% annual escalator and result in
+nearly 100% margin.
+The investments we have made to date will ultimately generate approximately $38 million of annualized cash rent and increase the
+overall value of our network. At Uniti Fiber, we turned over almost 300 lit backhaul, dark fiber and small cell sites for our wireless carriers
+across our Southeast footprint during the third quarter. These installs add annualized revenues of approximately $3 million. We currently
+have around 1,200 lit backhaul, dark fiber and small cell sites remaining in our backlog that we expect to deploy over the next few years.
+This wireless backlog represents an incremental $11.5 million of annualized revenues.
+At Uniti Fiber, we reported revenues of $74 million and adjusted EBITDA of $29 million during the third quarter. Revenues were lower
+than expected due to lower non-recurring equipment sales and installs resulting from several factors, including the timing of those sales,
+a modest impact from delivery delays and key employee turnover within our E-Rate Group. However, adjusted EBITDA was slightly
+higher than expected given the low margin nature of the equipment sales combined with lower-than-expected costs.
+Uniti Fiber net success-based CapEx was $26 million in the third quarter. We also incurred $2 million of maintenance CapEx or about 3%
+of revenues.
+Please turn to Slide 11 and I will now cover our updated 2022 guidance. We are revising our guidance primarily for business unit level
+revisions and the impact of transaction-related and other costs incurred to date. Our outlook excludes future acquisitions, capital market
+transactions and future transaction-related and other costs not specifically mentioned herein. Actual results could differ materially from
+these forward-looking statements.
+Our current full year outlook for 2022 includes the following for each segment. Beginning with Uniti Leasing, based on our continued
+strong lease-up success, we now expect revenues and adjusted EBITDA to be $827 million and $805 million respectively at the midpoint,
+representing adjusted EBITDA margins of approximately 97%.
+Revenue and adjusted EBITDA each include $14 million of cash rent associated with the GCI investments and $25 million related to the
+straight-line rent associated with the Windstream master leases and GCI investments. We still expect to deploy $275 million of
+success-based CapEx at the midpoint of our guidance, of which $250 million relates to estimated Windstream GCI investments.
+Turning to Slide 12. We now expect Uniti Fiber to contribute $305 million of revenue at the midpoint, given the factors I mentioned earlier
+that are impacting our non-recurring revenue. However, we are increasing the midpoint of our full year recurring revenue outlook on the
+strong bookings and install activity we continue to see.
+Our full year outlook for adjusted EBITDA remains $121 million with a lower non-recurring revenue offset by higher recurring revenue and
+lower costs. When adjusting for the Everstream transaction that occurred in May of 2021, the year-over-year revenue and adjusted
+EBITDA growth is 5% and 8%, respectively.
+This strong growth demonstrates our continued success in managing our cost structure and improving margins while executing on
+lease-up that leverages our existing dense Southeast fiber footprint.
+As I mentioned last quarter, we expect 2022 to be the peak year for Sprint-related churn. As a reminder, as we turn to 2023, we still
+expect to realize some ETL fees, but most likely $12 million to $13 million less than what we recognized in 2022.
+We also still expect that our core recurring revenue at Uniti Fiber will increase by a mid-single digit percentage rate for full year 2023
+when compared to 2022. Net success-based CapEx for Uniti Fiber this year is expected to be $120 million at the midpoint of our
+guidance, a 12% decrease from levels in 2021.
+Turning to Slide 13. For 2022 we still expect full year AFFO to range between $1.70 and $1.77 per diluted common share with a midpoint
+of $1.74 per diluted share, a 4% increase from 2021. On a consolidated basis, we expect revenues to be $1.1 billion and adjusted EBITDA
+to be $900 million at the midpoint.
+Our guidance contemplates consolidated interest expense for the full year of approximately $390 million. Corporate SG&A, excluding
+amounts allocated to our business segments is expected to be approximately $34 million, including $8 million of stock-based
+compensation expense. We still expect our weighted average diluted common shares outstanding for full year 2022 to be around 267
+million shares. As a reminder, guidance ranges for key components of our outlook are included in the appendix to our presentation.
+Turning now to our capital structure. Given the current macroeconomic and interest rate environment, we will continue to be
+opportunistic in our approach to managing our capital structure over the near term.
+At quarter end, we had approximately $270 million of combined unrestricted cash and cash equivalents and undrawn revolver capacity.
+Our leverage ratio stood at 5.80x based on net debt to last quarter annualized adjusted EBITDA. On November 1, our Board declared a
+dividend of $0.15 per share to stockholders of record on December 16, payable December 30.
+With that, I'll now turn the call back over to Kenny.
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Thanks, Paul. We continue to believe that our core business will likely see little to no noticeable impact from any economic downturn
+given the mission-critical nature of broadband. Further, the vast majority of our revenue is wholesale in nature with long-term contracts.
+Lastly, 95% of our debt is fixed rate, and we have no significant near-term maturities. So as it relates to potential debt refinancing in
+M&A, we have the ability to be patient. Our strategy since 2015 has been to acquire and build mission-critical communications
+infrastructure and then lease that infrastructure to quality anchor customers with a clear path to lease up, resulting in combined cash
+yields of 10% plus.
+While in our early years, our priority was more focused on acquiring rather than building as we established our national fiber platform.
+We're now much more focused on building given the attractive returns we're seeing in the challenging economic and capital markets
+backdrop.
+We believe our strategy is working, and the initial investments both in M&A and Greenfield bills are paying off. We currently have over $7
+billion of revenue under contract with an average remaining term of approximately 8 years. The majority of this revenue is passively
+managed in the form of triple net or dark fiber MLAs. As a result, the operating costs associated with this revenue is very predictable,
+which results in a cash flow-rich business over the mid to long term.
+By 2030, we expect to have generated approximately $1.5 billion of cumulative free cash flow if we maintain our current dividend and
+approximate level of annual capital investment. This trajectory leads to substantial deleveraging, resulting in 2.5x to 3.5x net leverage
+and more than doubling the size of our fiber business.
+Our network is highly underutilized, presenting profitable growth potential for some time. We expect net capital intensity to decline from
+our current level of approximately 35% to 5% to 10% by 2030 and is indicative of accelerating operating leverage in the business and
+many years of high margin and high-yielding lease-up, including dark fiber, lighting unique long-haul routes and expanding deeper into
+our existing 300 metro markets.
+With that said, our cash rich MLAs provide great optionality to pay an increasing dividend and invest even more in our core business in
+lieu of paying down debt. Regardless of our capital allocation policy, our runway for organic growth appears long and fruitful, especially
+given strong industry tailwinds.
+With that operator, we're now ready to take questions.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions) Our first question comes from the line of David Barden from Bank of America.
+ 
+David William Barden
+BofA Securities, Research Division - MD
+Kenny, can you -- you've got a banking background. Can you talk a little bit about where we sit now with the sale-lease back business,
+where every incremental capital dollar you're putting to work kind of generates an 8% return day 1, but your bonds are yielding 9% to
+13%, presumably that's the cheapest part of your capital structure, your equity is going to be more expensive. So your cost of capital is a
+lot higher than the yield that you're generating at the margin in this business. How do we think about resolving that as an investable
+thesis? And then just second on the fiber business itself. Again, the inevitable question is the transformational transaction out there
+that's going to unlock the value that you guys see in this fiber business, is that practically doable in the current market climate, kind of
+with the rates going where they are and the recession coming? How do you convince people that that's still a thing that can be done?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+David, yes, on your first question, I think you're right. I mean, generally in the 5 -- you're right about part of what you said. Generally, in
+our anchor yields, whether it's sale-leasebacks or greenfield bills or any other anchor type agreements are in the 5% to 10% range, as you
+mentioned 8%. So that's kind of at the higher end of that range. That's been our -- part of our -- true north if you will, for many years,
+kind of sticking to that range. But importantly, then through lease-up you're getting well above 10% yields. And the second page in our
+materials consistently is where are we tracking on that? Well, we're tracking at 22% cash yields as a result.
+So yes, there are different projects that are at different stages of maturity along the way. But on an aggregate basis, our core business is
+returning 22% yields, and frankly those are going higher. And I see every day a dashboard of yields that are being generated from our
+CapEx and they're very attractive, you know, 50%-plus yields. So with respect to what could be a temporarily high interest rate
+environment, I agree with you, you know, you're looking at high single digits, low double digits in terms of some of the yields that are out
+there. But we're still hurdling those comfortably with our core business. I don't see that changing.
+With respect to your second question, we're really trying to get away from this quarter-to-quarter play-by-play on M&A. It's just not
+constructive. But look, I do think that in these types -- and I'll put the old banker hat back on. In these types of environments there's 2, 3
+different types of counterparties out there. One is those that just go into bunker mode and one that do nothing, the fetal position if you
+will and there's no criticism of that.
+The other is counterparties who look to take advantage of forced sellers or forced buyers and we call them bottom feeders, people who
+are just looking to be -- take advantage and frankly, we're not engaging with parties like that and frankly, I never have. But thirdly, there
+are parties who are much more savvy, who have a lot of capital -- and make no mistake, despite the market backdrop, there is a lot of
+equity capital and debt capital sitting on the sidelines looking to be put to work, whether that be in public securities or private. And a lot
+of it is out there earmarked for digital infrastructure. And so there's a huge opportunity out there. There are savvy, sophisticated
+counterparties who look at situations like this as an opportunity to engage in more creative structures or in more bespoke type
+transactions. And you're seeing some of those deals happen. And we saw a deal a few days ago, one of the large funds that did a large
+transaction and basically spoke for the debt financing themselves as opposed to relying upon the public markets.
+So look, opportunities are out there.
+I think one thing we've proven -- hopefully, we've proven in our history in doing M&A is that we're able to execute on down the fairway
+cash acquisitions and we've also executed on mergers, we've executed on much more creative type transactions and that's never going to
+be -- never not going to be a part of our DNA. But I also think very strongly and our Board thinks very strongly that having the ability to be
+patient in M&A is critical because being a forced buyer or a forced seller almost always results in a subpar outcome. And for us, every day
+we're executing on a business that's generating, we think terrific returns. We think it's a business that is highly valued especially in the
+private market. And with that execution and the platform, we think we're creating value every day and it affords us the ability to be
+patient for what could be value-accretive M&A either in the near term or longer term.
+ 
+Operator
+Our next question comes from the line of Gregory Williams from Cowen.
+ 
+Gregory Bradford Williams
+Cowen and Company, LLC, Research Division - Director
+Just first one you mentioned Kenny, about expansion to eventually the 300 markets you're in. Do you have a sort of cadence on how
+many markets you'd expand per quarter or per year that would be helpful. Second question is just, if you're seeing any labor supply or
+inflation concerns on the business just in the last 2 days, we heard Lumen talk about slowing down on their fiber enablement to their
+homes and the day before that I think Consolidated said their cost per home pass is coming up a little bit. I'm wondering if you're seeing
+that broadly or maybe more particularly in the Windstream fabric of the home space?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Greg, I'll let Paul comment on some of the second part of the question. But on the first part, yes, we're actively looking at all of our metro
+markets and prioritizing. I don't have something we're ready to roll out yet in terms of the cadence. I think probably in February we'll have
+a little more color on that. But the reality is and part of the reason we picked one of our markets, in this case Birmingham and showed
+some of the investment opportunity in that market, that's a terrific market for us. And it's right down the fairway for being a Tier 2
+market, not a lot of competition there. We've been in there since 2017 with an anchor award and we've been chipping away at enterprise
+market share now for 4 or 5 years and we're still only at 5%.
+And we've got these just what I characterize as low-hanging fruit investment opportunities in those existing markets. So we mentioned
+being able to expand into the Homewood neighborhood for less than $1 million. But the reality is that's -- when you really peel back the
+onion, it's spending a couple of hundred thousand dollars to expand the backbone and then the rest of that is just all success-based to
+light up new customers. And the returns on that capital back to the earlier question are just terrific. It's very high yielding returns without
+a lot of incremental OpEx because we already have people on the ground there, we've got salespeople, operations, people, et cetera.
+So all that to say, the near-term opportunities for us on market expansion are building out existing markets as opposed to in the near
+term at least, expanding into brand new markets. We have a robust fiber network in Little Rock, for example, and today we're not offering
+any enterprise services, but we're a wholesale provider here. We're providing wholesale to 3 or 4 additional carriers. And so while we're
+focusing enterprise on more of the Southeastern markets and eventually we'll start to expand that footprint. In the meantime, we're
+getting really nice returns on some of these other metro markets through dark fiber sales or just wholesale in general. And so I think it's
+just a real nice way for our Uniti Fiber and Uniti Leasing businesses to be complementing each other.
+With respect to the supply side, I think that we are feeling some pressure like we've said, generally on the labor side, finding -- in order to
+keep crews fully staffed and even our quota-bearing -- number of quota-bearing reps is down. I mean, we're hitting all of our targets and
+exceeding our targets on bookings. But the reality is our number of enterprise sales reps is down something like 15% or 20% compared to
+our plan. So the silver lining in that is we're still hitting our bookings numbers because our existing reps are more productive, but we're
+still behind plan. And frankly, we'd be doing a lot better if we could keep that fully staffed. But that's just day-to-day blocking and
+tackling.
+I think with respect to pricing pressure or cost increasing, I mean, Paul, you can comment. But we're seeing some of that, but not huge.
+ 
+Paul Bullington
+Uniti Group Inc. - Senior VP, CFO & Treasurer
+Yes. No, I agree with that comment, Kenny. I mean it is obviously a very tight labor supply market out there. But in terms of our -- the
+construction of our network, the labor that we rely on to construct our network, we use primarily a contractor labor force to build that
+network and we really have not seen to date any market increase in the costs we are paying for labor and our construction -- in the
+construction part of our business. And I attribute that to a few things. One, we have a deep bench of contractors that are focused really
+primarily in one region in the Southeast. We have a really steady, consistent supply of work and we have a very robust competitive
+bidding system for those -- for all of those jobs. And I think those factors together have helped to keep those costs stable for us, which
+doesn't mean that we're completely immune from rising labor costs there either. But to date, we really have not seen any material
+increase in the labor piece of the cost of construction.
+ 
+Operator
+Our next question comes from the line of Frank Louthan from Raymond James.
+ 
+Frank Garrett Louthan
+Raymond James & Associates, Inc., Research Division - MD of Equity Research
+So pretty material downtick there in the quota-bearing heads. Where are you losing folks to and do you think you can get that back up
+and maybe expand that? And is there any concern for the outlook for next year with the base going down that much?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Yes, Frank, no concern about next year. I think again the real takeaway from that is a positive one in the sense that we're still hitting our
+numbers because our existing reps are more productive and we just have so much opportunity to monetize the network going back to
+some of the slides in our prepared remarks. With that said, yes, we're very focused on getting that number higher. And look, if you go
+back in our history over the past couple -- 3 years, we've always struggled to keep that number where we want it to be. And part of the
+reason for that is we're very -- our team is very selective on adding new reps. And once we get those reps on board, we're also very
+proactive about churning out reps who are not productive. I think our -- I can't remember exactly, but I think our churn rate is something
+like 20% on reps who aren't productive.
+So we don't -- you know, I don't consider it a problem or a leading indicator of a problem that that number is lower. But at the same time,
+yes, we're constantly looking to add new quality reps. We're always looking for ways to tweak our existing commission plan or
+compensation plan or otherwise in order to do that. But at the same time, we're not going to move away from the discipline and the rigor
+that we apply to holding those reps accountable and productive. And at the end of the day, I think if we wanted to just hit a number for a
+number of reps, we could do that. But that's not what we're going to do.
+ 
+Frank Garrett Louthan
+Raymond James & Associates, Inc., Research Division - MD of Equity Research
+Sure. Okay. And to follow up on a previous question is, do you think Windstream is having any issues in getting trucks or equipment or so
+forth to hit their build plans and any chance they would stretch their build plans out due to increased costs?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+So Frank, we have an opinion on that, but we're going to let them address that. I think they've got an earnings call coming up, so we'll let
+them address that directly.
+ 
+Operator
+Our next question comes from the line of Simon Flannery from Morgan Stanley.
+ 
+Simon William Flannery
+Morgan Stanley, Research Division - MD
+On the fiber business, I think Kenny you did talk about capital intensity coming down over time, but also you've got this nice backlog
+here. So how should we think about near-term capital intensity? You're still over that 40% level this year. Is that going to come down to
+that sort of mid-30s you've talked about over the next year or 2?
+And any update on DISH? I think you sort of said that they hope -- you hope that as the Sprint business came off, that DISH would start to
+kick in in '23. Any updated clarity on what their plans are?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Okay. Simon. Yes, our capital intensity is going to come down. So nothing new or no changes to any forward-looking guidance we've
+given there. I think the reality is -- I mean, part of what we're trying to show in some of our materials is just where our capital is being
+invested and how we're getting the good returns that we're getting. And as I said, the yields that we're getting on the capital is actually
+better than we've been forecasting. So theoretically, we could spend less capital and get the same returns. And so, we're looking for ways
+to spend the capital, always looking for ways to spend the capital more efficiently, get the highest returns, and so that's not going to
+change. But with respect to the trajectory of the capital intensity coming down, that isn't going to change.
+DISH, continue to make great strides with DISH. When we first started talking about DISH and Sprint a couple of years ago, I think we
+said there would be some Sprint churn. I think we said it would probably be in the $5 million to $10 million recurring revenue range that
+we would lose and that we thought that DISH would eventually replace that and more. And in the meantime there would be some pretty
+lumpy ETL fees to sort of smooth that transition. And in hindsight, I think that is playing out as we expected. The Sprint churn is on track
+with high ETLs this year, dropping off a little bit next year and DISH has really been ramping up. And I think we will more than hurdle
+that $5 million to $10 million on this lost Sprint churn with DISH, with the business that we have already turned up or that we have in the
+backlog. And again, I think going forward over the longer term, it's -- we think there's a really attractive opportunity for us.
+ 
+Operator
+Our next question comes from the line of Michael Rollins from Citi.
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+Just a strategic question. As you think of the fiber portfolio and if you think about communications infrastructure more broadly, there are
+business models in this category that it really doesn't matter how big the portfolio is. If the local asset is the right asset, it tends to get
+sales. Yet there's other portfolios like data centers where there's been a nice cross-sell. The larger the portfolio is, it seems like there's
+been this natural benefit for that. How would you describe fiber infrastructure in that? Is it one that benefits from being part of a larger
+portfolio or is it the, you know, if you have the right assets, the right location, you have a great chance of getting the win? And then how
+does that instruct the type of strategic aspirations that you have for Uniti over a multiyear period?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Scale does matter in fiber. I think that especially on the wholesale side, the national network (technical difficulty) when you have a
+national network, you're in a very different class of providers and your ability to have conversations with large carriers, the data center
+providers, the hyperscalers, you're just in a different class because they need national network. And from our vantage point, when you
+look at our national strategic accounts business today versus what it looked like a year or 2 ago, it's changed dramatically to the point
+where it just kind of rolls off the tongue that we're having conversations with the hyperscalers. I won't use any specific names. But we're
+just in a different category with respect to those types of conversations and therefore, the business opportunity that it presents. And so
+our Leasing business is growing at 10%, 15%, 20% a year as a result with very high margins and great returns. And it also, you know,
+having that national network provides you with the ability to have more bespoke-type transactions and conversations.
+And we mentioned the lit backhaul reterm that we just signed, that's 1,100 sites. There aren't very many people that have that many sites
+with each of the carriers. And when you have that many sites and you have the capital available and the brand to deliver 10 gig, that puts
+you again on a different plan. And extending a lit backhaul contract from 2.5 years to 8 years is a big deal and that's why we called it out.
+But you don't get those types of opportunities unless you have real scale.
+With all that said, Michael, if you don't have high-quality dense metro fiber in select markets with minimal competition, good
+demographics, good growth potential, you can't be successful in fiber in our view. And so as a result, we're really focused on the metro
+element of our business. We're -- we like to say we're the local partner with national scale. And so in markets like Birmingham, we've got
+boots on the ground. We know the various permitting authorities, we know the local -- we know all the local businesses, we know the
+terrain, we know what it costs to build, we know where the opportunities are to expand our network and pick up low-hanging fruit.
+And you don't get that unless you're very conscious about which metro markets you go into and you make investments, you stick to the
+5% to 10% anchor yields and you've got a clear path to lease up. And if you pick the right markets, you've got a plethora of customer
+opportunities, including enterprise, schools, traditional wholesale and then, of course, lit backhaul, dark fiber backhaul and small cells.
+And that's really what we're seeing. When you've got the right network and the right market, you can have a great opportunity for both
+anchor and lease-up and a healthy balance of both.
+ 
+Michael Ian Rollins
+Citigroup Inc., Research Division - MD & U.S. Telecoms Analyst
+And just one quick follow-up. What's the algorithm these days for the minimal capital intensity in fiber as a percent of revenue to replace
+churn and to keep that fiber revenue flat to organically growing over time?
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Yes. We haven't disclosed that number I think in some time. I don't know if we ever have actually. But our maintenance CapEx is around
+3% and our capital intensity is from an aggregate basis. I really think -- and our churn is very low. I mean, we talk about it as
+industry-leading, it's certainly right up there with a write-down there in terms of industry leading, so very low, 0.2%. So we'll have to
+refresh on that number, Michael. But I really think it's kind of around -- probably around 10%, plus or minus a little bit, but right around
+10%.
+ 
+Operator
+At this time I would like to turn the conference back to Kenny Gunderman for closing remarks.
+ 
+Kenneth A. Gunderman
+Uniti Group Inc. - President, CEO & Director
+Look forward to updating you further on future calls -- Uniti Group and look forward to updating you further on future calls. Thank you
+for joining today.
+ 
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.

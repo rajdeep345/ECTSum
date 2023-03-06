@@ -1,0 +1,734 @@
+CORPORATE PARTICIPANTS
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+ 
+Steven Roth
+Vornado Realty Trust - Chairman of the Board & CEO
+ 
+Steven J. Borenstein
+Vornado Realty Trust - Senior VP, Corporation Counsel & Secretary
+ 
+Thomas Sanelli
+Vornado Realty Trust - Executive VP of Finance & Chief Administrative Officer
+CONFERENCE CALL PARTICIPANTS
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+ 
+Daniel Ismail
+Green Street Advisors, LLC, Research Division - Senior Analyst of Office
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+PRESENTATION
+ 
+Operator
+Welcome to the Vornado Realty Trust earnings and webcast for the third quarter of 2022. My name is Vanessa, and I will be your
+operator for today. (Operator Instructions)
+I will now turn the call over to Steven Borenstein, Senior Vice President and Corporate Counsel. Steve, you may begin.
+ 
+Steven J. Borenstein
+Vornado Realty Trust - Senior VP, Corporation Counsel & Secretary
+Welcome to Vornado Realty Trust third quarter earnings call. Yesterday afternoon, we issued our third quarter earnings release and filed
+our quarterly report on Form 10-Q with the Securities and Exchange Commission. These documents as well as our supplemental
+financial information packages are available on our website, www.vno.com, under the Investor Relations section. In these documents and
+during today's call, we will discuss certain non-GAAP financial measures. Reconciliations of these measures to the most directly
+comparable GAAP measures are included in our earnings release, Form 10-Q and financial supplement. Please be aware that statements
+made during this call may be deemed forward-looking statements, and actual results may differ materially from these statements due to
+a variety of risks, uncertainties and other factors. Please refer to our filings with the Securities and Exchange Commission, including our
+annual report on Form 10-K for the year ended December 31, 2021, for more information regarding these risks and uncertainties. The call
+may include time-sensitive information that may be accurate only as of today's date. The company does not undertake a duty to update
+any forward-looking statements.
+On the call today from management for our opening comments are Steven Roth, Chairman and Chief Executive Officer; and Michael
+Franco, President and Chief Financial Officer. Our senior team is also present and available for questions.
+I will now turn the call over to Steven Roth.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Thank you, Steve, and good morning, everyone. As Michael will cover in a moment, we had another good quarter with comparable FFO
+up 14% from last year's third quarter. Despite headwinds from a slowing economy and rising interest rates, we still expect this year to be
+up a fair amount from last year. We will feel the effect -- the full effect of higher interest rates on our numbers next year given a full year
+of impact. Overall, this quarter, we leased 450,000 square feet, 229,000 square feet in New York, well below trend. This is a little bit the
+result of the slowing market, and a lot the result of timing.
+As Michael will explain, our New York pipeline is a robust 1.5 million square feet. The Fed is deadly serious in pursuing their fight against
+inflation. The economy is clearly slowing, and capital markets are volatile. As a top priority, we have taken the following actions. Earlier
+this year, we extended our near-term debt maturity, so we now have no debt coming due in 2023, and a very modest $233 million on 3
+assets coming due in 2024. Further, we extended our unsecured revolving lines of credit totaling $2.5 billion with only $575 million
+outstanding through 2026 and 2027, providing significant liquidity for the next 4 to 5 years. In addition, we protected our floating rate
+debt by -- debt exposure by swapping for 5 years, $2 billion of floating rate debt to fixed at a weighted average of LIBOR or SOFR as the
+case may be of 2.9%. Further, we have interest rate caps on an additional $2 billion providing protection above 4.2% on a weighted
+average basis for a weighted average term of 10 months.
+Please see Page 33 of our financial supplement, which describes all this activity line by line. Mark-to-market in the aggregate, these
+swaps and caps are now in the (inaudible) $232 million. So in effect, our only remaining floating rate debt exposure is $750 million which
+is largely JV debt. Be aware that nothing can really protect as long as mature into a higher rate environment. The second area of our
+focus is, of course, the PENN District. The PENN 1 lobby and amenities are now complete. The PENN 2 skin and [Bussell] are now very far
+along as is the Long Island Railroad concourse. We invite all of you to come down and take a look. We'll give us a call, and we will be
+happy to tour you through. Broker and tenant reactions have been truly outstanding. The Hotel PENN is coming down with demolition
+scheduled to be completed in the fourth quarter of 2023. I must say that the headwinds in the current environment are not at all
+conducive to ground-up development.
+Lastly, I want to comment on our dividend. Our policy is to pay out dividends equal to our taxable income. We now expect our taxable
+income to be lower in 2023. We will not have income from 220 Central Park South. We assume no asset sales, and we are budgeting to
+the interest rate yield curve. As such, our Board of Trustees plans to rightsize our dividend in 2023, commensurate with our protection --
+projection of taxable income. Of course, this will allow us to retain more cash. Now over to you, Michael.
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Thank you, Steve, and good morning, everyone. As Steve mentioned, we had another good quarter. While we experienced some
+headwinds from rising interest rates, our core business performed well. Third quarter comparable FFO as adjusted was $0.81 per share
+compared to $0.71 for last year's third quarter, an increase of $0.10 or 14.1%. The increase was driven primarily by rent commencement
+on new office and retail leases, the continued recovery of our variable businesses and an adjustment for prior period real estate tax
+accruals at the mark, partially offset by higher net interest expense from increased rates on our variable rate debt. We provided a
+quarter-over-quarter bridge in our earnings release on Page 3 and in our financial supplement on Page 6.
+Notwithstanding additional interest expense from rising rates on our variable debt will result in lower comparable FFO per share growth
+for 2022 than we anticipate earlier in the year, we do still expect the comparable FFO per share will be up year-over-year. The additional
+interest expense from rising rates will have a greater impact next year as the higher rates impact our variable rate debt cost for a full
+year. We have partially mitigated the impact of this due to the significant amount of hedging we did this quarter, as Steve just covered.
+Company-wide, same-store cash NOI for the third quarter increased by 13.8% over the prior year's third quarter. Excluding the accrual
+adjustments related to the market real estate taxes, the increase would have been still solid 3.4%. Our retail same-store cash NOI was up
+a very strong 7.7%, primarily due to the rent commencement of several important leases. Our overall office business was up 15%
+compared to the prior year's third quarter, also benefited by the Mart adjustment, while our New York Office business was down 1.3%,
+largely due to nonrenewing lower rent tenants at PENN 1 in order to bring higher-paying tenants post redevelopment.
+Now turning to the leasing markets. Amidst the backdrop of economic uncertainty, the New York Class A office market remains resilient.
+Stimulated by the city's tight labor market, our office use job employment is now above pre-pandemic levels at $1.5 million. Leasing
+activity in Manhattan continued its rebound through the third quarter with volume surpassing pre-pandemic averages. Year-to-date,
+market-wide leasing activity stands at 24 million square feet, 50% above where we were at this time last year, including 9.3 million
+square feet this quarter. Deal volume during the quarter was led by 16 headquarters leases signed in excess of 100,000 square feet,
+reinforcing the large tenants are committed to New York and are signing long-term commitments.
+As we enter the fourth quarter, though, caution is the word of the day. There is increasing uncertainty in the world and tenants are acting
+accordingly. As businesses continue to reassess their space requirements, the bifurcation between high-quality and commodity product
+is growing. Tenant preference remains strong for best-in-class, newly developed or redeveloped buildings with modern amenities in
+collaboration spaces and being on top of transportation is critical. Most companies believe the highest quality work experience is key to
+both incentivizing employees to come back to the office and also for attracting new talent. Our portfolio consists largely of these types of
+assets, positioning us well to continue to capture tenant demand.
+During the third quarter, our office leasing team completed 42 transactions comprising 388,000 square feet across New York, Chicago
+and San Francisco. In New York, our average starting rents were very strong $89 per square foot, reflecting the breadth of our
+high-quality portfolio. Our overall leasing pipeline in New York remains strong with approximately 1.5 million square feet of leases in
+advanced negotiation and proposal stages.
+Now turning to Chicago. At theMART, we leased 67,000 square feet in 19 transactions this quarter and a 50-50 mix of office and
+showroom activity. While the market in Chicago remains challenged, we have seen a pickup in proposal during the quarter. As expected,
+our trade show business has rebounded nicely in 2022, though not back to pre-pandemic levels yet, with NOI up $12.2 million through 3
+quarters versus last year. In San Francisco, at 555 California Street, where we're full except for the [cube], we leased 154,000 square feet
+during the quarter, including a large renewal of Morgan Stanley for its 132,000 square feet and a 21,000 square-foot expansion and
+renewal with Centerview Partners. Our starting rents were very strong, once again, generating a 12% positive cash mark-to-market. 555
+California continues to be the premier real estate asset in San Francisco, particularly for financial tenants as evidenced by these leases.
+Retail leasing results were fairly modest for the quarter, with 1 renewal transaction significantly skewing reported GAAP and cash
+mark-to-market. The bulk of the leasing activity incurred in the redeveloped Long Island Railroad Concourse, where you're seeing very
+good activity with strong rents. More broadly, with the rebound in tourism and daily workers, we're continuing to see more retailers
+search for new store locations. However, retailer concerns about inflation in the economy are resulting in them to being more cautious
+about committing to new leases. This will change as the economic environment stabilizes.
+Finally, let me spend a minute on sustainability where we continue to be a leader. Vornado was once again selected as a global and
+regional sector leader, or diversify the office and retail REITs and Global Real Estate Sustainability Benchmark, or GRESB survey, ranking
+#1 in the USA in our group and #3 out of all 112 publicly listed real estate companies in the Americas that responded to GRESB. In
+addition, we once again earned GRESB's 5-star rating, received the Green Star distinction for the tenth time and scored an A for our ESG
+public reporting and for our score. This area is increasingly important to our tenants and other stakeholders as well and is a differentiator
+for our portfolio in the market.
+Turning to the capital markets now. Overall, the heightened market volatility and aggressive rise in interest rates is significantly
+impacting the capital markets, and generally causing most lenders and debt investors to pause. The CMBS market is effectively shut
+right now, and balance sheet lenders are hesitant to lend other than to the best properties and sponsors. We had anticipated the
+financing markets becoming more challenging this year and focus early and deal with our 2022 and 2023 maturities. Importantly, given
+the $3 billion in refinancings we completed this summer at attractive spreads, we have dealt with all of our significant maturities through
+mid-2024, and are largely protected from near-term refinancing risk.
+On the asset sale front, while there continues to be active interest from investors in New York office and retail assets without a stable
+financing market, it is difficult to transact with large assets but not in place debt right now. Notwithstanding the market challenges, we
+executed -- contracted to sell 40 Fulton $102 million and are negotiating sales of a handful of small assets. Finally, our current liquidity
+is a strong $3.3 billion, including $1.4 billion of cash, restricted cash and investments in U.S. treasury bills, and $1.9 billion undrawn
+under our $2.5 billion revolving credit facilities.
+With that, I'll turn it over to the operator for Q&A.
+QUESTIONS AND ANSWERS
+ 
+Operator
+(Operator Instructions)
+We have our first question from Steve Sakwa with Evercore ISI.
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+Michael or Steve or maybe Glenn, can you just maybe provide a little more color on the 1.5 million feet in the pipeline. I'm just curious
+how much of that relates to kind of new requirements for you? And how much of that is maybe early renewals looking into '23 and '24?
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+Steve, it's Glenn. So as we look at the pipeline in terms of the 1.5 million feet, it's cited more toward new tenants and expanding tenants
+versus renewals filling some of the empties we have today and then going forward locking in spaces, we know we have coming due with
+tenants who will be new to the portfolio. It's a really good mix, law from activity, financial service activity some BD activity. But I would
+say it's more sided to new tenants coming in or expanding tenants in the portfolio.
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+And Glenn, maybe just any color just in terms of types of tenants, I assume kind of big tech is on hold, but these private equity law firms,
+investment banks, asset managers.
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+Yes. Certainly, financial service is heavy, less on tech, as you're saying. Private equity is very, very strong, very active. And there's still
+some hedge fund activity also in our portfolio at our financial buildings with [87, 640] bps, et cetera. So certainly, financial is busy and
+law firms are definitely getting busier in the portfolio particularly buildings like 126th Avenue.
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+Great. And then secondly, Steve, in the past, you've commented on your desire to sort of pursue one of the casino licenses downstate. I'm
+just curious if that's still something that you're interested in? And how do you think that process unfolds over the next 12 to 18 months?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+We continue to be interested, very interested. The -- it's a government process. The -- I think they have already announced that they're
+going to put out their first RFP, I think, late in December, early in January. And then from there, we'll see how it goes. We expect it to be a
+very competitive process.
+ 
+Operator
+Our next question is from -- we have our next question from Michael Griffin with Citi.
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+Maybe just going back to the comments on the dividend. Wondering if you can frame maybe how much you're expecting to rightsize the
+dividend sort of heading into 2023. And any additional commentary on that would be helpful.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+We really can't. I mean, it's a board prerogative. And the numbers are still moving around, and it would be totally inappropriate for us to
+guess as to what that dividend might be next year.
+ 
+Michael Anderson Griffin
+Citigroup Inc., Research Division - Senior Associate
+Got it. And then maybe just back on the interest rate swaps. What was the embedded cost in executing those swaps? And then for the
+$800 million term loan, it looks like about $250 million of those swaps are expected to still burn off in 2023. Would the plan be to swap
+that going forward or to leave that as floating?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Michael, in terms of the cost of the swaps, what we laid out for you on Page 33 of the supplement, gives you the all-in swap rate so that
+there's a credit charge that's embedded in there. It depends on the particular trade, I would say, 4 to 5 basis points is typical. Sometimes
+it's a little bit less, but I think if you use that as a working assumption, that's not bad. But again, that's embedded in the numbers that we
+gave you. And on the term loan that you cite, these are all -- well, not all, but I would say largely corporate level swaps. And so we have
+the ability to move those around as different loans roll off or if we sold an asset and we wanted to shift it around, which we did, for
+example, on Long Island City earlier this year. We sold that asset. We moved it to a different asset. So gives us flexibility. There are
+certain asset level swaps. But by and large, they're corporate. And so the term loan, we went ahead and Ford swap, 500 of that
+beginning next year. And then we have the ability to potentially move some around. If not, the answer is we'll look at fixing that balance.
+ 
+Operator
+We have our next question from Camil (inaudible) with Bank of America.
+ 
+Unidentified Analyst
+Busy quarter on the financing front. Just following up on the interest rate swaps. Can you help us understand the thinking behind how
+you decided on reducing your floating rate debt exposure to 27% versus a lower amount more in line with your peers?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Well, I think 27% is not the right number to use. We've got caps in place on the bulk of the rest. So our net exposure to floating rate is
+about 7%. And when you look beyond that, what's exposed, it's basically loans that are coming due at the end of the year, or we have JV
+partners where there was no sort of desire to collectively do any sort of hedging there.
+So again, I think from a net exposure, we've got about 7%. I want to also remind everybody we've got significant cash on our balance
+sheet that's earning higher rates. Some of that's been deployed in treasury bills. Some of that's just earning higher rates with our
+banking relationships. So in that exposure, I think it's even less than 7%. But that, I think, is a little bit more accurate in terms of what the
+exposure is.
+ 
+Unidentified Analyst
+Okay. That's very helpful. And just shifting to retail. We saw quite a drop in leasing spreads this quarter. Can you speak broadly to how
+you think about where pricing is going specifically for New York City retail?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+I think over the last couple of calls, we've communicated -- we think retail has bottomed in the city, and that is our view. You're starting to
+see vacancy decline in many of the key submarkets, which obviously is the forerunner to start to have some pricing rebuilding. I think
+you're actually seeing rents move up a little bit in SOHO already. But this vacancy is beginning to drop in many of the submarkets. Rents
+are not falling anymore, and that will take some time to begin to recover. But overall, we think the market's bottomed. And leases that
+are getting done, retailers are focused on the best locations. They want to be in the highest footfall areas in the best submarkets, and our
+portfolio is situated there. And when leases get done right now, they're going to be reflective of the fact that rents have corrected. It
+depends on the submarket, could be 1/3 could be half from where they were at peak. But in most cases, we don't have exposure on a lot
+of our big assets right now.
+So it just depends on when the leases roll and where the market is at the time. But as I said, I think from a trend line standpoint, there are
+more retailers cruising around the city looking for spaces. They're focused on the best locations and being a little bit of caution right now
+given what's going on in the economy. But net-net, New York is very much still top of the ranking of where they want to be and where
+they want to expand it.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Make no mistake. With respect to retail, we are still in a retail recovering market. So volumes are not yet back to where they were
+pre-pandemic. If you look at the transportation numbers basically coming into the city on the railroads and the subways and the buses is
+2/3 of what it was at pre-pandemic. And although anecdotally, traffic industries looks pretty wholesome. So what I think you need to do
+is to say we're in a recovering market. And our prediction is that the market will be very much more healthy in a couple of years. This is
+not a quarter-to-quarter thing. It's a year-to-year thing.
+ 
+Operator
+Our next question is from Alexander Goldfarb with Piper Sandler.
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Maybe just following up on the retail. The $1.8 billion retail preferred that you guys have in the JV that you did a number of years ago, just
+sort of your thoughts on that, the value of that. Is that still worth par? The cash flow coverage, I think the coupon is 4.25%. And as you
+guys, Steve, think more about balance sheet focused, you've addressed a number of the floating rate exposure. How do you view your
+ability to refinance this $1.8 billion and get the cash out of that position?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Alex, it's Michael. So let me try to get all your questions. In terms of the value of that preferred, we believe it remains fine. It's still worth
+par. -- just to the chase. I know you wrote (inaudible) You think it's worth less than par, we don't think so. It's clearly equity value retail JV
+and our partners think they're significant value still left in that JV. So we think the retail preferred is fun. From a cash flow coverage
+standpoint, again, just to remind you, the cash flow from all the assets, whether they have preferred or not goes to secure the payment of
+that preferred and the coverage of that is -- continues to be very strong. And even as you assume rollover over time and some ups and
+downs and whatnot, the coverage on that -- on our preferred dividend, which today is 4.25%, will rise to 4.75% in April of 2024. That
+coverage is very strong today, and we expect to remain strong.
+Now your last question, the ability to refinance out. I mean, if you go back to what I said in my opening remarks, and I don't think this is
+any secret. The financing markets are not good right now, right, in any product category. So banks are basically shutting it down for the
+rest of the year unless you're a big client and a great property and whatnot. CMBS marketing bond investors really don't want to deploy
+capital. So -- and its' a tough market to financing, if you have to. Unfortunately, we don't. But recall I think it's going to remain
+challenging to refinance in the near term. And so this is not in our capital budget to get this refinanced in the next year or so. And when
+the market opens up, what we want to do -- remember, this can be done piece-by-piece, right? There's (inaudible) asset that have
+preferred on. And if we want to avail ourselves on 1 or 2 or 3, then we'll do that at the time. But to go -- we don't need the cash today to
+go do it and pay exorbitant rates would not be prudent. So hopefully, I hit everything to ask, but that's the current state.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Alex, look at it this way. I mean there's 2 elements to it. One is the yield and the second is the collateral. I think Michael said very clearly
+that we think the collateral is just fine. The coverage of the dividend is, give or take, double what the carry on the preferred is. So we think
+the collateral is fine. Dividend is, clearly, in this very volatile (inaudible) capital market is below what a market price to that preferred
+would be. So on a short-term basis, you might say that if you were a trader and you sold it, you would get less than par because of the
+submarket dividend, but that will change. And so we still think that it's a sound instrument. (inaudible) by the way.
+ 
+Alexander David Goldfarb
+Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+Steve, second question. As you mentioned, dividend, I appreciate the comments on the dividend for VNO for next year. Alexander's is in a
+similar boat. Should we read through that is similar -- that the Board will make a similar determination resizing of the Alexander's
+dividend as well? .
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+No.
+ 
+Operator
+Our next question is from John Kim with BMO Capital Markets.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+You talked about the cautious environment. There was a lot more of an optimistic case in the post this week on New York office, and in
+particular, PENN15. I was wondering if you could provide an update on the project, how much preleasing you would need to move
+forward with the development? And if there's any consideration to change the use of the project to have less office going forward?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+John, thanks for the question. I'm going to duck the question. A couple of things. I did say in my prepared remarks that the current
+environment makes grounds up the development very difficult. And I meant it. So that's number one. Number 2 is in terms of changing
+uses and what have you, that's not something we're going to get into now.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+Okay. Regarding the taxable income next year, I know you talked about rising rates and 220 Central Park South being fully sold. Are
+there any other pressures that you see on taxable income next year? I thought the 220 Central Park South tax protection, so will it really
+be an issue. But any other thoughts on the direction of your other businesses in 2023?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+I mean we've said that we think that our budget shows that taxable lentis going to go down. The primary reasons are higher interest
+rates because we're not 100% protected. We have no income from 220, and we have a soft economy. So if you take all those 3 things,
+again, we are budgeting that -- and we're not budgeting any gains from asset sales. So I mean, I think that's it. We are reluctant to put a
+number on that at the current time. But we will make a decision probably in the first quarter.
+ 
+John P. Kim
+BMO Capital Markets Equity Research - Senior U.S. Real Estate Analyst
+And your dividend, is that 100% of taxable income this year?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+What is the exact number, Tom? .
+ 
+Thomas Sanelli
+Vornado Realty Trust - Executive VP of Finance & Chief Administrative Officer
+Our dividend is $2.12, and we haven't finalized taxable income.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+That's our projection.
+ 
+Thomas Sanelli
+Vornado Realty Trust - Executive VP of Finance & Chief Administrative Officer
+It's around that.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Yes. So we think that the current dividend is within a hair of 100% of our taxable income for the year 2022.
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Which includes (inaudible)
+ 
+Operator
+Our next question is from Daniel Ismail with Green Street.
+ 
+Daniel Ismail
+Green Street Advisors, LLC, Research Division - Senior Analyst of Office
+You mentioned a few times the difficult financing environment and I recognize this is a tough question to answer, given the lack of
+transactions. But I'm just curious where you think New York City office values and cap rates are at these days?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+The answer Daniel is a lot of transaction activity. I think it's difficult to give you a precise answer, right? I think there is -- first of all, I
+would tell you that the investor interest in New York City remains very high. While some see black clouds, others see opportunity and
+others have a fundamental belief in New York. When you look at what's going on around the world, right, in terms of -- you got a global
+investor base, and as they evaluate where they want to invest their capital. Is it HongKong anymore? I don't think so. Is it London? It
+doesn't seem as attractive given the issues they have. And when you come back, the U.S. looks very good. And New York is, I think,
+without question, the global financial capital.
+So you had a lot of interest in New York, a lot of smart money that's frankly scouring the market right now, looking at New York because
+they see value. But in the absence of a financing market, I think it's going to stem activity for a period of time. I don't know if that's 1
+quarter, 2 quarters, who knows? And if you're forced to sell in this market, then you're picking on something larger than you can sell at a
+wider cap rate, right? If somebody needs financing. If they don't, it's an all-cash buyer, then I think it will be a little less compressed. But
+is there a cap rate impact from this? Sure. There's a cap rate impact. Can I give you precision on that? No. Is it 50 basis points with the
+sort of maybe up 10%? So values are impacted 10%. I think it's got a reasonable assumption, probably. But I don't think anybody can say
+with precision, Dan.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+A couple of comments on that. We seen this before many times that the economy is either entering recession or in recession. The debt
+markets and the capital markets are aligning. They are highly illiquid, and they are unbelievably expensive if you must access the debt
+markets. So that's a very big deterrent to asset sales. The second thing is that in these kinds of markets only people that have to sell,
+transact. And so the only weak sellers are transacting because the only buyers that are really controlling the market are distressed
+buyers. So you have to just live through this, and it will end. It will end sooner than you think. But this is not the kind of a transactional
+market or a capital market where you can really make adjustment. This is aberrant that happens 1 year out of every 10, and we are either
+in the 1 year or about to go into the 1 year.
+But one last comment. The stocks of the office companies have corrected to the point where, in my judgment, they have gone
+significantly below given the distressed mark-to-market of the portfolio, significantly below that number.
+ 
+Daniel Ismail
+Green Street Advisors, LLC, Research Division - Senior Analyst of Office
+Got it. I appreciate the thoughts. Just a last one for Glenn. I'm curious where you think concessions are trending these days? Are you
+seeing any stabilization or abating in concessions on the new leases you guys are negotiating?
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+I think concessions have stabilized. They have abated. So TIs are still "too high", but they've stabilized you're certainly seeing more of the
+TIs in terms of getting tenants into the buildings in terms of helping them build out space more than historically, but I think that number
+has stabilized.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+We're seeing sort of a strange market. Rents have really not fallen on the better building. If anything, they're going up. But the TIs and
+the inducements have gone up as well. So the market is taking their pound of flesh in the inducements as opposed to in the rent
+reductions.
+ 
+Operator
+Our next question is from Derek Johnston with Deutsche Bank.
+ 
+Unidentified Analyst
+In your discussions with business leaders, is there a view that the likely recession will be a tipping point for greater office utilization. And
+thus, the balance of power favoring employers versus employees. So I guess, can the slowdown drive greater and perhaps sustainable
+office utilization in your view?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Green Street wrote a piece that came out recently, where basically debunked that idea that recession we get higher unemployment, we
+get -- changes the power from -- to the employer, from the employee and therefore, the employee will (inaudible) back into the office. I
+just have no view on that. I do believe, however, that the office is the workspace as opposed to kitchen table. And I believe that over time,
+the culture will change where people will want to be back in the office. The office will be more productive, the (inaudible) aspect of work
+and being with colleagues in transit that will overpower the temptation to sit at the cafe -- at the kitchen table. But I don't think that it's
+the pain of a recession that's going to change the marketplace.
+ 
+Unidentified Analyst
+Got it. Appreciate it. And just another big picture one. I hope you guys don't think this is unfair. But Steve, you've seen this movie before.
+But as investors really have been sidelined by this hybrid work secular concern. And now we have the likely recession. What is it going to
+take? Like I said, you've seen this before. Or what can you do ultimately to help flip investor sentiment to more positive on office REITs,
+longer term.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+I always believe that the rules of the game were to buy low and sell high. So now what we have is that it's hard to buy assets. They're very
+illiquid and there are virtue assets that are on the market, certainly at distressed prices. But the distress is in the stock market. And so I
+don't know. But I mean, from my personal family and investing. We like to buy in recessions, and that's the time to buy. So what's going
+to -- what's it going to take for you guys to start realizing that these stocks are stupid, stupid cheap. I don't know, but it will happen. And
+my guess is that just as the stock market always turns and gallops ahead way before the end of recessions. I think that the office business
+will do so as well. I don't -- I can't tell you what the catalyst do.
+ 
+Operator
+We have our next question from Anthony Pelon with JPMorgan.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+And just looking at your 2023 lease expirations, it seems like you have a disproportionate amount expiring in retail and office in the first
+quarter. Can you maybe help us peel that back a bit and give us a sense as to whether or not there's any known big move-outs or
+roll-ups, roll downs?
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+It's Glenn. As it relates to the office in '23, it's really a mix of 4 of our properties, 770 Broadway, (inaudible) Car, 1290 and 280. And that's
+for out the year, not only in the first quarter, we're, of course, attacking all of those expirations. We have very, very good action on some
+and others were in the market trying to lease the space. I will tell you when you look at those assets, they're amongst our highest quality
+of buildings and most unique characteristic buildings like a 770 like a 350. So that's where the expirations are coming out in '23.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+Okay. And how about retail in the first quarter? Anything to call out there?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Tony, it's Michael. The answer is we've got 2 or 3 key tenants rolling and I can't tell you definitely what's going to happen there. There's
+discussions where all could renew and there's a schedule we're not to renew. So it's still too fluid I do think net-net, even if most renew,
+the income will be down some, just given the -- where one may likely renew. But I just can't give you more precision given the discussions
+remain pretty fluid right now.
+ 
+Anthony Paolone
+JPMorgan Chase & Co, Research Division - Senior Analyst
+Okay. Got it. And then just one follow-up on the Mart. It seems like the trade shows are back. And I know in some years, you have the tax
+item. Can you maybe just help us think about where you think the annual EBITDA run rate has gotten back to on that asset?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+I think today, it's probably in the mid-70s. But we're also -- we know that the casual business is going to be leaving. And so probably
+bottoms in the low to mid-60s before it comes back. So -- and that number probably in terms of a run rate -- at the beginning of the year,
+the low to mid-60s is probably a decent run rate before we rebuild that back.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+What's the potential for the building is at the top end?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Yes. Like, ultimately, we think the building should get back north of $100 million, right? So I mean our job is to release it. We do think
+there's some additional upside in the trade show. So that number in the next -- let's call it, 36 months, we think it gets back, hopefully
+the north of $100 million.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+So based upon -- so -- right now, it's about $75 million. We expect it to go down into the $60s million before it turns and goes back up to
+as much as $100 million, which will not happen next year, but will happen in the future, potential for the asset. It's a little bit more
+volatile than we would like, but that's the story.
+ 
+Operator
+Our next question is from Nick Yulico with Scotiabank.
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+I just wanted to see, given the recent news from Meta, I just want to confirm that there's no impact you're seeing for your space with them
+at Farley or 770 Broadway.
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+There's no impact on Farley, no impact of 770 as it relates to the recent announcements. There are buildings out of the buildings
+utilization is very strong, and they happen to love both of the properties.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+It's almost embarrassing to say, but we meant a little bit of time looking at their credit because they are a big tenant. And this is 1
+spectacular company from a financial point of view. So when you think about it, they have -- what's a number? $25 million of free cash
+flow a year after spending a similar amount or a greater amount on R&D, which is discretionary. So their cash flow is well above $50
+million a year.
+They have almost no debt. I think they did their first tiny debt issue recently. They have cash balances in the $50s-or-something like that
+millions -- $50s-or-something billions.
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Yes. A little over $40 billion.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Okay. That works. And so from a financial point of view, they are a great company. They have the huge platforms of Facebook, Instagram
+and WhatsApp. And so now they're off on a mission. You have to back the guy because look what he's done in the past. So the answer is
+they are trying to develop a new universe. I believe it will be extraordinarily successful. Even if it's not successful, it certainly will not
+impair the sanctity of that unbelievable for this. So we're friends where vendors to then and we're happy and honored to be so.
+ 
+Nicholas Philip Yulico
+Scotiabank Global Banking and Markets, Research Division - Analyst
+Appreciate that, Steve. Just one other question is on the retail JV. So when I look at the NOI in the supplement, it feels like -- I mean, I
+think I'm looking at this correctly, but that the NOI is actually very similar to when you struck the deal in 2019, actually, it might be up a
+bit. I just want to confirm that. And then also see, I know you did impair the investment back in 2020. But when the original deal was
+struck, it was at a 4.5% cap rate, presumably cap rates are higher today based on everything going on in the world. So just trying to
+understand the dynamic of when you had to do the annual test on the value of the JV, if we should think that there is any impairment
+possibility from that?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Nick, so in terms of the income on the portfolio now versus when we struck the deal, I don't have the exact numbers in front of me. My
+recollection from just knowing the ins and outs is it down probably a little bit because of -- as you may recall, Forever 21 went bankrupt,
+and so they're still in the space, but that number is down from when the original deal was struck. And we had 1 vacancy on [Fifth] since
+then. So like the signage is frankly booming right now higher than we struck the deal. But I think net-net, it's probably down a touch.
+But you correctly point out, the income has been very durable. And -- but some of the leases roll, there'll be some impact. So -- and I
+think in terms of the impairment, you're correct. In 2020, we did impair it. Again, I'm going from memory, Nick. I think we -- the fair
+value, the original deals struck at $5.4 million, and we impaired it south of $5 billion. I don't want to give you the number without having
+it in front of me. But the answer is, look, we look at it every quarter. There's an independent third-party appraisal that has performed on
+behalf of the venture, which we frankly have -- we don't provide the assumption. They do their independent work, and we take that. And
+that's sort of what drives that. So they'll do their work at the end of the year, and we'll act. So I can't predict whether it will or won't be.
+I think the market is certainly -- given your comments, given it's (inaudible) comments on the market and how it's priced in our stock is
+certainly impaired significantly. But I can't tell you whether there will be any further accounting impairments, yet.
+ 
+Operator
+We have our next question from Ronald Kamdem with Morgan Stanley.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+A couple of quick ones for me. Just going back to the leasing activity, you talked about maybe the slowing economy and so forth. Just was
+hoping you could provide a little bit more color from the tenant side sort of is it the economy? Is it sort of hybrid and also by subsectors
+would be helpful.
+ 
+Glen J. Weiss
+Vornado Realty Trust - Executive VP of Office Leasing & Co-Head of Real Estate
+I certainly think CEOs are more hesitant due to the economy for sure. We're seeing that in our discussions. And I think by sector, certainly,
+the big techs (inaudible) load. I will tell you there is some more small to medium-sized tech activity. There were a couple of leases signed
+in the market this quarter by a couple of those. But generally, I would tell you, more caution, more hesitancy due to the economy, not so
+much by the hybrid, specifically.
+ 
+Ronald Kamdem
+Morgan Stanley, Research Division - Equity Analyst
+Great. And then my second question was just going back to the dividend. And I know you sort of talked about it's the Board decision
+they're discussing. Just trying to understand what the pieces that are going into that. Is it still sort of -- is it $200 million plus or minus of
+CapEx, operating cash flow and then you're thinking about just how to solve for that to get to a sustainable basis? I'm just trying to get a
+sense of what should we be looking at thinking about for the right place for the dividend to land?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+I don't have anything more to say on the dividend other than what I've already said. We will get to that at the first quarter Board meeting.
+I think everybody can do their own math and guesstimate, but I'm not the guesstimating business. I can tell you one little factor and that
+is the spot trades between the 9% and 10% dividend rate. So that indicates that this something is wrong. But I think I'll stand with what
+I've already said.
+ 
+Operator
+Our next question is from Vikram Malhotra with Mizuho.
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+I guess just maybe a bigger picture first, Steve. I'm just -- I want to get your thoughts on what are you contemplating sort of macro-wise,
+rates-wise, and then more at a micro level, with fundamentals. It just feels like things seem to have been inflecting according to the last
+few calls, return to work was improving, leasing is improving. But you've now swapped a lot of debt for 5 years at a rate you're
+contemplating cutting the dividend. And so I'm just trying to balance all of this like near term, you said it's a 1-year issue, but it sounds
+like in your actions, it's more like a 3- to 4-year issue than a 1-year issue. And this can you help us bridge what are you forecasting
+macro-wise and micro wise to effectuate this dividend in the 5-year swaps?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Boy oh boy, so let's see. -- obviously, the economy has been hyped to that it's probably very destructive. So for whatever different
+reasons, and this is -- I don't want to get into politics, but for other different reasons, we have runaway inflation. And as I said, I think that
+is deadly earnest about doing their job and stopping it. So their #1 tool, of course, is interest rates. The interest rates have had an
+enormous effect already in a very rapid manner. I mean, as illustrated by the stock market, the whole market, et cetera. So the fed is
+going to win this battle. In the end, it's just a matter of how long it takes. We aggressively went to protect our floating rate exposure for
+multiple different reasons, the most important one of which was protect against a runaway interest rate environment. So we think we
+sort of had that covered. The most efficient execution for the swaps was 5 years. And so we did -- we basically did that. There is -- do not
+read anything into our firm view on the future based upon this 5-year number.
+I would tell you that I expect -- if you look at the graph and look at the chart of past recessions and past activity, they generally go up at a
+pretty steep curve and then they come down fairly quickly because they have -- they put the economy into recession, and then they
+aggressively have to bail it out. So that's what we expect is going to happen this time, but we won't -- we don't bet our life on anything.
+So we think we've protected our balance sheet. We think to overpay our dividend is not appropriate. And so we think we've taken the
+proper financial actions to protect the fact that the fiscal sanctity of the company. We believe that this is going to be a 1- to 2-year up a
+bit, not a 3- to 5-year event.
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+And so that 1 to 2 year is more your comment on the fundamentals in office as opposed to the macro that you just outlaid, I'm assuming.
+Just following up on that. I know the numbers are moving around so I'm not asking that...
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+No. No, no. Hang on, Vikram. The 1 to 2 years is a macro prediction.
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+Okay. And how do you square where fundamentals will be office fundamentals in that time frame?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Well, first of all, we are New York-based. We believe in New York, we believe -- and anecdotally, we've had lots of conversations with lots
+of employers and -- from all over the world. New York is still New York. It's still the capital of the United States. And we believe
+companies want to be here, for sure, young people want to be here. Just anecdotally, I'll tell you that a lot of my friends have moved out
+to Florida. But when you ask them, where their children are, all the children are in New York, and they want to be in New York because
+that's extremely (inaudible). So we think that this will be a fairly predictable cycle where different industries will grow at different rates,
+but there is -- there will continue to be an aggressive interest to locating in New York and growing in New York.
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+Okay. And then just 2 quick...
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+We are absolutely strongly convicted about what we're doing in the PENN District. We think that, that is going to be another center of
+New York, and an extraordinary success. So we're very, very, very excited about that.
+ 
+Vikram L. Malhotra
+Mizuho Securities USA LLC, Research Division - MD
+Okay. That -- I was going to ask you one thing related to that. But just before that, I know the numbers are moving out. So I'm not asking
+where numbers or the dividend cut is going to be. But -- is it fair to assume if we look at like a historical AFFO payout ratio, whatever the
+AFFO may be, should we assume a payout in line with historical levels as we think to model next year?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+If you can model taxable income, that's what the dividend is going to be approximately. And if you could model that to the penny, you're
+a better man than we are. So we've got another full quarter to go. And so we're in the budgeting process. We're nowhere there over. And
+we will make that decision in the first quarter.
+ 
+Operator
+We have a follow-up question from Steve Sakwa with Evercore ISI.
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+Steve, you mentioned about the valuation, and I'm sure on a lot of numbers, you trade at very low price per square foot, very high implied
+cap rate. Historically, we've seen private equity come in and close gaps in sectors where there's big, big discounts that persist. But I
+guess, given where the financing markets are today, that doesn't seem likely. So are there steps that you can take? Or are there steps
+you're contemplating to try and close that gap? Or is this just a time where you've got to be patient and kind of wait for the financing
+markets to improve?
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+I almost want to duck that question, too. Let me see if I can parse into it. The leverage buyout model, which has equity and debt may or
+may not work in this environment. The value of our company is there, and that's its extraordinary value. How it all plays out is something
+that the -- I can't predict right now.
+ 
+Stephen Thomas Sakwa
+Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+Well, I guess you've talked in the past about maybe the separation of the PENN District assets into a spinout, which I know was on hold.
+You said you would only do buybacks in a meaningful way, but you probably need to sell assets to be able to buy back stock, which seems
+difficult. So it just seems like your hands are tied. I'm just wondering, are we missing anything here that you could do to help close the
+gap.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+The spinout is still on the table, and the protection of our balance sheet is the #1 priority.
+ 
+Operator
+We have no further questions in queue.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Well, thank you all very much. We appreciate you joining us, and the next call is when?
+ 
+Michael J. Franco
+Vornado Realty Trust - President & CFO
+Valentine's Day. Tuesday, February 14.
+ 
+Steven Roth
+Alexander's, Inc. - Chairman of the Board & CEO
+Your next call, the lovable Michael says is Valentine's Day. So I guess we'll see you in red on Valentine's day. Have a great rest of the year,
+and thank you all very much. And by the way, do take up my invitation to come down the PENN. It's extraordinary. And those of you who
+haven't toured through or seen it yet, please take advantage of our invitation is since here. We'd like to get you all down there and show
+you what we're doing. Thanks very much. Thanks for joining.
+ 
+Operator
+Ladies and gentlemen, this concludes today's conference. Thank you for your participation. You may now disconnect.
+DISCLAIMER
+Refinitiv reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes.
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks,
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized.
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS REFINITIV'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY BE
+MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME
+ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE ADVISED TO
+REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+©2022 Refinitiv. All Rights Reserved.
