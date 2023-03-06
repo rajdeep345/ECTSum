@@ -417,7 +417,7 @@ def predict(examples):
 			_hyp = [doc[index] for index in topk_indices]
 			if not os.path.isdir(args.hyp):
 				os.makedirs(args.hyp)
-			with open(os.path.join(args.hyp, args.filename + '_ext_summary.txt'), 'w') as f:
+			with open(os.path.join(args.hyp, args.filename.split('/')[-1].split('.txt')[0].strip() + '_ext_summary.txt'), 'w') as f:
 				f.write('\n'.join(_hyp))
 			start = stop
 			# file_id = file_id + 1

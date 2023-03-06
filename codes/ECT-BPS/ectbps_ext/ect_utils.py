@@ -167,7 +167,7 @@ def get_DocLines(fname):
 	# print(probable_comp_names)
 
 	all_sent = []
-	f_in = open(fname, 'r')
+	f_in = open(fname, 'r', encoding="utf-8")
 	all_sent = f_in.readlines()
 	for idx, line in enumerate(all_sent):
 		if line.startswith('Operator'):
