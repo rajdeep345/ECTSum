@@ -1,0 +1,4479 @@
+Summary Evaluation
+
+AAN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.338	R: 60.606	F1: 58.394
+	rouge-2:	P: 35.714	R: 38.462	F1: 37.037
+	rouge-l:	P: 61.992	R: 65.881	F1: 63.878
+
+
+
+AAN_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 56.667	F1: 53.125
+	rouge-2:	P: 42.424	R: 48.276	F1: 45.161
+	rouge-l:	P: 56.123	R: 62.293	F1: 59.047
+
+
+
+AAP_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.222	R: 43.590	F1: 45.333
+	rouge-2:	P: 23.944	R: 22.078	F1: 22.973
+	rouge-l:	P: 50.876	R: 47.593	F1: 49.180
+
+
+
+AAT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.571	R: 78.571	F1: 78.571
+	rouge-2:	P: 76.923	R: 76.923	F1: 76.923
+	rouge-l:	P: 81.794	R: 81.794	F1: 81.794
+
+
+
+AAT_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 75.000	F1: 50.000
+	rouge-2:	P: 26.087	R: 54.545	F1: 35.294
+	rouge-l:	P: 44.160	R: 78.684	F1: 56.570
+
+
+
+AA_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.913	R: 27.607	F1: 35.294
+	rouge-2:	P: 18.681	R: 10.494	F1: 13.439
+	rouge-l:	P: 52.026	R: 32.301	F1: 39.857
+
+
+
+ABM_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.667	R: 65.152	F1: 68.254
+	rouge-2:	P: 59.322	R: 53.846	F1: 56.452
+	rouge-l:	P: 75.758	R: 69.974	F1: 72.751
+
+
+
+ACC_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 46.154	F1: 41.379
+	rouge-2:	P: 33.333	R: 41.667	F1: 37.037
+	rouge-l:	P: 44.160	R: 52.502	F1: 47.971
+
+
+
+ADC_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 77.273	R: 47.222	F1: 58.621
+	rouge-2:	P: 57.143	R: 34.286	F1: 42.857
+	rouge-l:	P: 80.666	R: 53.513	F1: 64.342
+
+
+
+ADM_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.783	R: 40.860	F1: 43.182
+	rouge-2:	P: 15.854	R: 14.130	F1: 14.943
+	rouge-l:	P: 48.696	R: 44.292	F1: 46.389
+
+
+
+AEL_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.379	R: 23.529	F1: 30.000
+	rouge-2:	P: 35.714	R: 20.000	F1: 25.641
+	rouge-l:	P: 47.935	R: 29.946	F1: 36.863
+
+
+
+AFL_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.581	R: 15.068	F1: 18.966
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 29.656	R: 19.079	F1: 23.220
+
+
+
+AIR_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.842	R: 48.276	F1: 41.791
+	rouge-2:	P: 21.622	R: 28.571	F1: 24.615
+	rouge-l:	P: 43.513	R: 54.506	F1: 48.393
+
+
+
+AIT_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 35.000	F1: 34.146
+	rouge-2:	P: 15.385	R: 16.162	F1: 15.764
+	rouge-l:	P: 38.116	R: 39.697	F1: 38.890
+
+
+
+AJG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 16.667	R: 8.333	F1: 11.111
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 22.467	R: 12.609	F1: 16.153
+
+
+
+ALB_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 50.000	F1: 50.000
+	rouge-2:	P: 36.842	R: 36.842	F1: 36.842
+	rouge-l:	P: 56.123	R: 56.123	F1: 56.123
+
+
+
+ALB_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.667	R: 42.373	F1: 42.017
+	rouge-2:	P: 25.424	R: 25.862	F1: 25.641
+	rouge-l:	P: 48.212	R: 48.892	F1: 48.550
+
+
+
+ALE_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 21.429	F1: 30.000
+	rouge-2:	P: 20.000	R: 7.692	F1: 11.111
+	rouge-l:	P: 56.123	R: 27.701	F1: 37.093
+
+
+
+ALG_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.000	R: 46.154	F1: 42.857
+	rouge-2:	P: 35.714	R: 41.667	F1: 38.462
+	rouge-l:	P: 46.600	R: 52.502	F1: 49.375
+
+
+
+ALL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.538	R: 47.059	F1: 53.333
+	rouge-2:	P: 50.000	R: 37.500	F1: 42.857
+	rouge-l:	P: 66.725	R: 53.358	F1: 59.298
+
+
+
+AME_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.231	R: 50.467	F1: 58.378
+	rouge-2:	P: 44.156	R: 32.075	F1: 37.158
+	rouge-l:	P: 70.183	R: 53.929	F1: 60.992
+
+
+
+AMG_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 28.571	F1: 42.857
+	rouge-2:	P: 66.667	R: 20.000	F1: 30.769
+	rouge-l:	P: 87.945	R: 35.205	F1: 50.282
+
+
+
+AMG_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+AMG_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.571	R: 47.826	F1: 59.459
+	rouge-2:	P: 61.538	R: 36.364	F1: 45.714
+	rouge-l:	P: 81.794	R: 54.082	F1: 65.112
+
+
+
+AON_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 12.500	R: 11.111	F1: 11.765
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 17.678	R: 16.025	F1: 16.811
+
+
+
+APH_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 92.308	R: 92.308	F1: 92.308
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+APH_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.447	R: 81.818	F1: 67.500
+	rouge-2:	P: 43.478	R: 62.500	F1: 51.282
+	rouge-l:	P: 63.007	R: 84.601	F1: 72.224
+
+
+
+ARI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 76.923	R: 66.667	F1: 71.429
+	rouge-2:	P: 58.333	R: 50.000	F1: 53.846
+	rouge-l:	P: 80.361	R: 71.328	F1: 75.575
+
+
+
+ARI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 26.923	R: 46.667	F1: 34.146
+	rouge-2:	P: 20.000	R: 35.714	F1: 25.641
+	rouge-l:	P: 33.505	R: 52.987	F1: 41.052
+
+
+
+ARW_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.286	R: 40.000	F1: 36.923
+	rouge-2:	P: 29.412	R: 34.483	F1: 31.746
+	rouge-l:	P: 40.982	R: 46.600	F1: 43.611
+
+
+
+ATI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 75.000	F1: 80.000
+	rouge-2:	P: 70.370	R: 61.290	F1: 65.517
+	rouge-l:	P: 87.945	R: 78.684	F1: 83.057
+
+
+
+ATR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.049	R: 50.794	F1: 61.538
+	rouge-2:	P: 52.500	R: 33.871	F1: 41.176
+	rouge-l:	P: 79.216	R: 55.380	F1: 65.187
+
+
+
+ATR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.750	R: 29.474	F1: 35.220
+	rouge-2:	P: 25.397	R: 17.021	F1: 20.382
+	rouge-l:	P: 48.714	R: 35.051	F1: 40.768
+
+
+
+AVD_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+AVD_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.500	R: 25.000	F1: 35.714
+	rouge-2:	P: 28.571	R: 10.526	F1: 15.385
+	rouge-l:	P: 67.593	R: 31.498	F1: 42.971
+
+
+
+AVD_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.500	R: 29.412	F1: 40.000
+	rouge-2:	P: 14.286	R: 6.250	F1: 8.696
+	rouge-l:	P: 56.123	R: 29.946	F1: 39.054
+
+
+
+AWR_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 80.000	R: 55.814	F1: 65.753
+	rouge-2:	P: 68.966	R: 47.619	F1: 56.338
+	rouge-l:	P: 83.031	R: 61.511	F1: 70.669
+
+
+
+AXL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.750	R: 48.837	F1: 46.154
+	rouge-2:	P: 31.915	R: 35.714	F1: 33.708
+	rouge-l:	P: 50.213	R: 55.033	F1: 52.513
+
+
+
+AXL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.222	R: 38.776	F1: 40.426
+	rouge-2:	P: 27.273	R: 25.000	F1: 26.087
+	rouge-l:	P: 48.747	R: 45.408	F1: 47.018
+
+
+
+AZZ_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.837	R: 31.343	F1: 38.182
+	rouge-2:	P: 38.095	R: 24.242	F1: 29.630
+	rouge-l:	P: 55.033	R: 38.029	F1: 44.978
+
+
+
+A_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.952	R: 63.514	F1: 59.494
+	rouge-2:	P: 40.964	R: 46.575	F1: 43.590
+	rouge-l:	P: 61.638	R: 68.505	F1: 64.890
+
+
+
+BAH_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.348	R: 54.348	F1: 54.348
+	rouge-2:	P: 35.556	R: 35.556	F1: 35.556
+	rouge-l:	P: 60.161	R: 60.161	F1: 60.161
+
+
+
+BAH_q3_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.529	R: 50.769	F1: 49.624
+	rouge-2:	P: 29.851	R: 31.250	F1: 30.534
+	rouge-l:	P: 51.965	R: 53.956	F1: 52.942
+
+
+
+BBY_q3_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 39.130	R: 56.250	F1: 46.154
+	rouge-2:	P: 31.818	R: 46.667	F1: 37.838
+	rouge-l:	P: 45.754	R: 61.911	F1: 52.620
+
+
+
+BCO_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.429	R: 62.500	F1: 66.667
+	rouge-2:	P: 66.667	R: 57.143	F1: 61.538
+	rouge-l:	P: 75.549	R: 67.593	F1: 71.350
+
+
+
+BCO_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.000	R: 36.000	F1: 48.649
+	rouge-2:	P: 63.636	R: 29.167	F1: 40.000
+	rouge-l:	P: 78.684	R: 42.683	F1: 55.344
+
+
+
+BCO_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.778	R: 23.256	F1: 25.316
+	rouge-2:	P: 11.429	R: 9.524	F1: 10.390
+	rouge-l:	P: 28.553	R: 24.624	F1: 26.443
+
+
+
+BDN_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.000	R: 70.588	F1: 64.865
+	rouge-2:	P: 36.842	R: 43.750	F1: 40.000
+	rouge-l:	P: 65.332	R: 74.807	F1: 69.749
+
+
+
+BDN_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.714	R: 42.857	F1: 32.143
+	rouge-2:	P: 14.706	R: 25.000	F1: 18.519
+	rouge-l:	P: 32.246	R: 49.357	F1: 39.008
+
+
+
+BGS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.167	R: 56.522	F1: 55.319
+	rouge-2:	P: 44.681	R: 46.667	F1: 45.652
+	rouge-l:	P: 59.994	R: 62.160	F1: 61.058
+
+
+
+BGS_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.059	R: 37.209	F1: 41.558
+	rouge-2:	P: 27.273	R: 21.429	F1: 24.000
+	rouge-l:	P: 53.358	R: 43.874	F1: 48.154
+
+
+
+BHE_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.750	R: 63.218	F1: 65.868
+	rouge-2:	P: 45.570	R: 41.860	F1: 43.636
+	rouge-l:	P: 70.956	R: 66.165	F1: 68.477
+
+
+
+BIO_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.500	R: 74.359	F1: 73.418
+	rouge-2:	P: 64.103	R: 65.789	F1: 64.935
+	rouge-l:	P: 76.492	R: 78.123	F1: 77.299
+
+
+
+BIO_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.830	R: 52.830	F1: 52.830
+	rouge-2:	P: 30.769	R: 30.769	F1: 30.769
+	rouge-l:	P: 58.758	R: 58.758	F1: 58.758
+
+
+
+BKD_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.364	R: 24.615	F1: 29.358
+	rouge-2:	P: 13.953	R: 9.375	F1: 11.215
+	rouge-l:	P: 29.093	R: 21.017	F1: 24.404
+
+
+
+BKH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.231	R: 47.368	F1: 56.250
+	rouge-2:	P: 58.333	R: 38.889	F1: 46.667
+	rouge-l:	P: 73.606	R: 53.651	F1: 62.064
+
+
+
+BKH_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.889	R: 49.206	F1: 57.407
+	rouge-2:	P: 43.182	R: 30.645	F1: 35.849
+	rouge-l:	P: 73.303	R: 55.380	F1: 63.093
+
+
+
+BKH_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 28.571	F1: 40.000
+	rouge-2:	P: 41.176	R: 17.073	F1: 24.138
+	rouge-l:	P: 71.328	R: 35.205	F1: 47.143
+
+
+
+BKU_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.750	R: 78.571	F1: 73.333
+	rouge-2:	P: 53.333	R: 61.538	F1: 57.143
+	rouge-l:	P: 73.180	R: 81.794	F1: 77.248
+
+
+
+BMI_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.545	R: 66.667	F1: 60.000
+	rouge-2:	P: 50.000	R: 61.538	F1: 55.172
+	rouge-l:	P: 57.537	R: 68.010	F1: 62.336
+
+
+
+BMI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.765	R: 46.667	F1: 53.165
+	rouge-2:	P: 54.545	R: 40.909	F1: 46.753
+	rouge-l:	P: 66.929	R: 52.987	F1: 59.148
+
+
+
+BOH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.125	R: 45.000	F1: 34.615
+	rouge-2:	P: 19.355	R: 31.579	F1: 24.000
+	rouge-l:	P: 34.746	R: 51.406	F1: 41.465
+
+
+
+BR_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 14.286	R: 13.333	F1: 13.793
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 19.758	R: 18.654	F1: 19.191
+
+
+
+BXP_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.780	R: 28.169	F1: 35.714
+	rouge-2:	P: 27.500	R: 15.714	F1: 20.000
+	rouge-l:	P: 54.980	R: 34.792	F1: 42.616
+
+
+
+BYD_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 10.000	R: 14.286	F1: 11.765
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 14.678	R: 19.758	F1: 16.843
+
+
+
+BZH_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.986	R: 33.333	F1: 31.008
+	rouge-2:	P: 13.235	R: 15.254	F1: 14.173
+	rouge-l:	P: 31.117	R: 34.961	F1: 32.927
+
+
+
+BZH_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.778	R: 33.333	F1: 30.303
+	rouge-2:	P: 23.529	R: 28.571	F1: 25.806
+	rouge-l:	P: 34.389	R: 40.031	F1: 36.996
+
+
+
+CAG_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.455	R: 27.397	F1: 34.188
+	rouge-2:	P: 27.907	R: 16.667	F1: 20.870
+	rouge-l:	P: 51.838	R: 33.996	F1: 41.062
+
+
+
+CBU_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.789	R: 44.643	F1: 53.191
+	rouge-2:	P: 40.541	R: 27.273	F1: 32.609
+	rouge-l:	P: 70.545	R: 51.065	F1: 59.245
+
+
+
+CBZ_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.512	R: 41.667	F1: 43.956
+	rouge-2:	P: 26.190	R: 23.404	F1: 24.719
+	rouge-l:	P: 52.841	R: 48.212	F1: 50.420
+
+
+
+CCI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 14.286	R: 20.000	F1: 16.667
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 7.910	R: 10.469	F1: 9.011
+
+
+
+CFR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+CFR_q3_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 35.294	F1: 38.710
+	rouge-2:	P: 38.462	R: 31.250	F1: 34.483
+	rouge-l:	P: 49.357	R: 41.984	F1: 45.373
+
+
+
+CFR_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+CFR_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.870	R: 46.667	F1: 52.830
+	rouge-2:	P: 45.455	R: 34.483	F1: 39.216
+	rouge-l:	P: 66.120	R: 52.987	F1: 58.830
+
+
+
+CHD_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 38.835	F1: 43.716
+	rouge-2:	P: 18.987	R: 14.706	F1: 16.575
+	rouge-l:	P: 51.406	R: 41.644	F1: 46.013
+
+
+
+CHE_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.545	R: 42.857	F1: 48.000
+	rouge-2:	P: 30.233	R: 23.636	F1: 26.531
+	rouge-l:	P: 53.989	R: 44.160	F1: 48.582
+
+
+
+CHE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 35.455	F1: 38.806
+	rouge-2:	P: 14.444	R: 11.927	F1: 13.065
+	rouge-l:	P: 47.239	R: 40.334	F1: 43.514
+
+
+
+CHS_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.379	R: 54.545	F1: 47.059
+	rouge-2:	P: 24.561	R: 32.558	F1: 28.000
+	rouge-l:	P: 46.265	R: 58.241	F1: 51.567
+
+
+
+CIM_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.385	R: 70.833	F1: 68.000
+	rouge-2:	P: 52.000	R: 56.522	F1: 54.167
+	rouge-l:	P: 70.183	R: 75.024	F1: 72.522
+
+
+
+CIM_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.625	R: 58.333	F1: 61.765
+	rouge-2:	P: 48.387	R: 42.857	F1: 45.455
+	rouge-l:	P: 70.398	R: 63.816	F1: 66.946
+
+
+
+CIR_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 20.408	R: 23.256	F1: 21.739
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 26.597	R: 29.656	F1: 28.043
+
+
+
+CIR_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.163	R: 66.667	F1: 57.895
+	rouge-2:	P: 40.476	R: 53.125	F1: 45.946
+	rouge-l:	P: 57.209	R: 71.328	F1: 63.493
+
+
+
+CLH_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 32.584	R: 43.284	F1: 37.179
+	rouge-2:	P: 13.636	R: 18.182	F1: 15.584
+	rouge-l:	P: 39.280	R: 49.766	F1: 43.906
+
+
+
+CLH_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.158	R: 52.174	F1: 57.143
+	rouge-2:	P: 45.946	R: 37.778	F1: 41.463
+	rouge-l:	P: 68.185	R: 58.149	F1: 62.769
+
+
+
+CLW_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+CLW_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.714	R: 51.515	F1: 55.738
+	rouge-2:	P: 51.852	R: 43.750	F1: 47.458
+	rouge-l:	P: 65.980	R: 57.537	F1: 61.470
+
+
+
+CLX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.064	R: 33.803	F1: 40.678
+	rouge-2:	P: 23.913	R: 15.714	F1: 18.966
+	rouge-l:	P: 53.122	R: 37.668	F1: 44.079
+
+
+
+CLX_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 39.216	R: 20.000	F1: 26.490
+	rouge-2:	P: 28.000	R: 14.141	F1: 18.792
+	rouge-l:	P: 45.837	R: 26.153	F1: 33.304
+
+
+
+CMA_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 31.250	R: 38.462	F1: 34.483
+	rouge-2:	P: 8.511	R: 10.526	F1: 9.412
+	rouge-l:	P: 35.816	R: 42.581	F1: 38.907
+
+
+
+CMC_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 90.476	R: 90.476	F1: 90.476
+	rouge-2:	P: 85.000	R: 85.000	F1: 85.000
+	rouge-l:	P: 91.998	R: 91.998	F1: 91.998
+
+
+
+CNA_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 32.203	R: 31.148	F1: 31.667
+	rouge-2:	P: 18.966	R: 18.333	F1: 18.644
+	rouge-l:	P: 37.184	R: 36.165	F1: 36.667
+
+
+
+CNA_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.619	R: 17.857	F1: 25.974
+	rouge-2:	P: 20.000	R: 7.273	F1: 10.667
+	rouge-l:	P: 49.357	R: 21.796	F1: 30.239
+
+
+
+CNC_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 39.623	R: 50.000	F1: 44.211
+	rouge-2:	P: 19.048	R: 24.096	F1: 21.277
+	rouge-l:	P: 46.233	R: 56.123	F1: 50.700
+
+
+
+COF_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.000	R: 41.772	F1: 49.254
+	rouge-2:	P: 38.889	R: 26.923	F1: 31.818
+	rouge-l:	P: 65.332	R: 48.314	F1: 55.549
+
+
+
+COO_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.000	R: 80.952	F1: 82.927
+	rouge-2:	P: 63.158	R: 60.000	F1: 61.538
+	rouge-l:	P: 87.334	R: 83.854	F1: 85.559
+
+
+
+CPB_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.835	R: 46.825	F1: 54.378
+	rouge-2:	P: 40.000	R: 28.800	F1: 33.488
+	rouge-l:	P: 69.691	R: 53.138	F1: 60.299
+
+
+
+CPB_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.260	R: 20.261	F1: 26.957
+	rouge-2:	P: 15.789	R: 7.895	F1: 10.526
+	rouge-l:	P: 45.589	R: 25.725	F1: 32.891
+
+
+
+CPF_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.364	R: 56.250	F1: 58.696
+	rouge-2:	P: 34.884	R: 31.915	F1: 33.333
+	rouge-l:	P: 62.432	R: 58.065	F1: 60.169
+
+
+
+CPF_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.571	R: 37.500	F1: 44.118
+	rouge-2:	P: 29.630	R: 20.513	F1: 24.242
+	rouge-l:	P: 59.444	R: 44.160	F1: 50.675
+
+
+
+CPF_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.000	R: 42.308	F1: 43.137
+	rouge-2:	P: 25.000	R: 24.000	F1: 24.490
+	rouge-l:	P: 46.600	R: 45.101	F1: 45.838
+
+
+
+CPK_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.000	R: 66.667	F1: 50.000
+	rouge-2:	P: 28.571	R: 50.000	F1: 36.364
+	rouge-l:	P: 46.600	R: 71.328	F1: 56.371
+
+
+
+CRK_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+CRK_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.341	R: 38.776	F1: 42.222
+	rouge-2:	P: 30.000	R: 25.000	F1: 27.273
+	rouge-l:	P: 52.679	R: 45.408	F1: 48.774
+
+
+
+CRS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.929	R: 59.375	F1: 43.182
+	rouge-2:	P: 25.455	R: 45.161	F1: 32.558
+	rouge-l:	P: 40.626	R: 64.764	F1: 49.931
+
+
+
+CRS_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.282	R: 57.143	F1: 54.054
+	rouge-2:	P: 44.737	R: 50.000	F1: 47.222
+	rouge-l:	P: 57.320	R: 62.729	F1: 59.903
+
+
+
+CSL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.000	R: 44.444	F1: 42.105
+	rouge-2:	P: 31.579	R: 35.294	F1: 33.333
+	rouge-l:	P: 46.600	R: 50.876	F1: 48.644
+
+
+
+CSV_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.054	R: 58.824	F1: 56.338
+	rouge-2:	P: 33.333	R: 36.364	F1: 34.783
+	rouge-l:	P: 57.384	R: 61.574	F1: 59.405
+
+
+
+CVS_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.898	R: 27.848	F1: 34.375
+	rouge-2:	P: 14.583	R: 8.974	F1: 11.111
+	rouge-l:	P: 43.407	R: 29.154	F1: 34.881
+
+
+
+CWT_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+CW_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.000	R: 50.820	F1: 55.856
+	rouge-2:	P: 34.694	R: 28.333	F1: 31.193
+	rouge-l:	P: 59.840	R: 50.702	F1: 54.894
+
+
+
+DBD_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 4.082	R: 8.000	F1: 5.405
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 6.956	R: 12.187	F1: 8.857
+
+
+
+DD_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.860	R: 28.090	F1: 34.247
+	rouge-2:	P: 23.214	R: 14.773	F1: 18.056
+	rouge-l:	P: 46.940	R: 32.380	F1: 38.324
+
+
+
+DD_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.588	R: 37.391	F1: 43.000
+	rouge-2:	P: 27.381	R: 20.175	F1: 23.232
+	rouge-l:	P: 55.572	R: 43.198	F1: 48.610
+
+
+
+DE_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.000	R: 24.194	F1: 34.483
+	rouge-2:	P: 24.324	R: 9.730	F1: 13.900
+	rouge-l:	P: 64.120	R: 30.080	F1: 40.950
+
+
+
+DFS_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 49.462	R: 48.936	F1: 49.198
+	rouge-2:	P: 25.000	R: 24.731	F1: 24.865
+	rouge-l:	P: 54.610	R: 54.126	F1: 54.367
+
+
+
+DHX_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 80.000	F1: 66.667
+	rouge-2:	P: 40.741	R: 57.895	F1: 47.826
+	rouge-l:	P: 62.729	R: 83.031	F1: 71.466
+
+
+
+DKS_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.228	R: 47.917	F1: 52.571
+	rouge-2:	P: 39.744	R: 32.632	F1: 35.838
+	rouge-l:	P: 63.720	R: 54.168	F1: 58.557
+
+
+
+DKS_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.875	R: 37.500	F1: 41.667
+	rouge-2:	P: 23.810	R: 18.987	F1: 21.127
+	rouge-l:	P: 50.213	R: 41.692	F1: 45.558
+
+
+
+DLB_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 80.488	R: 52.381	F1: 63.462
+	rouge-2:	P: 56.790	R: 36.800	F1: 44.660
+	rouge-l:	P: 80.280	R: 56.123	F1: 66.062
+
+
+
+DLR_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+DLR_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.882	R: 43.182	F1: 48.718
+	rouge-2:	P: 21.212	R: 16.279	F1: 18.421
+	rouge-l:	P: 53.358	R: 43.042	F1: 47.648
+
+
+
+DLX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 54.545	F1: 52.174
+	rouge-2:	P: 27.273	R: 30.000	F1: 28.571
+	rouge-l:	P: 56.123	R: 60.344	F1: 58.157
+
+
+
+DNB_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.863	R: 37.662	F1: 45.312
+	rouge-2:	P: 24.000	R: 15.789	F1: 19.048
+	rouge-l:	P: 60.672	R: 43.042	F1: 50.358
+
+
+
+DNB_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.093	R: 56.364	F1: 63.265
+	rouge-2:	P: 52.381	R: 40.741	F1: 45.833
+	rouge-l:	P: 76.134	R: 62.015	F1: 68.353
+
+
+
+DNB_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.877	R: 58.000	F1: 54.206
+	rouge-2:	P: 20.354	R: 23.232	F1: 21.698
+	rouge-l:	P: 53.651	R: 59.840	F1: 56.577
+
+
+
+DOV_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.095	R: 28.571	F1: 32.653
+	rouge-2:	P: 17.742	R: 13.253	F1: 15.172
+	rouge-l:	P: 43.184	R: 33.979	F1: 38.032
+
+
+
+DOW_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 32.353	R: 25.984	F1: 28.821
+	rouge-2:	P: 3.960	R: 3.175	F1: 3.524
+	rouge-l:	P: 39.048	R: 32.528	F1: 35.491
+
+
+
+DRE_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 26.316	R: 45.455	F1: 33.333
+	rouge-2:	P: 18.919	R: 33.333	F1: 24.138
+	rouge-l:	P: 32.874	R: 51.838	F1: 40.233
+
+
+
+DRE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.604	R: 65.217	F1: 60.606
+	rouge-2:	P: 26.923	R: 31.111	F1: 28.866
+	rouge-l:	P: 58.758	R: 66.120	F1: 62.222
+
+
+
+DRH_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.750	R: 43.750	F1: 43.750
+	rouge-2:	P: 33.333	R: 33.333	F1: 33.333
+	rouge-l:	P: 50.213	R: 50.213	F1: 50.213
+
+
+
+DRI_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.667	R: 55.072	F1: 52.778
+	rouge-2:	P: 25.676	R: 27.941	F1: 26.761
+	rouge-l:	P: 56.746	R: 60.829	F1: 58.717
+
+
+
+DRI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.879	R: 25.773	F1: 30.675
+	rouge-2:	P: 9.231	R: 6.250	F1: 7.453
+	rouge-l:	P: 43.042	R: 31.227	F1: 36.195
+
+
+
+DTE_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.000	R: 57.143	F1: 60.377
+	rouge-2:	P: 40.816	R: 36.364	F1: 38.462
+	rouge-l:	P: 65.332	R: 59.444	F1: 62.249
+
+
+
+DX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 30.000	F1: 33.333
+	rouge-2:	P: 28.571	R: 22.222	F1: 25.000
+	rouge-l:	P: 44.160	R: 36.666	F1: 40.066
+
+
+
+DY_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.714	R: 40.476	F1: 48.571
+	rouge-2:	P: 44.444	R: 29.268	F1: 35.294
+	rouge-l:	P: 65.980	R: 47.062	F1: 54.938
+
+
+
+EAT_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 20.000	R: 15.385	F1: 17.391
+	rouge-2:	P: 5.263	R: 4.000	F1: 4.545
+	rouge-l:	P: 26.153	R: 21.017	F1: 23.306
+
+
+
+EFX_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.515	R: 40.000	F1: 45.033
+	rouge-2:	P: 27.692	R: 21.429	F1: 24.161
+	rouge-l:	P: 57.537	R: 46.600	F1: 51.494
+
+
+
+EGP_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 73.913	R: 45.946	F1: 56.667
+	rouge-2:	P: 45.455	R: 27.778	F1: 34.483
+	rouge-l:	P: 73.903	R: 49.728	F1: 59.452
+
+
+
+EIX_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 77.778	R: 60.870	F1: 68.293
+	rouge-2:	P: 47.059	R: 36.364	F1: 41.026
+	rouge-l:	P: 76.248	R: 62.160	F1: 68.487
+
+
+
+ELS_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 25.000	F1: 31.579
+	rouge-2:	P: 30.769	R: 17.391	F1: 22.222
+	rouge-l:	P: 49.357	R: 31.498	F1: 38.455
+
+
+
+EME_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.732	R: 64.444	F1: 67.442
+	rouge-2:	P: 47.500	R: 43.182	F1: 45.238
+	rouge-l:	P: 74.934	R: 69.341	F1: 72.029
+
+
+
+ENR_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 23.438	F1: 27.523
+	rouge-2:	P: 18.182	R: 12.698	F1: 14.953
+	rouge-l:	P: 35.531	R: 26.493	F1: 30.354
+
+
+
+EPR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 66.667	F1: 61.538
+	rouge-2:	P: 46.154	R: 54.545	F1: 50.000
+	rouge-l:	P: 62.729	R: 71.328	F1: 66.753
+
+
+
+EPR_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.455	R: 42.857	F1: 44.118
+	rouge-2:	P: 18.750	R: 17.647	F1: 18.182
+	rouge-l:	P: 46.011	R: 43.809	F1: 44.883
+
+
+
+EPR_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.538	R: 36.364	F1: 45.714
+	rouge-2:	P: 44.000	R: 25.581	F1: 32.353
+	rouge-l:	P: 66.725	R: 43.042	F1: 52.328
+
+
+
+EQR_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.111	R: 78.571	F1: 68.750
+	rouge-2:	P: 29.412	R: 38.462	F1: 33.333
+	rouge-l:	P: 50.876	R: 62.729	F1: 56.184
+
+
+
+ESE_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 14.286	R: 6.250	F1: 8.696
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 19.758	R: 9.921	F1: 13.210
+
+
+
+ESE_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 60.000	F1: 70.588
+	rouge-2:	P: 66.667	R: 44.444	F1: 53.333
+	rouge-l:	P: 87.945	R: 65.332	F1: 74.970
+
+
+
+ES_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.636	R: 60.000	F1: 61.765
+	rouge-2:	P: 43.750	R: 41.176	F1: 42.424
+	rouge-l:	P: 68.615	R: 65.332	F1: 66.933
+
+
+
+EVR_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.292	R: 46.218	F1: 51.163
+	rouge-2:	P: 37.895	R: 30.508	F1: 33.803
+	rouge-l:	P: 61.911	R: 51.765	F1: 56.385
+
+
+
+EW_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 67.500	R: 42.188	F1: 51.923
+	rouge-2:	P: 34.177	R: 21.260	F1: 26.214
+	rouge-l:	P: 70.956	R: 47.961	F1: 57.235
+
+
+
+EW_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.798	R: 33.742	F1: 43.651
+	rouge-2:	P: 31.818	R: 17.284	F1: 22.400
+	rouge-l:	P: 64.924	R: 39.211	F1: 48.893
+
+
+
+EW_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.158	R: 51.064	F1: 56.471
+	rouge-2:	P: 40.000	R: 32.258	F1: 35.714
+	rouge-l:	P: 68.185	R: 57.116	F1: 62.162
+
+
+
+EXP_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.636	R: 35.000	F1: 45.161
+	rouge-2:	P: 52.381	R: 28.205	F1: 36.667
+	rouge-l:	P: 68.615	R: 41.692	F1: 51.868
+
+
+
+FAF_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.455	R: 44.118	F1: 44.776
+	rouge-2:	P: 15.625	R: 15.152	F1: 15.385
+	rouge-l:	P: 48.942	R: 47.739	F1: 48.333
+
+
+
+FBP_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 83.333	F1: 90.909
+	rouge-2:	P: 77.778	R: 63.636	F1: 70.000
+	rouge-l:	P: 100.000	R: 85.904	F1: 92.418
+
+
+
+FDP_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 61.765	F1: 55.263
+	rouge-2:	P: 41.463	R: 51.515	F1: 45.946
+	rouge-l:	P: 56.123	R: 66.929	F1: 61.052
+
+
+
+FDP_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.814	R: 42.857	F1: 48.485
+	rouge-2:	P: 42.857	R: 32.727	F1: 37.113
+	rouge-l:	P: 59.368	R: 47.638	F1: 52.860
+
+
+
+FDP_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.000	R: 12.281	F1: 18.182
+	rouge-2:	P: 26.316	R: 8.929	F1: 13.333
+	rouge-l:	P: 41.692	R: 17.419	F1: 24.572
+
+
+
+FDS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 39.024	R: 35.556	F1: 37.209
+	rouge-2:	P: 22.500	R: 20.455	F1: 21.429
+	rouge-l:	P: 45.651	R: 42.243	F1: 43.881
+
+
+
+FDX_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.302	R: 20.270	F1: 23.622
+	rouge-2:	P: 7.692	R: 5.479	F1: 6.400
+	rouge-l:	P: 34.928	R: 26.447	F1: 30.102
+
+
+
+FET_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 83.333	R: 83.333	F1: 83.333
+	rouge-2:	P: 80.000	R: 80.000	F1: 80.000
+	rouge-l:	P: 85.904	R: 85.904	F1: 85.904
+
+
+
+FE_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.545	R: 38.710	F1: 45.283
+	rouge-2:	P: 28.571	R: 20.000	F1: 23.529
+	rouge-l:	P: 56.123	R: 42.172	F1: 48.158
+
+
+
+FE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.839	R: 39.535	F1: 45.946
+	rouge-2:	P: 36.667	R: 26.190	F1: 30.556
+	rouge-l:	P: 60.614	R: 46.148	F1: 52.401
+
+
+
+FHN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.364	R: 34.444	F1: 42.759
+	rouge-2:	P: 22.222	R: 13.483	F1: 16.783
+	rouge-l:	P: 56.972	R: 37.795	F1: 45.443
+
+
+
+FIS_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.667	R: 51.220	F1: 48.837
+	rouge-2:	P: 31.818	R: 35.000	F1: 33.333
+	rouge-l:	P: 52.987	R: 57.262	F1: 55.042
+
+
+
+FLS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.370	R: 74.510	F1: 72.381
+	rouge-2:	P: 52.830	R: 56.000	F1: 54.369
+	rouge-l:	P: 74.615	R: 78.255	F1: 76.391
+
+
+
+FLT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.222	R: 73.585	F1: 72.897
+	rouge-2:	P: 60.377	R: 61.538	F1: 60.952
+	rouge-l:	P: 76.248	R: 77.445	F1: 76.841
+
+
+
+FLT_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.857	R: 75.862	F1: 68.750
+	rouge-2:	P: 50.000	R: 60.714	F1: 54.839
+	rouge-l:	P: 67.914	R: 79.437	F1: 73.225
+
+
+
+FL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 39.506	R: 39.024	F1: 39.264
+	rouge-2:	P: 23.750	R: 23.457	F1: 23.602
+	rouge-l:	P: 44.916	R: 44.459	F1: 44.686
+
+
+
+FL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.548	R: 34.615	F1: 38.571
+	rouge-2:	P: 34.426	R: 27.273	F1: 30.435
+	rouge-l:	P: 50.020	R: 41.310	F1: 45.250
+
+
+
+FMC_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.564	R: 64.062	F1: 57.746
+	rouge-2:	P: 32.468	R: 39.683	F1: 35.714
+	rouge-l:	P: 57.320	R: 67.593	F1: 62.034
+
+
+
+FNB_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.571	R: 57.895	F1: 66.667
+	rouge-2:	P: 61.538	R: 44.444	F1: 51.613
+	rouge-l:	P: 81.794	R: 63.416	F1: 71.442
+
+
+
+FNF_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.163	R: 32.836	F1: 40.000
+	rouge-2:	P: 28.571	R: 18.182	F1: 22.222
+	rouge-l:	P: 57.209	R: 39.533	F1: 46.756
+
+
+
+FNF_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.727	R: 35.821	F1: 48.000
+	rouge-2:	P: 56.250	R: 27.273	F1: 36.735
+	rouge-l:	P: 76.692	R: 42.506	F1: 54.696
+
+
+
+FN_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.971	R: 68.966	F1: 62.992
+	rouge-2:	P: 42.647	R: 50.877	F1: 46.400
+	rouge-l:	P: 63.486	R: 73.371	F1: 68.071
+
+
+
+FR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 83.333	R: 83.333	F1: 83.333
+	rouge-2:	P: 60.000	R: 60.000	F1: 60.000
+	rouge-l:	P: 85.904	R: 85.904	F1: 85.904
+
+
+
+FR_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 45.000	F1: 45.570
+	rouge-2:	P: 31.579	R: 30.769	F1: 31.169
+	rouge-l:	P: 52.502	R: 51.406	F1: 51.948
+
+
+
+FR_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 27.273	F1: 42.857
+	rouge-2:	P: 100.000	R: 23.810	F1: 38.462
+	rouge-l:	P: 100.000	R: 33.867	F1: 50.598
+
+
+
+FSP_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 90.000	F1: 64.286
+	rouge-2:	P: 41.176	R: 77.778	F1: 53.846
+	rouge-l:	P: 56.123	R: 91.594	F1: 69.600
+
+
+
+FSS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 31.707	R: 22.414	F1: 26.263
+	rouge-2:	P: 30.000	R: 21.053	F1: 24.742
+	rouge-l:	P: 38.397	R: 28.758	F1: 32.886
+
+
+
+FUL_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.170	R: 31.646	F1: 37.879
+	rouge-2:	P: 28.846	R: 19.231	F1: 23.077
+	rouge-l:	P: 53.463	R: 38.335	F1: 44.652
+
+
+
+FUL_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.838	R: 26.923	F1: 31.461
+	rouge-2:	P: 16.667	R: 11.765	F1: 13.793
+	rouge-l:	P: 44.491	R: 33.505	F1: 38.224
+
+
+
+GCI_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.358	R: 38.000	F1: 32.479
+	rouge-2:	P: 7.576	R: 10.204	F1: 8.696
+	rouge-l:	P: 34.986	R: 44.650	F1: 39.232
+
+
+
+GCI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.615	R: 40.909	F1: 37.500
+	rouge-2:	P: 12.000	R: 14.286	F1: 13.043
+	rouge-l:	P: 41.310	R: 47.481	F1: 44.181
+
+
+
+GCO_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.083	R: 21.311	F1: 23.853
+	rouge-2:	P: 8.511	R: 6.667	F1: 7.477
+	rouge-l:	P: 33.671	R: 27.575	F1: 30.319
+
+
+
+GCO_q4_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.552	R: 49.091	F1: 47.788
+	rouge-2:	P: 28.070	R: 29.630	F1: 28.829
+	rouge-l:	P: 51.241	R: 53.560	F1: 52.375
+
+
+
+GD_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.619	R: 38.462	F1: 42.553
+	rouge-2:	P: 24.390	R: 19.608	F1: 21.739
+	rouge-l:	P: 51.632	R: 43.214	F1: 47.050
+
+
+
+GEF_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.333	R: 67.857	F1: 65.517
+	rouge-2:	P: 41.379	R: 44.444	F1: 42.857
+	rouge-l:	P: 68.343	R: 72.387	F1: 70.307
+
+
+
+GEO_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.190	R: 35.537	F1: 41.951
+	rouge-2:	P: 15.663	R: 10.833	F1: 12.808
+	rouge-l:	P: 57.234	R: 42.225	F1: 48.597
+
+
+
+GES_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.783	R: 25.000	F1: 29.091
+	rouge-2:	P: 12.088	R: 8.661	F1: 10.092
+	rouge-l:	P: 41.476	R: 31.498	F1: 35.805
+
+
+
+GES_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.541	R: 21.739	F1: 28.302
+	rouge-2:	P: 11.111	R: 5.882	F1: 7.692
+	rouge-l:	P: 47.124	R: 28.035	F1: 35.155
+
+
+
+GFF_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 81.250	R: 100.000	F1: 89.655
+	rouge-2:	P: 73.333	R: 91.667	F1: 81.481
+	rouge-l:	P: 84.111	R: 100.000	F1: 91.370
+
+
+
+GHL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.161	R: 58.333	F1: 50.909
+	rouge-2:	P: 30.000	R: 39.130	F1: 33.962
+	rouge-l:	P: 51.559	R: 63.816	F1: 57.037
+
+
+
+GHL_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.735	R: 40.909	F1: 38.710
+	rouge-2:	P: 18.750	R: 20.930	F1: 19.780
+	rouge-l:	P: 43.407	R: 47.481	F1: 45.353
+
+
+
+GHM_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.558	R: 44.444	F1: 42.953
+	rouge-2:	P: 15.789	R: 16.901	F1: 16.327
+	rouge-l:	P: 45.589	R: 48.212	F1: 46.864
+
+
+
+GHM_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 45.455	F1: 47.619
+	rouge-2:	P: 28.986	R: 26.316	F1: 27.586
+	rouge-l:	P: 56.123	R: 51.838	F1: 53.895
+
+
+
+GHM_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 30.000	R: 30.000	F1: 30.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 36.666	R: 36.666	F1: 36.666
+
+
+
+GLT_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 90.000	R: 90.000	F1: 90.000
+	rouge-2:	P: 66.667	R: 66.667	F1: 66.667
+	rouge-l:	P: 74.287	R: 74.287	F1: 74.287
+
+
+
+GLW_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.575	R: 30.909	F1: 37.158
+	rouge-2:	P: 25.000	R: 16.514	F1: 19.890
+	rouge-l:	P: 51.601	R: 36.666	F1: 42.870
+
+
+
+GLW_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.364	R: 26.667	F1: 30.769
+	rouge-2:	P: 23.810	R: 17.241	F1: 20.000
+	rouge-l:	P: 43.042	R: 33.238	F1: 37.510
+
+
+
+GLW_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.537	R: 31.373	F1: 40.851
+	rouge-2:	P: 28.395	R: 15.132	F1: 19.742
+	rouge-l:	P: 64.001	R: 38.059	F1: 47.733
+
+
+
+GL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.789	R: 53.191	F1: 58.824
+	rouge-2:	P: 43.243	R: 34.783	F1: 38.554
+	rouge-l:	P: 68.185	R: 57.116	F1: 62.162
+
+
+
+GME_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 16.667	R: 7.692	F1: 10.526
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 22.467	R: 11.795	F1: 15.469
+
+
+
+GME_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+GNE_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 40.000	F1: 36.364
+	rouge-2:	P: 23.529	R: 28.571	F1: 25.806
+	rouge-l:	P: 40.031	R: 46.600	F1: 43.066
+
+
+
+GNE_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.235	R: 54.167	F1: 44.828
+	rouge-2:	P: 33.333	R: 47.826	F1: 39.286
+	rouge-l:	P: 44.880	R: 59.994	F1: 51.348
+
+
+
+GNW_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 8.333	R: 9.091	F1: 8.696
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 12.609	R: 13.557	F1: 13.066
+
+
+
+GPN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.444	R: 85.294	F1: 73.418
+	rouge-2:	P: 59.091	R: 78.788	F1: 67.532
+	rouge-l:	P: 69.341	R: 87.586	F1: 77.402
+
+
+
+HBI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.149	R: 59.633	F1: 64.039
+	rouge-2:	P: 51.613	R: 44.444	F1: 47.761
+	rouge-l:	P: 73.534	R: 64.999	F1: 69.003
+
+
+
+HCC_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 41.379	F1: 42.105
+	rouge-2:	P: 29.630	R: 28.571	F1: 29.091
+	rouge-l:	P: 49.357	R: 47.935	F1: 48.636
+
+
+
+HCC_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 11.628	R: 16.667	F1: 13.699
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 13.820	R: 18.654	F1: 15.877
+
+
+
+HD_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.837	R: 46.667	F1: 47.727
+	rouge-2:	P: 30.952	R: 29.545	F1: 30.233
+	rouge-l:	P: 52.841	R: 50.876	F1: 51.840
+
+
+
+HEI_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.000	R: 36.842	F1: 35.897
+	rouge-2:	P: 26.316	R: 27.778	F1: 27.027
+	rouge-l:	P: 41.692	R: 43.513	F1: 42.583
+
+
+
+HES_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.914	R: 42.697	F1: 44.706
+	rouge-2:	P: 22.500	R: 20.455	F1: 21.429
+	rouge-l:	P: 50.876	R: 47.036	F1: 48.881
+
+
+
+HE_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.581	R: 57.895	F1: 35.484
+	rouge-2:	P: 14.286	R: 33.333	F1: 20.000
+	rouge-l:	P: 32.107	R: 63.416	F1: 42.631
+
+
+
+HE_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.105	R: 53.333	F1: 47.059
+	rouge-2:	P: 33.333	R: 42.857	F1: 37.500
+	rouge-l:	P: 48.635	R: 59.224	F1: 53.410
+
+
+
+HE_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.364	R: 66.667	F1: 47.059
+	rouge-2:	P: 30.000	R: 60.000	F1: 40.000
+	rouge-l:	P: 43.042	R: 71.328	F1: 53.687
+
+
+
+HE_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.478	R: 66.667	F1: 52.632
+	rouge-2:	P: 31.818	R: 50.000	F1: 38.889
+	rouge-l:	P: 49.953	R: 71.328	F1: 58.757
+
+
+
+HE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 25.000	F1: 28.571
+	rouge-2:	P: 20.000	R: 14.286	F1: 16.667
+	rouge-l:	P: 40.031	R: 31.498	F1: 35.256
+
+
+
+HIG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 66.667	F1: 66.667
+	rouge-2:	P: 37.500	R: 37.500	F1: 37.500
+	rouge-l:	P: 71.328	R: 71.328	F1: 71.328
+
+
+
+HII_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.500	R: 65.385	F1: 51.515
+	rouge-2:	P: 38.462	R: 60.000	F1: 46.875
+	rouge-l:	P: 49.014	R: 70.183	F1: 57.719
+
+
+
+HIW_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.286	R: 51.429	F1: 57.143
+	rouge-2:	P: 44.444	R: 35.294	F1: 39.344
+	rouge-l:	P: 69.198	R: 57.456	F1: 62.783
+
+
+
+HLT_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 36.364	F1: 44.444
+	rouge-2:	P: 35.294	R: 22.222	F1: 27.273
+	rouge-l:	P: 60.104	R: 41.241	F1: 48.917
+
+
+
+HL_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 16.667	R: 28.571	F1: 21.053
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 22.467	R: 35.205	F1: 27.429
+
+
+
+HPE_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.053	R: 54.000	F1: 61.364
+	rouge-2:	P: 54.667	R: 41.414	F1: 47.126
+	rouge-l:	P: 72.888	R: 57.988	F1: 64.590
+
+
+
+HPP_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.692	R: 50.847	F1: 54.054
+	rouge-2:	P: 33.333	R: 29.310	F1: 31.193
+	rouge-l:	P: 63.231	R: 56.915	F1: 59.907
+
+
+
+HRB_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.000	R: 33.333	F1: 28.571
+	rouge-2:	P: 15.789	R: 21.429	F1: 18.182
+	rouge-l:	P: 31.498	R: 40.031	F1: 35.256
+
+
+
+HRB_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.625	R: 52.500	F1: 58.333
+	rouge-2:	P: 41.935	R: 33.333	F1: 37.143
+	rouge-l:	P: 70.398	R: 58.452	F1: 63.871
+
+
+
+HRB_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 10.000	R: 10.000	F1: 10.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 14.678	R: 14.678	F1: 14.678
+
+
+
+HRL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.914	R: 26.761	F1: 34.081
+	rouge-2:	P: 22.500	R: 12.766	F1: 16.290
+	rouge-l:	P: 52.051	R: 32.603	F1: 40.093
+
+
+
+HRL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.667	R: 34.722	F1: 37.879
+	rouge-2:	P: 16.949	R: 14.085	F1: 15.385
+	rouge-l:	P: 48.212	R: 41.416	F1: 44.557
+
+
+
+HRL_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.613	R: 38.095	F1: 43.836
+	rouge-2:	P: 22.951	R: 16.867	F1: 19.444
+	rouge-l:	P: 57.628	R: 44.743	F1: 50.375
+
+
+
+HR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.667	R: 46.667	F1: 46.667
+	rouge-2:	P: 42.857	R: 42.857	F1: 42.857
+	rouge-l:	P: 52.987	R: 52.987	F1: 52.987
+
+
+
+HTH_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 33.333	F1: 44.444
+	rouge-2:	P: 40.000	R: 18.182	F1: 25.000
+	rouge-l:	P: 71.328	R: 40.031	F1: 51.282
+
+
+
+HVT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.678	R: 52.174	F1: 45.714
+	rouge-2:	P: 24.138	R: 31.111	F1: 27.184
+	rouge-l:	P: 47.257	R: 58.149	F1: 52.140
+
+
+
+HXL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 22.535	R: 34.043	F1: 27.119
+	rouge-2:	P: 10.000	R: 15.217	F1: 12.069
+	rouge-l:	P: 27.375	R: 38.607	F1: 32.035
+
+
+
+HXL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 18.868	R: 45.455	F1: 26.667
+	rouge-2:	P: 11.538	R: 28.571	F1: 16.438
+	rouge-l:	P: 24.914	R: 51.838	F1: 33.653
+
+
+
+HZO_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.702	R: 40.845	F1: 49.153
+	rouge-2:	P: 23.913	R: 15.714	F1: 18.966
+	rouge-l:	P: 63.007	R: 44.677	F1: 52.282
+
+
+
+H_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.000	R: 32.143	F1: 37.500
+	rouge-2:	P: 26.316	R: 18.519	F1: 21.739
+	rouge-l:	P: 51.406	R: 38.836	F1: 44.246
+
+
+
+IDT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.484	R: 37.931	F1: 36.667
+	rouge-2:	P: 10.000	R: 10.714	F1: 10.345
+	rouge-l:	P: 38.952	R: 41.178	F1: 40.034
+
+
+
+IGT_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.735	R: 36.735	F1: 36.735
+	rouge-2:	P: 16.667	R: 16.667	F1: 16.667
+	rouge-l:	P: 37.289	R: 37.289	F1: 37.289
+
+
+
+INT_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.286	R: 50.000	F1: 56.250
+	rouge-2:	P: 53.846	R: 41.176	F1: 46.667
+	rouge-l:	P: 69.198	R: 56.123	F1: 61.979
+
+
+
+IPI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+IQV_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.234	R: 67.105	F1: 66.667
+	rouge-2:	P: 46.053	R: 46.667	F1: 46.358
+	rouge-l:	P: 70.941	R: 71.718	F1: 71.328
+
+
+
+IRM_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.000	R: 48.837	F1: 53.846
+	rouge-2:	P: 23.529	R: 19.048	F1: 21.053
+	rouge-l:	P: 65.332	R: 55.033	F1: 59.742
+
+
+
+IR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 8.000	R: 8.333	F1: 8.163
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 12.187	R: 12.609	F1: 12.395
+
+
+
+ITT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.000	R: 50.000	F1: 56.522
+	rouge-2:	P: 41.026	R: 31.373	F1: 35.556
+	rouge-l:	P: 65.332	R: 52.502	F1: 58.218
+
+
+
+ITT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.895	R: 66.667	F1: 61.972
+	rouge-2:	P: 51.351	R: 59.375	F1: 55.072
+	rouge-l:	P: 63.416	R: 71.328	F1: 67.140
+
+
+
+ITW_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.250	R: 48.214	F1: 51.923
+	rouge-2:	P: 42.553	R: 36.364	F1: 39.216
+	rouge-l:	P: 61.911	R: 54.448	F1: 57.940
+
+
+
+ITW_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 36.170	F1: 41.975
+	rouge-2:	P: 45.455	R: 32.609	F1: 37.975
+	rouge-l:	P: 56.123	R: 42.851	F1: 48.597
+
+
+
+IVC_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 83.333	F1: 47.619
+	rouge-2:	P: 14.286	R: 40.000	F1: 21.053
+	rouge-l:	P: 33.238	R: 71.328	F1: 45.346
+
+
+
+IVZ_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.545	R: 30.769	F1: 39.344
+	rouge-2:	P: 28.571	R: 15.789	F1: 20.339
+	rouge-l:	P: 56.123	R: 34.829	F1: 42.983
+
+
+
+JBL_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.732	R: 64.444	F1: 67.442
+	rouge-2:	P: 49.383	R: 44.944	F1: 47.059
+	rouge-l:	P: 74.934	R: 69.341	F1: 72.029
+
+
+
+JBL_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.116	R: 57.317	F1: 62.252
+	rouge-2:	P: 41.176	R: 34.568	F1: 37.584
+	rouge-l:	P: 71.328	R: 61.771	F1: 66.206
+
+
+
+JCI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 37.895	F1: 43.114
+	rouge-2:	P: 25.352	R: 19.149	F1: 21.818
+	rouge-l:	P: 56.123	R: 44.547	F1: 49.669
+
+
+
+JLL_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 20.000	R: 21.429	F1: 20.690
+	rouge-2:	P: 11.364	R: 12.195	F1: 11.765
+	rouge-l:	P: 26.153	R: 27.701	F1: 26.905
+
+
+
+KAI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.444	R: 41.379	F1: 42.857
+	rouge-2:	P: 34.615	R: 32.143	F1: 33.333
+	rouge-l:	P: 50.876	R: 47.935	F1: 49.362
+
+
+
+KAR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 9.091	R: 13.333	F1: 10.811
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 13.557	R: 18.654	F1: 15.703
+
+
+
+KAR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 75.000	F1: 80.000
+	rouge-2:	P: 66.667	R: 57.143	F1: 61.538
+	rouge-l:	P: 87.945	R: 78.684	F1: 83.057
+
+
+
+KAR_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 44.444	F1: 38.095
+	rouge-2:	P: 9.091	R: 12.500	F1: 10.526
+	rouge-l:	P: 40.031	R: 50.876	F1: 44.807
+
+
+
+KBH_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.559	R: 43.590	F1: 39.766
+	rouge-2:	P: 14.130	R: 16.883	F1: 15.385
+	rouge-l:	P: 41.104	R: 47.593	F1: 44.112
+
+
+
+KBR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 32.353	R: 64.706	F1: 43.137
+	rouge-2:	P: 12.121	R: 25.000	F1: 16.327
+	rouge-l:	P: 39.048	R: 69.575	F1: 50.022
+
+
+
+KEY_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.224	R: 35.238	F1: 43.023
+	rouge-2:	P: 21.212	R: 13.462	F1: 16.471
+	rouge-l:	P: 58.210	R: 40.031	F1: 47.439
+
+
+
+KFY_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.151	R: 40.964	F1: 50.000
+	rouge-2:	P: 28.846	R: 18.293	F1: 22.388
+	rouge-l:	P: 65.674	R: 45.192	F1: 53.541
+
+
+
+KMB_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.571	R: 35.032	F1: 48.458
+	rouge-2:	P: 52.174	R: 23.077	F1: 32.000
+	rouge-l:	P: 80.553	R: 41.091	F1: 54.421
+
+
+
+KMT_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.898	R: 51.163	F1: 47.826
+	rouge-2:	P: 27.083	R: 30.952	F1: 28.889
+	rouge-l:	P: 51.308	R: 57.209	F1: 54.098
+
+
+
+KMT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 35.484	F1: 34.375
+	rouge-2:	P: 21.875	R: 23.333	F1: 22.581
+	rouge-l:	P: 40.031	R: 42.172	F1: 41.074
+
+
+
+KOP_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 5.000	R: 4.167	F1: 4.545
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 8.238	R: 7.077	F1: 7.613
+
+
+
+KRC_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+KSS_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 38.462	F1: 43.478
+	rouge-2:	P: 36.842	R: 28.000	F1: 31.818
+	rouge-l:	P: 56.123	R: 45.101	F1: 50.012
+
+
+
+KWR_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.617	R: 24.848	F1: 31.660
+	rouge-2:	P: 15.054	R: 8.537	F1: 10.895
+	rouge-l:	P: 48.041	R: 30.060	F1: 36.980
+
+
+
+KWR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.250	R: 45.000	F1: 50.000
+	rouge-2:	P: 40.000	R: 31.579	F1: 35.294
+	rouge-l:	P: 61.911	R: 51.406	F1: 56.171
+
+
+
+KW_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.429	R: 50.000	F1: 58.824
+	rouge-2:	P: 66.667	R: 44.444	F1: 53.333
+	rouge-l:	P: 75.549	R: 56.123	F1: 64.403
+
+
+
+LAZ_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.000	R: 46.809	F1: 45.361
+	rouge-2:	P: 22.449	R: 23.913	F1: 23.158
+	rouge-l:	P: 50.452	R: 53.122	F1: 51.752
+
+
+
+LEA_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.571	R: 36.170	F1: 41.463
+	rouge-2:	P: 41.176	R: 30.435	F1: 35.000
+	rouge-l:	P: 54.784	R: 42.851	F1: 48.088
+
+
+
+LHX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 59.375	R: 37.255	F1: 45.783
+	rouge-2:	P: 12.903	R: 8.000	F1: 9.877
+	rouge-l:	P: 56.123	R: 38.059	F1: 45.359
+
+
+
+LH_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.146	R: 29.474	F1: 31.638
+	rouge-2:	P: 16.049	R: 13.830	F1: 14.857
+	rouge-l:	P: 39.624	R: 35.051	F1: 37.197
+
+
+
+LIN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.939	R: 29.592	F1: 35.366
+	rouge-2:	P: 15.385	R: 10.309	F1: 12.346
+	rouge-l:	P: 46.011	R: 33.097	F1: 38.500
+
+
+
+LNG_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.621	R: 51.515	F1: 54.839
+	rouge-2:	P: 28.571	R: 25.000	F1: 26.667
+	rouge-l:	P: 57.731	R: 51.838	F1: 54.626
+
+
+
+LNN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.667	R: 45.455	F1: 43.478
+	rouge-2:	P: 29.787	R: 32.558	F1: 31.111
+	rouge-l:	P: 48.212	R: 51.838	F1: 49.959
+
+
+
+LPX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 31.034	F1: 33.962
+	rouge-2:	P: 21.127	R: 17.442	F1: 19.108
+	rouge-l:	P: 42.792	R: 36.549	F1: 39.425
+
+
+
+LRN_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 10.000	R: 11.111	F1: 10.526
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 14.678	R: 16.025	F1: 15.322
+
+
+
+LTC_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+LXP_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 73.913	R: 42.500	F1: 53.968
+	rouge-2:	P: 36.364	R: 20.513	F1: 26.230
+	rouge-l:	P: 73.903	R: 46.600	F1: 57.158
+
+
+
+LYB_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 23.810	R: 19.608	F1: 21.505
+	rouge-2:	P: 17.073	R: 14.000	F1: 15.385
+	rouge-l:	P: 30.243	R: 25.725	F1: 27.802
+
+
+
+LZB_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.769	R: 48.529	F1: 49.624
+	rouge-2:	P: 34.375	R: 32.836	F1: 33.588
+	rouge-l:	P: 55.403	R: 53.358	F1: 54.361
+
+
+
+MAC_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 20.690	R: 31.579	F1: 25.000
+	rouge-2:	P: 10.526	R: 16.216	F1: 12.766
+	rouge-l:	P: 25.021	R: 35.591	F1: 29.384
+
+
+
+MAN_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.421	R: 34.021	F1: 38.150
+	rouge-2:	P: 33.333	R: 26.042	F1: 29.240
+	rouge-l:	P: 49.898	R: 40.718	F1: 44.843
+
+
+
+MBI_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.444	R: 34.524	F1: 44.961
+	rouge-2:	P: 38.636	R: 20.482	F1: 26.772
+	rouge-l:	P: 69.341	R: 41.219	F1: 51.703
+
+
+
+MCK_q3_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.455	R: 44.444	F1: 44.944
+	rouge-2:	P: 30.233	R: 29.545	F1: 29.885
+	rouge-l:	P: 49.669	R: 48.747	F1: 49.204
+
+
+
+MDC_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 67.213	R: 51.899	F1: 58.571
+	rouge-2:	P: 35.000	R: 26.923	F1: 30.435
+	rouge-l:	P: 70.352	R: 56.714	F1: 62.801
+
+
+
+MDC_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.140	R: 59.524	F1: 58.824
+	rouge-2:	P: 30.588	R: 31.325	F1: 30.952
+	rouge-l:	P: 62.577	R: 63.816	F1: 63.191
+
+
+
+MDT_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.541	R: 27.523	F1: 32.787
+	rouge-2:	P: 13.699	R: 9.259	F1: 11.050
+	rouge-l:	P: 41.826	R: 30.289	F1: 35.135
+
+
+
+MD_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.000	R: 75.000	F1: 75.000
+	rouge-2:	P: 63.636	R: 63.636	F1: 63.636
+	rouge-l:	P: 78.684	R: 78.684	F1: 78.684
+
+
+
+MD_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.000	R: 75.000	F1: 37.500
+	rouge-2:	P: 18.182	R: 66.667	F1: 28.571
+	rouge-l:	P: 31.498	R: 78.684	F1: 44.987
+
+
+
+MFA_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 100.000	F1: 92.308
+	rouge-2:	P: 66.667	R: 80.000	F1: 72.727
+	rouge-l:	P: 87.945	R: 100.000	F1: 93.586
+
+
+
+MFA_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 30.000	F1: 36.364
+	rouge-2:	P: 33.333	R: 21.053	F1: 25.806
+	rouge-l:	P: 52.502	R: 36.666	F1: 43.178
+
+
+
+MG_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 32.394	R: 30.667	F1: 31.507
+	rouge-2:	P: 8.571	R: 8.108	F1: 8.333
+	rouge-l:	P: 39.089	R: 37.344	F1: 38.197
+
+
+
+MKC_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 59.016	R: 52.941	F1: 55.814
+	rouge-2:	P: 33.333	R: 29.851	F1: 31.496
+	rouge-l:	P: 62.943	R: 57.495	F1: 60.096
+
+
+
+MKC_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.118	R: 32.609	F1: 37.500
+	rouge-2:	P: 30.303	R: 22.222	F1: 25.641
+	rouge-l:	P: 50.564	R: 39.305	F1: 44.229
+
+
+
+MMS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 32.143	F1: 37.895
+	rouge-2:	P: 10.526	R: 7.273	F1: 8.602
+	rouge-l:	P: 42.581	R: 31.498	F1: 36.211
+
+
+
+MMS_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.185	R: 58.974	F1: 69.697
+	rouge-2:	P: 73.077	R: 50.000	F1: 59.375
+	rouge-l:	P: 87.492	R: 64.400	F1: 74.191
+
+
+
+MOH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.538	R: 45.714	F1: 52.459
+	rouge-2:	P: 56.000	R: 41.176	F1: 47.458
+	rouge-l:	P: 66.725	R: 52.085	F1: 58.503
+
+
+
+MO_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.939	R: 26.852	F1: 33.333
+	rouge-2:	P: 20.000	R: 12.150	F1: 15.116
+	rouge-l:	P: 48.942	R: 32.467	F1: 39.037
+
+
+
+MRO_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.000	R: 25.000	F1: 26.415
+	rouge-2:	P: 8.163	R: 7.273	F1: 7.692
+	rouge-l:	P: 32.545	R: 29.612	F1: 31.009
+
+
+
+MSA_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.000	R: 37.500	F1: 30.000
+	rouge-2:	P: 9.091	R: 14.286	F1: 11.111
+	rouge-l:	P: 31.498	R: 44.160	F1: 36.769
+
+
+
+MSI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.231	R: 61.644	F1: 65.217
+	rouge-2:	P: 40.625	R: 36.111	F1: 38.235
+	rouge-l:	P: 72.241	R: 65.581	F1: 68.750
+
+
+
+MSM_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.000	R: 85.714	F1: 80.000
+	rouge-2:	P: 53.333	R: 61.538	F1: 57.143
+	rouge-l:	P: 78.684	R: 87.945	F1: 83.057
+
+
+
+MSM_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.243	R: 47.059	F1: 45.070
+	rouge-2:	P: 27.778	R: 30.303	F1: 28.986
+	rouge-l:	P: 47.124	R: 50.564	F1: 48.784
+
+
+
+MTN_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.745	R: 47.059	F1: 53.782
+	rouge-2:	P: 46.000	R: 34.328	F1: 39.316
+	rouge-l:	P: 66.043	R: 51.965	F1: 58.164
+
+
+
+MYE_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.869	R: 30.357	F1: 29.060
+	rouge-2:	P: 11.667	R: 12.727	F1: 12.174
+	rouge-l:	P: 34.483	R: 37.030	F1: 35.711
+
+
+
+MYE_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 81.250	R: 66.667	F1: 73.239
+	rouge-2:	P: 67.742	R: 55.263	F1: 60.870
+	rouge-l:	P: 84.111	R: 71.328	F1: 77.194
+
+
+
+NCR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 67.857	R: 42.222	F1: 52.055
+	rouge-2:	P: 48.148	R: 29.545	F1: 36.620
+	rouge-l:	P: 72.387	R: 48.747	F1: 58.261
+
+
+
+NEE_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.727	R: 36.364	F1: 48.485
+	rouge-2:	P: 34.375	R: 16.923	F1: 22.680
+	rouge-l:	P: 71.328	R: 40.031	F1: 51.282
+
+
+
+NEE_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.636	R: 22.018	F1: 29.268
+	rouge-2:	P: 31.481	R: 15.741	F1: 20.988
+	rouge-l:	P: 50.104	R: 28.335	F1: 36.199
+
+
+
+NEE_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.556	R: 19.824	F1: 29.221
+	rouge-2:	P: 26.250	R: 9.292	F1: 13.725
+	rouge-l:	P: 58.996	R: 24.996	F1: 35.114
+
+
+
+NFG_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.902	R: 46.667	F1: 46.281
+	rouge-2:	P: 26.667	R: 27.119	F1: 26.891
+	rouge-l:	P: 52.262	R: 52.987	F1: 52.622
+
+
+
+NFG_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.758	R: 54.348	F1: 63.291
+	rouge-2:	P: 46.875	R: 33.333	F1: 38.961
+	rouge-l:	P: 79.345	R: 60.161	F1: 68.434
+
+
+
+NHI_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.714	R: 34.091	F1: 34.884
+	rouge-2:	P: 12.195	R: 11.628	F1: 11.905
+	rouge-l:	P: 42.400	R: 40.788	F1: 41.578
+
+
+
+NHI_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.167	R: 24.528	F1: 33.766
+	rouge-2:	P: 13.043	R: 5.769	F1: 8.000
+	rouge-l:	P: 59.994	R: 31.002	F1: 40.880
+
+
+
+NI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.923	R: 37.000	F1: 44.848
+	rouge-2:	P: 37.500	R: 24.242	F1: 29.448
+	rouge-l:	P: 59.698	R: 41.692	F1: 49.097
+
+
+
+NLY_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 57.143	F1: 61.538
+	rouge-2:	P: 29.412	R: 25.000	F1: 27.027
+	rouge-l:	P: 66.339	R: 58.342	F1: 62.084
+
+
+
+NLY_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 87.500	R: 70.000	F1: 77.778
+	rouge-2:	P: 53.333	R: 42.105	F1: 47.059
+	rouge-l:	P: 84.111	R: 69.838	F1: 76.313
+
+
+
+NNN_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.098	R: 69.697	F1: 62.162
+	rouge-2:	P: 30.000	R: 37.500	F1: 33.333
+	rouge-l:	P: 61.771	R: 74.019	F1: 67.343
+
+
+
+NNN_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 51.429	F1: 46.753
+	rouge-2:	P: 19.512	R: 23.529	F1: 21.333
+	rouge-l:	P: 49.357	R: 57.456	F1: 53.100
+
+
+
+NOW_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 12.500	R: 15.789	F1: 13.953
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 12.609	R: 15.319	F1: 13.833
+
+
+
+NPO_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.348	R: 45.455	F1: 49.505
+	rouge-2:	P: 31.111	R: 25.926	F1: 28.283
+	rouge-l:	P: 54.082	R: 46.600	F1: 50.063
+
+
+
+NR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 83.333	R: 83.333	F1: 83.333
+	rouge-2:	P: 80.000	R: 80.000	F1: 80.000
+	rouge-l:	P: 85.904	R: 85.904	F1: 85.904
+
+
+
+NWN_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 78.788	R: 86.667	F1: 82.540
+	rouge-2:	P: 68.750	R: 75.862	F1: 72.131
+	rouge-l:	P: 81.982	R: 88.759	F1: 85.236
+
+
+
+NWN_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 73.529	R: 62.500	F1: 67.568
+	rouge-2:	P: 48.485	R: 41.026	F1: 44.444
+	rouge-l:	P: 72.201	R: 63.056	F1: 67.319
+
+
+
+NX_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.679	R: 37.000	F1: 40.884
+	rouge-2:	P: 27.500	R: 22.222	F1: 24.581
+	rouge-l:	P: 50.876	R: 42.683	F1: 46.421
+
+
+
+NX_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 22.642	F1: 28.235
+	rouge-2:	P: 19.355	R: 11.538	F1: 14.458
+	rouge-l:	P: 44.160	R: 29.002	F1: 35.010
+
+
+
+NYT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.462	R: 33.043	F1: 42.222
+	rouge-2:	P: 28.125	R: 15.789	F1: 20.225
+	rouge-l:	P: 62.528	R: 38.867	F1: 47.937
+
+
+
+OCN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.095	R: 29.630	F1: 33.333
+	rouge-2:	P: 30.000	R: 23.077	F1: 26.087
+	rouge-l:	P: 44.743	R: 36.289	F1: 40.075
+
+
+
+OCN_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.451	R: 17.500	F1: 21.374
+	rouge-2:	P: 8.000	R: 5.063	F1: 6.202
+	rouge-l:	P: 27.852	R: 19.139	F1: 22.688
+
+
+
+OC_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 46.341	F1: 48.101
+	rouge-2:	P: 27.027	R: 25.000	F1: 25.974
+	rouge-l:	P: 53.651	R: 50.359	F1: 51.952
+
+
+
+OC_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.909	R: 57.143	F1: 53.846
+	rouge-2:	P: 33.333	R: 37.500	F1: 35.294
+	rouge-l:	P: 55.271	R: 60.856	F1: 57.930
+
+
+
+OFC_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.462	R: 33.898	F1: 36.036
+	rouge-2:	P: 19.608	R: 17.241	F1: 18.349
+	rouge-l:	P: 45.101	R: 40.596	F1: 42.730
+
+
+
+OFG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.571	R: 42.857	F1: 34.286
+	rouge-2:	P: 25.000	R: 38.462	F1: 30.303
+	rouge-l:	P: 35.205	R: 49.357	F1: 41.097
+
+
+
+OGE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 26.667	F1: 38.095
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 56.123	R: 26.153	F1: 35.680
+
+
+
+OHI_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+OIS_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-2:	P: 100.000	R: 100.000	F1: 100.000
+	rouge-l:	P: 100.000	R: 100.000	F1: 100.000
+
+
+
+OKE_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.231	R: 37.500	F1: 48.649
+	rouge-2:	P: 33.333	R: 17.391	F1: 22.857
+	rouge-l:	P: 73.606	R: 44.160	F1: 55.202
+
+
+
+OKE_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.333	R: 27.586	F1: 36.364
+	rouge-2:	P: 42.857	R: 21.429	F1: 28.571
+	rouge-l:	P: 59.224	R: 34.191	F1: 43.353
+
+
+
+OMI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.424	R: 42.424	F1: 42.424
+	rouge-2:	P: 25.000	R: 25.000	F1: 25.000
+	rouge-l:	P: 48.942	R: 48.942	F1: 48.942
+
+
+
+ORA_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 45.455	F1: 38.462
+	rouge-2:	P: 13.793	R: 19.048	F1: 16.000
+	rouge-l:	P: 36.666	R: 47.481	F1: 41.379
+
+
+
+ORI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+OSK_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 82.353	R: 93.333	F1: 87.500
+	rouge-2:	P: 69.697	R: 79.310	F1: 74.194
+	rouge-l:	P: 85.061	R: 94.413	F1: 89.493
+
+
+
+OXM_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 67.123	R: 75.385	F1: 71.014
+	rouge-2:	P: 56.944	R: 64.062	F1: 60.294
+	rouge-l:	P: 71.734	R: 79.020	F1: 75.201
+
+
+
+PBH_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.697	R: 92.000	F1: 79.310
+	rouge-2:	P: 56.250	R: 75.000	F1: 64.286
+	rouge-l:	P: 74.019	R: 93.287	F1: 82.544
+
+
+
+PBH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.333	R: 21.739	F1: 26.316
+	rouge-2:	P: 14.286	R: 9.091	F1: 11.111
+	rouge-l:	P: 40.031	R: 28.035	F1: 32.976
+
+
+
+PBH_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.860	R: 40.984	F1: 42.373
+	rouge-2:	P: 23.214	R: 21.667	F1: 22.414
+	rouge-l:	P: 50.318	R: 47.553	F1: 48.896
+
+
+
+PBI_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.211	R: 36.111	F1: 35.135
+	rouge-2:	P: 24.324	R: 25.714	F1: 25.000
+	rouge-l:	P: 40.907	R: 42.792	F1: 41.829
+
+
+
+PCG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 72.000	R: 48.000	F1: 57.600
+	rouge-2:	P: 38.776	R: 25.676	F1: 30.894
+	rouge-l:	P: 63.512	R: 45.302	F1: 52.883
+
+
+
+PFS_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 91.667	R: 78.571	F1: 84.615
+	rouge-2:	P: 81.818	R: 69.231	F1: 75.000
+	rouge-l:	P: 93.006	R: 81.794	F1: 87.040
+
+
+
+PFS_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 91.667	R: 73.333	F1: 81.481
+	rouge-2:	P: 81.818	R: 64.286	F1: 72.000
+	rouge-l:	P: 93.006	R: 77.224	F1: 84.383
+
+
+
+PG_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.176	R: 32.110	F1: 36.082
+	rouge-2:	P: 21.429	R: 16.667	F1: 18.750
+	rouge-l:	P: 44.304	R: 36.011	F1: 39.729
+
+
+
+PH_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.778	R: 33.333	F1: 35.417
+	rouge-2:	P: 15.909	R: 14.000	F1: 14.894
+	rouge-l:	P: 44.432	R: 40.031	F1: 42.117
+
+
+
+PKG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 33.846	R: 25.882	F1: 29.333
+	rouge-2:	P: 21.875	R: 16.667	F1: 18.919
+	rouge-l:	P: 40.544	R: 32.422	F1: 36.031
+
+
+
+PKG_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.517	R: 54.286	F1: 59.375
+	rouge-2:	P: 57.143	R: 47.059	F1: 51.613
+	rouge-l:	P: 70.301	R: 60.104	F1: 64.804
+
+
+
+PLD_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.941	R: 52.941	F1: 52.941
+	rouge-2:	P: 24.000	R: 24.000	F1: 24.000
+	rouge-l:	P: 57.039	R: 57.039	F1: 57.039
+
+
+
+PMT_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 30.769	F1: 40.000
+	rouge-2:	P: 38.462	R: 20.000	F1: 26.316
+	rouge-l:	P: 62.729	R: 37.448	F1: 46.899
+
+
+
+PNW_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.846	R: 46.667	F1: 50.000
+	rouge-2:	P: 50.000	R: 42.857	F1: 46.154
+	rouge-l:	P: 59.698	R: 52.987	F1: 56.143
+
+
+
+PNW_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.789	R: 52.083	F1: 58.140
+	rouge-2:	P: 45.946	R: 36.170	F1: 40.476
+	rouge-l:	P: 70.545	R: 58.065	F1: 63.699
+
+
+
+PNW_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 76.000	R: 45.238	F1: 56.716
+	rouge-2:	P: 50.000	R: 29.268	F1: 36.923
+	rouge-l:	P: 79.557	R: 51.632	F1: 62.623
+
+
+
+POR_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.000	R: 54.545	F1: 57.143
+	rouge-2:	P: 32.653	R: 29.630	F1: 31.068
+	rouge-l:	P: 65.332	R: 60.344	F1: 62.739
+
+
+
+PPL_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.148	R: 37.143	F1: 41.935
+	rouge-2:	P: 23.077	R: 17.647	F1: 20.000
+	rouge-l:	P: 47.318	R: 38.116	F1: 42.221
+
+
+
+PPL_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.105	R: 28.070	F1: 33.684
+	rouge-2:	P: 18.919	R: 12.500	F1: 15.054
+	rouge-l:	P: 46.088	R: 32.874	F1: 38.375
+
+
+
+PRI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 29.730	R: 42.308	F1: 34.921
+	rouge-2:	P: 19.444	R: 28.000	F1: 22.951
+	rouge-l:	P: 36.391	R: 48.830	F1: 41.702
+
+
+
+PRI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 47.059	F1: 48.485
+	rouge-2:	P: 46.667	R: 43.750	F1: 45.161
+	rouge-l:	P: 56.123	R: 53.358	F1: 54.706
+
+
+
+PRO_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 54.545	F1: 48.000
+	rouge-2:	P: 33.333	R: 42.857	F1: 37.500
+	rouge-l:	P: 49.357	R: 60.344	F1: 54.300
+
+
+
+PSX_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.429	R: 66.667	F1: 68.966
+	rouge-2:	P: 61.538	R: 57.143	F1: 59.259
+	rouge-l:	P: 75.549	R: 71.328	F1: 73.377
+
+
+
+PXD_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.026	R: 20.253	F1: 27.119
+	rouge-2:	P: 18.421	R: 8.974	F1: 12.069
+	rouge-l:	P: 45.101	R: 25.045	F1: 32.206
+
+
+
+RES_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.636	R: 56.000	F1: 59.574
+	rouge-2:	P: 52.381	R: 45.833	F1: 48.889
+	rouge-l:	P: 68.615	R: 61.682	F1: 64.964
+
+
+
+REX_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 48.000	F1: 47.059
+	rouge-2:	P: 36.000	R: 37.500	F1: 36.735
+	rouge-l:	P: 52.502	R: 54.246	F1: 53.360
+
+
+
+REX_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.842	R: 50.000	F1: 42.424
+	rouge-2:	P: 33.333	R: 46.154	F1: 38.710
+	rouge-l:	P: 43.513	R: 56.123	F1: 49.020
+
+
+
+RE_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+RF_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.741	R: 31.429	F1: 35.484
+	rouge-2:	P: 7.692	R: 5.882	F1: 6.667
+	rouge-l:	P: 43.705	R: 35.205	F1: 38.997
+
+
+
+RF_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 29.412	R: 37.037	F1: 32.787
+	rouge-2:	P: 15.152	R: 19.231	F1: 16.949
+	rouge-l:	P: 36.066	R: 43.705	F1: 39.520
+
+
+
+RGR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 43.902	F1: 52.941
+	rouge-2:	P: 30.769	R: 20.000	F1: 24.242
+	rouge-l:	P: 71.328	R: 50.359	F1: 59.036
+
+
+
+RKT_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 85.714	R: 75.000	F1: 80.000
+	rouge-2:	P: 66.667	R: 57.143	F1: 61.538
+	rouge-l:	P: 87.945	R: 78.684	F1: 83.057
+
+
+
+RMD_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.824	R: 64.516	F1: 61.538
+	rouge-2:	P: 48.485	R: 53.333	F1: 50.794
+	rouge-l:	P: 64.263	R: 69.405	F1: 66.735
+
+
+
+RMD_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 60.714	R: 56.667	F1: 58.621
+	rouge-2:	P: 44.444	R: 41.379	F1: 42.857
+	rouge-l:	P: 65.980	R: 62.293	F1: 64.083
+
+
+
+RMD_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.170	R: 53.125	F1: 43.038
+	rouge-2:	P: 23.913	R: 35.484	F1: 28.571
+	rouge-l:	P: 42.851	R: 59.031	F1: 49.656
+
+
+
+RM_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.176	R: 43.750	F1: 42.424
+	rouge-2:	P: 31.250	R: 33.333	F1: 32.258
+	rouge-l:	P: 47.739	R: 50.213	F1: 48.945
+
+
+
+RM_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 30.000	R: 20.690	F1: 24.490
+	rouge-2:	P: 21.053	R: 14.286	F1: 17.021
+	rouge-l:	P: 36.666	R: 26.903	F1: 31.035
+
+
+
+ROG_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.235	R: 67.188	F1: 65.152
+	rouge-2:	P: 44.776	R: 47.619	F1: 46.154
+	rouge-l:	P: 68.255	R: 71.792	F1: 69.979
+
+
+
+RPM_q3_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.556	R: 33.898	F1: 42.105
+	rouge-2:	P: 34.286	R: 20.690	F1: 25.806
+	rouge-l:	P: 61.274	R: 40.596	F1: 48.836
+
+
+
+RPT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 73.913	R: 89.474	F1: 80.952
+	rouge-2:	P: 59.091	R: 72.222	F1: 65.000
+	rouge-l:	P: 77.732	R: 91.148	F1: 83.907
+
+
+
+RWT_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 92.857	R: 65.000	F1: 76.471
+	rouge-2:	P: 69.231	R: 47.368	F1: 56.250
+	rouge-l:	P: 94.011	R: 69.838	F1: 80.142
+
+
+
+R_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.632	R: 32.258	F1: 40.000
+	rouge-2:	P: 37.838	R: 22.951	F1: 28.571
+	rouge-l:	P: 58.574	R: 38.952	F1: 46.789
+
+
+
+SAM_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.333	R: 53.333	F1: 53.333
+	rouge-2:	P: 42.857	R: 42.857	F1: 42.857
+	rouge-l:	P: 59.224	R: 59.224	F1: 59.224
+
+
+
+SCI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.000	R: 57.143	F1: 60.377
+	rouge-2:	P: 41.667	R: 37.037	F1: 39.216
+	rouge-l:	P: 68.942	R: 62.729	F1: 65.689
+
+
+
+SCL_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.000	R: 20.930	F1: 26.471
+	rouge-2:	P: 25.000	R: 14.286	F1: 18.182
+	rouge-l:	P: 42.683	R: 27.163	F1: 33.199
+
+
+
+SCL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 57.143	F1: 57.143
+	rouge-2:	P: 50.000	R: 50.000	F1: 50.000
+	rouge-l:	P: 62.729	R: 62.729	F1: 62.729
+
+
+
+SCL_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.750	R: 46.667	F1: 45.161
+	rouge-2:	P: 40.000	R: 42.857	F1: 41.379
+	rouge-l:	P: 50.213	R: 52.987	F1: 51.563
+
+
+
+SEM_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 44.737	R: 48.571	F1: 46.575
+	rouge-2:	P: 37.838	R: 41.176	F1: 39.437
+	rouge-l:	P: 51.155	R: 54.784	F1: 52.907
+
+
+
+SEM_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.333	R: 72.917	F1: 64.815
+	rouge-2:	P: 45.763	R: 57.447	F1: 50.943
+	rouge-l:	P: 63.816	R: 76.858	F1: 69.733
+
+
+
+SEM_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.556	R: 62.963	F1: 68.687
+	rouge-2:	P: 59.091	R: 49.057	F1: 53.608
+	rouge-l:	P: 79.169	R: 68.010	F1: 73.166
+
+
+
+SF_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 83.333	R: 62.500	F1: 71.429
+	rouge-2:	P: 80.000	R: 57.143	F1: 66.667
+	rouge-l:	P: 85.904	R: 67.593	F1: 75.656
+
+
+
+SF_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.556	R: 55.556	F1: 55.556
+	rouge-2:	P: 46.154	R: 46.154	F1: 46.154
+	rouge-l:	P: 61.274	R: 61.274	F1: 61.274
+
+
+
+SHW_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.000	R: 64.198	F1: 64.596
+	rouge-2:	P: 39.241	R: 38.750	F1: 38.994
+	rouge-l:	P: 68.717	R: 68.010	F1: 68.362
+
+
+
+SIG_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.427	R: 43.697	F1: 50.000
+	rouge-2:	P: 30.682	R: 22.881	F1: 26.214
+	rouge-l:	P: 63.902	R: 50.163	F1: 56.205
+
+
+
+SJI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.455	R: 55.556	F1: 50.000
+	rouge-2:	P: 19.048	R: 23.529	F1: 21.053
+	rouge-l:	P: 51.838	R: 61.274	F1: 56.162
+
+
+
+SKT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 50.000	R: 67.742	F1: 57.534
+	rouge-2:	P: 34.146	R: 46.667	F1: 39.437
+	rouge-l:	P: 56.123	R: 72.285	F1: 63.187
+
+
+
+SKX_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.846	R: 55.556	F1: 54.687
+	rouge-2:	P: 37.500	R: 38.710	F1: 38.095
+	rouge-l:	P: 58.274	R: 59.811	F1: 59.032
+
+
+
+SMG_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.889	R: 35.897	F1: 37.333
+	rouge-2:	P: 25.714	R: 23.684	F1: 24.658
+	rouge-l:	P: 42.792	R: 40.031	F1: 41.366
+
+
+
+SNV_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.571	R: 31.579	F1: 30.000
+	rouge-2:	P: 25.000	R: 27.778	F1: 26.316
+	rouge-l:	P: 35.205	R: 38.268	F1: 36.673
+
+
+
+SPG_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 40.541	F1: 50.420
+	rouge-2:	P: 34.091	R: 20.548	F1: 25.641
+	rouge-l:	P: 71.328	R: 47.124	F1: 56.753
+
+
+
+SPR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.623	R: 50.000	F1: 51.748
+	rouge-2:	P: 33.824	R: 31.507	F1: 32.624
+	rouge-l:	P: 59.492	R: 56.123	F1: 57.759
+
+
+
+SPR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 46.875	F1: 46.512
+	rouge-2:	P: 29.688	R: 30.159	F1: 29.921
+	rouge-l:	P: 51.039	R: 51.703	F1: 51.369
+
+
+
+SSD_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.667	R: 26.667	F1: 32.520
+	rouge-2:	P: 25.532	R: 16.216	F1: 19.835
+	rouge-l:	P: 46.195	R: 31.848	F1: 37.702
+
+
+
+SSD_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.619	R: 43.478	F1: 45.455
+	rouge-2:	P: 29.268	R: 26.667	F1: 27.907
+	rouge-l:	P: 51.632	R: 47.863	F1: 49.676
+
+
+
+STE_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.667	R: 38.462	F1: 40.000
+	rouge-2:	P: 36.364	R: 33.333	F1: 34.783
+	rouge-l:	P: 48.212	R: 45.101	F1: 46.605
+
+
+
+SUI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.765	R: 77.778	F1: 68.852
+	rouge-2:	P: 45.455	R: 57.692	F1: 50.847
+	rouge-l:	P: 64.263	R: 77.873	F1: 70.416
+
+
+
+SWI_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 81.132	R: 86.000	F1: 83.495
+	rouge-2:	P: 63.462	R: 67.347	F1: 65.347
+	rouge-l:	P: 84.009	R: 88.189	F1: 86.048
+
+
+
+SWN_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 8.000	R: 9.524	F1: 8.696
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 12.187	R: 14.093	F1: 13.071
+
+
+
+SXC_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.000	R: 37.500	F1: 40.909
+	rouge-2:	P: 31.579	R: 26.087	F1: 28.571
+	rouge-l:	P: 51.406	R: 44.160	F1: 47.508
+
+
+
+SXI_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 31.818	F1: 36.522
+	rouge-2:	P: 18.750	R: 13.846	F1: 15.929
+	rouge-l:	P: 47.391	R: 36.975	F1: 41.540
+
+
+
+SXI_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.500	R: 25.714	F1: 30.508
+	rouge-2:	P: 21.739	R: 14.706	F1: 17.544
+	rouge-l:	P: 44.160	R: 32.246	F1: 37.274
+
+
+
+SXI_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 28.571	R: 32.000	F1: 30.189
+	rouge-2:	P: 9.091	R: 10.204	F1: 9.615
+	rouge-l:	P: 35.205	R: 38.692	F1: 36.867
+
+
+
+SXT_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 31.707	R: 23.423	F1: 26.943
+	rouge-2:	P: 12.346	R: 9.091	F1: 10.471
+	rouge-l:	P: 37.163	R: 28.874	F1: 32.498
+
+
+
+SYF_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 40.000	R: 30.000	F1: 34.286
+	rouge-2:	P: 28.571	R: 21.053	F1: 24.242
+	rouge-l:	P: 46.600	R: 36.666	F1: 41.041
+
+
+
+SYK_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 67.442	R: 70.732	F1: 69.048
+	rouge-2:	P: 50.000	R: 52.500	F1: 51.220
+	rouge-l:	P: 72.018	R: 74.934	F1: 73.447
+
+
+
+SYY_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.724	R: 57.692	F1: 54.545
+	rouge-2:	P: 28.571	R: 32.000	F1: 30.189
+	rouge-l:	P: 57.731	R: 63.231	F1: 60.356
+
+
+
+S_q3_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.000	R: 63.636	F1: 66.667
+	rouge-2:	P: 34.483	R: 31.250	F1: 32.787
+	rouge-l:	P: 71.328	R: 65.881	F1: 68.496
+
+
+
+S_q4_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.421	R: 60.465	F1: 64.198
+	rouge-2:	P: 18.919	R: 16.667	F1: 17.722
+	rouge-l:	P: 65.809	R: 59.368	F1: 62.423
+
+
+
+TAL_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+TAP_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 45.714	R: 58.182	F1: 51.200
+	rouge-2:	P: 30.435	R: 38.889	F1: 34.146
+	rouge-l:	P: 50.725	R: 62.015	F1: 55.805
+
+
+
+TBI_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.839	R: 68.000	F1: 60.714
+	rouge-2:	P: 50.000	R: 62.500	F1: 55.556
+	rouge-l:	P: 60.614	R: 72.514	F1: 66.032
+
+
+
+TDC_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 62.121	R: 53.247	F1: 57.343
+	rouge-2:	P: 44.615	R: 38.158	F1: 41.135
+	rouge-l:	P: 67.251	R: 59.144	F1: 62.938
+
+
+
+TDG_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+TDY_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 64.516	R: 58.824	F1: 61.538
+	rouge-2:	P: 36.667	R: 33.333	F1: 34.921
+	rouge-l:	P: 66.501	R: 61.574	F1: 63.942
+
+
+
+TDY_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 81.481	R: 62.857	F1: 70.968
+	rouge-2:	P: 69.231	R: 52.941	F1: 60.000
+	rouge-l:	P: 84.311	R: 67.914	F1: 75.230
+
+
+
+TEL_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.966	R: 72.727	F1: 70.796
+	rouge-2:	P: 57.895	R: 61.111	F1: 59.459
+	rouge-l:	P: 73.371	R: 76.692	F1: 74.995
+
+
+
+TEX_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.000	R: 41.935	F1: 46.429
+	rouge-2:	P: 29.167	R: 23.333	F1: 25.926
+	rouge-l:	P: 57.988	R: 48.471	F1: 52.804
+
+
+
+TFX_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 63.636	R: 62.222	F1: 62.921
+	rouge-2:	P: 48.837	R: 47.727	F1: 48.276
+	rouge-l:	P: 68.615	R: 67.342	F1: 67.973
+
+
+
+TK_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.429	R: 43.478	F1: 54.054
+	rouge-2:	P: 46.154	R: 27.273	F1: 34.286
+	rouge-l:	P: 75.549	R: 49.953	F1: 60.141
+
+
+
+TK_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 26.667	R: 40.000	F1: 32.000
+	rouge-2:	P: 20.690	R: 31.579	F1: 25.000
+	rouge-l:	P: 33.238	R: 46.600	F1: 38.801
+
+
+
+TK_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 100.000	R: 77.778	F1: 87.500
+	rouge-2:	P: 100.000	R: 75.000	F1: 85.714
+	rouge-l:	P: 100.000	R: 81.105	F1: 89.567
+
+
+
+TNC_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.667	R: 78.788	F1: 72.222
+	rouge-2:	P: 60.526	R: 71.875	F1: 65.714
+	rouge-l:	P: 71.328	R: 81.982	F1: 76.284
+
+
+
+TRV_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.556	R: 32.520	F1: 41.026
+	rouge-2:	P: 25.352	R: 14.754	F1: 18.653
+	rouge-l:	P: 57.419	R: 36.749	F1: 44.816
+
+
+
+TRV_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.227	R: 37.349	F1: 36.257
+	rouge-2:	P: 14.943	R: 15.854	F1: 15.385
+	rouge-l:	P: 38.509	R: 40.433	F1: 39.447
+
+
+
+TSN_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.737	R: 16.923	F1: 22.759
+	rouge-2:	P: 10.638	R: 5.155	F1: 6.944
+	rouge-l:	P: 39.328	R: 21.599	F1: 27.884
+
+
+
+TT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 6.667	R: 5.000	F1: 5.714
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 10.469	R: 8.238	F1: 9.220
+
+
+
+TT_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 27.027	R: 27.778	F1: 27.397
+	rouge-2:	P: 2.778	R: 2.857	F1: 2.817
+	rouge-l:	P: 33.612	R: 34.389	F1: 33.996
+
+
+
+TUP_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 16.129	R: 11.111	F1: 13.158
+	rouge-2:	P: 6.557	R: 4.494	F1: 5.333
+	rouge-l:	P: 21.861	R: 16.025	F1: 18.494
+
+
+
+TXT_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 69.697	R: 48.936	F1: 57.500
+	rouge-2:	P: 40.000	R: 27.957	F1: 32.911
+	rouge-l:	P: 72.676	R: 54.126	F1: 62.044
+
+
+
+TXT_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 68.000	R: 56.667	F1: 61.818
+	rouge-2:	P: 45.946	R: 38.202	F1: 41.718
+	rouge-l:	P: 71.328	R: 61.274	F1: 65.919
+
+
+
+T_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 65.385	R: 25.000	F1: 36.170
+	rouge-2:	P: 36.364	R: 13.793	F1: 20.000
+	rouge-l:	P: 69.034	R: 30.983	F1: 42.770
+
+
+
+UFI_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.148	R: 43.333	F1: 45.614
+	rouge-2:	P: 34.615	R: 31.034	F1: 32.727
+	rouge-l:	P: 54.385	R: 49.814	F1: 51.999
+
+
+
+UHS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 0.000	R: 0.000	F1: 0.000
+
+
+
+UNM_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 59.091	R: 60.465	F1: 59.770
+	rouge-2:	P: 34.884	R: 35.714	F1: 35.294
+	rouge-l:	P: 62.432	R: 63.639	F1: 63.030
+
+
+
+UNP_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 38.889	R: 24.138	F1: 29.787
+	rouge-2:	P: 29.412	R: 17.857	F1: 22.222
+	rouge-l:	P: 45.519	R: 30.590	F1: 36.590
+
+
+
+URI_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 10.000	R: 14.286	F1: 11.765
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 14.678	R: 19.758	F1: 16.843
+
+
+
+USM_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.174	R: 66.667	F1: 58.537
+	rouge-2:	P: 36.364	R: 47.059	F1: 41.026
+	rouge-l:	P: 58.149	R: 71.328	F1: 64.068
+
+
+
+USM_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 71.429	R: 76.923	F1: 74.074
+	rouge-2:	P: 61.538	R: 66.667	F1: 64.000
+	rouge-l:	P: 75.549	R: 80.361	F1: 77.881
+
+
+
+UVE_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 48.000	R: 50.000	F1: 48.980
+	rouge-2:	P: 29.167	R: 30.435	F1: 29.787
+	rouge-l:	P: 54.246	R: 56.123	F1: 55.169
+
+
+
+UVE_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 47.059	R: 39.024	F1: 42.667
+	rouge-2:	P: 33.333	R: 27.500	F1: 30.137
+	rouge-l:	P: 53.358	R: 45.651	F1: 49.204
+
+
+
+UVE_q4_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 75.000	R: 70.000	F1: 72.414
+	rouge-2:	P: 55.556	R: 51.724	F1: 53.571
+	rouge-l:	P: 78.684	R: 74.287	F1: 76.422
+
+
+
+VFC_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 61.538	R: 57.143	F1: 59.259
+	rouge-2:	P: 48.000	R: 44.444	F1: 46.154
+	rouge-l:	P: 66.725	R: 62.729	F1: 64.665
+
+
+
+VGR_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 46.154	R: 40.000	F1: 42.857
+	rouge-2:	P: 41.667	R: 35.714	F1: 38.462
+	rouge-l:	P: 52.502	R: 46.600	F1: 49.375
+
+
+
+VLO_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 54.545	R: 40.000	F1: 46.154
+	rouge-2:	P: 43.750	R: 31.818	F1: 36.842
+	rouge-l:	P: 60.344	R: 46.600	F1: 52.589
+
+
+
+VMI_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 43.137	R: 57.895	F1: 49.438
+	rouge-2:	P: 30.000	R: 40.541	F1: 34.483
+	rouge-l:	P: 49.626	R: 63.416	F1: 55.680
+
+
+
+VSH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.270	R: 78.788	F1: 74.286
+	rouge-2:	P: 47.222	R: 53.125	F1: 50.000
+	rouge-l:	P: 72.130	R: 79.345	F1: 75.566
+
+
+
+VSH_q4_2019.txt
+
+Evaluation with Avg
+	rouge-1:	P: 52.381	R: 34.375	F1: 41.509
+	rouge-2:	P: 26.829	R: 17.460	F1: 21.154
+	rouge-l:	P: 58.342	R: 41.071	F1: 48.206
+
+
+
+VTR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.852	R: 50.000	F1: 50.909
+	rouge-2:	P: 39.623	R: 38.182	F1: 38.889
+	rouge-l:	P: 57.850	R: 56.123	F1: 56.973
+
+
+
+VTR_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 42.857	R: 50.000	F1: 46.154
+	rouge-2:	P: 16.667	R: 20.000	F1: 18.182
+	rouge-l:	P: 49.357	R: 56.123	F1: 52.523
+
+
+
+WAL_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 25.000	R: 20.000	F1: 22.222
+	rouge-2:	P: 17.647	R: 14.062	F1: 15.652
+	rouge-l:	P: 31.498	R: 26.153	F1: 28.578
+
+
+
+WAL_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 13.333	R: 5.714	F1: 8.000
+	rouge-2:	P: 0.000	R: 0.000	F1: 0.000
+	rouge-l:	P: 18.654	R: 9.207	F1: 12.329
+
+
+
+WAT_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 70.370	R: 64.773	F1: 67.456
+	rouge-2:	P: 48.750	R: 44.828	F1: 46.707
+	rouge-l:	P: 73.522	R: 68.615	F1: 70.984
+
+
+
+WBS_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 31.250	R: 38.462	F1: 34.483
+	rouge-2:	P: 19.355	R: 24.000	F1: 21.429
+	rouge-l:	P: 37.935	R: 45.101	F1: 41.209
+
+
+
+WCC_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 34.615	R: 31.034	F1: 32.727
+	rouge-2:	P: 16.000	R: 14.286	F1: 15.094
+	rouge-l:	P: 41.310	R: 37.717	F1: 39.432
+
+
+
+WCC_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 56.250	R: 34.615	F1: 42.857
+	rouge-2:	P: 40.000	R: 24.000	F1: 30.000
+	rouge-l:	P: 56.123	R: 37.448	F1: 44.922
+
+
+
+WEC_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.778	R: 35.417	F1: 36.559
+	rouge-2:	P: 13.636	R: 12.766	F1: 13.187
+	rouge-l:	P: 42.243	R: 40.031	F1: 41.107
+
+
+
+WHR_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 36.508	R: 39.655	F1: 38.017
+	rouge-2:	P: 14.516	R: 15.789	F1: 15.126
+	rouge-l:	P: 41.614	R: 44.582	F1: 43.047
+
+
+
+WMS_q1_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 37.931	R: 35.484	F1: 36.667
+	rouge-2:	P: 21.429	R: 20.000	F1: 20.690
+	rouge-l:	P: 44.582	R: 42.172	F1: 43.344
+
+
+
+WOR_q2_2022.txt
+
+Evaluation with Avg
+	rouge-1:	P: 57.143	R: 34.783	F1: 43.243
+	rouge-2:	P: 7.692	R: 4.545	F1: 5.714
+	rouge-l:	P: 56.123	R: 37.109	F1: 44.677
+
+
+
+WRE_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.714	R: 41.284	F1: 38.298
+	rouge-2:	P: 12.000	R: 13.889	F1: 12.876
+	rouge-l:	P: 37.634	R: 42.465	F1: 39.904
+
+
+
+WSO_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 51.064	R: 40.000	F1: 44.860
+	rouge-2:	P: 23.913	R: 18.644	F1: 20.952
+	rouge-l:	P: 49.066	R: 40.031	F1: 44.090
+
+
+
+WSR_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 76.923	R: 50.000	F1: 60.606
+	rouge-2:	P: 41.667	R: 26.316	F1: 32.258
+	rouge-l:	P: 80.361	R: 56.123	F1: 66.090
+
+
+
+WST_q1_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 66.000	R: 52.381	F1: 58.407
+	rouge-2:	P: 53.061	R: 41.935	F1: 46.847
+	rouge-l:	P: 70.733	R: 58.342	F1: 63.942
+
+
+
+WST_q3_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.030	R: 53.030	F1: 53.030
+	rouge-2:	P: 32.308	R: 32.308	F1: 32.308
+	rouge-l:	P: 56.123	R: 56.123	F1: 56.123
+
+
+
+WTS_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 23.810	R: 27.778	F1: 25.641
+	rouge-2:	P: 5.000	R: 5.882	F1: 5.405
+	rouge-l:	P: 30.243	R: 34.389	F1: 32.183
+
+
+
+WU_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 83.951	R: 52.713	F1: 64.762
+	rouge-2:	P: 52.500	R: 32.812	F1: 40.385
+	rouge-l:	P: 86.434	R: 58.650	F1: 69.882
+
+
+
+WWE_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 35.484	R: 34.375	F1: 34.921
+	rouge-2:	P: 6.667	R: 6.452	F1: 6.557
+	rouge-l:	P: 35.678	R: 34.746	F1: 35.206
+
+
+
+WWE_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 23.810	R: 23.810	F1: 23.810
+	rouge-2:	P: 10.000	R: 10.000	F1: 10.000
+	rouge-l:	P: 30.243	R: 30.243	F1: 30.243
+
+
+
+WWW_q3_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 55.224	R: 44.048	F1: 49.007
+	rouge-2:	P: 31.818	R: 25.301	F1: 28.188
+	rouge-l:	P: 60.969	R: 50.497	F1: 55.241
+
+
+
+WY_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 41.096	R: 35.294	F1: 37.975
+	rouge-2:	P: 20.833	R: 17.857	F1: 19.231
+	rouge-l:	P: 47.661	R: 41.984	F1: 44.643
+
+
+
+XYL_q2_2020.txt
+
+Evaluation with Avg
+	rouge-1:	P: 29.114	R: 28.049	F1: 28.571
+	rouge-2:	P: 10.256	R: 9.877	F1: 10.063
+	rouge-l:	P: 35.762	R: 34.668	F1: 35.206
+
+
+
+ZBH_q1_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 58.974	R: 58.974	F1: 58.974
+	rouge-2:	P: 39.474	R: 39.474	F1: 39.474
+	rouge-l:	P: 64.400	R: 64.400	F1: 64.400
+
+
+
+ZBH_q2_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 53.226	R: 57.895	F1: 55.462
+	rouge-2:	P: 34.426	R: 37.500	F1: 35.897
+	rouge-l:	P: 59.125	R: 63.416	F1: 61.195
+
+
+
+ZTS_q4_2021.txt
+
+Evaluation with Avg
+	rouge-1:	P: 73.810	R: 77.500	F1: 75.610
+	rouge-2:	P: 63.415	R: 66.667	F1: 65.000
+	rouge-l:	P: 77.641	R: 80.863	F1: 79.220
+
+
+
+
+
+
+Average rouge-1 scores:
+Precision: 0.505 	 Recall: 0.454 	 F1: 0.467
+
+
+Average rouge-2 scores:
+Precision: 0.33 	 Recall: 0.3 	 F1: 0.307
+
+
+Average rouge-l scores:
+Precision: 0.547 	 Recall: 0.499 	 F1: 0.514
+****************************************************************************************
+
+
+Numerical Evaluation
+
+Percentage of ground truth summary values in predicted summaries: 0.537
+
+Percentage of factually correct summary values in predicted summaries: 0.611
+Percentage of predicted values in source documents or ground truth summaries: 0.916

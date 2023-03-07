@@ -1,5 +1,6 @@
 import os
 import re
+import rouge
 import random
 from num2words import num2words
 from word2number import w2n
@@ -7,6 +8,7 @@ from collections import Counter
 from nltk import ngrams
 
 # ------------------------------------------------------------------------
+# pip install rouge
 # pip install num2words
 # pip install word2number
 # ------------------------------------------------------------------------
@@ -218,3 +220,83 @@ def getPPText(line):
 		text = text.replace(f'code {match}', '[PASSCODE]')
 	text = ' '.join(word if '[PASSCODE]' not in word else 'passcode' for word in text.split()).strip()
 	return text
+
+
+def prepare_results(metric, p, r, f):
+	return '\t{}:\t{}: {:5.3f}\t{}: {:5.3f}\t{}: {:5.3f}'.format(metric, 'P', 100.0 * p, 'R', 100.0 * r, 'F1', 100.0 * f)
+
+
+def getRouge(pred_summary, gt_summary, f_out):
+	# f_out.write('Summary Evaluation\n\n')
+	# for aggregator in ['Avg', 'Best', 'Individual']:
+	metric_scores = {}
+	for aggregator in ['Avg']:
+		f_out.write('Evaluation with {}'.format(aggregator) + '\n')
+		apply_avg = aggregator == 'Avg'
+		apply_best = aggregator == 'Best'
+
+		evaluator = rouge.Rouge(metrics=['rouge-n', 'rouge-l'],
+							   max_n=2,
+							   # limit_length=True,
+							   # length_limit=100,
+							   length_limit_type='words',
+							   apply_avg=apply_avg,
+							   apply_best=apply_best,
+							   alpha=0.5, # Default F1_score
+							   weight_factor=1.2,
+							   stemming=True)
+
+		all_hypothesis = [pred_summary]
+		all_references = [gt_summary]
+
+		scores = evaluator.get_scores(all_hypothesis, all_references)
+		
+		for metric, results in sorted(scores.items(), key=lambda x: x[0]):
+			if not apply_avg and not apply_best: # value is a type of list as we evaluate each summary vs each reference
+				for hypothesis_id, results_per_ref in enumerate(results):
+					nb_references = len(results_per_ref['p'])
+					for reference_id in range(nb_references):
+						print('\tHypothesis #{} & Reference #{}: '.format(hypothesis_id, reference_id) + '\n')
+						print('\t' + prepare_results(metric, results_per_ref['p'][reference_id], results_per_ref['r'][reference_id], results_per_ref['f'][reference_id]))
+				print()
+			else:
+				f_out.write(prepare_results(metric, results['p'], results['r'], results['f']))
+				f_out.write('\n')
+				print(prepare_results(metric, results['p'], results['r'], results['f']))
+				print('\n')
+				metric_scores[metric] = [results['p'], results['r'], results['f']]
+		f_out.write('\n\n\n')
+		print()
+
+	return metric_scores
+
+
+def checkValues(doc_lines_num, summ_lines_num, pred_summ_lines_num):
+	doc_vals = []
+	for line in doc_lines_num:
+		doc_vals.extend(re.findall(pattern7, line))
+	summ_vals = []
+	for line in summ_lines_num:
+		summ_vals.extend(re.findall(pattern7, line))
+	pred_vals = []
+	for line in pred_summ_lines_num:
+		pred_vals.extend(re.findall(pattern7, line)) 
+
+	doc_vals = set(doc_vals)
+	summ_vals = set(summ_vals)
+	doc_summ_vals = doc_vals.union(summ_vals)
+	
+	fact_summ_vals = summ_vals.copy()
+	for val in summ_vals.difference(doc_vals):
+		fact_summ_vals.remove(val)
+	
+	pred_vals = set(pred_vals)
+
+	if len(pred_vals) == 0:
+		return -1, -1, -1
+	else:
+		perc_pred_summ = 0 if len(summ_vals) == 0 else round(len(pred_vals.intersection(summ_vals))/len(summ_vals), 2)
+		perc_pred_summ_fact = 0 if len(fact_summ_vals) == 0 else round(len(pred_vals.intersection(fact_summ_vals))/len(fact_summ_vals), 2)
+		perc_pred_doc_summ = 0 if len(pred_vals) == 0 else round(len(pred_vals.intersection(doc_summ_vals))/len(pred_vals), 2)
+		
+		return perc_pred_summ, perc_pred_summ_fact, perc_pred_doc_summ
