@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-two.
+qtr-two adjusted earnings per share $num-one.
+qtr-two revenue $num-two billion versus refinitiv ibes estimate of $1.98 billion.
+qtr-two revenue rose num-one percent to $num-two million.
+qtr-two adjusted earnings per share $num-three excluding items.
+qtrly outpatient rehabilitation volumes and revenues were down num-one% and num-two% respectively in month of april and may resulting in adjusted ebitda losses in both of those months in outpatient rehab segment.
+qtrly total revenue decreased num-one% and num-two% in concentra segment.
+qtrly revenue increased num-one% on a same period year-over-year basis.
+qtrly june occupancy rate of num-one% was close to pre-covid levels.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $1.61 billion.
+qtr-two revenue per patient day $num-two.
+qtr-two revenue $num-two million versus refinitiv ibes estimate of $3.04 billion.
+qtrly net revenues decreased num-one% to $1.2 billion, year over year.
+qtr-three adjusted ebitda $num-one million versus refinitiv ibes estimate of $2.4 billion.
+qtr-two revenue per visit $num-one.
+qtr-four revenue fell num-one% to $num-two billion.

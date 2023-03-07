@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+sees qtr-three adjusted earnings per share $num-three to $num - four from continuing operations.
+qtr-three adjusted earnings per share $num-one.
+sees fy sales $num-one billion to $num-$num-two billion.
+sees year-six tmtt sales $num-one million to $2.0 billion.
+qtr-two sales rose num-two percent to $num-one billion.
+qtr-two sales rose num-two percent to $num-one million.
+qtrly adjusted gross profit margin of num-one% versus num-two%.
+qtrly total sales grew num-one% year-over-year.
+compname reports qtr-three results; more than num-one patients were treated with sapien valves, an indication that more patients are benefiting from life changing technologies than ever before.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $352.4 million.
+sees underlying tavr sales growth of about num-one% in year-six.
+sees year-six adjusted gross profit margin to be between num-one% and num-two%.
+qtrly sales grew num-one% on a two-year compounded annual basis.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-one sales $num-one million versus refinitiv ibes estimate of $1.06 billion.

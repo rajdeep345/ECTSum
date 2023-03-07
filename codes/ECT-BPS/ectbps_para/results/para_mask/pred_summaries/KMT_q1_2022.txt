@@ -1,0 +1,16 @@
+qtr-two gaap earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one excluding items.
+sees qtr-two sales $num-three million to $num - four million.
+qtr-one earnings per share $num-one.
+qtrly organic sales increased num-one% organically versus prior year.
+qtrly transportation increased num-one% year-over-year and outpaced normal sequential decline.
+qtr-three adjusted earnings per share $num-one.
+sees fiscal year-seven capital expenditures in range of $num-one million to $2.0 billion.
+sees fy sales $num-three billion to $num - four billion.
+sees fy year-six operating expense to be approximately num-one% lower than year-five.
+compname reports qtr-three results; repurchases $num-one million of common stock.
+qtrly same store sales decreased num-one% on a sequential basis.
+qtrly cash and revolver availability of $num-one million, well within financial covenants.
+qtrly operating expense as a percentage of sales decreased year-over-year to num-one% and sequentially was flat on lower sales.
+sees qtr-two sales up num-one% to num-two% year-over-year.

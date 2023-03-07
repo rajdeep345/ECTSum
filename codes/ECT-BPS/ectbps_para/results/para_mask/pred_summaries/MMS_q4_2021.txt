@@ -1,0 +1,16 @@
+sees qtr-three adjusted earnings per share $num-one to $2.00 excluding items.
+sees qtr-three revenue $num-one billion to $1.num-two billion.
+qtr-three earnings per share $num-two.
+qtr-three adjusted earnings per share $num-two excluding items.
+sees fy year-six adjusted earnings per share $num-one to $2.00 excluding items.
+qtrly revenue increased $num-one million.
+qtr-four revenue rose num-one percent to $1.7 billion, adjusted for covid response work.
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $1.04 billion.
+sees fy revenue $num-one million to $1.0 billion.
+sees u.s. services segment to be between num-one% and num-two% for year-six.
+qtr-four revenue rose num-one percent to $num-two billion.
+qtr-two social score of num-two.
+qtrly covid response work of over $num-one billion, including two large and strategic acquisitions.
+sees year-six free cash flow from operations to range between $num-three million and $6.0 million.
+qtr-two earnings per share $num-two.
+qtr-three revenue rose num-two percent to $num-three million.

@@ -1,0 +1,16 @@
+sees qtr-three non-gaap earnings per share $num-one to $num - two.
+qtr-two non-gaap earnings per share $num-two.
+sees fy non-gaap earnings per share $num-one to $num - two.
+sees qtr-three year-six constant currency sales growth of num-one% to num-two%.
+sees fy year-six diluted share count to be approximately num-one million.
+qtr-three gaap earnings per share $num-one.
+sees qtr-three reported sales growth of num-one% to num-two%.
+qtrly sales rose num-one percent on a constant currency basis versus year-four.
+qtr-two non-gaap earnings per share $num-two.
+qtrly revenue grew num-one% as reported and num-two% in constant currency.
+qtr-two sales rose num-two percent to $num-one million.
+qtrly gross margin of num-one%, down num-two basis points compared to qtr-two of year-five.
+sees fy year-six reported sales growth of num-one% to num-two%.
+qtr-two earnings per share $num-one.
+sees fy year-six constant currency sales growth of num-one% to num-two%.
+sees fy year-six gross margin to be about num-one%.

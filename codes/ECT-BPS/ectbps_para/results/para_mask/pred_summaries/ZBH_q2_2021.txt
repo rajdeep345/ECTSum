@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-three gaap earnings per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-two sales rose num-two percent to $num-one billion.
+sees fy reported revenue growth of num-one% to num-two%.
+qtr-two operating cash flows were $num-one million.
+qtr-two earnings per share $num-one.
+sees fy free cash flow in range of $num-one million to $num - two billion.
+qtrly americas sales increased num-one% to $1.3 billion, up num-two% versus year-four.
+qtrly adjusted tax rate of num-one% was in line with expectations.
+qtrly adjusted gross margin of num-one% was in line with expectations.
+qtr-four revenue rose num-two percent to $num-two billion.
+qtrly global hip business increased num-one% or down num-two% versus year-four.
+qtrly global knee business increased num-one% or down num-two% versus year-four.
+sees fy year-six adjusted earnings per share growth of num-one% to num-two%.
+expect to make another $num-one million in debt repayments in qtr-three.

@@ -1,0 +1,16 @@
+sees qtr-three gaap earnings per share $num-one to $2.00 excluding items.
+qtr-three gaap earnings per share $num-one.
+qtr-two gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-two.
+compname reports qtrly organic growth of num-one%.
+qtrly free cash flow was $num-one billion, or num-two% of net income.
+qtr-four revenue rose num-one percent to $num-two billion.
+sees year-seven organic growth of num-one% to num-two% at enterprise level.
+sees year-six automotive oem growth of num-one% to num-two% based on a risk adjusted forecast of automotive production in mid-single digits.
+qtrly organic growth of num-one%.
+qtr-three revenue rose num-one percent to $num-two billion.
+sees fy year-seven revenue about $num-one million.
+sees fy year-seven organic revenue growth of num-one% to num-two%.
+qtrly operating margin increased num-one basis points to num-two%.
+qtr-three gaap earnings per share $num-one.
+qtrly core incremental margin excluding mts is expected to be in a range of num-one% to num-two%.

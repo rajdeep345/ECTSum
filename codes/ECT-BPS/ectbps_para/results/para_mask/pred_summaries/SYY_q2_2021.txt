@@ -1,0 +1,16 @@
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.06 billion.
+qtr-three adjusted earnings per share $num-two.
+qtr-three sales $num-one billion versus refinitiv ibes estimate of $1.13 billion.
+compname reports qtr-three year-six net income of $num-one billion.
+qtrly gross profit decreased num-one% to $num-two billion.
+qtrly u.s. local case volume decreased num-one% versus qtr-three year-five.
+qtrly net sales were down num-one% versus qtr-two year-five.
+qtrly total u.s. brand sales decreased num-one basis points to num-two%.
+qtr-two sales $num-two billion versus refinitiv ibes estimate of $1.55 billion.
+net capital expenditures for the first half of fiscal year-six were $num-one million.
+qtrly adjusted operating expense decreased num-one% to $num-two billion.
+qtrly gross margin dilution at enterprise level of about num-one basis points as rate came in at num-two%.
+qtrly gross profit decreased num-one% to $num-two billion, while gross margin was flat at num-three%.
+qtrly sales decreased num-one% versus qtr-three year-five.
+qtrly local us cases decreased num-one basis points to num-two%.
+qtr-three adjusted operating income decreased num-one% to $num-two million.

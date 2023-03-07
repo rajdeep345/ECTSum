@@ -1,0 +1,16 @@
+sees qtr-three non-gaap earnings per share $num-one to $num - two.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $1.55 billion.
+sees qtr-one non-gaap earnings per share $num-one.
+sees fy year-seven total revenue $num-one million to $num - two million.
+sees qtr-one revenue $num-one million to $num - two million.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.04 billion.
+sees at least $num-two billion in arr growth in year-ten.
+qtr-four subscription revenue rose num-two percent to $num-one million.
+qtrly total license and maintenance revenue of $num-two million decreased num-one% year over year.
+qtrly on-premises subscription sales resulted in an approximately num-one percentage point headwind to our license revenue.
+qtr-four license revenue $num-one million versus refinitiv ibes estimate of $352.7 million.
+qtr-four revenue fell num-two percent to $num-one million.
+qtrly gaap revenues of $num-one million versus refinitiv ibes estimate of $1.06 billion.
+sees fy year-seven euro to dollar exchange rate of $num-one to $1.00 per euro.
+qtr-four adjusted ebitda $num-one million versus refinitiv ibes estimate of $1.03 billion.
+qtrly total arr of $num-one million, up num-two%.

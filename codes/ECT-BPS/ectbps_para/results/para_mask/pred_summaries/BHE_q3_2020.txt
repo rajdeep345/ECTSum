@@ -1,0 +1,16 @@
+sees fy non-gaap diluted earnings per share $num-one to $2.00.
+qtr-three gaap earnings per share $num-one.
+sees qtr-three revenue $num-one million to $1.num-two million.
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-four adjusted non-gaap operating earnings per share $num-one to $1.00 excluding items.
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-four gross margin to be in range of num-one% to num-two%.
+qtrly non-gaap gross margin increased num-one basis points to num-two%.
+qtr-three revenue rose num-two percent to $num-one million.
+compname reports qtr-three inventory of $num-one million, down $2.4 million sequentially and $1.9 million for year-six.
+compname reports qtr-three earnings per share $num-two.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-three cash dividend per share $num-one million.
+qtrly payables were down $num-one million, year-over-year.
+sees fy year-six gross margin in range of num-one% to num-two%.

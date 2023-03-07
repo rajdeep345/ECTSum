@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-two.
+sees qtr-three adjusted earnings per share $num-one to $2.00 excluding items.
+sees fy gaap earnings per share $num-one to $2.00.
+qtr-three adjusted earnings per share $num-one excluding items.
+sees qtr-three sales $num-one billion to $1.num-two billion.
+qtrly sales decreased num-one% on an organic basis and num-four% on a reported basis.
+board of directors of tennant company has increased quarterly cash dividend by num-one% to $num-two per share.
+qtr-three sales rose num-two percent to $num-one million.
+qtrly adjusted s&a expenses were num-one% of net sales, compared to num-two% in qtr-three of year-five.
+qtr-three adjusted ebitda was $num-one million, or num-two% of sales.
+qtrly adjusted effective tax rate of about num-one%.
+expects capital expenditures of approximately $num-one million for the first nine months of year.
+qtrly sales in americas decreased num-one% year-over-year.
+sees fy adjusted ebitda of $num-one million to $2.0 billion.
+qtrly cash flow from operations of $num-one million, compared to $1.4 billion in qtr-three of year-five.
+sees year-six capital expenditures of approximately $num-one million.

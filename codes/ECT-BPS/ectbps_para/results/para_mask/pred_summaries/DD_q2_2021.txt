@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num -one.
+qtr-three adjusted earnings per share $num-one.
+sees qtr-three adjusted earnings per share about $num-three.
+qtr-two sales rose num-two percent to $num-one billion.
+sees year-six net sales to be about $num-one billion.
+qtrly net debt of $num-two billion, down num-two% from prior year.
+qtrly organic sales growth of num-one%.
+qtr-three adjusted earnings per share $num-one.
+qtrly currency provided a num-one% tailwind to qtr-three of year-six.
+qtrly gross margin expansion of about num-one basis points versus year-ago period.
+qtr-one sales rose num-digit percent on organic basis.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $178.9 million.
+qtr-three adjusted earnings per share $num-one.
+compname reports qtr-two earnings per share $num-one.
+compname reports qtr-three results; repurchases additional $num-one million of shares.
+compname reports num-one% run rate cost synergies in first quarter of year-six.

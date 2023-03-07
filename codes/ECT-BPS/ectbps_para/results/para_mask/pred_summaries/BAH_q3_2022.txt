@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-three adjusted earnings per share $num-two.
+qtr-three earnings per share $num-two.
+sees fy revenue growth in range of num-one% to num-two%.
+sees qtr-three adjusted earnings per share $num-three to $6.00 excluding items.
+qtr-three adjusted earnings per share $num-one.
+compname reports qtr-three earnings per share $num-two.
+sees fy year-six operating cash flow to be between $num-one million and $2.0 million.
+sees fy year-six revenue $num-one million to $num - two million.
+sees fy adjusted ebitda $num-two billion to $3.0 billion.
+qtrly adjusted earnings per share $num-one.
+qtrly adjusted earnings per share $num-one from continuing operations excluding items.
+qtr-three earnings per share $num-two.
+qtr-three revenue rose num-one percent to $num-two billion.
+qtr-three bookings rose num-two percent to $num-one million.
+qtrly gaap and non-gaap metrics were impacted by higher effective tax rate after release of an income tax reserve of $num-one million related to the aquilent acquisition, partially offset by lower share count due to share repurchase program.

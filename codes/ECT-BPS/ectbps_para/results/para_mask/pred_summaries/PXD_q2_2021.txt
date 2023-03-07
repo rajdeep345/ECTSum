@@ -1,0 +1,16 @@
+sees fy production of num-three to num-four boes per day.
+compname reports qtr-three earnings per share $num-one.
+sees year-six capital expenditures of $num-one billion to $2.0 billion.
+compname reports qtr-three year-six results and announces increase in quarterly dividend by num-two%.
+sees fy year-six free cash flow $num-two billion to $3.0 billion.
+qtr-one free cash flow per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+qtr-two free cash flow $num-two billion.
+qtrly horizontal lease operating expense decreased by nearly $num-one per boe.
+compname reports qtr-three adjusted earnings per share $num-one.
+sees fy year-six earnings per share $num-one to $1.00.
+qtrly net debt to ebitda was $num-four.
+compname reports qtr-two year-six earnings per share of $num-two.
+sees fy year-six total dividends to exceed $num-two per share.
+qtr-two earnings per share $num-two.
+remains committed to core investment thesis, predicated on low leverage, strong corporate returns to average over the next five years in mid-teens.

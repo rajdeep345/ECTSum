@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-two fpl earnings per share $num-two.
+qtr-two loss per share $num-two.
+qtr-two gaap earnings per share $num-two.
+qtr-two adjusted earnings per share $num-two.
+qtr-two adjusted earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-three fpl per share $num-one.
+sees year-six adjusted ebitda of $num-one billion to $2.0 billion, and cafd expected to be in upper end of previously disclosed year-end year-seven range of $1.9 billion - $3.4 billion.
+sees year-seven and year-eight adjusted earnings per share growth of num-one% to num-two%.
+qtr-three adjusted earnings per share $num-one.
+sees qtr-four year-six distribution per common unit to be in range of $num-one to $2.00 per share.
+sees fy year-seven diluted earnings per share to grow at a num-one% rate on a base basis.
+qtrly fpl same store sales increased num-one%.
+sees fy year-six capital expenditures of more than $num-one billion.
+for year-six, company anticipates that it will be able to generate an incremental num-one to num-two gigawatts of new wind and wind repowering opportunities.

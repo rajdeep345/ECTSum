@@ -1,0 +1,16 @@
+sees year-six exit rate of between num-one and num-two barrels of oil equivalent per day.
+sees qtr-two net production of between num-one and num-two boepd.
+sees fy year-six net production of between num-one and num-two boepd.
+sees fy year-six net production of about num-one boepd of oil equivalent per day.
+qtrly net production in the Gulf of Mexico averaged num-one boepd, or 1.7 barrels of oil equivalent per day, in the first quarter of year-six.
+sees qtr-two non-gaap oil and gas costs excluding libya to be in range of $num-one per barrel of oil equivalent to $2.00 per boepd.
+sees qtr-two production of between num-one and num-two boepd.
+qtr-one earnings per share $num-one.
+qtrly net production in gulf of thailand was num-one boepd, or $num-one per day, of oil equivalent.
+sees qtr-two and full year year-six net production of approximately num-one barrels of oil equivalent per day.
+qtr-one earnings per share $num-one.
+sees fy year-six production between num-one and num-two boepd of oil equivalent.
+sees qtr-two net production of about num-one barrels of oil equivalent per day in gulf of mexico.
+sees fy year-six adjusted earnings per share $num-one million to $1.00.
+qtrly bakken net production averaged num-one boepd of oil equivalent per day, below guidance of about num-two barrels of oil equivalents per day.
+qtr-one earnings per share $num-one excluding libya.

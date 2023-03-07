@@ -1,0 +1,10 @@
+qtr-one adjusted earnings per share $num-one.
+qtr-one sales decreased $num-one million.
+qtrly adjusted ebitda margin of nearly num-one%, up from about num-two% in prior year's qtr-one.
+qtr-two earnings per share $num-one.
+qtrly free cash flow conversion ratio of num-one% of net earnings.
+compname reports qtr-three earnings per share $num-two.
+qtr-one adjusted ebitda of over $num-one million, up num-two% from qtr-two of last year.
+qtrly new business backlog of $num-two million, up num-three%.
+qtrly ebitda margin of nearly num-one% versus num-two% last quarter.
+qtr-one gross margin increased num-one basis points to num-two%.

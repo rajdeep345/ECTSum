@@ -1,7 +1,7 @@
 # ECTSum: A New Benchmark Dataset For Bullet Point Summarization of Long Earnings Call Transcripts
 
 Long Paper Accepted at the <b> EMNLP 2022 Main Conference! </b> <br /> 
-<li> ArXiv Preprint: https://arxiv.org/pdf/2210.12467.pdf </li>
+<li> Paper: https://aclanthology.org/2022.emnlp-main.748/ </li>
 <li> Poster: https://rajdeep345.github.io/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf </li>
 <li> Pre-recorded Video: https://drive.google.com/file/d/1DW2i2ApgiE6V7ViiayX5zdJSRXdAEbsy/view </li>
 
@@ -59,3 +59,4 @@ Processed data is already uploaded at this location.
 <li> 3rd March 2023 - Added the Prediction Pipeline for the Extractive module. </li>
 <li> 5th March 2023 - Codes released to prepare the data for training the Paraphrasing Module </li>
 <li> 7th March 2023 - Codes released to train the Paraphrasing Module of ECT-BPS</li>
+<li> 8th March 2023 - Google Colab Notebook released for training and testing the Paraphrasing Module </li>

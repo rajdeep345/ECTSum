@@ -1,0 +1,16 @@
+sees fy year-six gaap earnings per share $num-one to $2.00.
+qtr-two adjusted earnings per share $num-one.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-two.
+sees year-six adjusted earnings per share $num-one to $2.00 excluding items.
+qtrly profit in personal care was down num-one% due to lower demand in make-up and other personal care products.
+qtr-two adjusted revenue $num-one million versus refinitiv ibes estimate of $1.55 billion.
+qtr-two adjusted operating earnings per share $num-one.
+sees fy year-six diluted earnings per share $num-one to $1.00 excluding items.
+compname reports qtr-one free cash flow of $num-two million, an increase of num-one%.
+compname reports qtrly net income of $num-two million, up num-two percent.
+sees fy year-six total debt-to-ebitda to be about num-one%.
+qtr-two earnings per share $num-one.
+sees fy year-six currency headwinds of about $num-one per share.
+sees year-six capital expenditures of approximately $num-one million.
+qtr-one cash flow from operations was $num-one million, an increase of num-two%.

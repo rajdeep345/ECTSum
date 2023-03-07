@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-one.
+sees qtr-one non-gaap earnings per share $num-one to $num - two.
+sees qtr-one revenue $num-one billion to $num - two billion.
+sees fy non-gaap earnings per share $num-one to $num - two.
+qtr-four revenue $num-one billion versus refinitiv ibes estimate of $1.61 billion.
+sees fy year-six adjusted earnings per share growth of num-one% to num-two%.
+sees fy year-six core revenue growth excluding impact of currency and acquisitions and divestitures completed within num-one months.
+sees fy year-seven core revenue growth in range of num-one% to num-two%.
+qtr-four earnings per share $num-one.
+sees fy revenue $num-one billion to $num - two billion.
+sees qtr-three core revenue growth of about num-one% to num-two%.
+qtr-three revenue rose num-two percent to $num-one billion.
+sees fy year-six core revenue growth of num-one% to num-two%.
+qtrly operating margin was up num-one basis points to $num-one per share.
+qtr-three revenue rose num-two percent to $num-one billion.
+sees fy year-six operating cash flow of about $num-one billion to $2.0 billion and capital expenditures of approximately $3.5 billion.

@@ -1,0 +1,16 @@
+qtr-one sales rose num-two percent to $num-one million.
+qtr-two earnings per share $num-two.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three earnings per share $num-two.
+qtrly ebitda was num-one% of net sales, flat to prior year adjusted results.
+qtr-three agricultural sales rose num-two percent to $num-one million.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-two adjusted earnings per share $num-two.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-two agricultural sales $num-one million versus refinitiv ibes estimate of $178.6 million.
+compname reports qtr-two year-six net provision of cash from operating activities of $num-one million.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-two operating income $num-one million versus refinitiv ibes estimate of $1.32 billion.
+qtr-two adjusted earnings per share $num-two.
+qtr-two gross margin excluding $num-one million of morbark's inventory step-up expenses was num-three%.
+qtrly industrial sales rose num-one percent.

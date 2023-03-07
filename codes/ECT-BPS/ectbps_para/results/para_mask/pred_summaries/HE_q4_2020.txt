@@ -1,0 +1,16 @@
+qtr-four earnings per share $num-two.
+sees fy year-six consolidated earnings per share $num-one to $num - two.
+qtr-four earnings per share $num-two.
+compname reports qtr-three earnings per share $num-two.
+sees fy year-six earnings per share $num-one to $num - two.
+sees qtr-three year-six utility earnings per share $num-one to $2.00.
+sees fy year-six adjusted earnings per share $num-one million.
+compname reports qtr-three year-six net sales growth of num-one%.
+sees fy year-six adjusted earnings per share $num-one million to $1.00.
+compname reports qtr-three year-six earnings per share $num-one.
+sees fy year-six adjusted earnings per share up to $num-one.
+qtr-three utility earnings per share $num-two.
+qtrly year-over-year sales volume and median prices remained strong in january at num-one% and num-two%.
+sees fy year-six net interest margin to be num-one basis points to num-two basis points.
+expect to be at or above this level in year-six with over $num-one million of baseline capital investments under way -- under earning under new annual revenue adjustment mechanism.
+qtrly unemployment was num-one% in december of year-five, down from num-two%.

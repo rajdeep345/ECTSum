@@ -1,0 +1,16 @@
+qtr-four earnings per share $num-two.
+qtr-three adjusted earnings per share $num-two.
+compname reports qtr-four earnings per share $num-two from continuing operations.
+qtr-two earnings per share $num-two from continuing operations.
+qtr-two earnings per share $num-one from continuing operations.
+compname reports qtr-four earnings per share $num-two.
+compname reports qtr-three earnings per share $num-two.
+compname reports qtr-four earnings per share $num-two.
+compname reports qtr-five earnings per share $num-two.
+compname reports quarterly cash dividend of $num-one per common share.
+qtr-three adjusted earnings per share $num-one.
+qtrly allowance for credit losses declined by $num-two million versus qtr-three of year-five as modest improvements in macroeconomic outlook versus prior quarter.
+qtrly return on average assets of $num-one billion versus $1.4 billion.
+compname reports qtr-three earnings per share $num-one.
+qtr-one adjusted earnings per share $num-one.
+qtrly national lloyds discontinued operations of $num-one million.

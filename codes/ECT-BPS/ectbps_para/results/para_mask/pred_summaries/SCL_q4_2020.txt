@@ -1,0 +1,16 @@
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two excluding items.
+qtr-four adjusted earnings per share $num-two.
+qtr-four adjusted earnings per share $num-one.
+compname reports qtr-three sales of $num-one million.
+compname reports quarterly cash dividend of $num-one per share on common stock.
+qtr-four gaap earnings per share $num-one.
+compname reports qtr-three sales of $num-one million.
+sees fy year-six effective tax rate to be in range of num-one% to num-two%.
+qtr-four sales rose num-two percent to $num-one million.
+qtr-three sales rose num-two percent to $num-one million.
+sees year-six earnings per share to be in range of $num-one to $2.00 on a reported basis.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $352.7 million.
+qtrly sales volume decreased num-one% and operating income increased num-two%.
+qtrly sales volume increased num-one% versus qtr-three year-five.

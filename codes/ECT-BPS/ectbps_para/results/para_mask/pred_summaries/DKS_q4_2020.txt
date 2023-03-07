@@ -1,0 +1,16 @@
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-one non-gaap earnings per share $num-one to $2.00 excluding items.
+qtr-three earnings per share $num-two.
+qtrly same store sales increased num-one%.
+qtr-three gaap earnings per share $num-one.
+qtr-four non-gaap earnings per share $num-one.
+qtr-two non-gaap earnings per share $num-one.
+sees year-six consolidated same-store sales to be in range of negative num-one% to positivenum-one%, representing a low double-digit sales increase versus year-four.
+compname announces num-one% increase in share repurchase authorization.
+qtr-three non-gaap earnings per share $num-one.
+sees qtr-two year-six organic net sales to decline in range of high single-digits to low double-digit percent.
+qtr-three sales rose num-one percent to $num-two billion.
+qtr-three non-gaap ebitda $num-one million versus refinitiv ibes estimate of $3.06 billion.
+net capital expenditures for fiscal year-six are expected to be in range of $num-one million to $2.0 billion.
+qtrly gross profit of $num-one billion, or num-two% of net sales, increased num-three basis points from prior year.
+compname announces plan to repurchase up to $num-one million of common stock.

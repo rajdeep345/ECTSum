@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+qtr-three adjusted earnings per share $num-two from continuing operations.
+qtr-four earnings per share $num-one excluding items.
+qtr-three adjusted earnings per share $num-one.
+sees fy year-six adjusted earnings per share $num-one to $1.00.
+qtr-three adjusted earnings per share $num-three.
+sees fiscal year-six organic net sales growth of num-one%.
+sees fiscal year-six net sales to decline num-one% to num-two%.
+qtrly organic net sales decreased num-one%.
+qtr-one sales $num-one billion versus refinitiv ibes estimate of $1.04 billion.
+sees fy adjusted ebit of minus num-one% to minusnum-two% from continuing operations.
+qtr-three adjusted earnings per share $num-two from continuing operations.
+qtrly net sales growth of num-one% versus qtr-three year-four.
+sees fy year-six net interest expense of $num-one to $2.0 billion, or about num-three%.
+sees fy year-five organic net sales to decline num-one% to minus num-two%.
+qtrly net sales decline of num-one% and in-market performance of minus num-two%.

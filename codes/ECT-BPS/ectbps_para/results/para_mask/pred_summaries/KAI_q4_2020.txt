@@ -1,0 +1,16 @@
+qtr-four earnings per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtr-four gaap earnings per share $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtr-five gaap earnings per share $num-one.
+qtr-four gaap earnings per share $num-one.
+qtrly parts & consumables revenue increased num-one% sequentially.
+sees year-six recurring tax rate of about num-one% to num-two%.
+qtr-four bookings of $num-one million, up num-two% compared to prior year.
+sees qtr-two revenue up num-one% to num-two%.
+qtr-four revenue $num-one billion versus refinitiv ibes estimate of $1.3 billion.
+qtr-four gaap earnings per share $num-one.
+sees qtr-three year-six sg&a to be approximately num-one% to num-two% of revenue.
+qtr-four revenue $num-two million versus refinitiv ibes estimate of $1,067.7 million.
+sees year-six capital expenditures of approximately num-one% of revenue.
+expect minimal benefit from government assistance programs in year-six compared to $num-one per share in fiscal year-five.

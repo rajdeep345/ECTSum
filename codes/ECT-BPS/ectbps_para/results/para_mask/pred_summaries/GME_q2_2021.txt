@@ -1,0 +1,16 @@
+qtr-two loss per share $num-two.
+qtr-two adjusted loss per share $num-two.
+qtr-two sales rose num-two percent to $num-one million.
+qtrly adjusted sg&a was $num-one million, or num-two% of sales.
+qtr-three sales rose num-one percent to $num-two billion.
+qtrly global store count of num-one was at [date], year-six.
+compname announces new $num-txtquare-foot facility in reno, nevada.
+qtrly net sales rose num-one percent to $num-one billion.
+qtrly same store sales increased num-one%.
+qtr-two cash and restricted cash of $num-one billion versus $1.04 billion at [date], year-five.
+qtrly net proceeds of $num-one billion, or $1.0 billion, were raised through the issuance of num-two million shares of common stock under an atm.
+qtrly capital expenditures of $num-one million, bringing year-to-date capital expenditures to num-two million.
+qtrly net sales of $num-one billion, up num-one% from prior year.
+qtr-two cash flow from operations was $num-one million, compared to an inflow of $1.0 billion in qtr-one of year-five.
+qtr-two debt levels were down $num-one million compared to qtr-one of year-five.
+qtrly comparable store sales increased num-one%.

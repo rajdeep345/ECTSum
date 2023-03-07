@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+qtr-three adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-one adjusted earnings per share $num-one.
+qtr-four same store sales increased num-one percent.
+qtr-three sales rose num-one percent to $num-one billion.
+sees fiscal year-eight sales up num-one% to num-two%.
+qtr-four total ending inventory was down num-one%, compared to fiscal year-five.
+qtrly revenue rose num-one percent to $num-one billion.
+qtr-three revenue rose num-two percent to $num-one million.
+qtrly j&m sales down num-one% versus qtr-one year-five.
+qtr-four adjusted earnings per share $num-four.
+qtrly total inventory was down num-one% versus qtr-four of year-five.
+qtr-four adjusted operating income $num-one million versus refinitiv ibes estimate of $273.6 million.
+compname reports third quarter year-six results and announces num-one% increase in share repurchase authorization.
+compname reports qtr-four year-six results and announces $num-two million cost savings target.

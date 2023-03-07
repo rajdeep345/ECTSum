@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+sees fy sales $num-one billion to $num - two billion.
+qtr-three adjusted earnings per share $num-two.
+sees qtr-four sales from lanier apparel to be about $num-one million lower than qtrly year-four's third quarter.
+sees qtr-three sales $num-one million to $num - two million.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $2.04 billion.
+qtr-four adjusted earnings per share $num-one.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.7 billion.
+compname reports qtr-two sales up num-one percent to $num-two billion.
+qtrly full-price store and e-commerce comparable sales increased num-one%.
+compname reports qtr-two sales up num-one percent to $num-one billion.
+qtrly net sales increased num-one% to $num-two billion.
+qtrly inventory decreased num-one% compared to qtr-two of year-five.
+qtrly operating margin increased num-one basis points to num-two%.
+qtrly direct-to-consumer sales increased num-one% year over year.
+qtrly restaurant and bar sales increased num-one%.

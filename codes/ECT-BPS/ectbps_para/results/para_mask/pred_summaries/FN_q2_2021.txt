@@ -1,0 +1,16 @@
+sees qtr-three earnings per share $num-three to $num - four.
+qtr-three earnings per share $num-one.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $553.7 million.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $178.7 million.
+qtr-three gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-two.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $1.48 billion.
+sees qtr-one year-six effective tax rate to be about num-one%.
+qtr-three industrial laser sales $num-one million versus refinitiv ibes estimate of $1.15 billion.
+qtr-four non-optical communications revenue rose num-two percent to $num-three million.
+expect construction to take approximately num-one years to complete.
+qtr-three non-optical communications revenue rose num-three percent to $num-one million.
+compname reports qtr-three year-six results and announces $num-one million share repurchase program.
+qtr-three optical communications revenue rose num-three percent to $num-one million.
+expresses full-year year-six outlook for chonburi.
+qtr-one operating income $num-one million, or num-two% of revenue.

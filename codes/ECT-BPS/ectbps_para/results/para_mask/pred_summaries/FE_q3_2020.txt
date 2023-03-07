@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $1.00.
+sees fy earnings per share $num-two to $1.00.
+sees fy year-six earnings per share $num-two to $3.00.
+sees fy year-five free cash flow to be approximately $num-one million.
+sees fy year-six adjusted earnings per share growth of num-one% to num-two%.
+qtr-three operating earnings per share $num-one.
+compname says independent review committee of board of directors has determined that three executives violated certain firstenergy policies and its code of conduct.
+qtrly sales decreased num-one% on a weather-adjusted basis compared to qtr-three of year-four.
+compname reports qtr-three results and announces num-one% increase in common stock dividend.
+compname reports qtr-three sales rose num-two percent to $num-one million.
+sees year-six total capital expenditures of more than $num-one billion.
+qtrly total residential sales increased num-one% on a weather-adjusted basis compared to same period last year.
+compname reports qtr-three earnings per share $num-one.
+qtrly cooling degree days were about num-one% above normal and relatively flat to qtr-three of year-four.
+compname announces num-one% increase in full year year-six earnings per share guidance.
+sees year-six capital expenditures of approximately $num-one billion.

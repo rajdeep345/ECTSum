@@ -1,0 +1,16 @@
+qtr-two adjusted earnings per share $num-three.
+qtr-two tangible book value per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+qtr-three tangible book value per share $num-three.
+sees fy year-six earnings per share $num-one to $1.00.
+qtrly tangible book value per share $num-two.
+sees fy year-six adjusted earnings per share $num-one.
+qtr-three net interest income $num-one million versus refinitiv ibes estimate of $178.6 million.
+qtr-two earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one million.
+sees qtr-two loan and deposit growth to be between $num-one billion and $2.0 billion.
+qtrly net income of $num-one million, or $0.26 per share, includes a $1.55 per share chargeback of credit losses provision of $7.0 million.
+qtr-three revenue rose num-three percent to $num-two million.
+qtr-four net interest income $num-two million versus refinitiv ibes estimate of $1.04 billion.
+qtrly net sales margin of num-one basis points, up num-two basis points from prior year.
+compname reports qtr-two earnings per share $num-one excluding items.

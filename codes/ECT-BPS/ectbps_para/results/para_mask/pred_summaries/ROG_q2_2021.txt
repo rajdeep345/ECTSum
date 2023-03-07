@@ -1,0 +1,16 @@
+sees qtr-three gaap earnings per share $num-one to $2.00.
+qtr-three adjusted earnings per share $num-two.
+sees qtr-three revenue $num-one million to $num-$num-two million.
+sees capital expenditures for full year year-six $num-one million to $2.0 billion.
+qtr-two revenue rose num-two percent to $num-one million.
+compname reports qtr-two adjusted earnings per share $num-two.
+qtr-two revenue rose num-one percent to $num-two million.
+qtrly portable electronics revenue increased num-one% excluding utis sales.
+qtrly cash position was $num-one million, up $1.4 million from a year ago.
+expect to achieve its num-one% gross margin target for fiscal year-six.
+qtr-three operating cash flow per share $num-one.
+qtr-two adjusted earnings per share $num-one.
+qtr-three operating expenses are forecasted to increase sequentially, mainly due to a $num-one million one-time cost to support strategic growth initiatives.
+qtr-two gross margin was $num-one million, or num-two% of revenues.
+sees qtr-three gross margin in range of num-one% to num-two%.
+sees fy year-six effective tax rate to be in range of num-one% to num-two%.

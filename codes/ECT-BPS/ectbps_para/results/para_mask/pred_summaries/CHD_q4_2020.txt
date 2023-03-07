@@ -1,0 +1,16 @@
+sees fy year-six earnings per share growth of num-one% to num-two%.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-two.
+sees fy year-six adjusted earnings per share growth of num-two% to num-three%.
+sees fy year-six earnings per share growth of about num-two%.
+qtrly international sales growth of num-three% versus num-four%.
+sees fy year-six adjusted earnings per share down num-one basis points to a range of $1.50 to $2.00.
+qtr-four adjusted earnings per share $num-one.
+qtrly organic growth of num-one%, well above num-two%.
+compname reports qtr-three earnings per share of $num-two.
+qtr-three adjusted earnings per share $num-one.
+sees fy year-six organic revenue growth of num-one% to num-two%.
+sees fy year-six adjusted earnings per share growth of about num-one%.
+qtr-four earnings per share $num-two.
+sees qtr-three adjusted earnings per share growth of num-one% to num-two%.
+sees qtr-three revenue up about num-one% on a non-gaap basis.

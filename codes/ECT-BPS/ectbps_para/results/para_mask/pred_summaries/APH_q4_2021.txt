@@ -1,0 +1,16 @@
+qtr-four gaap earnings per share $num-one.
+qtr-four adjusted earnings per share $num-three.
+qtr-four earnings per share $num-one.
+sees qtr-one sales $num-one billion to $num - two billion.
+qtr-four adjusted earnings per share $num-one.
+qtr-four sales $num-one billion versus refinitiv ibes estimate of $1.0 billion.
+sees qtr-one adjusted earnings per share growth of num-one% to num-three%.
+qtrly u.s. sales rose num-one percent to $num-one billion.
+qtrly sales of $num-two billion, up num-one% organically.
+qtrly adjusted effective tax rate of num-two% versus $num-one%.
+qtr-four orders rose num-two percent to $num-one billion.
+qtr-one adjusted earnings per share $num-one.
+sees year-seven adjusted effective tax rate to be approximately num-one%.
+qtrly u.s. sales rose num-two percent to $num-one billion, up num-three percent organically.
+qtr-four gaap effective tax rate was num-one% compared to num-three% in qtr-three of year-five.
+qtr-four gaap operating margin decreased num-four basis points to num-three%.

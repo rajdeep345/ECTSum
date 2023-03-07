@@ -1,0 +1,16 @@
+sees fy year-six earnings per share $num-one to $num - two.
+qtr-three earnings per share $num-one.
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one excluding items.
+sees fy year-six earnings per share growth in upper half of range of num-one% to num-two%.
+qtr-two earnings per share $num-one.
+sees fy year-six revenues up num-one percent.
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one.
+compname announces $num-one million long-term debt issue.
+compname announces $num-one million share repurchase program.
+compname reports qtr-two earnings per share of $num-one.
+compname announces $num-one million civil penalty associated with storm performance last summer, which was finalized on [date] release of final storm performance decision discussed on our first quarter call.
+qtrly rhode island coastal resource management council approval of the project was expected to result in an additional num-one turbine installation.
+sees capital expenditures associated with full program to be in range of $num-one million to $2.0 million over period of year-eight through num-three.
+qtrly capital expenditures of $num-one million, up num-one percent from prior year.

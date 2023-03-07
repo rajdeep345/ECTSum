@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-one.
+qtr-two adjusted earnings per share $num-two excluding items.
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.06 billion.
+compname announces num-one% reduction in vessel emissions by num-two metric tons of fuel each year.
+qtrly adjusted gross profit margin of num-one% versus $num-two million.
+compname reports qtr-three year-six results and announces num-one locations closed.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $num-$num-two million.
+qtr-two sales $num-two million versus refinitiv ibes estimate of $1.8 billion.
+qtr-two adjusted operating earnings per share $num-three.
+qtrly cash flow from operating activities of $num-one million, compared to $1.9 billion at end of qtr-one of year-five.
+qtr-four adjusted gross profit $num-one million versus $num-$num-two million.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $1.04 billion.
+qtr-two sales $num-two million versus refinitiv ibes estimate of $num-$num-three million.
+qtr-two sales $num-two million versus refinitiv ibes estimate of $1.9 billion.
+qtrly unit pricing decreased num-two% and unit cost of sales was lower num-three%.
+compname reports qtr-two capital expenditures of $num-one million.

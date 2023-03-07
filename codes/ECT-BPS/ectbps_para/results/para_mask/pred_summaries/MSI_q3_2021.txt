@@ -1,0 +1,16 @@
+qtr-one earnings per share $num-one.
+sees fy earnings per share $num-one to $num - two.
+qtr-three revenue rose num-one percent to $num-four billion.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap operating earnings per share $num-one.
+sees fy sales up num-one% to num-two% versus prior guidance of num-three% tonum-one%.
+qtr-three gaap operating earnings per share $num-one.
+qtr-three sales rose num-two percent to $num-one billion.
+qtrly lmr revenue rose num-one percent to $num-one billion, driven by strong demand for fixed and mobile video offerings.
+qtr-three north america revenue rose num-two percent to $num-one billion.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.98 billion.
+qtr-three revenue rose num-two percent to $num-one billion.
+qtr-three operating earnings per share $num-one.
+qtrly adjusted earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-three international revenue rose num-two percent to $num-one million.

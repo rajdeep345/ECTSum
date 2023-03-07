@@ -1,0 +1,16 @@
+qtr-four gaap earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-four adjusted earnings per share $num-four.
+sees year-five adjusted ebitda in range of $num-one million to $num - two million.
+qtrly revenues increased num-one percent to $num-one billion and adjusted ebitda grew num-two%.
+sees year-five adjusted free cash flow in range of $num-one million to $num - two million.
+sees year-five adjusted earnings per share $num-one to $1.00 and non-gaap earnings per diluted share in range of $3.00 to $4.00.
+qtr-three revenue rose num-two percent to $num-one million.
+qtrly adjusted ebitda grew num-one% on a num-two% increase in revenue.
+qtrly net sales fell num-two percent to $num-three million.
+qtr-four adjusted earnings per share $num-one.
+qtrly net income from operations increased num-one% year-over-year.
+qtrly sg&a expenses of $num-one million, down num-txtasis-point in percentage terms compared to a year ago.
+compname reports qtr-four year-six results and announces $num-one million share repurchase program.
+qtr-four earnings per share $num-two.
+qtrly safety-kleen revenue rose num-one percent to $num-one billion.

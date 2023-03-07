@@ -1,0 +1,16 @@
+qtr-four loss per share $num-one.
+qtr-three adjusted loss per share $num-one.
+qtr-three adjusted earnings per share $num-three.
+qtrly adjusted ebitda increased to $num-one million, up from $2.1 million in year-five.
+qtr-four adjusted operating loss per share $num-one.
+qtr-three adjusted loss per share $num-one.
+compname reports qtr-two earnings per share $num-two.
+qtrly adjusted ebitda margin increased num-one basis points to num-two% from num-three%.
+expect progress toward achieving $num-one million in cash proceeds in year-seven.
+qtr-four adjusted gross profit $num-one million versus refinitiv ibes estimate of $1.02 billion.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-four sales rose num-one percent to $num-one million.
+qtr-four sales rose num-two percent to $num-one million.
+compname reports qtr-four adjusted earnings per share $num-one.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $1.7 billion.
+qtr-four adjusted earnings per share $num-two.

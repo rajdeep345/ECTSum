@@ -1,0 +1,16 @@
+qtr-four gaap earnings per share $num-one.
+qtr-two earnings per share $num-two.
+qtr-four earnings per share $num-one.
+compname reports qtr-three year-six results and announces $num-one million share repurchase program.
+qtr-four gaap earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two.
+compname reports qtr-three year-six net income of $num-one million.
+qtr-one adjusted earnings per share $num-one.
+compname reports qtr-two earnings per share $num-two.
+compname reports qtr-three earnings per share $num-one.
+qtrly economic book value, as of [date], year-six, was $num-two per share.
+qtrly cost of funds across our entire portfolio decreased by num-one basis points to num-two% as of [date], year-five.
+qtr-three earnings per share $num-one.
+compname reports qtr-three year-six results and announces num-two% increase in share repurchase rate.
+compname announces $num-one million stock repurchase program.
+qtrly gaap book value would have increased by approximately num-one% on a non-gaap basis without warrants.

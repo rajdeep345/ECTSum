@@ -1,0 +1,16 @@
+qtr-three non-gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-two.
+qtr-three non-gaap earnings per share $num-one excluding items.
+qtr-four revenue $num-one million versus refinitiv ibes estimate of $289.7 million.
+qtr-three sales rose num-two percent to $num-one million.
+qtrly saas portfolio revenue grew num-one% year-on-year.
+qtr-three revenue rose num-two percent to $num-one million.
+qtrly same store sales increased num-one% in constant currency.
+qtr-two software as a service revenue $num-one million versus refinitiv ibes estimate of $1.32 billion.
+sees fy year-five sg&a as a percentage of revenue to be in range of num-one% to num-two%.
+qtrly total assets were $num-one billion, up num-one%.
+qtr-three sales rose num-two percent to $num-one million.
+sees qtr-four year-five research and development expenses as a percentage of revenue to be in range of num-one% to num-two%.
+compname reports qtr-three earnings per share of $num-one.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three sales rose num-two percent to $num-one million.

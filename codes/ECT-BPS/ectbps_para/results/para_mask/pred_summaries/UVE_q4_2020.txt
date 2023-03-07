@@ -1,0 +1,15 @@
+sees fy year-six gaap and non-gaap adjusted earnings per share $num-one to $num - two.
+qtr-four non-gaap loss per share $num-two.
+qtr-three loss per share $num-one.
+qtr-four revenue rose num-one percent to $num-two billion.
+compname reports fourth quarter year-six results and announces num-one claims of $num-one million.
+qtrly direct premiums written increased num-one% compared to qtr-three of year-five.
+qtrly direct premiums written were up num-one%.
+qtrly net premiums of $num-one billion, up num-one% from prior year.
+compname reports num-two% increase in primary rates in florida in qtr-four of year-five.
+compname announces num-one% reinsurance capacity secured for [date], year-six.
+qtrly combined ratio decreased num-one basis points to num-two%.
+compname reports qtr-four earnings per share $num-one.
+qtrly net investment income decreased num-two% for qtr-four and num-three% for full year.
+compname reports qtr-three year-six adjusted earnings per share $num-one.
+qtrly lae loss ratio decreased num-one%.

@@ -1,0 +1,16 @@
+sees qtr-two earnings per share $num-one to $num-$num-two.
+sees qtr-two revenue $num-one million to $num-$num-two million.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $1.48 billion.
+qtr-one earnings per share $num-two.
+qtrly advertising and marketing revenue fell num-one% to $num-one billion, down in dollars versus prior year.
+qtr-three earnings per share $num-one.
+qtr-one g&a spending of $num-one million, or num-two% of revenue, down from prior year.
+qtr-one free cash flow $num-one million versus refinitiv ibes estimate of $178 million.
+sees qtr-two gross margin of approximately num-one%.
+sees qtr-two g&a expense of approximately $num-one million.
+sees qtr-two interest expense to approximate $num-one million and a corporate tax rate of about num-two%.
+sees qtr-two year-six total a&m spend of about num-one% higher than year-five.
+qtr-two free cash flow is expected to be approximately $num-one million below prior year as we continue to invest in capital expenditures.
+qtr-one gross margin of num-one% increased num-two basis points compared to prior year.
+qtrly e-commerce sales increased num-one% to $num-one billion.
+qtrly net sales decreased num-one% compared to qtr-three year-five.

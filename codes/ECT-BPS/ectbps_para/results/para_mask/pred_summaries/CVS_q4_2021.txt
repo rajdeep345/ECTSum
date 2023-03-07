@@ -1,0 +1,16 @@
+qtr-four adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+sees fy year-seven adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-three adjusted earnings per share $num-two.
+qtr-four adjusted revenue rose num-one percent to $num-two billion.
+compname reports qtr-three adjusted earnings per share $num-three.
+qtr-three adjusted earnings per share $num-two.
+sees fy year-six capital expenditures $num-one billion to $2.0 billion.
+sees fy year-six adjusted earnings per share $num-one to $1.00.
+qtrly cash flow from operations of $num-one billion, compared to $1.1 billion in year-five.
+qtr-three adjusted operating earnings per share $num-one.
+qtr-four adjusted revenue rose num-two percent to $num-one billion.
+sees fy year-seven revenue growth of num-one% to num-two%.
+qtr-three adjusted earnings per share $num-one excluding items.
+sees year-seven vaccine volumes to decline about num-one% to num-two% compared to year-six.
+sees fy year-six retail revenue to be down num-one% to up num-two%.

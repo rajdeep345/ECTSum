@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one excluding items.
+qtr-four earnings per share $num-one.
+qtr-three earnings per share $num-one excluding items.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-four earnings per share $num-two.
+qtrly direct purchase revenue rose num-one% compared to qtr-four year-five.
+qtrly average revenue per order decreased num-two%.
+qtr-three earnings per share $num-two.
+qtrly average revenue per order increased num-two% on a num-one% increase in closed transactions.
+qtrly commercial revenue was down num-one% in qtr-four of year-four.
+qtrly net interest income in title insurance and services segment was $num-one million, down num-two% year-over-year.
+compname posts qtr-three net income of $num-one million, up num-one percent.
+compname reports qtr-three earnings per share $num-three.
+qtrly purchase orders of $num-one billion increased num-one%.
+qtr-four operating expenses $num-one million versus refinitiv ibes estimate of $1.22 billion.

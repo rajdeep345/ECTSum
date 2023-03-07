@@ -1,0 +1,13 @@
+qtr-three earnings per share $num-one.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.02 billion.
+qtr-three income tax provision of $num-one million, down num-one% versus prior year.
+qtrly utility water product line sales increased num-one%.
+qtrly operating profit margin of num-one% compared to a record num-two% in qtr-three of year-five.
+qtrly gross profit dollars increased $num-one million, or num-two% as a percent of sales.
+qtrly sea expenses increased $num-one million.
+qtrly free cash flow conversion of net earnings was num-one% on a year-to-date basis.
+qtrly sea expenses of $num-one million, a decrease of num-two% from prior year.
+qtrly core utility water revenues increased num-two% year over year.
+qtrly flow instrumentation sales increased num-one% year-over-year.
+qtrly total working capital as a percent of sales was num-one%.
+qtr-three free cash flow $num-one million versus refinitiv ibes estimate of $1.7 billion.

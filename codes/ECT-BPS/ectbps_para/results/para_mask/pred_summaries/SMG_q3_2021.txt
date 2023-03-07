@@ -1,0 +1,16 @@
+qtr-three gaap earnings per share $num-one.
+qtr-three non-gaap earnings per share $num-two.
+sees fy year-six revenue growth of num-two% to num-three%.
+sees fy sales growth of num-one% to num-two%.
+sees qtr-four u.s. consumer shipments down num-one% to num-two% year over year.
+sees fy year-six u.s. consumer business sales growth of num-one% to num-two%.
+qtrly companywide sales increased num-one% to $num-one billion.
+sees fy year-six sales up more than num-one percent.
+expect hawthorne to finish the year with num-one% to num-two% growth on top of last year's growth.
+qtrly net sales decreased num-one% to $num-two billion in qtr-two of year-six.
+compname reports qtr-three earnings per share $num-two.
+qtrly net sales increased num-one percent.
+compname reports third quarter year-six results and announces $num-one billion share repurchase authorization.
+qtrly net sales rose num-one% to $1.8 billion.
+qtrly consumer business sales declined num-one% in qtr-four.
+compname reports num-one% increase in share repurchases in qtr-three of year-six.

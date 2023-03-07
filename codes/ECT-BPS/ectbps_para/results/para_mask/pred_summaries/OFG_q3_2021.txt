@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-one.
+qtr-three core revenues $num-one million versus refinitiv ibes estimate of $352.8 million.
+compname reports qtr-three earnings per share $num-one.
+qtr-three tangible book value per share $num-one.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $4.13 billion.
+qtr-three core revenues $num-one million versus refinitiv ibes estimate of $1.51 billion.
+qtr-one adjusted earnings per share $num-one.
+qtrly net sales $num-one million versus refinitiv ibes estimate of $553.8 million.
+compname announces $num-one million share repurchase program.
+compname reports qtr-four sales of $num-one million, up num-two%.
+qtrly return on average assets was num-one%, return on tangible common equity of num-two%.
+qtrly net sales increased num-one% to $1.7 billion.
+qtrly adjusted earnings per share $num-one.
+sees year-six capital expenditures of approximately $num-one billion.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.8 billion.
+sees fy year-six adjusted earnings per share $num-one.

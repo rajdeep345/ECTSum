@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-one.
+qtr-two earnings per share $num-one excluding items.
+compname reports qtr-two adjusted earnings per share $num-two.
+compname reports qtr-three earnings per share $num-one.
+qtr-one earnings per share $num-one excluding items.
+qtr-two adjusted earnings per share $num-two.
+qtr-two steel processing sales $num-one million versus refinitiv ibes estimate of $178.7 million.
+qtr-three gross profit $num-one million versus refinitiv ibes estimate of $1.28 billion.
+qtrly price of hot-rolled steel peaked during quarter in mid-num-two,num-txt range.
+qtr-two sales $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtr-two sales rose num-two percent to $num-one million.
+qtr-two adjusted ebitda $num-one million versus refinitiv ibes estimate of $1.35 billion.
+qtr-two sales rose num-two percent to $num-one billion.
+qtr-three adjusted ebit of $num-one million versus refinitiv ibes estimate of $1.04 billion.
+qtr-two sales rose num-two percent to $num-one million.
+compname reports qtr-two results and announces num-one million shares repurchased under previously announced share repurchase authorization.

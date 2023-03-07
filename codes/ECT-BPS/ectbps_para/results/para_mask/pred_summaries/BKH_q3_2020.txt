@@ -1,0 +1,16 @@
+sees fy year-six earnings per share $num-one to $num - two.
+qtr-three earnings per share $num-one.
+qtr-three earnings per share $num-one.
+sees fy year-six adjusted earnings per share $num-one to $2.00.
+qtr-three adjusted earnings per share $num-one.
+sees fy year-six equity issuance of $num-one million to $2.0 billion through at-the-market equity offering.
+qtr-one earnings per share $num-one.
+sees up to $num-one million of equity issuance in year-six.
+qtr-three adjusted earnings per share $num-two.
+compname reports qtr-four earnings per share $num-one.
+compname announces $num-one million share repurchase program in february.
+sees fy year-six revenue $num-one billion.
+sees fy year-six capital expenditures $num-one million to $3.0 billion.
+sees year-six capital expenditures of approximately $num-one million.
+sees year-six renewable ready subscription-based program for our south dakota and wyoming electric utilities, our num-one megawatt corriedale wind project, to be in full service prior to year-end.
+compname reports num-one% increase in quarterly dividend.

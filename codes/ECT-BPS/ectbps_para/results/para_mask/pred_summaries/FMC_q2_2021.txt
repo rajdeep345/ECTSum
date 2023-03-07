@@ -1,0 +1,16 @@
+sees fmc year-six earnings per share $num-one to $2.00.
+qtr-two adjusted earnings per share $num-one.
+qtr-two earnings per share $num-three.
+sees fy year-six ebitda in range of $num-one billion to $2.0 billion, up num-three% to num-two%.
+sees fy revenue $num-one billion to $num - two billion.
+qtr-two revenue rose num-two percent to $num-one billion.
+qtrly ebitda margin of num-one% decreased num-two basis points compared to prior year.
+sees qtr-four earnings per share to be up num-two% year-over-year.
+qtrly organic sales increased num-two percent.
+qtr-three adjusted ebitda $num-one million versus refinitiv ibes estimate of $178.7 million.
+sees fmc shares repurchases of $num-two million to $num - three million in year-six.
+sees qtr-three earnings per share to be up num-two% year-over-year.
+qtrly adjusted earnings per share $num-one.
+sees qtr-four sales growth of num-one% at midpoint on reported basis.
+sees qtr-three sales growth of num-one% to num-two% on a reported basis.
+sees fy free cash flow $num-one million to $num-$num-two million.

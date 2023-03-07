@@ -1,0 +1,16 @@
+qtr-one adjusted earnings per share $num-two.
+qtr-three gaap earnings per share $num-one.
+sees fy year-six adjusted earnings per share $num-five to $6.00.
+sees fy year-six revenue growth of num-one% to num-two%.
+qtrly net sales fell num-one% year-over-year.
+qtrly organic net sales decreased num-one% versus qtr-three year-five.
+qtr-one sales rose num-two percent to $num-one billion.
+qtrly net sales increased num-one% to $1.2 billion.
+qtrly global knee business declined num-one% versus qtr-one year-five.
+qtr-three adjusted earnings per share $num-one.
+sees year-six adjusted earnings per share growth of about num-one%.
+sees fy year-six diluted share outstanding to be about num-two million shares.
+qtr-two sales fell num-one percent to $num-one billion.
+qtrly cash and cash equivalents of $num-two million compared to $1.0 billion at [date], year-five.
+qtrly america revenue increased num-one% to $num-one billion.
+qtrly global hip business increased num-one%.

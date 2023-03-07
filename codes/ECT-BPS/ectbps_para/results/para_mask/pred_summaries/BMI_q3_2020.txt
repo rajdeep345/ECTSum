@@ -1,0 +1,14 @@
+qtr-three earnings per share $num-one.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $715.7 million.
+qtr-three sea expenses $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtrly municipal water sales increased num-one%.
+qtr-three expense run rate $num-one million, higher than qtr-two of year-six, primarily reflecting temporary cost actions taken in response to pandemic.
+qtrly gross margin was num-one%, up num-two basis points year-over-year compared to qtr-three of year-five.
+qtr-three income tax provision of $num-one million, up num-one%.
+qtrly working capital as a percent of sales was num-one% relatively in line with prior two quarters.
+qtrly operating profit as a percent of sales was num-one% as of [date], year-six.
+qtr-four adjusted earnings per share $num-one.
+qtrly flow instrumentation sales declined num-one% year-over-year.
+qtr-three adjusted earnings per share $num-one from continuing operations.
+qtrly free cash flow of $num-one million, up num-two% from prior year and num-four% to net earnings.
+qtrly free cash flow of $num-one million, up from prior year comparable quarter of year-six.

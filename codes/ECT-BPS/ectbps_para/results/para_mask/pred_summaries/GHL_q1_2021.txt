@@ -1,0 +1,7 @@
+qtr-one earnings per share $num-three.
+qtr-four revenue rose num-one percent to $1.8 billion.
+qtrly total repurchase authorization of $num-one million.
+qtrly tax rate of num-one% after adjusting for impact of charges related to vesting of restricted stock.
+qtr-three adjusted earnings per share $num-one.
+qtr-four adjusted earnings per share $num-two.
+qtrly total share repurchases of $num-two million.

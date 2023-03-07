@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-two.
+qtr-three earnings per share $num-two.
+compname reports qtr-three earnings per share $num-one.
+qtrly expenses related to planned acquisition of sb one of $num-one per share.
+compname reports qtrly net credit losses of $num-one billion, or num-one%.
+qtrly net borrowings of $num-one billion, up num-one% from $2.0 billion in prior quarter.
+qtrly all-in cost of deposits decreased num-one basis points to $num-one billion.
+qtrly net interest margin decreased num-one basis points to num-two% as impact of lower rates and higher cash balances were partially offset by lower deposit costs and above-average growth in noninterest-bearing deposits.
+qtrly net recoveries as a percentage of average loans of one basis point compared to annualized net charge-offs of num-one basis points.
+compname reports num-two% increase in full-year year-six pipeline rate to $num-two billion.
+sees qtr-three year-five adjusted earnings per share to be approximately num-one% from continuing operations.
+qtrly net new originations of $num-two million versus refinitiv ibes estimate of $1.1 billion.
+compname announces provision for credit losses of $num-one million for qtr-three of year-six.
+qtrly total cost of deposits decreased num-one basis points to num-two basis points.
+qtr-three noninterest income decreased $num-one million to $2.4 billion as reductions in deposit and wealth fees resulting from consumer restrictions from covid mitigation efforts and volatile asset values were partially offset by greater bank loan life insurance benefits.
+compname reports qtr-three earnings per share of $num-two.

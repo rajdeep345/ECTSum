@@ -1,0 +1,16 @@
+sees qtr-one operating earnings per share $num-one to $2.00.
+qtr-four gaap earnings per share $num-one.
+sees fy year-six operating earnings per share $num-one to $2.00.
+qtr-four adjusted earnings per share $num-one.
+qtr-four operating earnings per share $num-two.
+qtr-four operating earnings per share $num-one excluding items.
+compname reports qtr-three earnings per share $num-one.
+compname reports qtr-three year-six adjusted residential usage growth of num-one% to num-two%.
+qtrly underrepresented employees increased num-one% compared to year-five.
+compname reports qtr-two year-six earnings per share $num-two.
+compname announces new $num-one billion share repurchase authorization and commits to achieve carbon neutrality by year-six.
+sees year-six capital expenditures of up to $num-one billion.
+compname reports third quarter year-six results and announces $num-one billion share repurchase program.
+qtrly operating costs were $num-one percent higher than year-four due to higher operating costs.
+qtrly total weather-adjusted sales decreased num-one%.
+compname reports qtr-three year-six results; $num-one million in rate base growth drove stronger results.

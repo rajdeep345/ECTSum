@@ -1,0 +1,16 @@
+qtr-three non-gaap earnings per share $num-two.
+qtr-two non-gaap earnings per share $num-one.
+sees fy year-six diluted earnings per share $num-one to $2.00.
+sees fy year-six revenue $num-one billion to $num-$num-two billion.
+compname reports num-one% growth for ncr stand-alone for qtr-three of year-six.
+qtrly total revenue increased num-one% to $num-one billion.
+qtr-two revenue rose num-three percent to $num-one billion.
+sees year-six adjusted earnings per share growth of num-one% to num-two%.
+sees qtr-three revenue $num-one billion to $1.num-two billion.
+sees fy adjusted ebitda to be between $num-one million and $2.0 million.
+compname reports qtr-one non-gaap earnings per share $num-two from continuing operations.
+qtr-three revenue rose num-two percent to $num-one million.
+qtrly software and services revenue represented num-one% of total revenue, down from num-two% in qtr-two of year-five.
+qtrly ncr stand-alone recurring revenue growth of num-one% versus qtr-two year-five.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $553.4 million.
+qtrly free cash flow of $num-one million.

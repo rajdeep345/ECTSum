@@ -1,0 +1,14 @@
+sees fy year-six gaap and non-gaap adjusted earnings per share $num-one to $num - two.
+qtr-three earnings per share $num-one.
+qtr-three revenue $num-two million versus refinitiv ibes estimate of $1.4 billion.
+qtr-three net investment income decreased num-one% to $num-two million.
+qtrly direct premiums earned were up num-one% compared to qtr-three of year-five.
+compname reports quarterly cash dividend of $num-one per share of common stock.
+compname announces num-one% increase in primary rate increases in florida over past num-two months.
+qtrly return on average equity of num-one%.
+qtrly net loss and lae ratio improvement of num-one%.
+compname announces new $num-one million share repurchase authorization.
+qtrly net expense ratio increased num-one% to $num-one billion.
+qtr-three direct premiums earned growth of num-one%.
+qtrly direct premiums earned basis increased num-one% versus qtr-three year-five.
+compname reports qtr-three earnings per share $num-two.

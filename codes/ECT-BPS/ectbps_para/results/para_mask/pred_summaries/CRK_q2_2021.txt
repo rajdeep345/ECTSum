@@ -1,0 +1,16 @@
+qtr-two adjusted earnings per share $num-two.
+qtr-two loss per share $num-two.
+qtr-three adjusted earnings per share $num-two excluding items.
+qtr-three operating cash flow per share $num-two.
+qtrly average daily production was num-one% higher than qtr-one of year-six.
+qtrly total production of num-one million a day, down num-two% from last year's second quarter.
+qtr-three adjusted earnings per share $num-two excluding items.
+qtrly oil prices averaged $num-one per barrel.
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $1.51 billion.
+plan to retire year-ten $num-one billion of bonds, probably sometime early next year.
+qtrly production averaged about num-one bcfe a day and was num-two% natural gas.
+qtrly realized gas prices averaged $num-two per mcf, up num-three% from qtr-two year-five.
+sees fy year-six cash g&a in range of $num-one to $2.00 per share.
+qtr-four loss per share $num-two.
+qtrly weighted average maturity of senior notes increased to num-one years, up from num-two years.
+qtrly oil and gas sales, including realized hedging losses, were $num-one million, up num-two% versus qtr-one of year-five.

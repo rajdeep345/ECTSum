@@ -1,0 +1,16 @@
+compname reports qtr-two earnings per share $num-two.
+qtr-one sales rose num-two percent to $num-one million.
+qtrly gross profit margin of num-one%, up num-two basis points year-over-year.
+qtr-three earnings per share $num-three.
+qtr-three sales fell num-one percent to $num-two million.
+qtr-three sales rose num-one percent to $num-two million.
+qtrly europe sales were negatively impacted by $num-one million of foreign currency translations, resulting from europe currencies weakening against the dollar.
+qtr-three sales rose num-one percent to $num-two million.
+qtrly wood construction products represented num-one% of total sales compared to num-two% in qtr-three of year-five.
+compname reports quarterly cash dividend of $num-one per share.
+qtrly europe sales decreased about num-one% in local currency.
+qtr-three operating expenses $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtrly research and development and engineering expenses increased num-one% to $num-two million, primarily due to increased personnel costs and cash profit sharing expense.
+qtr-three gross profit rose num-one percent to $num-two million.
+qtr-three cash on hand $num-one million versus $2.0 billion at [date].
+qtr-one cash flow from operations $num-one million versus refinitiv ibes estimate of $1.04 billion.

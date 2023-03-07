@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $2.00.
+qtr-two adjusted earnings per share $num-one.
+sees fy adjusted earnings per share $num-one to $num - two from continuing operations.
+qtr-three adjusted earnings per share $num-one excluding items.
+qtr-two earnings per share $num-one.
+compname reports qtr-three year-six results and announces quarterly dividend.
+qtr-three adjusted earnings per share $num-two.
+sees year-six revenues to be down num-one% to num-two% compared to last year.
+qtr-three bookings of $num-one million, up num-two% year-over-year.
+qtrly dso improvement of num-txtay compared to qtr-one of year-five of $num-two billion.
+sees fy year-six adjusted earnings per share $num-three% to $0.15.
+sees fy adjusted earnings per share $num-one million.
+compname reports qtr-three year-six results and announces $num-two billion share repurchase authorization.
+qtr-three bookings rose num-one percent to $num-two million.
+sees qtr-three sales up num-one% to num-two% excluding items.
+qtrly inventory, including contract assets and liabilities, decreased a modest $num-two million sequentially.

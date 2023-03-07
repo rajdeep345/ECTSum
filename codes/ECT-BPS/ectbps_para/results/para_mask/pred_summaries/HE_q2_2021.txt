@@ -1,0 +1,16 @@
+sees fy year-six adjusted earnings per share $num-one to $num-$num-two.
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-one.
+sees fy year-six consolidated earnings per share $num-one to $num - two per share.
+sees year-six capital expenditures in range of $num-one million to $2.0 million.
+qtr-one earnings per share $num-one.
+sees fy year-six rate base growth of num-one% to num-two%.
+sees year-seven utility earnings growth of num-one% to num-two% excluding potential upside from pims.
+sees year-six provision for credit losses of $num-one million to $2.0 billion.
+on [date], year-six, utility is on track to achieve savings to meet annual $num-one million commitment, which started returning to customers on [date].
+qtr-two earnings per share $num-one.
+qtr-two utility net income $num-one million versus refinitiv ibes estimate of $2.0 million.
+sees fy year-six bank dividends of about $num-one million to $2.0 million.
+qtrly net sales increased num-two% year-over-year.
+qtr-three adjusted earnings per share $num-one.
+qtr-three revenue rose num-one percent to $num-one million.

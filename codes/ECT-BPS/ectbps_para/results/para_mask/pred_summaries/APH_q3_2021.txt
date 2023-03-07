@@ -1,0 +1,16 @@
+qtr-three gaap earnings per share $num-one.
+qtr-three adjusted earnings per share $num-four.
+qtr-three adjusted earnings per share $num-one.
+sees qtr-four adjusted diluted earnings per share $num-four to $5.00.
+sees qtr-four adjusted earnings per share $num-four to $num - five.
+qtrly u.s. dollar sales increased num-one percent to $num-one billion.
+sees fy year-six sales growth of num-one% to num-two%.
+sees fy sales and adjusted earnings per share growth of num-one% to num-three%.
+qtrly sales increased num-one% to $1.7 billion.
+qtrly adjusted effective tax rate was num-one% on an adjusted basis.
+sees qtr-four sales up more than num-one% from prior year.
+qtr-three operating income $num-one million versus refinitiv ibes estimate of $178.5 million.
+qtrly sales were flat compared to prior year and declined num-one% organically.
+qtrly u.s. sales rose num-one percent to $1.55 billion.
+qtr-three adjusted earnings per share $num-two.
+qtrly net sales increased num-one% on an organic basis.

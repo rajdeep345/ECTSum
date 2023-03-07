@@ -1,0 +1,16 @@
+qtr-three gaap earnings per share $num-one.
+sees fy year-six gaap earnings per share $num-one to $2.00.
+sees fy adjusted earnings per share $num-one to $num - two.
+qtr-three adjusted earnings per share $num-two.
+sees fy year-six gaap revenue growth about num-one basis points higher than constant currency revenue growth.
+qtr-three gaap earnings per share $num-one.
+qtr-three revenue rose num-two percent to $num-one billion.
+qtrly txt-numc revenue was flat on a reported basis and down num-one% in constant currency terms.
+sees qtr-three constant currency revenue growth between num-one% and num-two%.
+sees fy gaap operating margin about num-one%.
+compname announces new $num-one million share repurchase authorization.
+qtrly revenue rose num-one percent to $num-one billion on a reported and constant currency basis.
+qtrly total outstanding share count was num-one million shares, of which $num-two million were repurchased.
+qtrly net sales increased num-one% versus prior year.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.87 billion.
+qtrly revenue in txt-numc segment decreased num-one% on a reported basis and flat on a constant currency basis.

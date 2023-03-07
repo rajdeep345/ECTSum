@@ -1,0 +1,16 @@
+qtr-four gaap earnings per share $num-two.
+qtr-four core earnings per share $num-two.
+qtr-four gaap book value per share $num-one.
+compname reports quarterly results and announces quarterly dividend of $num-two per share.
+qtr-four expenses $num-one million versus refinitiv ibes estimate of $1.35 billion.
+qtr-four earnings per share $num-two from continuing operations.
+qtrly book value of chimera was $num-one billion, up num-one% from $1.0 billion at [date].
+compname reports second quarter year-six results and announces $num-two billion share repurchase program.
+compname reports fourth quarter year-five results and announces num-one million share repurchase program.
+compname reports num-one% increase in quarterly dividend to $num-one per share.
+compname reports qtr-three earnings per share $num-txtxt-num.
+board of directors increased its previously announced $num-one million share repurchase authorization.
+qtrly economic net interest return on equity was num-one%.
+qtrly cost of debt for txt-num deal was num-one%, with an advance rate of num-two%.
+compname reports qtr-three year-six earnings per share of $num-two.
+qtrly economic return of num-one% versus year-five.

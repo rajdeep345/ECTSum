@@ -1,0 +1,16 @@
+qtr-three non-gaap earnings per share $num-one.
+qtr-three gaap earnings per share $num-one.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $452.7 million.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three device sales rose num-two percent to $num-one million.
+qtrly masks and other sales in europe, asia and other markets were num-one million, a decrease of num-two% over prior year.
+qtr-four revenue rose num-one percent to $1.8 billion.
+compname announces quarterly dividend of $num-one per share.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three device sales rose num-two percent to $num-one million.
+sees qtr-three adjusted earnings per share $num-one to $1.00 excluding items.
+qtr-three sales rose num-two percent to $num-one million.
+qtrly total revenue rose num-one percent to $num-two billion.
+qtrly software-as-a-service business grew num-one% compared to year-ago period.
+qtr-four revenue rose num-two percent to $num-one million.

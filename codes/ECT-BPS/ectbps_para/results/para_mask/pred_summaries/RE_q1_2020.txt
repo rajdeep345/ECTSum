@@ -1,0 +1,16 @@
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-one.
+qtr-one shareholders equity was $num-one billion, down from $1.06 billion at [date], year-four.
+qtr-one net investment income $num-one million versus refinitiv ibes estimate of $273.7 million.
+compname reports qtr-three adjusted earnings per share of $num-one.
+qtr-four loss ratio was num-one%, up from num-two%.
+qtr-one combined ratio of num-one% versus num-two%.
+qtrly combined ratio of num-one% excluding catastrophe losses and pandemic ibnr loss provision.
+compname reports qtr-four earnings per share $num-two.
+qtr-three operating income $num-one million versus refinitiv ibes estimate of $1.04 billion.
+qtr-one loss provision for covid pandemic $num-one million.
+qtr-one operating cash flow of $num-one million, compared to $7.0 million in same period of year-four.
+qtrly attritional loss ratio remained very steady at num-one%, essentially flat compared to num-two% for year-four.
+qtrly gross written premium growth of num-one% and num-two%.
+sees qtr-two year-six adjusted non-gaap earnings per share $num-one to $1.00.

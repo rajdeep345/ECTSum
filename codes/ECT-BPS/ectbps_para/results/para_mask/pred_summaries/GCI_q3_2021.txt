@@ -1,0 +1,16 @@
+qtr-two revenue $num-one million versus refinitiv ibes estimate of $1.04 billion.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.61 billion.
+qtr-three adjusted ebitda $num-one million versus refinitiv ibes estimate of $1.35 billion.
+qtr-four adjusted earnings per share $num-two.
+compname reports qtr-four year-six loss per share $num-one million.
+sees qtr-four adjusted ebitda margin to be in range of num-two% to num-three%.
+sees qtr-four revenue down num-three to num-four percent.
+qtr-three adjusted ebitda rose num-three percent to $num-one million.
+qtr-three core platform revenue rose num-one percent to $num-two million.
+qtrly same store operating revenues increased num-one% year-over-year.
+qtr-one loss per share $num-one.
+qtrly digital revenues of $num-one million, up num-two% on a same-store basis year over year.
+qtrly digital revenues increased num-three% to num-four%.
+compname announces new $num-one million term loan to repurchase outstanding junior debt or equity, including the existing convertible notes up to $1.0 billion.
+qtrly same store sales were down num-one% on a same-store basis.
+qtr-three cash balance $num-one million versus $1.7 billion at [date], year-five.

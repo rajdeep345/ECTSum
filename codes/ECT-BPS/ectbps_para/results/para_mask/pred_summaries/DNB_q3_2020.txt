@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+qtr-three loss per share $num-two.
+qtr-three adjusted earnings per share $num-two.
+sees qtr-three revenue $num-one million to $num - two million on constant currency basis.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted revenues rose num-two percent to $num-one million.
+sees year-six adjusted ebitda in range of $num-one million to $2.0 billion.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.32 billion.
+compname announces $num-one billion share repurchase program.
+sees fy year-six adjusted earnings per share $num-one million.
+qtr-three revenue fell num-one percent to $num-two million.
+compname reports qtr-two adjusted earnings per share $num-two.
+qtrly net impact of lower purchase accounting deferred revenue adjustment of $num-one million.
+qtr-three sales and marketing revenues $num-two million versus refinitiv ibes estimate of $1.55 billion.
+qtrly adjusted ebitda for total company was $num-one million, an increase of num-two%.
+qtrly worldwide network alliances revenue increased $num-two million, primarily due to higher demand in the u.k. market, driven by higher cross-border data sales of about $3.0 billion.

@@ -1,0 +1,16 @@
+sees fy year-six adjusted earnings per share $num-one to $2.00.
+qtr-four adjusted earnings per share $num-one.
+sees year-six adjusted earnings per share growth in range of num-one% to num-two%.
+sees year-six adjusted net revenue $num-one billion to $1.0 billion, up num-three% to num-four%.
+qtr-one adjusted earnings per share $num-one.
+qtr-four adjusted net revenue rose num-two percent to $num-one billion.
+qtr-three adjusted free cash flow per share $num-one.
+qtr-three adjusted operating margin of num-one% was a record num-two basis points improvement from prior year.
+qtr-three revenue rose num-two percent to $num-one billion.
+sees year-six merchant solutions adjusted net revenue growth to be about num-one%.
+qtrly payroll solutions growth of num-one% versus year-four.
+qtrly net income from continuing operations increased num-one percent.
+qtr-three adjusted net revenue $num-one million versus refinitiv ibes estimate of $553.7 million.
+qtr-three adjusted net revenue rose num-two percent to $num-one million.
+now expects adjusted operating margin expansion of about num-one basis points for year-six.
+qtrly capital expenditures of approximately $num-one million were in line with expectations.

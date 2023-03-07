@@ -1,0 +1,16 @@
+sees fy earnings per share $num-one to $num - two.
+sees qtr-one earnings per share $num-one to $num - two.
+qtr-four earnings per share $num-one.
+qtr-two orders of $num-one million, or num-two times sales, versus refinitiv ibes estimate of $1.7 billion.
+sees year-six estimated tax rate, excluding discrete items, to be approximately num-one% excluding items.
+qtrly operating margin increased num-one basis points to num-two%.
+qtrly instrumentation sales decreased num-one percent compared to qtr-four of year-five.
+qtrly gaap segment operating margin decreased due to lower sales as well as $num-one million in severance facility consolidation and other contract charges.
+sees fy year-six organic sales growth between num-one% and num-two%.
+qtrly revenue increased num-one% versus qtr-four year-five.
+qtrly u.s. defense sales decreased num-two%.
+qtrly sales of environmental instruments decreased num-one% compared to qtr-three year-five.
+qtr-four debt of $num-one million versus $1.7 billion at [date].
+qtrly teledyne earnings per share $num-one.
+qtrly net sales increased num-one% sequentially.
+qtrly free cash flow increased num-one% to $num-two million.

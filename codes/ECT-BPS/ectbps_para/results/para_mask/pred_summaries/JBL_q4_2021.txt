@@ -1,0 +1,16 @@
+sees fy year-six core earnings per share $num-one to $num - two.
+qtr-three core earnings per share $num-one.
+sees qtr-three gaap earnings per share $num-one to $2.00.
+qtr-three gaap earnings per share $num-two.
+sees qtr-one revenue $num-one billion to $num - two billion.
+qtr-four revenue rose num-two percent to $num-one billion.
+qtrly core operating margin of num-one%, up num-two basis points from prior year.
+sees fy year-seven core operating margin and gross profit margins to improve num-one basis points over prior year.
+qtr-four core operating income $num-one million versus refinitiv ibes estimate of $289.6 million.
+compname reports qtr-three core earnings per share $num-one.
+over num-one minutes or so, company will review our strong fourth quarter and fiscal year-six results, followed by yet another strong outlook for fiscal year -seven.
+sees qtr-three revenue $num-three billion to be up num-one% on a year-over-year basis.
+sees qtr-three gaap operating income in range of $num-one million to $num - two million.
+sees fy year-seven adjusted free cash flow of $num-one million.
+compname reports qtr-three earnings per share $num-two.
+qtr-three revenue $num-two billion versus refinitiv ibes estimate of $1.04 billion.

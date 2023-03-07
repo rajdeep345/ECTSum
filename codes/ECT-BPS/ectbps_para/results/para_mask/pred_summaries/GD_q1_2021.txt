@@ -1,0 +1,16 @@
+qtr-one revenue rose num-two percent to $num-one million.
+qtr-three operating earnings per share $num-one.
+compname reports qtr-three earnings per share $num-one.
+qtr-three sales rose num-two percent to $num-one billion.
+qtr-three operating earnings per share $num-one.
+qtr-three operating earnings per share $num-one.
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $1.04 billion.
+qtr-one cash balance of $num-one billion versus $1.4 billion.
+qtr-three operating earnings per share $num-one.
+qtrly operating earnings on defense side increased $num-one million.
+qtr-three free cash flow was negative $num-one million, including capital expenditures.
+qtr-three earnings per share $num-three.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $715.7 million.
+qtrly gulfstream service revenue increased num-one% year-over-year.
+qtrly book-to-bill of num-one.
+qtrly total backlog of $num-one billion, up num-one% from prior year.

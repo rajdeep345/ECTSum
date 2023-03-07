@@ -1,0 +1,16 @@
+sees qtr-one non-gaap earnings per share $num-one to $num - two.
+qtr-three non-gaap earnings per share $num-one.
+sees fy year-six consolidated revenues of $num-one billion to $1.8 billion.
+qtr-three revenue rose num-three percent to $num-one million.
+qtr-three non-gaap earnings per share $num-one.
+qtr-three revenue rose num-three percent to $num-two million.
+compname announces agreement to form a $num-one billion joint venture with essilorluxottica, which is expected to close soon.
+qtr-four revenue rose num-one percent to $num-three million.
+compname reports qtr-three earnings per share $num-three.
+sees fy year-six misight sales to be in range of num-one to num-two million.
+sees fy year-six free cash flow to approach num-one million.
+compname reports qtr-three earnings per share $num-two.
+qtr-three revenue rose num-two percent to $num-one million.
+qtr-three revenue rose num-one percent to $num-two million.
+compname reports qtr-three sales up num-one percent to $num-one billion.
+compname reports qtr-three revenue up num-two percent to $num-two billion.

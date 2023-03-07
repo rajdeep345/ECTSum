@@ -1,0 +1,16 @@
+sees qtr-one year-seven earnings per share $num-one to $2.00.
+sees fy year-seven adjusted earnings per share $num-one to $1.00.
+sees fy year-six adjusted earnings per share $num-one to $num - two.
+compname reports qtr-one earnings per share $num-one.
+qtr-three earnings per share $num-one.
+qtr-six earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two.
+sees fy year-six adjusted earnings per share $num-one.
+plan to invest approximately $num-one billion in our segment over next five years.
+qtr-three earnings per share $num-one from continuing operations.
+qtr-two earnings per share $num-one.
+sees fy year-six net sales down num-one% to num-two% from num-four%.
+board of directors increased quarterly cash dividend by num-one% to $num-one.
+sees fy year-six adjusted earnings per share growth of num-one% to num-two%.
+qtrly Wisconsin's unemployment rate down num-one% year-over-year.
+expect wisconsin public service utility to invest approximately $num-one million in this project and for it to qualify for production tax credits.

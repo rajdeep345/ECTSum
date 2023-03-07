@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-two.
+qtr-three earnings per share $num-three.
+qtr-one sales $num-one million versus refinitiv ibes estimate of $1.04 billion.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtrly consolidated net sales for businesses that operate within the commercial aerospace industry decreased by approximately num-one%.
+qtrly net sales increased num-one% and num-two%.
+qtr-three cash flow provided by operating activities was $num-one million, or num-two% of net income in fiscal year-five.
+compname reports qtr-two adjusted earnings per share $num-one.
+qtrly net debt of $num-one million compared to shareholders' equity of num-two% as of [date], year-four.
+qtrly net debt to ebitda ratio of num-one times, less than num-two as of [date], year-five.
+qtrly quarterly cash dividend of $num-one per share.
+compname announces $num-one billion share repurchase program.
+qtr-one earnings per share $num-two.
+expect to be accretive to earnings in first num-one months of year-six.
+qtrly earnings per share $num-one from continuing operations.
+compname announces $num-one billion share repurchase authorization of $3.7 billion of common stock.

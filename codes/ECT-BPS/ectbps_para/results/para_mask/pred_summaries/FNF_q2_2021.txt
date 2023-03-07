@@ -1,0 +1,16 @@
+qtr-two sales $num-one billion versus refinitiv ibes estimate of $1.55 billion.
+qtr-one adjusted earnings per share $num-one excluding items.
+qtr-two adjusted pre-tax title margin of num-three% versus num-four% year-five.
+qtr-two earnings per share $num-one.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.32 billion.
+compname reports qtr-three earnings per share $num-three.
+qtr-three adjusted earnings per share $num-two from continuing operations.
+qtr-two adjusted earnings per share $num-one.
+compname reports qtr-one earnings per share $num-one.
+qtr-two adjusted pre-tax title earnings per share $num-one.
+qtrly earnings per share $num-one from continuing operations.
+compname reports qtr-two earnings per share $num-three.
+qtr-one sales $num-one billion versus refinitiv ibes estimate of $1.2 billion.
+qtrly average daily purchase orders opened were up num-one% versus prior year.
+qtrly average daily purchase orders opened were up num-one% versus prior year.
+qtr-two revenue $num-one billion versus refinitiv ibes estimate of $1.06 billion.

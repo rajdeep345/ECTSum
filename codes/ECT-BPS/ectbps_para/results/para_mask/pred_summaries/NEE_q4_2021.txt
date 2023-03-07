@@ -1,0 +1,16 @@
+sees fy adjusted earnings per share $num-one to $num - two.
+sees year-nine adjusted earnings per share $num-one to $2.00 excluding items.
+qtr-four fpl earnings per share $num-two.
+sees fy adjusted earnings per share $num-one to $num - two.
+sees year-six adjusted earnings per share growth of about num-three% to num-four% on an adjusted basis.
+qtr-four adjusted earnings per share $num-one.
+qtr-four fpl earnings per share $num-two.
+sees fy year-eight adjusted earnings per share $num-one to $2.00.
+sees qtr-four year-seven ffo per common unit to be in range of $num-one to $2.00 per share.
+qtr-four gaap earnings per share $num-two.
+reaffirms year-seven distribution growth of num-one% to num-two%.
+qtr-four adjusted earnings per share $num-two.
+sees year-seven run rate adjusted ebitda of $num-one billion to $2.0 billion.
+qtr-four adjusted earnings per share $num-two.
+qtr-four earnings per share $num-two.
+sees fy year-six adjusted ebitda and cash available for distribution of $num-one billion to $3.0 billion.

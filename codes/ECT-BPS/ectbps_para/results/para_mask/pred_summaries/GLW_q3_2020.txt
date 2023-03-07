@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-two.
+qtr-three sales rose num-two percent to $num-one billion.
+qtr-three earnings per share $num-two.
+qtr-three sales rose num-one percent to $num-two billion.
+qtr-three sales rose num-two percent to $num-one million.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.35 billion.
+sees fy year-six free cash flow to be approximately $num-one million.
+qtrly automotive sales increased num-one% year-over-year.
+qtr-three sales rose num-one percent to $num-two million.
+qtr-three earnings per share $num-one.
+qtrly smartphone sales decreased num-two%.
+qtr-three earnings per share $num-three.
+qtr-three environmental technology sales rose num-two percent to $num-one million.
+qtrly same store sales increased num-one%.
+qtrly cash balance of $num-one billion versus $3.0 billion.
+qtrly specialty materials sales increased num-one% year-over-year.

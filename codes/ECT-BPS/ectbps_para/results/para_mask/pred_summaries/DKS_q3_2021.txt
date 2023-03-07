@@ -1,0 +1,16 @@
+qtr-two non-gaap earnings per share $num-one.
+sees fy non-gaap earnings per share $num-one to $num - two.
+qtr-four non-gaap earnings per share $num-three.
+qtr-three gaap earnings per share $num-one.
+sees fy year-six same store sales growth of over num-one%.
+qtr-three non-gaap earnings per share $num-one.
+qtrly same store sales increased num-one%.
+sees fy same store sales up num-one% to num-two%.
+sees fy year-six non-gaap ebitda $num-one billion to $1.00 billion.
+sees fy year-six same store sales to increase between num-one% and num-two%.
+for num-one months, company expects to repurchase approximately $num-one billion of its shares.
+qtr-three sales rose num-one percent to $num-two billion.
+compname reports qtr-three sales up num-one%.
+qtr-three gross profit $num-one billion versus refinitiv ibes estimate of $1.06 billion.
+qtrly non-gaap ebit increased $num-one million, or approximately num-two basis points as a percentage of net sales.
+compname reports qtr-three sales of $num-one billion, up num-one%.

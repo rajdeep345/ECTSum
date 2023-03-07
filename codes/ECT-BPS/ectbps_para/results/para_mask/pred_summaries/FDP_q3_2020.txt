@@ -1,0 +1,16 @@
+qtr-three earnings per share $num-one.
+qtr-three adjusted earnings per share $num-one.
+qtr-three adjusted earnings per share $num-two excluding items.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtr-three adjusted gross profit $num-one million versus $3.51 million.
+sees year-six total anticipated cash proceeds of approximately $num-three million.
+compname reports third quarter year-six results and announces num-one% reduction in carbon footprint.
+compname reports qtr-two year-six results; announces $num-one million share repurchase program.
+qtr-three sales $num-one million versus refinitiv ibes estimate of $1.02 billion.
+qtr-four adjusted gross profit margin of num-one% to $num-two million of net sales impacted by covid.
+compname reports qtr-three earnings per share $num-one.
+qtr-three sales $num-two million versus refinitiv ibes estimate of $1.8 billion.
+qtr-three adjusted operating earnings per share $num-two.
+qtr-three adjusted gross profit $num-one million versus $num-$num-two million.
+qtrly net sales of $num-one million.
+qtr-three sales $num-two million versus refinitiv ibes estimate of $821.8 million.

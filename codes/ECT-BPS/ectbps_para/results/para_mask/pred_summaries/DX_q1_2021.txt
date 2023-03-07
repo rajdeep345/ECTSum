@@ -1,0 +1,16 @@
+compname reports qtr-three earnings per share $num-one.
+qtr-three book value per share $num-one.
+qtr-three book value per common share $num-one.
+qtrly total economic return of num-one% on a quarterly basis.
+qtrly total shareholders' capital grew about $num-one million, or num-two% on a net common equity basis, as of [date], year-six.
+qtrly total shareholder return of num-one% compared to a year-five total return of 8.7%.
+qtrly core net operating income to common shareholders sequentially improved to $num-one per share, up from $2.51 per share in qtr-four.
+qtrly book value increase of about num-one% to $num-three per share.
+qtr-four adjusted earnings per share $num-one.
+qtrly u.s. repurchase rate in mid-teens, up num-one basis points.
+qtrly excess economic return was largely driven by hedging strategy, as we actively managed our position and timed our hedging adjustments as curve steepened during quarter, resulting in gains of $num-one million.
+sees year-six total economic return power of between num-one% and num-two%.
+qtr-three adjusted ebitda per share $num-one.
+compname reports qtrly core net operating income of $num-one billion.
+qtrly book value increase of num-one%.
+compname reports qtr-three earnings per share $num-two.

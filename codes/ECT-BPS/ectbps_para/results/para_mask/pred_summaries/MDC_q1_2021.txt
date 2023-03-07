@@ -1,0 +1,16 @@
+qtr-one earnings per share $num-two.
+sees qtr-two home deliveries between num-one and num-two units.
+qtr-three earnings per share $num-two.
+sees fy year-six unit closings of between num-one and num-two.
+qtrly average selling price of homes delivered increased num-one% to about $num-two per home.
+qtrly home sales increased num-one%.
+sees qtr-two average selling price for year-six unit deliveries to approximate $num-one per unit.
+sees fy year-six effective tax rate of num-one% excluding discrete items.
+qtrly unit orders increased num-one% year-over-year.
+compname reports qtr-one earnings per share $num-one.
+qtr-one earnings per share $num-two.
+compname reports qtr-one year-five financial services pre-tax income of $num-one million.
+qtrly total lot supply of num-one lots, up num-two% from prior-year.
+qtrly net debt-to-capital ratio was num-two%.
+qtrly homes in backlog increased num-two% to num-one.
+qtr-four sales $num-one million versus refinitiv ibes estimate of $1.06 billion.

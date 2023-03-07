@@ -1,0 +1,16 @@
+qtr-two earnings per share $num-two.
+qtr-three tangible book value per share $num-one.
+qtr-three earnings per share $num-two.
+qtr-three tangible book value per share $num-three.
+qtr-three tangible book value per share $num-two.
+qtrly tangible book value per share increased at a rate significantly faster than our peers as it increased three times that of peers over the last num-one years.
+qtr-three revenue $num-one billion versus refinitiv ibes estimate of $1.12 billion.
+qtr-three loan growth of $num-one billion to $1.8 billion; qtr-four deposits of $3.4 billion.
+qtr-four earnings per share $num-four.
+qtr-three operating pre-provision net revenue $num-one million versus refinitiv ibes estimate of $178.7 million.
+compname reports qtr-three revenue rose num-one percent to $num-one billion.
+qtrly net loan growth of $num-one million versus refinitiv ibes estimate of $135.7 million.
+qtrly allowance for credit losses rose $num-one million to $num-$num-three million.
+compname reports qtr-two provision for credit losses of $num-one million.
+qtrly loan to deposit ratio fell to num-one% from num-two% in qtr-one.
+qtr-one net interest income rose num-one% to $num-three million.

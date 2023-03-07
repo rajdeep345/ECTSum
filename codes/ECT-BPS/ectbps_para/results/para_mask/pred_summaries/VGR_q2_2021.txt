@@ -1,0 +1,16 @@
+qtr-four adjusted earnings per share $num-two.
+qtr-two earnings per share $num-two.
+qtr-four adjusted earnings per share $num-two.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $num-$num-two million.
+qtrly cash and cash equivalents of $num-one million compared to $1.9 billion at [date], year-five.
+qtr-three revenue $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtr-three adjusted ebitda $num-one million versus refinitiv ibes estimate of $1.06 billion.
+qtr-four gross margin increased to $num-one million, up from $1.0 million for same period in year-five.
+qtrly net income from continuing operations was $num-one million, or $1.06 per diluted share.
+qtr-three revenue rose num-one percent to $num-one million.
+qtr-one revenue $num-one million versus refinitiv ibes estimate of $1.13 billion.
+qtr-two revenue rose to $num-one million, up from $2.2 billion in qtr-three of year-five.
+qtr-three earnings per share $num-two.
+compname reports qtr-three earnings per share $num-one.
+compname reports qtr-one results for last num-one months of year-six.
+qtr-three adjusted ebitda was $num-one million, up from $2.2 million in qtr-two of year-five.
