@@ -1,0 +1,16 @@
+eps was $num-one for the quarter.
+adjusted earnings per share was $num-one for the quarter.
+gaap earnings per share of $num-one versus $num-two last year and adjusted earnings per share of $num-three versus $num-four in year-three.
+vishay reported revenues for qtr-four of num-one million.
+adjusted earnings per share was $num-one.
+excluding exchange rate effects, sales in qtr-four were down by num-one million or num-two% versus prior quarter and down versus prior year by num-three million or by num-four%.
+as announced in july, we are implementing global cost reduction programs intended to lower costs by approximately $num-one million annually when fully implemented and to provide management rejuvenation.
+reconciling versus prior quarter, adjusted operating income quarter four, year-four, compared to adjusted operating income for prior quarter based on num-one million lower sales are num-two million, excluding exchange rate impacts, adjusted operating income decreased by num-two million to num-three million in qtr-four year-four from num-four million in qtr-three year-four.
+for the first quarter, we guide to a sales range of num-one to num-two million at a gross margin of num-three% of sales at the midpoint.
+book to bill in the fourth quarter recovered to num-one from num-two in the third quarter, mainly driven by distribution.
+sales in the year year-four were num-one billion versus num-two billion in year-three, a decrease of num-three%, excluding exchange rate effects.
+we achieved sales of num-one million versus $num-two million in prior quarter and versus num-three million in prior year.
+sales in qtr-four were num-one million, down by num-two million or by num-three% versus prior quarter, and down by num-four billion or by num-five% versus prior year, excluding exchange rate impacts.
+vishay in year-four achieved a gross margin of num-one% of sales versus num-two% in year-three.
+adjusted earnings per share was $num-one.
+gaap operating margin of num-one% of sales, adjusted operating margin of num-two% of sales, gaap earnings per share of $num-three and adjusted earnings per share of $num-four.

@@ -1,0 +1,16 @@
+gaap earnings per share of $num-one compared to $num-two in the year ago quarter.
+and we now expect full year earnings per share between $num-one and $num-two per share, up from our prior guide of $num-three to $num-four per share.
+we grew revenue num-one%, earnings per share num-two% and expanded operating margins by num-three basis additionally, we ended the quarter with a record qtr-three backlog of $num-four billion, up num-five% from last year.
+non-gaap earnings per share of $num-one compared to $num-two last year, primarily due to higher sales, higher gross margin and improved operating leverage again in both segments.
+non-gaap operating earnings of $num-one million, up $num-two million or num-three% from the year ago quarter and non-gaap operating margins of num-four% of sales, up from num-five%, driven by higher sales, higher gross margins and improved operating leverage in both of our segments.
+we now expect full year sales to be up num-one% to num-two% compared to prior guide of num-three% to num-one%.
+gaap operating earnings of $num-one million and operating margins of num-two% compared to num-three% in the year ago quarter.
+qtr-three products and systems integration sales were $num-one billion, up num-two%, driven by strong growth in lmr and video security.
+in lmr, revenue was up num-one% while navigating a very challenging supply chain environment and video security and access control revenue was up num-two%, driven by strong broad-based demand for both our fixed and mobile video offerings.
+qtr-three north america revenue was $num-one billion, up num-two% and growth in lmr, video security and command center software.
+revenue from acquisitions in the quarter was $num-one million.
+our qtr-three results included revenue of $num-one billion, up num-two%, including $num-three million from acquisitions and $num-four million from favorable currency rates.
+operating earnings were $num-one million or num-two% of sales, up from num-three% in the year prior on higher sales, higher gross margins and improved operating leverage.
+and subsequent to quarter end, we acquired envysion, a leader in enterprise video security and business analytics for $num-one million net of cash.
+qtr-three revenue was $num-one million, up num-two% from last year, driven by growth in lmr services, video security and command center software.
+international qtr-three revenue was $num-one million, up num-two%, also driven by lmr, video security and command center software.

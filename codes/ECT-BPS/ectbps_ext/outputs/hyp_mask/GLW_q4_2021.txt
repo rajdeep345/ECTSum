@@ -1,0 +1,16 @@
+we expect sales to be in the range of $num-one billion to $num-two billion and earnings per share in the range of $num-three to $num-four.
+we generated earnings per share of $num-one, up num-two% year over year.
+we generated earnings per share of $num-one and free cash flow of $num-two million.
+for the full year, sales were $num-one billion, up num-two% year over year.
+for the fourth quarter, sales were $num-one billion, up num-two% year over year.
+in year-seven, we expect to increase our dividend per share by approximately $num-one.
+for the full year, we expect sales of approximately $num-one billion and profit to grow faster than sales.
+for us, this increased gaap earnings in qtr-four by $num-one million.
+in the fourth quarter, sales were $num-one million, up num-two% year over year, and net income was $num-three million, up num-four% year over year.
+we've received more than $num-one billion in cash under our hedge contracts since their inception more than five years ago.
+and we expect to continue opportunistic share repurchases, building on the num-one% of outstanding shares we repurchased in year-six.
+since year-four, we have grown sales by num-one% and earnings per share by num-two%.
+for the full year, sales were $num-one billion, up num-two% year over year.
+for the full year, sales increased num-one% and earnings per share was up num-two%.
+fourth-quarter sales were up num-one% sequentially, exceeding $num-two billion.
+fourth-quarter net income was $num-one million, up num-two% year over year.
