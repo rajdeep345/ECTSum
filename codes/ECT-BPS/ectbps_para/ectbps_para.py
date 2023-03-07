@@ -47,7 +47,7 @@ model_args.evaluate_during_training_verbose = True
 model_args.evaluate_each_epoch = True
 model_args.fp16 = False
 model_args.gradient_accumulation_steps = 2
-model_args.learning_rate = 2e-5
+model_args.learning_rate = 1e-5
 model_args.logging_steps = 50
 model_args.loss_type = "eval_loss"
 model_args.manual_seed = 43
@@ -61,7 +61,7 @@ model_args.save_eval_checkpoints = False
 model_args.save_model_every_epoch = True
 model_args.save_optimizer_and_scheduler = True
 model_args.save_steps = -1
-model_args.train_batch_size = 16
+model_args.train_batch_size = 8
 model_args.use_multiprocessing = False
 
 model_args.do_sample = True
