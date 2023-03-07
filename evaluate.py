@@ -45,15 +45,15 @@ def getPostProcessed(extLines, predLines):
 
 
 def evaluateExtAbs(use_tgt_len):
-	docPath = f'data/final/test/ects'
-	summaryPath = f'data/final/test/gt_summaries'
+	docPath = 'data/final/test/ects'
+	summaryPath = 'data/final/test/gt_summaries'
 	extOutPath = 'codes/ECT-BPS/ectbps_ext/outputs/hyp'
-	predSummPath = f"codes/ECT-BPS/ectbps_para/results/para/pred_summaries"
+	predSummPath = 'codes/ECT-BPS/ectbps_para/results/para/pred_summaries'
 	if use_tgt_len:
-		predSummUniqueLinesPath = f"codes/ECT-BPS/ectbps_para/results/para/final_summaries_tgt"
+		predSummUniqueLinesPath = 'codes/ECT-BPS/ectbps_para/results/para/final_summaries_tgt'
 		res_fname = 'results_tgt'
 	else:
-		predSummUniqueLinesPath = f"codes/ECT-BPS/ectbps_para/results/para/final_summaries"
+		predSummUniqueLinesPath = 'codes/ECT-BPS/ectbps_para/results/para/final_summaries'
 		res_fname = 'results'
 	if not os.path.isdir(predSummUniqueLinesPath):
 		os.makedirs(predSummUniqueLinesPath)
@@ -98,7 +98,7 @@ def evaluateExtAbs(use_tgt_len):
 			choice = min(len(summ_lines), 8)
 		else:
 			# choice = 4
-			_len = int(len(doc_lines)/10)
+			_len = int(len(doc_lines_num)/10)
 			choice = max(2, min(_len, 8))
 			# choice = min(_len, 8)
 			# choice = random.randint(1, 8)

@@ -4,5 +4,3 @@ compname reports q3 earnings per share $0.12.
 qtrly tangible book value per share $18.59.
 q3 revenue $56 million versus refinitiv ibes estimate of $52 million.
 qtrly core revenues $135 million versus refinitiv ibes estimate of $135.5 million.
-compname reports q3 earnings per share of $0.51.
-compname reports q3 loss per share $133 million.

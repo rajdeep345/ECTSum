@@ -1,7 +1,3 @@
 q3 gaap loss per share $3.21.
 qtrly book value per share $10.40.
 qtrly gaap loss per share $4.43.
-compname reports q3 adjusted earnings per share $3.3.
-q4 adjusted loss per share $1.25.
-qtrly adjusted net loss per share $0.21.
-compname reports q3 earnings per share $9.12.

@@ -2,7 +2,3 @@ q4 gaap earnings per share $0.49.
 q4 core earnings per share $0.29.
 q4 gaap book value per share $12.36.
 compname reports q3 adjusted earnings per share of $3.78.
-compname reports q4 expenses of $18 million excluding servicing fees and transaction expenses.
-qtrly net sales of $552 million, or $1.5 billion, were offset by $91 million in subordinated notes.
-qtrly book value of chimera increased nearly 4% to $4.7 billion.
-compname reports q4 earnings per share of $0.51.
