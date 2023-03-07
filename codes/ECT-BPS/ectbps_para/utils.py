@@ -169,8 +169,8 @@ def getData(tokenizer, dataPath, MAX_DOC_LEN):
 
 
 def getParaphraseData(dataPath):
-	documentPath = f'{dataPath}/ects'
-	summaryPath = f'{dataPath}/gt_summaries'
+	documentPath = f'{dataPath}/source'
+	summaryPath = f'{dataPath}/target'
 	dataset = {'input_text':[], 'target_text':[]}
 	count = 0
 	blank_doc_count = 0

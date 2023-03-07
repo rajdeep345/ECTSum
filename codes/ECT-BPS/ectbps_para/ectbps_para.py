@@ -22,8 +22,10 @@ logging.basicConfig(level=logging.INFO)
 transformers_logger = logging.getLogger("t5_paraphrase")
 transformers_logger.setLevel(logging.ERROR)
 
-exp = "exp1"
-dataPath = f"data/final/para_mask/{exp}"
+# CURRENT DIRECTORY = ECTSum/codes/ECT-BPS
+
+data_type = 'para' # or 'para_mask'
+dataPath = f'ectbps_para/data/{data_type}'
 train_df = getParaphraseData(f'{dataPath}/train')
 train_df = train_df[["prefix", "input_text", "target_text"]]
 train_df = train_df.dropna()
@@ -38,7 +40,7 @@ val_df = val_df.dropna()
 #################################################################################################
 
 model_args = Seq2SeqArgs()
-model_args.best_model_dir = f"results/ectbps/final/{exp}_mask/best_model"
+model_args.best_model_dir = f'ectbps_para/results/{data_type}/best_model'
 model_args.eval_batch_size = 8
 model_args.evaluate_during_training = True
 model_args.evaluate_during_training_verbose = True
@@ -51,7 +53,7 @@ model_args.loss_type = "eval_loss"
 model_args.manual_seed = 43
 model_args.max_seq_length = 128
 model_args.num_train_epochs = 3
-model_args.output_dir = f"results/ectbps/final/{exp}_mask"
+model_args.output_dir = f"ectbps_para/results/{data_type}"
 model_args.overwrite_output_dir = True
 model_args.reprocess_input_data = True
 model_args.save_best_model = True
@@ -75,13 +77,13 @@ model_args.top_p = 0.95
 # DEFINE MODEL
 #################################################################################################
 
-model_name = 'ramsrigouthamg/t5_paraphraser'
+# model_name = 'ramsrigouthamg/t5_paraphraser'
+model_name = 'eugenesiow/bart-paraphrase'
 model = Seq2SeqModel(
-    encoder_decoder_type="t5",
+    encoder_decoder_type="bart",
     encoder_decoder_name=model_name,
     args=model_args,
 )
-
 
 
 #################################################################################################
@@ -96,14 +98,14 @@ model.train_model(train_df, eval_data=val_df)
 # EVALUATION
 #################################################################################################
 
-outputPath = f'results/ectbps/final/sr/exp11_mask'
+outputPath = f'ectbps_para/results/{data_type}'
 if not os.path.isdir(outputPath):
 	os.makedirs(outputPath)
 predSummPath = f'{outputPath}/pred_summaries'
 if not os.path.isdir(predSummPath):
 	os.makedirs(predSummPath)
 
-documentPath = 'ectbps_ext/outputs/final/exp1/hyp_mask'
+documentPath = 'ectbps_ext/outputs/hyp' if data_type == 'para' else 'ectbps_ext/outputs/hyp_mask'
 testFiles = [file for file in os.listdir(documentPath)]
 for file in sorted(testFiles):
 	if os.stat(f'{documentPath}/{file}').st_size == 0:

@@ -58,4 +58,4 @@ Processed data is already uploaded at this location.
 <li> 30th November 2022 - Codes and Instructions released for training the Extractive Module of ECT-BPS </li>
 <li> 3rd March 2023 - Added the Prediction Pipeline for the Extractive module. </li>
 <li> 5th March 2023 - Codes released to prepare the data for training the Paraphrasing Module </li>
-
+<li> 7th March 2023 - Codes released to train the Paraphrasing Module of ECT-BPS</li>
